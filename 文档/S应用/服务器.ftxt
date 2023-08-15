@@ -1,0 +1,974 @@
+### 节点
+地址, 的, 服务器, 目录, 的, 的, 节点数目统计, 20210803, 的, 的, AWS, 的, AWS ssh, 的, AWS info, 20210804, 的, 的, 添加ssh key, 的, 设置git, 的, dropbox问题, 的, 网页, 的, 访问原理, 的, Apache和BaseHTTPSServer, 的, python服务器例子, P函数, 的, 地址, 的, IP含义, 20210915, 的, 20211204, 的, 的, 测试python服务器, 的, 单次request, P函数, 的, 打开服务器, P函数, 的, 网页样本, html, 的, 测试, 的, 测试代码, 的, html页面, 的, 保存, 的, 初次运行, 的, 挂载页面, 的, 接受POST, 的, 参考_POST, 的, 笔记, 的, 结构语言服务器方案, 手, 的, 的, 简单回应, 的, 接受回答, 的, 响应按键, 的, 按键页面, 的, 测试按键, 的, 地址, 创造日期, 的, 作者, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, #, 6#7, 2#10, #, 2#12, #, 2#14, #, #, 6#15, 2#18, #, 2#20, #, 2#22, #, 2#24, #, 24#26, #, 24#28, #, 24#30, #, 30#, 30#33, #, 2#35, #, #, 6#36, #, 6#38, 24#41, #, 41#43, #, 43#, 43#46, #, 46#, 43#49, #, 49#, 35#52, #, 2#54, #, 54#56, #, 54#58, #, 54#60, #, 54#62, #, 54#64, #, 54#66, #, 2#68, #, 68#70, #, #64, del#71, 64#74, #, 64#76, #, 54#78, #, 78#80, #, 78#82, #, 78#84, #, #, 78#85, #, 78#87, 
+### 内容
+#0, 15:
+文档\S应用\服务器.ftxt
+## end
+#2, 148:
++[返回目录](,服务器)
+地址::文档\S应用\服务器.ftxt
+
++[打开文件夹]"文档/S应用"
+Nini, 打开程序交互(文件)
++[修改天使]
+
+
+笔记:...
+网页:...
+IP含义:...
+(这里有访问局域服务器的例子)
+
+测试代码:...
+运行指令"hostname -I"
+
+
+
+## end
+#3, 47:
+服务器:...
+创建于 20210803
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#7, 2:
+15
+## end
+#10, 101:
+https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Instances:instanceState=running
+## end
+#12, 118:
+https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#ConnectToInstance:instanceId=i-0e626b26a6d01e1ca
+## end
+#14, 118:
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connection-prereqs.html#connection-prereqs-get-info-about-instance
+## end
+#15, 2:
+34
+## end
+#18, 127:
+https://unix.stackexchange.com/questions/48863/ssh-add-complains-could-not-open-a-connection-to-your-authentication-agent/48868
+## end
+#20, 87:
+https://stackoverflow.com/questions/13036064/git-syncing-a-github-repo-with-a-local-one
+## end
+#22, 127:
+https://www.dropboxforum.com/t5/Dropbox-installs-integrations/Install-headless-on-Linux-20-04-RUST-PANICKING/td-p/532886/page/2
+## end
+#24, 416:
++[返回目录](,网页)
+
+访问原理::https://developer.aliyun.com/article/548422
++[打开网页](,访问原理)
+
+Apache和Nginx. 
+就算没有域名, 只有IP应该也是可以访问到服务器的. 
+我是需要一个能解析url的东西, 这部分我是不会写的. 
+
+Apache和BaseHTTPSServer::https://stackoverflow.com/questions/5693741/whats-difference-between-a-simple-webserver-and-apache-server
++[打开网页](,Apache和BaseHTTPSServer)
+Apache和BaseHTTPSServer应该是差不多等级的东西. Apache是更加成熟的工业级的产品. 
+
+
+
+python服务器例子(P函数):...
+测试python服务器:...
+
+
+
+
+
+## end
+#26, 43:
+https://developer.aliyun.com/article/548422
+## end
+#28, 105:
+https://stackoverflow.com/questions/5693741/whats-difference-between-a-simple-webserver-and-apache-server
+## end
+#30, 1073:
+"""
++[返回目录](,python服务器例子)
+地址::output\python_server.py
++[保存文本](,python服务器例子)
++[P函数](,python服务器例子)
+
+"""
+
+# Python 3 server example
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
+hostName = "localhost"
+serverPort = 8080
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+        self.wfile.write(bytes("<html><head><title>https://pythonbasics.org</title></head>", "utf-8"))
+        self.wfile.write(bytes("<p>Request: %s</p>" % self.path, "utf-8"))
+        self.wfile.write(bytes("<body>", "utf-8"))
+        self.wfile.write(bytes("<p>This is an example web server.</p>", "utf-8"))
+        self.wfile.write(bytes("</body></html>", "utf-8"))
+
+     
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+# try:
+#     webServer.serve_forever()
+# except KeyboardInterrupt:
+#     pass
+
+webServer.handle_request()
+
+# webServer.server_close()
+print("Server stopped.")
+## end
+#33, 23:
+output\python_server.py
+## end
+#35, 694:
+呃, iPhone和电脑可能只能share音频... 可能不能用蓝牙的方案. 
+试一下wifi的方案? 用电脑的wifi组一个局域网? 大概是把电脑设置成为一个local server. 
+
+逻辑是:
+1.用python设置一个local server, 直接在网页上通过IP找到电脑; 
+2.对于手机就是打开一个网页进行控制; 
+3.对于电脑, 就是跑一个后台程序控制QR的应用程序. 
+
+接下来的问题是, 怎么把手机连到电脑上. 问题的关键是怎么找到电脑的IP. 
+IPv4逻辑::https://www.quora.com/How-does-each-computer-in-the-world-have-a-unique-IP-address
++[打开网页](,IPv4逻辑)
+NAT::https://www.comptia.org/content/guides/what-is-network-address-translation
+IP::https://www.h3xed.com/web-and-internet/whats-the-difference-between-external-and-local-ip-addresses
++[打开网页](,IP)
+
+所以保留的内网IP是, 192.168.1.X
+X=1是路由器, X随连接设备的增多依次增多. 
+所以当手机连到电脑上的时候, 用192.168.1.1就可以访问电脑了. 试一下~
+
+运行指令"hostname -I"
+运行指令"python3 -m http.server 8080"
+
+测试:...
+
+
+## end
+#36, 2:
+38
+## end
+#38, 2:
+52
+## end
+#41, 43:
++[返回目录](,测试python服务器)
+
+单次request(P函数):...
+
+
+## end
+#43, 211:
+"""
++[返回目录](,单次request)
++[P函数](,单次request)
+打开服务器(P函数):...
++[新建阅读窗口](,打开服务器)
+网页样本(html):...
++[H函数](,网页样本)
+
+"""
+
+webServer.handle_request()
+print(webServer.path)
+webServer.server_close()
+# print("Server stopped.")
+## end
+#46, 1213:
+"""
+记住"Python"
++[返回目录](,打开服务器)
++[P函数](,打开服务器)
+
+"""
+
+# Python 3 server example
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
+hostName = "localhost"
+serverPort = 8080
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+        print(self.path)
+        self.wfile.write(bytes("<html><head><title>https://pythonbasics.org</title></head>", "utf-8"))
+        self.wfile.write(bytes("<p>Request: %s</p>" % self.path, "utf-8"))
+        self.wfile.write(bytes("<body>", "utf-8"))
+        self.wfile.write(bytes("<p>This is an example web server.</p>", "utf-8"))
+        self.wfile.write(bytes("</body></html>", "utf-8"))
+
+    def do_POST(self):
+        content_length = int(self.headers['Content-Length'])
+        body = self.rfile.read(content_length)
+        print(body,content_length)
+
+     
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+# try:
+#     webServer.serve_forever()
+# except KeyboardInterrupt:
+#     pass
+
+webServer.handle_request()
+
+webServer.server_close()
+#print("Server stopped.")
+## end
+#49, 381:
+<!--
++[H函数](,网页样本)
+-->
+
+<form action="http://localhost:8080/a" method="POST">
+  <div>
+    <label for="say">What greeting do you want to say?</label>
+    <input name="say" id="say" value="Hi">
+  </div>
+  <div>
+    <label for="to">Who do you want to say it to?</label>
+    <input name="to" id="to" value="Mom">
+  </div>
+  <div>
+    <button>Send my greetings</button>
+  </div>
+</form>
+## end
+#52, 1050:
+"""
++[P函数](,测试)
+
+"""
+
+# Python 3 server example
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
+# hostName = "localhost"
+hostName = ""
+serverPort = 8080
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+        self.wfile.write(bytes("<html><head><title>https://pythonbasics.org</title></head>", "utf-8"))
+        self.wfile.write(bytes("<p>Request: %s</p>" % self.path, "utf-8"))
+        self.wfile.write(bytes("<body>", "utf-8"))
+        self.wfile.write(bytes("<p>This is an example web server.</p>", "utf-8"))
+        self.wfile.write(bytes("</body></html>", "utf-8"))
+
+     
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+# try:
+#     webServer.serve_forever()
+# except KeyboardInterrupt:
+#     pass
+
+output=webServer.handle_request()
+print(output)
+
+webServer.server_close()
+print("Server stopped.")
+
+
+"""
++[P函数](,测试)
+
+"""
+## end
+#54, 1899:
+"""
++[P函数](,测试代码)
+html页面:...
++[H函数](,html页面)
+
+参考_POST::https://gist.github.com/scimad/ae0196afc0bade2ae39d604225084507
+
+初次运行:...
+挂载页面:...
+(SimpleHTTPServer大概没办法相应POST. 肯定没办法修改html内容)
+接受POST:...
+响应按键:....
++[新建阅读窗口](,接受POST)
+
+"""
+
+# Python 3 server example
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
+# hostName = "localhost"
+hostName = ""
+serverPort = 8000
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+
+        f=open("tmp.html")
+        self.wfile.write(bytes(f.read(), "utf-8"))
+
+    def do_POST(self):
+        self.send_response(200)
+        self.send_header('Content-type','text/html')
+        self.end_headers()
+
+        content_length = int(self.headers['Content-Length'])
+        post_data_bytes = self.rfile.read(content_length)
+        post_data_str = post_data_bytes.decode("UTF-8")
+
+        post_data_dict=get_data_from_POST(post_data_str)
+        print(post_data_dict)
+
+        message = "Hello, World! Here is a POST response"
+        self.wfile.write(bytes(message, "utf8"))
+        message = "I'm %s. You said '%s' to me."%(post_data_dict['to'],post_data_dict['say'])
+        self.wfile.write(bytes(message, "utf8"))
+
+     
+def get_data_from_POST(post_data_str):
+    list_of_item = post_data_str.split('&')
+    post_data_dict={}
+    for item_str in list_of_item:
+        var_str,val_str=item_str.split('=')
+        post_data_dict[var_str]=val_str
+    return post_data_dict
+
+
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+try:
+    webServer.serve_forever()
+except KeyboardInterrupt:
+    pass
+
+output=webServer.handle_request()
+print(output)
+
+webServer.server_close()
+print("Server stopped.")
+
+
+
+
+"""
+f=open("tmp.html")
+print(f.read())
++[P函数](,测试代码)
+
+"""
+## end
+#56, 383:
+<!--
++[H函数](,html页面)
+action="http://localhost:8000/a" 
+-->
+
+<form method="POST">
+  <div>
+    <label for="say">What greeting do you want to say?</label>
+    <input name="say" id="say" value="Hi">
+  </div>
+  <div>
+    <label for="to">Who do you want to say it to?</label>
+    <input name="to" id="to" value="ZZ">
+  </div>
+  <div>
+    <button>Send my greetings</button>
+  </div>
+</form>
+## end
+#60, 1073:
+"""
++[P函数](,测试代码)
+html页面:...
+
+初次运行:...
+
+"""
+
+# Python 3 server example
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
+# hostName = "localhost"
+hostName = ""
+serverPort = 8080
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+        self.wfile.write(bytes("<html><head><title>https://pythonbasics.org</title></head>", "utf-8"))
+        self.wfile.write(bytes("<p>Request: %s</p>" % self.path, "utf-8"))
+        self.wfile.write(bytes("<body>", "utf-8"))
+        self.wfile.write(bytes("<p>This is an example web server.</p>", "utf-8"))
+        self.wfile.write(bytes("</body></html>", "utf-8"))
+
+     
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+# try:
+#     webServer.serve_forever()
+# except KeyboardInterrupt:
+#     pass
+
+output=webServer.handle_request()
+print(output)
+
+webServer.server_close()
+print("Server stopped.")
+
+
+"""
++[P函数](,测试)
+
+"""
+## end
+#62, 755:
+"""
++[P函数](,测试代码)
+html页面:...
+
+初次运行:...
+挂载页面:...
+
+"""
+
+# Python 3 server example
+from http.server import SimpleHTTPRequestHandler, HTTPServer
+import time
+
+hostName = "localhost"
+# hostName = ""
+serverPort = 8000
+
+class MyServer(SimpleHTTPRequestHandler):
+    def do_GET(self):
+#         if self.path == '/':
+#             self.path = '/your_file.html'
+        self.path = 'tmp.html'
+        return SimpleHTTPRequestHandler.do_GET(self)
+
+     
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+try:
+    webServer.serve_forever()
+except KeyboardInterrupt:
+    pass
+
+output=webServer.handle_request()
+print(output)
+
+webServer.server_close()
+print("Server stopped.")
+
+"""
++[P函数](,测试代码)
+
+"""
+## end
+#64, 1724:
+"""
++[P函数](,接受POST)
+
+简单回应:...
+接受回答:...
+
+"""
+
+# Python 3 server example
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
+# hostName = "localhost"
+hostName = ""
+serverPort = 8000
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+
+        f=open("tmp.html")
+        self.wfile.write(bytes(f.read(), "utf-8"))
+
+    def do_POST(self):
+        self.send_response(200)
+        self.send_header('Content-type','text/html')
+        self.end_headers()
+
+        content_length = int(self.headers['Content-Length'])
+        post_data_bytes = self.rfile.read(content_length)
+        post_data_str = post_data_bytes.decode("UTF-8")
+
+        post_data_dict=get_data_from_POST(post_data_str)
+        print(post_data_dict)
+
+        message = "Hello, World! Here is a POST response"
+        self.wfile.write(bytes(message, "utf8"))
+        message = "I'm %s. You said '%s' to me."%(post_data_dict['to'],post_data_dict['say'])
+        self.wfile.write(bytes(message, "utf8"))
+
+     
+
+     
+def get_data_from_POST(post_data_str):
+    list_of_item = post_data_str.split('&')
+    post_data_dict={}
+    for item_str in list_of_item:
+        var_str,val_str=item_str.split('=')
+        post_data_dict[var_str]=val_str
+    return post_data_dict
+
+
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+try:
+    webServer.serve_forever()
+except KeyboardInterrupt:
+    pass
+
+output=webServer.handle_request()
+print(output)
+
+webServer.server_close()
+print("Server stopped.")
+
+
+
+
+"""
+f=open("tmp.html")
+print(f.read())
++[P函数](,接受POST)
+
+"""
+## end
+#66, 63:
+https://gist.github.com/scimad/ae0196afc0bade2ae39d604225084507
+## end
+#68, 1056:
+AWS::https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Instances:instanceState=running
+AWS ssh::https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#ConnectToInstance:instanceId=i-0e626b26a6d01e1ca
+AWS info::https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connection-prereqs.html#connection-prereqs-get-info-about-instance
++[打开网页](,AWS ssh)
+
+先登录一下AWS, 关联一下Dropbox. 
+用Dropbox同步还是有一些隐私问题的, 用github同步吧还是. 
+用VM player登录.
+哇, 可以直接在AWS的网页上连服务器! 
+
+AWS用的是yum. 
+添加ssh key::https://unix.stackexchange.com/questions/48863/ssh-add-complains-could-not-open-a-connection-to-your-authentication-agent/48868
+ssh的公钥是直接从linux里面复制过去的. 
+
+然后可以设置git了. 
+设置git::https://stackoverflow.com/questions/13036064/git-syncing-a-github-repo-with-a-local-one
+
+用git push和git pull进行更新
+接下来做windows的本地文件了. 
+我感觉github不是很方便... 要不要用dropbox? 
+
+dropbox问题::https://www.dropboxforum.com/t5/Dropbox-installs-integrations/Install-headless-on-Linux-20-04-RUST-PANICKING/td-p/532886/page/2
++[打开网页](,dropbox问题)
+问题可能是我用的系统是linux的, 现在换成Ubuntu的试试看. 
+
+
+结构语言服务器方案:...
+
+
+
+## end
+#70, 186:
+general的结构语言服务器这么做:
+1.一个server的进程专门接受信息, 更新到本地的文本中; 
+2.入口页面总是存在tmp.html中; 
+3.tmp.html中提供图片等本地资源的地址; 
+4.结构语言的进程监听接受信息的本地文本, 然后更新tmp.html以及本地资源来做交互. 
+
+而测试服务器代码的话, 完全不需要另开进程. 只要更新tmp.html就行
+## end
+#74, 1319:
+"""
++[P函数](,接受POST)
+
+"""
+
+# Python 3 server example
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
+# hostName = "localhost"
+hostName = ""
+serverPort = 8000
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+
+        f=open("tmp.html")
+        self.wfile.write(bytes(f.read(), "utf-8"))
+
+    def do_POST(self):
+        self.send_response(200)
+        self.send_header('Content-type','text/html')
+        self.end_headers()
+
+        message = "Hello, World! Here is a POST response"
+        print("!!!!")
+#         self.wfile.write(bytes(message, "utf8"))
+     
+
+     
+def get_data_from_POST(post_data_str):
+    list_of_item = post_data_str.split('&')
+    post_data_dict={}
+    for item_str in list_of_item:
+        var_str,val_str=item_str.split('=')
+        post_data_dict[var_str]=val_str
+    return post_data_dict
+
+
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+try:
+    webServer.serve_forever()
+except KeyboardInterrupt:
+    pass
+
+output=webServer.handle_request()
+print(output)
+
+webServer.server_close()
+print("Server stopped.")
+
+
+
+
+"""
+f=open("tmp.html")
+print(f.read())
++[P函数](,测试代码)
+
+"""
+## end
+#76, 1724:
+"""
++[P函数](,接受POST)
+
+简单回应:...
+接受回答:...
+
+"""
+
+# Python 3 server example
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
+# hostName = "localhost"
+hostName = ""
+serverPort = 8000
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+
+        f=open("tmp.html")
+        self.wfile.write(bytes(f.read(), "utf-8"))
+
+    def do_POST(self):
+        self.send_response(200)
+        self.send_header('Content-type','text/html')
+        self.end_headers()
+
+        content_length = int(self.headers['Content-Length'])
+        post_data_bytes = self.rfile.read(content_length)
+        post_data_str = post_data_bytes.decode("UTF-8")
+
+        post_data_dict=get_data_from_POST(post_data_str)
+        print(post_data_dict)
+
+        message = "Hello, World! Here is a POST response"
+        self.wfile.write(bytes(message, "utf8"))
+        message = "I'm %s. You said '%s' to me."%(post_data_dict['to'],post_data_dict['say'])
+        self.wfile.write(bytes(message, "utf8"))
+
+     
+
+     
+def get_data_from_POST(post_data_str):
+    list_of_item = post_data_str.split('&')
+    post_data_dict={}
+    for item_str in list_of_item:
+        var_str,val_str=item_str.split('=')
+        post_data_dict[var_str]=val_str
+    return post_data_dict
+
+
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+try:
+    webServer.serve_forever()
+except KeyboardInterrupt:
+    pass
+
+output=webServer.handle_request()
+print(output)
+
+webServer.server_close()
+print("Server stopped.")
+
+
+
+
+"""
+f=open("tmp.html")
+print(f.read())
++[P函数](,接受POST)
+
+"""
+## end
+#78, 2066:
+"""
++[P函数](,响应按键)
+地址::server.py
++[保存P函数](,响应按键)
+Nini, 打开程序交互(文件)
+按键页面:...
++[新建阅读窗口](,按键页面)
+
+测试按键:...
+
+"""
+
+# Python 3 server example
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+import pyautogui
+
+# hostName = "localhost"
+hostName = ""
+serverPort = 8000
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+
+        f=open("tmp.html")
+        self.wfile.write(bytes(f.read(), "utf-8"))
+
+    def do_POST(self):
+        self.send_response(200)
+        self.send_header('Content-type','text/html')
+        self.end_headers()
+
+        content_length = int(self.headers['Content-Length'])
+        post_data_bytes = self.rfile.read(content_length)
+        post_data_str = post_data_bytes.decode("UTF-8")
+
+        post_data_dict=get_data_from_POST(post_data_str)
+        print(post_data_dict)
+
+        f=open("tmp.html")
+        self.wfile.write(bytes(f.read(), "utf-8"))
+
+        act_str = post_data_dict['mouse']
+        mouseAction(act_str)
+
+
+     
+def mouseAction(act_str):
+    if act_str=="play":
+        pyautogui.click(819,548)
+    if act_str=="jump":
+#         pyautogui.click(819,548)
+        pyautogui.click(1819,644)
+    elif act_str=="screen":
+        pyautogui.doubleClick(819,548)
+    elif act_str=="back":
+        pyautogui.press("left")
+    elif act_str=="forward":
+        pyautogui.press("right")
+
+
+     
+def get_data_from_POST(post_data_str):
+    list_of_item = post_data_str.split('&')
+    post_data_dict={}
+    for item_str in list_of_item:
+        var_str,val_str=item_str.split('=')
+        post_data_dict[var_str]=val_str
+    return post_data_dict
+
+
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+try:
+    webServer.serve_forever()
+except KeyboardInterrupt:
+    pass
+
+output=webServer.handle_request()
+print(output)
+
+webServer.server_close()
+print("Server stopped.")
+
+
+
+
+"""
+f=open("tmp.html")
+print(f.read())
++[P函数](,响应按键)
+
+"""
+## end
+#80, 347:
+<!--
++[H函数](,按键页面)
+-->
+
+<form method="POST">
+    <button name="mouse" value="play">play</button>
+    <button name="mouse" value="jump">jump</button>
+    <button name="mouse" value="screen">screen</button>
+    <button name="mouse" value="back">back</button>
+    <button name="mouse" value="forward">forward</button>
+</form>
+
+
+<!--
++[H函数](,按键页面)
+-->
+## end
+#82, 1771:
+"""
++[P函数](,响应按键)
+按键页面:...
++[新建阅读窗口](,按键页面)
+
+测试按键:...
+
+"""
+
+# Python 3 server example
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
+# hostName = "localhost"
+hostName = ""
+serverPort = 8000
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html")
+        self.end_headers()
+
+        f=open("tmp.html")
+        self.wfile.write(bytes(f.read(), "utf-8"))
+
+    def do_POST(self):
+        self.send_response(200)
+        self.send_header('Content-type','text/html')
+        self.end_headers()
+
+        content_length = int(self.headers['Content-Length'])
+        post_data_bytes = self.rfile.read(content_length)
+        post_data_str = post_data_bytes.decode("UTF-8")
+
+        post_data_dict=get_data_from_POST(post_data_str)
+        print(post_data_dict)
+
+        f=open("tmp.html")
+        self.wfile.write(bytes(f.read(), "utf-8"))
+#         message = "Hello, World! Here is a POST response"
+#         self.wfile.write(bytes(message, "utf8"))
+#         message = post_data_dict['mouse']
+#         self.wfile.write(bytes(message, "utf8"))
+
+     
+
+     
+def get_data_from_POST(post_data_str):
+    list_of_item = post_data_str.split('&')
+    post_data_dict={}
+    for item_str in list_of_item:
+        var_str,val_str=item_str.split('=')
+        post_data_dict[var_str]=val_str
+    return post_data_dict
+
+
+webServer = HTTPServer((hostName, serverPort), MyServer)
+print("Server started http://%s:%s" % (hostName, serverPort))
+
+try:
+    webServer.serve_forever()
+except KeyboardInterrupt:
+    pass
+
+output=webServer.handle_request()
+print(output)
+
+webServer.server_close()
+print("Server stopped.")
+
+
+
+
+"""
+f=open("tmp.html")
+print(f.read())
++[P函数](,响应按键)
+
+"""
+## end
+#84, 9:
+server.py
+## end
+#85, 23:
+2023-08-11 Fri 23:31:11
+## end
+### 结束

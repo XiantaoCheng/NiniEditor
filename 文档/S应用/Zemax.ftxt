@@ -1,0 +1,63 @@
+### 节点
+地址, 的, Zemax, 目录, 的, 的, 使用笔记, 的, POP, 的, 照片模拟, 的, Zemax内置编程, 的, Zemax文件类型, 的, 设置lens, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 6#8, #, 6#10, #, 6#12, #, 6#14, #, 6#16, #, 
+### 内容
+#0, 17:
+文档\S应用\Zemax.ftxt
+## end
+#2, 51:
++[返回目录](,Zemax)
+地址::文档\S应用\Zemax.ftxt
+
+
+
+
+使用笔记:...
+
+## end
+#3, 49:
+Zemax:...
+创建于 20211006
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 698:
++[返回目录](,使用笔记)
+
+
+先目标就是设置透镜, 然后生成焦点的图象. 
+首先是怎么设置光源. 
+
+POP::https://support.zemax.com/hc/en-us/articles/1500005578602-How-to-model-laser-beam-propagation-in-OpticStudio-Part-3-Using-Physical-Optics-Propagation-to-model-Gaussian-beams
+物理传播模拟. 
+照片模拟::https://support.zemax.com/hc/en-us/articles/1500005486701
+Zemax内置编程::https://support.zemax.com/hc/en-us/articles/1500005575142
+Zemax文件类型::https://support.zemax.com/hc/en-us/articles/1500005486681-Zemax-file-extensions
+设置lens::https://osphotonics.wordpress.com/2015/02/16/zemax-programming-language-3-4-setting-and-reading-lens-properties/
+
+
+大概是在Aperture的Aperture Value里面设置STOP平面上的孔径大小. 
+然后OBJECT是光源, STOP是入口的iris. 
+大概就这样吧. 
+其它的问题主要是我不知道模拟的结果有什么用... 
+
+
+## end
+#8, 173:
+https://support.zemax.com/hc/en-us/articles/1500005578602-How-to-model-laser-beam-propagation-in-OpticStudio-Part-3-Using-Physical-Optics-Propagation-to-model-Gaussian-beams
+## end
+#10, 57:
+https://support.zemax.com/hc/en-us/articles/1500005486701
+## end
+#12, 57:
+https://support.zemax.com/hc/en-us/articles/1500005575142
+## end
+#14, 79:
+https://support.zemax.com/hc/en-us/articles/1500005486681-Zemax-file-extensions
+## end
+#16, 112:
+https://osphotonics.wordpress.com/2015/02/16/zemax-programming-language-3-4-setting-and-reading-lens-properties/
+## end
+### 结束

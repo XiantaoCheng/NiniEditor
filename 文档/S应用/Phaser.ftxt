@@ -1,0 +1,1700 @@
+### 节点
+地址, 的, Phaser, 目录, 的, 的, 操作, 的, 画多边形, 的, 参考1, 的, 参考2, 的, 例子, JS函数, 的, 的, 测试场景, 的, 图形, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 样式, 类型, 的, 方向, 朝向, 空间点, 在, 箭头6, 样式, 类型, 的, 方向, 朝向, 空间点, 在, 箭头5, 样式, 类型, 的, 方向, 朝向, 空间点, 在, 箭头4, 样式, 类型, 的, 方向, 朝向, 空间点, 在, 箭头3, 样式, 类型, 的, 方向, 朝向, 空间点, 在, 箭头2, 样式, 类型, 的, 方向, 朝向, 空间点, 在, 箭头1, 样式, 类型, 的, 方向, 朝向, 空间点, 在, 箭头0, 的, y, 的, x, 的, 的, y, 的, x, 的, 的, y, 的, x, 的, 的, y, 的, x, 的, 的, y, 的, x, 的, 的, y, 的, x, 的, 的, y, 的, x, 的, 的, 窗口, 的, 的, 的, 的, 尺寸, 的, 空间点, 在, 的, 的, 屏幕, 的, 测试, 的, 设置界面, 二维网络代码, 图形代码, 的, 的, 图形, 直线代码, 的, 直线, 矩形代码, P代码, 的, 的, 矩形, 的, 的, 的, 库, 的, 的, PPT场景转Phaser, 的, 保存代码, P函数, 输出, 设置字体颜色, textColor, Shape, 的, 的, 的, P函数, 定义函数, 的, 的, 的, 输出Phaser, 的, 的, 代码模板, JS函数, 的, 测试, J函数, 的, 记忆, 的, 的, Phaser模板, 的, 的, Phaser模板, 的, Phaser模板, 的, 测试, J函数, 的, 旋转箭头, 的, 精度问题, 的, 测试运算精度, 的, 的, 的, 当前问题, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 8#10, #, 8#12, #, 8#14, #, 14#, 2#del, 2#18, #, 18#20, #, 18#77, 18#78, 18#79, 18#80, 18#81, 18#82, 18#83, 18#84, 18#85, 18#86, 18#87, 18#88, 18#89, 18#90, 18#91, 18#92, 18#93, 18#94, 18#95, 18#96, 18#97, 18#98, 18#99, 18#100, 18#101, 18#102, 18#103, 18#104, 18#105, 18#106, 18#107, 18#108, 18#109, 18#110, 18#111, 18#112, 18#113, 18#114, 18#115, 18#116, 18#117, 18#118, 18#119, 18#120, 18#121, 18#122, 18#123, 18#124, 18#125, 18#126, 18#127, 18#128, 18#129, 18#130, 18#131, 18#132, 84#, #, 84#78, #, 84#80, #, 84#82, #, 92#, #, 92#86, #, 92#88, #, 92#90, #, 100#, #, 100#94, #, 100#96, #, 100#98, #, 108#, #, 108#102, #, 108#104, #, 108#106, #, 116#, #, 116#110, #, 116#112, #, 116#114, #, 124#, #, 124#118, #, 124#120, #, 124#122, #, 132#, #, 132#126, #, 132#128, #, 132#130, #, 20#132, #, 132#134, #, 132#136, 20#124, #, 124#139, #, 124#141, 20#116, #, 116#144, #, 116#146, 20#108, #, 108#149, #, 108#151, 20#100, #, 100#154, #, 100#156, 20#92, #, 92#159, #, 92#161, 20#84, #, 84#164, #, 84#166, 18#169, #, 18#174, 18#175, 18#176, 18#177, #, 169#174, #, 169#176, 18#180, 18#181, #169, 20#180, #, 184#182, #, #, #, 189#185, 189#186, #, #, 192#190, #, #, #, 197#193, 197#194, #, 201#189, 201#192, 201#197, #, 204#184, 204#201, #, 6#204, #, 208#, #, #, #, #, 216#209, 216#210, 216#211, 216#, #, 220#206, 220#208, 220#216, #, 6#220, 2#223, #, 223#, 223#226, #, 226#, 223#229, 3#, 223#232, 223#233, #237, 229#232, 220#235, #, 204#237, #, 237#239, #, 239#, 239#242, #, 239#244, #, 239#246, #, 246#del, 239#250, 239#251, #239, 229#250, 
+### 内容
+#0, 18:
+文档\S应用\Phaser.ftxt
+## end
+#2, 170:
++[返回目录](,Phaser)
+地址::文档\S应用\Phaser.ftxt
+
+
+操作:...
++[设置动词](,操作)
+
+Nini, 打开PPT(文件)
+Nini, 打开图形库(文件)
+
+
+画多边形:...
+测试场景:...
++[新建阅读窗口](,测试场景)
+代码模板(JS函数):...
+代码模板的"-objs[i] "替换为" "
+
+## end
+#3, 50:
+Phaser:...
+创建于 20220122
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 111:
+
+
++[粘贴](,操作)
+PPT场景转Phaser:...
+输出Phaser:...
+输出Phaser的"PPT场景输出"替换为"输出Phaser"
++[修改标题]"PPT场景转Phaser"(,PPT场景转P代码)
+
+
+
+## end
+#8, 284:
+
+参考1::https://photonstorm.github.io/phaser3-docs/Phaser.GameObjects.GameObjectFactory.html
+参考2::https://photonstorm.github.io/phaser3-docs/Phaser.GameObjects.Polygon.html
+
+在create中用this.add.polygon(100,200,[0,0,20,0,20,20,0,20],strokeColor=0x000000)
+
+例子(JS函数):...
+例子的"JS方案"替换为"例子"
+
+
+
+
+## end
+#10, 84:
+https://photonstorm.github.io/phaser3-docs/Phaser.GameObjects.GameObjectFactory.html
+## end
+#12, 74:
+https://photonstorm.github.io/phaser3-docs/Phaser.GameObjects.Polygon.html
+## end
+#14, 2523:
+/*
++[J函数](,例子)
+
+椭圆例子(J函数):...
+变慢问题(J函数):...
+type 应该设置成Phaser.AUTO....
++[发布网页](,例子)
+*/
+
+
+var config = {
+    width: 960,
+    height: 540,
+    type: Phaser.AUTO,
+    parent: 'phaser-example',
+    backgroundColor: '#ffffff',
+    scene: {
+        create: create,
+        update: update
+    }
+};
+
+//  dwitter globals
+
+var objs=[];
+var dt=0.1;
+var spaceKey;
+
+var game = new Phaser.Game(config);
+
+/*
++[J函数](,例子)
+*/
+
+var path;
+
+function create() {
+    var c;
+    //this.add.curve([0,100,100,0],[200,200,400,400]);
+    //path=new Phaser.Curves.Path([0,100,100,0],[0,0,200,200])
+    //path=new Phaser.Curves.Path();
+    path=this.add.path(10,10);
+    path.lineTo(100,100);
+    path.lineTo(200,100);
+    path.lineTo(200,200);
+    //this.add.circle(50,50,50,0x000000);
+    //this.add.line(100,100,100,300,200,150,0x000000);
+    this.add.line(100,200,0,0,128,0,strokeColor=0x000000);
+    this.add.polygon(100,200,[0,0,20,0,20,20,0,20],strokeColor=0x000000);
+    
+    for(var i=0;i<50;i++){
+        var x=Math.random()*400+50;
+        var y=Math.random()*400+50;
+        var vx=Math.random()*100-50;
+        var vy=Math.random()*100-50;
+        var r=Math.random()*10+5;
+        c=this.add.circle(x,y,r,0x000000);
+        c.m_v=[vx,vy];
+        objs.push(c);
+    }
+    spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+}
+
+function update() {
+    dropEvent(objs);
+    BEvent(objs);
+    moveEvent(objs);
+    colEvent(objs);
+    if(spaceKey.isDown) {
+        print(objs.length)
+    }
+}
+
+function dropEvent(objs) {
+    var g=[0,10];
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<500-objs[i].radius) {
+            objs[i].m_v[0]+=g[0]*dt;
+            objs[i].m_v[1]+=g[1]*dt;
+        }
+    }
+}
+
+function BEvent(objs) {
+    var B=0.01;
+    var v;
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<500-objs[i].radius) {
+            v=objs[i].m_v;
+            objs[i].m_v[0]+=B*v[1]*dt;
+            objs[i].m_v[1]+=-B*v[0]*dt;
+        }
+    }
+}
+
+function colEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y>500-objs[i].radius) {
+            objs[i].m_v[1]=-Math.abs(objs[i].m_v[1])
+        }
+        if(objs[i].x>500-objs[i].radius) {
+            objs[i].m_v[0]=-Math.abs(objs[i].m_v[0])
+        }
+        if(objs[i].x<objs[i].radius) {
+            objs[i].m_v[0]=Math.abs(objs[i].m_v[0])
+        }
+    }
+}
+
+function moveEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        objs[i].x+=objs[i].m_v[0]*dt;
+        objs[i].y+=objs[i].m_v[1]*dt;
+    }
+}
+
+
+/*
++[J函数](,例子)
+*/
+## end
+#18, 336:
++[显示星图](,测试场景)
++[删除结构](,测试场景)
+
+图形::
+图形中新增7个箭头(箭头)
++[设置结构](,图形)
+
+箭头0在(0,0)
+箭头1距离箭头0(2,0). 箭头2距离箭头1(2,0). 箭头3距离箭头2(2,0)
+箭头4距离箭头3(0,2). 箭头5距离箭头4(-2,0). 箭头6距离箭头5(-2,0)
+箭头0朝向-90的角度. 箭头1朝向-90的角度. 箭头2朝向-90的角度
+箭头3朝向0的角度. 箭头4朝向90的角度. 箭头5朝向90的角度
+
+窗口::
+窗口都是矩形. 窗口的尺寸是"10,10"
+图形的屏幕是窗口
+
++[输出Phaser](,图形)
+箭头0在什么位置
+
+Nini, PPT的输出PPT是什么?
++[显示PPT场景](,图形)
+## end
+#77, 3:
+多边形
+## end
+#78, 2:
+箭头
+## end
+#80, 1:
+0
+## end
+#82, 8:
+2.0, 2.0
+## end
+#85, 3:
+多边形
+## end
+#86, 2:
+箭头
+## end
+#88, 2:
+90
+## end
+#90, 8:
+4.0, 2.0
+## end
+#93, 3:
+多边形
+## end
+#94, 2:
+箭头
+## end
+#96, 2:
+90
+## end
+#98, 8:
+6.0, 2.0
+## end
+#101, 3:
+多边形
+## end
+#102, 2:
+箭头
+## end
+#104, 1:
+0
+## end
+#106, 8:
+6.0, 0.0
+## end
+#109, 3:
+多边形
+## end
+#110, 2:
+箭头
+## end
+#112, 3:
+-90
+## end
+#114, 8:
+4.0, 0.0
+## end
+#117, 3:
+多边形
+## end
+#118, 2:
+箭头
+## end
+#120, 3:
+-90
+## end
+#122, 8:
+2.0, 0.0
+## end
+#125, 3:
+多边形
+## end
+#126, 2:
+箭头
+## end
+#128, 3:
+-90
+## end
+#130, 3:
+0,0
+## end
+#134, 38:
+0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0
+## end
+#136, 46:
+0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05
+## end
+#139, 38:
+0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0
+## end
+#141, 46:
+0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05
+## end
+#144, 38:
+0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0
+## end
+#146, 46:
+0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05
+## end
+#149, 38:
+0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0
+## end
+#151, 46:
+0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05
+## end
+#154, 38:
+0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0
+## end
+#156, 46:
+0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05
+## end
+#159, 38:
+0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0
+## end
+#161, 46:
+0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05
+## end
+#164, 38:
+0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0
+## end
+#166, 46:
+0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05
+## end
+#174, 5:
+10,10
+## end
+#176, 3:
+0,0
+## end
+#182, 65:
+"""
++[P函数](,测试)
+
+"""
+
+print(Inches(7.5))
+print(Pt(7.5/Pt(7.5)))
+
+
+## end
+#184, 137:
+
+// 设置界面
+var siz_0=[%尺寸], siz;
+var orig=[%空间点], pos, X, Y, angle;
+
+var ratio=400/siz_0[1];
+var Width=400*siz_0[0]/siz_0[1], Height=400;
+
+
+## end
+#185, 140:
+
+# %[标题]
+
+# %[标题]
+pos=[%空间点]
+pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])]
+ppt_draw_二维网络(slide,"""%x""","""%y""",pos,%方向*np.pi/180,ratio)
+## end
+#186, 184:
+
+    // %[标题]
+    pos=[%空间点];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[%x];
+    Y=[%y];
+    angle=%方向*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+
+## end
+#189, 981:
+"""
++[返回目录](,图形)
+
+图形代码:...
+# %[标题]
+ppt_draw_%样式(slide,[%x],[%y],[%空间点],%方向*np.pi/180)
+
+二维网络代码:...
+# %[标题]
+ppt_draw_二维网络(slide,"""%x""","""%y""",[%空间点],%方向*np.pi/180)
+
+"""
+
++图形(_物体,_代码)->+[del](,+图形)...
+->的(图形,图形代码)->的(图形,二维网络代码)...
+->的(_物体,x)->的(_物体,y)->+[标题](_物体,):
+
+->样式"二维网络"(_物体,)...
+->+[模板文本](二维网络代码,+[增加内容]#1)...
+->+[增加内容]#1(,_代码)...
+->+[.](+[模板文本],+[标题])->+[.](+[模板文本],x)->+[.](+[模板文本],y)...
+
+->[]{[]:->在(_物体,空间点)->空间点->+[.](+[模板文本],空间点),
+    ->+[临时文本]"0,0"->+[.]"空间点"(+[模板文本],+[临时文本])}...
+->[]{[]:->朝向(_物体,方向)->方向->+[.](+[模板文本],方向),
+    ->+[临时文本]"0"->+[.]"方向"(+[模板文本],+[临时文本])},
+
+
+->+[模板文本](图形代码,+[增加内容])...
+->+[增加内容](,_代码)...
+->+[.](+[模板文本],+[标题])->+[.](+[模板文本],x)->+[.](+[模板文本],y)...
+->[]{[]:
+    ->样式(_物体,)->+[.](+[模板文本],样式),
+    ->+样式"曲线"->+[.](+[模板文本],+样式)->+[del](,+样式)
+}...
+
+->[]{[]:->在(_物体,空间点)->空间点->+[.](+[模板文本],空间点),
+    ->+[临时文本]"0,0"->+[.]"空间点"(+[模板文本],+[临时文本])}...
+->[]{[]:->朝向(_物体,方向)->方向->+[.](+[模板文本],方向),
+    ->+[临时文本]"0"->+[.]"方向"(+[模板文本],+[临时文本])}
+
+
+
+
+
+
+## end
+#190, 180:
+
+# %[标题]
+pos=[%起点]
+pt1=[(pos[0]-orig[0])*ratio,(siz_0[1]-pos[1]+orig[1])*ratio]
+pos=[%终点]
+pt2=[(pos[0]-orig[0])*ratio,(siz_0[1]-pos[1]+orig[1])*ratio]
+ppt_draw_line(slide,pt1,pt2)
+
+## end
+#192, 278:
+"""
++[返回目录](,直线)
+
+直线代码:...
+# %[标题]
+ppt_draw_line(slide,[%起点],[%终点])
+
+"""
+
++直线(_直线,_代码)->+[del](,+直线)...
+->的(直线,直线代码)...
+->_直线(_起点,_终点)->_起点->_终点->+[标题](_直线,)...
+->+[模板文本](直线代码,+[增加内容])...
+->+[.](+[模板文本],+[标题])->+[.]"起点"(+[模板文本],_起点)->+[.]"终点"(+[模板文本],_终点)...
+->+[增加内容](,_代码)
+
+
+
+
+## end
+#193, 168:
+
+# %[标题]
+siz=[%尺寸]
+siz=[siz[0]*ratio,siz[1]*ratio]
+pos=[%空间点]
+pos=[(pos[0]-orig[0])*ratio,(siz_0[1]-pos[1]+orig[1])*ratio-siz[1]]
+ppt_draw_%样式(slide,pos,siz,"""%内容""")
+
+## end
+#194, 47:
+
+# %[标题]
+ppt_draw_rectangle(slide,[%空间点],[%尺寸])
+## end
+#197, 466:
+"""
++[返回目录](,矩形)
+
+矩形代码:...
+# %[标题]
+ppt_draw_%样式(slide,[%空间点],[%尺寸],"""%内容""")
+
+"""
+
++矩形(_物体,_代码)->+[del](,+矩形)...
+->的(矩形,矩形代码)...
+->在(_物体,空间点)->的(_物体,尺寸)->+[标题](_物体,)...
+->+[模板文本](矩形代码,+[增加内容])->+[增加内容](,_代码)...
+->+[.](+[模板文本],+[标题])->+[.](+[模板文本],空间点)->+[.](+[模板文本],尺寸)...
+->[]{
+    []:->样式(_物体,)->+[.](+[模板文本],样式),
+    ->+[临时文本]"矩形"->+[.]"样式"(+[模板文本],+[临时文本])
+}->[]{
+    []:->的(_物体,_re)->_re"图片地址|内容"->+[.]"内容"(+[模板文本],_re),
+    ->+[.]"内容"(+[模板文本],+[临时文本]#2)
+}
+
+
+
+
+## end
+#201, 51:
++[返回目录](,库)
+
+矩形:...
+直线:...
+图形:...
++[新建阅读窗口](,图形)
+
+
+
+## end
+#204, 1089:
+"""
++[返回目录](,PPT场景转Phaser)
+库:...
++[新建阅读窗口](,库)
++[显示动词结构](,显示PPT场景)
+设置界面:...
+Phaser模板:...
++[新建阅读窗口](,Phaser模板)
+Nini, 关于Phaser, 你记得什么?
+
+"""
+
++PPT场景转Phaser(_场景,_P代码)->+[del](,+PPT场景转Phaser)...
+->的(PPT场景转Phaser,库)->的(PPT场景转Phaser,Phaser模板)->的(PPT场景转Phaser,设置界面)...
+->的(库,矩形)->的(库,图形)->的(库,直线)...
+
+->+[临时文本]#0->[]{
+    []=>的(_场景,_物体)->_物体=>+[临时文本]->[]{
+        []:->在(_物体,空间点#3)->空间点#3->的(_物体,尺寸)->尺寸(,)...
+        ->+[做](_物体,+[临时文本])->+[code](+[做],矩形),
+        ->的(_物体,x)->x->+[做](_物体,+[临时文本])->+[code](+[做],图形),
+    
+        ->[is](_物体,_直线)->_直线(空间点#1,空间点#2)->空间点#1->空间点#2(,)...
+        ->+[做](_物体,+[临时文本])->+[code](+[做],直线),
+
+        ->[]
+    }->+[增加内容](+[临时文本]#0,+[临时文本])->+[修改内容](+[临时文本],+[临时文本]#0)
+}...
+
+->+[临时文本]#1->[]{
+    +[模板文本](设置界面,+[临时文本]#1):
+        ->的(_场景,屏幕)->屏幕(,_窗口)...
+        ->的(_窗口,尺寸)->+[.](+[模板文本],尺寸)...
+        ->在(_窗口,空间点)->+[.](+[模板文本],空间点),
+        
+        ->+尺寸"7.5,7.5"->+[.](+[模板文本],+尺寸)->+[del](,+尺寸)...
+        ->+空间点"0,0"->+[.](+[模板文本],+空间点)->+[del](,+空间点)
+}...
+
+->+[模板文本](Phaser模板,_P代码)...
+->+[.]"场景"(+[模板文本],+[临时文本]#0)->+[.]"设置界面"(+[模板文本],+[临时文本]#1)
+
+
+
+
+
+
+## end
+#206, 4209:
+/*
++[J函数](,保存代码)
++[发布网页](,JS方案)
++[设置结构](,Phaser模板)
+
+将Phaser模板(节点)记作Phaser模板
+Nini, Phaser的Phaser模板是什么?
+测试(J函数):...
+*/
+
+
+
+// 设置界面
+var siz_0=[10,10], siz;
+var orig=[0,0], pos, X, Y, angle;
+
+var ratio=400/siz_0[1];
+var Width=400*siz_0[0]/siz_0[1], Height=400;
+
+
+var objs=[];
+var dt=0.1;
+var spaceKey;
+
+var config = {
+    width: Width,
+    height: Height,
+    type: Phaser.AUTO,
+    parent: 'phaser-example',
+    backgroundColor: '#eeeeee',
+    scene: {
+        create: create,
+        update: update
+    }
+};
+
+var game = new Phaser.Game(config);
+
+/*
++[J函数](,保存代码)
+*/
+
+function add_polygon(pgame,obj_group,pt,X,Y,theta,ratio) {
+    var shape=[],obj,x_p,y_p,x,y;
+    for (var i=0;i<X.length;i++) {
+        x=X[i]*ratio;
+        y=-Y[i]*ratio;
+        x_p=x*Math.cos(theta)-y*Math.sin(theta);
+        y_p=x*Math.sin(theta)+y*Math.cos(theta);
+        shape.push(x_p);
+        shape.push(y_p);
+    }
+print(ratio);
+print(x_p);
+print(pt);
+    obj=pgame.add.polygon(2*ratio,2*ratio,shape,strokeColor=0x000000);
+
+    var vx=Math.random()*10-5;
+    var vy=Math.random()*10-5;
+    obj.m_v=[vx,vy];
+    obj_group.push(obj);
+}
+
+function create() {
+    
+    // 箭头0
+    pos=[0,0];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-90*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+
+    // 箭头1
+    pos=[2.0, 0.0];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-90*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+
+    // 箭头2
+    pos=[4.0, 0.0];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-90*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+
+    // 箭头3
+    pos=[6.0, 0.0];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=0*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+
+    // 箭头4
+    pos=[6.0, 2.0];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=90*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+
+    // 箭头5
+    pos=[4.0, 2.0];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=90*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+
+    // 箭头6
+    pos=[2.0, 2.0];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=0*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+ 
+    spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+}
+
+function update() {
+    //dropEvent(objs);
+    //BEvent(objs);
+    //moveEvent(objs);
+    //colEvent(objs);
+    if(spaceKey.isDown) {
+        print(objs.length)
+    }
+}
+
+function dropEvent(objs) {
+    var g=[0,10];
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            objs[i].m_v[0]+=g[0]*dt;
+            objs[i].m_v[1]+=g[1]*dt;
+        }
+    }
+}
+
+function BEvent(objs) {
+    var B=0.01;
+    var v;
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            v=objs[i].m_v;
+            objs[i].m_v[0]+=B*v[1]*dt;
+            objs[i].m_v[1]+=-B*v[0]*dt;
+        }
+    }
+}
+
+function colEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y>Height) {
+            objs[i].m_v[1]=-Math.abs(objs[i].m_v[1])
+        }
+        if(objs[i].x>Width) {
+            objs[i].m_v[0]=-Math.abs(objs[i].m_v[0])
+        }
+        if(objs[i].x<0) {
+            objs[i].m_v[0]=Math.abs(objs[i].m_v[0])
+        }
+    }
+}
+
+function moveEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        objs[i].x+=objs[i].m_v[0]*dt;
+        objs[i].y+=objs[i].m_v[1]*dt;
+    }
+}
+
+
+/*
++[J函数](,JS方案)
+*/
+## end
+#208, 20:
+prs.save(file_dir)
+
+
+## end
+#209, 532:
+
+
+
+
+left = Inches(1.0)
+top = Inches(3.9)
+width = Inches(1.2)
+height = Inches(2.5)
+shape = shapes.add_shape(
+MSO_SHAPE.RECTANGLE, left, top, width, height
+)
+fill = shape.fill
+fill.solid()
+fill.fore_color.rgb = RGBColor(226, 206, 72)  # This RGB code is the background color that I want the shape to be in 
+fill.fore_color.brightness = -0.3
+text_frame = shape.text_frame
+text_frame.clear()
+p = text_frame.paragraphs[0]
+run = p.add_run()
+run.text = 'Test message'
+font = run.font
+font.name = 'Arial'
+font.size = Pt(16)
+font.bold = True
+## end
+#210, 89:
+https://python-pptx.readthedocs.io/en/latest/user/text.html#applying-character-formatting
+## end
+#211, 88:
+https://python-pptx.readthedocs.io/en/latest/api/shapes.html#pptx.shapes.autoshape.Shape
+## end
+#216, 4124:
+"""
++[P函数](,目标代码)
+
+Shape::https://python-pptx.readthedocs.io/en/latest/api/shapes.html#pptx.shapes.autoshape.Shape
++[打开网页](,Shape)
+
+textColor::https://python-pptx.readthedocs.io/en/latest/user/text.html#applying-character-formatting
++[打开网页](,textColor)
+
+设置字体颜色:...
+
+"""
+
+from pptx import Presentation
+from pptx.enum.shapes import MSO_SHAPE, MSO_CONNECTOR
+from pptx.util import Inches, Pt
+from pptx.dml.color import RGBColor
+
+nan=None
+
+
+def ppt_draw_矩形(slide,pt,size,text):
+    shape=slide.shapes.add_shape(MSO_SHAPE.RECTANGLE,Pt(pt[0]),Pt(pt[1]),Pt(size[0]),Pt(size[1]))
+    shape.fill.solid()
+    shape.fill.fore_color.rgb=RGBColor(255,255,255)
+    shape.line.color.rgb=RGBColor(0,0,0)
+    shape.line.width=Pt(2)
+    # shape.text=text
+    text_frame = shape.text_frame
+    
+    p = text_frame.paragraphs[0]
+    run = p.add_run()
+    run.text = text
+    
+    font = run.font
+    font.color.rgb=RGBColor(0,0,0)
+    return shape
+
+def ppt_draw_文本框(slide,pt,size,text):
+    shape=slide.shapes.add_textbox(Pt(pt[0]),Pt(pt[1]),Pt(size[0]),Pt(size[1]))
+    shape.text=text
+    return shape
+
+def ppt_draw_图片(slide,pt,size,file_dir):
+    shape=slide.shapes.add_picture(file_dir,Pt(pt[0]),Pt(pt[1]),Pt(size[0]),None)
+    return shape
+
+
+def ppt_draw_circle(slide,pt,size):
+    shape=slide.shapes.add_shape(MSO_SHAPE.OVAL,Pt(pt[0]),Pt(pt[1]),Pt(size[0]),Pt(size[1]))
+    shape.fill.solid()
+    shape.fill.fore_color.rgb=RGBColor(255,255,255)
+    shape.line.color.rgb=RGBColor(0,0,0)
+    shape.line.width=Pt(2)
+    return shape
+
+
+def ppt_draw_line(slide,pt0,pt1):
+    shape=slide.shapes.add_connector(MSO_CONNECTOR.STRAIGHT, Pt(pt0[0]),Pt(pt0[1]),Pt(pt1[0]),Pt(pt1[1]))
+    shape.line.color.rgb=RGBColor(0,0,0)
+    shape.line.width=Pt(2)
+    return shape
+
+
+def ppt_draw_曲线(slide,x,y,pt,theta,ratio=1):
+    x=np.array(x)
+    y=-np.array(y)
+    
+    x_p=None
+    y_p=None
+    builder=None
+    for i in range(len(x)):
+        if x[i]!=None:
+            if x_p==None:
+                x_p=x[i]*np.cos(theta)-y[i]*np.sin(theta)+pt[0]
+                y_p=x[i]*np.sin(theta)+y[i]*np.cos(theta)+pt[1]
+                builder=slide.shapes.build_freeform(Pt(x_p)*ratio,Pt(y_p)*ratio)
+            else:
+                x_p=x[i]*np.cos(theta)-y[i]*np.sin(theta)+pt[0]
+                y_p=x[i]*np.sin(theta)+y[i]*np.cos(theta)+pt[1]
+                builder.add_line_segments(((Pt(x_p)*ratio,Pt(y_p)*ratio),),close=False)
+        elif x_p!=None:
+            builder.add_line_segments(((Pt(x_p)*ratio,Pt(y_p)*ratio),),close=False)
+            # x_p=None
+
+    shape=builder.convert_to_shape()
+    shape.fill.background()
+    shape.line.color.rgb=RGBColor(0,0,0)
+    shape.line.width=Pt(2)
+    return shape
+
+
+def ppt_draw_多边形(slide,x,y,pt,theta,ratio=1):
+    x=np.array(x)
+    y=-np.array(y)
+    x_p=x*np.cos(theta)-y*np.sin(theta)+pt[0]
+    y_p=x*np.sin(theta)+y*np.cos(theta)+pt[1]
+    
+    for i in range(len(x)):
+        if x[i]!=None:
+            if i==0:
+                builder=slide.shapes.build_freeform(Pt(x_p[0])*ratio,Pt(y_p[0])*ratio)
+            else:
+                builder.add_line_segments(((Pt(x_p[i])*ratio,Pt(y_p[i])*ratio),),close=False)
+        elif i>0:
+            builder.add_line_segments(((Pt(x_p[i-1])*ratio,Pt(y_p[i-1]))*ratio,),close=True)
+    shape=builder.convert_to_shape()
+    shape.fill.solid()
+    shape.fill.fore_color.rgb=RGBColor(255,255,255)
+    shape.line.color.rgb=RGBColor(0,0,0)
+    shape.line.width=Pt(2)
+    return shape
+
+
+def ppt_draw_二维网络(slide,X,Y,pt,theta,ratio):
+    X=np.matrix(X)
+    Y=np.matrix(Y)
+    X_p=X*np.cos(theta)-Y*np.sin(theta)+pt[0]
+    Y_p=X*np.sin(theta)+Y*np.cos(theta)+pt[1]
+    
+    builder=slide.shapes.build_freeform(Pt(X_p[0,0])*ratio,Pt(Y_p[0,0])*ratio)
+    for i in range(X.shape[1]):
+        for j in range(X.shape[0]):
+            builder.add_line_segments(((Pt(X_p[j,i])*ratio,Pt(Y_p[j,i]))*ratio,),close=False)
+        builder.add_line_segments(((Pt(X_p[j,i])*ratio,Pt(Y_p[j,i]))*ratio,),close=True)
+    shape=builder.convert_to_shape()
+    shape.fill.background()
+    shape.line.color.rgb=RGBColor(0,0,0)
+    shape.line.width=Pt(2)
+    return shape
+
+
+
+"""
++[P函数](,定义函数)
+
+"""
+## end
+#220, 248:
+"""
++[返回目录](,输出Phaser)
+
+定义函数(P函数):...
++[新建阅读窗口](,定义函数)
+输出(P函数):...
+
+保存代码:...
++[新建阅读窗口](,保存代码)
+
+"""
+
++输出Phaser(,_场景)->+[del](,+输出Phaser)...
+->的(输出Phaser,Phaser模板)->的(输出Phaser,保存代码)...
+
+->+[PPT场景转Phaser](_场景,保存代码)->+[J函数](,保存代码)...
+->+[显示](,保存代码)
+
+
+
+
+## end
+#223, 2347:
+/*
++[J函数](,代码模板)
++[发布网页](,JS方案)
+
+将代码模板(节点)记作Phaser模板
+Nini, Phaser的Phaser模板是什么?
+测试(J函数):...
+*/
+
+
+var objs=[];
+var dt=0.1;
+var spaceKey;
+var Width=960, Height=400;
+var ratio=0.5;
+
+var config = {
+    width: Width,
+    height: Height,
+    type: Phaser.AUTO,
+    parent: 'phaser-example',
+    backgroundColor: '#ffffff',
+    scene: {
+        create: create,
+        update: update
+    }
+};
+
+var game = new Phaser.Game(config);
+
+/*
++[J函数](,JS方案)
+*/
+
+function add_polygon(pgame,obj_group,pt,X,Y,theta,ratio) {
+    var shape=[],obj,x_p,y_p,x,y;
+    for (var i=0;i<X.length;i++) {
+        x=X[i]*ratio;
+        y=-Y[i]*ratio;
+        x_p=x*Math.cos(theta)-y*Math.sin(theta);
+        y_p=x*Math.sin(theta)+y*Math.cos(theta);
+        shape.push(x_p);
+        shape.push(y_p);
+    }
+    obj=pgame.add.polygon(pt[0],pt[1],shape,strokeColor=0x000000);
+
+    var vx=Math.random()*100-50;
+    var vy=Math.random()*100-50;
+    obj.m_v=[vx,vy];
+    obj_group.push(obj);
+}
+
+function create() {
+    this.add.polygon(100,200,[0,0,20,0,20,20,0,20],strokeColor=0x000000);
+    add_polygon(this,objs,[200,200],[0,100,100],[0,0,100],45*Math.PI/180,ratio);
+    
+    spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+}
+
+function update() {
+    dropEvent(objs);
+    BEvent(objs);
+    moveEvent(objs);
+    colEvent(objs);
+    if(spaceKey.isDown) {
+        print(objs.length)
+    }
+}
+
+function dropEvent(objs) {
+    var g=[0,10];
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            objs[i].m_v[0]+=g[0]*dt;
+            objs[i].m_v[1]+=g[1]*dt;
+        }
+    }
+}
+
+function BEvent(objs) {
+    var B=0.01;
+    var v;
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            v=objs[i].m_v;
+            objs[i].m_v[0]+=B*v[1]*dt;
+            objs[i].m_v[1]+=-B*v[0]*dt;
+        }
+    }
+}
+
+function colEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y>Height) {
+            objs[i].m_v[1]=-Math.abs(objs[i].m_v[1])
+        }
+        if(objs[i].x>Width) {
+            objs[i].m_v[0]=-Math.abs(objs[i].m_v[0])
+        }
+        if(objs[i].x<0) {
+            objs[i].m_v[0]=Math.abs(objs[i].m_v[0])
+        }
+    }
+}
+
+function moveEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        objs[i].x+=objs[i].m_v[0]*dt;
+        objs[i].y+=objs[i].m_v[1]*dt;
+    }
+}
+
+
+/*
++[J函数](,JS方案)
+*/
+## end
+#226, 89:
+/*
++[J函数](,测试)
+*/
+
+a=[0,12,3,4];
+a.push(12);
+print(a);
+print(Math.cos(0))
+print(Math.PI)
+
+## end
+#237, 2199:
+/*
++[J函数](,保存代码)
++[发布网页](,JS方案)
++[设置结构](,Phaser模板)
+
+将Phaser模板(节点)记作Phaser模板
+Nini, Phaser的Phaser模板是什么?
+测试(J函数):...
+*/
+
+
+%设置界面
+var objs=[];
+var dt=0.1;
+var spaceKey;
+
+var config = {
+    width: Width,
+    height: Height,
+    type: Phaser.AUTO,
+    parent: 'phaser-example',
+    backgroundColor: '#eeeeee',
+    scene: {
+        create: create,
+        update: update
+    }
+};
+
+var game = new Phaser.Game(config);
+
+/*
++[J函数](,JS方案)
+*/
+
+function add_polygon(pgame,obj_group,pt,X,Y,theta,ratio) {
+    var shape=[],obj,x_p,y_p,x,y;
+    for (var i=0;i<X.length;i++) {
+        x=X[i]*ratio;
+        y=-Y[i]*ratio;
+        x_p=x*Math.cos(theta)-y*Math.sin(theta);
+        y_p=x*Math.sin(theta)+y*Math.cos(theta);
+        shape.push(x_p);
+        shape.push(y_p);
+    }
+    obj=pgame.add.polygon(pt[0]*ratio,pt[1]*ratio,shape,strokeColor=0x000000);
+
+    var vx=Math.random()*10-5;
+    var vy=Math.random()*10-5;
+    obj.m_v=[vx,vy];
+    obj_group.push(obj);
+}
+
+function create() {
+    %场景 
+    spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+}
+
+function update() {
+    //dropEvent(objs);
+    //BEvent(objs);
+    //moveEvent(objs);
+    //colEvent(objs);
+    if(spaceKey.isDown) {
+        print(objs.length)
+    }
+}
+
+function dropEvent(objs) {
+    var g=[0,10];
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            objs[i].m_v[0]+=g[0]*dt;
+            objs[i].m_v[1]+=g[1]*dt;
+        }
+    }
+}
+
+function BEvent(objs) {
+    var B=0.01;
+    var v;
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            v=objs[i].m_v;
+            objs[i].m_v[0]+=B*v[1]*dt;
+            objs[i].m_v[1]+=-B*v[0]*dt;
+        }
+    }
+}
+
+function colEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y>Height) {
+            objs[i].m_v[1]=-Math.abs(objs[i].m_v[1])
+        }
+        if(objs[i].x>Width) {
+            objs[i].m_v[0]=-Math.abs(objs[i].m_v[0])
+        }
+        if(objs[i].x<0) {
+            objs[i].m_v[0]=Math.abs(objs[i].m_v[0])
+        }
+    }
+}
+
+function moveEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        objs[i].x+=objs[i].m_v[0]*dt;
+        objs[i].y+=objs[i].m_v[1]*dt;
+    }
+}
+
+
+/*
++[J函数](,JS方案)
+*/
+## end
+#239, 2661:
+/*
++[J函数](,测试)
+旋转箭头:...
+精度问题:...
+测试运算精度:...
+将测试(节点)记作当前问题
+Nini, Phaser的当前问题是什么?
+*/
+
+
+
+// 设置界面
+var siz_0=[10,10], siz;
+var orig=[0,0], pos, X, Y, angle;
+
+var ratio=400/siz_0[1];
+var Width=400*siz_0[0]/siz_0[1], Height=400;
+
+
+var objs=[];
+var dt=0.1;
+var spaceKey;
+
+var config = {
+    width: Width,
+    height: Height,
+    type: Phaser.AUTO,
+    parent: 'phaser-example',
+    backgroundColor: '#eeeeee',
+    scene: {
+        create: create,
+        update: update
+    }
+};
+
+var game = new Phaser.Game(config);
+
+/*
++[J函数](,测试)
+*/
+
+function add_polygon(pgame,obj_group,pt,X,Y,theta,ratio) {
+    var shape=[],obj,x_p,y_p,x,y;
+    for (var i=0;i<X.length;i++) {
+        x=X[i];
+        y=-Y[i];
+        x_p=x*Math.cos(theta)-y*Math.sin(theta);
+        y_p=x*Math.sin(theta)+y*Math.cos(theta);
+        shape.push(x_p*ratio);
+        shape.push(y_p*ratio);
+    }
+//print(shape);
+    obj=pgame.add.polygon(pt[0]*ratio,pt[1]*ratio,shape,strokeColor=0x000000,strokeAlpha=0.9);
+
+    var vx=Math.random()*10-5;
+    var vy=Math.random()*10-5;
+    obj.m_v=[vx,vy];
+    obj_group.push(obj);
+}
+
+/*
++[J函数](,测试)
+*/
+
+function create() {
+    
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0,0,1,1];
+    Y=[0,1,1,0];
+    for(var i=0;i<360;i=i+44) {
+        angle=-i*Math.PI/180.0;
+        add_polygon(this,objs,pos,X,Y,-angle,ratio);
+    } 
+    add_polygon(this,objs,pos,[-0.1,0.1,-0.1,0.1],[-0.1,0.1,0.1,-0.1],0,ratio);
+    spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+}
+
+function update() {
+    //dropEvent(objs);
+    //BEvent(objs);
+    //moveEvent(objs);
+    //colEvent(objs);
+    if(spaceKey.isDown) {
+        print(objs.length)
+    }
+}
+
+function dropEvent(objs) {
+    var g=[0,10];
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            objs[i].m_v[0]+=g[0]*dt;
+            objs[i].m_v[1]+=g[1]*dt;
+        }
+    }
+}
+
+function BEvent(objs) {
+    var B=0.01;
+    var v;
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            v=objs[i].m_v;
+            objs[i].m_v[0]+=B*v[1]*dt;
+            objs[i].m_v[1]+=-B*v[0]*dt;
+        }
+    }
+}
+
+function colEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y>Height) {
+            objs[i].m_v[1]=-Math.abs(objs[i].m_v[1])
+        }
+        if(objs[i].x>Width) {
+            objs[i].m_v[0]=-Math.abs(objs[i].m_v[0])
+        }
+        if(objs[i].x<0) {
+            objs[i].m_v[0]=Math.abs(objs[i].m_v[0])
+        }
+    }
+}
+
+function moveEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        objs[i].x+=objs[i].m_v[0]*dt;
+        objs[i].y+=objs[i].m_v[1]*dt;
+    }
+}
+
+
+/*
++[J函数](,JS方案)
+*/
+## end
+#242, 5465:
+/*
++[J函数](,测试)
+旋转箭头:...
+*/
+
+
+
+// 设置界面
+var siz_0=[10,10], siz;
+var orig=[0,0], pos, X, Y, angle;
+
+var ratio=400/siz_0[1];
+var Width=400*siz_0[0]/siz_0[1], Height=400;
+
+
+var objs=[];
+var dt=0.1;
+var spaceKey;
+
+var config = {
+    width: Width,
+    height: Height,
+    type: Phaser.AUTO,
+    parent: 'phaser-example',
+    backgroundColor: '#eeeeee',
+    scene: {
+        create: create,
+        update: update
+    }
+};
+
+var game = new Phaser.Game(config);
+
+/*
++[J函数](,测试)
+*/
+
+function add_polygon(pgame,obj_group,pt,X,Y,theta,ratio) {
+    var shape=[],obj,x_p,y_p,x,y;
+    for (var i=0;i<X.length;i++) {
+        x=X[i]*ratio;
+        y=-Y[i]*ratio;
+        x_p=x*Math.cos(theta)-y*Math.sin(theta);
+        y_p=x*Math.sin(theta)+y*Math.cos(theta);
+        shape.push(x_p);
+        shape.push(y_p);
+    }
+print(x_p);
+    obj=pgame.add.polygon(4*ratio,4*ratio,shape,strokeColor=0x000000);
+
+    var vx=Math.random()*10-5;
+    var vy=Math.random()*10-5;
+    obj.m_v=[vx,vy];
+    obj_group.push(obj);
+}
+
+/*
++[J函数](,测试)
+*/
+
+function create() {
+    
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-45*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+ 
+    spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-80*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-70*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-90*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-60*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-50*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-40*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-30*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-20*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-10*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=-0*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0.05, 0.05, 0.1, 0.0, -0.1, -0.05, -0.05, 0.05];
+    Y=[0.0, 1.8, 1.8, 2.0, 1.8, 1.8, 0.0, 0.0];
+    angle=45*Math.PI/180;
+    add_polygon(this,objs,pos,X,Y,-angle,ratio);
+ 
+    spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+}
+
+function update() {
+    //dropEvent(objs);
+    //BEvent(objs);
+    //moveEvent(objs);
+    //colEvent(objs);
+    if(spaceKey.isDown) {
+        print(objs.length)
+    }
+}
+
+function dropEvent(objs) {
+    var g=[0,10];
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            objs[i].m_v[0]+=g[0]*dt;
+            objs[i].m_v[1]+=g[1]*dt;
+        }
+    }
+}
+
+function BEvent(objs) {
+    var B=0.01;
+    var v;
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            v=objs[i].m_v;
+            objs[i].m_v[0]+=B*v[1]*dt;
+            objs[i].m_v[1]+=-B*v[0]*dt;
+        }
+    }
+}
+
+function colEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y>Height) {
+            objs[i].m_v[1]=-Math.abs(objs[i].m_v[1])
+        }
+        if(objs[i].x>Width) {
+            objs[i].m_v[0]=-Math.abs(objs[i].m_v[0])
+        }
+        if(objs[i].x<0) {
+            objs[i].m_v[0]=Math.abs(objs[i].m_v[0])
+        }
+    }
+}
+
+function moveEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        objs[i].x+=objs[i].m_v[0]*dt;
+        objs[i].y+=objs[i].m_v[1]*dt;
+    }
+}
+
+
+/*
++[J函数](,JS方案)
+*/
+## end
+#244, 2610:
+/*
++[J函数](,测试)
+旋转箭头:...
+*/
+
+
+
+// 设置界面
+var siz_0=[10,10], siz;
+var orig=[0,0], pos, X, Y, angle;
+
+var ratio=400/siz_0[1];
+var Width=400*siz_0[0]/siz_0[1], Height=400;
+
+
+var objs=[];
+var dt=0.1;
+var spaceKey;
+
+var config = {
+    width: Width,
+    height: Height,
+    type: Phaser.AUTO,
+    parent: 'phaser-example',
+    backgroundColor: '#eeeeee',
+    scene: {
+        create: create,
+        update: update
+    }
+};
+
+var game = new Phaser.Game(config);
+
+/*
++[J函数](,测试)
+*/
+
+function add_polygon(pgame,obj_group,pt,X,Y,theta,ratio) {
+    var shape=[],obj,x_p,y_p,x,y;
+    for (var i=0;i<X.length;i++) {
+        x=X[i];
+        y=-Y[i];
+        x_p=x*Math.cos(theta)-y*Math.sin(theta);
+        y_p=x*Math.sin(theta)+y*Math.cos(theta);
+        shape.push(x_p*ratio);
+        shape.push(y_p*ratio);
+    }
+//print(shape);
+    obj=pgame.add.polygon(pt[0]*ratio,pt[1]*ratio,shape,strokeColor=0x000000,strokeAlpha=0.9);
+
+    var vx=Math.random()*10-5;
+    var vy=Math.random()*10-5;
+    obj.m_v=[vx,vy];
+    obj_group.push(obj);
+}
+
+/*
++[J函数](,测试)
+*/
+
+function create() {
+    
+    // 箭头0
+    pos=[2,2];
+    pos=[(pos[0]-orig[0]),(siz_0[1]-pos[1]+orig[1])];
+    X=[0,0,0.1,0.1];
+    Y=[1,1.1,1.1,1];
+    for(var i=0;i<360;i=i+1) {
+        angle=-i*Math.PI/180;
+        add_polygon(this,objs,pos,X,Y,-angle,ratio);
+    } 
+    add_polygon(this,objs,pos,[-0.1,0.1,-0.1,0.1],[-0.1,0.1,0.1,-0.1],0,ratio);
+    spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+}
+
+function update() {
+    //dropEvent(objs);
+    //BEvent(objs);
+    //moveEvent(objs);
+    //colEvent(objs);
+    if(spaceKey.isDown) {
+        print(objs.length)
+    }
+}
+
+function dropEvent(objs) {
+    var g=[0,10];
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            objs[i].m_v[0]+=g[0]*dt;
+            objs[i].m_v[1]+=g[1]*dt;
+        }
+    }
+}
+
+function BEvent(objs) {
+    var B=0.01;
+    var v;
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<Height) {
+            v=objs[i].m_v;
+            objs[i].m_v[0]+=B*v[1]*dt;
+            objs[i].m_v[1]+=-B*v[0]*dt;
+        }
+    }
+}
+
+function colEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y>Height) {
+            objs[i].m_v[1]=-Math.abs(objs[i].m_v[1])
+        }
+        if(objs[i].x>Width) {
+            objs[i].m_v[0]=-Math.abs(objs[i].m_v[0])
+        }
+        if(objs[i].x<0) {
+            objs[i].m_v[0]=Math.abs(objs[i].m_v[0])
+        }
+    }
+}
+
+function moveEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        objs[i].x+=objs[i].m_v[0]*dt;
+        objs[i].y+=objs[i].m_v[1]*dt;
+    }
+}
+
+
+/*
++[J函数](,JS方案)
+*/
+## end
+#246, 65:
+/*
++[J函数](,测试运算精度)
+Nini, 打开动作(库)
+记住"Javascript"
+*/
+
+print(1/4);
+
+
+## end
+### 结束

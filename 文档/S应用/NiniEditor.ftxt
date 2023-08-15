@@ -1,0 +1,998 @@
+### 节点
+地址, 的, NiniEditor, 目录, 的, 的, 节点数目统计, 的, 操作, 的, 上传NiniEditor, 的, 命令行, 的, 网址, 的, 地址, 的, 转移文件, 的, 转移ftxt文件, 的, readme, 的, 网址, 的, 地址, 的, 文本结构, 的, 输出报告, 的, 文本内容, 的, 变量, 表格, 的, 等号, 表格, 的, 基本运算, 表格, 的, 积分运算, 表格, 的, 微分运算, 表格, 的, 矢量和矩阵, 表格, 的, [1]., 表达式, 的, 公式, 的, [2]., 的, [2.2]., 的, [3]., 的, [3.2]., 的, [3.3]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [4]., 的, [4.2]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [5]., 的, [.2]., 的, [5.2]., 表达式, 的, 公式, 表达式, 的, 公式, 的, test, 表达式, 的, 公式, 的, [1.2]., 表达式, 的, 公式, 一级标题, 的, 二级标题, 的, 题目, 的, 的, 然后, 文本, 的, 的, 然后, 表格, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, 的, 然后, 文本, 的, 的, 然后, 表格, 的, 的, 然后, 文本, 的, 的, 然后, 表格, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, 的, 然后, 文本, 的, 的, 然后, 表格, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, 的, 然后, 文本, 的, 的, 然后, 表格, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, 的, 然后, 文本, 的, 的, 然后, 表格, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, 的, 然后, 文本, 的, 的, 然后, 文本, 的, 的, 然后, 文本, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, 的, 然后, 文本, 的, 的, 然后, 文本, 的, 的, 然后, 公式, 的, LaTeX, 的, 名字, 的, LaTeX, 的, 名字, 的, LaTeX, 的, 名字, 的, LaTeX, 的, 名字, 的, 内容, 的, 位置, 的, 类型, 的, 图例, 的, 名字, 的, LaTeX, 的, 名字, 的, LaTeX, 的, 名字, 的, LaTeX, 的, 名字, 的, 内容, 的, 位置, 的, 类型, 的, 图例, 的, 名字, 的, LaTeX, 的, 名字, 的, LaTeX, 的, 名字, 的, 内容, 的, 位置, 的, 类型, 的, 图例, 的, 名字, 的, LaTeX, 的, 名字, 的, 内容, 的, 位置, 的, 类型, 的, 图例, 的, 名字, 的, 内容, 的, 位置, 的, 类型, 的, 图例, 的, 名字, 的, LaTeX, 的, 名字, 的, 内容, 的, 位置, 的, 类型, 的, 图例, 的, 名字, 的, 题目, 的, 地址, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 10#12, #, 10#14, #, 10#16, #, 2#18, #, 18#20, #, 2#22, #, 22#24, #, 22#26, #, 22#28, #, 22#30, #, 22#32, #, 32#34, #, 34#, 32#37, #, 37#, 32#40, #, 40#, 32#43, #, 43#, 32#46, #, 46#, 32#49, #, 49#, 32#52, #, #, 52#53, 52#, 32#57, #, 32#59, #, 32#61, #, 32#63, #, 32#65, #, #, 57#66, 57#, #, 59#69, 59#, #, 61#72, 61#, #, 63#75, 63#, #, 65#78, 65#, 32#82, #, 32#84, #, #, 82#85, 82#, #, 84#88, 84#, 32#92, #, 32#94, #, 32#96, #, #, 92#97, 92#, #, 96#100, 96#, 22#104, #, #, 104#105, 104#, 32#109, #, #, 109#110, 109#, #, 28#113, #, 28#115, #, 115#117, 115#120, 117#121, #, 115#121, 115#124, 121#125, #, 115#125, 115#128, 125#129, #, 115#129, 115#132, 129#133, #, 115#133, 115#136, 133#137, #, 115#137, 115#140, 137#141, #, 115#141, 115#144, 141#145, #, 115#145, 115#148, 145#149, #, 115#149, 115#152, 149#153, #, 115#153, 115#156, 153#157, #, 115#157, 115#160, 157#161, #, 115#161, 115#164, 161#165, #, 115#165, 115#168, 165#169, #, 115#169, 115#172, 169#173, #, 115#173, 115#176, 173#177, #, 115#177, 115#180, 177#181, #, 115#181, 115#184, 181#185, #, 115#185, 115#188, 185#189, #, 115#189, 115#192, 189#193, #, 115#193, 115#196, 193#197, #, 115#197, 115#200, 197#201, #, 115#201, 115#204, 201#205, #, 115#205, 115#208, 205#209, #, 115#209, 115#212, 209#213, #, 115#213, 115#216, 213#217, #, 115#217, 115#220, 217#221, #, 115#221, 115#224, 221#225, #, 115#225, 115#228, 225#229, #, 115#229, 115#232, 229#233, #, 115#233, 115#236, 233#237, #, 115#237, 115#240, 237#241, #, 115#241, 115#244, 241#245, #, 115#245, 115#248, 245#249, #, 115#249, 115#252, 249#253, #, 115#253, 115#256, 253#257, #, 115#257, 115#260, 257#261, #, 115#261, 115#264, 261#265, #, 115#265, 115#268, 265#269, #, 115#269, #, 269#271, #, 269#273, #, 257#275, #, 257#277, #, 237#279, #, 237#281, #, 229#283, #, 229#285, #, 221#287, #, 221#289, #, 221#291, #, 221#293, #, 221#295, #, 213#297, #, 213#299, #, 205#301, #, 205#303, #, 197#305, #, 197#307, #, 189#309, #, 189#311, #, 189#313, #, 189#315, #, 189#317, #, 181#319, #, 181#321, #, 173#323, #, 173#325, #, 165#327, #, 165#329, #, 165#331, #, 165#333, #, 165#335, #, 157#337, #, 157#339, #, 149#341, #, 149#343, #, 149#345, #, 149#347, #, 149#349, #, 141#351, #, 141#353, #, 141#355, #, 141#357, #, 141#359, #, 133#361, #, 133#363, #, 125#365, #, 125#367, #, 125#369, #, 125#371, #, 125#373, #, 113#375, #, 30#377, 
+### 内容
+#0, 22:
+文档/S应用/NiniEditor.ftxt
+## end
+#2, 227:
++[返回目录](,NiniEditor)
+地址::文档/S应用/NiniEditor.ftxt
+
+操作:...
++[设置动词](,操作)
++[新建阅读窗口](,操作)
+
+Nini, 打开pySEM(文件)
+Nini, 打开github(文件)
+
++[打开文件夹]"/home/xiantao/Documents/Projects/nini-editor"
+转移文件:...
+readme:...
++[上传NiniEditor]"Upload 重置"
+
+
+
+## end
+#3, 54:
+NiniEditor:...
+创建于 20230701
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 59:
+
+上传NiniEditor:...
+将'上传NiniEditor'的"pySEM"替换为"NiniEditor"
+
+
+
+## end
+#10, 412:
+"""
+命令行:...
+
+地址::/home/xiantao/Documents/Projects/nini-editor
+网址::https://gitee.com/xiantaocheng/nini-editor.git
++[打开文件夹](,地址)
+
+"""
++上传NiniEditor->+[del](,+上传NiniEditor)...
+->的(上传NiniEditor,地址)->的(上传NiniEditor,网址)->的(上传NiniEditor,命令行)...
+
+->+[打开文件夹](,地址)...
+->+[模板文本](命令行,+[临时文本])->+[.]"地址"(+[模板文本],地址)...
+    ->+[.]"注释"(+[模板文本],+[临时文本]#注释)...
+    ->[m_text](+上传NiniEditor,+[临时文本]#注释)...
+->+[命令行](,+[临时文本])
+
+
+
+
+
+
+## end
+#12, 85:
+cd %地址;git add --all;git commit -m "%注释";git pull --rebase;git rebase --skip;git push
+## end
+#14, 46:
+https://gitee.com/xiantaocheng/nini-editor.git
+## end
+#16, 44:
+/home/xiantao/Documents/Projects/nini-editor
+## end
+#18, 883:
+"""
++[上传NiniEditor]"Update 光线追踪"
++[打开文件夹]"/home/xiantao/Documents/Projects/nini-editor"
+Nini, 打开结构化文本(文件)
+Nini, 打开PIConGPU(文件)
++[P函数](,转移文件)
+
+src_S_folder_dirs=["S应用","物理问题","数学问题","计算机问题","结构体"]
+转移ftxt文件:...
+
+"""
+
+import os
+
+src_py_code_dirs=["body", "tools","Matlab", "editor_consider.py"]
+tag_py_code_dir="/home/xiantao/Documents/Projects/nini-editor/"
+for src_dir in src_py_code_dirs:
+    os.system("rsync -a %s %s"%(src_dir,tag_py_code_dir))
+
+
+####
+src_S_code_dirs=["配置文件_new.txt","动词.txt","名词.txt","动作.txt","扶桑.ftxt"]
+tag_S_code_dir="/home/xiantao/Documents/Projects/nini-editor/"
+for src_dir in src_S_code_dirs:
+    os.system("rsync -a %s %s"%(src_dir,tag_S_code_dir))
+
+
+####
+src_S_folder_dirs=["伊甸园","结构体","项目"]
+tag_S_code_dir="/home/xiantao/Documents/Projects/nini-editor/文档/"
+for src_dir in src_S_folder_dirs:
+    os.system("rsync -a 文档/%s %s"%(src_dir,tag_S_code_dir))
+
+
+
+
+## end
+#20, 652:
+"""
++[P函数](,转移ftxt文件)
+记住"Python"
+
+Nini, 打开LWFA数据分析(文件)
+src_S_folder_dirs=["S应用","物理问题","数学问题","计算机问题","结构体"]
+print(file.split('.')[-1])
+
+"""
+
+import os
+
+src_S_folder_dirs=["S应用","物理问题","数学问题","计算机问题"]
+tag_folder="/home/xiantao/Documents/Projects/nini-editor/文档"
+for src_dir in src_S_folder_dirs:
+    folder_dir="文档/%s"%(src_dir)
+    list_files = os.listdir(folder_dir)
+
+#     os.system("mkdir %s/%s"%(tag_folder,src_dir))
+
+    for file in list_files:
+        if file.split('.')[-1]=="ftxt":
+            src_path="%s/%s"%(folder_dir,file)
+            tag_path="%s/%s/%s"%(tag_folder,src_dir,file)
+            os.system("cp %s %s"%(src_path,tag_path))
+
+
+
+## end
+#22, 376:
+地址::/home/xiantao/Documents/Projects/nini-editor
+网址::https://gitee.com/xiantaocheng/nini-editor
++[打开文件夹](,地址)
++[打开网页](,网址)
++[上传NiniEditor]"更新表达式语法表"
+
+文本内容:...
++[新建阅读窗口](,文本内容)
+文本结构::
++[删除结构](,文本结构)->+[召唤星辰]"文本结构化"(文本内容,文本结构)
+的(文本结构,二级标题)->+[设置结构](,二级标题)
+
+输出报告:...
++[删除结构](,输出报告)
+'输出报告'的地址是"/home/xiantao/Documents/Projects/nini-editor/README.md"
++[召唤星辰]"结构文本转md"(文本结构,输出报告)
+
+
+
+## end
+#24, 42:
+https://gitee.com/xiantaocheng/nini-editor
+## end
+#26, 44:
+/home/xiantao/Documents/Projects/nini-editor
+## end
+#28, 487:
+
+<h1>NE使用手册</h1>
+<h2>表达式语法</h2>
+<h3>变量</h3>
+%变量
+a[i,j+1]
+%[1].
+<h3>等号</h3>
+%等号
+<h3>基本运算</h3>
+%基本运算
+[a]
+%[1.2].
+<h3>积分运算</h3>
+%积分运算
+\int{x,y,z}{g(x,y,z)+f(x,y,z)}
+%[2].
+\sum{n,m,l}{g[n,m,l]+f[n+1,m-1,2*l-1]}
+%[2.2].
+<h3>微分运算</h3>
+%微分运算
+\d{f}_{t,t}
+%[3].
+\p{x,x,y,y,y,z}{f}
+%[3.2].
+\p{r;z=0,r>=0}{u}
+%[3.3].
+<h3>矢量和矩阵</h3>
+%矢量和矩阵
+\vec{-y,x,z^2}
+%[4].
+\mat{-y,x,z^2;0,1,0;x,y,z}
+%[4.2].
+<h3>方程组</h3>
+\eqs{x+y+z=1;
+2*x-y+z=0;
+3*x-y-2*z^2=-1}
+%[5].
+f(x)=\eqs{x^2,x>=0;
+-e^{-x^2},x<0}
+%[5.2].
+
+## end
+#30, 2671:
+# NE使用手册
+## 表达式语法
+### 变量
+
+|表达式|LaTeX|
+|:---:|:---:|
+|n_electron|$$n_{electron}$$|
+|\beta_1|$$\beta_1$$|
+|a(x)|$$a(x)$$|
+|a[j+1]|$$a_{j+1}$$|
+|\infty|$$\infty$$|
+|-a|$$-a$$|
+|+-a|$$\pm a$$|
+|-+a|$$\mp a$$|
+
+a[i,j+1]
+
+$$
+a_{i,j+1}
+\tag{1}
+$$
+
+### 等号
+
+|表达式|LaTeX|
+|:---:|:---:|
+|a=b+1|$$a=b+1$$|
+|a>b+1|$$a>b+1$$|
+|a<b+1|$$a< b+1$$|
+|a>=b+1|$$a\ge b+1$$|
+|a<=b+1|$$a\le b+1$$|
+|a>>b+1|$$a\gg b+1$$|
+|a<<b+1|$$a\ll b+1$$|
+|a~b+1|$$a\approx b+1$$|
+|a!=b+1|$$a\ne b+1$$|
+
+### 基本运算
+
+|表达式|LaTeX|
+|:---:|:---:|
+|a+b|$$a+b$$|
+|a-b|$$a-b$$|
+|a+-b|$$a\pm b$$|
+|a-+b|$$a\mp b$$|
+|a*b|$$ab$$|
+|a*2|$$a\times 2$$|
+|a/b|$$a/b$$|
+|a^b|$$a^b$$|
+|a^{b+1}|$$a^{b+1}$$|
+|(a+b)|$$(a+b)$$|
+|\sqrt{a+b}^2|$$\sqrt{a+b}^2$$|
+|\frac{a+b}{a-b}^2|$$\left(\frac{a+b}{a-b}\right)^2$$|
+
+[a]
+
+$$
+\left|a\right|
+\tag{1.2}
+$$
+
+### 积分运算
+
+|表达式|LaTeX|
+|:---:|:---:|
+|\int_{-\infty}^{\infty}{t}{1+cos(t)}|$$\int_{-\infty}^{\infty}{dt\ }{\left(1+cos \left( t \right)\right)}$$|
+|\int{t}{1+cos(t)}|$$\int_{}^{}{dt\ }{\left(1+cos \left( t \right)\right)}$$|
+|\sum_{0}^{10}{n}{2^{-n}}|$$\sum_{n=0}^{10}{2^{-n}}$$|
+|\sum{n}{2^{-n}}|$$\sum_{n}{2^{-n}}$$|
+
+\int{x,y,z}{g(x,y,z)+f(x,y,z)}
+
+$$
+\iiint_{}^{}{dz dy dx }{\left(g \left( x,y,z \right)+f \left( x,y,z \right)\right)}
+\tag{2}
+$$
+
+\sum{n,m,l}{g[n,m,l]+f[n+1,m-1,2*l-1]}
+
+$$
+\sum_{l,m,n}{g_{n,m,l}+f_{n+1,m-1,2 l-1}}
+\tag{2.2}
+$$
+
+### 微分运算
+
+|表达式|LaTeX|
+|:---:|:---:|
+|\d{y}_{x}|$$\frac{dy}{dx}$$|
+|\d{y}|$$dy$$|
+|\p{x}{y}|$$\frac{\partial y}{\partial x}$$|
+|\p{x}{}|$$\frac{\partial }{\partial x}$$|
+|\nabla*u|$$\nabla u$$|
+|\vec{\nabla}*u|$$\vec{\nabla} u$$|
+|(\hat{x}*\p{x}{}+\hat{y}*\p{y}{}+\hat{z}*\p{z}{})*u|$$\left(\hat{x} \frac{\partial }{\partial x}+\hat{y} \frac{\partial }{\partial y}+\hat{z} \frac{\partial }{\partial z}\right) u$$|
+
+\d{f}_{t,t}
+
+$$
+\frac{d^{2}f}{dt^{2}}
+\tag{3}
+$$
+
+\p{x,x,y,y,y,z}{f}
+
+$$
+\frac{\partial^{6}f}{\partial x ^{2}\partial y ^{3}\partial z }
+\tag{3.2}
+$$
+
+\p{r;z=0,r>=0}{u}
+
+$$
+\frac{\partial u}{\partial r}\Bigr|_{\substack{r\ge 0, z=0}}
+\tag{3.3}
+$$
+
+### 矢量和矩阵
+
+|表达式|LaTeX|
+|:---:|:---:|
+|\vec{A}|$$\vec{A}$$|
+|\hat{A}|$$\hat{A}$$|
+|\mat{A}|$$\mathbf{A}$$|
+|\vec{\nabla}\cdot \vec{v}|$$\vec{\nabla}\cdot \vec{A}$$|
+|\vec{\nabla}\times \vec{v}|$$\vec{\nabla}\times \vec{A}$$|
+
+\vec{-y,x,z^2}
+
+$$
+\begin{pmatrix}
+-y,&x,&z^{2}
+\end{pmatrix}
+\tag{4}
+$$
+
+\mat{-y,x,z^2;0,1,0;x,y,z}
+
+$$
+\begin{pmatrix}
+-y&x&z^{2}\\ 0&1&0\\ x&y&z
+\end{pmatrix}
+\tag{4.2}
+$$
+
+### 方程组
+\eqs{x+y+z=1;
+2*x-y+z=0;
+3*x-y-2*z^2=-1}
+
+$$
+\begin{cases}
+x+y+z=1\\ 2 x-y+z=0\\ 3 x-y-2 z^{2}=-1
+\end{cases}
+\tag{5}
+$$
+
+f(x)=\eqs{x^2,x>=0;
+-e^{-x^2},x<0}
+
+$$
+f \left( x \right)=\begin{cases}
+x^{2}, & x\ge 0\\ -e^{-x^{2}}, & x< 0
+\end{cases}
+\tag{5.2}
+$$
+
+
+
+## end
+#32, 762:
+<!--
++[H函数](,文本内容)
+-->
+
+<h1>NE使用手册</h1>
+<h2>表达式语法</h2>
+<h3>变量</h3>
+%变量<br>
+
+a[i,j+1]
+%[1].
+
+<h3>等号</h3>
+%等号<br>
+
+<h3>基本运算</h3>
+%基本运算<br>
+[a]
+%[1.2].
+
+<h3>积分运算</h3>
+%积分运算<br>
+
+\int{x,y,z}{g(x,y,z)+f(x,y,z)}
+%[2].
+\sum{n,m,l}{g[n,m,l]+f[n+1,m-1,2*l-1]}
+%[2.2].
+
+<h3>微分运算</h3>
+%微分运算<br>
+
+\d{f}_{t,t}
+%[3].
+\p{x,x,y,y,y,z}{f}
+%[3.2].
+\p{r;z=0,r>=0}{u}
+%[3.3].
+
+<h3>矢量和矩阵</h3>
+%矢量和矩阵<br>
+
+\vec{-y,x,z^2}
+%[4].
+\mat{-y,x,z^2;0,1,0;x,y,z}
+%[4.2].
+
+
+<h3>方程组</h3>
+\eqs{x+y+z=1;
+2*x-y+z=0;
+3*x-y-2*z^2=-1}
+%[5].
+
+f(x)=\eqs{x^2,x>=0;
+-e^{-x^2},x<0}
+%[5.2].
+
+<!--
+[1.2].:
+将"\p{x,x,y,y,y,z}{f}"记作为式(3.2)
+更新式(2)
+
+
+\int_{}^{}{dt\ }{\left(1+cos \left( t \right)\right)}
+变量(表格):...
+等号(表格):...
+基本运算(表格):...
+积分运算(表格):...
+微分运算(表格):...
+矢量和矩阵(表格):...
++[新建阅读窗口](,变量)
+
++[H函数](,文本内容)
+-->
+## end
+#34, 155:
+表达式, LaTeX
+n_electron, $$n_{electron}$$
+\beta_1, $$\beta_1$$
+a(x), $$a(x)$$
+a[j+1], $$a_{j+1}$$
+\infty, $$\infty$$
+-a, $$-a$$
++-a, $$\pm a$$
+-+a, $$\mp a$$
+## end
+#37, 193:
+表达式, LaTeX
+a=b+1, $$a=b+1$$
+a>b+1, $$a>b+1$$
+a<b+1, $$a< b+1$$
+a>=b+1, $$a\ge b+1$$
+a<=b+1, $$a\le b+1$$
+a>>b+1, $$a\gg b+1$$
+a<<b+1, $$a\ll b+1$$
+a~b+1, $$a\approx b+1$$
+a!=b+1, $$a\ne b+1$$
+
+
+## end
+#40, 252:
+表达式, LaTeX
+a+b, $$a+b$$
+a-b, $$a-b$$
+a+-b, $$a\pm b$$
+a-+b, $$a\mp b$$
+a*b, $$ab$$
+a*2, $$a\times 2$$
+a/b, $$a/b$$
+a^b, $$a^b$$
+a^{b+1}, $$a^{b+1}$$
+(a+b), $$(a+b)$$
+\sqrt{a+b}^2, $$\sqrt{a+b}^2$$
+\frac{a+b}{a-b}^2, $$\left(\frac{a+b}{a-b}\right)^2$$
+
+
+## end
+#43, 287:
+表达式, LaTeX
+\int_{-\infty}^{\infty}{t}{1+cos(t)}, $$\int_{-\infty}^{\infty}{dt\ }{\left(1+cos \left( t \right)\right)}$$
+\int{t}{1+cos(t)}, $$\int_{}^{}{dt\ }{\left(1+cos \left( t \right)\right)}$$
+\sum_{0}^{10}{n}{2^{-n}},$$\sum_{n=0}^{10}{2^{-n}}$$
+\sum{n}{2^{-n}},$$\sum_{n}{2^{-n}}$$
+
+## end
+#46, 375:
+表达式, LaTeX
+\d{y}_{x},$$\frac{dy}{dx}$$
+\d{y}, $$dy$$
+\p{x}{y},$$\frac{\partial y}{\partial x}$$
+\p{x}{},$$\frac{\partial }{\partial x}$$
+\nabla*u,$$\nabla u$$
+\vec{\nabla}*u,$$\vec{\nabla} u$$
+(\hat{x}*\p{x}{}+\hat{y}*\p{y}{}+\hat{z}*\p{z}{})*u,$$\left(\hat{x} \frac{\partial }{\partial x}+\hat{y} \frac{\partial }{\partial y}+\hat{z} \frac{\partial }{\partial z}\right) u$$
+
+## end
+#49, 189:
+表达式, LaTeX
+\vec{A},$$\vec{A}$$
+\hat{A},$$\hat{A}$$
+\mat{A},$$\mathbf{A}$$
+\vec{\nabla}\cdot \vec{v},$$\vec{\nabla}\cdot \vec{A}$$
+\vec{\nabla}\times \vec{v},$$\vec{\nabla}\times \vec{A}$$
+
+
+## end
+#52, 9:
+a_{i,j+1}
+## end
+#53, 8:
+a[i,j+1]
+## end
+#57, 83:
+\iiint_{}^{}{dz dy dx }{\left(g \left( x,y,z \right)+f \left( x,y,z \right)\right)}
+## end
+#59, 41:
+\sum_{l,m,n}{g_{n,m,l}+f_{n+1,m-1,2 l-1}}
+## end
+#61, 21:
+\frac{d^{2}f}{dt^{2}}
+## end
+#63, 63:
+\frac{\partial^{6}f}{\partial x ^{2}\partial y ^{3}\partial z }
+## end
+#65, 60:
+\frac{\partial u}{\partial r}\Bigr|_{\substack{r\ge 0, z=0}}
+## end
+#66, 36:
+\int_{}^{}{x,y,z}{g(x,y,z)+f(x,y,z)}
+## end
+#69, 38:
+\sum{n,m,l}{g[n,m,l]+f[n+1,m-1,2*l-1]}
+## end
+#72, 11:
+\d{f}_{t,t}
+## end
+#75, 18:
+\p{x,x,y,y,y,z}{f}
+## end
+#78, 19:
+\p{r;r\ge 0,z=0}{u}
+## end
+#82, 44:
+\begin{pmatrix}
+-y,&x,&z^{2}
+\end{pmatrix}
+
+
+## end
+#84, 58:
+\begin{pmatrix}
+-y&x&z^{2}\\ 0&1&0\\ x&y&z
+\end{pmatrix}
+
+
+## end
+#85, 14:
+\vec{-y,x,z^2}
+## end
+#88, 26:
+\mat{-y,x,z^2;0,1,0;x,y,z}
+## end
+#92, 66:
+\begin{cases}
+x+y+z=1\\ 2 x-y+z=0\\ 3 x-y-2 z^{2}=-1
+\end{cases}
+
+
+## end
+#96, 84:
+f \left( x \right)=\begin{cases}
+x^{2}, & x\ge 0\\ -e^{-x^{2}}, & x< 0
+\end{cases}
+
+
+## end
+#97, 40:
+\eqs{x+y+z=1;
+2*x-y+z=0;
+3*x-y-2*z^2=-1}
+## end
+#100, 34:
+f(x)=\eqs{x^2,x>=0;
+-e^{-x^2},x<0}
+## end
+#104, 14:
+\left|a\right|
+## end
+#105, 3:
+[a]
+## end
+#109, 14:
+\left|a\right|
+## end
+#110, 3:
+[a]
+## end
+#113, 6:
+NE使用手册
+## end
+#115, 461:
+表达式语法
+<h3>变量</h3>
+%变量
+a[i,j+1]
+%[1].
+<h3>等号</h3>
+%等号
+<h3>基本运算</h3>
+%基本运算
+[a]
+%[1.2].
+<h3>积分运算</h3>
+%积分运算
+\int{x,y,z}{g(x,y,z)+f(x,y,z)}
+%[2].
+\sum{n,m,l}{g[n,m,l]+f[n+1,m-1,2*l-1]}
+%[2.2].
+<h3>微分运算</h3>
+%微分运算
+\d{f}_{t,t}
+%[3].
+\p{x,x,y,y,y,z}{f}
+%[3.2].
+\p{r;z=0,r>=0}{u}
+%[3.3].
+<h3>矢量和矩阵</h3>
+%矢量和矩阵
+\vec{-y,x,z^2}
+%[4].
+\mat{-y,x,z^2;0,1,0;x,y,z}
+%[4.2].
+<h3>方程组</h3>
+\eqs{x+y+z=1;
+2*x-y+z=0;
+3*x-y-2*z^2=-1}
+%[5].
+f(x)=\eqs{x^2,x>=0;
+-e^{-x^2},x<0}
+%[5.2].
+
+## end
+#117, 5:
+表达式语法
+## end
+#121, 11:
+<h3>变量</h3>
+## end
+#125, 3:
+%变量
+## end
+#129, 8:
+a[i,j+1]
+## end
+#133, 5:
+%[1].
+## end
+#137, 11:
+<h3>等号</h3>
+## end
+#141, 3:
+%等号
+## end
+#145, 13:
+<h3>基本运算</h3>
+## end
+#149, 5:
+%基本运算
+## end
+#153, 3:
+[a]
+## end
+#157, 7:
+%[1.2].
+## end
+#161, 13:
+<h3>积分运算</h3>
+## end
+#165, 5:
+%积分运算
+## end
+#169, 30:
+\int{x,y,z}{g(x,y,z)+f(x,y,z)}
+## end
+#173, 5:
+%[2].
+## end
+#177, 38:
+\sum{n,m,l}{g[n,m,l]+f[n+1,m-1,2*l-1]}
+## end
+#181, 7:
+%[2.2].
+## end
+#185, 13:
+<h3>微分运算</h3>
+## end
+#189, 5:
+%微分运算
+## end
+#193, 11:
+\d{f}_{t,t}
+## end
+#197, 5:
+%[3].
+## end
+#201, 18:
+\p{x,x,y,y,y,z}{f}
+## end
+#205, 7:
+%[3.2].
+## end
+#209, 17:
+\p{r;z=0,r>=0}{u}
+## end
+#213, 7:
+%[3.3].
+## end
+#217, 14:
+<h3>矢量和矩阵</h3>
+## end
+#221, 6:
+%矢量和矩阵
+## end
+#225, 14:
+\vec{-y,x,z^2}
+## end
+#229, 5:
+%[4].
+## end
+#233, 26:
+\mat{-y,x,z^2;0,1,0;x,y,z}
+## end
+#237, 7:
+%[4.2].
+## end
+#241, 12:
+<h3>方程组</h3>
+## end
+#245, 13:
+\eqs{x+y+z=1;
+## end
+#249, 10:
+2*x-y+z=0;
+## end
+#253, 15:
+3*x-y-2*z^2=-1}
+## end
+#257, 5:
+%[5].
+## end
+#261, 19:
+f(x)=\eqs{x^2,x>=0;
+## end
+#265, 14:
+-e^{-x^2},x<0}
+## end
+#269, 7:
+%[5.2].
+## end
+#271, 84:
+f \left( x \right)=\begin{cases}
+x^{2}, & x\ge 0\\ -e^{-x^{2}}, & x< 0
+\end{cases}
+
+
+## end
+#273, 6:
+[5.2].
+## end
+#275, 66:
+\begin{cases}
+x+y+z=1\\ 2 x-y+z=0\\ 3 x-y-2 z^{2}=-1
+\end{cases}
+
+
+## end
+#277, 4:
+[5].
+## end
+#279, 58:
+\begin{pmatrix}
+-y&x&z^{2}\\ 0&1&0\\ x&y&z
+\end{pmatrix}
+
+
+## end
+#281, 6:
+[4.2].
+## end
+#283, 44:
+\begin{pmatrix}
+-y,&x,&z^{2}
+\end{pmatrix}
+
+
+## end
+#285, 4:
+[4].
+## end
+#287, 189:
+表达式, LaTeX
+\vec{A},$$\vec{A}$$
+\hat{A},$$\hat{A}$$
+\mat{A},$$\mathbf{A}$$
+\vec{\nabla}\cdot \vec{v},$$\vec{\nabla}\cdot \vec{A}$$
+\vec{\nabla}\times \vec{v},$$\vec{\nabla}\times \vec{A}$$
+
+
+## end
+#289, 1:
+b
+## end
+#291, 6:
+normal
+## end
+#295, 5:
+矢量和矩阵
+## end
+#297, 60:
+\frac{\partial u}{\partial r}\Bigr|_{\substack{r\ge 0, z=0}}
+## end
+#299, 6:
+[3.3].
+## end
+#301, 63:
+\frac{\partial^{6}f}{\partial x ^{2}\partial y ^{3}\partial z }
+## end
+#303, 6:
+[3.2].
+## end
+#305, 21:
+\frac{d^{2}f}{dt^{2}}
+## end
+#307, 4:
+[3].
+## end
+#309, 375:
+表达式, LaTeX
+\d{y}_{x},$$\frac{dy}{dx}$$
+\d{y}, $$dy$$
+\p{x}{y},$$\frac{\partial y}{\partial x}$$
+\p{x}{},$$\frac{\partial }{\partial x}$$
+\nabla*u,$$\nabla u$$
+\vec{\nabla}*u,$$\vec{\nabla} u$$
+(\hat{x}*\p{x}{}+\hat{y}*\p{y}{}+\hat{z}*\p{z}{})*u,$$\left(\hat{x} \frac{\partial }{\partial x}+\hat{y} \frac{\partial }{\partial y}+\hat{z} \frac{\partial }{\partial z}\right) u$$
+
+## end
+#311, 1:
+b
+## end
+#313, 6:
+normal
+## end
+#317, 4:
+微分运算
+## end
+#319, 41:
+\sum_{l,m,n}{g_{n,m,l}+f_{n+1,m-1,2 l-1}}
+## end
+#321, 6:
+[2.2].
+## end
+#323, 83:
+\iiint_{}^{}{dz dy dx }{\left(g \left( x,y,z \right)+f \left( x,y,z \right)\right)}
+## end
+#325, 4:
+[2].
+## end
+#327, 287:
+表达式, LaTeX
+\int_{-\infty}^{\infty}{t}{1+cos(t)}, $$\int_{-\infty}^{\infty}{dt\ }{\left(1+cos \left( t \right)\right)}$$
+\int{t}{1+cos(t)}, $$\int_{}^{}{dt\ }{\left(1+cos \left( t \right)\right)}$$
+\sum_{0}^{10}{n}{2^{-n}},$$\sum_{n=0}^{10}{2^{-n}}$$
+\sum{n}{2^{-n}},$$\sum_{n}{2^{-n}}$$
+
+## end
+#329, 1:
+b
+## end
+#331, 6:
+normal
+## end
+#335, 4:
+积分运算
+## end
+#337, 14:
+\left|a\right|
+## end
+#339, 6:
+[1.2].
+## end
+#341, 252:
+表达式, LaTeX
+a+b, $$a+b$$
+a-b, $$a-b$$
+a+-b, $$a\pm b$$
+a-+b, $$a\mp b$$
+a*b, $$ab$$
+a*2, $$a\times 2$$
+a/b, $$a/b$$
+a^b, $$a^b$$
+a^{b+1}, $$a^{b+1}$$
+(a+b), $$(a+b)$$
+\sqrt{a+b}^2, $$\sqrt{a+b}^2$$
+\frac{a+b}{a-b}^2, $$\left(\frac{a+b}{a-b}\right)^2$$
+
+
+## end
+#343, 1:
+b
+## end
+#345, 6:
+normal
+## end
+#349, 4:
+基本运算
+## end
+#351, 193:
+表达式, LaTeX
+a=b+1, $$a=b+1$$
+a>b+1, $$a>b+1$$
+a<b+1, $$a< b+1$$
+a>=b+1, $$a\ge b+1$$
+a<=b+1, $$a\le b+1$$
+a>>b+1, $$a\gg b+1$$
+a<<b+1, $$a\ll b+1$$
+a~b+1, $$a\approx b+1$$
+a!=b+1, $$a\ne b+1$$
+
+
+## end
+#353, 1:
+b
+## end
+#355, 6:
+normal
+## end
+#359, 2:
+等号
+## end
+#361, 9:
+a_{i,j+1}
+## end
+#363, 4:
+[1].
+## end
+#365, 155:
+表达式, LaTeX
+n_electron, $$n_{electron}$$
+\beta_1, $$\beta_1$$
+a(x), $$a(x)$$
+a[j+1], $$a_{j+1}$$
+\infty, $$\infty$$
+-a, $$-a$$
++-a, $$\pm a$$
+-+a, $$\mp a$$
+## end
+#367, 1:
+b
+## end
+#369, 6:
+normal
+## end
+#373, 2:
+变量
+## end
+#375, 6:
+NE使用手册
+## end
+#377, 44:
+/home/xiantao/Documents/Projects/nini-editor
+## end
+### 结束

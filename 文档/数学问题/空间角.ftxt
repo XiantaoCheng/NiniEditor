@@ -1,0 +1,2496 @@
+### 节点
+地址, 几何画图, 几何画图, 地址, [标题], 的, 的, 空间角, 目录, 的, 的, 图示, 画板, 的, 坐标系, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 选中区域, 的, 的, 输出, HTML, 的, 的, 输出, 输入, 的, 的, 的, 的, 的, 的, 起点, 尺寸, 类型, 原点, x坐标, y坐标, 可选, 的, z轴, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 的, x轴, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 的, 晶轴, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 的, 投影方向, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 的, 垂直虚线, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 的, 水平虚线, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 的, theta, 的, phi, 的, 节点数目统计, 20210407, 的, 20210528, 的, M函数, 测试坐标变换, 地址, 的, M函数, 局域坐标系, 地址, 的, M函数, 坐标变换, 的, 的, M函数, 显示局域坐标系, 图片, 动态示意图, 图片, 欧拉角示意图, 的, 的, 的, 的, html, 欧拉角与坐标轴, 的, 20210927, 的, 20211002, 的, 20211203, 的, 20211205, 的, 的, 局域坐标系单位向量, M函数, 20211209, 的, 20211214, 的, 的, 网页画板, 的, 
+### 关联
+#, #, #, #, #, 7#2, 7#3, #, #, 8#7, 7#11, #, 11#, 11#14, #, 14#25, 14#33, 14#37, 14#48, 14#49, 14#50, 14#51, 14#52, 14#53, 14#54, #, 25#41, 25#30, 25#31, 25#32, #, #, #, #, 33#36, 33#41, #, #, 37#40, 37#41, #, #, 41#49, 41#48, 41#51, 41#52, 41#53, 41#54, #, #, #, #, #, #, #, 11#56, #, 56#94, 56#95, 56#66, 56#74, 56#75, 56#96, 56#97, 56#98, 56#86, #, 66#88, 66#71, 66#72, 66#73, #, #, #, #, #, 75#79, 75#82, 75#83, #, 79#94, 79#95, #, #, 83#85, #, #, 86#88, #, 88#94, 88#95, 88#96, 88#97, 88#98, #, #, #, #, #, 11#100, #, 100#138, 100#139, 100#110, 100#118, 100#119, 100#140, 100#141, 100#142, 100#130, #, 110#132, 110#115, 110#116, 110#117, #, #, #, #, #, 119#123, 119#126, 119#127, #, 123#138, 123#139, #, #, 127#129, #, #, 130#132, #, 132#138, 132#139, 132#140, 132#141, 132#142, #, #, #, #, #, 11#144, #, 144#182, 144#183, 144#154, 144#162, 144#163, 144#184, 144#185, 144#186, 144#174, #, 154#176, 154#159, 154#160, 154#161, #, #, #, #, #, 163#167, 163#170, 163#171, #, 167#182, 167#183, #, #, 171#173, #, #, 174#176, #, 176#182, 176#183, 176#184, 176#185, 176#186, #, #, #, #, #, 11#188, #, 188#226, 188#227, 188#198, 188#206, 188#207, 188#228, 188#229, 188#230, 188#218, #, 198#220, 198#203, 198#204, 198#205, #, #, #, #, #, 207#211, 207#214, 207#215, #, 211#226, 211#227, #, #, 215#217, #, #, 218#220, #, 220#226, 220#227, 220#228, 220#229, 220#230, #, #, #, #, #, 11#232, #, 232#270, 232#271, 232#242, 232#250, 232#251, 232#272, 232#273, 232#274, 232#262, #, 242#264, 242#247, 242#248, 242#249, #, #, #, #, #, 251#255, 251#258, 251#259, #, 255#270, 255#271, #, #, 259#261, #, #, 262#264, #, 264#270, 264#271, 264#272, 264#273, 264#274, #, #, #, #, #, 11#276, #, 276#314, 276#315, 276#286, 276#294, 276#295, 276#316, 276#317, 276#318, 276#306, #, 286#308, 286#291, 286#292, 286#293, #, #, #, #, #, 295#299, 295#302, 295#303, #, 299#314, 299#315, #, #, 303#305, #, #, 306#308, #, 308#314, 308#315, 308#316, 308#317, 308#318, #, #, #, #, #, 11#320, 56#144, 11#322, 100#188, 8#324, #, #, 324#325, #, 324#327, 330#, #, #, 334#331, 334#, #, #, 338#335, 338#, #, 342#334, 342#338, 342#, #, 344#, #, 346#, #, 352#330, 352#342, 352#344, 352#346, 352#, #, 7#352, #, 324#354, #, 324#356, #, 324#358, #, 324#360, 342#363, #, 363#, #, 324#365, #, 324#367, 7#370, #, 7#del, 
+### 内容
+#0, 16:
+文档\数学问题\空间角.ftxt
+## end
+#1, 17:
+文档\S应用\几何样本库.ftxt
+## end
+#2, 17:
+文档\S应用\几何样本库.ftxt
+## end
+#3, 16:
+文档\数学问题\空间角.ftxt
+## end
+#4, 3:
+空间角
+## end
+#7, 197:
++[返回目录](,空间角)
+地址::文档\数学问题\空间角.ftxt
++[导出结构](,空间角)
+
+几何画图::文档\S应用\几何样本库.ftxt
++[打开文件](+新窗口,几何画图)
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+
++[粘贴](,空间角)
+
+图示(画板):...
++[画板](+几何图示,图示)
+欧拉角与坐标轴(html):...
+
+
+
+
+## end
+#8, 31:
+空间角:...
+创建于 20210407
+
+节点数目统计::
+
+## end
+#11, 209:
++[返回目录](,图示)
+
+
+坐标系:...
+x轴:...
+z轴:...
+
+晶轴:...
+投影方向:...
+垂直虚线:...
+水平虚线:...
++[创建直线](,水平虚线)
+
++theta(z轴,晶轴)
+theta:...
++[显示](,theta)
++[创建角度](,theta)
+(上面的+[创建角度]还有问题)
+
++phi(x轴,投影方向)
+phi:...
++[显示](,phi)
++[创建角度](,phi)
+
+
+## end
+#14, 140:
++[返回目录](,坐标系)
++[设置结构](,坐标系)
+
+起点::-200,100
+尺寸::100,100
+类型::矩形
+
+原点::0.1,0.1
+x坐标::x
+y坐标::y
+
+可选::NO
+
+画图:...
+选中区域:...
+HTML:...
+
++[创建输入](可选,画图)
+
+
+
+## end
+#25, 1487:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+def drawArrow(qp,pt1,pt2):
+    angle=30
+    l=30
+    D=0
+    d=10
+    
+    lineWidth=2
+    
+    edgeColor=[0,0,0]
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+    
+    r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+    if r!=0:
+        theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+    dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+    dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+    
+    pt10=[0,0]
+    pt20=[0,0]
+    pt10[0]=pt1[0]
+    pt10[1]=pt1[1]
+    pt20[0]=pt2[0]
+    pt20[1]=pt2[1]
+    
+    
+    path2=QPainterPath()
+    path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+    path2.lineTo(pt20[0],pt20[1])
+    path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+    
+    qp.drawPath(path2)
+    
+    
+    qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+    
+    qp.setBrush(QBrush())
+    qp.setPen(QPen())
+
+
+pt=起点
+size=尺寸
+orig=[pt[0]+size[0]*原点[0],pt[1]+size[1]*原点[1]]
+
+qp.setFont(QFont("Decorative",15))
+
+pt1=[pt[0],orig[1]]
+pt2=[pt[0]+size[0],orig[1]]
+qp.drawText(pt2[0],pt2[1],100,30,Qt.AlignLeft|Qt.AlignVCenter,x坐标)
+drawArrow(qp,pt1,pt2)
+
+pt1=[orig[0],pt[1]]
+pt2=[orig[0],pt[1]+size[1]]
+qp.drawText(pt2[0],pt2[1]-30,100,30,Qt.AlignLeft|Qt.AlignVCenter,y坐标)
+drawArrow(qp,pt1,pt2)
+
+
+qp.drawText(orig[0],orig[1],30,30,Qt.AlignHCenter|Qt.AlignVCenter,'O')
+qp.setFont(QFont())
+
+
+## end
+#31, 677:
+"""
++[返回目录](,选中框)
+
+"""
+
+
+X=[pt[0],pt[0]+size[0]/2,pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]/2,pt[1]+size[1]]
+R=6
+
+qp.setBrush(QBrush())
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[0]-R,2*R,2*R)
+
+if size[0]>30 or size[0]<-30:
+    qp.drawEllipse(X[1]-R,Y[0]-R,2*R,2*R)
+    qp.drawEllipse(X[1]-R,Y[2]-R,2*R,2*R)
+
+if size[1]>30 or size[1]<-30:
+    qp.drawEllipse(X[0]-R,Y[1]-R,2*R,2*R)
+    qp.drawEllipse(X[2]-R,Y[1]-R,2*R,2*R)
+
+
+qp.drawEllipse(X[0]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+## end
+#32, 1487:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+def drawArrow(qp,pt1,pt2):
+    angle=30
+    l=30
+    D=0
+    d=10
+    
+    lineWidth=2
+    
+    edgeColor=[0,0,0]
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+    
+    r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+    if r!=0:
+        theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+    dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+    dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+    
+    pt10=[0,0]
+    pt20=[0,0]
+    pt10[0]=pt1[0]
+    pt10[1]=pt1[1]
+    pt20[0]=pt2[0]
+    pt20[1]=pt2[1]
+    
+    
+    path2=QPainterPath()
+    path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+    path2.lineTo(pt20[0],pt20[1])
+    path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+    
+    qp.drawPath(path2)
+    
+    
+    qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+    
+    qp.setBrush(QBrush())
+    qp.setPen(QPen())
+
+
+pt=起点
+size=尺寸
+orig=[pt[0]+size[0]*原点[0],pt[1]+size[1]*原点[1]]
+
+qp.setFont(QFont("Decorative",15))
+
+pt1=[pt[0],orig[1]]
+pt2=[pt[0]+size[0],orig[1]]
+qp.drawText(pt2[0],pt2[1],100,30,Qt.AlignLeft|Qt.AlignVCenter,x坐标)
+drawArrow(qp,pt1,pt2)
+
+pt1=[orig[0],pt[1]]
+pt2=[orig[0],pt[1]+size[1]]
+qp.drawText(pt2[0],pt2[1]-30,100,30,Qt.AlignLeft|Qt.AlignVCenter,y坐标)
+drawArrow(qp,pt1,pt2)
+
+
+qp.drawText(orig[0],orig[1],30,30,Qt.AlignHCenter|Qt.AlignVCenter,'O')
+qp.setFont(QFont())
+
+
+## end
+#33, 263:
+"""
++[返回目录](,选中区域)
+输入:...
++[设置结构](,输入)
+
+"""
+
+pt=起点
+pt0=mouse_pos
+size=尺寸
+
+X=[pt[0],pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]]
+
+if (pt0[0]-X[0])*(pt0[0]-X[1])<=0 and (pt0[1]-Y[0])*(pt0[1]-Y[1])<=0:
+    state=True
+else:
+    state=False
+
+
+if 可选=='NO':
+    state=False
+
+
+
+## end
+#36, 14:
++[返回目录]
++[内容]
+
+## end
+#37, 655:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+
+var size=[%尺寸];
+var pos=[%起点];
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(255,255,255)';
+} else {
+	ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        ctx.strokeRect(%起点,%尺寸);
+}
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fillRect(%起点,%尺寸);
+}
+
+//ctx.strokeStyle='rgb(%线颜色)';
+//ctx.lineWidth=%线粗细;
+//ctx.strokeRect(%起点,%尺寸);
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font=%字体*2+'px serif'
+ctx.fillText('%文字',pos[0]+size[0]/2,pos[1]+size[1]/2);
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#40, 14:
++[返回目录]
++[内容]
+
+## end
+#41, 137:
++[返回目录](,输入)
+
+面颜色::255,255,255
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+文字::测试
+字体::20
+尺寸::100,100
+起点::-200,100
+坐标范围::-1,1-1,1
+x坐标::x
+y坐标::y
+可选::NO
+
+## end
+#48, 37:
+-271.8557756736592, 85.53643114203487
+## end
+#49, 39:
+471.71155134731833, -269.07286228406974
+## end
+#50, 2:
+矩形
+## end
+#51, 7:
+0.1,0.1
+## end
+#52, 1:
+y
+## end
+#53, 1:
+z
+## end
+#54, 2:
+NO
+## end
+#56, 105:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#66, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#72, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#73, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#74, 2:
+直线
+## end
+#75, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#79, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#82, 14:
++[返回目录]
++[内容]
+
+## end
+#83, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#85, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#86, 950:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+var pt1=[%起点];
+var pt2=[%终点];
+
+
+//arrows
+var angle=30/180*Math.PI;
+var l=20;
+var d=10;
+
+r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+if (r!=0) {
+    theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+}
+
+dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+
+pt10=[0,0];
+pt20=[0,0];
+pt10[0]=pt1[0];
+pt10[1]=pt1[1];
+pt20[0]=pt2[0];
+pt20[1]=pt2[1];
+
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+ctx.fillStyle='rgb(0,0,0,0)';
+
+
+ctx.beginPath();
+
+
+//ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+//ctx.lineTo(pt10[0],pt10[1]);
+//ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+
+ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+
+
+ctx.moveTo(pt10[0],pt10[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+
+ctx.stroke()
+ctx.fill()
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#88, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#94, 12:
+-224.0, 80.5
+## end
+#95, 14:
+-224.0, -182.5
+## end
+#96, 5:
+0,0,0
+## end
+#97, 8:
+DashLine
+## end
+#98, 1:
+2
+## end
+#100, 105:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#110, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#116, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#117, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#118, 2:
+直线
+## end
+#119, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#123, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#126, 14:
++[返回目录]
++[内容]
+
+## end
+#127, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#129, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#130, 950:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+var pt1=[%起点];
+var pt2=[%终点];
+
+
+//arrows
+var angle=30/180*Math.PI;
+var l=20;
+var d=10;
+
+r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+if (r!=0) {
+    theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+}
+
+dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+
+pt10=[0,0];
+pt20=[0,0];
+pt10[0]=pt1[0];
+pt10[1]=pt1[1];
+pt20[0]=pt2[0];
+pt20[1]=pt2[1];
+
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+ctx.fillStyle='rgb(0,0,0,0)';
+
+
+ctx.beginPath();
+
+
+//ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+//ctx.lineTo(pt10[0],pt10[1]);
+//ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+
+ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+
+
+ctx.moveTo(pt10[0],pt10[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+
+ctx.stroke()
+ctx.fill()
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#132, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#138, 40:
+-157.21912590512505, -2.0542516508749884
+## end
+#139, 37:
+-312.78087409487495, 136.054251650875
+## end
+#140, 5:
+0,0,0
+## end
+#141, 8:
+DashLine
+## end
+#142, 1:
+2
+## end
+#144, 105:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#154, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#160, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#161, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#162, 2:
+直线
+## end
+#163, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#167, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#170, 14:
++[返回目录]
++[内容]
+
+## end
+#171, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#173, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#174, 950:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+var pt1=[%起点];
+var pt2=[%终点];
+
+
+//arrows
+var angle=30/180*Math.PI;
+var l=20;
+var d=10;
+
+r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+if (r!=0) {
+    theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+}
+
+dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+
+pt10=[0,0];
+pt20=[0,0];
+pt10[0]=pt1[0];
+pt10[1]=pt1[1];
+pt20[0]=pt2[0];
+pt20[1]=pt2[1];
+
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+ctx.fillStyle='rgb(0,0,0,0)';
+
+
+ctx.beginPath();
+
+
+//ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+//ctx.lineTo(pt10[0],pt10[1]);
+//ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+
+ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+
+
+ctx.moveTo(pt10[0],pt10[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+
+ctx.stroke()
+ctx.fill()
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#176, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#182, 37:
+-225.4382518102501, 59.89149669825002
+## end
+#183, 13:
+-148.0, -85.0
+## end
+#184, 5:
+0,0,0
+## end
+#185, 8:
+DashLine
+## end
+#186, 1:
+1
+## end
+#188, 105:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#198, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#204, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#205, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#206, 2:
+直线
+## end
+#207, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#211, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#214, 14:
++[返回目录]
++[内容]
+
+## end
+#215, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#217, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#218, 950:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+var pt1=[%起点];
+var pt2=[%终点];
+
+
+//arrows
+var angle=30/180*Math.PI;
+var l=20;
+var d=10;
+
+r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+if (r!=0) {
+    theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+}
+
+dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+
+pt10=[0,0];
+pt20=[0,0];
+pt10[0]=pt1[0];
+pt10[1]=pt1[1];
+pt20[0]=pt2[0];
+pt20[1]=pt2[1];
+
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+ctx.fillStyle='rgb(0,0,0,0)';
+
+
+ctx.beginPath();
+
+
+//ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+//ctx.lineTo(pt10[0],pt10[1]);
+//ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+
+ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+
+
+ctx.moveTo(pt10[0],pt10[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+
+ctx.stroke()
+ctx.fill()
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#220, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#226, 12:
+-225.0, 59.0
+## end
+#227, 13:
+-148.0, 130.0
+## end
+#228, 5:
+0,0,0
+## end
+#229, 8:
+DashLine
+## end
+#230, 1:
+1
+## end
+#232, 129:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+## end
+#242, 313:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#248, 313:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#249, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#250, 2:
+直线
+## end
+#251, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#255, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#258, 14:
++[返回目录]
++[内容]
+
+## end
+#259, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#261, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#262, 200:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+
+
+ctx.beginPath();
+ctx.moveTo(%起点);
+ctx.lineTo(%终点)
+ctx.stroke();
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#264, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#270, 13:
+-148.0, 129.0
+## end
+#271, 13:
+-149.0, -84.0
+## end
+#272, 5:
+0,0,0
+## end
+#273, 8:
+DashLine
+## end
+#274, 1:
+1
+## end
+#276, 129:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+## end
+#286, 313:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#292, 313:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#293, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#294, 2:
+直线
+## end
+#295, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#299, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#302, 14:
++[返回目录]
++[内容]
+
+## end
+#303, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#305, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#306, 200:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+
+
+ctx.beginPath();
+ctx.moveTo(%起点);
+ctx.lineTo(%终点)
+ctx.stroke();
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#308, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#314, 13:
+-146.0, -82.5
+## end
+#315, 14:
+-222.0, -151.5
+## end
+#316, 5:
+0,0,0
+## end
+#317, 8:
+DashLine
+## end
+#318, 1:
+1
+## end
+#325, 3:
+333
+## end
+#327, 3:
+357
+## end
+#330, 481:
+%{
++[M函数](,测试坐标变换)
+%}
+
+
+addpath('Matlab\space');
+
+Alpha=linspace(0,360,100);
+Beta=linspace(45,45,100);
+Gamma=linspace(0,0,100); 
+orig_0=[0,0,0];
+
+
+
+r=linspace(0,1,10);
+theta=linspace(0,360,30);
+[Theta,R]=meshgrid(theta,r);
+
+X0=R.*cosd(Theta);
+Y0=R.*sind(Theta);
+Z0=R.^2;
+
+
+for i=1:length(Alpha)
+alpha=Alpha(i);
+beta=Beta(i);
+gamma=Gamma(i);
+
+[X,Y,Z]=transform_3D(orig_0,alpha,beta,gamma,X0,Y0,Z0);
+
+plot3(X,Y,Z,'b-',X',Y',Z','b-')
+axis equal
+pause(0.01);
+end
+
+%{
++[M函数](,测试坐标变换)
+%}
+## end
+#331, 25:
+Matlab\space\show_frame.m
+## end
+#334, 716:
+%{
++[返回目录](,局域坐标系)
+地址::Matlab\space\show_frame.m
++[保存文本](,局域坐标系)
+
++[M函数](,局域坐标系)
+%}
+
+function show_frame(orig,alpha,beta,gamma,D)
+% orig=[0,0,10];
+% alpha=30;
+% beta=30;
+% gamma=30; 
+% D=1;
+
+addpath('Matlab\space');
+
+plane_X0=[D/2,D/2,-D/2,-D/2];
+plane_Y0=[-D/2,D/2,D/2,-D/2];
+plane_Z0=zeros(1,4);
+[plane_X,plane_Y,plane_Z]=transform_3D(orig,alpha,beta,gamma,...
+    plane_X0,plane_Y0,plane_Z0);
+
+r_x0=[1,0,0];
+r_y0=[0,1,0];
+r_z0=[0,0,1];
+[r_x,r_y,r_z]=transform_3D([0,0,0],alpha,beta,gamma,...
+    r_x0,r_y0,r_z0);
+
+
+quiver3(orig(1)*ones(1,3),orig(2)*ones(1,3),orig(3)*ones(1,3),r_x,r_y,r_z);
+patch(plane_X,plane_Y,plane_Z,[1,1,1])
+text(orig(1)+r_x,orig(2)+r_y,orig(3)+r_z,{'x','y','z'})
+
+end
+
+
+%{
++[M函数](,局域坐标系)
+%}
+## end
+#335, 27:
+Matlab\space\transform_3D.m
+## end
+#338, 807:
+%{
++[M函数](,坐标变换)
+地址::Matlab\space\transform_3D.m
++[保存文本](,坐标变换)
+%}
+
+function [x,y,z]=transform_3D(Dr,alpha,beta,gamma,x0,y0,z0)
+
+% Dr=[1,1,1];
+% alpha=45;
+% beta=45;
+% gamma=0; 
+
+vX=[
+-sind(gamma)*sind(alpha)*cosd(beta)+cosd(gamma)*cosd(alpha),
+sind(gamma)*cosd(alpha)*cosd(beta)+cosd(gamma)*sind(alpha),
+sind(gamma)*sind(beta)]';
+
+vY=[
+-cosd(gamma)*sind(alpha)*cosd(beta)-sind(gamma)*cosd(alpha),
+cosd(gamma)*cosd(alpha)*cosd(beta)-sind(gamma)*sind(alpha),
+cosd(gamma)*sind(beta)]';
+
+vZ=[
+sind(alpha)*sind(beta),
+-cosd(alpha)*sind(beta),
+cosd(beta)]';
+
+T=[vX;vY;vZ];
+
+X0=reshape(x0,numel(x0),1);
+Y0=reshape(y0,numel(y0),1);
+Z0=reshape(z0,numel(z0),1);
+P0=[X0,Y0,Z0];
+
+P=P0*T;
+x=reshape(P(:,1),size(x0))+Dr(1);
+y=reshape(P(:,2),size(y0))+Dr(2);
+z=reshape(P(:,3),size(z0))+Dr(3);
+
+end
+
+%{
++[M函数](,显示局域坐标系)
+%}
+## end
+#342, 566:
+%{
++[M函数](,显示局域坐标系)
+
+坐标变换(M函数):...
+局域坐标系(M函数):...
+局域坐标系单位向量(M函数):...
+%}
+
+Alpha=linspace(0,0,100);
+Beta=linspace(-45,45,100);
+Gamma=linspace(0,360,100); 
+orig_0=[0,0,0];
+orig_1=[10,0,0];
+orig_2=[0,10,10];
+orig_3=[0,0,10];
+D=1;
+
+for i=1:length(Alpha)
+alpha=Alpha(i);
+beta=Beta(i);
+gamma=Gamma(i); 
+
+show_frame(orig_0,alpha,beta,gamma,D);
+hold on
+show_frame(orig_1,alpha,beta,gamma,3*D);
+show_frame(orig_2,alpha,beta,gamma,2*D);
+show_frame(orig_3,alpha,beta,gamma,10*D);
+hold off
+
+axis equal
+xlabel('X')
+ylabel('Y')
+zlabel('Z')
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,显示局域坐标系)
+%}
+## end
+#344, 63:
+https://upload.wikimedia.org/wikipedia/commons/8/85/Euler2a.gif
+## end
+#346, 113:
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Intermediateframes.svg/800px-Intermediateframes.svg.png
+## end
+#352, 2701:
+<!--
++[H函数](,欧拉角与坐标轴)
++[新建阅读窗口](,欧拉角与坐标轴)
+
+欧拉角示意图(图片)::https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Intermediateframes.svg/800px-Intermediateframes.svg.png
+动态示意图(图片)::https://upload.wikimedia.org/wikipedia/commons/8/85/Euler2a.gif
+-->
+
+<b><u>Euler angles</u></b><br>
+The definition of the Euler angles can be explained by the following graphs,<br>
+%欧拉角示意图
+%动态示意图
+<br>
+The Z axis directions of the local frame is, 
+$$
+\mathbf{Z}=(sin\alpha sin\beta,-cos\alpha sin\beta,cos\beta)
+$$
+The other two are not  very easy. We can make rotation in the \(X\times Y\) plane to calculate the orientation, 
+$$
+\mathbf{N}=(cos\alpha, sin\alpha, 0)
+\\
+\mathbf{M}\equiv \mathbf{N}\times \mathbf{Z} 
+= (-sin\alpha cos\beta,cos\alpha cos\beta,sin\beta)
+$$
+Then, \(X\) and \(Y\) can be expressed by \(N\) and \(M\), 
+$$
+\mathbf{X}=cos\gamma \mathbf{N} + sin\gamma \mathbf{M}
+\\
+\mathbf{X}=
+cos\gamma (cos\alpha, sin\alpha, 0)
++ 
+sin\gamma (-sin\alpha cos\beta,cos\alpha cos\beta,sin\beta)
+\\
+\mathbf{X}=
+(-sin\gamma sin\alpha cos\beta + cos\gamma cos\alpha,
+sin\gamma cos\alpha cos\beta + cos\gamma sin\alpha,
+sin\gamma sin\beta)
+$$
+
+And,
+$$
+\mathbf{Y}=-sin\gamma \mathbf{N} + cos\gamma \mathbf{M}
+\\
+\mathbf{Y}=
+-sin\gamma (cos\alpha, sin\alpha, 0)
++ 
+cos\gamma (-sin\alpha cos\beta,cos\alpha cos\beta,sin\beta)
+\\
+\mathbf{Y}=
+(-cos\gamma sin\alpha cos\beta - sin\gamma cos\alpha,
+cos\gamma cos\alpha cos\beta - sin\gamma sin\alpha,
+cos\gamma sin\beta)
+$$
+<br>
+OK, so the final result is, 
+$$
+\mathbf{X}=
+(-sin\gamma sin\alpha cos\beta + cos\gamma cos\alpha,
+sin\gamma cos\alpha cos\beta + cos\gamma sin\alpha,
+sin\gamma sin\beta)
+\\
+\mathbf{Y}=
+(-cos\gamma sin\alpha cos\beta - sin\gamma cos\alpha,
+cos\gamma cos\alpha cos\beta - sin\gamma sin\alpha,
+cos\gamma sin\beta)
+\\
+\mathbf{Z}=(sin\alpha sin\beta,-cos\alpha sin\beta,cos\beta)
+$$
+<br>
+<br>
+<b><u>Calculate Euler angles</u></b><br>
+It is easy to calculate the \(\alpha\) and \(\beta\) by \(\mathbf{Z}\), and then \(\gamma\) by \(\mathbf{X}\) and \(\mathbf{Y}\). <br>
+If, 
+$$
+\mathbf{Z}=(z_1,z_2,z_3), \mathbf{X}=(x_1,x_2,x_3), \mathbf{Y}=(y_1,y_2,y_3)
+$$
+Then, 
+$$
+\beta=arccos(z_3)
+\\
+cos\alpha=-\frac{z_2}{sin\beta},\ sin\alpha=\frac{z_1}{sin\beta}
+\\\Rightarrow
+\alpha=sign(\frac{z_1}{sin\beta}) arccos(-\frac{z_2}{sin\beta})
+\\
+
+sin\gamma=\frac{x_3}{sin\beta},\ 
+cos\gamma=\frac{y_3}{sin\beta}
+\\\Rightarrow
+\gamma=sign(\frac{x_3}{sin\beta}) arccos(\frac{y_3}{sin\beta})
+
+$$
+
+If \(\beta=0\), then \(\alpha\) and \(\gamma\) are equivalent. In this case, we assume \(\gamma=0\), and, 
+$$
+cos\alpha={x_1},\ sin\alpha={x_2}
+\\\Rightarrow
+\alpha=sign(x_2) arccos(x_1)
+$$
+
+<!--
++[H函数](,欧拉角与坐标轴)
+
+显示局域坐标系(M函数):...
+测试坐标变换(M函数):...
++[M函数](,显示局域坐标系)
+
+-->
+## end
+#354, 3:
+356
+## end
+#356, 3:
+358
+## end
+#358, 3:
+360
+## end
+#360, 3:
+362
+## end
+#363, 82:
+
+addpath('Matlab\space')
+[Xu,Yu,Zu]=Euler_frame(Eulers(1),Eulers(2),Eulers(3));
+
+
+
+## end
+#365, 3:
+367
+## end
+#367, 3:
+371
+## end
+#370, 16:
+文档\S应用\网页画板.ftxt
+## end
+### 结束

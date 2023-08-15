@@ -1,0 +1,548 @@
+### 节点
+地址, 的, 三维旋转, 目录, 的, 的, 网页画板, 的, 空间角, 的, 旋转公式, html, 的, 测试公式, M函数, 的, rotation_3D, M函数, 的, 地址, 的, rotation_Eulers, M函数, 的, frame2Eulers, M函数, 的, 地址, 的, 测试旋转, M函数, 的, 地址, 的, 坐标变换, html, 的, 欧拉角转坐标系, 公式, 的, 坐标系转欧拉角, 公式, 的, 局域坐标转全局坐标, 公式, 的, 整体推导, 公式, 的, 公式验算, M函数, frame2Eulers, 的, 记忆, frame2Eulers, 读取, rotation_Eulers, 的, 的, 的, rotation_Eulers, 中, rotation_3D, 的, 的, 的, rotation_3D, 中, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 2#10, #, 10#, 10#13, #, 13#, 13#16, #, 16#, 16#19, #, 13#21, #, 21#, 13#24, #, 24#, 24#27, #, 13#29, #, 29#, 21#32, #, 2#34, #, 34#, 34#37, #, 37#, 34#40, #, 40#, 34#43, #, 43#, 34#46, #, 46#, 34#49, #, 49#, #24, 53#51, 3#, #, del#10, #21, 53#56, del#61, del#60, #, del#60, #16, 53#62, del#67, del#66, #, del#66, 
+### 内容
+#0, 17:
+文档\数学问题\三维旋转.ftxt
+## end
+#2, 196:
++[返回目录](,三维旋转)
+地址::文档\数学问题\三维旋转.ftxt
+
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+空间角::文档\数学问题\空间角.ftxt
++[打开文件](+新窗口,空间角)
+
+
+旋转公式(html):...
++[H函数](,旋转公式)
+
+也可以用坐标变换来实现旋转
+坐标变换(html):...
++[H函数](,坐标变换)
+
+
+## end
+#3, 76:
+三维旋转:...
+创建于 20210928
+
+节点数目统计::
++[设置结构](,节点数目统计)
+
++[新建阅读窗口](,frame2Eulers)
+
+
+## end
+#6, 16:
+文档\S应用\网页画板.ftxt
+## end
+#8, 16:
+文档\数学问题\空间角.ftxt
+## end
+#10, 3084:
+<!--
++[H函数](,旋转公式)
+-->
+
+<b><u>Rotation of vectors</u></b><br>
+To rotate an object along any direction, we could first transform the object to a frame with z-axis pointing to that direction. Then rotate the object along z-axis with certain angle. Then transform it back to the original frame. <br>
+<br>
+If the direction is,
+$$
+\mathbf{z}=(z_1,z_2,z_3)
+$$
+Then we can define,
+$$
+\alpha=sign(z_1)arccos
+\left(
+-\frac{z_1}{\sqrt{z_1^2+z_2^2}}
+\right)
+$$$$
+\beta=arccos
+\left(
+\frac{z_3}{\|\mathbf{z}\|}
+\right)
+$$
+
+Then the frame can be,
+$$
+\hat{x}=
+(cos\alpha,
+sin\alpha,
+0)^T
+\\
+\hat{y}=
+(-sin\alpha cos\beta,
+cos\alpha cos\beta,
+sin\beta)^T
+\\
+\hat{z}=(sin\alpha sin\beta,-cos\alpha sin\beta,cos\beta)^T
+$$
+
+The transform matrix is,
+$$
+\left(
+\begin{matrix}
+x\\y\\z
+\end{matrix}
+\right)
+=
+
+(\hat{x},\hat{y},\hat{z})
+\left(
+\begin{matrix}
+x'\\y'\\z'
+\end{matrix}
+\right)
+
+=\left(
+\begin{matrix}
+cos\alpha & -sin\alpha cos\beta & sin\alpha sin\beta
+\\
+sin\alpha & cos\alpha cos\beta & -cos\alpha sin\beta
+\\
+0 & sin\beta & cos\beta
+\end{matrix}
+\right)
+\left(
+\begin{matrix}
+x'\\y'\\z'
+\end{matrix}
+\right)
+
+\equiv
+\mathbf{T}^{-1}
+\left(
+\begin{matrix}
+x'\\y'\\z'
+\end{matrix}
+\right)
+$$
+
+Then the rotation matrix is,
+$$
+\mathbf{R}=\mathbf{T}^{-1}\mathbf{\Theta}\mathbf{T}
+$$
+The \(\mathbf{\Theta}\) is the rotation matrix along z-axis,
+$$
+\mathbf{\Theta}=
+\left(
+\begin{matrix}
+cos\theta & -sin\theta & 0
+\\
+sin\theta & cos\theta & 0
+\\
+0 & 0 & 1
+\end{matrix}
+\right)
+$$
+<br><br><br><br><br>
+
+
+
+
+<b><u>Rotation of space angles</u></b><br>
+To rotate a space angle, we should transform it to a local frame with \(\mathbf{X}\), \(\mathbf{Y}\), \(\mathbf{Z}\) unit vectors. Then we can rotate those unit vectors by certain angle, and convert it back to space angle. <br>
+Here we only need to give the convertion formulas from unit vectors to space angles and inverse formulas. <br>
+$$
+\begin{cases}
+\mathbf{X}=
+(-sin\gamma sin\alpha cos\beta + cos\gamma cos\alpha,
+sin\gamma cos\alpha cos\beta + cos\gamma sin\alpha,
+sin\gamma sin\beta)
+\\
+\mathbf{Y}=
+(-cos\gamma sin\alpha cos\beta - sin\gamma cos\alpha,
+cos\gamma cos\alpha cos\beta - sin\gamma sin\alpha,
+cos\gamma sin\beta)
+\\
+\mathbf{Z}=(sin\alpha sin\beta,-cos\alpha sin\beta,cos\beta)
+\end{cases}
+$$
+
+For the inverse formulas, we can divide it into two cases. <br>
+1. \(sin\ \beta=0\)<br>
+In this case, \(\gamma\) and \(\alpha\) worked in the same way. Then we can make \(\alpha=0\) for all the time. <br>
+There is, 
+$$
+\mathbf{Y}=
+(-cos\gamma sin\alpha cos\beta - sin\gamma cos\alpha,
+cos\gamma cos\alpha cos\beta - sin\gamma sin\alpha,
+cos\gamma sin\beta)
+\\
+=
+(-cos\gamma sin\alpha - sin\gamma cos\alpha,
+cos\gamma cos\alpha - sin\gamma sin\alpha,
+0)
+
+=(- sin\gamma, cos\gamma, 0)
+$$
+As a result,
+$$
+\begin{cases}
+\alpha=0
+\\
+\beta=0\ or\ 180
+\\
+\gamma=-sign(Y_1)arccos(Y_2)
+\end{cases}
+$$
+<br>
+2. \(sin\ \beta\neq 0\)<br>
+Then it's,
+$$
+\begin{cases}
+\beta=arccos(Z_3)
+\\
+\alpha=sign(Z_1/sin\ \beta)arccos(-Z_2/sin\ \beta)
+\\
+\gamma=sign(X_3/sin\ \beta)arccos(Y_3/sin\ \beta)
+\end{cases}
+$$
+
+
+<!--
++[H函数](,旋转公式)
+
+测试公式(M函数):...
+-->
+## end
+#13, 474:
+%{
+clf
++[M函数](,测试公式)
+
+rotation_3D(M函数):...
+测试旋转(M函数):...
+frame2Eulers(M函数):...
+rotation_Eulers(M函数):...
++[新建阅读窗口](,rotation_3D)
+%}
+
+clf
+addpath('Matlab\space');
+
+X0=[-1,1,1,-1];
+Y0=[0,0,0,0];
+Z0=[-1,-1,1,1];
+
+zu=[1,1,0];
+theta=linspace(0,90,100);
+
+
+h1=patch(X0,Y0,Z0,0);
+view(45,45);
+xlabel('X');
+ylabel('Y');
+zlabel('Z');
+
+for i=1:length(theta)
+[X,Y,Z]=rotation_3D(X0,Y0,Z0,zu,theta(i));
+
+h1.XData=X;
+h1.YData=Y;
+h1.ZData=Z;
+pause(0.1);
+axis equal
+end
+
+
+%{
++[M函数](,测试公式)
+%}
+## end
+#16, 816:
+%{
++[M函数](,rotation_3D)
+地址::Matlab\space\rotation_3D.m
++[保存M函数](,rotation_3D)
+%}
+
+function [X1,Y1,Z1]=rotation_3D(X,Y,Z,zu,theta)
+
+% X=[-1,1,1,-1];
+% Y=[0,0,0,0];
+% Z=[-1,-1,1,1];
+
+% zu=[0,1,0];
+% theta=10;
+
+L=sqrt(zu(1)^2+zu(2)^2);
+if L==0
+    alpha=0;
+elseif zu(1)==0
+    alpha=acosd(-zu(1)/L);
+else
+    alpha=sign(zu(1))*acosd(-zu(1)/L);
+end
+
+beta=acosd(zu(3)/norm(zu));
+
+T=[cosd(alpha), -sind(alpha)*cosd(beta), sind(alpha)*sind(beta)
+sind(alpha), cosd(alpha)*cosd(beta), -cosd(alpha)*sind(beta)
+0, sind(beta), cosd(beta)
+]^-1;
+
+Theta=[cosd(theta), -sind(theta), 0;
+sind(theta), cosd(theta), 0;
+0,0,1];
+
+R=T^-1*Theta*T;
+% R=Theta;
+
+
+X1=R(1,1)*X+R(1,2)*Y+R(1,3)*Z;
+Y1=R(2,1)*X+R(2,2)*Y+R(2,3)*Z;
+Z1=R(3,1)*X+R(3,2)*Y+R(3,3)*Z;
+
+% patch(X,Y,Z,0);
+% view(45,45)
+end
+
+%{
++[M函数](,rotation_3D)
++[保存文本](,rotation_3D)
+%}
+## end
+#19, 26:
+Matlab\space\rotation_3D.m
+## end
+#21, 402:
+%{
++[M函数](,rotation_Eulers)
+
+地址::Matlab\space\rotation_Eulers.m
++[保存M函数](,rotation_Eulers)
+%}
+
+
+function Eulers=rotation_Eulers(Eulers,zu,theta)
+[X0,Y0,Z0]=Euler_frame(Eulers(1),Eulers(2),Eulers(3));
+x=[X0(1),Y0(1),Z0(1)];
+y=[X0(2),Y0(2),Z0(2)];
+z=[X0(3),Y0(3),Z0(3)];
+
+[x,y,z]=rotation_3D(x,y,z,zu,theta);
+
+X=[x(1),y(1),z(1)];
+Y=[x(2),y(2),z(2)];
+Z=[x(3),y(3),z(3)];
+
+Eulers=frame2Eulers(X,Y,Z);
+
+end
+
+## end
+#24, 410:
+%{
++[M函数](,frame2Eulers)
+
+地址::Matlab\space\frame2Eulers.m
++[保存M函数](,frame2Eulers)
+%}
+
+
+function Eulers=frame2Eulers(X,Y,Z)
+
+X=X/norm(X);
+Y=Y/norm(Y);
+Z=Z/norm(Z);
+
+beta=acosd(Z(3));
+
+if sind(beta)==0
+    alpha=0;
+    gamma=-sign_1(Y(1))*acosd(Y(2)/cosd(beta));
+else
+    alpha=sign_1(Z(1)/sind(beta)).*acosd(-Z(2)/sind(beta));
+    gamma=sign_1(X(3))*acosd(Y(3)/sind(beta));
+end
+
+Eulers=[alpha,beta,gamma];
+
+end
+
+## end
+#27, 27:
+Matlab\space\frame2Eulers.m
+## end
+#29, 322:
+
+clf
+addpath('Matlab\space');
+
+X0=[-1,1,1,-1];
+Y0=[0,0,0,0];
+Z0=[-1,-1,1,1];
+
+zu=[1,1,0];
+theta=linspace(0,90,100);
+
+
+h1=patch(X0,Y0,Z0,0);
+view(45,45);
+xlabel('X');
+ylabel('Y');
+zlabel('Z');
+
+for i=1:length(theta)
+[X,Y,Z]=rotation_3D(X0,Y0,Z0,zu,theta(i));
+
+h1.XData=X;
+h1.YData=Y;
+h1.ZData=Z;
+pause(0.1);
+axis equal
+end
+
+## end
+#32, 30:
+Matlab\space\rotation_Eulers.m
+## end
+#34, 1050:
+<!--
++[H函数](,坐标变换)
+-->
+
+<b><u>Coordinate transform</u></b><br>
+By giving the initial local frame and the final local frame of an object, the transform from the initial coordinates to the final coordinates can be determined by following steps:<br>
+1.Calculate the local coordinates of the object in the initial frame; <br>
+2.Keep the same local coordinates and use the final frame to calculate the final global coordinates. <br>
+<br><br>
+
+The frame units can be calculated from the Euler angles by, 
+%欧拉角转坐标系
+The Euler angles can be calculated from the frame units by, 
+%坐标系转欧拉角
+
+And then, the global coordinates can be calculated from the local coordinates in this way,
+%局域坐标转全局坐标
+
+
+Let's assume the initial Euler angles are \(\mathbf{\Theta}_1\), the final Euler angles are \(\mathbf{\Theta}_2\) and the Euler angles of the object are \(\mathbf{\Theta}_0\). The final Euler angles can be calculated,
+%整体推导
+
+
+<br><br><br><br>
+
+
+<!--
+整体推导(公式):...
+局域坐标转全局坐标(公式):...
+坐标系转欧拉角(公式):...
+欧拉角转坐标系(公式):...
+
+
+公式验算(M函数):...
+
++[H函数](,坐标变换)
++[新建阅读窗口](,欧拉角转坐标系)
+-->
+## end
+#37, 368:
+\begin{cases}
+\mathbf{X}=
+(-sin\gamma sin\alpha cos\beta + cos\gamma cos\alpha,
+sin\gamma cos\alpha cos\beta + cos\gamma sin\alpha,
+sin\gamma sin\beta)
+\\
+\mathbf{Y}=
+(-cos\gamma sin\alpha cos\beta - sin\gamma cos\alpha,
+cos\gamma cos\alpha cos\beta - sin\gamma sin\alpha,
+cos\gamma sin\beta)
+\\
+\mathbf{Z}=(sin\alpha sin\beta,-cos\alpha sin\beta,cos\beta)
+\end{cases}
+## end
+#40, 178:
+\begin{cases}
+\beta=arccos(z_3)
+\\
+\alpha=sign(\frac{z_1}{sin\beta}) arccos(-\frac{z_2}{sin\beta})
+\\
+\gamma=sign(\frac{x_3}{sin\beta}) arccos(\frac{y_3}{sin\beta})
+\end{cases}
+
+
+## end
+#43, 191:
+\begin{pmatrix}
+x
+\\
+y
+\\
+z
+\end{pmatrix}
+
+=
+(\mathbf{X},\mathbf{Y},\mathbf{Z})
+
+\begin{pmatrix}
+x'
+\\
+y'
+\\
+z'
+\end{pmatrix}
+
+=
+\hat{\mathbf{T}}
+
+\begin{pmatrix}
+x'
+\\
+y'
+\\
+z'
+\end{pmatrix}
+## end
+#46, 123:
+(\mathbf{X},\mathbf{Y},\mathbf{Z})
+=
+\hat{\mathbf{T}}_2
+\hat{\mathbf{T}}_1^{-1}
+(\mathbf{X}_0,\mathbf{Y}_0,\mathbf{Z}_0)
+
+
+
+## end
+#49, 472:
+%{
+Euler_frame是欧拉角转坐标系
+frame2Eulers是坐标系转欧拉角
+
+在照片测量.ftxt的+[三维坐标变换]中使用
+
+transform_3D
+%}
+
+
+
+[X1,Y1,Z1]=Euler_frame(Eulers1(1),Eulers1(2),Eulers1(3));
+T1=[X1;Y1;Z1]';
+dp1=pt1-pt01;
+
+[X01,Y01,Z01]=Euler_frame(Eulers01(1),Eulers01(2),Eulers01(3));
+[X02,Y02,Z02]=Euler_frame(Eulers02(1),Eulers02(2),Eulers02(3));
+T01=[X01;Y01;Z01]';
+T02=[X02;Y02;Z02]';
+T21=T02*T01';
+
+T2=T21*T1;
+dp2=dp1*T21';
+pt2=dp2+pt02;
+
+
+X2=T2(:,1);
+Y2=T2(:,2);
+Z2=T2(:,3);
+
+Eulers2=frame2Eulers(X2,Y2,Z2)
+
+
+
+## end
+### 结束

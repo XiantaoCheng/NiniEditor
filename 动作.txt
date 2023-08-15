@@ -1,0 +1,671 @@
+文本#0"的(记忆,files)->的(files,缓存)->+[阅读文件](,缓存)
+
+ctrl+T:...
+Del:...
+ctrl+Q:...
+ctrl+W:...
+ctrl+M:...
+ctrl+N:...
++[新建阅读窗口](,ctrl+M)
+备份文本的ctrl+W, 改名为ctrl+M. ctrl+M的\"ctrl+W\"替换为\"ctrl+M\"
+
+ctrl+I:...
+ctrl+H:...
+ctrl+B:...
+ctrl+E:...
+
+ctrl+F:...
+ctrl+Tab:...
+ctrl+/:...
+ctrl+2:...
+将条目\"ctrl+V\"复制为条目\"ctrl+2\"
+
+ctrl+Space:...
+将条目\"ctrl+/\"复制为条目\"ctrl+Space\"
++[新建阅读窗口](,ctrl+/)
+
+ctrl+PgUp:...
+ctrl+PgDown:...
+
++[修改标题]\"ctrl+S\"(,ctrl+S1)
+ctrl+S:...
+
++[修改内容](ctrl+Tab,ctrl+Backspace)"(,)
+的#1""(文本#0,ctrl+T#2)
+ctrl+T#2"\"\"\"
++[返回目录](,ctrl+T)
+
+\"\"\"
+
+"(,)
+的#3""(文本#0,Del#4)
+Del#4"\"\"\"
++[返回目录](,Del)
+
+\"\"\"
+
+
++Del(_显示器,)->+[del](,+Del)->viewer(,_显示器)...
+->的(_显示器,m_select)->m_select(,list)=>的(list,_)=>+[del](,_)"(,)
+的#5""(文本#0,ctrl+Q#6)
+ctrl+Q#6"\"\"\"
++[返回目录](,ctrl+Q)
+
+\"\"\""(,)
+的#7""(文本#0,ctrl+M#8)
+ctrl+M#8"\"\"\"
++[返回目录](,ctrl+M)
+P代码(P函数):...
+Nini, 导入词典的库. 导入词典
+
+\"\"\"
+
++ctrl+M(_编辑器,)->+[del](,+ctrl+M)...
+->的(ctrl+M,P代码)...
+->的(_编辑器,m_cursor)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[o]\"n\"(+[python],m_cursor)->+[.]\"text\"(+[python],_节点)...
+->+[o]\"line\"(+[python],+[临时文本])...
+
+->[]{
+    记忆:->正在读取(记忆,)->+[右连](正在读取,_节点),
+        ->+正在读取(记忆,_节点)
+}...
+
+->+[设置光标](_编辑器,m_cursor):
+    ->记忆\"python\"->+[P函数](,+[临时文本]),
+    ->记忆\"Python\"->+[P函数](,+[临时文本]),
+    ->记忆\"Javascript\"->+[J函数](,+[临时文本]),
+    ->记忆\"P函数\"->+[P函数](,+[临时文本]),
+    ->记忆\"自然语言\"->+[N函数](_节点,+[临时文本]),
+    ->+[M函数](,+[临时文本])"(,)
+的#9""(文本#0,ctrl+I#10)
+ctrl+I#10"\"\"\"
++[返回目录](,ctrl+I)
+
+\"\"\"
+
++ctrl+I(_显示器,)->+[del](,+ctrl+I)->viewer(,_显示器)...
+->的(记忆,编辑器)->的(_显示器,m_select)->m_select(,list)->的(list,_)->+[编辑文本](编辑器,_)
+
+
+"(,)
+的#11""(文本#0,ctrl+H#12)
+ctrl+H#12"\"\"\"
++[返回目录](,ctrl+H)
+
+\"\"\"
+
++ctrl+H(_编辑器,)->+[del](,+ctrl+H)->editor(,_编辑器)...
+->的(_编辑器,m_readPtr)->m_readPtr(,_)->的(_节点,_)->的(_节点,文本)->+[编辑文本](_编辑器,文本)"(,)
+的#13""(文本#0,ctrl+B#14)
+ctrl+B#14"\"\"\"
++[返回目录](,ctrl+B)
+
+\"\"\"
+
++ctrl+B(_编辑器,)->+[del](,+ctrl+B)->editor(,_编辑器)...
+->的(_编辑器,m_readPtr)->m_readPtr(,_file)...
+->[]{
+	的(_编辑器,m_history)->+[返回](_file,)
+}:->[],
+->>+[返回目录](,_file)"(,)
+的#15""(文本#0,ctrl+E#16)
+ctrl+E#16"\"\"\"
++[返回目录](,ctrl+E)
+
+\"\"\"
+
+
++ctrl+E(_编辑器,)->+[del](,+ctrl+E)->editor(,_编辑器)...
+->的(_编辑器,m_cursor)->的(_编辑器,m_readPtr)->m_readPtr(,_file)...
+->+[临时文本]->+[python]\"
+ns=int(n[0])
+ne=int(n[1])
+
+import imp
+from tools import tools_parser_sentence as sp
+from tools import tools_basic
+
+# imp.reload(sp)
+try:
+    # print(code[ns:ne])
+    code,pt=sp.fun_句子(code[ns:ne])
+    km=pt.m_db[1].m_master.causeEnd()
+    ans=tools_basic.karmaToStr(km)
+    # print(ans)
+except:
+    ans=''
+
+\"(Python,+[临时文本])->+[.]\"n\"(+[python],m_cursor)->+[s]\"code\"(+[python],_file)...
+->+[S函数](_编辑器,+[临时文本])->+[结果](+[S函数],+[临时文本]#1)...
+
+
+->+[python]\"
+ans=code
+ne=int(n[1])
+ne=code.find('\n',ne,-1)
+if result=='[True]':
+    result='是'
+elif result=='[False]':
+    result='否'
+
+if ne==-1:
+    ans=code+'\n'+result
+else:
+    ans=code[:ne]+'\n'+result+code[ne:]
+
+\"(Python,_file)->+[.]\"n\"(+[python],m_cursor)->+[s]\"code\"(+[python],_file)->+[.]\"result\"(+[python],+[临时文本])->+[更新文本](_编辑器,)->+[设置光标](_编辑器,m_cursor)
+"(,)
+的#17""(文本#0,ctrl+2#18)
+ctrl+2#18"\"\"\"
+Nini, 打开词典的条目(节点)
++[返回目录](,ctrl+2)
+P代码:...
++[新建阅读窗口](,P代码)
+
+保存:...
+
+\"\"\"
+
++ctrl+2(_编辑器,)->+[del](,+ctrl+2)...
+
+->记忆:
+    ->短期(记忆,)->+[复制内容](,短期),
+    ->+[复制内容](,记忆)
+
+
+"(,)
+的#19""(文本#0,ctrl+S#20)
+ctrl+S#20"\"\"\"
++[返回目录](,ctrl+S)
++[修改标题]\"ctrl+S1\"(,ctrl+S)
+->的(_port,m_pool)->m_pool(,_pool)...
+->的(_pool,目录)
+
++[有](ctrl+S,+[今天])->+[设置结构](,ctrl+S)
++[del](,20210306)
++[节点数](,ctrl+S)->+[显示](,+[节点数])
+
+保存:...
+
+\"\"\"
+
+
++ctrl+S(_编辑器,)->+[del](,+ctrl+S)
+
+
+"(,)
+的#21""(文本#0,ctrl+Tab#22)
+ctrl+Tab#22"\"\"\"
++[返回目录](,ctrl+Tab)
+
+\"\"\"
+
++ctrl+Tab(_编辑器,)->+[del](,+ctrl+Tab)...
+->的(_编辑器,m_cursor)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->+[python]\"
+n_s=int(n[0])
+n_e=int(n[1])
+
+n_s1=text.rfind('\n',0,n_s)+1
+n_e1=text.find('\n',n_e)
+
+txt_sel=text[n_s1:n_e1]
+txt_sel=txt_sel.replace('\n','\n    ')
+
+text=text[0:n_s1]+'    '+txt_sel+text[n_e1:]
+n=[n_s1,n_s1+len(txt_sel)+4]
+\"(Python,)->+[o]\"n\"(+[python],m_cursor)->+[o]\"text\"(+[python],_节点)...
+->+[更新文本](_编辑器,)->+[设置光标](_编辑器,m_cursor)
+
+
+"(,)
+的#23""(文本#0,crtlBackspace#24)
+crtlBackspace#24""(,)
+的#25""(文本#0,crtl+Backspace#26)
+crtl+Backspace#26""(,)
+的#27""(文本#0,ctrl+1#28)
+ctrl+1#28"\"\"\"
++[返回目录](,ctrl+1)
++[修改标题]\"ctrl+1\"(,ctrl+Backspace)
+
+\"\"\"
+
++ctrl+1(_编辑器,)->+[del](,+ctrl+1)...
+->的(_编辑器,m_cursor)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->+[python]\"
+n_s=int(n[0])
+n_e=int(n[1])
+
+n_s1=text.rfind('\n',0,n_s)+1
+n_e1=text.find('\n',n_e)
+
+txt_sel=text[n_s1:n_e1]
+txt_sel=txt_sel.replace('\n    ','\n')
+if len(txt_sel)>4 and txt_sel[0:4]=='    ':
+    txt_sel=txt_sel[4:]
+
+text=text[0:n_s1]+txt_sel+text[n_e1:]
+n=[n_s1,n_s1+len(txt_sel)]
+\"(Python,)->+[o]\"n\"(+[python],m_cursor)->+[o]\"text\"(+[python],_节点)...
+->+[更新文本](_编辑器,)->+[设置光标](_编辑器,m_cursor)
+
+"(,)
+的#29""(ctrl+M#8,P代码#30)
+P代码#30"\"\"\"
++[P函数](,P代码)
+
+\"\"\"
+
+s=int(n[0])
+e=int(n[1])
+ns=text.rfind('\n',0,s)+1
+ne=text.find('\n',e,-1)
+
+if text[ne]=='\n':
+    line=text[ns:ne]
+    n=[ns,ne]
+else:
+    line=text[ns:]
+    n=[ns,len(text)]
+
+
+
+"(,)
+P函数#31""(P代码#30,)
+的#32""(文本#0,ctrl+PgDown#33)
+ctrl+PgDown#33"\"\"\"
++[返回目录](,ctrl+PgDown)
++[新建阅读窗口](,ctrl+PgDown)
+
+\"\"\"
+
+
++ctrl+PgDown(_编辑器,)->+[del](,+ctrl+PgDown)...
+->_编辑器(_文件,)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->的(_目录,_节点)->[]{[]=>[is](_文件,_目录)}->+[显示](,_文件)...
+->[上一个](_目录,_节点)->是([上一个],_)...
+->+[编辑文本](_编辑器,_)
+"(,)
+的#34""(文本#0,ctrl+PgUp#35)
+ctrl+PgUp#35"\"\"\"
++[返回目录](,ctrl+PgUp)
++[新建阅读窗口](,ctrl+PgUp)
+
+\"\"\"
+
+
++ctrl+PgUp(_编辑器,)->+[del](,+ctrl+PgUp)...
+->_编辑器(_文件,)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->的(_目录,_节点)->[]{[]=>[is](_文件,_目录)}->+[显示](,_文件)...
+->[下一个](_目录,_节点)->是([下一个],_)...
+->+[编辑文本](_编辑器,_)
+
+"(,)
+P函数#36""(P代码#37,)
+P代码#37"\"\"\"
++[P函数](,P代码)
+
+\"\"\"
+
+s=int(n[0])
+e=int(n[1])
+ns=text.rfind('\n',0,s)+1
+ne=text.find('\n',e,-1)
+
+if text[ne]=='\n':
+    line=text[ns:ne]
+    n=[ns,ne]
+else:
+    line=text[ns:]
+    n=[ns,len(text)]
+
+
+
+"(,)
+的#38""(ctrl+W#39,P代码#37)
+ctrl+W#39"\"\"\"
++[返回目录](,ctrl+W)
+P代码(P函数):...
+Nini, 打开动词(库)
+
+\"\"\"
+
++ctrl+W(_编辑器,)->+[del](,+ctrl+W)...
+->的(ctrl+W,P代码)...
+->的(_编辑器,m_cursor)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[o]\"n\"(+[python],m_cursor)->+[.]\"text\"(+[python],_节点)...
+->+[o]\"line\"(+[python],+[回答])...
+
+->[]{
+    记忆:->正在读取(记忆,)->+[右连](正在读取,_节点),
+        ->+正在读取(记忆,_节点)
+}...
+
+->+[设置光标](_编辑器,m_cursor)...
+->+[显示]\"即将转换句子...\"->+[回答](_节点,)...
+->+[显示]\"转换完成\""(,)
+的#40""(文本#0,ctrl+W#39)
+的#41""(文本#0,ctrl+N#42)
+ctrl+N#42"\"\"\"
++[返回目录](,ctrl+N)
+P代码:...
+
+...
+->的(Nini,说)->+[消息窗口](,说)->+[修改内容]\" \"(,说)
+
+\"\"\"
+
++ctrl+N(_编辑器,)->+[del](,+ctrl+N)...
+->的(ctrl+N,P代码)...
+->的(_编辑器,m_cursor)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[o]\"n\"(+[python],m_cursor)->+[.]\"text\"(+[python],_节点)...
+->+[o]\"line\"(+[python],+[临时文本])...
+
+->[]{
+    记忆:->正在读取(记忆,)->+[右连](正在读取,_节点),
+        ->+正在读取(记忆,_节点)
+}...
+
+->+[设置光标](_编辑器,m_cursor)...
+
+->的(记忆,天使)...
+    ->的(天使,Nini)->的(天使,目录)->的(目录,Nini)...
+->的(Nini,听)...
+    ->+[修改内容](+[临时文本],听)->+[删除结构](,听)->+[生成句子结构](+[临时文本],听)...
+
+->[]{
+    []:->的(Nini,手)->+[右连](手,_节点),
+        ->+的(Nini,+手)->+手(,_节点)
+}...
+
+->+[自我意识](天使,)
+
+"(,)
+的#43""(ctrl+N#42,P代码#44)
+P代码#44"\"\"\"
++[P函数](,P代码)
+
+\"\"\"
+
+s=int(n[0])
+e=int(n[1])
+ns=text.rfind('\n',0,s)+1
+ne=text.find('\n',e,-1)
+
+if text[ne]=='\n':
+    line=text[ns:ne]
+    n=[ns,ne]
+else:
+    line=text[ns:]
+    n=[ns,len(text)]
+
+
+
+"(,)
+的#45""(ctrl+S#20,保存#46)
+保存#46"\"\"\"
++[返回目录](,ctrl+S)
++[修改标题]\"ctrl+S1\"(,ctrl+S)
+->的(_port,m_pool)->m_pool(,_pool)...
+->的(_pool,目录)
+
++[有](ctrl+S,+[今天])->+[设置结构](,ctrl+S)
++[del](,20210306)
++[节点数](,ctrl+S)->+[显示](,+[节点数])
+
+保存:...
+
+\"\"\"
+
+
++ctrl+S(_编辑器,)->+[del](,+ctrl+S)...
+->的(_编辑器,m_port)->m_port(,_port)->的(_port,m_pool)->m_pool(,_pool)...
+->是([根源],根源)->的(根源,m_date)->m_date(,_今天)...
+->的(_pool,目录)->目录:
+	->的(目录,节点数目统计#0)->的(节点数目统计#0,_日期)->[今天](_日期,)...
+	->+[节点数](,_pool)->+[修改内容](+[节点数],_日期)...
+	->+[显示](,_日期),
+
+	->的(目录,节点数目统计#1)->+的(节点数目统计#1,+今天)...
+	->+[节点数](,_pool)->+[修改内容](+[节点数],+今天)...
+	->+[修改标题](_今天,+今天)->+[显示](,+今天)
+
+
+"(,)
+ctrl+F#47"\"\"\"
++[返回目录](,ctrl+F)
+
+[当前编辑器](ctrl+F,)->是([当前编辑器],_编辑器)...
+->的(_编辑器,m_cursor)->+[显示](,m_cursor)...
+->的(_编辑器,m_readPtr)->m_readPtr(,_节点)->+[显示](,_节点)
+
+\"\"\"
+
++ctrl+F(_编辑器,)->+[del](,+ctrl+F)...
+->的(_编辑器,m_cursor)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->+[python]\"
+n_s=int(n[0])
+n_e=int(n[1])
+
+str0=text[n_s:n_e]
+
+n_s1=text.find(str0,n_s+1)
+if n_s1==-1:
+    n_s1=text.find(str0)
+
+n=[n_s1,n_s1+len(str0)]
+
+\"(Python,)->+[o]\"n\"(+[python],m_cursor)->+[.]\"text\"(+[python],_节点)...
+->+[设置光标](_编辑器,m_cursor)
+
+"(,)
+的#48""(文本#0,ctrl+F#47)
+的#49""(ctrl+2#18,P代码#50)
+P代码#50"\"\"\"
+
+
+\"\"\"
+
+print(text)
+
+"(,)
+的#51""(ctrl+2#18,保存#52)
+保存#52"\"\"\"
+Nini, 打开词典的条目(节点)
++[返回目录](,ctrl+V)
+P代码:...
++[新建阅读窗口](,P代码)
+
+保存:...
+
+\"\"\"
+
++ctrl+V(_编辑器,)->+[del](,+ctrl+V)...
+->的(ctrl+V,P代码)...
+
+->的(_编辑器,m_cursor)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->+[python](Python,_节点)->+[code](+[python],P代码)...
+    ->+[o]\"n\"(+[python],m_cursor)->+[.]\"text\"(+[python],_节点)...
+->+[设置光标](_编辑器,m_cursor)->+[更新文本](_编辑器,)
+
+
+
+"(,)
+ctrl+V#53"\"\"\"
+Nini, 打开词典的条目(节点)
++[返回目录](,ctrl+V)
+P代码:...
++[新建阅读窗口](,P代码)
+
+保存:...
+
+\"\"\"
+
++ctrl+V(_编辑器,)->+[del](,+ctrl+V)...
+->的(ctrl+V,P代码)...
+
+->+[复制内容](,P代码)
+
+
+"(,)
+的#54""(文本#0,ctrl+V#53)
+的#55""(文本#0,ctrl+Space#56)
+ctrl+Space#56"\"\"\"
++[返回目录](,ctrl+Space)
+P代码:...
+
+\"\"\"
+
++ctrl+Space(_编辑器,)->+[del](,+ctrl+Space)...
+->的(ctrl+Space,P代码)...
+
+->的(_编辑器,m_cursor)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[o]\"n\"(+[python],m_cursor)->+[o]\"text\"(+[python],_节点)...
+->+[更新文本](_编辑器,)->+[设置光标](_编辑器,m_cursor)
+
+
+
+"(,)
+的#57""(ctrl+Space#56,P代码#58)
+P代码#58"\"\"\"
+记住\"Python\"
++[P函数](,P代码)
+保存:...
+print(text)
+
+\"\"\"
+
+import re
+n_s=int(n[0])
+n_e=int(n[1])
+
+# n_s1=text.rfind(' ',0,n_s)+1
+# n_e1=text.find(' ',n_e)
+n_s1=re.search('([a-zA-Z]*)$',text[0:n_s]).span()[0]
+n_e1=re.search('^([a-zA-Z]*)',text[n_s:]).span()[1]+n_s
+
+txt_sel=text[n_s1:n_e1]
+n=[n_s1,n_e1]
+
+if txt_sel==\"jxb\":
+    txt_rep=\"简谐波\"
+elif txt_sel==\"zz\":
+    txt_rep=\"阿泽\"
+elif txt_sel==\"cxt\":
+    txt_rep=\"程先涛\"
+elif txt_sel==\"lianli\":
+    txt_rep=\"联立\"
+elif txt_sel==\"sjz\":
+    txt_rep=\"四极子\"
+elif txt_sel==\"wr\":
+    txt_rep=\"微扰\"
+elif txt_sel==\"ll\":
+    txt_rep=\"联立\"
+elif txt_sel==\"zd\":
+    txt_rep=\"指代\"
+else:
+    txt_rep=txt_sel
+
+text=text[0:n_s1]+txt_rep+text[n_e1:]
+n=[n_s1,n_s1+len(txt_rep)]
+"(,)
+的#59""(P代码#58,保存#60)
+保存#60"\"\"\"
+记住\"Python\"
++[P函数](,P代码)
+保存:...
+print(text)
+
+\"\"\"
+
+import re
+n_s=int(n[0])
+n_e=int(n[1])
+
+n_s1=text.rfind(' ',0,n_s)+1
+n_e1=text.find(' ',n_e)
+
+txt_sel=text[n_s1:n_e1]
+n=[n_s1,n_e1]
+
+"(,)
+保存#61"\"\"\"
+
+
+\"\"\"
+
+n_s=int(n[0])
+n_e=int(n[1])
+
+n_s1=text.rfind('\n',0,n_s)+1
+n_e1=text.find('\n',n_e)
+
+txt_sel=text[n_s1:n_e1]
+txt_sel=txt_sel.replace('\n','\n# ')
+
+text=text[0:n_s1]+'# '+txt_sel+text[n_e1:]
+n=[n_s1,n_s1+len(txt_sel)+2]
+
+
+
+"(,)
+的#62""(P代码#63,保存#61)
+P代码#63"\"\"\"
+保存:...
+
+\"\"\"
+
+n_s=int(n[0])
+n_e=int(n[1])
+
+n_s1=text.rfind('\n',0,n_s)+1
+n_e1=text.find('\n',n_e)
+
+txt_sel=text[n_s1:n_e1]
+
+if code_type==\"Python\":
+    com_txt=\"# \"
+elif code_type==\"C++\" or code_type==\"Javascript\":
+    com_txt=\"//\"
+else:
+    com_txt=\"% \"
+
+if txt_sel[0:2]==com_txt:
+    txt_sel=txt_sel[2:]
+    txt_sel=txt_sel.replace('\n'+com_txt,'\n')
+    text=text[0:n_s1]+txt_sel+text[n_e1:]
+    n=[n_s1,n_s1+len(txt_sel)]
+
+else:
+    txt_sel=txt_sel.replace('\n','\n'+com_txt)
+    text=text[0:n_s1]+com_txt+txt_sel+text[n_e1:]
+    n=[n_s1,n_s1+len(txt_sel)+2]
+
+
+
+"(,)
+的#64""(ctrl+/#65,P代码#63)
+ctrl+/#65"\"\"\"
++[返回目录](,ctrl+/)
+P代码:...
+
+\"\"\"
+
++ctrl+/(_编辑器,)->+[del](,+ctrl+/)...
+->的(ctrl+/,P代码)...
+
+->的(_编辑器,m_cursor)->的(_编辑器,m_readPtr)->m_readPtr(,_节点)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[o]\"n\"(+[python],m_cursor)->+[o]\"text\"(+[python],_节点)...
+->+[s]\"code_type\"(+[python],记忆)...
+->+[更新文本](_编辑器,)->+[设置光标](_编辑器,m_cursor)
+
+
+
+"(,)
+的#66""(文本#0,ctrl+/#65)

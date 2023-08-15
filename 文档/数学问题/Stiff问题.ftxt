@@ -1,0 +1,39 @@
+### 节点
+地址, 的, Stiff问题, 目录, 的, 的, 节点数目统计, 的, wiki, 的, 多步方法, 的, 笔记, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 2#10, #, 2#12, #, 
+### 内容
+#0, 20:
+文档/数学问题/Stiff问题.ftxt
+## end
+#2, 253:
++[返回目录](,Stiff问题)
+地址::文档/数学问题/Stiff问题.ftxt
+
+
+wiki::https://en.wikipedia.org/wiki/Stiff_equation
+多步方法::https://en.wikipedia.org/wiki/Linear_multistep_method
+AM2::https://web.mit.edu/10.001/Web/Course_Notes/Differential_Equations_Notes/node7.html
+
+笔记:...
+
+## end
+#3, 51:
+Stiff问题:...
+创建于 20230219
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 44:
+https://en.wikipedia.org/wiki/Stiff_equation
+## end
+#10, 53:
+https://en.wikipedia.org/wiki/Linear_multistep_method
+## end
+#12, 132:
+简单记一下. stiff问题是解趋向稳定的时候数值解会发生振荡的现象. 显式的方法都有这个问题, 而隐式会好得多. AM是隐式的多步方法. 也需要解方程. 多步方法和RK不同的在于, RK是把一步分成了很多步, 输入始终是上一步. 多步方法是把之前几步作为输入
+
+
+## end
+### 结束

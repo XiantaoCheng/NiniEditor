@@ -1,0 +1,847 @@
+### 节点
+地址, 的, 二维世界, 目录, 的, 的, 贪吃蛇, P代码, 的, 单摆, P代码, 的, 存档, 的, JS编译器, 的, JS方案, JS代码, 的, 椭圆例子, JS方案, 的, 变慢问题, J函数, JS编译器, 的, 的, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 6#, 2#9, #, 9#, 6#12, #, 2#14, #, 2#16, #, 16#, 16#19, #, 19#, 16#22, #, 22#, #, del#24, 2#del, 2#del, 
+### 内容
+#0, 16:
+文档\伊甸园\二维世界.ftxt
+## end
+#2, 294:
++[返回目录](,二维世界)
+地址::文档\伊甸园\二维世界.ftxt
+
+
+
+JS编译器::文档\S应用\JS编译器.ftxt
++[打开文件](+新窗口,JS编译器)
+将JS编译器记作JS编译器
+Nini, 导入JS编译器的库
+
+Nini, 图形库是什么?
+Nini, 导入PPT的库. Nini, 导入平面测绘的库. Nini, 导入图形库的库
+Nini, 打开图形库(文件)
+Nini, 打开Phaser(文件)
+
+贪吃蛇(P代码):...
+单摆(P代码):...
++[新建阅读窗口](,单摆)
+JS方案(JS代码):...
++[新建阅读窗口](,JS方案)
+
+
++[打开本地网页]
+
+## end
+#3, 48:
+二维世界:...
+创建于 20211226
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 3818:
+"""
++[P函数](,贪吃蛇)
+
+存档:...
+
+"""
+
+
+
+#Snake Tutorial Python
+
+import math
+import random
+import pygame
+import tkinter as tk
+from tkinter import messagebox
+
+class cube(object):
+    rows = 20
+    w = 500
+    def __init__(self,start,dirnx=1,dirny=0,color=(255,0,0)):
+        self.pos = start
+        self.dirnx = 1
+        self.dirny = 0
+        self.color = color
+
+        
+    def move(self, dirnx, dirny):
+        self.dirnx = dirnx
+        self.dirny = dirny
+        self.pos = (self.pos[0] + self.dirnx, self.pos[1] + self.dirny)
+
+    def draw(self, surface, eyes=False):
+        dis = self.w // self.rows
+        i = self.pos[0]
+        j = self.pos[1]
+
+        pygame.draw.rect(surface, self.color, (i*dis+1,j*dis+1, dis-2, dis-2))
+        if eyes:
+            centre = dis//2
+            radius = 3
+            circleMiddle = (i*dis+centre-radius,j*dis+8)
+            circleMiddle2 = (i*dis + dis -radius*2, j*dis+8)
+            pygame.draw.circle(surface, (0,0,0), circleMiddle, radius)
+            pygame.draw.circle(surface, (0,0,0), circleMiddle2, radius)
+        
+
+
+
+class snake(object):
+    body = []
+    turns = {}
+    def __init__(self, color, pos):
+        self.color = color
+        self.head = cube(pos)
+        self.body.append(self.head)
+        self.dirnx = 0
+        self.dirny = 1
+
+    def move(self):
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+
+            keys = pygame.key.get_pressed()
+
+
+    def reset(self, pos):
+        self.head = cube(pos)
+        self.body = []
+        self.body.append(self.head)
+        self.turns = {}
+        self.dirnx = 0
+        self.dirny = 1
+
+
+    def addCube(self):
+        tail = self.body[-1]
+        dx, dy = tail.dirnx, tail.dirny
+
+        if dx == 1 and dy == 0:
+            self.body.append(cube((tail.pos[0]-1,tail.pos[1])))
+        elif dx == -1 and dy == 0:
+            self.body.append(cube((tail.pos[0]+1,tail.pos[1])))
+        elif dx == 0 and dy == 1:
+            self.body.append(cube((tail.pos[0],tail.pos[1]-1)))
+        elif dx == 0 and dy == -1:
+            self.body.append(cube((tail.pos[0],tail.pos[1]+1)))
+
+        self.body[-1].dirnx = dx
+        self.body[-1].dirny = dy
+        
+
+    def draw(self, surface):
+        for i, c in enumerate(self.body):
+            if i ==0:
+                c.draw(surface, True)
+            else:
+                c.draw(surface)
+
+
+def drawGrid(w, rows, surface):
+    sizeBtwn = w // rows
+
+    x = 0
+    y = 0
+    for l in range(rows):
+        x = x + sizeBtwn
+        y = y + sizeBtwn
+
+        pygame.draw.line(surface, (255,255,255), (x,0),(x,w))
+        pygame.draw.line(surface, (255,255,255), (0,y),(w,y))
+        
+
+def redrawWindow(surface):
+    global rows, width, s, snack
+    surface.fill((0,0,0))
+    drawGrid(width,rows, surface)
+    pygame.display.update()
+
+
+def randomSnack(rows, item):
+
+    positions = item.body
+
+    while True:
+        x = random.randrange(rows)
+        y = random.randrange(rows)
+        if len(list(filter(lambda z:z.pos == (x,y), positions))) > 0:
+            continue
+        else:
+            break
+        
+    return (x,y)
+
+
+def message_box(subject, content):
+    root = tk.Tk()
+    root.attributes("-topmost", True)
+    root.withdraw()
+    messagebox.showinfo(subject, content)
+    try:
+        root.destroy()
+    except:
+        pass
+
+
+def main():
+    global width, rows, s, snack
+    width = 500
+    rows = 20
+    win = pygame.display.set_mode((width, width))
+    flag = True
+
+    clock = pygame.time.Clock()
+    
+    while flag:
+        pygame.time.delay(50)
+        clock.tick(10)
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+            keys = pygame.key.get_pressed()
+        redrawWindow(win)
+
+main()
+
+
+
+"""
++[P函数](,贪吃蛇)
+
+"""
+## end
+#9, 2506:
+"""
++[P函数](,单摆)
+
+"""
+
+import math
+import random
+import pygame
+import tkinter as tk
+from tkinter import messagebox
+
+
+class Obj:
+    def __init__(self,x=30,y=30,R=30,vx=0,vy=0,RGB=None):
+        self.m_R=R
+        self.m_pt=[x,y]
+        self.m_v=[vx,vy]
+        if RGB==None:
+            RGB=(0,0,0)
+        self.m_RGB=RGB
+
+    def draw(self,surface):
+        x=int(self.m_pt[0])
+        y=int(self.m_pt[1])
+        vy=int(abs(self.m_v[1]))
+        R=int(self.m_R)
+        # RGB=(vy,vy,vy)
+        RGB=self.m_RGB
+        pygame.draw.circle(surface, RGB, (x,y), R)
+
+
+def redrawWindow(surface,objs):
+    surface.fill((200,200,200))
+    pygame.draw.line(surface, (255,255,255), (250,0),(250,500))
+    pygame.draw.line(surface, (255,255,255), (0,250),(500,250))
+    for obj in objs:
+        obj.draw(surface)
+    pygame.display.update()
+
+def moveEvents(objs):
+    dt=0.1
+    for obj in objs:
+        obj.m_pt[0]+=obj.m_v[0]*dt
+        obj.m_pt[1]+=obj.m_v[1]*dt
+
+def dropEvents(objs):
+    dt=0.1
+    g=[0,50]
+    for obj in objs:
+        obj.m_v[0]+=g[0]*dt
+        obj.m_v[1]+=g[1]*dt
+
+def absEvents(objs):
+    dt=0.1
+    center=[400,250]
+    for obj in objs:
+        ax=center[0]-obj.m_pt[0]
+        ay=center[1]-obj.m_pt[1]
+        obj.m_v[0]+=ax*dt
+        obj.m_v[1]+=ay*dt
+
+
+def colWEvents(objs):
+    for obj in objs:
+        if obj.m_pt[1]>500-obj.m_R:
+            obj.m_v[1]=-0.95*abs(obj.m_v[1])
+        if obj.m_pt[0]>500-obj.m_R:
+            obj.m_v[0]=-abs(obj.m_v[0])
+        if obj.m_pt[0]<0+obj.m_R:
+            obj.m_v[0]=abs(obj.m_v[0])
+
+def worldEvents(objs):
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            pygame.quit()
+        keys = pygame.key.get_pressed()
+    moveEvents(objs)
+    dropEvents(objs)
+    absEvents(objs)
+    colWEvents(objs)
+
+
+def main():
+    width = 500
+    rows = 20
+    win = pygame.display.set_mode((width, width))
+    flag = True
+    clock = pygame.time.Clock()
+
+#    o1=Obj(30,10,20,20)
+#    o2=Obj(130,10,15,-10)
+#    o3=Obj(230,10,10,5)
+#    objs=[o1,o2,o3]
+    objs=[]
+    for i in range(50):
+        x = random.randrange(500)
+        y = random.randrange(500)
+        R = random.randrange(5,30)
+        vx = random.randrange(-50,50)
+        vy = random.randrange(-10,10)
+        gray=random.randrange(255)
+        objs.append(Obj(x,y,R,vx,vy,(gray,gray,gray)))
+    
+    while flag:
+        pygame.time.delay(20)
+        clock.tick(20)
+        worldEvents(objs)
+        redrawWindow(win,objs)
+
+
+main()
+
+
+
+"""
++[P函数](,单摆)
+
+"""
+## end
+#12, 5650:
+"""
++[P函数](,贪吃蛇)
+
+存档:...
+
+"""
+
+
+
+#Snake Tutorial Python
+
+import math
+import random
+import pygame
+import tkinter as tk
+from tkinter import messagebox
+
+class cube(object):
+    rows = 20
+    w = 500
+    def __init__(self,start,dirnx=1,dirny=0,color=(255,0,0)):
+        self.pos = start
+        self.dirnx = 1
+        self.dirny = 0
+        self.color = color
+
+        
+    def move(self, dirnx, dirny):
+        self.dirnx = dirnx
+        self.dirny = dirny
+        self.pos = (self.pos[0] + self.dirnx, self.pos[1] + self.dirny)
+
+    def draw(self, surface, eyes=False):
+        dis = self.w // self.rows
+        i = self.pos[0]
+        j = self.pos[1]
+
+        pygame.draw.rect(surface, self.color, (i*dis+1,j*dis+1, dis-2, dis-2))
+        if eyes:
+            centre = dis//2
+            radius = 3
+            circleMiddle = (i*dis+centre-radius,j*dis+8)
+            circleMiddle2 = (i*dis + dis -radius*2, j*dis+8)
+            pygame.draw.circle(surface, (0,0,0), circleMiddle, radius)
+            pygame.draw.circle(surface, (0,0,0), circleMiddle2, radius)
+        
+
+
+
+class snake(object):
+    body = []
+    turns = {}
+    def __init__(self, color, pos):
+        self.color = color
+        self.head = cube(pos)
+        self.body.append(self.head)
+        self.dirnx = 0
+        self.dirny = 1
+
+    def move(self):
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+
+            keys = pygame.key.get_pressed()
+
+            for key in keys:
+                if keys[pygame.K_LEFT]:
+                    self.dirnx = -1
+                    self.dirny = 0
+                    self.turns[self.head.pos[:]] = [self.dirnx, self.dirny]
+
+                elif keys[pygame.K_RIGHT]:
+                    self.dirnx = 1
+                    self.dirny = 0
+                    self.turns[self.head.pos[:]] = [self.dirnx, self.dirny]
+
+                elif keys[pygame.K_UP]:
+                    self.dirnx = 0
+                    self.dirny = -1
+                    self.turns[self.head.pos[:]] = [self.dirnx, self.dirny]
+
+                elif keys[pygame.K_DOWN]:
+                    self.dirnx = 0
+                    self.dirny = 1
+                    self.turns[self.head.pos[:]] = [self.dirnx, self.dirny]
+
+        for i, c in enumerate(self.body):
+            p = c.pos[:]
+            if p in self.turns:
+                turn = self.turns[p]
+                c.move(turn[0],turn[1])
+                if i == len(self.body)-1:
+                    self.turns.pop(p)
+
+            # else:
+            #     if c.dirnx == -1 and c.pos[0] <= 0: c.pos = (c.rows-1, c.pos[1])
+            #     elif c.dirnx == 1 and c.pos[0] >= c.rows-1: c.pos = (0,c.pos[1])
+            #     elif c.dirny == 1 and c.pos[1] >= c.rows-1: c.pos = (c.pos[0], 0)
+            #     elif c.dirny == -1 and c.pos[1] <= 0: c.pos = (c.pos[0],c.rows-1)
+            #     else: c.move(c.dirnx,c.dirny)
+
+        
+
+    def reset(self, pos):
+        self.head = cube(pos)
+        self.body = []
+        self.body.append(self.head)
+        self.turns = {}
+        self.dirnx = 0
+        self.dirny = 1
+
+
+    def addCube(self):
+        tail = self.body[-1]
+        dx, dy = tail.dirnx, tail.dirny
+
+        if dx == 1 and dy == 0:
+            self.body.append(cube((tail.pos[0]-1,tail.pos[1])))
+        elif dx == -1 and dy == 0:
+            self.body.append(cube((tail.pos[0]+1,tail.pos[1])))
+        elif dx == 0 and dy == 1:
+            self.body.append(cube((tail.pos[0],tail.pos[1]-1)))
+        elif dx == 0 and dy == -1:
+            self.body.append(cube((tail.pos[0],tail.pos[1]+1)))
+
+        self.body[-1].dirnx = dx
+        self.body[-1].dirny = dy
+        
+
+    def draw(self, surface):
+        for i, c in enumerate(self.body):
+            if i ==0:
+                c.draw(surface, True)
+            else:
+                c.draw(surface)
+
+
+def drawGrid(w, rows, surface):
+    sizeBtwn = w // rows
+
+    x = 0
+    y = 0
+    for l in range(rows):
+        x = x + sizeBtwn
+        y = y + sizeBtwn
+
+        pygame.draw.line(surface, (255,255,255), (x,0),(x,w))
+        pygame.draw.line(surface, (255,255,255), (0,y),(w,y))
+        
+
+def redrawWindow(surface):
+    global rows, width, s, snack
+    surface.fill((0,0,0))
+    s.draw(surface)
+    snack.draw(surface)
+    drawGrid(width,rows, surface)
+    pygame.display.update()
+
+
+def randomSnack(rows, item):
+
+    positions = item.body
+
+    while True:
+        x = random.randrange(rows)
+        y = random.randrange(rows)
+        if len(list(filter(lambda z:z.pos == (x,y), positions))) > 0:
+            continue
+        else:
+            break
+        
+    return (x,y)
+
+
+def message_box(subject, content):
+    root = tk.Tk()
+    root.attributes("-topmost", True)
+    root.withdraw()
+    messagebox.showinfo(subject, content)
+    try:
+        root.destroy()
+    except:
+        pass
+
+
+def main():
+    global width, rows, s, snack
+    width = 500
+    rows = 20
+    win = pygame.display.set_mode((width, width))
+    s = snake((255,0,0), (10,10))
+    snack = cube(randomSnack(rows, s), color=(0,255,0))
+    flag = True
+
+    clock = pygame.time.Clock()
+    
+    while flag:
+        pygame.time.delay(50)
+        clock.tick(10)
+        s.move()
+        if s.body[0].pos == snack.pos:
+            s.addCube()
+            snack = cube(randomSnack(rows, s), color=(0,255,0))
+
+        for x in range(len(s.body)):
+            if s.body[x].pos in list(map(lambda z:z.pos,s.body[x+1:])):
+                print('Score: ', len(s.body))
+                message_box('You Lost!', 'Play again...')
+                s.reset((10,10))
+                break
+
+            
+        redrawWindow(win)
+
+main()
+## end
+#14, 17:
+文档\S应用\JS编译器.ftxt
+## end
+#16, 2625:
+/*
++[J函数](,JS方案)
+
+椭圆例子(J函数):...
+变慢问题(J函数):...
+type 应该设置成Phaser.AUTO....
++[发布网页](,JS方案)
+*/
+
+
+var config = {
+    width: 960,
+    height: 540,
+    type: Phaser.AUTO,
+    parent: 'phaser-example',
+    backgroundColor: '#ffffff',
+    scene: {
+        create: create,
+        update: update
+    }
+};
+
+//  dwitter globals
+
+var objs=[];
+var dt=0.1;
+var spaceKey;
+
+var game = new Phaser.Game(config);
+
+/*
++[J函数](,JS方案)
+*/
+
+var path;
+
+function create() {
+    var c;
+    //this.add.curve([0,100,100,0],[200,200,400,400]);
+    //path=new Phaser.Curves.Path([0,100,100,0],[0,0,200,200])
+    //path=new Phaser.Curves.Path();
+    path=this.add.path(10,10);
+    path.lineTo(100,100);
+    path.lineTo(200,100);
+    path.lineTo(200,200);
+    //this.add.circle(50,50,50,0x000000);
+    //this.add.line(100,100,100,300,200,150,0x000000);
+    this.add.line(100,200,0,0,128,0,strokeColor=0x000000);
+    this.add.polygon(100,200,[0,0,20,0,20,20,0,20],strokeColor=0x000000);
+    
+    for(var i=0;i<50;i++){
+        var x=Math.random()*400+50;
+        var y=Math.random()*400+50;
+        var vx=Math.random()*100-50;
+        var vy=Math.random()*100-50;
+        var r=Math.random()*10+5;
+        //c=this.add.circle(x,y,r,0x000000);
+        c=this.add.polygon(x,y,[0,0,r,0,r,r,0,r],strokeColor=0x000000);
+        c.m_v=[vx,vy];
+        c.radius=r;
+        objs.push(c);
+    }
+    spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+}
+
+function update() {
+    dropEvent(objs);
+    BEvent(objs);
+    moveEvent(objs);
+    colEvent(objs);
+    if(spaceKey.isDown) {
+        print(objs.length)
+    }
+}
+
+function dropEvent(objs) {
+    var g=[0,10];
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<500-objs[i].radius) {
+            objs[i].m_v[0]+=g[0]*dt;
+            objs[i].m_v[1]+=g[1]*dt;
+        }
+    }
+}
+
+function BEvent(objs) {
+    var B=0.01;
+    var v;
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<500-objs[i].radius) {
+            v=objs[i].m_v;
+            objs[i].m_v[0]+=B*v[1]*dt;
+            objs[i].m_v[1]+=-B*v[0]*dt;
+        }
+    }
+}
+
+function colEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y>500-objs[i].radius) {
+            objs[i].m_v[1]=-Math.abs(objs[i].m_v[1])
+        }
+        if(objs[i].x>500-objs[i].radius) {
+            objs[i].m_v[0]=-Math.abs(objs[i].m_v[0])
+        }
+        if(objs[i].x<objs[i].radius) {
+            objs[i].m_v[0]=Math.abs(objs[i].m_v[0])
+        }
+    }
+}
+
+function moveEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        objs[i].x+=objs[i].m_v[0]*dt;
+        objs[i].y+=objs[i].m_v[1]*dt;
+    }
+}
+
+
+/*
++[J函数](,JS方案)
+*/
+## end
+#19, 1076:
+/*
++[J函数](,椭圆例子)
+*/
+
+var config = {
+    width: 800,
+    height: 600,
+    type: Phaser.AUTO,
+    parent: 'phaser-example',
+    scene: {
+        create: create,
+        update: update
+    }
+};
+
+var game = new Phaser.Game(config);
+
+var graphics;
+var ellipses;
+
+function create ()
+{
+    graphics = this.add.graphics({ lineStyle: { color: 0x00aaaa } });
+
+    var ellipse = new Phaser.Geom.Ellipse(400, 300, 0, 0);
+
+    ellipses = [ellipse];
+
+    for(var i = 0; i < 80; i++)
+    {
+        ellipse = Phaser.Geom.Ellipse.Clone(ellipse);
+        ellipse.width += 1.5;
+        ellipse.height += 0.7;
+        //Phaser.Geom.Ellipse.CircumferencePoint(ellipse, i / 20 * Phaser.Math.PI2, ellipse);
+
+        ellipses.push(ellipse);
+    }
+}
+
+function update ()
+{
+    graphics.clear();
+
+    for(var i = 0; i < ellipses.length; i++)
+    {
+        ellipses[i].width += 1.5;
+        ellipses[i].height += 1.7;
+
+        if(ellipses[i].width > 800)
+        {
+            ellipses[i].width = 0;
+            ellipses[i].height = 0;
+        }
+
+        graphics.strokeEllipseShape(ellipses[i]);
+    }
+}
+## end
+#22, 1939:
+/*
++[J函数](,JS方案)
+
+椭圆例子(J函数):...
+变慢问题(J函数):...
+*/
+
+
+var config = {
+    width: 960,
+    height: 540,
+    type: Phaser.CANVAS,
+    parent: 'phaser-example',
+    backgroundColor: '#ffffff',
+    scene: {
+        create: create,
+        update: update
+    }
+};
+
+//  dwitter globals
+
+var objs=[];
+var dt=0.1;
+var spaceKey;
+
+var game = new Phaser.Game(config);
+
+/*
++[J函数](,JS方案)
+*/
+
+
+function create() {
+    var c;
+    for(var i=0;i<5;i++){
+        var x=Math.random()*400+50;
+        var y=Math.random()*400+50;
+        var vx=Math.random()*100-50;
+        var vy=Math.random()*100-50;
+        c=this.add.circle(x,y,10,0x000000);
+        c.m_v=[vx,vy];
+        objs.push(c);
+    }
+    for(var i=0;i<500;i++){
+        var x=Math.random()*400+50;
+        var y=Math.random()*400+50;
+        var vx=Math.random()*100-50;
+        var vy=Math.random()*100-50;
+        //c=this.add.circle(x,y,10,0x000000);
+        c.m_v=[vx,vy];
+    }
+    spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+}
+
+function update() {
+    dropEvent([objs[0]]);
+    moveEvent([objs[0]]);
+    colEvent([objs[0]]);
+    if(spaceKey.isDown) {
+        print(objs.length)
+    }
+}
+
+function dropEvent(objs) {
+    var g=[0,10];
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y<500-objs[i].radius) {
+            objs[i].m_v[0]+=g[0]*dt;
+            objs[i].m_v[1]+=g[1]*dt;
+        }
+    }
+}
+
+function colEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        if(objs[i].y>500-objs[i].radius) {
+            objs[i].m_v[1]=-Math.abs(objs[i].m_v[1])
+        }
+        if(objs[i].x>500-objs[i].radius) {
+            objs[i].m_v[0]=-Math.abs(objs[i].m_v[0])
+        }
+        if(objs[i].x<objs[i].radius) {
+            objs[i].m_v[0]=Math.abs(objs[i].m_v[0])
+        }
+    }
+}
+
+function moveEvent(objs) {
+    for(var i=0;i<objs.length;i++) {
+        objs[i].x+=objs[i].m_v[0]*dt;
+        objs[i].y+=objs[i].m_v[1]*dt;
+    }
+}
+
+
+/*
++[J函数](,JS方案)
+*/
+## end
+#24, 17:
+文档\S应用\JS编译器.ftxt
+## end
+### 结束

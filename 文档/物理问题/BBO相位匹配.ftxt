@@ -1,0 +1,524 @@
+### 节点
+地址, 的, BBO相位匹配, 目录, 的, 的, 相位匹配, html, 的, 折射率椭圆, M函数, 的, 显示椭圆, 的, BBO_Dk, M函数, 的, 地址, BBO_Dk, 的, 记忆, 的, func_zero, M函数, 的, 测试, 的, 地址, func_zero, 的, 的, 测试, 的, BBO_angle, M函数, 的, 地址, BBO_angle, 的, 的, 测试, 的, 二维匹配图, M函数, 的, 参考, 的, 保存, 二维匹配图, 的, 折射率椭圆, 的, 折射率椭圆, 二维匹配图, 的, 的, func_zero, 中, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 6#, 6#9, #, 9#, 9#12, #, 9#14, #, 14#, 14#17, #, #14, 20#18, 3#, 9#22, #, 22#, 14#25, #, 22#27, #, #22, 20#28, 22#31, #, 9#33, #, 33#, 33#36, #, #33, 20#37, 33#40, #, 6#42, #, 42#, 42#45, #, 42#47, #, #42, 20#48, #9, 20#50, #, #, del#57, del#56, #, del#56, 
+### 内容
+#0, 20:
+文档\物理问题\BBO相位匹配.ftxt
+## end
+#2, 132:
++[返回目录](,BBO相位匹配)
+地址::文档\物理问题\BBO相位匹配.ftxt
+
+
+Nini, 导入Huusar的库
+Nini, 打开Hussar的n_bbo(节点)
+Nini, 打开Hussar的n_bbo2(节点)
+
+
+相位匹配(html):...
+
+
+
+## end
+#3, 51:
+BBO相位匹配:...
+创建于 20220402
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 124:
+<!--
++[H函数](,相位匹配)
+
+折射率椭圆(M函数):...
+二维匹配图(M函数):...
++[新建阅读窗口](,折射率椭圆)
+记住二维匹配图(节点)
+
+的(记忆,扶桑)->+[显示星图]"4"(,扶桑)
+-->
+
+
+
+
+<!--
+
+-->
+## end
+#9, 1053:
+%{
++[M函数](,折射率椭圆)
+
+显示椭圆:...
+BBO_Dk(M函数):...
+func_zero(M函数):...
+BBO_angle(M函数):...
+记住BBO_angle(节点)
+
+Nini, 打开Hussar的n_bbo2(节点)
+Nini, 关于BBO相位匹配, 你记得什么?
+%}
+
+addpath('Matlab\funcs');
+addpath('Matlab\OPA');
+clf
+physics_constant;
+
+lm1=800e-9;
+lm2=850e-9;
+lm3=1/(1/lm1-1/lm2);
+
+
+f=@(beta)BBO_Dk(lm1,lm2,lm3,beta,'eoo');
+% beta0=func_zero(f,beta1,beta2,20);
+beta0=BBO_angle(lm1,lm2,'eoo')
+
+lm3=1/(1/lm1-1/lm2);
+beta=linspace(0,360,100)+beta0;
+
+n_e1=zeros(size(beta));
+n_o2=zeros(size(beta));
+n_o3=zeros(size(beta));
+
+for i=1:length(beta)
+    k=[sind(beta(i)),0,cosd(beta(i))];
+    [~,ne]=n_bbo2(lm1,k);
+    [no2,~]=n_bbo2(lm2,k);
+    [no3,~]=n_bbo2(lm3,k);
+    n_e1(i)=ne;
+    n_o2(i)=no2;
+    n_o3(i)=no3;
+end
+
+x_e1=n_e1.*sind(beta)/lm1*2*pi;
+y_e1=n_e1.*cosd(beta)/lm1*2*pi;
+
+x_o2=n_o2.*sind(beta)/lm2*2*pi;
+y_o2=n_o2.*cosd(beta)/lm2*2*pi;
+
+x_o3=n_o3.*sind(beta)/lm3*2*pi;
+y_o3=n_o3.*cosd(beta)/lm3*2*pi;
+
+
+plot(x_e1,y_e1,x_o2+x_o3,y_o2+y_o3,[0,x_e1(1)],[0,y_e1(1)],'r*-')
+axis equal
+legend('k_p','k_s+k_i')
+
+xlabel('k_x')
+ylabel('k_y')
+
+
+
+
+%{
++[M函数](,折射率椭圆)
+%}
+## end
+#12, 727:
+%{
++[M函数](,折射率椭圆)
+%}
+
+addpath('Matlab\OPA');
+
+clf
+physics_constant;
+
+lm1=800e-9;
+lm2=1400e-9;
+lm3=1/(1/lm1-1/lm2);
+beta=linspace(0,360,100);
+
+n_e1=zeros(size(beta));
+n_o2=zeros(size(beta));
+n_o3=zeros(size(beta));
+
+for i=1:length(beta)
+    k=[sind(beta(i)),0,cosd(beta(i))];
+    [~,ne]=n_bbo2(lm1,k);
+    [no2,~]=n_bbo2(lm2,k);
+    [no3,~]=n_bbo2(lm3,k);
+    n_e1(i)=ne;
+    n_o2(i)=no2;
+    n_o3(i)=no3;
+end
+
+x_e1=n_e1.*sind(beta)/lm1*2*pi;
+y_e1=n_e1.*cosd(beta)/lm1*2*pi;
+
+x_o2=n_o2.*sind(beta)/lm2*2*pi;
+y_o2=n_o2.*cosd(beta)/lm2*2*pi;
+
+x_o3=n_o3.*sind(beta)/lm3*2*pi;
+y_o3=n_o3.*cosd(beta)/lm3*2*pi;
+
+
+plot(x_e1,y_e1,x_o2+x_o3,y_o2+y_o3)
+axis equal
+legend('k_p','k_s+k_i')
+
+xlabel('k_x')
+ylabel('k_y')
+
+%{
++[M函数](,折射率椭圆)
+%}
+## end
+#14, 683:
+%{
+地址::Matlab\OPA\BBO_Dk.m
++[保存文本](,BBO_Dk)
+测试:...
+%}
+
+function [Dk,k1,k2,k3,E1,E2,E3]=BBO_Dk(lm1,lm2,lm3,beta,BBO_type)
+%addpath('Matlab\OPA');
+physics_constant;
+
+% lm1=800e-9;
+% lm2=1400e-9;
+% beta=20;
+% BBO_type='eoo';
+% lm3=1/(1/lm1-1/lm2);
+
+k=[sind(beta),0,cosd(beta)];
+if strcmp(BBO_type(1),'e')
+    [~,n1,~,E1]=n_bbo2(lm1,k);
+else
+    [n1,~,E1,~]=n_bbo2(lm1,k);
+end
+
+if strcmp(BBO_type(2),'e')
+    [~,n2,~,E2]=n_bbo2(lm2,k);
+else
+    [n2,~,E2,~]=n_bbo2(lm2,k);
+end
+
+if strcmp(BBO_type(3),'e')
+    [~,n3,~,E3]=n_bbo2(lm3,k);
+else
+    [n3,~,E3,~]=n_bbo2(lm3,k);
+end
+
+k1=2*pi*n1/lm1;
+k2=2*pi*n2/lm2;
+k3=2*pi*n3/lm3;
+
+Dk=2*pi*(n1./lm1-n2./lm2-n3./lm3);
+
+end
+
+
+%{
++[M函数](,折射率椭圆)
+%}
+## end
+#17, 19:
+Matlab\OPA\BBO_Dk.m
+## end
+#22, 420:
+%{
+BBO相位匹配
+地址::Matlab\funcs\func_zero.m
++[保存M函数](,func_zero)
+
+测试:...
+%}
+
+function x0=func_zero(f,x1,x2,N)
+
+%lm1=800e-9;
+%lm2=1500e-9;
+%f=@(beta)BBO_Dk(lm1,lm2,beta,'eoo');
+%N=10;
+
+%x1=0;
+%x2=90;
+
+if f(x1)==0
+    x0=x1;
+elseif f(x2)==0
+    x0=x2;
+else
+    x0=(x1+x2)/2;
+end
+
+if f(x0)~=0 && N~=0
+    if f(x0)*f(x1)<0
+        x0=func_zero(f,x0,x1,N-1);
+    else
+        x0=func_zero(f,x0,x2,N-1);
+    end
+end
+
+
+end
+
+
+%{
+
+%}
+## end
+#25, 538:
+%{
++[M函数](,测试)
+
+显示椭圆:...
+BBO_Dk(M函数):...
+记住BBO_Dk(节点)
+func_zero(M函数):...
+
+%}
+
+addpath('Matlab\OPA');
+
+clf
+physics_constant;
+
+lm1=800e-9;
+lm2=1500e-9;
+lm3=1/(1/lm1-1/lm2);
+beta=19;
+
+n_e1=zeros(size(beta));
+n_o2=zeros(size(beta));
+n_o3=zeros(size(beta));
+
+for i=1:length(beta)
+    k=[sind(beta(i)),0,cosd(beta(i))];
+    [~,ne]=n_bbo2(lm1,k);
+    [no2,~]=n_bbo2(lm2,k);
+    [no3,~]=n_bbo2(lm3,k);
+    n_e1(i)=ne;
+    n_o2(i)=no2;
+    n_o3(i)=no3;
+end
+
+Dk0=2*pi*(n_e1/lm1-n_o2/lm2-n_o3/lm3)
+Dk=BBO_Dk(lm1,lm2,beta,'eoo')
+
+%{
++[M函数](,折射率椭圆)
+%}
+## end
+#27, 24:
+Matlab\funcs\func_zero.m
+## end
+#31, 249:
+%{
++[M函数](,测试)
+%}
+
+addpath('Matlab\funcs');
+addpath('Matlab\OPA');
+physics_constant;
+
+lm1=800e-9;
+lm2=1500e-9;
+lm3=1/(1/lm1-1/lm2);
+f=@(beta)BBO_Dk(lm1,lm2,lm3,beta,'eoo');
+N=20;
+
+beta1=0;
+beta2=90;
+func_zero(f,beta1,beta2,N)
+
+
+
+%{
++[M函数](,折射率椭圆)
+%}
+## end
+#33, 323:
+%{
+地址::Matlab\OPA\BBO_angle.m
++[保存文本](,BBO_angle)
+
+测试:...
+%}
+
+function beta0=BBO_angle(lm1,lm2,BBO_type)
+addpath('Matlab\funcs');
+addpath('Matlab\OPA');
+physics_constant;
+
+% lm1=800e-9;
+% lm2=1400e-9;
+lm3=1/(1/lm1-1/lm2);
+
+f=@(beta)BBO_Dk(lm1,lm2,lm3,beta,BBO_type);
+beta0=func_zero(f,0,90,20);
+
+end
+
+
+
+%{
++[M函数](,折射率椭圆)
+%}
+## end
+#36, 22:
+Matlab\OPA\BBO_angle.m
+## end
+#40, 825:
+%{
++[M函数](,测试)
+sind
+%}
+
+addpath('Matlab\funcs');
+addpath('Matlab\OPA');
+clf
+physics_constant;
+
+lm1=800e-9;
+lm2=850e-9;
+
+
+beta0=BBO_angle(lm1,lm2,'eoo')
+
+lm3=1/(1/lm1-1/lm2);
+beta=linspace(0,360,100)+beta0;
+
+n_e1=zeros(size(beta));
+n_o2=zeros(size(beta));
+n_o3=zeros(size(beta));
+
+for i=1:length(beta)
+    k=[sind(beta(i)),0,cosd(beta(i))];
+    [~,ne]=n_bbo2(lm1,k);
+    [no2,~]=n_bbo2(lm2,k);
+    [no3,~]=n_bbo2(lm3,k);
+    n_e1(i)=ne;
+    n_o2(i)=no2;
+    n_o3(i)=no3;
+end
+
+x_e1=n_e1.*sind(beta)/lm1*2*pi;
+y_e1=n_e1.*cosd(beta)/lm1*2*pi;
+
+x_o2=n_o2.*sind(beta)/lm2*2*pi;
+y_o2=n_o2.*cosd(beta)/lm2*2*pi;
+
+x_o3=n_o3.*sind(beta)/lm3*2*pi;
+y_o3=n_o3.*cosd(beta)/lm3*2*pi;
+
+
+plot(x_e1,y_e1,x_o2+x_o3,y_o2+y_o3,[0,x_e1(1)],[0,y_e1(1)],'r*-')
+axis equal
+legend('k_p','k_s+k_i')
+
+xlabel('k_x')
+ylabel('k_y')
+
+
+
+
+%{
++[M函数](,折射率椭圆)
+%}
+## end
+#42, 765:
+%{
++[M函数](,二维匹配图)
+
+参考::https://www.researchgate.net/figure/Phase-matching-efficiency-as-a-function-of-pump-and-seed-spectrum-for-a-BBO-cut-at-th_fig4_319251120
+
+保存:...
+记住二维匹配图(节点)
+%}
+
+addpath('Matlab\funcs');
+addpath('Matlab\OPA');
+clf
+physics_constant;
+
+lm1=800e-9;
+lm20=1400e-9;
+type_BBO='eoo';
+beta0=BBO_angle(lm1,lm20,type_BBO);
+L=105e-5;
+% beta0=19.9;
+
+
+N1=100;
+N2=101;
+
+lm1=linspace(740,860,N1)*1e-9;
+lm2=linspace(1000,2000,N2)*1e-9;
+
+Dk=zeros(N1,N2);
+
+for j=1:N1
+for i=1:N2
+    lm3=1/(1/lm1(j)-1/lm2(i));
+    Dk(j,i)=BBO_Dk(lm1(j),lm2(i),lm3,beta0,type_BBO);
+end
+end
+
+G=(sin(Dk/2*pi*L)./(Dk/2*pi*L)).^2;
+
+contourf(lm2/1e-9,lm1/1e-9,G)
+%axis equal
+xlabel('signal [nm]')
+ylabel('pump [nm]')
+title(sprintf('Crystal angle: %.2f deg',beta0))
+
+%{
++[M函数](,二维匹配图)
+%}
+## end
+#45, 136:
+https://www.researchgate.net/figure/Phase-matching-efficiency-as-a-function-of-pump-and-seed-spectrum-for-a-BBO-cut-at-th_fig4_319251120
+## end
+#47, 717:
+%{
++[M函数](,保存)
+figure
+参考::https://www.researchgate.net/figure/Phase-matching-efficiency-as-a-function-of-pump-and-seed-spectrum-for-a-BBO-cut-at-th_fig4_319251120
+
+保存:...
+%}
+
+addpath('Matlab\funcs');
+addpath('Matlab\OPA');
+clf
+physics_constant;
+
+lm1=800e-9;
+lm20=1400e-9;
+type_BBO='eoo';
+beta0=BBO_angle(lm1,lm20,type_BBO);
+L=1e-6;
+
+N1=40;
+N2=41;
+
+lm2=linspace(850,2200,N1)*1e-9;
+lm3=linspace(850,2200,N2)*1e-9;
+
+Dk=zeros(N1,N2);
+
+for j=1:N1
+for i=1:N2
+Dk(j,i)=BBO_Dk(lm1,lm2(j),lm3(i),beta0,type_BBO);
+end
+end
+
+G=(sin(Dk/2*pi*L)./(Dk/2*pi*L)).^2;
+
+contourf(lm3/1e-9,lm2/1e-9,G)
+axis equal
+xlabel('idler [nm]')
+ylabel('signal [nm]')
+title(sprintf('Crystal orientation: %.2f deg',beta0))
+
+sinc(0)
+
+%{
++[M函数](,二维匹配图)
+%}
+## end
+### 结束

@@ -1,0 +1,288 @@
+### 节点
+地址, 的, TACC, 目录, 的, 的, 节点数目统计, 的, 笔记, 的, MPI, 的, CUDA入门, 的, 登陆窗口, 的, p, 的, 动画, M函数, 的, 输出gif, 手, 手, 的, 核心代码, 的, 原始图片, 的, 显示能谱, 的, 输出gif, 的, PIConGPU_0_6_0, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 8#12, #, 2#14, #, 14#16, #, 14#18, #, 18#, 18#21, #, #14, #14, 21#25, #, 21#27, #, 18#29, #, 29#31, #, 14#33, #, 2#del, 
+### 内容
+#0, 18:
+文档\计算机问题\TACC.ftxt
+## end
+#2, 144:
++[返回目录](,TACC)
+地址::文档\计算机问题\TACC.ftxt
+
+Nini, 打开程序交互(文件)
+Nini, 打开GPU编程(文件)
+Nini, 打开PIConGPU(文件)
+Nini, 打开Smilei生成器(文件)
++[修改天使]
+
+笔记:...
+登陆窗口:...
+
+
+
+## end
+#3, 48:
+TACC:...
+创建于 20230126
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 262:
+MPI::https://en.wikipedia.org/wiki/Message_Passing_Interface
+CUDA入门::https://developer.nvidia.com/blog/even-easier-introduction-cuda/
++[打开网页](,CUDA入门)
+
+MPI是不同处理器之间进行通讯的库. MPI的程序应该是那种, 相同的程序被分发到不同的处理器上, 每个处理器执行代码的时候, 根据ID(用if判断), 执行不同的代码
+GPU的编程其实也类似(CUDA的那个例子)
+
+
+
+## end
+#10, 55:
+https://en.wikipedia.org/wiki/Message_Passing_Interface
+## end
+#12, 64:
+https://developer.nvidia.com/blog/even-easier-introduction-cuda/
+## end
+#14, 915:
+Nini, 打开PIConGPU(文件)
+PIConGPU_0_6_0:...
+
+p::
+p是子进程"ssh xtcheng@ls6.tacc.utexas.edu"
+在p中, 运行指令"ls"
+
+在p中, 运行指令"cd $WORK/test_folder/output_test;ls"
+在p中, 运行指令"cd output_test;ls"
+
+在p中, 运行指令"cd $WORK/picongpu_dev;source picongpu_GPU.sh;echo $BOOST_ROOT"
+在p中, 运行指令"module load cuda/11.3"
+在p中, 运行指令"cd $WORK/test_folder/LWFA_GPU_build;ls"
+在p中, 运行指令"dos2unix myscript.txt"
+在p中, 运行指令"date;sbatch myscript.txt"
+在p中, 运行指令"pic-build"
+在p中, 运行指令"squeue -u xtcheng"
+在p中, 运行指令"squeue"
+
+
+运行指令"mkdir /home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19"
+运行指令"nautilus /home/xiantao/Documents/PIC/output"
+运行指令"scp -r xtcheng@ls6.tacc.utexas.edu:$WORK/test_folder/LWFA_GPU_build/pngElectronsYX /home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19"
+
+在p中, 运行指令"ls"
+运行指令"scp -r xtcheng@ls6.tacc.utexas.edu:$WORK/test_folder/LWFA_GPU_build/e_energyHistogram_all.dat /home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19"
+
+动画(M函数):...
+
+
+
+
+## end
+#18, 534:
+%{
++[M函数](,动画)
+Nini, 打开动画制作(文件)
+输出gif:...
+显示能谱:...
++[新建阅读窗口](,输出gif)
+%}
+
+% folder_address="/home/xiantao/Documents/PIC/output/pngElectronsYX";
+folder_address="/home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19/pngElectronsYX";
+
+physics_constant
+dt=1.39e-16;
+
+files=dir(sprintf("%s/*.png",folder_address));
+for i=1:length(files)
+    file_name=sprintf("%s/%s",folder_address,files(i).name);
+    data=imread(file_name);
+    image(data*2);
+    title(sprintf('t=%.2f fs, L=%.2f um',dt*i*100/1e-15,dt*i*100/1e-6*c))
+    pause(0.1)
+end
+
+
+
+## end
+#21, 917:
+%{
++[M函数](,输出gif)
+
+核心代码:...
+原始图片:...
+%}
+
+physics_constant;
+% folder_address="/home/xiantao/Documents/PIC/output/pngElectronsYX";
+folder_address="/home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19/pngElectronsYX";
+
+files=dir(sprintf("%s/*.png",folder_address));
+gif_save=sprintf("/./%s.gif",folder_address);
+
+
+% for i=[1:10:length(files),length(files)]
+for i=1:length(files)
+    file_name=sprintf("%s/%s",folder_address,files(i).name);
+    data=imread(file_name);
+    % data=double(data);
+
+    image(data*2);
+    title(sprintf('t=%.2f fs, L=%.2f um',dt*i*100/1e-15,dt*i*100/1e-6*c))
+
+    frame = getframe(gcf); 
+    im = frame2im(frame); 
+    [imind,cm] = rgb2ind(im,256); 
+    % Write to the GIF File 
+    if i == 1 
+      imwrite(imind,cm,gif_save,'gif', 'Loopcount',inf,'DelayTime',0.1); 
+    else 
+      imwrite(imind,cm,gif_save,'gif','WriteMode','append','DelayTime',0.1); 
+    end
+
+end
+
+
+%{
++[M函数](,输出gif)
+%}
+## end
+#27, 683:
+%{
++[M函数](,生成gif)
+
+核心代码:...
+原始图片:...
+%}
+
+folder_address="/home/xiantao/Documents/PIC/output/pngElectronsYX";
+
+
+files=dir(sprintf("%s/*.png",folder_address));
+gif_save=sprintf("%s.gif",folder_address);
+
+for i=1:length(files)
+    file_name=sprintf("%s/%s",folder_address,files(i).name);
+    data=imread(file_name);
+    data=double(data);
+
+    % im=uint8(256*data/max(max(max(data))));
+    im=uint8(data/2^8);
+    [imind,cm] = rgb2ind(im,256); 
+    % Write to the GIF File 
+    if i == 1 
+      imwrite(imind,cm,gif_save,'gif', 'Loopcount',inf,'DelayTime',0.1); 
+    else 
+      imwrite(imind,cm,gif_save,'gif','WriteMode','append','DelayTime',0.1); 
+    end
+
+end
+
+
+%{
++[M函数](,输出gif)
+%}
+## end
+#29, 487:
+%{
++[M函数](,显示能谱)
+输出gif:...
+%}
+
+% folder_address="/home/xiantao/Documents/PIC/output/pngElectronsYX";
+file_name="/home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19/e_energyHistogram_all.dat";
+
+physics_constant
+dt=1.39e-16;
+
+a=readmatrix(file_name);
+E=a(1,3:end-2);
+% set(gca,'yscale','log')
+
+for i=1:size(a,1)
+    plot(E/1e3,a(i,3:end-2));
+    axis([10,200,0,1.5e5])
+    xlabel('[MeV]')
+
+    title(sprintf('t=%.2f fs, L=%.2f um',dt*i*100/1e-15,dt*i*100/1e-6*c))
+    pause(0.1)
+end
+
+
+
+
+
+## end
+#31, 842:
+%{
++[M函数](,输出gif)
+%}
+
+% folder_address="/home/xiantao/Documents/PIC/output/pngElectronsYX";
+file_name="/home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19/e_energyHistogram_all.dat";
+
+gif_save="/home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19/spectrum.gif";
+
+physics_constant
+dt=1.39e-16;
+
+a=readmatrix(file_name);
+E=a(1,3:end-2);
+% set(gca,'yscale','log')
+
+for i=1:size(a,1)
+    plot(E/1e3,a(i,3:end-2));
+    axis([10,200,0,5e5])
+    title(sprintf('t=%.2f fs, L=%.2f um',dt*i*100/1e-15,dt*i*100/1e-6*c))
+    xlabel('[MeV]')
+
+    frame = getframe(gcf); 
+    im = frame2im(frame); 
+    [imind,cm] = rgb2ind(im,256); 
+    % Write to the GIF File 
+    if i == 1 
+      imwrite(imind,cm,gif_save,'gif', 'Loopcount',inf,'DelayTime',0.1); 
+    else 
+      imwrite(imind,cm,gif_save,'gif','WriteMode','append','DelayTime',0.1); 
+    end
+end
+
+
+## end
+#33, 906:
+Nini, 打开PIConGPU(文件)
+PIConGPU_0_6_0:...
+
+p::
+p是子进程"ssh xtcheng@ls6.tacc.utexas.edu"
+在p中, 运行指令"ls"
+
+在p中, 运行指令"cd $WORK/test_folder/output_test;ls"
+在p中, 运行指令"cd output_test;ls"
+
+在p中, 运行指令"cd $WORK/picongpu;source picongpu_GPU.sh;echo $BOOST_ROOT"
+在p中, 运行指令"echo $BOOST_ROOT"
+在p中, 运行指令"cd $WORK/test_folder/LWFA_GPU_build;ls"
+在p中, 运行指令"dos2unix myscript.txt"
+在p中, 运行指令"date;sbatch myscript.txt"
+在p中, 运行指令"pic-build"
+在p中, 运行指令"squeue -u xtcheng"
+在p中, 运行指令"squeue"
+
+
+运行指令"mkdir /home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19"
+运行指令"nautilus /home/xiantao/Documents/PIC/output"
+运行指令"scp -r xtcheng@ls6.tacc.utexas.edu:$WORK/test_folder/LWFA_GPU_build/pngElectronsYX /home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19"
+
+在p中, 运行指令"ls"
+运行指令"scp -r xtcheng@ls6.tacc.utexas.edu:$WORK/test_folder/LWFA_GPU_build/e_energyHistogram_all.dat /home/xiantao/Documents/PIC/output/tau_10fsA1_6_n1e19"
+
+动画(M函数):...
+
+
+
+
+## end
+### 结束

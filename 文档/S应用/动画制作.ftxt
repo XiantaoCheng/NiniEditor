@@ -1,0 +1,129 @@
+### 节点
+地址, 的, 动画制作, 目录, 的, 的, 节点数目统计, 20220811, 的, 的, 读取gif, M函数, 的, 参考, 20220831, 的, 的, 生成gif, M函数, 的, 核心代码, 的, 笔记, 的, ffmpeg, 的, 参考, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, #, 6#7, 2#10, #, 10#, 10#13, #, #, 6#14, 2#17, #, 17#, 17#20, #, 2#22, #, 22#24, #, 22#26, #, 
+### 内容
+#0, 16:
+文档\S应用\动画制作.ftxt
+## end
+#2, 122:
++[返回目录](,动画制作)
+地址::文档\S应用\动画制作.ftxt
+
+
+Nini, 打开LaserNetUS(文件)
+Nini, 打开iFAST日志(文件)
+
+读取gif(M函数):...
+生成gif(M函数):...
+笔记:...
+
+
+
+
+## end
+#3, 48:
+动画制作:...
+创建于 20220812
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#7, 2:
+17
+## end
+#10, 465:
+%{
++[M函数](,读取gif)
+参考::https://www.mathworks.com/matlabcentral/answers/36160-displaying-gif-image-matlab
++[打开网页](,参考)
+%}
+
+fullFileName = 'C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\文档\论文\LaserNetUS\poster\res\fig5.gif';
+%[gifImage,cmap] = imread(fullFileName, 'frames', 'all');
+gifImage = imread(fullFileName, 'frames', 'all');
+size(gifImage)
+size(cmap)
+% imshow(gifImage,cmap)
+imshow(gifImage(:,:,1,10),cmap)
+imshow(gifImage(:,:,1,10))
+
+
+%{
++[M函数](,读取gif)
+%}
+## end
+#13, 81:
+https://www.mathworks.com/matlabcentral/answers/36160-displaying-gif-image-matlab
+## end
+#14, 2:
+22
+## end
+#17, 605:
+%{
++[M函数](,生成gif)
+
+核心代码:...
+%}
+
+folder_address="/home/xiantao/Documents/PIC/output/pngElectronsYX";
+
+
+files=dir(sprintf("%s/*.png",folder_address));
+gif_save=sprintf("%s.gif",folder_address);
+
+for i=1:length(files)
+    file_name=sprintf("%s/%s",folder_address,files(i).name);
+    data=imread(file_name);
+
+    im=uint8(data/2^8);
+    [imind,cm] = rgb2ind(im,256); 
+    % Write to the GIF File 
+    if i == 1 
+      imwrite(imind,cm,gif_save,'gif', 'Loopcount',inf,'DelayTime',0.1); 
+    else 
+      imwrite(imind,cm,gif_save,'gif','WriteMode','append','DelayTime',0.1); 
+    end
+
+end
+
+
+%{
++[M函数](,生成gif)
+%}
+## end
+#20, 354:
+%{
++[返回目录](,生成gif)
+
+核心代码:...
+%}
+
+frame = getframe(gcf); 
+im = frame2im(frame); 
+[imind,cm] = rgb2ind(im,256); 
+gif_save=['文档\\模拟\\report\\20221002\\res\\PM.gif'];
+% Write to the GIF File 
+if i == 1 
+  imwrite(imind,cm,gif_save,'gif', 'Loopcount',inf,'DelayTime',0.1); 
+else 
+  imwrite(imind,cm,gif_save,'gif','WriteMode','append','DelayTime',0.1); 
+end
+
+
+## end
+#22, 130:
+ffmpeg::https://ffmpegwasm.netlify.app/#installation
+参考::http://templarian.com/2020/02/13/svg-to-animated-gif/
++[打开网页](,ffmpeg)
+
+
+
+## end
+#24, 44:
+https://ffmpegwasm.netlify.app/#installation
+## end
+#26, 53:
+http://templarian.com/2020/02/13/svg-to-animated-gif/
+## end
+### 结束

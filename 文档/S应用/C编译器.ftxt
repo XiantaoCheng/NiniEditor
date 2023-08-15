@@ -1,0 +1,1212 @@
+### 节点
+地址, 的, C编译器, 目录, 的, 的, 动词, 的, 名词, 的, 编译, 的, 模板, 的, 运行, 的, 模板, 的, 测试程序, 的, Mastermind, 的, 根目录, 的, 分支版本, 的, 版本1, 的, 的, 笔记, 的, 测试isDuplicate, 的, 的, 参考文档, 的, 代码结构, 的, 主函数, 的, 测试, 的, C函数, 的, 主函数, 的, PPT, 的, 正式主函数, 的, 测试函数, 的, 测试DLL, 的, 地址, 的, 86问题, 的, 参考, 的, 空格问题, 的, 定义命令, 的, 空格问题, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 6#10, #, 10#12, #, 6#14, #, 14#16, #, 2#18, #, 18#20, #, 20#22, #, 6#24, #, 20#26, #, 26#22, 20#29, #, 26#31, #, 31#22, 18#34, #, 6#36, #, 20#38, #40, 20#40, #, 6#42, #, 26#44, #48, 2#46, #, 26#48, #, 26#50, #, 2#52, #, 52#54, #, 10#56, #, 56#58, #, 56#60, #, 56#62, #, 10#64, #, 
+### 内容
+#0, 16:
+文档\S应用\C编译器.ftxt
+## end
+#2, 161:
++[返回目录](,C编译器)
+地址::文档\S应用\C编译器.ftxt
+
+
+动词:...
++[设置动词](,动词)
+名词:...
++[设置名词](,名词)
+
+PPT::文档\S应用\PPT.ftxt
++[打开文件](+新窗口,PPT)
+
+
+测试程序:...
+测试DLL:...
++[新建阅读窗口](,测试DLL)
+
+
+
+
+
+## end
+#3, 48:
+C编译器:...
+创建于 20211114
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 84:
++[返回目录](,动词)
++[设置结构](,动词)
+
+代码结构:...
+编译:...
+运行:...
+C函数:...
+
+分支版本:...
+运行的"编译"替换为"运行"
+
+
+## end
+#10, 879:
+"""
++[返回目录](,编译)
+模板::cl /EHsc "%代码" /Fe:"%输出"
+模板是什么
+
++[命令行]"cl /LD \"output\C\testC\C代码.c\" /Fe:\"output\C\testC\C代码1.dll\" "
++[命令行]"cl /LD \"output\C\testC\testCam.cpp\" /Fe:\"output\C\testC\C代码1.dll\" "
+
+是([动词库],动词)->+[打开文件](+新窗口,动词)
+.so大概是linux上的一种.dll
+
+所以, .c和.cpp还是很不一样的. 主要是库的名字还有关键词不一样
+
+86问题:...
+空格问题:...
++[命令行]"C:\\"Program Files (x86)\"\\"Microsoft Visual Studio\"\2019\Preview\VC\Tools\MSVC\14.24.28207\bin\Hostx64\x64\cl.exe /LD \"output\C\testC\testCam.cpp\" /Fe:\"output\C\testC\C代码1.dll\" "
+
+"""
+
++编译(,_程序)->+[del](,+编译)...
+->的(编译,模板)...
+
+->的(_程序,根目录)->+[标题](_程序,)...
+->+[增加内容](根目录,+代码)->+[增加内容]"\%s.cpp"(+[标题],+代码)...
+->+[增加内容](根目录,+输出)->+[增加内容]"\%s.exe"(+[标题],+输出)...
+
+->+[代码结构](_程序,+[临时文本]#1)->+[写文件](+代码,+[临时文本]#1)...
+->+[显示](,+[临时文本]#1)...
+
+->+[模板文本](模板,+[临时文本])...
+->+[.](+[模板文本],+代码)->+[del](,+代码)...
+->+[.](+[模板文本],+输出)->+[del](,+输出)...
+
+->+[命令行](,+[临时文本])
+
+## end
+#12, 24:
+cl /EHsc "%代码" /Fe:"%输出"
+## end
+#14, 238:
+"""
++[返回目录](,运行)
+模板::"%输出"
+
+"""
+
++运行(,_程序)->+[del](,+运行)...
+->的(运行,模板)...
+
+->的(_程序,根目录)->+[标题](_程序,)...
+->+[增加内容](根目录,+输出)->+[增加内容]"\%s.exe"(+[标题],+输出)...
+
+->+[模板文本](模板,+[临时文本])...
+->+[.](+[模板文本],+输出)->+[del](,+输出)...
+
+->+[命令行](,+[临时文本])
+
+## end
+#16, 5:
+"%输出"
+## end
+#18, 128:
++[返回目录](,测试程序)
+参考文档::C:\Users\cheng\Dropbox\Struct\Structure1.2\Nini\input\C\Mastermind.docx
++[打开](,参考文档)
+
+Mastermind:...
+
+
+
+
+
+
+
+## end
+#20, 7440:
+/*
+根目录::output\C
++[运行](,Mastermind)
+
+版本1:...
++[C函数](,版本1)
++[编译](,版本1)
++[新建阅读窗口](,版本1)
+
+笔记:...
++[新建阅读窗口](,笔记)
+
++主函数
+测试::????
+Mastermind的主函数是测试
++[代码结构](Mastermind,+[消息窗口])
+*/
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <ctype.h>
+#include <string.h>
+
+#define COLORS 8
+#define THREE 3
+#define FOUR 4
+#define TEN 10
+#define NINE 9
+#define TRUE 1
+#define FALSE 0
+#define ZERO 0
+#define INVALID -1
+
+void welcomeScreen();
+void clearScreen();
+void displayBoard();
+int getColor();
+void convertColor(int color);
+void populateColorArray(char colors[COLORS]);
+void setCode(int codeArray[FOUR]);
+void initializeArray(int array[TEN][FOUR]);
+void getGuess(int guesses[TEN][FOUR], char colors[COLORS]);
+int isValid(char colors[COLORS], char color);
+void displayBoard(int guesses[TEN][FOUR], int clues[TEN][FOUR]);
+
+enum color
+{
+    BLACK,
+    GREEN,
+    NAVY,
+    ORANGE,
+    PINK,
+    RED,
+    VIOLET,
+    WHITE
+};
+
+int main()
+{
+    char colors[COLORS];
+    int secretCode[FOUR];
+    int guesses[TEN][FOUR];
+    int clues[TEN][FOUR];
+    srand(time(NULL));
+    welcomeScreen();
+    clearScreen();
+    setCode(secretCode);
+    clearScreen();
+    populateColorArray(colors);
+    initializeArray(guesses);
+    initializeArray(clues);
+    displayBoard(guesses, clues);
+
+    
+    for(int turn = 0; turn < 2; turn++)
+    {
+        getGuess(guesses, colors);
+        displayBoard(guesses, clues);
+    }
+
+    return 0;
+}
+
+void welcomeScreen()
+{
+    printf("\t\t##########################################################\n");
+    printf("\t\t##########################################################\n");
+    printf("\t\t############                                  ############\n");
+    printf("\t\t############            Mastermind            ############\n");
+    printf("\t\t############                                  ############\n");
+    printf("\t\t##########################################################\n");
+    printf("\t\t##########################################################\n");
+
+    printf("Rules:\n");
+    printf("1. The Codemaker sets a secret code\n");
+    printf("2. The Codebreaker tries to match the code using logic and deduction\n");
+    printf("3. After each move, the Codemaker gives clues to the Codebreaker\n");
+    printf("4. The Codebreaker has 10 attempts to guess the secret code\n");
+
+}
+
+void clearScreen()
+{
+    char enter;
+
+    printf("\n\t\t\t\t <Hit Enter to continue>\n\n");
+
+    scanf("%c", &enter);
+
+    
+    system("cls");
+
+}
+
+void displayBoard(int guesses[TEN][FOUR], int clues[TEN][FOUR])
+{
+
+    printf("+----------------------------------------+ \n");
+    printf("|            SECRET CODE                 | \n");
+    printf("+----------------------------------------+ \n");
+    printf("|          ?    ?    ?    ?              | \n");
+    printf("+----------------------------------------+ \n");
+    printf("|     PLAYER GUESS        |    CLUES     | \n");
+    printf("+----------------------------------------+ \n");
+
+    for(int row = NINE; row >= ZERO; row--)
+    {
+        printf("|   ");
+        for(int col = 0; col < FOUR; col++)
+            if(guesses[row][col] == INVALID)
+                printf("?    ");
+            else
+                printf("%c    ", guesses[row][col]);
+
+        printf("  |  ");
+
+        for(int col = 0; col < FOUR; col++)
+            if(clues[row][col] == INVALID)
+                printf("?  ");
+            else
+                printf("%c  ", clues[row][col]);
+
+        printf("| \n");
+        printf("+----------------------------------------+ \n");
+    }
+}
+
+void setCode(int codeArray[FOUR])
+{
+    int code;
+
+    for(code = 0; code < FOUR; code++)
+    {
+        codeArray[code] = getColor();
+    }
+
+    printf("Integer Secret Code\n");
+
+    for(code = 0; code < FOUR; code++)
+    {
+        printf("%d ", codeArray[code]);
+    }
+
+    printf("\n");
+
+    printf("\nColor Secret Code\n");
+
+    for(code = 0; code < FOUR; code++)
+    {
+        convertColor(codeArray[code]);
+    }
+}
+
+int getColor()
+{
+    
+    int color = rand() % COLORS;
+    return color;
+}
+
+void convertColor(int color)
+{
+    switch(color)
+    {
+        case BLACK:
+            printf("Black ");
+            break;
+        case GREEN:
+            printf("Green ");
+            break;
+        case NAVY:
+            printf("Navy ");
+            break;
+        case ORANGE:
+            printf("Orange ");
+            break;
+        case PINK:
+            printf("Pink ");
+            break;
+        case RED:
+            printf("Red ");
+            break;
+        case VIOLET:
+            printf("Violet ");
+            break;
+        case WHITE:
+            printf("White ");
+            break;
+    }
+}
+
+void populateColorArray(char colors[COLORS])
+{
+    int color;
+
+    for(color = BLACK; color <= WHITE; color++)
+    {
+        switch(color)
+        {
+            case BLACK:
+                colors[color] = 'B';
+                break;
+            case GREEN:
+                colors[color] = 'G';
+                break;
+            case NAVY:
+                colors[color] = 'N';
+                break;
+            case ORANGE:
+                colors[color] = 'O';
+                break;
+            case PINK:
+                colors[color] = 'P';
+                break;
+            case RED:
+                colors[color] = 'R';
+                break;
+            case VIOLET:
+                colors[color] = 'V';
+                break;
+            case WHITE:
+                colors[color] = 'W';
+                break;
+        }
+    }
+}
+
+void initializeArray(int arrays[TEN][FOUR])
+{
+    int row;
+    int col;
+
+    
+    for(row = 0; row < TEN; row++)
+        for(col = 0; col < FOUR; col++)
+            arrays[row][col] = -1;
+}
+
+void getGuess(int guesses[TEN][FOUR], char colors[COLORS])
+{
+    
+    static int row = 0;
+    int col;
+    char guess[TEN];
+    int valid = FALSE;
+
+    printf("\nCharacter colors are \n");
+
+    for(col = 0; col < COLORS; col++)
+    {
+        printf("%c ", colors[col]);
+    }
+
+    while(!valid)
+    {
+        printf("\nEnter your guess of four colors (no spaces): \n");
+
+        scanf("%s", guess);
+        printf("You entered %s\n", guess);
+
+        if(strlen(guess) == FOUR)
+        {
+            for(col = 0; col < FOUR; col++)
+            {
+                guess[col] = toupper(guess[col]);
+
+                if(isalpha(guess[col]))
+                {
+                    if(isValid(colors, guess[col]))
+                    {
+                        guesses[row][col] = guess[col];
+
+                        if(col == THREE)
+                            valid = TRUE;
+                    }
+                    else
+                    {
+                        printf("getGuess: Invalid value entered %c, try again\n", guess[col]);
+                        valid = FALSE;
+                        break;
+                    }
+                }
+                else
+                {
+                    printf("getGuess: Invalid value entered %c, try again\n", guess[col]);
+                    valid = FALSE;
+                    break;
+                }
+            }
+        }
+        else
+        {
+            printf("getGuess: Incorrect number of letters entered\n");
+            valid = FALSE;
+        }
+    }
+
+    row++;
+}
+
+
+int isValid(char colors[COLORS], char color)
+{
+    int c;
+    int valid = FALSE;
+
+    for(c = 0; c < COLORS; c++)
+    {
+        if(color == colors[c])
+        {
+            return TRUE;
+        }
+    }
+
+    return FALSE;
+}
+
+## end
+#22, 8:
+output\C
+## end
+#24, 110:
+"""
++[返回目录](,分支版本)
+
+"""
+
++分支版本(_原版,_分支)->+[del](,+分支版本)...
+->的(_原版,根目录)...
+->+[有](_分支,根目录)->+[修改内容](_原版,_分支)
+
+
+## end
+#26, 10592:
+/*
+根目录::output\C
++[C函数](,版本1)
++[编译](,版本1)
+
+主函数::
+测试isDuplicate:...
+版本1的主函数是测试isDuplicate
+版本1的主函数是什么
+
+正式主函数:...
+版本1的主函数是正式主函数
++[新建阅读窗口](,正式主函数)
+
+测试函数:...
+版本1的主函数是测试函数
+版本1的主函数是什么
++[新建阅读窗口](,测试函数)
+
+getClues
+getGuess
+printf("idx
+
+*/
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <ctype.h>
+#include <string.h>
+
+#define COLORS 8
+#define THREE 3
+#define FOUR 4
+#define TEN 10
+#define NINE 9
+#define TRUE 1
+#define FALSE 0
+#define ZERO 0
+#define INVALID -1
+#define USED 1
+
+void welcomeScreen();
+void clearScreen();
+void displayBoard();
+int getColor();
+void convertColor(int color);
+void populateColorArray(char colors[COLORS]);
+void setCode(int codeArray[FOUR]);
+void initializeArray(int array[TEN][FOUR]);
+void getGuess(int guesses[TEN][FOUR], char colors[COLORS]);
+int isValid(char colors[COLORS], char color);
+void displayBoard(int guesses[TEN][FOUR], int clues[TEN][FOUR]);
+
+void show_code(int array[4]);
+void showMatrix(int M[10][4]);
+void getClues(int guesses[TEN][FOUR], int clues[TEN][FOUR], int secretCode[FOUR], char colors[COLORS]);
+int checkWin(int clues[10][4]);
+char int2Color(int color);
+
+
+enum color
+{
+    BLACK,
+    GREEN,
+    NAVY,
+    ORANGE,
+    PINK,
+    RED,
+    VIOLET,
+    WHITE
+};
+
+%主函数
+
+
+void showMatrix(int M[10][4])
+{
+    for (int i=0;i<10;i++)
+    {
+        for (int j=0;j<4;j++)
+        {
+            printf("%d, ",M[i][j]);
+        }
+        printf("\n");
+    }
+}
+
+void welcomeScreen()
+{
+    printf("\t\t##########################################################\n");
+    printf("\t\t##########################################################\n");
+    printf("\t\t############                                  ############\n");
+    printf("\t\t############            Mastermind            ############\n");
+    printf("\t\t############                                  ############\n");
+    printf("\t\t##########################################################\n");
+    printf("\t\t##########################################################\n");
+
+    printf("Rules:\n");
+    printf("1. The Codemaker sets a secret code\n");
+    printf("2. The Codebreaker tries to match the code using logic and deduction\n");
+    printf("3. After each move, the Codemaker gives clues to the Codebreaker\n");
+    printf("4. The Codebreaker has 10 attempts to guess the secret code\n");
+
+}
+
+void clearScreen()
+{
+    char enter;
+
+    printf("\n\t\t\t\t <Hit Enter to continue>\n\n");
+
+    scanf("%c", &enter);
+
+    
+    system("cls");
+
+}
+
+void displayBoard(int guesses[TEN][FOUR], int clues[TEN][FOUR])
+{
+
+    printf("+----------------------------------------+ \n");
+    printf("|            SECRET CODE                 | \n");
+    printf("+----------------------------------------+ \n");
+    printf("|          ?    ?    ?    ?              | \n");
+    printf("+----------------------------------------+ \n");
+    printf("|     PLAYER GUESS        |    CLUES     | \n");
+    printf("+----------------------------------------+ \n");
+
+    for(int row = NINE; row >= ZERO; row--)
+    {
+        printf("|   ");
+        for(int col = 0; col < FOUR; col++)
+            if(guesses[row][col] == INVALID)
+                printf("?    ");
+            else
+                printf("%c    ", int2Color(guesses[row][col]));
+
+        printf("  |  ");
+
+        for(int col = 0; col < FOUR; col++)
+            if(clues[row][col] == INVALID)
+                printf("?  ");
+            else
+                printf("%c  ", int2Color(clues[row][col]));
+
+        printf("| \n");
+        printf("+----------------------------------------+ \n");
+    }
+}
+
+void setCode(int codeArray[FOUR])
+{
+    int code;
+    int isUsed[COLORS];
+
+    //initialize isUsed and codeArray
+    for(int i=0; i < COLORS; i++)
+    {
+        isUsed[i] = INVALID;
+    }
+    for(code = 0; code < FOUR; code++)
+    {
+        codeArray[code] = INVALID;
+    }
+
+
+    for(code = 0; code < FOUR;)
+    {
+        int color = getColor();
+        if(isUsed[color] == -1)
+        {
+            isUsed[color]=USED;
+            codeArray[code] = color;
+            code++;
+        }
+    }
+
+
+    printf("Integer Secret Code\n");
+
+    for(code = 0; code < FOUR; code++)
+    {
+        printf("%d ", codeArray[code]);
+    }
+
+    printf("\n");
+
+    printf("\nColor Secret Code\n");
+
+    for(code = 0; code < FOUR; code++)
+    {
+        convertColor(codeArray[code]);
+    }
+}
+
+void show_code(int array[4])
+{
+    printf("\nColor Secret Code\n");
+
+    for(int code = 0; code < FOUR; code++)
+    {
+        convertColor(array[code]);
+    }
+}
+
+
+int getColor()
+{
+    
+    int color = rand() % COLORS;
+    return color;
+}
+
+void convertColor(int color)
+{
+    switch(color)
+    {
+        case BLACK:
+            printf("Black ");
+            break;
+        case GREEN:
+            printf("Green ");
+            break;
+        case NAVY:
+            printf("Navy ");
+            break;
+        case ORANGE:
+            printf("Orange ");
+            break;
+        case PINK:
+            printf("Pink ");
+            break;
+        case RED:
+            printf("Red ");
+            break;
+        case VIOLET:
+            printf("Violet ");
+            break;
+        case WHITE:
+            printf("White ");
+            break;
+    }
+}
+
+int color2Int(char color)
+{
+    switch(color)
+    {
+        case 'B':
+            return 0;
+        case 'G':
+            return 1;
+        case 'N':
+            return 2;
+        case 'O':
+            return 3;
+        case 'P':
+            return 4;
+        case 'R':
+            return 5;
+        case 'V':
+            return 6;
+        case 'W':
+            return 7;
+    }
+    return 0;
+}
+
+char int2Color(int color)
+{
+    switch(color)
+    {
+        case 0:
+            return 'B';
+        case 1:
+            return 'G';
+        case 2:
+            return 'N';
+        case 3:
+            return 'O';
+        case 4:
+            return 'P';
+        case 5:
+            return 'R';
+        case 6:
+            return 'V';
+        case 7:
+            return 'W';
+    }
+    return 'A';
+}
+
+
+void populateColorArray(char colors[COLORS])
+{
+    int color;
+
+    for(color = BLACK; color <= WHITE; color++)
+    {
+        switch(color)
+        {
+            case BLACK:
+                colors[color] = 'B';
+                break;
+            case GREEN:
+                colors[color] = 'G';
+                break;
+            case NAVY:
+                colors[color] = 'N';
+                break;
+            case ORANGE:
+                colors[color] = 'O';
+                break;
+            case PINK:
+                colors[color] = 'P';
+                break;
+            case RED:
+                colors[color] = 'R';
+                break;
+            case VIOLET:
+                colors[color] = 'V';
+                break;
+            case WHITE:
+                colors[color] = 'W';
+                break;
+        }
+    }
+}
+
+void initializeArray(int arrays[TEN][FOUR])
+{
+    int row;
+    int col;
+
+    
+    for(row = 0; row < TEN; row++)
+        for(col = 0; col < FOUR; col++)
+            arrays[row][col] = -1;
+}
+
+void getGuess(int guesses[TEN][FOUR], char colors[COLORS])
+{
+    
+    static int row = 0;
+    int col;
+    char guess[TEN];
+    int valid = FALSE;
+
+    printf("\nCharacter colors are \n");
+
+    for(col = 0; col < COLORS; col++)
+    {
+        printf("%c ", colors[col]);
+    }
+
+    while(!valid)
+    {
+        printf("\nEnter your guess of four colors (no spaces, no duplicates): \n");
+
+        scanf("%s", guess);
+        printf("You entered %s\n", guess);
+
+//Check duplicate
+        if(isDuplicate(guess))
+        {
+            valid=FALSE;
+            continue;
+        }
+
+        if(strlen(guess) == FOUR)
+        {
+            for(col = 0; col < FOUR; col++)
+            {
+                guess[col] = toupper(guess[col]);
+
+                if(isalpha(guess[col]))
+                {
+//Check valid
+                    if(isValid(colors, guess[col]))
+                    {
+                        guesses[row][col] = color2Int(guess[col]);
+
+                        if(col == THREE)
+                            valid = TRUE;
+                    }
+                    else
+                    {
+                        printf("getGuess: Invalid value entered %c, try again\n", guess[col]);
+                        valid = FALSE;
+                        break;
+                    }
+                }
+                else
+                {
+                    printf("getGuess: Invalid value entered %c, try again\n", guess[col]);
+                    valid = FALSE;
+                    break;
+                }
+            }
+        }
+        else
+        {
+            printf("getGuess: Incorrect number of letters entered\n");
+            valid = FALSE;
+        }
+    }
+
+    row++;
+}
+
+
+int isDuplicate(char guess[TEN])
+{
+    for (int i=0; i<FOUR; i++)
+    {
+        for (int j=i+1;j<FOUR;j++)
+        {
+            if (guess[i]==guess[j])
+            {
+                return TRUE;
+            }
+        }
+    }
+    return FALSE;
+}
+
+int isValid(char colors[COLORS], char color)
+{
+    int c;
+    int valid = FALSE;
+
+    for(c = 0; c < COLORS; c++)
+    {
+        if(color == colors[c])
+        {
+            return TRUE;
+        }
+    }
+
+    return FALSE;
+}
+
+
+int searchArray(int guesses[TEN][FOUR], int color, int row)
+{
+    int idx = -1;
+    
+    for (int col = 0; col < FOUR; col++)
+    {
+        if (guesses[row][col] == color)
+        {
+            idx = col;
+            break;
+        }
+    }
+    return idx;
+}
+
+void evaluatePegs(int red, int white, int clues[TEN][FOUR])
+{
+    static int row = 0;
+    int col = 0;
+    
+    if (red > 0)
+    {
+        for (; col < red; col++)
+        {
+            clues[row][col]=5;
+        }
+    }
+    
+    if (white > 0)
+    {
+        for (; col < red+white; col++)
+        {
+            clues[row][col]=7;
+        }
+    }
+    
+    row++;
+}
+
+
+void getClues(int guesses[TEN][FOUR], int clues[TEN][FOUR], int secretCode[FOUR], char colors[COLORS])
+{
+    static int row = 0;
+    int redPegs = 0, whitePegs = 0, idx;
+    
+    for (int col=0; col<FOUR; col++)
+    {
+        idx = searchArray(guesses, secretCode[col], row);
+
+        if (idx == col)
+        {
+            redPegs++;
+        }
+        else if (idx != -1)
+        {
+            whitePegs++;
+        }
+    }
+    evaluatePegs(redPegs,whitePegs,clues);
+    row++;
+}
+
+
+int checkWin(int clues[10][4])
+{
+    static int row=0;
+    int count=0;
+    
+    for(int col = 0; col < 4; col++)
+    {
+        if (clues[row][col] == 5)
+        {
+            count++;
+        }
+    }
+    
+    row++;
+
+    if (count == 4)
+    {
+        return TRUE;
+    }
+    else
+    {
+        return FALSE;
+    }
+}
+
+
+
+## end
+#29, 118:
++[返回目录](,笔记)
+
+getColor输出一个随机数. 
+setCode产生随机数列. 要每一个不重复
+
+guesses是10x4的二维int矩阵. 是包括了所有历史猜测的信息的. 
+row是本轮猜测. 
+
+searchArray
+## end
+#31, 122:
+int main()
+{
+    char enter[TEN];
+
+    scanf("%s", enter);
+    printf("%s\n%d",enter,isDuplicate(enter));
+
+    return 0;
+}
+## end
+#34, 71:
+C:\Users\cheng\Dropbox\Struct\Structure1.2\Nini\input\C\Mastermind.docx
+## end
+#36, 147:
+"""
++[返回目录](,代码结构)
+
+"""
+
++代码结构(_结构,_代码)->+[del](,+代码结构)...
+->+[模板文本](_结构,_代码):
+    ->的(_结构,主函数)->主函数(,_main)->+[.]"主函数"(+[模板文本],_main),
+    ->[]
+
+
+
+## end
+#40, 4:
+????
+## end
+#42, 83:
+"""
++[返回目录](,C函数)
+
+"""
++C函数(,_代码)->+[del](,+C函数)...
+->+[编译](,_代码)->+[运行](,_代码)
+
+
+
+
+
+## end
+#46, 15:
+文档\S应用\PPT.ftxt
+## end
+#48, 782:
+int main()
+{
+    int win;
+    char colors[COLORS];
+    int secretCode[FOUR];
+    int guesses[TEN][FOUR];
+    int clues[TEN][FOUR];
+    srand(time(NULL));
+    welcomeScreen();
+    clearScreen();
+    setCode(secretCode);
+    clearScreen();
+    populateColorArray(colors);
+    initializeArray(guesses);
+    initializeArray(clues);
+    displayBoard(guesses, clues);
+
+ 
+
+    for(int turn = 0; turn < 10; turn++)
+    {
+        getGuess(guesses, colors);
+        getClues(guesses, clues, secretCode, colors);
+        displayBoard(guesses, clues);
+        win = checkWin(clues);
+        
+        if (win == TRUE)
+        {
+            printf("Congratulation!");
+            break;
+        }
+        else if (turn == 9)
+        {
+            printf("Fail!");
+        }
+    }
+
+    return 0;
+}
+## end
+#50, 655:
+int main()
+{
+    int win;
+    char colors[COLORS];
+    int secretCode[FOUR];
+    int guesses[TEN][FOUR];
+    int clues[TEN][FOUR];
+    srand(time(NULL));
+    setCode(secretCode);
+    //clearScreen();
+    populateColorArray(colors);
+    initializeArray(guesses);
+    initializeArray(clues);
+ 
+
+    for(int turn = 0; turn < 1; turn++)
+    {
+        getGuess(guesses, colors);
+        getClues(guesses, clues, secretCode, colors);
+printf("\n\nCLUES:\n");
+showMatrix(clues);
+        displayBoard(guesses, clues);
+        win = checkWin(clues);
+        
+        if (win == TRUE)
+        {
+            printf("Congratulation!");
+        }
+    }
+
+    return 0;
+}
+## end
+#52, 57:
+地址::C:\Users\cheng\source\repos
++[打开](,地址)
+
+尝试生成DLL文件
+
+
+
+
+## end
+#54, 27:
+C:\Users\cheng\source\repos
+## end
+#56, 1399:
+参考::https://stackoverflow.com/questions/2548138/how-to-compile-x64-code-with-visual-studio-in-command-line
++[打开网页](,参考)
+
+x86的cl输出32-bit的程序
+
++[命令行]"cl /LD \"output\C\testC\testCam.cpp\" /Fe:\"output\C\testC\C代码1.dll\" "
++[命令行]"\"C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.24.28207\bin\Hostx64\x64\cl.exe\" /LD \"output\C\testC\testCam.cpp\" /Fe:\"output\C\testC\C代码1.dll\" "
+
+
++[命令行]"\"C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.24.28207\bin\Hostx64\x64\cl.exe\" /LD \"output\C\testC\testCam.cpp\" /Fe:\"output\C\testC\C代码1.dll\" "
+
+空格问题::https://stackoverflow.com/questions/18877212/trouble-running-a-batch-file-with-a-space-in-the-path-and-space-in-the-argument
+
++[命令行]"start \"\" CALL \"C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.24.28207\bin\Hostx64\x64\cl.exe\" /LD \"output\C\testC\testCam.cpp\" /Fe:\"output\C\testC\C代码1.dll\" "
+
++[命令行]"\"C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.24.28207\bin\Hostx64\x64\cl.exe\" /LD \"output\C\testC\testCam.cpp\" /Fe:\"output\C\testC\C代码1.dll\" "
+
+定义命令::https://stackoverflow.com/questions/62127400/how-to-pass-command-line-arguments-to-a-powershell-script-invoked-by-a-doskey
+
++[命令行]"doskey cl64=\"C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.24.28207\bin\Hostx64\x64\cl.exe\" $1 $2"
+
+
+
+## end
+#58, 102:
+https://stackoverflow.com/questions/2548138/how-to-compile-x64-code-with-visual-studio-in-command-line
+## end
+#60, 124:
+https://stackoverflow.com/questions/18877212/trouble-running-a-batch-file-with-a-space-in-the-path-and-space-in-the-argument
+## end
+#62, 122:
+https://stackoverflow.com/questions/62127400/how-to-pass-command-line-arguments-to-a-powershell-script-invoked-by-a-doskey
+## end
+#64, 197:
+
++[命令行]"C:\\"Program Files (x86)\"\\"Microsoft Visual Studio\"\2019\Preview\VC\Tools\MSVC\14.24.28207\bin\Hostx64\x64\cl.exe /LD \"output\C\testC\testCam.cpp\" /Fe:\"output\C\testC\C代码1.dll\" "
+
+
+
+
+## end
+### 结束

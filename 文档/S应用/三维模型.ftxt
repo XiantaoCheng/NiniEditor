@@ -1,0 +1,966 @@
+### 节点
+地址, 的, 三维模型, 目录, 的, 的, 节点数目统计, 的, obj参考, 打开网页, 打开网页, 手, 的, 文件parser, 的, obj文件, 的, 参考, 的, 规则, 的, 代码, 的, 文件地址, 的, 测试代码, 的, 默认函数, 的, 的, 操作, 的, 读取obj文件, 的, P代码, 的, M代码, 的, 规则, 的, 函数定义, 的, 默认函数, 的, 测试, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, #8, #8, #2, 2#13, #, 13#15, #, 15#17, #, 15#19, #, 15#21, #, 15#23, #, 15#25, #, 25#27, #, 25#21, 2#30, #, 30#32, #, 32#34, #, 32#36, #, 34#38, #, 34#40, #, 34#42, #, 32#44, #, 
+### 内容
+#0, 16:
+文档/S应用/三维模型.ftxt
+## end
+#2, 229:
++[返回目录](,三维模型)
+地址::文档/S应用/三维模型.ftxt
+运行指令"nautilus 文档/S应用/三维模型"
+
+
+操作:...
++[设置动词](,操作)
++[新建阅读窗口](,操作)
+
+Nini, 打开有限元分析(文件)
+
+obj参考::https://en.wikipedia.org/wiki/Wavefront_.obj_file
++[打开网页](,obj参考)
+
+文件parser:...
++[新建阅读窗口](,文件parser)
+
+
+## end
+#3, 48:
+三维模型:...
+创建于 20230424
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 49:
+https://en.wikipedia.org/wiki/Wavefront_.obj_file
+## end
+#13, 12:
+
+obj文件:...
+
+
+## end
+#15, 335:
+参考::https://en.wikipedia.org/wiki/Wavefront_.obj_file
+文件地址::文档/S应用/三维模型
++[打开网页](,参考)
++[打开文件夹](,文件地址)
+
+规则:...
++[新建阅读窗口](,规则)
+代码:...
++[召唤星辰]"生成Parser代码_快速"(规则,代码)
+
+测试代码:...
++[新建阅读窗口](,测试代码)
++[读取obj文件]"文档/S应用/三维模型/Dragon.obj"
++[读取obj文件]"文档/S应用/三维模型/casa.obj"
++[读取obj文件]"文档/S应用/三维模型/Mi28.obj"
++[读取obj文件]"文档/S应用/三维模型/chamber_complete.obj"
+
+
+## end
+#17, 49:
+https://en.wikipedia.org/wiki/Wavefront_.obj_file
+## end
+#19, 190:
+file:[info]
+info:[line] [info]?
+line:\\s* ([v]| [vt]| [vn]| [f]| [l]| [comm]) \\s*
+v:v\ + .+{坐标} \\n
+vt:vt\ + .+{纹理} \\n
+vn:vn\ + .+{方向} \\n
+f:f\ + .+{面} \\n
+l:l\ + .+{线} \\n
+comm:.*{注释} \\n
+## end
+#21, 6743:
+"""
++[P函数](,代码)
+print('2'.replace('2','333'))
+
+"""
+
+import re
+from body.bone import NetP
+from tools import tools_basic
+
+def word_pat_token(code,i,pat):
+    text=''
+
+#    pat=pat.replace('\\','\\\\')
+    a=re.match(pat,code[i:])
+    if a==None:
+        state=False
+    else:
+        di=a.span()[1]
+        output_txt=code[i:i+di]
+        i+=di
+        state=True
+        text=output_txt
+    
+    return [state,i,text]
+
+
+def parser_token_comm(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'.*')
+    pt0=NetP("注释",text)
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'\n')
+    if state==True:
+        list_new.append(pt0)
+    
+
+    if state==False:
+        print("comm:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        print("comm:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_l(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'l +')
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'.+')
+        pt0=NetP("线",text)
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\n')
+        if state==True:
+            list_new.append(pt0)
+    
+
+    if state==False:
+        print("l:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        print("l:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_f(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'f +')
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'.+')
+        pt0=NetP("面",text)
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\n')
+        if state==True:
+            list_new.append(pt0)
+    
+
+    if state==False:
+        print("f:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        print("f:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_vn(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'vn +')
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'.+')
+        pt0=NetP("方向",text)
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\n')
+        if state==True:
+            list_new.append(pt0)
+    
+
+    if state==False:
+        print("vn:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        print("vn:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_vt(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'vt +')
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'.+')
+        pt0=NetP("纹理",text)
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\n')
+        if state==True:
+            list_new.append(pt0)
+    
+
+    if state==False:
+        print("vt:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        print("vt:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_v(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'v +')
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'.+')
+        pt0=NetP("坐标",text)
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\n')
+        if state==True:
+            list_new.append(pt0)
+    
+
+    if state==False:
+        print("v:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        print("v:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_line(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'\s*')
+    if state==True:
+        i0=i
+        list_new0=list_new[:]
+        [state,i,pt0]=parser_token_v(code,i,list_new)
+        if state==False:
+            i=i0
+            list_new=list_new0
+            [state,i,pt0]=parser_token_vt(code,i,list_new)
+        if state==False:
+            i=i0
+            list_new=list_new0
+            [state,i,pt0]=parser_token_vn(code,i,list_new)
+        if state==False:
+            i=i0
+            list_new=list_new0
+            [state,i,pt0]=parser_token_f(code,i,list_new)
+        if state==False:
+            i=i0
+            list_new=list_new0
+            [state,i,pt0]=parser_token_l(code,i,list_new)
+        if state==False:
+            i=i0
+            list_new=list_new0
+            [state,i,pt0]=parser_token_comm(code,i,list_new)
+        
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\s*')
+    
+
+    if state==False:
+        print("line:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        print("line:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_info(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,pt0]=parser_token_line(code,i,list_new)
+    if state==True:
+        i1=i
+        state1=True
+        list_new1=list_new[:]
+        # list_new=[]
+        [state,i,pt1]=parser_token_info(code,i,list_new)
+        if state==True:
+            pt1.con(pt0,0)
+        else:
+            pt1=pt0
+        if state==False:
+            i=i1
+            list_new=list_new1
+            state=True
+            state1=False
+        # else:
+        #     list_new=list_new1+list_new
+    
+
+    if state==False:
+        print("info:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        print("info:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_file(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,pt0]=parser_token_info(code,i,list_new)
+    
+
+    if state==False:
+        print("file:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        print("file:",state,pt0.info())
+        return [True,i,pt0]
+
+
+def parser_text2pts(code):
+    list_pt0=[]
+    [state,i,pt]=parser_token_file(code,0,list_pt0)
+    list_pt=[]
+    for pt in list_pt0:
+        if pt!=None:
+                list_pt.append(pt)
+    if state==False:
+        return ''
+    text=tools_basic.writeStdCode([],list_pt)
+    return text
+
+#text=parser_text2pts('A:B')
+#print(text)
+
+
+
+"""
++[P函数](,代码)
+
+"""
+## end
+#23, 11:
+文档/S应用/三维模型
+## end
+#25, 248:
+"""
+代码:...
+默认函数:...
++[新建阅读窗口](,代码)
++[新建阅读窗口](,默认函数)
++[P函数](,代码)
++[P函数](,默认函数)
++[P函数](,测试代码)
+记住"Python"
+
+"""
+
+file_name="文档/S应用/三维模型/Dragon.obj"
+f=open(file_name,'r')
+text=f.read()
+f.close()
+
+list_info=parser_text2pts(text)
+
+
+
+"""
++[P函数](,测试代码)
+
+"""
+## end
+#27, 1064:
+
+
+def parser_token_info(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    while i<len(code):
+        [state,i,pt0]=parser_token_line(code,i,list_new)
+        if state==False:
+            break
+    
+    if state==False:
+        print("info:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        print("info:",state,pt0.info())
+        return [True,i,pt0]
+
+
+def parser_text2pts(code):
+    list_pt0=[]
+    [state,i,pt]=parser_token_file(code,0,list_pt0)
+    info_v=''
+    info_f=''
+    info_l=''
+    for pt in list_pt0:
+        if pt.m_name=="坐标":
+            info_v+=pt.m_text+"\n"
+        elif pt.m_name=="面":
+            list_pts=pt.m_text.split(' ')
+            for pf in list_pts:
+                pt_n=pf.split('/')[0]
+                if pt_n!="":
+                    info_f+=pt_n+", "
+            info_f=info_f[0:-2]
+            info_f+="\n"
+        elif pt.m_name=="线":
+            info_l+=pt.m_text+"\n"
+    list_info=[info_v,info_f,info_l]
+    return list_info
+
+
+
+## end
+#30, 17:
+
+
+读取obj文件:...
+
+
+
+
+## end
+#32, 713:
+"""
+P代码:...
+M代码:...
+测试:...
+
+"""
++读取obj文件(,_地址)->+[del](,+读取obj文件)...
+->的(读取obj文件,P代码)->的(读取obj文件,M代码)...
+->的(P代码,函数定义)->的(P代码,默认函数)...
+
+->+[P函数](,函数定义)->+[P函数](,默认函数)...
+
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[o]"info_v"(+[python],+[临时文本]#v)...
+->+[.]"info_v"(+[matlab],+[临时文本]#v)->+[del](,+[临时文本]#v)...
+->+[o]"info_f"(+[python],+[临时文本]#f)...
+->+[s]"info_f"(+[matlab],+[临时文本]#f)->+[del](,+[临时文本]#f)...
+->+[o]"info_l"(+[python],+[临时文本]#l)...
+->+[s]"info_l"(+[matlab],+[临时文本]#l)->+[del](,+[临时文本]#l)...
+
+->[]{
+    []:->_地址->+[.]"file_name"(+[python],_地址),
+    ->+[临时文本]#t->+[.]"file_name"(+[python],+[临时文本]#t)...
+        ->[m_text](+读取obj文件,+[临时文本]#t)
+}
+
+
+## end
+#34, 254:
+"""
+记住"Python"
+规则:...
+函数定义:...
+默认函数:...
+将'函数定义'的"print"替换为"# print"
+将'默认函数'的"print"替换为"# print"
+print(info_f)
+
+"""
+
+f=open(file_name,'r')
+text=f.read()
+f.close()
+list_info=parser_text2pts(text)
+info_v=list_info[0]
+info_f=list_info[1]
+info_l=list_info[2]
+
+## end
+#36, 298:
+%{
+记住"Matlab"
+str2num(info_f{2})
+%}
+
+clf
+% plot3(info_v(:,1),info_v(:,2),info_v(:,3),'.')
+
+for i=1:length(info_f)
+    fs=str2num(info_f{i});
+    xs=info_v(fs,1);
+    ys=info_v(fs,2);
+    zs=info_v(fs,3);
+    patch(xs,zs,ys,[1,1,1])
+end
+
+axis equal
+view([70,30])
+xlabel('x')
+ylabel('y')
+zlabel('z')
+
+## end
+#38, 190:
+file:[info]
+info:[line] [info]?
+line:\\s* ([v]| [vt]| [vn]| [f]| [l]| [comm]) \\s*
+v:v\ + .+{坐标} \\n
+vt:vt\ + .+{纹理} \\n
+vn:vn\ + .+{方向} \\n
+f:f\ + .+{面} \\n
+l:l\ + .+{线} \\n
+comm:.*{注释} \\n
+## end
+#40, 6783:
+"""
++[P函数](,代码)
+# print('2'.replace('2','333'))
+
+"""
+
+import re
+from body.bone import NetP
+from tools import tools_basic
+
+def word_pat_token(code,i,pat):
+    text=''
+
+#    pat=pat.replace('\\','\\\\')
+    a=re.match(pat,code[i:])
+    if a==None:
+        state=False
+    else:
+        di=a.span()[1]
+        output_txt=code[i:i+di]
+        i+=di
+        state=True
+        text=output_txt
+    
+    return [state,i,text]
+
+
+def parser_token_comm(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'.*')
+    pt0=NetP("注释",text)
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'\n')
+    if state==True:
+        list_new.append(pt0)
+    
+
+    if state==False:
+        # print("comm:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        # print("comm:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_l(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'l +')
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'.+')
+        pt0=NetP("线",text)
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\n')
+        if state==True:
+            list_new.append(pt0)
+    
+
+    if state==False:
+        # print("l:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        # print("l:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_f(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'f +')
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'.+')
+        pt0=NetP("面",text)
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\n')
+        if state==True:
+            list_new.append(pt0)
+    
+
+    if state==False:
+        # print("f:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        # print("f:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_vn(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'vn +')
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'.+')
+        pt0=NetP("方向",text)
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\n')
+        if state==True:
+            list_new.append(pt0)
+    
+
+    if state==False:
+        # print("vn:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        # print("vn:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_vt(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'vt +')
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'.+')
+        pt0=NetP("纹理",text)
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\n')
+        if state==True:
+            list_new.append(pt0)
+    
+
+    if state==False:
+        # print("vt:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        # print("vt:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_v(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'v +')
+    if state==True:
+        [state,i,text]=word_pat_token(code,i,r'.+')
+        pt0=NetP("坐标",text)
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\n')
+        if state==True:
+            list_new.append(pt0)
+    
+
+    if state==False:
+        # print("v:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        # print("v:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_line(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,text]=word_pat_token(code,i,r'\s*')
+    if state==True:
+        i0=i
+        list_new0=list_new[:]
+        [state,i,pt0]=parser_token_v(code,i,list_new)
+        if state==False:
+            i=i0
+            list_new=list_new0
+            [state,i,pt0]=parser_token_vt(code,i,list_new)
+        if state==False:
+            i=i0
+            list_new=list_new0
+            [state,i,pt0]=parser_token_vn(code,i,list_new)
+        if state==False:
+            i=i0
+            list_new=list_new0
+            [state,i,pt0]=parser_token_f(code,i,list_new)
+        if state==False:
+            i=i0
+            list_new=list_new0
+            [state,i,pt0]=parser_token_l(code,i,list_new)
+        if state==False:
+            i=i0
+            list_new=list_new0
+            [state,i,pt0]=parser_token_comm(code,i,list_new)
+        
+        if state==True:
+            [state,i,text]=word_pat_token(code,i,r'\s*')
+    
+
+    if state==False:
+        # print("line:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        # print("line:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_info(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,pt0]=parser_token_line(code,i,list_new)
+    if state==True:
+        i1=i
+        state1=True
+        list_new1=list_new[:]
+        # list_new=[]
+        [state,i,pt1]=parser_token_info(code,i,list_new)
+        if state==True:
+            pt1.con(pt0,0)
+        else:
+            pt1=pt0
+        if state==False:
+            i=i1
+            list_new=list_new1
+            state=True
+            state1=False
+        # else:
+        #     list_new=list_new1+list_new
+    
+
+    if state==False:
+        # print("info:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        # print("info:",state,pt0.info())
+        return [True,i,pt0]
+
+def parser_token_file(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    [state,i,pt0]=parser_token_info(code,i,list_new)
+    
+
+    if state==False:
+        # print("file:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        # print("file:",state,pt0.info())
+        return [True,i,pt0]
+
+
+def parser_text2pts(code):
+    list_pt0=[]
+    [state,i,pt]=parser_token_file(code,0,list_pt0)
+    list_pt=[]
+    for pt in list_pt0:
+        if pt!=None:
+                list_pt.append(pt)
+    if state==False:
+        return ''
+    text=tools_basic.writeStdCode([],list_pt)
+    return text
+
+#text=parser_text2pts('A:B')
+## print(text)
+
+
+
+"""
++[P函数](,代码)
+
+"""
+## end
+#42, 1068:
+
+
+def parser_token_info(code,i,list_pt=None):
+    i0=i
+    if list_pt==None:
+        list_pt=[]
+    list_new=[]
+    list_new0=list_new
+
+    while i<len(code):
+        [state,i,pt0]=parser_token_line(code,i,list_new)
+        if state==False:
+            break
+    
+    if state==False:
+        # print("info:",state)
+        return [False,i0,None]
+    else:
+        list_pt+=list_new
+        # print("info:",state,pt0.info())
+        return [True,i,pt0]
+
+
+def parser_text2pts(code):
+    list_pt0=[]
+    [state,i,pt]=parser_token_file(code,0,list_pt0)
+    info_v=''
+    info_f=''
+    info_l=''
+    for pt in list_pt0:
+        if pt.m_name=="坐标":
+            info_v+=pt.m_text+"\n"
+        elif pt.m_name=="面":
+            list_pts=pt.m_text.split(' ')
+            for pf in list_pts:
+                pt_n=pf.split('/')[0]
+                if pt_n!="":
+                    info_f+=pt_n+", "
+            info_f=info_f[0:-2]
+            info_f+="\n"
+        elif pt.m_name=="线":
+            info_l+=pt.m_text+"\n"
+    list_info=[info_v,info_f,info_l]
+    return list_info
+
+
+
+## end
+#44, 1149:
+"""
++[P函数](,测试)
+print(np.array([1, 2, 3, 4]))
+print(np.fromstring('1, 2, 3, 4',dtype=int,sep=','))
+print(np.array([[1,2,3,4],[4,4,5,1]]))
+list_f=[[1,2,3,4],[4,4,5,1]]
+
+list_f=[]
+list_f.append([1,2,3,4])
+list_f.append([1,2,3,1])
+print(np.array(list_f))
+
+"""
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+"""
++[P函数](,测试)
+
+print(list_f[4120:4130])
+print(list_f[4128])
+
+"""
+
+list_f_str=info_f.split('\n')
+list_f=[]
+for f_str in list_f_str:
+# for i in range(4129):
+#     f_str=list_f_str[i]
+    if f_str!="":
+        list_str=f_str.split(",")
+        list_n=[int(n_str) for n_str in list_str]
+        if len(list_n)==4:
+            list_f.append(list_n)
+list_f=np.array(list_f)-1
+
+
+list_v_str=info_v.split('\n')
+list_v=[]
+for v_str in list_v_str:
+    if v_str!="":
+        list_str=v_str.split(" ")
+        list_n=[float(n_str) for n_str in list_str]
+        list_v.append(list_n)
+list_v=np.array(list_v)
+
+print(list_v)
+
+
+fig = plt.figure()
+ax = fig.add_subplot(projection="3d")
+
+shape = patch_from_vf(list_v,list_f)
+ax.add_collection(shape)
+ax.set_xlim3d(-100,100)
+ax.set_ylim3d(-50,50)
+ax.set_zlim3d(-50,200)
+
+plt.show()
+
+
+"""
++[P函数](,测试)
+
+"""
+## end
+### 结束

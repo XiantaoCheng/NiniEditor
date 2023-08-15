@@ -1,0 +1,525 @@
+地址#0"Matlab\TOPAS\波包工具.txt"(,)[4,0]
+测试#1"%{
++[返回目录]
++[M函数](,测试)
+%}
+
+
+% Grating compressor
+a=1200;
+G=0.2;
+theta_i=10;
+lambda0=800e-9;
+lambda=linspace(200e-9,2000e-9,10000);
+
+%physics_constant;
+%w=wl_transform(lambda,0);
+%w0=2*pi*c/lambda0;
+%GDD=GratingGDD(theta_i,lambda0,a,G);
+%phase=exp(-1i*GDD/2*(w-w0).^2);
+
+[w,phase,GDD]=phaseGrating(a,G,theta_i,lambda0,lambda);
+plot(w,phase);
+GDD
+"(,)[5,0]
+地址#2"Matlab\TOPAS\GratingGDD.m"(,)[6,0]
+光栅GDD#3"%{
++[返回目录]
+地址::Matlab\TOPAS\GratingGDD.m
++[保存文本](,光栅GDD)
+
+
+%}
+
+function GDD_g=GratingGDD(theta_i,lambda,a1,G)
+% G=0.1;
+% a1=1200;                                    %1/mm
+% lambda=(400:1000)*1e-9;
+% theta_i=30;
+physics_constant;
+
+d=1e-3/a1;
+omega=2*pi*c./lambda;
+
+theta=asind(sind(theta_i)-lambda/d);
+
+d2phidw2=4*pi^2*c*G./cosd(theta)./omega.^3/d^2./(cosd(theta)).^2;
+GDD_g=-d2phidw2;
+
+end"(,)[5,0]
+的#4""(光栅GDD#3,地址#2)[4,5]
+地址#5"Matlab\TOPAS\phaseGrating.m"(,)[5,0]
+光栅色散#6"%{
++[返回目录]
+地址::Matlab\TOPAS\phaseGrating.m
++[保存文本](,光栅色散)
+
+光栅GDD:...
+测试:...
++[M函数](,光栅色散)
+%}
+
+
+function [w,phase,GDD]=phaseGrating(a,G,theta_i,lambda0,lambda)
+% Grating compressor
+%a=1200;
+%G=0.2;
+%theta_i=10;
+%lambda0=800e-9;
+%lambda=linspace(200e-9,2000e-9,10000);
+
+physics_constant;
+w=wl_transform(lambda,0);
+w0=2*pi*c/lambda0;
+
+GDD=GratingGDD(theta_i,lambda0,a,G);
+
+phase=exp(-1i*GDD/2*(w-w0).^2);
+%plot(w,phase);
+
+end"(,)[4,0]
+的#7""(光栅色散#6,测试#1)[4,5]
+的#8""(光栅色散#6,光栅GDD#3)[4,5]
+的#9""(光栅色散#6,地址#5)[4,5]
+GVD材料#10"https://en.wikipedia.org/wiki/Group_velocity_dispersion"(,)[4,0]
+地址#11"Matlab\TOPAS\phase_m.m"(,)[5,0]
+对照#12"C:\Users\cheng\Desktop\physics\Current_MidIR\testPulseExpand.m"(,)[6,0]
+测试#13"%{
++[返回目录]
+
+对照::C:\Users\cheng\Desktop\physics\Current_MidIR\testPulseExpand.m
++[打开](,对照)
++[M函数](,测试)
+%}
+
+
+
+address='C:\Users\cheng\Desktop\physics\GVD\data.csv';
+data=readtable(address);
+data_lambda=data.Wavelength*1e-9;
+data_GVD=data.Air;
+
+lambda0=800e-9;
+lambda=linspace(200e-9,2000e-9,10000);
+L=10;
+
+[w,phase,GDD_m]=phase_m(data_lambda,data_GVD,lambda0,lambda,L);
+plot(w,phase)"(,)[5,0]
+的#14""(测试#13,对照#12)[4,5]
+材料色散#15"%{
++[返回目录]
+地址::Matlab\TOPAS\phase_m.m
++[保存文本](,材料色散)
+
+测试:...
++[M函数](,材料色散)
+%}
+
+
+function [w,phase,GDD_m]=phase_m(data_lambda,data_GVD,lambda0,lambda,L)
+%address='C:\Users\cheng\Desktop\physics\GVD\data.csv';
+%data=readtable(address);
+%data_lambda=data.Wavelength*1e-9;
+%data_GVD=data.Air;
+
+%lambda0=800e-9;
+%lambda=linspace(200e-9,2000e-9,10000);
+%L=10;
+
+physics_constant;
+L=L*1e3;
+w=wl_transform(lambda,0);
+w0=2*pi*c/lambda0
+GVD=interp1(data_lambda,data_GVD,lambda0,'spline');
+GDD_m=GVD*L;
+GDD_m=GDD_m*1e-30/10;
+
+phase=exp(-1i*GDD_m/2*(w-w0).^2);
+
+end"(,)[4,0]
+的#16""(材料色散#15,地址#11)[4,5]
+的#17""(材料色散#15,测试#13)[4,5]
+可逆测试#18"%{
++[返回目录]
++[matlabStart](,Matlab)
+
++[M函数](,可逆测试)
+%}
+
+addpath('Matlab\TOPAS')
+lambda0=800e-9;
+dlambda=100e-9;
+lambda=linspace(10e-9,2000e-9,10000);
+
+inty=exp(-(lambda-lambda0).^2/dlambda^2);
+%[t,pulse]=spec2Pulse(lambda,inty,1,0);
+
+
+%{
+[w,spec]=wl_transform(lambda,inty);
+spec=sqrt(spec);
+dw=w(2)-w(1);
+w0=(dw+mod(w(1),dw)):dw:w(1)-dw;
+w=[w0,w];
+spec=[zeros(size(w0)),spec];
+[t,pulse]=ifft_k(w,spec);
+[w1,spec1]=fft_x(t,pulse);
+spec1=spec1.^2;
+[lambda1,inty1]=wl_transform(w1,spec1);
+%}
+
+
+[t,pulse]=spec2Pulse(lambda,inty,1,0);
+[lambda1,inty1,phase1]=pulse2Spec(t,pulse);
+
+%plot(lambda1,inty1/max(inty1),lambda,inty/max(inty),'--');
+plot(lambda1,inty1,lambda,inty,'--');
+%plot(w1,spec1,w0,spec0,'--');"(,)[5,0]
+ifft_k#19"C:\Users\cheng\Documents\MATLAB\ifft_k.m"(,)[5,0]
+fft_x#20"C:\Users\cheng\Documents\MATLAB\fft_x.m"(,)[5,0]
+地址#21"Matlab\TOPAS\pulse2Spec.m"(,)[5,0]
+波形转频谱#22"%{
++[返回目录]
+地址::Matlab\TOPAS\pulse2Spec.m
++[保存文本](,波形转频谱)
++[matlabStart](,Matlab)
+
+fft_x::C:\Users\cheng\Documents\MATLAB\fft_x.m
+ifft_k::C:\Users\cheng\Documents\MATLAB\ifft_k.m
++[打开](,ifft_k)
+
+可逆测试:...
++[M函数](,波形转频谱)
++[M函数](,可逆测试)
+%}
+
+function [lambda,inty,phase]=pulse2Spec(t,pulse)
+
+[w,spec]=fft_x(t,pulse);
+[lambda,spec_l]=wl_transform(w,spec);
+inty=abs(spec_l).^2;
+phase=spec_l./abs(spec_l);
+
+end"(,)[4,0]
+的#23""(波形转频谱#22,可逆测试#18)[4,5]
+的#24""(波形转频谱#22,ifft_k#19)[4,5]
+的#25""(波形转频谱#22,fft_x#20)[4,5]
+的#26""(波形转频谱#22,地址#21)[4,5]
+变换公式#27"<!--
++[返回目录]
+
++[网页](web,变换公式)
+-->
+
+<html>
+  <head><script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>
+  </head>
+  <body>
+    <p><mathjax style=\"font-size:1.5em\">
+计算一下有chirp的高斯光束的展宽吧:
+$$
+f(x)=exp(-\frac{(x-x_0)^2}{2 \Delta x^2})exp(i\frac{(x-x_0)^2}{2 \Delta t^2})
+$$$$
+-\frac{(x-x_0)^2}{2 \Delta x^2}+i\frac{(x-x_0)^2}{2 \Delta t^2}
+=-(x-x_0)^2\left(\frac{1}{2 \Delta x^2}-i\frac{1}{2 \Delta t^2}\right)
+=-(x-x_0)^2\frac{1}{2 d^2}
+$$$$
+\frac{1}{d^2}=\frac{1}{\Delta x^2}-\frac{i}{\Delta t^2}=\frac{\Delta t^2-i\Delta x^2}{\Delta x^2\Delta t^2}
+$$
+那么, \(d\)的倒数的展宽为:
+$$
+d^2=\frac{\Delta x^2\Delta t^2}{\Delta t^2-i\Delta x^2}
+=\frac{\Delta x^2\Delta t^2}{\Delta t^4+\Delta x^4}(\Delta t^2+i\Delta x^2)
+$$$$
+\frac{\Delta t^4+\Delta x^4}{\Delta x^2\Delta t^4}
+$$
+
+<!--
++[网页](web,变换公式)
+-->
+    </mathjax></p>
+  </body>
+</html>
+"(,)[4,0]
+chirp#28"https://ethz.ch/content/dam/ethz/special-interest/phys/quantum-electronics/ultrafast-laser-physics-dam/education/lectures/ultrafast_laser_physics/lecture_notes/2_Linear%20pulse%20propagation.pdf"(,)[4,0]
+测试2#29"%{
++[返回目录]
++[M函数](,测试2)
+%}
+
+lambda1=200e-9;
+lambda2=1800e-9;
+dlambda=50e-9;
+lambda0=800e-9;
+dt=50e-15;
+
+w1=2*pi*c/lambda1;
+w2=2*pi*c/lambda2;
+w0=2*pi*c/lambda0;
+w=linspace(w2,w1,10000);
+
+dw=10/dt;
+dwi=0.1*dw;
+inty_w=exp(-(w-w0).^2/dw^2);
+phase=exp(1i*(w-w0).^2/dwi^2/2);
+
+[lambda,inty]=wl_transform(w,inty_w);
+t0=2000e-15;
+
+
+
+[t,pulse]=spec2Pulse(lambda,inty,phase,t0);
+
+
+
+Dt=sqrt((dwi^4+dw^4)/dw^2/dwi^4);
+shape=max(abs(pulse))*exp(-(t-t0).^2/Dt^2/2);
+
+subplot(1,2,1);
+plot(t/1e-15,shape,t/1e-15,abs(pulse),'--');
+xlabel('\tau [fs]')
+%set(gca,'xlim',[0,400])
+subplot(1,2,2);
+plot(lambda,inty)
+xlabel('\lambda [nm]')
+"(,)[5,0]
+测试1#30"%{
++[返回目录]
++[matlab](Matlab,)->+[code](+[matlab],测试1)
++[matlabStart](,Matlab)
+%}
+
+addpath('C:\Users\cheng\Dropbox\Struct\Structure1.2\Nini\Matlab\TOPAS')
+physics_constant;
+spectrum=readtable('C:\Users\cheng\Dropbox\iFAST_log\data\20201009SpectrumMeasurement\2nd_stage.csv');
+lambda=spectrum.Var1;
+inty=spectrum.Var2;
+
+background=mean(inty(lambda<650&lambda>550));
+inty=inty-background;
+inty(inty<0)=0;
+lambda=lambda*1e-9;
+t0=100e-15;
+
+
+
+
+[t,pulse]=spec2Pulse(lambda,inty,1,t0);
+
+
+
+
+shape=abs(pulse);
+t_fwhm=t(shape>max(shape)/2);
+I_fwhm=shape(shape>max(shape)/2);
+
+subplot(1,2,1);
+hold on
+plot(t/1e-15,shape/max(shape),t_fwhm/1e-15,I_fwhm/max(I_fwhm),'o')
+xlabel('\tau [fs]')
+set(gca,'xlim',[0,400])
+subplot(1,2,2);
+hold on
+plot(lambda/1e-9,inty/max(inty))
+xlabel('\lambda [nm]')
+"(,)[5,0]
+ifft_k#31"C:\Users\cheng\Documents\MATLAB\ifft_k.m"(,)[5,0]
+fft_x#32"C:\Users\cheng\Documents\MATLAB\fft_x.m"(,)[5,0]
+地址#33"Matlab\TOPAS\spec2Pulse.m"(,)[5,0]
+频谱转波形#34"%{
++[返回目录](,频谱转波形)
+地址::Matlab\TOPAS\spec2Pulse.m
++[保存文本](,频谱转波形)
++[matlabStart](,Matlab)
+
+fft_x::C:\Users\cheng\Documents\MATLAB\fft_x.m
+ifft_k::C:\Users\cheng\Documents\MATLAB\ifft_k.m
++[打开](,ifft_k)
+
+测试1:...
+测试2:...
++[M函数](,测试1)
++[M函数](,测试2)
++[M函数](,频谱转波形)
+%}
+
+function [t,pulse]=spec2Pulse(lambda,inty,phase,t0)
+
+% lambda to omega
+[w,inty_w]=wl_transform(lambda,inty);
+f0=sqrt(inty_w);
+f0=f0.*phase;
+
+% extend the spectrum
+dw=w(2)-w(1);
+w0=dw:dw:w(1)-dw;
+w=[w0,w];
+f0=[zeros(size(w0)),f0];
+f=f0.*exp(-1i*t0*w);
+[t,pulse]=ifft_k(w,f);
+
+end
+"(,)[4,0]
+的#35""(频谱转波形#34,测试2#29)[4,5]
+的#36""(频谱转波形#34,测试1#30)[4,5]
+的#37""(频谱转波形#34,ifft_k#31)[4,5]
+的#38""(频谱转波形#34,fft_x#32)[4,5]
+的#39""(频谱转波形#34,地址#33)[4,5]
+波长转换#40"<!--
++[返回目录]
+
++[网页](web,波长转换)
+-->
+
+<html>
+  <head><script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>
+  </head>
+  <body>
+    <p><mathjax style=\"font-size:1.5em\">
+目标是把以波长为单位的频谱转换为以角频率为单位的频谱:
+$$
+\lambda=\frac{2\pi c}{\omega}
+$$
+两个自变量下的频谱应该满足能量守恒:
+$$
+\int{f(\lambda)d\lambda}=\int{g(\omega)d\omega}
+$$
+那么, 从波长到角频率的变换(\(\lambda\rightarrow \omega\))应该是: 
+$$
+d\lambda=d(\frac{2\pi c}{\omega})=-\frac{2\pi c}{\omega^2}d\omega
+$$$$
+f(\lambda)d\lambda=-f(\frac{2\pi c}{\omega})\frac{2\pi c}{\omega^2}d\omega
+$$$$
+g(\omega)=-f(\frac{2\pi c}{\omega})\frac{2\pi c}{\omega^2}
+$$
+而如果是从角频率到波长的变换(\(\lambda\leftarrow \omega\)), 则应该是:
+$$
+d\omega=d(\frac{2\pi c}{\lambda})=-\frac{2\pi c}{\lambda^2}d\lambda
+$$$$
+f(\lambda)=-g(\frac{2\pi c}{\lambda})\frac{2\pi c}{\lambda^2}d\lambda
+$$
+再有, 如果是有限宽度的数列, 应该怎么做呢? 好像什么都不用做... 因为自变量会自动变得不均匀呀...<br>
+不对, 是y坐标不变, x坐标拉宽了, 结果面积会变大的. <br>
+但是, 直接用差分乘个系数就行了. 
+$$
+\sum f(x_i)\Delta x_i=\sum f(y_i)\frac{\Delta x_i}{\Delta y_i} \Delta y_i=\sum g(y_i) \Delta y_i
+$$
+
+<!--
++[网页](web,波长转换)
+-->
+
+    </mathjax></p>
+  </body>
+</html>
+"(,)[3,0]
+测试#41"%{
++[返回目录]
+
++[matlab](Matlab,)->+[code](+[matlab],测试)
+%}
+
+addpath('C:\Users\cheng\Dropbox\Struct\Structure1.2\Nini\Matlab\TOPAS')
+physics_constant;
+spectrum=readtable('C:\Users\cheng\Dropbox\iFAST_log\data\20201009SpectrumMeasurement\2nd_stage.csv');
+lambda=spectrum.Var1;
+inty=spectrum.Var2;
+
+background=mean(inty(lambda<650&lambda>550));
+inty=inty-background;
+inty(inty<0)=0;
+lambda=lambda*1e-9;
+
+% lambda to omega
+[w,inty_w,inty_w1,omega]=wl_transform(lambda,inty);
+plot(w,inty_w/max(inty_w),w,inty_w1/max(inty_w1),'-.',omega,inty/max(inty),'--');
+
+%plot(omega,'.')"(,)[5,0]
+样本#42"C:\Users\cheng\Dropbox\iFAST_log\data\20201009SpectrumMeasurement"(,)[5,0]
+地址#43"Matlab\TOPAS\wl_transform.m"(,)[5,0]
+坐标变换#44"%{
++[返回目录]
+地址::Matlab\TOPAS\wl_transform.m
++[保存文本](,坐标变换)
++[matlab](Matlab,)->+[code](+[matlab],坐标变换)
+
+用上次的测量结果作为输入样本喽~
+样本::C:\Users\cheng\Dropbox\iFAST_log\data\20201009SpectrumMeasurement
++[打开](,样本)
+
+理论依据:
+坐标变换->的(_,坐标变换)->的(_,波长转换)->+[网页](web,波长转换)
+
+测试:...
+%}
+
+function [w,inty_w,inty_w1,omega]=wl_transform(lambda,inty)
+
+physics_constant;
+%spectrum=readtable('C:\Users\cheng\Dropbox\iFAST_log\data\20201009SpectrumMeasurement\2nd_stage.csv');
+%lambda=spectrum.Var1;
+%inty=spectrum.Var2;
+
+%background=mean(inty(lambda<650&lambda>550))
+%inty=inty-background;
+%inty(inty<0)=0;
+%lambda=lambda*1e-9;
+
+% lambda to omega
+omega=2*pi*c./lambda;
+dlambda=zeros(size(lambda));
+dlambda(2:end)=diff(lambda);
+domega=zeros(size(omega));
+domega(2:end)=diff(omega);
+
+inty_om=-inty.*dlambda./domega;
+inty_om1=inty.*2*pi*c./omega.^2;
+% plot(omega,inty_om/max(inty_om),omega,inty_om1/max(inty_om1),omega,inty/max(inty),'--');
+
+w=linspace(min(omega),max(omega),length(omega));
+inty_w=interp1(omega,inty_om,w,'spline');
+inty_w1=interp1(omega,inty_om,w,'spline');
+
+end"(,)[4,0]
+的#45""(坐标变换#44,测试#41)[4,5]
+的#46""(坐标变换#44,样本#42)[4,5]
+的#47""(坐标变换#44,地址#43)[4,5]
+Matlab工具包#48"+[返回目录]
+地址::Matlab\TOPAS\波包工具.txt
++[打开](,地址)
++[matlabStart](,Matlab)
++[增加内容](地址,+[命令行])->+[命令行]\"md \"
+那么首先是角频率和波长相互转化的函数
+波长转换:...
++[网页](web,波长转换)
+坐标变换:...
+
+接下来是波形和频谱之间的变换. 要翻译成频谱和相位. 
+我需要解决一下fft的问题. 我记得在根目录下有. 
+频谱转波形:...
+关于Chirped Pulse:
+chirp:...
++[打开](,chirp)
+变换公式:...
+
+然后是波形转频谱了, 这个应该比较简单. 
+波形转频谱:...
+
+好了, 材料色散和光栅输出的都是phase. 我就把之前写的函数整理好就完事了. 之后我们再考虑高阶项的问题.
+材料色散:...
+GVD材料::https://en.wikipedia.org/wiki/Group_velocity_dispersion
++[打开](,GVD材料)
+光栅色散:..."(,)[3,0]
+[标题]#49"Matlab工具包"(,)[4,4]
+的#50""(Matlab工具包#48,地址#0)[4,5]
+的#51""(Matlab工具包#48,光栅色散#6)[4,5]
+的#52""(Matlab工具包#48,GVD材料#10)[4,5]
+的#53""(Matlab工具包#48,材料色散#15)[4,5]
+的#54""(Matlab工具包#48,波形转频谱#22)[4,5]
+的#55""(Matlab工具包#48,变换公式#27)[4,5]
+的#56""(Matlab工具包#48,chirp#28)[4,5]
+的#57""(Matlab工具包#48,频谱转波形#34)[4,5]
+的#58""(Matlab工具包#48,波长转换#40)[4,5]
+的#59""(Matlab工具包#48,坐标变换#44)[4,5]
+文本#60"Matlab工具包:..."(,)[4,4]
+的#61""(文本#60,Matlab工具包#48)[4,4]

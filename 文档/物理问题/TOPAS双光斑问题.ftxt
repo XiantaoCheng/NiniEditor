@@ -1,0 +1,368 @@
+### 节点
+地址, 相对论双折射, OPA, [标题], 的, 的, 的, TOPAS双光斑问题, 目录, 的, 的, 推导, 的, LaTeX数学记号, 的, BBO晶体Type1角度, 依据公式, 的, LaTeX数学记号, 地址, 的, BBO_index.m, 的, 的, 的, Type1, 的, 双折射角度, 的, 依据公式, 的, 节点数目统计, 20210331, 的, 20210408, 的, 20210409, 的, 
+### 关联
+#, #, #, #, 7#0, 7#1, 7#2, #, #, 8#7, 7#11, #, 11#13, #, 7#15, #, #, 16#18, #, #, 15#21, #, 21#19, 21#16, 15#25, #, 7#27, #, 27#29, #, 8#31, #, #, 31#32, #, 31#34, #, 31#36, 
+### 内容
+#0, 23:
+文档\物理问题\TOPAS双光斑问题.ftxt
+## end
+#1, 18:
+文档\物理问题\相对论双折射.txt
+## end
+#2, 17:
+文档\物理问题\OPA原理.txt
+## end
+#3, 10:
+TOPAS双光斑问题
+## end
+#7, 449:
++[返回目录](,TOPAS双光斑问题)
+地址::文档\物理问题\TOPAS双光斑问题.ftxt
++[导出结构](,TOPAS双光斑问题)
+
+OPA::文档\物理问题\OPA原理.txt
++[打开文件](+新窗口,OPA)
+相对论双折射::文档\物理问题\相对论双折射.txt
++[打开文件](+新窗口,相对论双折射)
+
+思路:
+1.能流方向是在偏振方向和波矢方向构成的平面内, 垂直于电场方向的方向上; 
+2.用eoo来计算BBO的晶轴方向; 
+3.有了晶轴方向后, 可以将波矢方向和晶轴方向代入方程, 求解简振模式获得电场方向, 进而得到能流方向. 
+
+所以, 需要两件事:
+1.输入波矢方向(固定晶轴)和波长, 计算BBO的e光和o光的折射率; 
+2.代入波动方程, 计算偏振态. 
+
+推导:...
++[网页](web,推导)
+BBO晶体Type1角度:...
+角度是19.90.
+双折射角度:...
+角度上只有3度的差别... 所以1cm厚的晶体, 只会产生0.4mm的偏差... 
+
+
+
+
+## end
+#8, 56:
+TOPAS双光斑问题:...
+创建于 20210216
+
++[修改标题]"目录"(,文本)
+节点数目统计::
+
+
+## end
+#11, 2828:
+<!--
++[返回目录](,推导)
++[网页](web,推导)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+<b><u>Refractive index elllipsoid</u></b><br>
+Base on the wave equation from the 文档\物理问题\相对论双折射.txt, 
+$$
+\left[1-\hat{k}\hat{k}
+-\frac{\omega^2}{c^2 k^2}(1+\chi_\omega)\right]\vec{E}
+=0
+$$
+Assume that,
+$$
+\chi_\omega=
+\begin{pmatrix}
+ \chi_o  & 0 & 0\\
+0 &  \chi_o  & 0\\
+0 & 0 &  \chi_e \\
+\end{pmatrix}
+$$
+Change the form of the equation, 
+$$
+\left[k^2-\vec{k}\vec{k}-\frac{\omega^2}{c^2}(1+\chi_\omega)\right]\vec{E}=0
+$$
+The matrix will look like, 
+$$
+k^2
+
+-
+\begin{pmatrix}
+k_x k_x & k_x k_y & k_x k_z\\
+k_y k_x & k_y k_y & k_y k_z\\
+k_z k_x & k_z k_y & k_z k_z
+\end{pmatrix}
+
+-
+\frac{\omega^2}{c^2}
+\begin{pmatrix}
+ 1+\chi_o  & 0 & 0\\
+0 &  1+\chi_o  & 0\\
+0 & 0 &  1+\chi_e \\
+\end{pmatrix}\\
+
+=
+\begin{pmatrix}
+ k_y k_y + k_z k_z -\frac{\omega^2(1+\chi_o)}{c^2} &         -k_x k_y & -k_x k_z\\
+          -k_y k_x & k_z k_z +k_x k_x -\frac{\omega^2(1+\chi_o)}{c^2} & -k_y k_z\\
+          -k_z k_x &         -k_z k_y &  k_x k_x + k_y k_y -\frac{\omega^2(1+\chi_e)}{c^2}
+\end{pmatrix}
+
+$$
+The determinant of the matrix is,
+$$
+-(k_x^4 + k_y^4)\frac{\omega^2(1+\chi_o)}{c^2} - k_z^4\frac{\omega^2(1+\chi_e)}{c^2}\\
++(k_x^2+k_y^2)\frac{\omega^4(1+\chi_o)^2}{c^4}
++(k_x^2+k_y^2+2 k_z^2)\frac{\omega^4(1+\chi_o)(1+\chi_e)}{c^4}\\
+-\frac{\omega^6(1+\chi_o)^2(1+\chi_e)}{c^6}=0
+\\
+\\
+\\
+\Rightarrow
+-(k_x^2 + k_y^2)(k_x^2 + k_y^2 + k_z^2)\frac{\omega^2(1+\chi_o)}{c^2}
++(k_x^2+k_y^2)\frac{\omega^4(1+\chi_o)^2}{c^4}\\
+-k_z^2(k_x^2 + k_y^2 + k_z^2)\frac{\omega^2(1+\chi_e)}{c^2}
++k_z^2\frac{\omega^4(1+\chi_o)(1+\chi_e)}{c^4}\\
++(k_x^2+k_y^2+k_z - \frac{\omega^2(1+\chi_o)}{c^2})\frac{\omega^4(1+\chi_o)(1+\chi_e)}{c^4}=0
+\\
+\Rightarrow
+-(k_x^2 + k_y^2)(k_x^2 + k_y^2 + k_z^2 - \frac{\omega^2(1+\chi_o)}{c^2})
+\frac{\omega^2(1+\chi_o)}{c^2}\\
+-k_z^2(k_x^2 + k_y^2 + k_z^2 - \frac{\omega^2(1+\chi_o)}{c^2})
+\frac{\omega^2(1+\chi_e)}{c^2}\\
++(k_x^2+k_y^2+k_z - \frac{\omega^2(1+\chi_o)}{c^2})\frac{\omega^4(1+\chi_o)(1+\chi_e)}{c^4}=0
+
+$$
+
+
+The final result is, 
+$$
+\left[k_x^2+k_y^2+k_z - \frac{\omega^2(1+\chi_o)}{c^2}\right]
+\\
+\left[
+(k_x^2 + k_y^2)\frac{\omega^2(1+\chi_o)}{c^2}
+
++k_z^2\frac{\omega^2(1+\chi_e)}{c^2}
+
+-\frac{\omega^4(1+\chi_o)(1+\chi_e)}{c^4}
+\right]
+\\
+=0
+
+
+$$
+As a result, the refractive index of the extro-ordinary light is, 
+$$
+\frac{(k_x^2 + k_y^2)} {n_o^2}
+
++ \frac{k_z^2} {n_e^2}
+
+=\frac{\omega^2}{c^2}
+
+$$
+$$
+\frac{(\hat{k}_x^2 + \hat{k}_y^2)} {n_e^2}
+
++\frac{\hat{k}_z^2} {n_o^2}
+
+=\frac{1}{n^2}
+
+$$
+
+
+<!--
++[网页](web,推导)
+-->
+    </mathjax></p>
+  </body>
+</html>
+
+
+## end
+#13, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#15, 450:
+%{
++[M函数](,BBO晶体Type1角度)
+
+BBO_index.m:...
+Type1::https://en.wikipedia.org/wiki/Nonlinear_optics#Phase_matching
++[打开网页](,Type1)
+%}
+
+physics_constant;
+addpath('Matlab\TOPAS');
+lambda_0=0.8e-6;
+lambda_1=1.8e-6;
+lambda_2=1/(1/lambda_0-1/lambda_1);
+
+angle=19.90185; 
+k=[0,sind(angle),cosd(angle)];
+
+%eoo
+[~,n0]=BBO_index(lambda_0,k);
+[n1,~]=BBO_index(lambda_1,k);
+[n2,~]=BBO_index(lambda_2,k);
+
+dk=2*pi*(n0/lambda_0-n1/lambda_1-n2/lambda_2);
+dk*lambda_0
+
+
+## end
+#16, 862:
+<!--
++[返回目录](,依据公式)
+
++[网页](web,依据公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+Refractive index of ordinary light, \(n_1\) and of extro-ordinary light, \(n_2\):
+$$
+n_1=n_o
+$$$$
+\frac{1}{n_2^2}=
+\frac{(\hat{k}_x^2 + \hat{k}_y^2)} {n_e^2}
+
++\frac{\hat{k}_z^2} {n_o^2}
+$$
+The value of \(n_o\) and \(n_e\) can be calculated by Sellmeier equations:
+$$
+n_o^2=2.7359 + 0.01878 / (\lambda^2 - 0.01822) - 0.01354\lambda^2
+$$
+$$
+n_e^2=2.3753 + 0.01224 / (\lambda^2 - 0.01667) - 0.01516\lambda^2
+$$
+The wavelength \(\lambda\) is in \(\mu m\). 
+
+<!--
++[网页](web,依据公式)
+-->
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#18, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#19, 24:
+Matlab\TOPAS\BBO_index.m
+## end
+#21, 390:
+%{
+地址::Matlab\TOPAS\BBO_index.m
++[保存文本](,BBO_index.m)
+依据公式:...
++[网页](web,依据公式)
+%}
+
+function [n1,n2,n_o,n_e]=BBO_index(lambda_0,k)
+%lambda_0=0.266;
+%k=[0,1,0];
+lambda_0=lambda_0/1e-6;
+
+n_o=sqrt(2.7359+0.01878/(lambda_0^2-0.01822)-0.01354*lambda_0^2);
+n_e=sqrt(2.3753+0.01224/(lambda_0^2-0.01667)-0.01516*lambda_0^2);
+
+k=k/norm(k);
+
+n1=n_o;
+n2=1/sqrt((k(1)^2+k(2)^2)/n_e^2+k(3)^2/n_o^2);
+
+end
+## end
+#25, 61:
+https://en.wikipedia.org/wiki/Nonlinear_optics#Phase_matching
+## end
+#27, 439:
+%{
+依据公式:...
++[网页](web,依据公式)
+
++[M函数](,双折射角度)
+%}
+
+clf
+addpath('Matlab\TOPAS');
+physics_constant;
+
+lambda_0=1.8;
+angle=19.90;
+k_0=2*pi/lambda_0;
+k=[0,sind(angle),cosd(angle)];
+
+[n1,n2,n_o,n_e]=BBO_index(lambda_0,k);
+N=[n_o^2,0,0;
+0,n_o^2,0;
+0,0,n_e^2];
+
+A=eye(3)-k'*k-1/n2^2*N;
+[E,a]=eig(A);
+E=E(:,3);
+
+plot([0,k(2)],[0,k(3)])
+hold on
+plot([0,E(3)],[0,-E(2)])
+plot([0,0],[0,1])
+axis equal
+
+dangle=acosd([E(3),-E(2)]*[k(2),k(3)]')
+tand(dangle)
+## end
+#29, 556:
+<!--
++[返回目录]
++[网页](web,依据公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+The wave equation:
+$$
+\left[1-\hat{k}\hat{k}
+-\frac{\omega^2}{c^2 k^2}(1+\chi_\omega)\right]\vec{E}
+=0
+$$
+$$
+\left[1-\hat{k}\hat{k}
+-\frac{1}{n^2}(1+\chi_\omega)\right]\vec{E}
+=0
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#32, 2:
+34
+## end
+#34, 2:
+36
+## end
+#36, 2:
+38
+## end
+### 结束

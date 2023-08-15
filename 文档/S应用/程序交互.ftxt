@@ -1,0 +1,905 @@
+### 节点
+地址, 的, 程序交互, 目录, 的, 的, 节点数目统计, 的, 测试场景, 的, 运行程序, 的, 地址, 的, 保存, 20221116, 的, 的, 测试交互, 的, 保存, 的, subpro版本, 的, 参考1, 20221117, 的, 的, 方案1, 的, 运行规则, 的, 运行, 手, 的, 库, 的, 描述结构, 的, 运行P函数, 的, 命令模板, P代码, 的, 代码, 运行子进程, 的, 运行子进程, 的, P代码, 的, 输入, 的, 描述结构, 的, 库, 的, 输入内容, 的, P代码, 的, 保存, 的, 参考, 的, 参考, 的, 参考2, 的, 固定输入, 的, 测试交互_linux, 的, 测试2, 的, 参考, 打开网页, 的, 测试3, 的, 测试4, 的, 测试5, 的, 参考, 的, 保存, 的, 保存, 的, 测试按键, 的, autoClick, 的, 测试, 的, 测试autoGui, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 10#12, #, 10#14, #, #, 6#15, 8#18, #, 18#20, #, 18#22, #, 18#24, #, #, 6#25, 18#28, #, 8#30, #, 30#32, #, #8, 32#35, #, 32#37, #, 35#39, #, 39#41, #, #, 8#44, #, #44, 35#47, #, 47#49, #, 30#51, #, 51#53, #, 51#55, #, 55#57, #, 57#59, #, 59#61, #, 8#63, #, 59#65, #, 18#67, #, 18#69, #, 8#71, #, 71#73, #, 73#75, #, #75, 71#78, #, 71#80, #, 71#82, #, 82#84, #, 82#86, #, 78#88, #, 2#90, #, 90#92, #, 92#94, #, 92#96, #, 
+### 内容
+#0, 16:
+文档\S应用\程序交互.ftxt
+## end
+#2, 99:
++[返回目录](,程序交互)
+地址::文档\S应用\程序交互.ftxt
+
+Nini, 导入词典的库. 导入词典
+Nini, 打开花园(文件)
+
+测试场景:...
+(子进程)
+测试按键:...
+
+
+
+
+## end
+#3, 48:
+程序交互:...
+创建于 20221116
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 595:
+Nini, 打开词典的条目(节点)
+Nini, 打开人体模型(文件)
+参考::https://realpython.com/python-subprocess/
+
+运行规则:...
++[新建阅读窗口](,运行规则)
+
+运行程序:...
+测试交互:...
+测试交互_linux:...
++[新建阅读窗口](,测试交互_linux)
+
+代码::C:\\Users\\cheng\\Dropbox\\Struct\\Structure1.2.1\\Nini\\文档\\S应用\\程序交互\\run_ex.py
+运行P函数"C:\\Users\\cheng\\Dropbox\\Struct\\Structure1.2.1\\Nini\\文档\\S应用\\程序交互\\run_ex.py"
+
+代码::C:\\Users\\cheng\\Dropbox\\Struct\\Structure1.2.1\\Nini\\文档\\S应用\\程序交互\\run_ex.py
+运行P函数"C:\\Users\\cheng\\Dropbox\\Struct\\Structure1.2.1\\Nini\\文档\\S应用\\程序交互\\run_ex.py"
+按照子进程, 运行代码
+在代码中, 输入"123456"
+
+
++[命令行]"nautilus 文档/S应用/程序交互"
++[打开]"文档/S应用/程序交互"
+## end
+#10, 327:
+"""
+地址::文档\S应用\程序交互\run_ex.py
++[保存文本](,运行程序)
++[P函数](,运行程序)
+
+保存:...
++[命令行]"python 文档\S应用\程序交互\run_ex.py"
+
+"""
+
+import sys
+print('what is your name?')
+# sys.stdout.flush()
+name=input("Name: ")
+print("%s, please input your password:"%(name))
+pwd=input("Password: ")
+if pwd=='123456':
+    print('Pass!')
+else:
+    print('Fail!')
+
+
+
+## end
+#12, 21:
+文档\S应用\程序交互\run_ex.py
+## end
+#14, 187:
+"""
+地址::文档\S应用\run_ex.py
++[保存文本](,运行程序)
++[P函数](,运行程序)
+
+"""
+
+import sys
+print('what is your name?')
+sys.stdout.flush()
+name = raw_input()
+print('your name is ' + name)
+sys.stdout.flush()
+
+
+## end
+#15, 2:
+22
+## end
+#18, 542:
+"""
++[P函数](,测试交互)
+记住"Python"
+参考1::https://stackoverflow.com/questions/68561211/python-set-timeout-on-popen-stdout-readline
+参考2::https://realpython.com/python-subprocess/#interacting-dynamically-with-a-process
+
+保存:...
+subpro版本:...
+方案1:...
+固定输入:...
+
+"""
+
+# import asyncio.subprocess as sp
+import subprocess as sp
+p = sp.run(['python', 'C:\\Users\\cheng\\Dropbox\\Struct\\Structure1.2.1\\Nini\\文档\\S应用\\程序交互\\run_ex.py'], input="Mike\n123456\n".encode())
+
+
+"""
+print(p.stdout)
+# test=p.stdout.read()
+print(test)
+print(ans[0])
+
++[P函数](,测试交互)
+
+"""
+## end
+#20, 212:
+"""
++[P函数](,测试交互)
+
+保存:...
+
+"""
+
+from subprocess import Popen, PIPE, STDOUT
+p = Popen(['python', 'prog.py'], stdout=PIPE, stdin=PIPE, stderr=STDOUT)
+p.stdout.readline().rstrip()
+p.communicate('mike')[0].rstrip()
+
+
+## end
+#22, 560:
+"""
++[P函数](,测试交互)
+记住"Python"
+
+保存:...
+subpro版本:...
+
+"""
+
+import subprocess as sp
+p = sp.Popen(['python', 'C:\\Users\\cheng\\Dropbox\\Struct\\Structure1.2.1\\Nini\\文档\\S应用\\程序交互\\run_ex.py'], stdout=sp.PIPE, stdin=sp.PIPE, stderr=sp.STDOUT)
+
+"""
+ans=p.stdout.readline(timeout=1)
+print(ans)
+p.stdout.readline().rstrip()
+ans=p.communicate('mike'.encode())[0]
+print(ans)
+
+"""
+
+"""
+p = sp.Popen(['python', '文档\S应用\程序交互\run_ex.py'], stdout=sp.PIPE, stdin=sp.PIPE, stderr=sp.STDOUT)
+test=p.stdout.readline()
+# test=p.stdout.read()
+print(test)
+print(test.rstrip())
+
+"""
+## end
+#24, 88:
+https://stackoverflow.com/questions/68561211/python-set-timeout-on-popen-stdout-readline
+## end
+#25, 2:
+70
+## end
+#28, 719:
+"""
++[P函数](,测试交互)
+记住"Python"
+
+保存:...
+subpro版本:...
+方案1:...
+
+参考1::https://stackoverflow.com/questions/68561211/python-set-timeout-on-popen-stdout-readline
+
+import sys
+print(sys.argv)
+
+"""
+
+import subprocess as sp
+p = sp.Popen(['python', 'C:\\Users\\cheng\\Dropbox\\Struct\\Structure1.2.1\\Nini\\文档\\S应用\\程序交互\\run_ex.py'], stdout=sp.PIPE, stdin=sp.PIPE, stderr=sp.STDOUT)
+
+ans=p.stdout.read1()
+print(ans)
+
+try:
+    ans=p.stdout.read()
+    ans=p.communicate("Mike\n123456".encode(),timeout=5)[0]
+    print(ans.rstrip())
+except:
+    p.kill()
+    ans=p.communicate(timeout=5)[0]
+    print(ans.rstrip())
+    print('Error in subprocess! ')
+
+# p.kill()
+
+"""
+print(p.stdout)
+# test=p.stdout.read()
+print(test)
+print(ans[0])
+
+"""
+## end
+#30, 51:
+
+运行:...
+输入:...
++[新建阅读窗口](,运行)
+将'输入'的"运行"替换为"输入"
+
+
+
+
+## end
+#32, 341:
+"""
+描述结构:...
+库:...
++[新建阅读窗口](,描述结构)
+
+"""
+
++运行(Nini,运行#1)->+[del](,+运行)...
+->的(运行#0,描述结构)->的(运行#0,库)...
+
+->[]:
+->+[code]([想],描述结构)->[想](Nini,运行#1)->操作([想],)...
+    ->[]{
+        []=>的(操作,_操作)->_操作(,_代码)->_代码=>[说](,_操作)...
+            ->的(库,_条目)->_条目->[eq](_操作,_条目)...
+            ->+[做](,_代码)->+[code](+[做],_条目)
+    },
+
+->+[天使动词库](Nini,运行#1)
+
+## end
+#35, 22:
+
+
+运行P函数:...
+运行子进程:...
+
+## end
+#37, 261:
+"""
+Nini, 打开花园(文件)
+
+"""
+
++描述结构(Nini,运行)->+操作(+描述结构,)...
+->的(Nini,手)->手(,_世界)...
+
+->运行(,_宾语)...
+->_宾语->[]{
+    []:->按照(运行,子进程)->子进程->[词语](_世界,_宾语)->是([词语],_代码)...
+        ->+运行子进程(,_代码)->+的(+操作,+运行子进程),
+    ->[is](_宾语,P函数)->P函数->+运行P函数(,P函数)->+的(+操作,+运行P函数)
+}
+
+
+
+## end
+#39, 123:
+"""
+命令模板::Python %P函数
+
+"""
++运行P函数(,P函数)->+[del](,+运行P函数)...
+->的(运行P函数,命令模板)...
+
+->+[模板文本](命令模板,+[命令行])->+[.](+[模板文本],P函数)
+
+
+## end
+#41, 11:
+Python %P函数
+## end
+#44, 81:
+C:\\Users\\cheng\\Dropbox\\Struct\\Structure1.2.1\\Nini\\文档\\S应用\\程序交互\\run_ex.py
+## end
+#45, 157:
+"""
+P代码:...
+
+"""
++运行子进程(,_代码)->+[del](,运行子进程)...
+->的(运行子进程,P代码)...
+
+->+[消息窗口](,_代码)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[.](+[python],_代码)
+
+## end
+#47, 205:
+"""
+P代码:...
+
+"""
++运行子进程(,_代码)->+[del](,+运行子进程)...
+->的(运行子进程,P代码)...
+
+->[m_text](_代码,+[临时文本])...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[s]"file_name"(+[python],+[临时文本])->+[v]"p"(+[python],_代码)
+
+## end
+#49, 107:
+"""
+
+
+"""
+
+import subprocess as sp
+p = sp.Popen(['python', file_name], stdin=sp.PIPE, stderr=sp.STDOUT)
+
+
+
+
+## end
+#51, 352:
+"""
+描述结构:...
+库:...
++[新建阅读窗口](,描述结构)
+
+"""
+
++输入(Nini,输入#1)->+[del](,+输入)...
+->的(输入#0,描述结构)->的(输入#0,库)...
+
+->[]:
+->+[code]([想],描述结构)->[想](Nini,输入#1)->操作([想],)...
+    ->[]{
+        []=>的(操作,_操作)->_操作(_进程,_内容)->_进程->_内容=>[说](,_操作)...
+            ->的(库,_条目)->_条目->[eq](_操作,_条目)...
+            ->+[做](_进程,_内容)->+[code](+[做],_条目)
+    },
+
+->+[天使动词库](Nini,输入#1)
+
+## end
+#53, 205:
+"""
+Nini, 打开花园(文件)
+
+"""
+
++描述结构(Nini,输入)->+操作(+描述结构,)...
+->的(Nini,手)->手(,_世界)...
+
+->输入(,_宾语)...
+->_宾语->[]{
+    []:->在(输入,_节点)->_节点->[词语](_世界,_节点)->是([词语],_代码)...
+        ->+输入内容(_代码,_宾语)->+的(+操作,+输入内容)
+}
+
+
+
+## end
+#55, 15:
+
+
+输入内容:...
+
+
+
+
+
+## end
+#57, 171:
+"""
+P代码:...
+
+"""
+
++输入内容(_进程,_内容)->+[del](,+输入内容)...
+->的(输入内容,P代码)...
+
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[v]"p"(+[python],_进程)->+[s]"text"(+[python],_内容)
+
+
+## end
+#59, 381:
+"""
+参考::https://realpython.com/python-subprocess/#interacting-dynamically-with-a-process
+保存:...
+print("1233/n".encode())
+p.kill()
+
+"""
+
+text=text+'\n'
+try:
+    # p.communicate(text.encode(),timeout=5)
+    p.stdin.write(text.encode())
+    p.stdin.flush()
+    # print(text,'????')
+except:
+    p.kill()
+    p.communicate(timeout=5)
+    print('Error! Something wrong with the input')
+
+
+## end
+#61, 172:
+"""
+保存:...
+
+"""
+
+try:
+    p.communicate(text.encode(),timeout=5)[0]
+except:
+    p.kill()
+    p.communicate(timeout=5)[0]
+    print('Error! Something wrong with the input')
+
+## end
+#63, 41:
+https://realpython.com/python-subprocess/
+## end
+#65, 80:
+https://realpython.com/python-subprocess/#interacting-dynamically-with-a-process
+## end
+#67, 80:
+https://realpython.com/python-subprocess/#interacting-dynamically-with-a-process
+## end
+#69, 534:
+"""
++[P函数](,测试交互)
+记住"Python"
+参考1::https://stackoverflow.com/questions/68561211/python-set-timeout-on-popen-stdout-readline
+参考2::https://realpython.com/python-subprocess/#interacting-dynamically-with-a-process
+
+保存:...
+subpro版本:...
+方案1:...
+
+
+"""
+
+# import asyncio.subprocess as sp
+import subprocess as sp
+p = sp.run(['python', 'C:\\Users\\cheng\\Dropbox\\Struct\\Structure1.2.1\\Nini\\文档\\S应用\\程序交互\\run_ex.py'], input="Mike\n123456\n".encode())
+
+
+"""
+print(p.stdout)
+# test=p.stdout.read()
+print(test)
+print(ans[0])
+
++[P函数](,测试交互)
+
+"""
+## end
+#71, 776:
+"""
+记住"Python"
+nautilus 文档/S应用/程序交互
++[P函数](,测试交互_linux)
+
+print(p)
+p.stdin.write("ls".encode())
+p.stdin.flush()
+p.communicate('12345',timeout=5)
+p=sp.Popen(['python3','文档/S应用/程序交互/run_ex.py'], stdin=sp.PIPE, stderr=sp.STDOUT)
+p = sp.Popen(['ssh','xtcheng@ls6.tacc.utexas.edu'])
+p=sp.Popen(['python3','文档/S应用/程序交互/run_ex.py'])
+print('test')
+
+测试2: 不太行...
+(目前的情况是如果stdin设置为PIPE的话, 我就看不到stdout了. 所以我想试试用python写stdin)
+测试3:...
+测试4:...
+(chatGPT的方案, 不太行)
+测试5:...
++[新建阅读窗口](,测试3)
+
+测试3和测试5都可以用. ssh推荐用测试3
+
+"""
+
+import subprocess as sp
+# p=sp.run(['nautilus','文档/S应用/程序交互'])
+# p = sp.Popen(['nautilus','文档/S应用/程序交互'], stdin=sp.PIPE, stderr=sp.STDOUT)
+# p = sp.Popen(['ssh','xtcheng@ls6.tacc.utexas.edu'], stdin=sp.PIPE, stderr=sp.STDOUT)
+p=sp.Popen(['python3','文档/S应用/程序交互/run_ex.py'])
+
+
+
+## end
+#73, 365:
+"""
+记住"Python"
++[P函数](,测试2)
+参考::https://stackoverflow.com/questions/15055524/write-function-result-to-stdin
++[打开网页](,参考)
+print(sys.stdin.write)
+
+"""
+
+import subprocess as sp
+import sys, io
+from io import StringIO
+p=sp.Popen(['python3','文档/S应用/程序交互/run_ex.py'])
+
+oldstdin=sys.stdin
+sys.stdin=io.StringIO('test\ntest\ntest\n')
+print(input())
+sys.stdin=sys.__stdin__
+
+
+## end
+#75, 75:
+https://stackoverflow.com/questions/15055524/write-function-result-to-stdin
+## end
+#78, 499:
+"""
+记住"Python"
++[P函数](,测试3)
+
+保存:...
+print(p)
+
+"""
+
+import subprocess as sp
+import sys, io
+# p=sp.Popen(['python3','文档/S应用/程序交互/run_ex.py'], stdin=sp.PIPE)
+p=sp.Popen(['ssh','xtcheng@ls6.tacc.utexas.edu'], stdin=sp.PIPE)
+
+# p.stdin.write(chr(27).encode())
+p.stdin.write("cd $WORK/test_folder/LWFA_GPU_build;ls\n".encode())
+p.stdin.flush()
+p.stdin.write("cd ..;ls\n".encode())
+p.stdin.flush()
+p.stdin.write("exit\n".encode())
+p.stdin.flush()
+# print(chr(97))
+# p.stdin.close()
+
+
+
+"""
++[P函数](,测试3)
+
+"""
+## end
+#80, 480:
+"""
+记住"Python"
+
+"""
+
+import subprocess
+
+# Start the subprocess
+process = subprocess.Popen(['python3'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+
+# Pass the first input to the subprocess
+stdout, stderr = process.communicate(input='print("First input")\n'.encode())
+print(stdout.decode(), end='')
+
+# Pass the second input to the subprocess
+stdout, stderr = process.communicate(input='print("Second input")\n'.encode())
+print(stdout.decode(), end='')
+
+
+
+## end
+#82, 950:
+"""
+记住"Python"
+参考::https://stackoverflow.com/questions/375427/a-non-blocking-read-on-a-subprocess-pipe-in-python
+
++[P函数](,测试5)
+保存:...
+
+"""
+
+import sys
+from subprocess import PIPE, Popen
+from threading  import Thread
+
+try:
+    from queue import Queue, Empty
+except ImportError:
+    from Queue import Queue, Empty  # python 2.x
+
+ON_POSIX = 'posix' in sys.builtin_module_names
+
+def enqueue_output(out, queue):
+    for line in iter(out.readline, b''):
+        queue.put(line)
+    out.close()
+
+p = Popen(['ssh','xtcheng@ls6.tacc.utexas.edu'], stdin=PIPE, stdout=PIPE)
+
+q = Queue()
+t = Thread(target=enqueue_output, args=(p.stdout, q))
+t.daemon = True # thread dies with the program
+t.start()
+
+# ... do other things here
+p.stdin.write("vim test\n".encode())
+p.stdin.flush()
+
+# read line without blocking
+try: 
+    line = q.get_nowait() # or q.get(timeout=.1)
+except Empty:
+    print('no output yet')
+else: # got line
+    print(line)
+
+
+"""
++[P函数](,测试5)
+
+"""
+## end
+#84, 93:
+https://stackoverflow.com/questions/375427/a-non-blocking-read-on-a-subprocess-pipe-in-python
+## end
+#86, 1006:
+"""
+记住"Python"
+参考::https://stackoverflow.com/questions/375427/a-non-blocking-read-on-a-subprocess-pipe-in-python
+
++[P函数](,测试5)
+
+"""
+
+import sys
+from subprocess import PIPE, Popen
+from threading  import Thread
+
+try:
+    from queue import Queue, Empty
+except ImportError:
+    from Queue import Queue, Empty  # python 2.x
+
+ON_POSIX = 'posix' in sys.builtin_module_names
+
+def enqueue_output(out, queue):
+    for line in iter(out.readline, b''):
+        queue.put(line)
+    out.close()
+
+# p = Popen(['python3'],stdin=PIPE, stdout=PIPE, bufsize=1, close_fds=ON_POSIX)
+p = Popen(['python3'], stdin=PIPE)
+# p = Popen(['python3'], stdout=PIPE)
+q = Queue()
+t = Thread(target=enqueue_output, args=(p.stdout, q))
+t.daemon = True # thread dies with the program
+t.start()
+
+# ... do other things here
+p.stdin.write("print('hello world')\n".encode())
+p.stdin.flush()
+
+# read line without blocking
+try:  line = q.get_nowait() # or q.get(timeout=.1)
+except Empty:
+    print('no output yet')
+else: # got line
+    print(line)
+
+## end
+#88, 443:
+"""
+记住"Python"
++[P函数](,测试3)
+
+保存:...
+
+"""
+
+import subprocess as sp
+import sys, io
+p=sp.Popen(['python3','文档/S应用/程序交互/run_ex.py'], stdin=sp.PIPE, stdout=sp.PIPE)
+# p=sp.Popen(['python3'], stdin=sp.PIPE, stdout=sp.PIPE)
+
+p.stdin.write("test\n".encode())
+p.stdin.flush()
+# p.stdin.close()
+
+# read the output
+output = p.stdout.readline().decode()
+output = p.stdout.read(1).decode()
+print(output)
+# print(output,ord(output))
+
+
+
+"""
++[P函数](,测试3)
+
+"""
+## end
+#90, 18:
+
+autoClick:...
+
+
+
+
+## end
+#92, 2219:
+"""
++[P函数](,autoClick)
+记住"Python"
+
+测试:...
+(pynput不太好用)
+测试autoGui:...
+
+"""
+
+# importing time and threading
+import time
+import threading
+from pynput.mouse import Button, Controller
+  
+# pynput.keyboard is used to watch events of 
+# keyboard for start and stop of auto-clicker
+from pynput.keyboard import Listener, KeyCode
+  
+  
+# four variables are created to 
+# control the auto-clicker
+delay = 0.001
+button = Button.right
+start_stop_key = KeyCode(char='a')
+stop_key = KeyCode(char='b')
+  
+# threading.Thread is used 
+# to control clicks
+class ClickMouse(threading.Thread):
+    
+  # delay and button is passed in class 
+  # to check execution of auto-clicker
+    def __init__(self, delay, button):
+        super(ClickMouse, self).__init__()
+        self.delay = delay
+        self.button = button
+        self.running = False
+        self.program_running = True
+  
+    def start_clicking(self):
+        self.running = True
+  
+    def stop_clicking(self):
+        self.running = False
+  
+    def exit(self):
+        self.stop_clicking()
+        self.program_running = False
+  
+    # method to check and run loop until 
+    # it is true another loop will check 
+    # if it is set to true or not, 
+    # for mouse click it set to button 
+    # and delay.
+    def run(self):
+        while self.program_running:
+            while self.running:
+                mouse.click(self.button)
+                time.sleep(self.delay)
+            time.sleep(0.1)
+  
+  
+# instance of mouse controller is created
+mouse = Controller()
+click_thread = ClickMouse(delay, button)
+click_thread.start()
+  
+
+print(mouse.click,button)
+mouse.click(button)
+
+ 
+# on_press method takes 
+# key as argument
+def on_press(key):
+    
+  # start_stop_key will stop clicking 
+  # if running flag is set to true
+    if key == start_stop_key:
+        if click_thread.running:
+            click_thread.stop_clicking()
+        else:
+            click_thread.start_clicking()
+              
+    # here exit method is called and when 
+    # key is pressed it terminates auto clicker
+    elif key == stop_key:
+        click_thread.exit()
+        listener.stop()
+  
+  
+with Listener(on_press=on_press) as listener:
+    listener.join()
+
+
+
+
+"""
++[P函数](,autoClick)
+
+"""
+## end
+#94, 589:
+"""
++[P函数](,测试)
+
+"""
+
+from pynput.mouse import Button, Controller
+
+mouse = Controller()
+
+# Read pointer position
+print('The current pointer position is {0}'.format(
+    mouse.position))
+
+# Set pointer position
+mouse.position = (10, 20)
+print('Now we have moved it to {0}'.format(
+    mouse.position))
+
+# Move pointer relative to current position
+mouse.move(5, -5)
+
+# Press and release
+mouse.press(Button.left)
+mouse.release(Button.left)
+
+# Double click; this is different from pressing and releasing
+# twice on macOS
+mouse.click(Button.left, 2)
+
+# Scroll two steps down
+mouse.scroll(0, 2)
+
+## end
+#96, 436:
+"""
++[P函数](,测试autoGui)
+记住"Python"
+
+print(pyautogui.right)
+
+"""
+
+import pyautogui
+
+pyautogui.alert("it's ture")
+pyautogui.click(button='left')
+pyautogui.rightClick()
+pyautogui.click(193,54)
+pyautogui.doubleClick()
+pyautogui.move(0,100)
+pyautogui.moveTo(0,100)
+pyautogui.typewrite("A\n")
+
+pyautogui.hotkey("ctrl",'c')
+pyautogui.hotkey("ctrl",'v')
+
+pyautogui.press("left")
+
+pyautogui.screenshot("test.png")
+print(pyautogui.position())
+
+
+
+
+
+## end
+### 结束

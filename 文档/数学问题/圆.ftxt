@@ -1,0 +1,269 @@
+### 节点
+地址, 的, 圆, 目录, 的, 的, 网页画板, 的, 的, 三点画圆, html, 的, 圆方程组., 公式, 的, 圆方程组_相减., 公式, 的, 圆方程组_相减_化简., 公式, 的, 圆方程组_相减_结果., 公式, 的, 圆心公式_推导, 公式, 的, 圆心公式., 公式, 的, 半径公式., 公式, 的, 验证公式, M函数, 的, circle_3_pt, M函数, 的, 地址, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#del, 2#9, #, 9#, 9#12, #, 12#, 9#15, #, 15#, 9#18, #, 18#, 9#21, #, 21#, 9#24, #, 24#, 9#27, #, 27#, 9#30, #, 30#, 9#33, #, 33#, 33#36, #, 36#, 36#39, #, 
+### 内容
+#0, 14:
+文档\数学问题\圆.ftxt
+## end
+#2, 97:
++[返回目录](,圆)
+地址::文档\数学问题\圆.ftxt
+
+
+
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+
+
+三点画圆(html):...
+
+
+
+
+
+## end
+#3, 45:
+圆:...
+创建于 20211216
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 16:
+文档\S应用\网页画板.ftxt
+## end
+#9, 689:
+<!--
++[H函数](,三点画圆)
+-->
+
+Assume we know three points, \((x_1,y_1)\), \((x_2,y_2)\) and \((x_3,y_3)\) are on a circle. How can we calculate the radius \(R\) and the center \((x_0,y_0)\) of the circle? <br>
+All those points satisfied the following equations, 
+%圆方程组.
+Subtract (2) from (1), we will have a equation, 
+%圆方程组_相减.
+%圆方程组_相减_化简.
+As a result, we have two equations,
+%圆方程组_相减_结果.
+Then we could get the center from these two equations, 
+%圆心公式_推导.
+%圆心公式.
+With the center known, we can get the radius easily by, 
+%半径公式.
+
+
+<br><br><br><br>
+半径公式.(公式):
+圆心公式.(公式):
+圆心公式_推导(公式).:
+圆方程组_相减_结果.(公式):圆方程组_相减_化简.(公式):圆方程组_相减.(公式):圆方程组.(公式):
++[新建阅读窗口](,圆方程组.)
+
+
+<!--
+验证公式(M函数):...
++[H函数](,三点画圆)
+-->
+## end
+#12, 116:
+\begin{cases}
+(x_1-x_0)^2+(y_1-y_0)^2=R^2
+\\
+(x_2-x_0)^2+(y_2-y_0)^2=R^2
+\\
+(x_3-x_0)^2+(y_3-y_0)^2=R^2
+
+\end{cases}
+## end
+#15, 57:
+(x_1-x_0)^2 - (x_2-x_0)^2
++(y_1-y_0)^2 - (y_2-y_0)^2
+=0
+
+
+## end
+#18, 250:
+(x_1-x_2)(x_1+x_2-2 x_0)
++
+(y_1-y_2)(y_1+y_2-2 y_0)
+
+=0
+
+\\\Rightarrow
+
+(x_1-x_2)(x_1+x_2)
++
+(y_1-y_2)(y_1+y_2)
+
+=
+2 x_0 (x_1-x_2)
++
+2 y_0 (y_1-y_2)
+
+\\\Rightarrow
+
+x_0 \Delta x_{12}
++
+y_0 \Delta y_{12}
+=
+\Delta x_{12} X_{12}
++
+\Delta y_{12} Y_{12}
+
+
+## end
+#21, 216:
+\begin{cases}
+x_0 \Delta x_{12}
++
+y_0 \Delta y_{12}
+=
+\Delta x_{12} X_{12}
++
+\Delta y_{12} Y_{12}
+\equiv
+A
+\\
+
+x_0 \Delta x_{23}
++
+y_0 \Delta y_{23}
+=
+\Delta x_{23} X_{23}
++
+\Delta y_{23} Y_{23}
+\equiv
+B
+
+\end{cases}
+## end
+#24, 513:
+\begin{cases}
+x_0 \Delta x_{12}
++
+y_0 \Delta y_{12}
+=
+A
+\\
+
+x_0 \Delta x_{23}
++
+y_0 \Delta y_{23}
+=
+B
+\end{cases}
+
+\\
+
+x_0=\frac{A\Delta y_{23}-B\Delta y_{12}}
+{\Delta x_{12}\Delta y_{23}-\Delta x_{23}\Delta y_{12}}
+\\
+=\frac{
+(
+\Delta x_{12} X_{12}
++
+\Delta y_{12} Y_{12}
+)
+
+\Delta y_{23}-
+(
+\Delta x_{23} X_{23}
++
+\Delta y_{23} Y_{23}
+)\Delta y_{12}}
+{\Delta x_{12}\Delta y_{23}-\Delta x_{23}\Delta y_{12}}
+
+
+\\
+
+y_0=\frac{-A\Delta x_{23}+B\Delta x_{12}}
+{\Delta x_{12}\Delta y_{23}-\Delta x_{23}\Delta y_{12}}
+
+## end
+#27, 226:
+\begin{cases}
+x_0=\frac{A\Delta y_{23}-B\Delta y_{12}}
+{\Delta x_{12}\Delta y_{23}-\Delta x_{23}\Delta y_{12}}
+\\
+
+y_0=\frac{-A\Delta x_{23}+B\Delta x_{12}}
+{\Delta x_{12}\Delta y_{23}-\Delta x_{23}\Delta y_{12}}
+\end{cases}
+
+
+## end
+#30, 37:
+R=
+\sqrt{(x_2-x_0)^2+(y_2-y_0)^2}
+
+
+
+
+## end
+#33, 318:
+%{
++[M函数](,验证公式)
+
+circle_3_pt(M函数):...
+circle_3_pt的"cirlce_3_pt"替换为"circle_3_pt"
++[修改标题]"circle_3_pt"(,cirlce_3_pt)
+%}
+
+addpath('Matlab\geometry')
+
+x=[1,2,-1];
+y=[0,0,1];
+
+[x0,y0,R]=circle_3_pt(x,y);
+
+t=linspace(0,360,100);
+tx=R*cosd(t)+x0;
+ty=R*sind(t)+y0;
+figure
+plot(x,y,'*',tx,ty);
+axis equal
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#36, 469:
+%{
++[M函数](,circle_3_pt)
+
+地址::Matlab\geometry\circle_3_pt.m
++[保存文本](,circle_3_pt)
+%}
+
+function [x0,y0,R]=circle_3_pt(x,y)
+%x=[1,2,2];
+%y=[0,0,1];
+
+Dx12=x(1)-x(2);
+Dx23=x(2)-x(3);
+Dy12=y(1)-y(2);
+Dy23=y(2)-y(3);
+
+X12=mean(x(1:2));
+X23=mean(x(2:3));
+Y12=mean(y(1:2));
+Y23=mean(y(2:3));
+
+A=Dx12*X12+Dy12*Y12;
+B=Dx23*X23+Dy23*Y23;
+
+x0=(A*Dy23-B*Dy12)/(Dx12*Dy23-Dx23*Dy12);
+y0=(-A*Dx23+B*Dx12)/(Dx12*Dy23-Dx23*Dy12);
+R=sqrt((x(2)-x0)^2+(y(2)-y0)^2);
+end
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#39, 29:
+Matlab\geometry\circle_3_pt.m
+## end
+### 结束

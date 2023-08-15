@@ -1,0 +1,5254 @@
+### 节点
+地址, OPA教程, 坡印廷矢量, Supplementary, 论文, 重要材料, 地址, 函数, 的, 实验光场, OPA结果, 的, 的, 地址, 二阶张量, 的, 张量, 的, d_eff定义2, 对比数据, Phase match, 的, 对比数据, Smellmeier Equations, 地址, 定义函数, 的, 的, Smellmeier Equations, 地址, 测试, 折射率椭圆, 的, 的, 的, 的, 的, BBO的d_eff, eoo定义, d_eff定义, Smellmeier Equations, 重要公式, OPA原理, [标题], 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 目录, 的, 的, 节点数目统计, 20210316, 的, 20210331, 的, 的, 讨论Phase matching, 的, 几何画板, 的, 正文, 变量含义, 比例, 的, 尺寸, 的, 原点, 的, 坐标系, 的, 折射率椭圆, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 选中区域, 的, 的, 输出, HTML, 的, 的, 输出, 输入, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 起点, 尺寸, 类型, 线型, 线粗细, 面颜色, 线颜色, 中心位置, 分辨率, 函数, 可选, 的, 坐标系, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 选中区域, 的, 的, 输出, HTML, 的, 的, 输出, 输入, 的, 的, 的, 的, 的, 的, 起点, 尺寸, 类型, 原点, x坐标, y坐标, 可选, 的, 光线方向, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 的, 第一部分, 的, 的, 计算, M函数, 的, 实验室条件下的Gain, HTML, 的, 参考, 的, 参考, 的, a0, 的, 第二部分, 的, 计算, M函数, 画板, 线粗细, 线型, 线颜色, 终点, 起点, 的, 的, 的, 的, 的, 输入, 的, HTML, LaTeX数学记号, 的, 点线公式, 输出, 的, 的, 输入, 的, 的, 的, 选中区域, 类型, 选中框, 图形, 输出, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 的, 的, 的, 的, 的, pump光方向, y坐标, x坐标, 可选, 原点, 类型, 尺寸, 起点, 的, 的, 的, 的, 的, 的, 输入, 输出, 的, 的, HTML, 输出, 的, 的, 选中区域, 图形, 选中框, 输出, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 坐标系, 可选, 函数, 中心位置, 分辨率, 线颜色, 面颜色, 线粗细, 线型, 类型, 尺寸, 起点, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 输入, 输出, 的, 的, HTML, 输出, 的, 的, 选中区域, 图形, 选中框, 输出, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 折射率椭圆, 的, 的, 的, 坐标系, 场景解释, 的, 的, 画板, 比例, 的, 尺寸, 的, 原点, 的, 坐标系, 的, signal光方向, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 的, idler光方向, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 20210401, 的, 的, Hussar, 的, 地址, 20210406, 的, 的, 正文, 的, 网页画板, 20210407, 的, 20210408, 的, 的, TOPAS双光斑, 20210409, 的, 20210419, 的, 20210420, 的, 的, 调试记录, 的, 测试程序1, M2014, 的, 对比例子, M2014, 20210421, 的, 的, 波长限制问题, 的, 代码, 的, OPA_Gain, M函数, 的, 地址, 的, 扫参数, 的, 扫duration, 的, results, 的, 扫sign_tau, 的, results, 的, 扫sign_w0, 的, results, 的, 扫sign_E0, 的, results, 的, 扫pump_w0, 的, results, 20210427, 的, 的, 网站, 20210428, 的, 20210517, 的, 20210625, 的, 20210626, 的, 的, 日志, 的, 20210626, 的, 工作流程, 的, 输出代码, 的, 内容解释, 的, 地址, 的, 数据分析, M函数, 20210627, 的, 扫参数, 的, 记忆, OPA_Gain, 的, 20220302, 的, 20220308, 的, 20220322, 的, 20220323, 的, 重要公式, 的, 20220325, 的, OPA光谱, 的, 20220402, 的, 
+### 关联
+#, #, #, #, #, #, #, #, 7#6, #, #, 10#7, 10#9, #, #, 14#13, #, 16#14, #, #, #, 20#19, #, #, #, #, 25#23, 25#24, #, #, #, #, 31#22, 31#25, 31#28, 31#29, 31#30, #, #, #, #, #, #, #, 42#0, 42#1, 42#2, 42#3, 42#4, 42#5, 42#10, 42#16, 42#18, 42#20, 42#31, 42#37, 42#38, 42#39, 42#40, 42#41, #, 60#42, 60#63, #, #, 63#64, #, 63#66, 60#69, #, 69#71, #, 69#73, #, #, #, 81#75, #, 81#77, #, 81#79, 74#, 74#83, #, 83#98, 83#106, 83#110, 83#125, 83#126, 83#127, 83#128, 83#129, 83#130, 83#131, 83#132, 83#133, 83#134, 83#135, #, 98#114, 98#103, 98#104, 98#105, #, #, #, #, 106#109, 106#114, #, #, 110#113, 110#114, #, #, 114#130, 114#131, 114#128, 114#129, 114#126, 114#125, 114#132, 114#133, 114#134, 114#135, #, #, #, #, #, #, #, #, #, #, #, 74#137, #, 137#148, 137#156, 137#160, 137#171, 137#172, 137#173, 137#174, 137#175, 137#176, 137#177, #, 148#164, 148#153, 148#154, 148#155, #, #, #, #, 156#159, 156#164, #, #, 160#163, 160#164, #, #, 164#172, 164#171, 164#174, 164#175, 164#176, 164#177, #, #, #, #, #, #, #, 74#179, #, 179#217, 179#218, 179#189, 179#197, 179#198, 179#219, 179#220, 179#221, 179#209, #, 189#211, 189#194, 189#195, 189#196, #, #, #, #, #, 198#202, 198#205, 198#206, #, 202#217, 202#218, #, #, 206#208, #, #, 209#211, #, 211#217, 211#218, 211#219, 211#220, 211#221, #, #, #, #, #, 69#223, #, 223#74, 223#226, #, 226#, 223#229, #, 229#, 229#232, #14, 229#234, #41, 229#236, #, 69#238, #, 238#240, #, 240#, #, #, #, #, #, #, 253#243, 253#244, 253#245, 253#246, 253#247, #, 255#253, #, #, 258#256, #, #, 262#246, 262#247, #, 266#258, 266#259, 266#262, #, #, #, #, #, 275#268, 275#269, 275#270, 275#253, #, 285#255, 285#243, 285#244, 285#245, 285#266, 285#267, 285#275, 285#246, 285#247, #, #, #, #, #, #, #, #, 299#288, 299#286, 299#287, 299#289, 299#292, 299#291, #, #, 303#299, 303#300, #, #, 307#299, 307#304, #, #, #, #, 315#308, 315#309, 315#310, 315#299, #, 326#286, 326#287, 326#288, 326#289, 326#290, 326#291, 326#292, 326#303, 326#307, 326#315, #, #, #, #, #, #, #, #, #, #, #, #, 348#327, 348#328, 348#330, 348#329, 348#337, 348#336, 348#333, 348#334, 348#331, 348#332, #, #, 352#348, 352#349, #, #, 356#348, 356#353, #, #, #, #, 364#357, 364#358, 364#359, 364#348, #, 379#327, 379#328, 379#329, 379#330, 379#331, 379#332, 379#333, 379#334, 379#335, 379#336, 379#337, 379#352, 379#356, 379#364, #, 384#285, 384#326, 384#379, 384#, #, 238#384, 238#387, 384#, #, 394#388, #, 394#390, #, 394#392, 384#, 384#396, #, 396#434, 396#435, 396#406, 396#414, 396#415, 396#436, 396#437, 396#438, 396#426, #, 406#428, 406#411, 406#412, 406#413, #, #, #, #, #, 415#419, 415#422, 415#423, #, 419#434, 419#435, #, #, 423#425, #, #, 426#428, #, 428#434, 428#435, 428#436, 428#437, 428#438, #, #, #, #, #, 384#440, #, 440#478, 440#479, 440#450, 440#458, 440#459, 440#480, 440#481, 440#482, 440#470, #, 450#472, 450#455, 450#456, 450#457, #, #, #, #, #, 459#463, 459#466, 459#467, #, 463#478, 463#479, #, #, 467#469, #, #, 470#472, #, 472#478, 472#479, 472#480, 472#481, 472#482, #, #, #, #, #, #, 63#483, 60#486, #, 486#488, #, #, 63#489, 223#492, #, 69#494, #, #, 63#495, #, 63#497, 60#500, #, #, 63#501, #, 63#503, #, 63#505, 486#508, #, 508#510, #, 510#, 510#513, #, 513#, #, 63#515, 508#518, #, 518#520, #, 508#522, #, 522#, 522#525, #, 508#527, #, 527#529, #, 529#531, #, 527#533, #, 533#535, #, 527#537, #, 537#539, #, 527#541, #, 541#543, #, 527#545, #, 545#547, #, #, 63#548, 486#551, #, #, 63#552, #, 63#554, #, 63#556, #, 63#558, 508#561, #, 561#563, #, 508#565, #, 565#567, #, 567#569, #, 567#571, #, 565#573, #, 573#, #, 63#575, #527, 579#577, 60#, #522, 579#580, #, 63#582, #, 63#584, #, 63#586, #, 63#588, #41, 579#590, #, 63#592, #226, 579#594, #, 63#596, 
+### 内容
+#0, 18:
+文档\物理问题\OPA原理.ftxt
+## end
+#1, 48:
+C:\Users\cheng\Desktop\paper\FOPA\OPA_review.pdf
+## end
+#2, 750:
+<!--
++[返回目录](,坡印廷矢量)
++[网页](web,坡印廷矢量)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.3em">
+电磁场的坡印廷矢量:
+$$\textbf{S}=\textbf{E}\times\textbf{H}=\frac{1}{\mu_0}\textbf{E}\times\textbf{B}$$
+而, 如果是平面波的话, 会有,
+$$\nabla \times \textbf{E}=-\frac{\partial \textbf{B}}{\partial t}$$
+$$i\vec{k}\times\textbf{E}=i\omega \textbf{B}$$
+写成磁场的表达式,
+$$\textbf{B}=\frac{1}{c}\hat{k}\times\textbf{E}$$
+代入坡印廷矢量会有, 
+$$\textbf{S}=\sqrt{\frac{\epsilon_0}{\mu_0}}\textbf{E}\times(\hat{k}\times\textbf{E})$$
+$$\textbf{S}=\sqrt{\frac{\epsilon_0}{\mu_0}}\hat{k}\textbf{E}^2$$
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#3, 71:
+file:///C:/Users/cheng/Desktop/paper/FOPA/FOPA_supplementary.pdf#page=5
+## end
+#4, 45:
+C:\Users\cheng\Desktop\paper\FOPA\Bruno14.pdf
+## end
+#5, 121:
+https://static-content.springer.com/esm/art%3A10.1038%2Fncomms4643/MediaObjects/41467_2014_BFncomms4643_MOESM1218_ESM.pdf
+## end
+#6, 42:
+C:\Users\cheng\Documents\MATLAB\OPA_gain.m
+## end
+#7, 709:
+%{
++[返回目录](,函数)
+
+地址::C:\Users\cheng\Documents\MATLAB\OPA_gain.m
++[保存文本](,函数)
+%}
+
+function gain=OPA_gain(la_3,la_1,d,I3)
+physics_constant;
+
+% Type1: ooe
+
+%I3=20e9*1e4;
+
+%la_3=0.8e-6;
+%la_1=1.2e-6;
+beta=19.9018;
+%d=4e-3;
+
+Z=sqrt(epsilon0/mu0);
+E3=sqrt(I3/Z);
+
+w_1=2*pi*c/la_1;
+w_3=2*pi*c/la_3;
+w_2=w_3-w_1;
+
+la_2=2*pi*c/w_2;
+
+alpha=0;
+
+E_e=[1;0;0];
+E_o=[0;1;0];
+
+n_1=n_bbo(la_1,alpha,beta,E_o);
+n_2=n_bbo(la_2,alpha,beta,E_o);
+n_3=n_bbo(la_3,alpha,beta,E_e);
+
+k_1=n_1*w_1/c;
+k_2=n_2*w_2/c;
+k_3=n_3*w_3/c;
+
+%Dk=k_3-k_1-k_2;
+Dk=0;
+
+E_10=1;
+E_3=E_e*E3;
+X2EE=X_BBO(E_3);
+X2=max(eig(X2EE));
+
+g_02=w_1^2*w_2^2/k_1/k_2/c^4*X2;
+g=sqrt(g_02-Dk^2);
+gain=abs(exp(1i*Dk/2*d)*E_10*(cosh(g*d/2)+1i*Dk/g*sinh(1/2*g*d)))^2;
+end
+## end
+#9, 309:
+%{
++[返回目录](,实验光场)
+
++[matlabStart](,Matlab)
++[matlab](Matlab,)->+[code](+[matlab],实验光场)
+
+晶体: 4mm x 4mm(厚度) x 15mm
+切角: 20.8
+Pump: 2ps, 800nm, 20mJ(~12.8mJ@FP), 面积(宽度300um. 长度? 60mm?)
+%}
+
+physics_constant;
+
+En=12.8e-3;
+tau=2e-12;
+width=300e-6;
+len=40e-3;
+
+S=En/tau/width/len;
+Z=sqrt(epsilon0/mu0);
+E3=sqrt(S/Z);
+
+## end
+#10, 324:
+%{
++[返回目录](,OPA结果)
++[M函数](,OPA结果)
+
+实验光场:...
++[M函数](,实验光场)
+
+函数:...
+%}
+
+I3=20e9*1e4;
+la_3=0.8e-6;
+la_1=1.2e-6;
+beta=19.9018;
+
+d=(1:5)*1e-3;
+I3=linspace(10,100,100)*1e13;
+gain=zeros(5,length(I3));
+for i=1:length(d)
+for j=1:length(I3)
+gain(i,j)=OPA_gain(la_3,la_1,d(i),I3(j));
+end
+end
+
+plot(I3/1e13,gain)
+set(gca,'YScale','log')
+## end
+#13, 39:
+C:\Users\cheng\Documents\MATLAB\X_BBO.m
+## end
+#14, 469:
+%{
++[返回目录]
+
+地址::C:\Users\cheng\Documents\MATLAB\X_BBO.m
++[保存文本](,二阶张量)
+
++[有](记忆,二阶张量)
+%}
+
+
+function X2EE=X_BBO(E)
+%E=[0,1,1];
+
+X(2,2,2)=2.2e-12/2;
+X(2,1,1)=-X(2,2,2);
+X(1,2,1)=-X(2,2,2);
+X(1,1,2)=-X(2,2,2);
+
+X(3,2,2)=-0.07*2.2e-12/2;
+X(2,3,2)=X(3,2,2);
+X(2,2,3)=X(3,2,2);
+X(3,1,1)=X(3,2,2);
+X(1,3,1)=X(3,2,2);
+X(1,1,3)=X(3,2,2);
+
+X2EE=zeros(3,3);
+for i=1:3
+for n=1:3
+for j=1:3
+for k=1:3
+for m=1:3
+
+X2EE(i,n)=X2EE(i,n)+X(i,j,k)*X(k,m,n)*E(j)*E(m)';
+
+end
+end
+end
+end
+end
+
+## end
+#16, 125:
+%{
++[返回目录]
+
+二阶张量:...
++[保存文本](,二阶张量)
++[matlabStart](,Matlab)
++[matlab](Matlab,)->+[code](+[matlab],张量)
+%}
+
+E=[0,1,0];
+X_BBO(E)
+## end
+#18, 58:
+file:///C:/Users/cheng/Desktop/paper/Books/NLO.pdf#page=61
+## end
+#19, 43:
+http://toolbox.lightcon.com/tools/PMangles/
+## end
+#20, 498:
+%{
++[返回目录]
+
++[matlab](Matlab,)->+[code](+[matlab],Phase match)
+
+对比数据::http://toolbox.lightcon.com/tools/PMangles/
++[打开](,对比数据)
+差不多.
++[M函数](,Phase match)
+%}
+
+physics_constant;
+
+la_1=0.4e-6;
+la_2=0.8e-6;
+
+w_1=2*pi*c/la_1;
+w_2=2*pi*c/la_2;
+w_3=w_1-w_2;
+
+la_3=2*pi*c/w_3;
+
+%eoo
+%beta=19.9018;
+beta=29.17809;
+alpha=0;
+
+E_e=[1;0;0];
+E_o=[0;1;0];
+
+n_1=n_bbo(la_1,alpha,beta,E_e);
+n_2=n_bbo(la_2,alpha,beta,E_o);
+n_3=n_bbo(la_3,alpha,beta,E_o);
+
+k_1=n_1*w_1/c;
+k_2=n_2*w_2/c;
+k_3=n_3*w_3/c;
+
+Dk=k_1-k_2-k_3
+## end
+#22, 50:
+http://toolbox.lightcon.com/tools/refractiveindex/
+## end
+#23, 43:
+https://www.unitedcrystals.com/BBOProp.html
+## end
+#24, 39:
+C:\Users\cheng\Documents\MATLAB\n_bbo.m
+## end
+#25, 958:
+%{
++[返回目录]
++[matlab](Matlab,)->+[code](+[matlab],折射率椭圆)
++[调用知识](,+[三维旋转])
+
+地址::C:\Users\cheng\Documents\MATLAB\n_bbo.m
++[保存文本](,定义函数)
+
+BBO性质
+Smellmeier Equations::https://www.unitedcrystals.com/BBOProp.html
++[打开](,Smellmeier Equations)
+%}
+
+function n=n_bbo(lambda_0,alpha,beta,E)
+lambda_0=lambda_0/1e-6;
+no=sqrt(2.7359+0.01878/(lambda_0^2-0.01822)-0.01354*lambda_0^2);
+ne=sqrt(2.3753+0.01224/(lambda_0^2-0.01667)-0.01516*lambda_0^2);
+
+%alpha=30;
+%beta=45;
+
+
+M=@(alpha,beta,gamma)[cosd(gamma) -sind(gamma) 0;
+   sind(gamma)  cosd(gamma) 0;
+          0           0     1]*[cosd(beta) 0 -sind(beta);
+         0      1     0;
+     sind(beta) 0  cosd(beta)]*[cosd(alpha)  sind(alpha) 0;
+    -sind(alpha)  cosd(alpha) 0;
+            0           0     1];
+T=M(alpha,beta,0);
+N=@(ne,no,alpha,beta)M(alpha,beta,0)'*[1/no^2   0   0;
+	       0  1/no^2   0;
+               0   0  1/ne^2]*M(alpha,beta,0);
+
+
+N_co=N(ne,no,alpha,beta);
+E=E/norm(E);
+n=1/sqrt(E'*N_co*E);
+end
+## end
+#28, 43:
+https://www.unitedcrystals.com/BBOProp.html
+## end
+#29, 39:
+C:\Users\cheng\Documents\MATLAB\n_bbo.m
+## end
+#30, 942:
+%{
++[返回目录]
+%}
+
+
+ne=2;
+no=1;
+
+
+alpha=30;
+beta=45;
+
+
+M=@(alpha,beta,gamma)[cosd(gamma) -sind(gamma) 0;
+   sind(gamma)  cosd(gamma) 0;
+          0           0     1]*[cosd(beta) 0 -sind(beta);
+         0      1     0;
+     sind(beta) 0  cosd(beta)]*[cosd(alpha)  sind(alpha) 0;
+    -sind(alpha)  cosd(alpha) 0;
+            0           0     1];
+T=M(alpha,beta,0);
+N=@(ne,no,alpha,beta)M(alpha,beta,0)'*[1/no^2   0   0;
+	       0  1/no^2   0;
+               0   0  1/ne^2]*M(alpha,beta,0);
+
+           
+beta=linspace(0,360,100);
+for i=1:length(beta)
+N_co=N(ne,no,alpha,beta(i));
+
+theta=linspace(0,pi,10);
+phi=linspace(0,2*pi,50);
+[Theta,Phi]=meshgrid(theta,phi);
+Ez=cos(Theta);
+Ex=sin(Theta).*cos(Phi);
+Ey=sin(Theta).*sin(Phi);
+
+n=1./sqrt(...
+Ex.^2*N_co(1,1) +2*Ex.*Ey*N_co(1,2) +2*Ex.*Ez*N_co(1,3) ...
++Ey.^2*N_co(2,2)+2*Ey.*Ez*N_co(2,3)...
++Ez.^2*N_co(3,3)...
+);
+
+clf
+hold on
+plot3(Ex.*n,Ey.*n,Ez.*n);
+axis equal
+view(30,30);
+pause(0.01);
+end
+
+
+## end
+#31, 662:
+%{
++[返回目录]
++[matlabStart](,Matlab)
++[matlab](Matlab,)->+[code](+[matlab],折射率椭圆)
++[调用知识](,+[三维旋转])
++[M函数](,折射率椭圆)
+
+定义函数:...
++[保存文本](,定义函数)
+测试:...
+对比数据::http://toolbox.lightcon.com/tools/refractiveindex/
++[打开](,对比数据)
+
+评价:
+1.8um以下, 折射率的精确度还是可以的. 波长越短越精确.
+%}
+
+beta=90;
+alpha=0;
+
+E1=[1;0;0];
+E2=[0;1;0];
+
+la=linspace(188e-9,5200e-9,100);
+ne=la;
+no=la;
+
+for i=1:length(la)
+ne(i)=n_bbo(la(i),alpha,beta,E1);
+no(i)=n_bbo(la(i),alpha,beta,E2);
+end
+
+plot(la,no,la,ne)
+legend('n(o)','n(e)');
+grid on;
+
+n_bbo(1800e-9,alpha,beta,E1)
+n_bbo(1800e-9,alpha,beta,E2)
+
+n_bbo(800e-9,alpha,beta,E1)
+n_bbo(800e-9,alpha,beta,E2)
+
+n_bbo(400e-9,alpha,beta,E1)
+n_bbo(400e-9,alpha,beta,E2)
+## end
+#37, 61:
+https://www.lambdaphoto.co.uk/pdfs/InradBBOCrystal.pdf#page=2
+## end
+#38, 61:
+https://en.wikipedia.org/wiki/Nonlinear_optics#Phase_matching
+## end
+#39, 77:
+https://web.mit.edu/8.13/8.13c/references-fall/aip/aip-handbook-section6n.pdf
+## end
+#40, 43:
+https://www.unitedcrystals.com/BBOProp.html
+## end
+#41, 1271:
+<!--
++[返回目录]
++[网页](web,重要公式)
+
++[有](记忆,重要公式)
+-->
+
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+基本要点:<br>
+1.方程是非线性极化率作为源的一个波动方程;<br>
+2.用了稳态假设和波形缓慢变化假设来对方程做近似;<br>
+3.用了两束光同向传播作进一步近似;<br>
+4.最后假设pump光不变来给出结果.<br>
+<br>
+基本方程:<br>
+两束光, 频率分别为\(\omega_1, \omega_2\), 而它们在晶体中的波矢分别为\(\vec{k}_1, \vec{k}_2\). 于是有:<br>
+$$\vec{P}^{(2)}(\omega_3)=\epsilon_0 \textbf{X}^{(2)}(\omega_3;\omega_1,\omega_2):\vec{E}_1(\omega_1)\vec{E}_2(\omega_2)$$
+
+OPA:<br>
+假设介质中有一束持续提供能量的pump光, \(\omega_3\). 输入的种子光频率为, \(\omega_1\). 于是有方程组:
+$$\begin{cases}
+\frac{d E_1}{d z}=-\frac{\omega_1^2}{2 i k_1 c^2} \textbf{X}^{(2)} E_{30} E_2^* e^{i \Delta k z}\\
+\frac{d E_2^*}{d z}=\frac{\omega_2^2}{2 i k_2 c^2} \textbf{X}^{(2)} E_{30}^* E_1 e^{-i \Delta k z}\\
+\frac{d E_3}{d z}=0
+\end{cases}$$
+
+计算结果为:
+$$E_1=e^{i\frac{\Delta k}{2}z} E_{10} [cosh(\frac{1}{2} g z)-i\frac{\Delta k}{g} sinh(\frac{1}{2}g z)]$$
+$$\Delta k=k_3-k_1-k_2, g=\sqrt{g_0^2-\Delta k^2}$$
+$$g_0^2=\frac{\omega_1^2 \omega_2^2}{k_1 k_2 c^4}(\textbf{X}^{(2)})^2|\vec{E}_{30}|^2$$
+其中, \(E_{30}\)为输入电场. Phase match主要会体现在\(\Delta k\)上.
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#42, 1920:
++[返回目录](,OPA原理)
+地址::文档\物理问题\OPA原理.ftxt
+
+这里要产生一个给输入光的参数, 输出生成光的光谱的公式. 
+OPA教程::C:\Users\cheng\Desktop\paper\FOPA\OPA_review.pdf
++[打开](,OPA教程)
+
+重要公式:...
+记住重要公式(节点)
++[网页](web,重要公式)
+是([知识],知识)->+[有](知识,重要公式)
+
+Phase match会体现在公式里面的Dk上面. 
+问题是, OPA里面的signal光的偏振方向是什么? 会不会分出寻常光和非寻常光?(会)
+但是, pump和signal的入射参数都是可以调整好的, 所以主要是idler会分出不同类型的偏振.
+
+Smellmeier Equations::https://www.unitedcrystals.com/BBOProp.html
++[打开](,Smellmeier Equations)
+
+eoo定义::https://en.wikipedia.org/wiki/Nonlinear_optics#Phase_matching
++[打开](,eoo定义)
+
+
+那么我们分几步来解决这个问题:
+1.Phase match:
+Smellmeier Equations::https://www.unitedcrystals.com/BBOProp.html
++[打开](,Smellmeier Equations)
+首先画折射率椭圆吧.
+折射率椭圆:...
+接下来是, 提供入射光和种子光的波长还有晶轴方向, 计算phase match.
+Phase match:...
+(和网上的数据比较过了, 基本没问题.)
+
+2.张量:
+那个张量不是出现在系数上的... 所以还是要把张量的问题解决了.
+
+d_eff定义::https://web.mit.edu/8.13/8.13c/references-fall/aip/aip-handbook-section6n.pdf
++[打开](,d_eff定义)
+d_eff定义2::file:///C:/Users/cheng/Desktop/paper/Books/NLO.pdf#page=61
++[打开](,d_eff定义2)->+[网页](+[打开],)
+BBO的d_eff::https://www.lambdaphoto.co.uk/pdfs/InradBBOCrystal.pdf#page=2
++[打开](,BBO的d_eff)
+
+d16和d35不知道为什么数据里面没有. 暂时当成0来处理. 这个问题可以问一下的.(仔细看, 没问题的)
+先就只用d22和d32了. 等一下我手写一个算式. 
+张量:...
+是([知识],知识)->+[有](知识,张量)
+
+3.OPA结果:
++[网页](web,重要公式)
+到时候X用特征值. 然后, 暂时不管偏振方向的影响, 我们就走出一个结果再说其它的.
+OPA结果:...
+搞定! 接下来要弄一组现实些的变量代入进去进行验证.
+
+重要材料::https://static-content.springer.com/esm/art%3A10.1038%2Fncomms4643/MediaObjects/41467_2014_BFncomms4643_MOESM1218_ESM.pdf
++[打开](,重要材料)
+论文::C:\Users\cheng\Desktop\paper\FOPA\Bruno14.pdf
++[打开](,论文)
+
+对比 重要材料 中的matching angle和网上的数据, 实验用的光应该是ooe.
+然后他们的晶体是4mm x 4mm x 15mm. 厚度是4mm.
+他们的pump是: 2ps, 800nm, 20mJ(~12.8mJ@FP), 面积(宽度300um. 长度? 60mm?)
+Pump intensity在supplementary的第五页.
+Supplementary::file:///C:/Users/cheng/Desktop/paper/FOPA/FOPA_supplementary.pdf#page=5
++[打开](,Supplementary)->+[网页](+[打开],)
+坡印廷矢量:...
++[网页](web,坡印廷矢量)
+是([知识],知识)->+[有](知识,坡印廷矢量)
+接下来就该计算能量密度, 然后计算光场强度了
+
+OPA结果:...
++[有](OPA结果,实验光场)->+[没有](OPA原理,实验光场)
+
+
+## end
+#43, 5:
+OPA原理
+## end
+#60, 194:
+OPA原理:...
+讨论Phase matching:...
+Hussar:...
+TOPAS双光斑::文档\物理问题\TOPAS双光斑问题.ftxt
++[打开文件](+新窗口,TOPAS双光斑)
+在TOPAS双光斑的BBO晶体Type1角度里面有BBO_index.m
+
++[修改标题]"目录"(,文本)
+节点数目统计::
+
+n_bbo
+BBO_index
+OPA_gain
+重要公式
+
+## end
+#64, 2:
+66
+## end
+#66, 3:
+497
+## end
+#69, 358:
++[返回目录](,讨论Phase matching)
+
+几何画板::文档\S应用\几何样本库.ftxt
++[打开文件](+新窗口,几何画板)
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+
+Phase matching可以决定哪些过程可以发生. 
+那么我们先计算, 给定方向和泵光波长的情况下, DFG过程中不同波长idle光phase matching的程度. 
+然后可以讨论非共线的情况, 给定泵光方向和波长, 以及idle光的波长, 看看不同出射方向的idle光phase matching的程度. 
+接着就是比较各种过程的匹配程度了. 有e光o光, 差频和频等. 
+
+第一部分:共线phase matching...
+第二部分:idler角分布...
+
+正文:...
+
+
+## end
+#71, 17:
+文档\S应用\几何样本库.ftxt
+## end
+#73, 21:
+<!--
++[返回目录](,正文)
+-->
+## end
+#74, 95:
++[返回目录](,变量含义)
+
+折射率椭圆:...
++[创建函数曲线](,折射率椭圆)
+坐标系:...
++[创建坐标系](,坐标系)
+
+光线方向:...
++[创建单向箭头](,光线方向)
+
+
+## end
+#75, 1:
+1
+## end
+#77, 8:
+958, 476
+## end
+#79, 10:
+0.0, -50.0
+## end
+#83, 240:
++[返回目录](,矩形)
++[设置结构](,矩形)
+
+起点::-200,100
+尺寸::100,100
+类型::矩形
+
+中心位置::0,0
+分辨率::0.1
+函数::R=5
+t=np.linspace(0,2*np.pi,300)
+x=R*np.cos(t)
+y=2*R*np.sin(t)
+
+可选::NO
+
+面颜色::None
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+
++[创建输入](可选,画图)
+
+
+
+## end
+#98, 921:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+pt=起点
+size=尺寸
+
+lineWidth=线粗细[0]
+lineType=线型
+
+dx=分辨率[0]
+orig=中心位置
+
+Nx=np.abs(size[0])
+x=np.linspace(-Nx*dx/2,Nx*dx/2,Nx)+orig[0]
+y=0*x
+exec(函数)
+
+x_p=x/dx+pt[0]+size[0]/2
+y_p=-y/dx+pt[1]+size[1]/2+orig[1]
+
+
+path=QPainterPath()
+move=True
+for i in range(len(x_p)):
+    if (y_p[i]-pt[1])*(y_p[i]-pt[1]-size[1])>0:
+        if 面颜色=='None':
+            move=True
+        continue
+    if move:
+        path.moveTo(x_p[i],y_p[i])
+        move=False
+    else:
+        path.lineTo(x_p[i],y_p[i])
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawPath(path)
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+
+
+
+
+## end
+#104, 677:
+"""
++[返回目录](,选中框)
+
+"""
+
+
+X=[pt[0],pt[0]+size[0]/2,pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]/2,pt[1]+size[1]]
+R=6
+
+qp.setBrush(QBrush())
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[0]-R,2*R,2*R)
+
+if size[0]>30 or size[0]<-30:
+    qp.drawEllipse(X[1]-R,Y[0]-R,2*R,2*R)
+    qp.drawEllipse(X[1]-R,Y[2]-R,2*R,2*R)
+
+if size[1]>30 or size[1]<-30:
+    qp.drawEllipse(X[0]-R,Y[1]-R,2*R,2*R)
+    qp.drawEllipse(X[2]-R,Y[1]-R,2*R,2*R)
+
+
+qp.drawEllipse(X[0]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+## end
+#105, 921:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+pt=起点
+size=尺寸
+
+lineWidth=线粗细[0]
+lineType=线型
+
+dx=分辨率[0]
+orig=中心位置
+
+Nx=np.abs(size[0])
+x=np.linspace(-Nx*dx/2,Nx*dx/2,Nx)+orig[0]
+y=0*x
+exec(函数)
+
+x_p=x/dx+pt[0]+size[0]/2
+y_p=-y/dx+pt[1]+size[1]/2+orig[1]
+
+
+path=QPainterPath()
+move=True
+for i in range(len(x_p)):
+    if (y_p[i]-pt[1])*(y_p[i]-pt[1]-size[1])>0:
+        if 面颜色=='None':
+            move=True
+        continue
+    if move:
+        path.moveTo(x_p[i],y_p[i])
+        move=False
+    else:
+        path.lineTo(x_p[i],y_p[i])
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawPath(path)
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+
+
+
+
+## end
+#106, 261:
+"""
++[返回目录](,选中区域)
+输入:...
++[设置结构](,输入)
+
+"""
+
+pt=起点
+pt0=mouse_pos
+size=尺寸
+
+X=[pt[0],pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]]
+
+if (pt0[0]-X[0])*(pt0[0]-X[1])<=0 and (pt0[1]-Y[0])*(pt0[1]-Y[1])<=0:
+    state=True
+else:
+    state=False
+
+if 可选=='NO':
+    state=False
+
+
+## end
+#109, 14:
++[返回目录]
++[内容]
+
+## end
+#110, 655:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+
+var size=[%尺寸];
+var pos=[%起点];
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(255,255,255)';
+} else {
+	ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        ctx.strokeRect(%起点,%尺寸);
+}
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fillRect(%起点,%尺寸);
+}
+
+//ctx.strokeStyle='rgb(%线颜色)';
+//ctx.lineWidth=%线粗细;
+//ctx.strokeRect(%起点,%尺寸);
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font=%字体*2+'px serif'
+ctx.fillText('%文字',pos[0]+size[0]/2,pos[1]+size[1]/2);
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#113, 14:
++[返回目录]
++[内容]
+
+## end
+#114, 143:
++[返回目录](,输入)
+
+面颜色::255,255,255
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+文字::测试
+字体::20
+尺寸::100,100
+起点::-200,100
+中心位置::0,-10
+分辨率::0.1
+函数::y=x**2/10
+可选::NO
+
+## end
+#125, 28:
+59.4375, -210.65250961914063
+## end
+#126, 28:
+-164.875, 283.30501923828126
+## end
+#127, 2:
+矩形
+## end
+#128, 8:
+DashLine
+## end
+#129, 1:
+2
+## end
+#130, 4:
+None
+## end
+#131, 5:
+0,0,0
+## end
+#132, 3:
+0,0
+## end
+#133, 3:
+0.1
+## end
+#134, 62:
+R=5
+t=np.linspace(0,2*np.pi,300)
+x=R*np.cos(t)
+y=2*R*np.sin(t)
+## end
+#135, 2:
+NO
+## end
+#137, 146:
++[返回目录](,坐标系)
++[设置结构](,坐标系)
+
+起点::-200,100
+尺寸::100,100
+类型::矩形
+
+原点::0.5,0.5
+x坐标::x(o)
+y坐标::z(e)
+
+可选::NO
+
+画图:...
+选中区域:...
+HTML:...
+
++[创建输入](可选,画图)
+
+
+
+## end
+#148, 1487:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+def drawArrow(qp,pt1,pt2):
+    angle=30
+    l=30
+    D=0
+    d=10
+    
+    lineWidth=2
+    
+    edgeColor=[0,0,0]
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+    
+    r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+    if r!=0:
+        theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+    dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+    dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+    
+    pt10=[0,0]
+    pt20=[0,0]
+    pt10[0]=pt1[0]
+    pt10[1]=pt1[1]
+    pt20[0]=pt2[0]
+    pt20[1]=pt2[1]
+    
+    
+    path2=QPainterPath()
+    path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+    path2.lineTo(pt20[0],pt20[1])
+    path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+    
+    qp.drawPath(path2)
+    
+    
+    qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+    
+    qp.setBrush(QBrush())
+    qp.setPen(QPen())
+
+
+pt=起点
+size=尺寸
+orig=[pt[0]+size[0]*原点[0],pt[1]+size[1]*原点[1]]
+
+qp.setFont(QFont("Decorative",15))
+
+pt1=[pt[0],orig[1]]
+pt2=[pt[0]+size[0],orig[1]]
+qp.drawText(pt2[0],pt2[1],100,30,Qt.AlignLeft|Qt.AlignVCenter,x坐标)
+drawArrow(qp,pt1,pt2)
+
+pt1=[orig[0],pt[1]]
+pt2=[orig[0],pt[1]+size[1]]
+qp.drawText(pt2[0],pt2[1]-30,100,30,Qt.AlignLeft|Qt.AlignVCenter,y坐标)
+drawArrow(qp,pt1,pt2)
+
+
+qp.drawText(orig[0],orig[1],30,30,Qt.AlignHCenter|Qt.AlignVCenter,'O')
+qp.setFont(QFont())
+
+
+## end
+#154, 677:
+"""
++[返回目录](,选中框)
+
+"""
+
+
+X=[pt[0],pt[0]+size[0]/2,pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]/2,pt[1]+size[1]]
+R=6
+
+qp.setBrush(QBrush())
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[0]-R,2*R,2*R)
+
+if size[0]>30 or size[0]<-30:
+    qp.drawEllipse(X[1]-R,Y[0]-R,2*R,2*R)
+    qp.drawEllipse(X[1]-R,Y[2]-R,2*R,2*R)
+
+if size[1]>30 or size[1]<-30:
+    qp.drawEllipse(X[0]-R,Y[1]-R,2*R,2*R)
+    qp.drawEllipse(X[2]-R,Y[1]-R,2*R,2*R)
+
+
+qp.drawEllipse(X[0]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+## end
+#155, 1487:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+def drawArrow(qp,pt1,pt2):
+    angle=30
+    l=30
+    D=0
+    d=10
+    
+    lineWidth=2
+    
+    edgeColor=[0,0,0]
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+    
+    r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+    if r!=0:
+        theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+    dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+    dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+    
+    pt10=[0,0]
+    pt20=[0,0]
+    pt10[0]=pt1[0]
+    pt10[1]=pt1[1]
+    pt20[0]=pt2[0]
+    pt20[1]=pt2[1]
+    
+    
+    path2=QPainterPath()
+    path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+    path2.lineTo(pt20[0],pt20[1])
+    path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+    
+    qp.drawPath(path2)
+    
+    
+    qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+    
+    qp.setBrush(QBrush())
+    qp.setPen(QPen())
+
+
+pt=起点
+size=尺寸
+orig=[pt[0]+size[0]*原点[0],pt[1]+size[1]*原点[1]]
+
+qp.setFont(QFont("Decorative",15))
+
+pt1=[pt[0],orig[1]]
+pt2=[pt[0]+size[0],orig[1]]
+qp.drawText(pt2[0],pt2[1],100,30,Qt.AlignLeft|Qt.AlignVCenter,x坐标)
+drawArrow(qp,pt1,pt2)
+
+pt1=[orig[0],pt[1]]
+pt2=[orig[0],pt[1]+size[1]]
+qp.drawText(pt2[0],pt2[1]-30,100,30,Qt.AlignLeft|Qt.AlignVCenter,y坐标)
+drawArrow(qp,pt1,pt2)
+
+
+qp.drawText(orig[0],orig[1],30,30,Qt.AlignHCenter|Qt.AlignVCenter,'O')
+qp.setFont(QFont())
+
+
+## end
+#156, 263:
+"""
++[返回目录](,选中区域)
+输入:...
++[设置结构](,输入)
+
+"""
+
+pt=起点
+pt0=mouse_pos
+size=尺寸
+
+X=[pt[0],pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]]
+
+if (pt0[0]-X[0])*(pt0[0]-X[1])<=0 and (pt0[1]-Y[0])*(pt0[1]-Y[1])<=0:
+    state=True
+else:
+    state=False
+
+
+if 可选=='NO':
+    state=False
+
+
+
+## end
+#159, 14:
++[返回目录]
++[内容]
+
+## end
+#160, 655:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+
+var size=[%尺寸];
+var pos=[%起点];
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(255,255,255)';
+} else {
+	ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        ctx.strokeRect(%起点,%尺寸);
+}
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fillRect(%起点,%尺寸);
+}
+
+//ctx.strokeStyle='rgb(%线颜色)';
+//ctx.lineWidth=%线粗细;
+//ctx.strokeRect(%起点,%尺寸);
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font=%字体*2+'px serif'
+ctx.fillText('%文字',pos[0]+size[0]/2,pos[1]+size[1]/2);
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#163, 14:
++[返回目录]
++[内容]
+
+## end
+#164, 137:
++[返回目录](,输入)
+
+面颜色::255,255,255
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+文字::测试
+字体::20
+尺寸::100,100
+起点::-200,100
+坐标范围::-1,1-1,1
+x坐标::x
+y坐标::y
+可选::NO
+
+## end
+#171, 22:
+-192.53125, 84.8203125
+## end
+#172, 21:
+339.0625, -311.640625
+## end
+#173, 2:
+矩形
+## end
+#174, 7:
+0.5,0.5
+## end
+#175, 4:
+x(o)
+## end
+#176, 4:
+z(e)
+## end
+#177, 2:
+NO
+## end
+#179, 105:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#189, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#195, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#196, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#197, 2:
+直线
+## end
+#198, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#202, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#205, 14:
++[返回目录]
++[内容]
+
+## end
+#206, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#208, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#209, 950:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+var pt1=[%起点];
+var pt2=[%终点];
+
+
+//arrows
+var angle=30/180*Math.PI;
+var l=20;
+var d=10;
+
+r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+if (r!=0) {
+    theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+}
+
+dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+
+pt10=[0,0];
+pt20=[0,0];
+pt10[0]=pt1[0];
+pt10[1]=pt1[1];
+pt20[0]=pt2[0];
+pt20[1]=pt2[1];
+
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+ctx.fillStyle='rgb(0,0,0,0)';
+
+
+ctx.beginPath();
+
+
+//ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+//ctx.lineTo(pt10[0],pt10[1]);
+//ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+
+ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+
+
+ctx.moveTo(pt10[0],pt10[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+
+ctx.stroke()
+ctx.fill()
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#211, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#217, 39:
+-23.438251810250108, -69.10850330174998
+## end
+#218, 12:
+55.0, -200.0
+## end
+#219, 5:
+0,0,0
+## end
+#220, 8:
+DashLine
+## end
+#221, 1:
+1
+## end
+#223, 187:
++[返回目录](,第一部分)
+那么我们先计算, 给定方向和泵光波长的情况下, DFG过程中不同波长idle光phase matching的程度. 
+
+变量含义(画板):...
++[复制结构](,变量含义)
++[画板](+新画板,变量含义)
+计算(M函数):...
+实验室条件下的Gain(HTML):...
++[M函数](,计算)
++[H函数](,实验室条件下的Gain)
+
+## end
+#226, 1141:
+%{
+将计算(节点)记作OPA光谱
++[M函数](,计算)
+%}
+
+physics_constant;
+addpath('Matlab\TOPAS');
+
+Energy0=24e-3;
+w0=2e-2;
+tau=24e-15;
+dz=8e-3;
+X2=-1e-13;
+
+lambda_0=0.8e-6;
+angle=20.1; 
+
+% E0
+I0=2*Energy0/sqrt(pi)/pi/w0^2/tau;
+E0=sqrt(I0/epsilon_0/c);
+
+% phase match
+k=[sind(angle),0,cosd(angle)];
+lambda_1=linspace(1.2,2.4,100)*1e-6;
+
+dk=zeros(size(lambda_1));
+G=zeros(size(lambda_1));
+
+
+
+
+for i=1:length(lambda_1)
+%DFG
+lambda_2=1/(1/lambda_0-1/lambda_1(i));
+
+%eoo
+[~,n0]=BBO_index(lambda_0,k);
+[n1,~]=BBO_index(lambda_1(i),k);
+[n2,~]=BBO_index(lambda_2,k);
+
+dk(i)=2*pi*(n0/lambda_0-n1/lambda_1(i)-n2/lambda_2);
+
+% Gain
+k_0=2*pi*n0/lambda_0;
+k_1=2*pi*n1/lambda_1(i);
+k_2=2*pi*n2/lambda_2;
+
+omega_0=2*pi*c/lambda_0;
+omega_1=2*pi*c/lambda_1(i);
+omega_2=2*pi*c/lambda_2;
+
+g02=omega_1^2*omega_2^2/k_1/k_2/c^4*X2^2*abs(E0)^2;
+g=sqrt(g02-dk(i)^2);
+A=exp(1i*dk(i)/2*dz)*(cosh(g*dz/2)-1i*dk(i)/g*sinh(1/2*g*dz));
+G(i)=abs(A)^2;
+
+end
+
+subplot(1,2,2)
+plot(lambda_1,G)
+xlabel('\lambda [um]')
+ylabel('G')
+subplot(1,2,1)
+plot(lambda_1,dk.^2,lambda_1,g02+zeros(size(dk)))
+xlabel('\lambda [um]')
+ylabel('dk')
+
+%{
+Nini, Hussar的n_bbo是什么?
+
+Nini, 打开Hussar的n_bbo(节点)
++[M函数](,计算)
+%}
+## end
+#229, 1451:
+<!--
++[返回目录](,实验室条件下的Gain)
+
++[H函数](,实验室条件下的Gain)
+
+参考(,二阶张量)
+参考(,重要公式)
+的(记忆,重要公式)->+参考(,重要公式)
+-->
+
+Because the website which I got the value of \(X^{(2)}\) from disappeared, I simply use an estimated value here, \(X^{(2)}=-1.0\times 10^{-13}\).
+<br>
+The formulas which we use to calculate the Gain is, 
+$$E_1=e^{i\frac{\Delta k}{2}z} E_{10} [cosh(\frac{1}{2} g z)-i\frac{\Delta k}{g} sinh(\frac{1}{2}g z)]$$
+$$\Delta k=k_0-k_1-k_2, g=\sqrt{g_0^2-\Delta k^2}$$
+$$g_0^2=\frac{\omega_1^2 \omega_2^2}{k_1 k_2 c^4}(\textbf{X}^{(2)})^2|\vec{E}_{0}|^2$$
+
+In the above formulas, the foot marker \(_0\) means the pump beam, and the foot marker \(_1\) means the seed beam. <br>
+Then, we should calculate the \(E_{0}\) from the energy of the laser pulse.<br>
+By referring %a0, we have the following formula,
+$$
+I_0=\frac{2 \varepsilon}{\sqrt{\pi}\pi w_0^2\tau}
+$$
+$$
+a_0=\frac{e}{2 \pi m_e c^2}\sqrt{\frac{I_0 \lambda^2}{\epsilon_0 c}}
+$$
+$$
+E_0=i\omega A_0
+=\frac{i\omega}{2 \pi c}\sqrt{\frac{I_0 \lambda^2}{\epsilon_0 c}}
+=i\sqrt{\frac{I_0}{\epsilon_0 c}}
+$$
+Here, \(\varepsilon\) is the total energy of the laser pulse. The waist of the beam is \(w_0\), and the pulse duration is \(\tau\). <br>
+The definition of the \(w_0\) is like following, 
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GaussianBeamWaist.svg/1920px-GaussianBeamWaist.svg.png" width="600px">
+
+<!--
++[H函数](,实验室条件下的Gain)
+
+
+a0::文档\物理问题\激光a0.ftxt
++[打开文件](+新窗口,a0)
+-->
+## end
+#236, 17:
+文档\物理问题\激光a0.ftxt
+## end
+#238, 130:
++[返回目录](,第二部分)
+然后可以讨论辐射角分布, 给定泵光方向和波长, 以及idle光的波长, 看看不同出射方向的idler光phase matching的程度. 
+
+场景解释(画板):...
++[画板](+新画板,场景解释)
+计算(M函数):...
+
+
+## end
+#240, 1623:
+%{
++[M函数](,计算)
+%}
+
+physics_constant;
+addpath('Matlab\TOPAS');
+
+Energy0=20e-3;
+w0=2e-3;
+tau=300e-15;
+dz=8e-3;
+X2=-1e-13;
+
+lambda_0=0.8e-6;
+lambda_1=1.4e-6;
+angle=21; 
+
+% E0
+I0=2*Energy0/sqrt(pi)/pi/w0^2/tau;
+E0=sqrt(I0/epsilon_0/c);
+
+% phase match
+k0=[sind(angle),0,cosd(angle)];
+
+theta=linspace(0,pi,10)+angle/180*pi;
+phi=linspace(0,2*pi,20);
+[Theta,Phi]=meshgrid(theta,phi);
+Kx=sin(Theta).*cos(Phi);
+Ky=sin(Theta).*sin(Phi);
+Kz=cos(Theta);
+
+G=zeros(size(Kx));
+dK2=zeros(size(Kx));
+
+for i=1:length(phi)
+    for j=1:length(theta)
+        k=[Kx(i,j),Ky(i,j),Kz(i,j)];
+        
+        %DFG
+        lambda_2=1/(1/lambda_0-1/lambda_1);
+        
+        %eoo
+        [~,n0]=BBO_index(lambda_0,k0);
+        [n1,~]=BBO_index(lambda_1,k0);
+        [n2,~]=BBO_index(lambda_2,k);
+        
+        dk=2*pi*(n0/lambda_0*k0-n1/lambda_1*k0-n2/lambda_2*k);
+        dK2(i,j)=sqrt(sum(dk.^2))*lambda_0;
+        
+        % Gain
+        k_0=2*pi*n0/lambda_0;
+        k_1=2*pi*n1/lambda_1;
+        k_2=2*pi*n2/lambda_2;
+        
+        omega_0=2*pi*c/lambda_0;
+        omega_1=2*pi*c/lambda_1;
+        omega_2=2*pi*c/lambda_2;
+        
+        g02=omega_1^2*omega_2^2/k_1/k_2/c^4*X2^2*abs(E0)^2;
+        g=sqrt(g02-sum(dk.^2));
+        A=exp(1i*dot(dk,k0)/2*dz).*(cosh(g*dz/2)-1i*dk/g*sinh(1/2*g*dz));
+        G(i,j)=sum(abs(A).^2);
+    
+    end
+end
+
+X=dK2.*Kx;
+Y=dK2.*Ky;
+Z=dK2.*Kz;
+
+X2=G.*Kx;
+Y2=G.*Ky;
+Z2=G.*Kz;
+
+subplot(2,2,1)
+hold on
+plot3(X,Y,Z,'b')
+plot3(X',Y',Z','b')
+axis equal
+shading interp
+
+subplot(2,2,2)
+hold on
+plot3(X2,Y2,Z2,'b')
+plot3(X2',Y2',Z2','b')
+axis equal
+
+subplot(2,1,2)
+plot(theta'/pi*180,G(1,:)')
+
+%{
++[M函数](,计算)
+%}
+## end
+#243, 1:
+1
+## end
+#244, 8:
+DashLine
+## end
+#245, 5:
+0,0,0
+## end
+#246, 12:
+55.0, -200.0
+## end
+#247, 39:
+-23.438251810250108, -69.10850330174998
+## end
+#253, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#255, 950:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+var pt1=[%起点];
+var pt2=[%终点];
+
+
+//arrows
+var angle=30/180*Math.PI;
+var l=20;
+var d=10;
+
+r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+if (r!=0) {
+    theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+}
+
+dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+
+pt10=[0,0];
+pt20=[0,0];
+pt10[0]=pt1[0];
+pt10[1]=pt1[1];
+pt20[0]=pt2[0];
+pt20[1]=pt2[1];
+
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+ctx.fillStyle='rgb(0,0,0,0)';
+
+
+ctx.beginPath();
+
+
+//ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+//ctx.lineTo(pt10[0],pt10[1]);
+//ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+
+ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+
+
+ctx.moveTo(pt10[0],pt10[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+
+ctx.stroke()
+ctx.fill()
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#256, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#258, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#259, 14:
++[返回目录]
++[内容]
+
+## end
+#262, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#266, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#267, 2:
+直线
+## end
+#268, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#269, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#275, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#285, 105:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#286, 4:
+z(e)
+## end
+#287, 4:
+x(o)
+## end
+#288, 2:
+NO
+## end
+#289, 7:
+0.5,0.5
+## end
+#290, 2:
+矩形
+## end
+#291, 21:
+339.0625, -311.640625
+## end
+#292, 22:
+-192.53125, 84.8203125
+## end
+#299, 137:
++[返回目录](,输入)
+
+面颜色::255,255,255
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+文字::测试
+字体::20
+尺寸::100,100
+起点::-200,100
+坐标范围::-1,1-1,1
+x坐标::x
+y坐标::y
+可选::NO
+
+## end
+#300, 14:
++[返回目录]
++[内容]
+
+## end
+#303, 655:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+
+var size=[%尺寸];
+var pos=[%起点];
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(255,255,255)';
+} else {
+	ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        ctx.strokeRect(%起点,%尺寸);
+}
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fillRect(%起点,%尺寸);
+}
+
+//ctx.strokeStyle='rgb(%线颜色)';
+//ctx.lineWidth=%线粗细;
+//ctx.strokeRect(%起点,%尺寸);
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font=%字体*2+'px serif'
+ctx.fillText('%文字',pos[0]+size[0]/2,pos[1]+size[1]/2);
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#304, 14:
++[返回目录]
++[内容]
+
+## end
+#307, 263:
+"""
++[返回目录](,选中区域)
+输入:...
++[设置结构](,输入)
+
+"""
+
+pt=起点
+pt0=mouse_pos
+size=尺寸
+
+X=[pt[0],pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]]
+
+if (pt0[0]-X[0])*(pt0[0]-X[1])<=0 and (pt0[1]-Y[0])*(pt0[1]-Y[1])<=0:
+    state=True
+else:
+    state=False
+
+
+if 可选=='NO':
+    state=False
+
+
+
+## end
+#308, 1487:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+def drawArrow(qp,pt1,pt2):
+    angle=30
+    l=30
+    D=0
+    d=10
+    
+    lineWidth=2
+    
+    edgeColor=[0,0,0]
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+    
+    r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+    if r!=0:
+        theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+    dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+    dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+    
+    pt10=[0,0]
+    pt20=[0,0]
+    pt10[0]=pt1[0]
+    pt10[1]=pt1[1]
+    pt20[0]=pt2[0]
+    pt20[1]=pt2[1]
+    
+    
+    path2=QPainterPath()
+    path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+    path2.lineTo(pt20[0],pt20[1])
+    path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+    
+    qp.drawPath(path2)
+    
+    
+    qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+    
+    qp.setBrush(QBrush())
+    qp.setPen(QPen())
+
+
+pt=起点
+size=尺寸
+orig=[pt[0]+size[0]*原点[0],pt[1]+size[1]*原点[1]]
+
+qp.setFont(QFont("Decorative",15))
+
+pt1=[pt[0],orig[1]]
+pt2=[pt[0]+size[0],orig[1]]
+qp.drawText(pt2[0],pt2[1],100,30,Qt.AlignLeft|Qt.AlignVCenter,x坐标)
+drawArrow(qp,pt1,pt2)
+
+pt1=[orig[0],pt[1]]
+pt2=[orig[0],pt[1]+size[1]]
+qp.drawText(pt2[0],pt2[1]-30,100,30,Qt.AlignLeft|Qt.AlignVCenter,y坐标)
+drawArrow(qp,pt1,pt2)
+
+
+qp.drawText(orig[0],orig[1],30,30,Qt.AlignHCenter|Qt.AlignVCenter,'O')
+qp.setFont(QFont())
+
+
+## end
+#309, 677:
+"""
++[返回目录](,选中框)
+
+"""
+
+
+X=[pt[0],pt[0]+size[0]/2,pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]/2,pt[1]+size[1]]
+R=6
+
+qp.setBrush(QBrush())
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[0]-R,2*R,2*R)
+
+if size[0]>30 or size[0]<-30:
+    qp.drawEllipse(X[1]-R,Y[0]-R,2*R,2*R)
+    qp.drawEllipse(X[1]-R,Y[2]-R,2*R,2*R)
+
+if size[1]>30 or size[1]<-30:
+    qp.drawEllipse(X[0]-R,Y[1]-R,2*R,2*R)
+    qp.drawEllipse(X[2]-R,Y[1]-R,2*R,2*R)
+
+
+qp.drawEllipse(X[0]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+## end
+#315, 1487:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+def drawArrow(qp,pt1,pt2):
+    angle=30
+    l=30
+    D=0
+    d=10
+    
+    lineWidth=2
+    
+    edgeColor=[0,0,0]
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+    
+    r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+    if r!=0:
+        theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+    dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+    dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+    
+    pt10=[0,0]
+    pt20=[0,0]
+    pt10[0]=pt1[0]
+    pt10[1]=pt1[1]
+    pt20[0]=pt2[0]
+    pt20[1]=pt2[1]
+    
+    
+    path2=QPainterPath()
+    path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+    path2.lineTo(pt20[0],pt20[1])
+    path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+    
+    qp.drawPath(path2)
+    
+    
+    qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+    
+    qp.setBrush(QBrush())
+    qp.setPen(QPen())
+
+
+pt=起点
+size=尺寸
+orig=[pt[0]+size[0]*原点[0],pt[1]+size[1]*原点[1]]
+
+qp.setFont(QFont("Decorative",15))
+
+pt1=[pt[0],orig[1]]
+pt2=[pt[0]+size[0],orig[1]]
+qp.drawText(pt2[0],pt2[1],100,30,Qt.AlignLeft|Qt.AlignVCenter,x坐标)
+drawArrow(qp,pt1,pt2)
+
+pt1=[orig[0],pt[1]]
+pt2=[orig[0],pt[1]+size[1]]
+qp.drawText(pt2[0],pt2[1]-30,100,30,Qt.AlignLeft|Qt.AlignVCenter,y坐标)
+drawArrow(qp,pt1,pt2)
+
+
+qp.drawText(orig[0],orig[1],30,30,Qt.AlignHCenter|Qt.AlignVCenter,'O')
+qp.setFont(QFont())
+
+
+## end
+#326, 146:
++[返回目录](,坐标系)
++[设置结构](,坐标系)
+
+起点::-200,100
+尺寸::100,100
+类型::矩形
+
+原点::0.5,0.5
+x坐标::x(o)
+y坐标::z(e)
+
+可选::NO
+
+画图:...
+选中区域:...
+HTML:...
+
++[创建输入](可选,画图)
+
+
+
+## end
+#327, 2:
+NO
+## end
+#328, 62:
+R=5
+t=np.linspace(0,2*np.pi,300)
+x=R*np.cos(t)
+y=2*R*np.sin(t)
+## end
+#329, 3:
+0,0
+## end
+#330, 3:
+0.1
+## end
+#331, 5:
+0,0,0
+## end
+#332, 4:
+None
+## end
+#333, 1:
+2
+## end
+#334, 8:
+DashLine
+## end
+#335, 2:
+矩形
+## end
+#336, 28:
+-164.875, 283.30501923828126
+## end
+#337, 28:
+59.4375, -210.65250961914063
+## end
+#348, 143:
++[返回目录](,输入)
+
+面颜色::255,255,255
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+文字::测试
+字体::20
+尺寸::100,100
+起点::-200,100
+中心位置::0,-10
+分辨率::0.1
+函数::y=x**2/10
+可选::NO
+
+## end
+#349, 14:
++[返回目录]
++[内容]
+
+## end
+#352, 655:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+
+var size=[%尺寸];
+var pos=[%起点];
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(255,255,255)';
+} else {
+	ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        ctx.strokeRect(%起点,%尺寸);
+}
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fillRect(%起点,%尺寸);
+}
+
+//ctx.strokeStyle='rgb(%线颜色)';
+//ctx.lineWidth=%线粗细;
+//ctx.strokeRect(%起点,%尺寸);
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font=%字体*2+'px serif'
+ctx.fillText('%文字',pos[0]+size[0]/2,pos[1]+size[1]/2);
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#353, 14:
++[返回目录]
++[内容]
+
+## end
+#356, 261:
+"""
++[返回目录](,选中区域)
+输入:...
++[设置结构](,输入)
+
+"""
+
+pt=起点
+pt0=mouse_pos
+size=尺寸
+
+X=[pt[0],pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]]
+
+if (pt0[0]-X[0])*(pt0[0]-X[1])<=0 and (pt0[1]-Y[0])*(pt0[1]-Y[1])<=0:
+    state=True
+else:
+    state=False
+
+if 可选=='NO':
+    state=False
+
+
+## end
+#357, 921:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+pt=起点
+size=尺寸
+
+lineWidth=线粗细[0]
+lineType=线型
+
+dx=分辨率[0]
+orig=中心位置
+
+Nx=np.abs(size[0])
+x=np.linspace(-Nx*dx/2,Nx*dx/2,Nx)+orig[0]
+y=0*x
+exec(函数)
+
+x_p=x/dx+pt[0]+size[0]/2
+y_p=-y/dx+pt[1]+size[1]/2+orig[1]
+
+
+path=QPainterPath()
+move=True
+for i in range(len(x_p)):
+    if (y_p[i]-pt[1])*(y_p[i]-pt[1]-size[1])>0:
+        if 面颜色=='None':
+            move=True
+        continue
+    if move:
+        path.moveTo(x_p[i],y_p[i])
+        move=False
+    else:
+        path.lineTo(x_p[i],y_p[i])
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawPath(path)
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+
+
+
+
+## end
+#358, 677:
+"""
++[返回目录](,选中框)
+
+"""
+
+
+X=[pt[0],pt[0]+size[0]/2,pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]/2,pt[1]+size[1]]
+R=6
+
+qp.setBrush(QBrush())
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[0]-R,2*R,2*R)
+
+if size[0]>30 or size[0]<-30:
+    qp.drawEllipse(X[1]-R,Y[0]-R,2*R,2*R)
+    qp.drawEllipse(X[1]-R,Y[2]-R,2*R,2*R)
+
+if size[1]>30 or size[1]<-30:
+    qp.drawEllipse(X[0]-R,Y[1]-R,2*R,2*R)
+    qp.drawEllipse(X[2]-R,Y[1]-R,2*R,2*R)
+
+
+qp.drawEllipse(X[0]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+## end
+#364, 921:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+pt=起点
+size=尺寸
+
+lineWidth=线粗细[0]
+lineType=线型
+
+dx=分辨率[0]
+orig=中心位置
+
+Nx=np.abs(size[0])
+x=np.linspace(-Nx*dx/2,Nx*dx/2,Nx)+orig[0]
+y=0*x
+exec(函数)
+
+x_p=x/dx+pt[0]+size[0]/2
+y_p=-y/dx+pt[1]+size[1]/2+orig[1]
+
+
+path=QPainterPath()
+move=True
+for i in range(len(x_p)):
+    if (y_p[i]-pt[1])*(y_p[i]-pt[1]-size[1])>0:
+        if 面颜色=='None':
+            move=True
+        continue
+    if move:
+        path.moveTo(x_p[i],y_p[i])
+        move=False
+    else:
+        path.lineTo(x_p[i],y_p[i])
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawPath(path)
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+
+
+
+
+## end
+#379, 240:
++[返回目录](,矩形)
++[设置结构](,矩形)
+
+起点::-200,100
+尺寸::100,100
+类型::矩形
+
+中心位置::0,0
+分辨率::0.1
+函数::R=5
+t=np.linspace(0,2*np.pi,300)
+x=R*np.cos(t)
+y=2*R*np.sin(t)
+
+可选::NO
+
+面颜色::None
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+
++[创建输入](可选,画图)
+
+
+
+## end
+#384, 129:
++[返回目录](,场景解释)
+
+折射率椭圆:...
++[创建函数曲线](,折射率椭圆)
+坐标系:...
++[创建坐标系](,坐标系)
+
+pump光方向:...
+signal光方向:...
+idler光方向:...
++[创建单向箭头](,idler光方向)
+
+
+## end
+#388, 1:
+1
+## end
+#390, 8:
+958, 476
+## end
+#392, 10:
+0.0, -50.0
+## end
+#396, 105:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#406, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#412, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#413, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#414, 2:
+直线
+## end
+#415, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#419, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#422, 14:
++[返回目录]
++[内容]
+
+## end
+#423, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#425, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#426, 950:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+var pt1=[%起点];
+var pt2=[%终点];
+
+
+//arrows
+var angle=30/180*Math.PI;
+var l=20;
+var d=10;
+
+r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+if (r!=0) {
+    theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+}
+
+dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+
+pt10=[0,0];
+pt20=[0,0];
+pt10[0]=pt1[0];
+pt10[1]=pt1[1];
+pt20[0]=pt2[0];
+pt20[1]=pt2[1];
+
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+ctx.fillStyle='rgb(0,0,0,0)';
+
+
+ctx.beginPath();
+
+
+//ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+//ctx.lineTo(pt10[0],pt10[1]);
+//ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+
+ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+
+
+ctx.moveTo(pt10[0],pt10[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+
+ctx.stroke()
+ctx.fill()
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#428, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#434, 39:
+-18.438251810250108, -73.10850330174998
+## end
+#435, 12:
+27.0, -146.0
+## end
+#436, 5:
+0,0,0
+## end
+#437, 8:
+DashLine
+## end
+#438, 1:
+1
+## end
+#440, 105:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#450, 1405:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+
+def drawArrow(qp,pt1,pt2):
+    angle=30
+    l=30
+    D=0
+    d=10
+    
+    lineWidth=线粗细[0]
+    lineType=线型
+    
+    if len(线颜色)==0:
+        qp.setPen(QPen())
+    else:
+        edgeColor=线颜色
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+        qp.setBrush(QBrush())
+    
+    r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+    if r!=0:
+        theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+    dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+    dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+    
+    pt10=[0,0]
+    pt20=[0,0]
+    pt10[0]=pt1[0]
+    pt10[1]=pt1[1]
+    pt20[0]=pt2[0]
+    pt20[1]=pt2[1]
+    
+    
+    path2=QPainterPath()
+    path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+    path2.lineTo(pt20[0],pt20[1])
+    path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+    
+    qp.drawPath(path2)
+    
+    
+    qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+    
+    qp.setBrush(QBrush())
+    qp.setPen(QPen())
+
+pt1=起点
+pt2=终点
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+theta0=-np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r)
+
+dtheta=np.deg2rad(np.linspace(-45,45,5))
+theta=theta0+dtheta
+
+for t in theta:
+    dx=r*np.cos(t)
+    dy=r*np.sin(t)
+    pt=[pt1[0]+dx,pt1[1]+dy]
+    drawArrow(qp,pt1,pt)
+
+
+
+
+## end
+#456, 1405:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+
+def drawArrow(qp,pt1,pt2):
+    angle=30
+    l=30
+    D=0
+    d=10
+    
+    lineWidth=线粗细[0]
+    lineType=线型
+    
+    if len(线颜色)==0:
+        qp.setPen(QPen())
+    else:
+        edgeColor=线颜色
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+        qp.setBrush(QBrush())
+    
+    r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+    if r!=0:
+        theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+    dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+    dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+    
+    pt10=[0,0]
+    pt20=[0,0]
+    pt10[0]=pt1[0]
+    pt10[1]=pt1[1]
+    pt20[0]=pt2[0]
+    pt20[1]=pt2[1]
+    
+    
+    path2=QPainterPath()
+    path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+    path2.lineTo(pt20[0],pt20[1])
+    path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+    
+    qp.drawPath(path2)
+    
+    
+    qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+    
+    qp.setBrush(QBrush())
+    qp.setPen(QPen())
+
+pt1=起点
+pt2=终点
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+theta0=-np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r)
+
+dtheta=np.deg2rad(np.linspace(-45,45,5))
+theta=theta0+dtheta
+
+for t in theta:
+    dx=r*np.cos(t)
+    dy=r*np.sin(t)
+    pt=[pt1[0]+dx,pt1[1]+dy]
+    drawArrow(qp,pt1,pt)
+
+
+
+
+## end
+#457, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#458, 2:
+直线
+## end
+#459, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#463, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#466, 14:
++[返回目录]
++[内容]
+
+## end
+#467, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#469, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#470, 950:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+var pt1=[%起点];
+var pt2=[%终点];
+
+
+//arrows
+var angle=30/180*Math.PI;
+var l=20;
+var d=10;
+
+r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+if (r!=0) {
+    theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+}
+
+dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+
+pt10=[0,0];
+pt20=[0,0];
+pt10[0]=pt1[0];
+pt10[1]=pt1[1];
+pt20[0]=pt2[0];
+pt20[1]=pt2[1];
+
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+ctx.fillStyle='rgb(0,0,0,0)';
+
+
+ctx.beginPath();
+
+
+//ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+//ctx.lineTo(pt10[0],pt10[1]);
+//ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+
+ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+
+
+ctx.moveTo(pt10[0],pt10[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+
+ctx.stroke()
+ctx.fill()
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#472, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#478, 38:
+29.390437047437473, -144.7771258254375
+## end
+#479, 37:
+88.60956295256253, -237.2228741745625
+## end
+#480, 5:
+0,0,0
+## end
+#481, 8:
+DashLine
+## end
+#482, 1:
+1
+## end
+#483, 3:
+489
+## end
+#486, 229:
++[返回目录](,Hussar)
+地址::C:\Users\cheng\Desktop\Laser\tools\OPA\Hussar-1.3-p
+网站::http://ufs.edu.pl/index.php?article=hussar
++[打开](,地址)
+
+需要用Matlab 2014b运行程序. 
+似乎不应该指望用那个方程可以计算有光谱的pump光. 但是程序中可以设置光谱, 所以, 之后可以试一试. 
+现在先不管. 
+
+调试记录:...
+
+
+
+
+## end
+#488, 51:
+C:\Users\cheng\Desktop\Laser\tools\OPA\Hussar-1.3-p
+## end
+#489, 3:
+501
+## end
+#492, 3:
+...
+## end
+#494, 16:
+文档\S应用\网页画板.ftxt
+## end
+#495, 3:
+500
+## end
+#497, 3:
+503
+## end
+#500, 23:
+文档\物理问题\TOPAS双光斑问题.ftxt
+## end
+#501, 3:
+503
+## end
+#503, 3:
+505
+## end
+#505, 3:
+515
+## end
+#508, 298:
++[返回目录](,调试记录)
+
+在work\tutorial\T6_OPA的基础上, 使用了实验室参数运行了一下. 
+测试程序1(M2014):...
+
+波长限制问题(已解决):...
+
+那么接下来我们可以研究一下哪些因素会有比较重要的影响. 
+基本上扫一维的参数吧. 比如说, 泵光的duration, 信号光的duration, profile, energy. 
+再就是研究角度和偏振方向. 
+先改code. 不监测中间的变化过程, 只输出结果. 
+OPA_Gain(M函数):...
+扫参数:...
+工作流程:...
+记住扫参数(节点)
+记住OPA_Gain(节点)
+
+日志:...
+
+
+
+## end
+#510, 6675:
+%{
++[返回目录](,测试程序1)
+
+对比例子(M2014):...
+%}
+
+%% clean up
+clc;
+close all;
+clear all;
+format long e;
+
+
+%% include Hussar
+run('../../includeAll');
+
+%% space
+space = CSpace('TXY');
+
+fTimeSpan = 3e-12; % time window span in SI units [s]
+iTimeSize = 2^9;   % number of time grid points
+space.setDimension('T', fTimeSpan, iTimeSize);
+space.setDimension('X', 40e-3, 2^5);
+space.setDimension('Y', 40e-3, 2^5);
+
+%% envelopes
+%signal
+fSignalWavelength = 1500e-9;
+AS = CEnvelope('A_S', space, fSignalWavelength);
+
+composer = CPulseComposer(space);
+composer.append('T', CSincPF('FWHM', 50e-15));
+composer.append('X',  CGaussPF('Waist', 4e-3));
+composer.append('Y', CGaussPF('Waist', 4e-3));
+fSignalEnergy = 60e-6;
+AS.put(fSignalEnergy, composer);
+
+% Signal pre streaching - could also be done through propagation
+mStreach = Sapphire();
+fStreachMaterialThickness = 5e-3;
+fBeta2 = mStreach.dispersion(fSignalWavelength, 2, 0);
+AS.addSpectralPhase([0 0 fBeta2*fStreachMaterialThickness]);
+
+%pump
+fPumpWavelength = 715e-9;
+AP = CEnvelope('A_P', space, fPumpWavelength);
+
+composer = CPulseComposer(space);
+composer.append('T', CGaussPF('FWHM', 90e-15));
+composer.append('X', CGaussPF('Waist', 20e-3));
+composer.append('Y', CGaussPF('Waist', 20e-3));
+
+fPumpEnergy = 28e-3;
+AP.put(fPumpEnergy, composer);
+
+%idler
+fIdlerWavelength = 1/(1/fPumpWavelength - 1/fSignalWavelength);
+AI = CEnvelope('A_I', space, fIdlerWavelength);
+
+
+A(1) = AI;
+A(2) = AS;
+A(3) = AP;
+
+%% materials
+%start in vacuum
+vacuum = Vacuum();
+mmVacuum = CMaterialManager(vacuum, 0);
+
+%nonlinear medium
+m = BBO();
+fCrystalThickness = 2e-3;
+
+fPhi = 90*pi/180;
+fTheta = m.phaseMatch([fIdlerWavelength fSignalWavelength], ...
+    ['o' 'o'], fPumpWavelength, 'e', pi/4);
+deff = m.getDeff([fIdlerWavelength fSignalWavelength, ...
+    fPumpWavelength], ['o' 'o' 'e'], fTheta, fPhi);
+
+mm = CMaterialManager(m, fCrystalThickness, fTheta);
+
+
+%% initial pulses temporal and spatial separation (cross the pulses in
+% the center of the medium)
+% group velocity mismatch
+[fSigV] = m.groupVelocity(fSignalWavelength, fTheta, fPhi);
+[~, fPumpV] = m.groupVelocity(fPumpWavelength, fTheta, fPhi);
+GVM = (1/fSigV - 1/fPumpV); % s/m
+
+AP.addSpectralPhase([0, 0.5*fCrystalThickness * GVM ]); % delay
+
+% walk-off and non-collinearity
+[fWalkOffAngleE] = m.getWalkOffAngles(fPumpWavelength, fTheta);
+fPumpXShift = -0.5* fCrystalThickness * tan(fWalkOffAngleE);
+
+AP.shiftInSpace('X', fPumpXShift);
+
+
+
+%% back propagation
+% get the flat pulse front in the center of the crystal
+[n] = m.refractiveIndex(fIdlerWavelength, fTheta);
+vRefractiveIndices(1) = n;
+[n] = m.refractiveIndex(fSignalWavelength, fTheta);
+vRefractiveIndices(2) = n;
+vBackPropagateLength(2) = 0.5*fCrystalThickness * n;
+[~, n] = m.refractiveIndex(fPumpWavelength, fTheta);
+vRefractiveIndices(3) = n;
+vBackPropagateLength(3) = 0.5*fCrystalThickness * n;
+
+
+for it = 2:3 % only the signal and the pump
+    Ai = A(it);
+    backPropagateMM = CMaterialManager(vacuum, vBackPropagateLength(it));
+    pm = CPropagationManager(backPropagateMM, Ai, 'o');
+    dp = CProcessContainer(pm);
+    
+    le = CLinearEffects('BackPropagation', 'on');
+    dp.addProcess(le);
+    
+    ee = CExpEuler(dp, 1);
+    stepper = CConstantStepSizeStepper(ee, 1);
+    
+    %% Listeners
+    caColor = {'m', 'r', 'g'}; % colors for the envelopes
+    
+    hFig = figure('Position', [100+(it-2)*520, 100, 500, 800]);
+    lfigure = CListenerFigure([3 1], hFig);
+    
+    hEnergyListener = CEnergyListener({caColor{it}});
+    hEnergyListener.placeOn(lfigure, [1]);
+    stepper.addListener(hEnergyListener);
+    
+    visual = C3DVisualizeListener({caColor{it}});
+    visual.placeOn(lfigure, [2 3], 1);
+    stepper.addListener(visual);
+    
+    %% solve!
+    Ai = stepper.solve(Ai);
+end
+
+
+interface = CInterface(mmVacuum, mm);
+A = interface.transfer(A, 'ooo', 'ooe');
+
+%% nonlinear propagation
+
+pm = CPropagationManager(mm, A, 'ooe');
+dp = CProcessContainer(pm);
+
+dp.addProcess(CLinearEffects());
+dp.addProcess(OPA(deff));
+n2 = 6e-20; % m^2/W
+dp.addProcess(SPM(n2));
+dp.addProcess(XPM(n2));
+
+% method = CRK45Method(dp, space, length(A), 'Dormand-Prince');
+method = CIFRK45Method(dp, space, length(A), 'Dormand-Prince');
+
+stepper = CHairerStepper(method);
+
+fAccuracy = 1e-6;
+fMinStepSize = 0.5e-6;
+fMaxAmplitude = max(max(max(AP.m_mGrid)));
+stepper.setAccuracy(fAccuracy, 0.1*fAccuracy*fMaxAmplitude, fMinStepSize);
+
+%% Listeners
+
+caColor = {'m', 'r', 'g'};
+
+hFig = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig,'Renderer','zbuffer');
+lfigure = CListenerFigure([1 3], hFig);
+
+hFig2 = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig2,'Renderer','zbuffer');
+lfigure2 = CListenerFigure([2 3], hFig2);
+
+hFig3 = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig3,'Renderer','zbuffer');
+lfigure3 = CListenerFigure([2 2], hFig3);
+
+
+hEnergyListener = CEnergyListener(caColor);
+hEnergyListener.setRefractiveIndex(vRefractiveIndices); % more or less
+hEnergyListener.placeOn(lfigure3, 1);
+hEnergyListener.setPlotType(@plot);
+hEnergyListener.setVisible([1, 1, 0]);
+hEnergyListener.setAxesUnits( 'Energy', 'nJ');
+stepper.addListener(hEnergyListener);
+
+hEnergyListener2 = CEnergyListener(caColor);
+hEnergyListener2.setRefractiveIndex(vRefractiveIndices); % more or less
+hEnergyListener2.placeOn(lfigure3, 2);
+hEnergyListener2.setPlotType(@semilogy);
+hEnergyListener2.setAxesUnits( 'Energy', 'nJ');
+stepper.addListener(hEnergyListener2);
+
+bpl1 = CProfileListener(1);
+bpl2 = CProfileListener(2);
+bpl3 = CProfileListener(3);
+bpl1.placeOn(lfigure2, 1, 1);
+bpl1.placeOn(lfigure2, 4, 2);
+bpl2.placeOn(lfigure2, 2, 1);
+bpl2.placeOn(lfigure2, 5, 2);
+bpl3.placeOn(lfigure2, 3, 1);
+bpl3.placeOn(lfigure2, 6, 2);
+stepper.addListener(bpl1);
+stepper.addListener(bpl2);
+stepper.addListener(bpl3);
+
+visual = C3DVisualizeListener(caColor); %, 'SHG (BBO)', gm);
+visual.placeOn(lfigure, 1, 1);
+stepper.addListener(visual);
+
+
+visual2 = CTrailListener(caColor); %, 'SHG (BBO)', gm);
+visual2.placeOn(lfigure, 2, 1);
+visual2.setGradientSteps([0.1 0.5]);
+visual2.setAlpha(0.2);
+visual2.setView(0,90);
+stepper.addListener(visual2);
+
+
+specL = CSpectrumListener(caColor, 'Wavelength');
+specL.placeOn(lfigure, 3);
+specL.normalize('on');
+stepper.addListener(specL);
+
+specL = CSpectrumListener(caColor);
+specL.placeOn(lfigure3, 3);
+specL.normalize('on');
+stepper.addListener(specL);
+
+tpl = CTimeProfileListener(caColor);
+tpl.placeOn(lfigure3, 4);
+tpl.setAxesUnits('Local Time', 'ps');
+stepper.addListener(tpl);
+
+%% solve
+A = stepper.solve(A);
+
+interface = CInterface(mm, mmVacuum);
+A = interface.transfer(A, 'ooe', 'ooo');
+
+disp(['output energy: ' num2str(1e12* AS.energy()) ' pJ']);
+
+## end
+#513, 6641:
+%% clean up
+clc;
+close all;
+clear all;
+format long e;
+
+
+%% include Hussar
+run('../../includeAll');
+
+%% space
+space = CSpace('TXY');
+
+fTimeSpan = 3e-12; % time window span in SI units [s]
+iTimeSize = 2^9;   % number of time grid points
+space.setDimension('T', fTimeSpan, iTimeSize);
+space.setDimension('X', 2e-3, 2^5);
+space.setDimension('Y', 2e-3, 2^5);
+
+%% envelopes
+%signal
+fSignalWavelength = 1500e-9;
+AS = CEnvelope('A_S', space, fSignalWavelength);
+
+composer = CPulseComposer(space);
+composer.append('T', CSincPF('FWHM', 200e-15));
+composer.append('X',  CGaussPF('Waist', 200e-6));
+composer.append('Y', CGaussPF('Waist', 200e-6));
+fSignalEnergy = 30e-9;
+AS.put(fSignalEnergy, composer);
+
+% Signal pre streaching - could also be done through propagation
+mStreach = Sapphire();
+fStreachMaterialThickness = 5e-3;
+fBeta2 = mStreach.dispersion(fSignalWavelength, 2, 0);
+AS.addSpectralPhase([0 0 fBeta2*fStreachMaterialThickness]);
+
+%pump
+fPumpWavelength = 795e-9;
+AP = CEnvelope('A_P', space, fPumpWavelength);
+
+composer = CPulseComposer(space);
+composer.append('T', CGaussPF('FWHM', 170e-15));
+composer.append('X', CGaussPF('Waist', 200e-6));
+composer.append('Y', CGaussPF('Waist', 200e-6));
+
+fPumpEnergy = 10e-6;
+AP.put(fPumpEnergy, composer);
+
+%idler
+fIdlerWavelength = 1/(1/fPumpWavelength - 1/fSignalWavelength);
+AI = CEnvelope('A_I', space, fIdlerWavelength);
+
+
+A(1) = AI;
+A(2) = AS;
+A(3) = AP;
+
+%% materials
+%start in vacuum
+vacuum = Vacuum();
+mmVacuum = CMaterialManager(vacuum, 0);
+
+%nonlinear medium
+m = BBO();
+fCrystalThickness = 1e-3;
+
+fPhi = 90*pi/180;
+fTheta = m.phaseMatch([fIdlerWavelength fSignalWavelength], ...
+    ['o' 'o'], fPumpWavelength, 'e', pi/4);
+deff = m.getDeff([fIdlerWavelength fSignalWavelength, ...
+    fPumpWavelength], ['o' 'o' 'e'], fTheta, fPhi);
+
+mm = CMaterialManager(m, fCrystalThickness, fTheta);
+
+
+%% initial pulses temporal and spatial separation (cross the pulses in
+% the center of the medium)
+% group velocity mismatch
+[fSigV] = m.groupVelocity(fSignalWavelength, fTheta, fPhi);
+[~, fPumpV] = m.groupVelocity(fPumpWavelength, fTheta, fPhi);
+GVM = (1/fSigV - 1/fPumpV); % s/m
+
+AP.addSpectralPhase([0, 0.5*fCrystalThickness * GVM ]); % delay
+
+% walk-off and non-collinearity
+[fWalkOffAngleE] = m.getWalkOffAngles(fPumpWavelength, fTheta);
+fPumpXShift = -0.5* fCrystalThickness * tan(fWalkOffAngleE);
+
+AP.shiftInSpace('X', fPumpXShift);
+
+
+
+%% back propagation
+% get the flat pulse front in the center of the crystal
+[n] = m.refractiveIndex(fIdlerWavelength, fTheta);
+vRefractiveIndices(1) = n;
+[n] = m.refractiveIndex(fSignalWavelength, fTheta);
+vRefractiveIndices(2) = n;
+vBackPropagateLength(2) = 0.5*fCrystalThickness * n;
+[~, n] = m.refractiveIndex(fPumpWavelength, fTheta);
+vRefractiveIndices(3) = n;
+vBackPropagateLength(3) = 0.5*fCrystalThickness * n;
+
+
+for it = 2:3 % only the signal and the pump
+    Ai = A(it);
+    backPropagateMM = CMaterialManager(vacuum, vBackPropagateLength(it));
+    pm = CPropagationManager(backPropagateMM, Ai, 'o');
+    dp = CProcessContainer(pm);
+    
+    le = CLinearEffects('BackPropagation', 'on');
+    dp.addProcess(le);
+    
+    ee = CExpEuler(dp, 1);
+    stepper = CConstantStepSizeStepper(ee, 1);
+    
+    %% Listeners
+    caColor = {'m', 'r', 'g'}; % colors for the envelopes
+    
+    hFig = figure('Position', [100+(it-2)*520, 100, 500, 800]);
+    lfigure = CListenerFigure([3 1], hFig);
+    
+    hEnergyListener = CEnergyListener({caColor{it}});
+    hEnergyListener.placeOn(lfigure, [1]);
+    stepper.addListener(hEnergyListener);
+    
+    visual = C3DVisualizeListener({caColor{it}});
+    visual.placeOn(lfigure, [2 3], 1);
+    stepper.addListener(visual);
+    
+    %% solve!
+    Ai = stepper.solve(Ai);
+end
+
+
+interface = CInterface(mmVacuum, mm);
+A = interface.transfer(A, 'ooo', 'ooe');
+
+%% nonlinear propagation
+
+pm = CPropagationManager(mm, A, 'ooe');
+dp = CProcessContainer(pm);
+
+dp.addProcess(CLinearEffects());
+dp.addProcess(OPA(deff));
+n2 = 6e-20; % m^2/W
+dp.addProcess(SPM(n2));
+dp.addProcess(XPM(n2));
+
+% method = CRK45Method(dp, space, length(A), 'Dormand-Prince');
+method = CIFRK45Method(dp, space, length(A), 'Dormand-Prince');
+
+stepper = CHairerStepper(method);
+
+fAccuracy = 1e-6;
+fMinStepSize = 0.5e-6;
+fMaxAmplitude = max(max(max(AP.m_mGrid)));
+stepper.setAccuracy(fAccuracy, 0.1*fAccuracy*fMaxAmplitude, fMinStepSize);
+
+%% Listeners
+
+caColor = {'m', 'r', 'g'};
+
+hFig = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig,'Renderer','zbuffer');
+lfigure = CListenerFigure([1 3], hFig);
+
+hFig2 = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig2,'Renderer','zbuffer');
+lfigure2 = CListenerFigure([2 3], hFig2);
+
+hFig3 = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig3,'Renderer','zbuffer');
+lfigure3 = CListenerFigure([2 2], hFig3);
+
+
+hEnergyListener = CEnergyListener(caColor);
+hEnergyListener.setRefractiveIndex(vRefractiveIndices); % more or less
+hEnergyListener.placeOn(lfigure3, 1);
+hEnergyListener.setPlotType(@plot);
+hEnergyListener.setVisible([1, 1, 0]);
+hEnergyListener.setAxesUnits( 'Energy', 'nJ');
+stepper.addListener(hEnergyListener);
+
+hEnergyListener2 = CEnergyListener(caColor);
+hEnergyListener2.setRefractiveIndex(vRefractiveIndices); % more or less
+hEnergyListener2.placeOn(lfigure3, 2);
+hEnergyListener2.setPlotType(@semilogy);
+hEnergyListener2.setAxesUnits( 'Energy', 'nJ');
+stepper.addListener(hEnergyListener2);
+
+bpl1 = CProfileListener(1);
+bpl2 = CProfileListener(2);
+bpl3 = CProfileListener(3);
+bpl1.placeOn(lfigure2, 1, 1);
+bpl1.placeOn(lfigure2, 4, 2);
+bpl2.placeOn(lfigure2, 2, 1);
+bpl2.placeOn(lfigure2, 5, 2);
+bpl3.placeOn(lfigure2, 3, 1);
+bpl3.placeOn(lfigure2, 6, 2);
+stepper.addListener(bpl1);
+stepper.addListener(bpl2);
+stepper.addListener(bpl3);
+
+visual = C3DVisualizeListener(caColor); %, 'SHG (BBO)', gm);
+visual.placeOn(lfigure, 1, 1);
+stepper.addListener(visual);
+
+
+visual2 = CTrailListener(caColor); %, 'SHG (BBO)', gm);
+visual2.placeOn(lfigure, 2, 1);
+visual2.setGradientSteps([0.1 0.5]);
+visual2.setAlpha(0.2);
+visual2.setView(0,90);
+stepper.addListener(visual2);
+
+
+specL = CSpectrumListener(caColor, 'Wavelength');
+specL.placeOn(lfigure, 3);
+specL.normalize('on');
+stepper.addListener(specL);
+
+specL = CSpectrumListener(caColor);
+specL.placeOn(lfigure3, 3);
+specL.normalize('on');
+stepper.addListener(specL);
+
+tpl = CTimeProfileListener(caColor);
+tpl.placeOn(lfigure3, 4);
+tpl.setAxesUnits('Local Time', 'ps');
+stepper.addListener(tpl);
+
+%% solve
+A = stepper.solve(A);
+
+interface = CInterface(mm, mmVacuum);
+A = interface.transfer(A, 'ooe', 'ooo');
+
+disp(['output energy: ' num2str(1e12* AS.energy()) ' pJ']);
+
+## end
+#515, 3:
+548
+## end
+#518, 332:
+错误信息
+Wavelength [1141.7658, 3250.2833] nm out of BBO formula limits: [220, 2660] nm.
+Wavelength [1141.7658, 3250.2833] nm out of BBO formula limits: [220, 2660] nm.
+
+interface是界面的意思... 那么我是不是可以不要这个呀. 
+back propagation是处理了光束在空气中的传播呀... 是因为要考虑双折射问题吧... 
+
+现在最主要的问题还是那个范围巨大的wavelength是怎么来的. 
+通过修改材料的m_fMaxWavelength绕开了这个问题. 
+
+代码:...
+
+
+
+
+## end
+#520, 6693:
+%% clean up
+clc;
+close all;
+clear all;
+format long e;
+
+
+%% include Hussar
+run('../../includeAll');
+
+%% space
+space = CSpace('TXY');
+
+fTimeSpan = 3e-12; % time window span in SI units [s]
+iTimeSize = 2^9;   % number of time grid points
+space.setDimension('T', fTimeSpan, iTimeSize);
+space.setDimension('X', 40e-3, 2^5);
+space.setDimension('Y', 40e-3, 2^5);
+
+%% envelopes
+% signal
+fSignalWavelength = 1800e-9;
+AS = CEnvelope('A_S', space, fSignalWavelength);
+
+composer = CPulseComposer(space);
+composer.append('T', CSincPF('FWHM', 100e-15));
+composer.append('X',  CGaussPF('Waist', 4e-3));
+composer.append('Y', CGaussPF('Waist', 4e-3));
+fSignalEnergy = 60e-6;
+AS.put(fSignalEnergy, composer);
+
+% Signal pre streaching - could also be done through propagation
+mStreach = Sapphire();
+fStreachMaterialThickness = 5e-3;
+fBeta2 = mStreach.dispersion(fSignalWavelength, 2, 0);
+AS.addSpectralPhase([0 0 fBeta2*fStreachMaterialThickness]);
+
+%pump
+fPumpWavelength = 795e-9;
+AP = CEnvelope('A_P', space, fPumpWavelength);
+
+composer = CPulseComposer(space);
+composer.append('T', CGaussPF('FWHM', 500e-15));
+composer.append('X', CGaussPF('Waist', 10e-3));
+composer.append('Y', CGaussPF('Waist', 10e-3));
+
+fPumpEnergy = 28e-3;
+AP.put(fPumpEnergy, composer);
+
+%idler
+fIdlerWavelength = 1/(1/fPumpWavelength - 1/fSignalWavelength);
+AI = CEnvelope('A_I', space, fIdlerWavelength);
+
+
+A(1) = AI;
+A(2) = AS;
+A(3) = AP;
+
+%% materials
+%start in vacuum
+vacuum = Vacuum();
+mmVacuum = CMaterialManager(vacuum, 0);
+
+%nonlinear medium
+m = BBO();
+fCrystalThickness = 2e-3;
+
+fPhi = 90*pi/180;
+fTheta = m.phaseMatch([fIdlerWavelength fSignalWavelength], ...
+    ['o' 'o'], fPumpWavelength, 'e', pi/4);
+deff = m.getDeff([fIdlerWavelength fSignalWavelength, ...
+    fPumpWavelength], ['o' 'o' 'e'], fTheta, fPhi);
+
+mm = CMaterialManager(m, fCrystalThickness, fTheta);
+
+
+%% initial pulses temporal and spatial separation (cross the pulses in
+% the center of the medium)
+% group velocity mismatch
+[fSigV] = m.groupVelocity(fSignalWavelength, fTheta, fPhi);
+[~, fPumpV] = m.groupVelocity(fPumpWavelength, fTheta, fPhi);
+GVM = (1/fSigV - 1/fPumpV); % s/m
+
+AP.addSpectralPhase([0, 0.5*fCrystalThickness * GVM ]); % delay
+
+% walk-off and non-collinearity
+[fWalkOffAngleE] = m.getWalkOffAngles(fPumpWavelength, fTheta);
+fPumpXShift = -0.5* fCrystalThickness * tan(fWalkOffAngleE);
+
+AP.shiftInSpace('X', fPumpXShift);
+
+
+
+%% back propagation
+% get the flat pulse front in the center of the crystal
+[n] = m.refractiveIndex(fIdlerWavelength, fTheta);
+vRefractiveIndices(1) = n;
+[n] = m.refractiveIndex(fSignalWavelength, fTheta);
+vRefractiveIndices(2) = n;
+vBackPropagateLength(2) = 0.5*fCrystalThickness * n;
+[~, n] = m.refractiveIndex(fPumpWavelength, fTheta);
+vRefractiveIndices(3) = n;
+vBackPropagateLength(3) = 0.5*fCrystalThickness * n;
+
+
+for it = 2:3 % only the signal and the pump
+    Ai = A(it);
+    backPropagateMM = CMaterialManager(vacuum, vBackPropagateLength(it));
+    pm = CPropagationManager(backPropagateMM, Ai, 'o');
+    dp = CProcessContainer(pm);
+    
+    le = CLinearEffects('BackPropagation', 'on');
+    dp.addProcess(le);
+    
+    ee = CExpEuler(dp, 1);
+    stepper = CConstantStepSizeStepper(ee, 1);
+    
+    %% Listeners
+    caColor = {'m', 'r', 'g'}; % colors for the envelopes
+    
+    hFig = figure('Position', [100+(it-2)*520, 100, 500, 800]);
+    lfigure = CListenerFigure([3 1], hFig);
+    
+    hEnergyListener = CEnergyListener({caColor{it}});
+    hEnergyListener.placeOn(lfigure, [1]);
+    stepper.addListener(hEnergyListener);
+    
+    visual = C3DVisualizeListener({caColor{it}});
+    visual.placeOn(lfigure, [2 3], 1);
+    stepper.addListener(visual);
+    
+    %% solve!
+    Ai = stepper.solve(Ai);
+end
+
+
+m.m_fMaxWavelength=4000e-9;
+interface = CInterface(mmVacuum, mm);
+A = interface.transfer(A, 'ooo', 'ooe');
+
+%% nonlinear propagation
+
+pm = CPropagationManager(mm, A, 'ooe');
+dp = CProcessContainer(pm);
+
+dp.addProcess(CLinearEffects());
+dp.addProcess(OPA(deff));
+n2 = 6e-20; % m^2/W
+dp.addProcess(SPM(n2));
+dp.addProcess(XPM(n2));
+
+% method = CRK45Method(dp, space, length(A), 'Dormand-Prince');
+method = CIFRK45Method(dp, space, length(A), 'Dormand-Prince');
+
+stepper = CHairerStepper(method);
+
+fAccuracy = 1e-6;
+fMinStepSize = 0.5e-6;
+fMaxAmplitude = max(max(max(AP.m_mGrid)));
+stepper.setAccuracy(fAccuracy, 0.1*fAccuracy*fMaxAmplitude, fMinStepSize);
+
+%% Listeners
+
+caColor = {'m', 'r', 'g'};
+
+hFig = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig,'Renderer','zbuffer');
+lfigure = CListenerFigure([1 3], hFig);
+
+hFig2 = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig2,'Renderer','zbuffer');
+lfigure2 = CListenerFigure([2 3], hFig2);
+
+hFig3 = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig3,'Renderer','zbuffer');
+lfigure3 = CListenerFigure([2 2], hFig3);
+
+
+hEnergyListener = CEnergyListener(caColor);
+hEnergyListener.setRefractiveIndex(vRefractiveIndices); % more or less
+hEnergyListener.placeOn(lfigure3, 1);
+hEnergyListener.setPlotType(@plot);
+hEnergyListener.setVisible([1, 1, 0]);
+hEnergyListener.setAxesUnits( 'Energy', 'nJ');
+stepper.addListener(hEnergyListener);
+
+hEnergyListener2 = CEnergyListener(caColor);
+hEnergyListener2.setRefractiveIndex(vRefractiveIndices); % more or less
+hEnergyListener2.placeOn(lfigure3, 2);
+hEnergyListener2.setPlotType(@semilogy);
+hEnergyListener2.setAxesUnits( 'Energy', 'nJ');
+stepper.addListener(hEnergyListener2);
+
+bpl1 = CProfileListener(1);
+bpl2 = CProfileListener(2);
+bpl3 = CProfileListener(3);
+bpl1.placeOn(lfigure2, 1, 1);
+bpl1.placeOn(lfigure2, 4, 2);
+bpl2.placeOn(lfigure2, 2, 1);
+bpl2.placeOn(lfigure2, 5, 2);
+bpl3.placeOn(lfigure2, 3, 1);
+bpl3.placeOn(lfigure2, 6, 2);
+stepper.addListener(bpl1);
+stepper.addListener(bpl2);
+stepper.addListener(bpl3);
+
+visual = C3DVisualizeListener(caColor); %, 'SHG (BBO)', gm);
+visual.placeOn(lfigure, 1, 1);
+stepper.addListener(visual);
+
+
+visual2 = CTrailListener(caColor); %, 'SHG (BBO)', gm);
+visual2.placeOn(lfigure, 2, 1);
+visual2.setGradientSteps([0.1 0.5]);
+visual2.setAlpha(0.2);
+visual2.setView(0,90);
+stepper.addListener(visual2);
+
+
+specL = CSpectrumListener(caColor, 'Wavelength');
+specL.placeOn(lfigure, 3);
+specL.normalize('on');
+stepper.addListener(specL);
+
+specL = CSpectrumListener(caColor);
+specL.placeOn(lfigure3, 3);
+specL.normalize('on');
+stepper.addListener(specL);
+
+tpl = CTimeProfileListener(caColor);
+tpl.placeOn(lfigure3, 4);
+tpl.setAxesUnits('Local Time', 'ps');
+stepper.addListener(tpl);
+
+%% solve
+A = stepper.solve(A);
+
+interface = CInterface(mm, mmVacuum);
+A = interface.transfer(A, 'ooe', 'ooo');
+
+disp(['output energy: ' num2str(1e12* AS.energy()) ' pJ']);
+
+AS.energy()/fSignalEnergy
+
+## end
+#522, 5002:
+%{
++[返回目录](,OPA_Gain)
+
+地址::C:\Users\cheng\Desktop\Laser\tools\OPA\Hussar-1.3-p\work\tutorial\OPA_Gain.m
++[保存文本](,OPA_Gain)
+
+%}
+
+function [ES,EI,EP]=OPA_Gain(pump_lm,pump_tau,pump_w0,pump_energy,sign_lm,sign_tau,sign_w0,sign_energy)
+format long e;
+
+%pump_lm=795e-9;
+%pump_tau=50e-15;
+%pump_w0=20e-3;
+%pump_energy=28e-3;
+
+%sign_lm=1.8e-6;
+%sign_tau=100e-15;
+%sign_w0=4e-3;
+%sign_energy=60e-6;
+
+
+%% include Hussar
+run('../../includeAll');
+
+%% space
+space = CSpace('TXY');
+
+fTimeSpan = 3e-12; % time window span in SI units [s]
+iTimeSize = 2^9;   % number of time grid points
+space.setDimension('T', fTimeSpan, iTimeSize);
+space.setDimension('X', 40e-3, 2^5);
+space.setDimension('Y', 40e-3, 2^5);
+
+%% envelopes
+%signal
+fSignalWavelength = sign_lm;
+AS = CEnvelope('A_S', space, fSignalWavelength);
+
+composer = CPulseComposer(space);
+composer.append('T', CSincPF('FWHM', sign_tau));
+composer.append('X',  CGaussPF('Waist', sign_w0));
+composer.append('Y', CGaussPF('Waist', sign_w0));
+fSignalEnergy = sign_energy;
+AS.put(fSignalEnergy, composer);
+
+% Signal pre streaching - could also be done through propagation
+mStreach = Sapphire();
+fStreachMaterialThickness = 5e-3;
+fBeta2 = mStreach.dispersion(fSignalWavelength, 2, 0);
+AS.addSpectralPhase([0 0 fBeta2*fStreachMaterialThickness]);
+
+%pump
+fPumpWavelength = pump_lm;
+AP = CEnvelope('A_P', space, fPumpWavelength);
+
+composer = CPulseComposer(space);
+composer.append('T', CGaussPF('FWHM', pump_tau));
+composer.append('X', CGaussPF('Waist', pump_w0));
+composer.append('Y', CGaussPF('Waist', pump_w0));
+
+fPumpEnergy = pump_energy;
+AP.put(fPumpEnergy, composer);
+
+%idler
+fIdlerWavelength = 1/(1/fPumpWavelength - 1/fSignalWavelength);
+AI = CEnvelope('A_I', space, fIdlerWavelength);
+
+
+A(1) = AI;
+A(2) = AS;
+A(3) = AP;
+
+%% materials
+%start in vacuum
+vacuum = Vacuum();
+mmVacuum = CMaterialManager(vacuum, 0);
+
+%nonlinear medium
+m = BBO();
+fCrystalThickness = 2e-3;
+
+fPhi = 90*pi/180;
+fTheta = m.phaseMatch([fIdlerWavelength fSignalWavelength], ...
+    ['o' 'o'], fPumpWavelength, 'e', pi/4);
+deff = m.getDeff([fIdlerWavelength fSignalWavelength, ...
+    fPumpWavelength], ['o' 'o' 'e'], fTheta, fPhi);
+
+mm = CMaterialManager(m, fCrystalThickness, fTheta);
+
+
+%% initial pulses temporal and spatial separation (cross the pulses in
+% the center of the medium)
+% group velocity mismatch
+[fSigV] = m.groupVelocity(fSignalWavelength, fTheta, fPhi);
+[~, fPumpV] = m.groupVelocity(fPumpWavelength, fTheta, fPhi);
+GVM = (1/fSigV - 1/fPumpV); % s/m
+
+AP.addSpectralPhase([0, 0.5*fCrystalThickness * GVM ]); % delay
+
+% walk-off and non-collinearity
+[fWalkOffAngleE] = m.getWalkOffAngles(fPumpWavelength, fTheta);
+fPumpXShift = -0.5* fCrystalThickness * tan(fWalkOffAngleE);
+
+AP.shiftInSpace('X', fPumpXShift);
+
+
+
+%% back propagation
+% get the flat pulse front in the center of the crystal
+[n] = m.refractiveIndex(fIdlerWavelength, fTheta);
+vRefractiveIndices(1) = n;
+[n] = m.refractiveIndex(fSignalWavelength, fTheta);
+vRefractiveIndices(2) = n;
+vBackPropagateLength(2) = 0.5*fCrystalThickness * n;
+[~, n] = m.refractiveIndex(fPumpWavelength, fTheta);
+vRefractiveIndices(3) = n;
+vBackPropagateLength(3) = 0.5*fCrystalThickness * n;
+
+
+for it = 2:3 % only the signal and the pump
+    Ai = A(it);
+    backPropagateMM = CMaterialManager(vacuum, vBackPropagateLength(it));
+    pm = CPropagationManager(backPropagateMM, Ai, 'o');
+    dp = CProcessContainer(pm);
+    
+    le = CLinearEffects('BackPropagation', 'on');
+    dp.addProcess(le);
+    
+    ee = CExpEuler(dp, 1);
+    stepper = CConstantStepSizeStepper(ee, 1);
+    
+%{
+    %% Listeners
+    caColor = {'m', 'r', 'g'}; % colors for the envelopes
+    
+    hFig = figure('Position', [100+(it-2)*520, 100, 500, 800]);
+    lfigure = CListenerFigure([3 1], hFig);
+    
+    hEnergyListener = CEnergyListener({caColor{it}});
+    hEnergyListener.placeOn(lfigure, [1]);
+    stepper.addListener(hEnergyListener);
+    
+    visual = C3DVisualizeListener({caColor{it}});
+    visual.placeOn(lfigure, [2 3], 1);
+    stepper.addListener(visual);
+%}
+    
+    %% solve!
+    Ai = stepper.solve(Ai);
+end
+
+
+m.m_fMaxWavelength=4000e-9;
+interface = CInterface(mmVacuum, mm);
+A = interface.transfer(A, 'ooo', 'ooe');
+
+%% nonlinear propagation
+
+pm = CPropagationManager(mm, A, 'ooe');
+dp = CProcessContainer(pm);
+
+dp.addProcess(CLinearEffects());
+dp.addProcess(OPA(deff));
+n2 = 6e-20; % m^2/W
+dp.addProcess(SPM(n2));
+dp.addProcess(XPM(n2));
+
+% method = CRK45Method(dp, space, length(A), 'Dormand-Prince');
+method = CIFRK45Method(dp, space, length(A), 'Dormand-Prince');
+
+stepper = CHairerStepper(method);
+
+fAccuracy = 1e-6;
+fMinStepSize = 0.5e-6;
+fMaxAmplitude = max(max(max(AP.m_mGrid)));
+stepper.setAccuracy(fAccuracy, 0.1*fAccuracy*fMaxAmplitude, fMinStepSize);
+
+
+%% solve
+A = stepper.solve(A);
+
+interface = CInterface(mm, mmVacuum);
+A = interface.transfer(A, 'ooe', 'ooo');
+
+disp(['output energy: ' num2str(1e12* AS.energy()) ' pJ']);
+
+AS.energy()/fSignalEnergy; 
+
+ES=AS.energy();
+EI=AI.energy();
+EP=AP.energy();
+
+end
+
+
+%{
++[保存文本](,OPA_Gain)
+%}
+
+## end
+#525, 76:
+C:\Users\cheng\Desktop\Laser\tools\OPA\Hussar-1.3-p\work\tutorial\OPA_Gain.m
+## end
+#527, 85:
++[返回目录](,扫参数)
+
+扫sign_E0:...
+
+扫duration:...
+扫sign_tau:...
+
+扫sign_w0:...
+扫pump_w0:...
+
+
+## end
+#529, 405:
+%{
+results:...
+%}
+
+pump_lm=795e-9;
+pump_w0=20e-3;
+pump_energy=28e-3;
+
+sign_lm=1.8e-6;
+sign_tau=50e-15;
+sign_w0=4e-3;
+sign_energy=60e-6;
+
+tau=linspace(25e-15,500e-15,10);
+ES=zeros(size(tau));
+EI=zeros(size(tau));
+EP=zeros(size(tau));
+
+for i=1:length(tau)
+pump_tau=tau(i);
+[es,ei,ep]=OPA_Gain(pump_lm,pump_tau,pump_w0,pump_energy,sign_lm,sign_tau,sign_w0,sign_energy);
+
+ES(i)=es;
+EI(i)=ei;
+EP(i)=ep;
+i
+end
+
+
+## end
+#531, 437:
+%{
++[返回目录](,results)
+%}
+
+%num2str([ES;EI;EP]/1e-3)
+%mJ
+E=[1.65974       1.5311      1.33776      1.09149     0.878591     0.715008     0.593694      0.50372     0.435983     0.383963
+2.07062      1.85965      1.61545       1.3041      1.03493     0.828118     0.674745     0.560992     0.475354     0.409587
+24.3285      24.6693      25.1068      25.6644      26.1465      26.5169      26.7916      26.9953      27.1487      27.2665];
+
+
+
+## end
+#533, 445:
+%{
++[返回目录](,扫sign_tau)
+results:...
+%}
+
+pump_lm=795e-9;
+pump_tau=26e-15;
+pump_w0=20e-3;
+pump_energy=28e-3;
+
+sign_lm=1.8e-6;
+% sign_tau=50e-15;
+sign_w0=4e-3;
+sign_energy=60e-6;
+
+tau=linspace(50e-15,1000e-15,10);
+ES=zeros(size(tau));
+EI=zeros(size(tau));
+EP=zeros(size(tau));
+
+for i=1:length(tau)
+sign_tau=tau(i);
+[es,ei,ep]=OPA_Gain(pump_lm,pump_tau,pump_w0,pump_energy,sign_lm,sign_tau,sign_w0,sign_energy);
+
+ES(i)=es;
+EI(i)=ei;
+EP(i)=ep;
+i
+end
+
+
+## end
+#535, 407:
+
+%num2str([ES;EI;EP]/1e-3)
+
+E=[1.62808      1.44917      1.39363      1.36405      1.34096      1.32465      1.31373      1.30632      1.30115      1.29741
+ 2.0255       1.7781      1.70316      1.66362      1.63294      1.61135      1.59693      1.58716      1.58033      1.57541
+24.4054      24.8322      24.9628       25.032      25.0858      25.1238      25.1492      25.1664      25.1784      25.1871];
+## end
+#537, 437:
+%{
++[返回目录](,扫sign_w0)
+
+results:...
+%}
+
+
+pump_lm=795e-9;
+pump_tau=26e-15;
+pump_w0=20e-3;
+pump_energy=28e-3;
+
+sign_lm=1.8e-6;
+sign_tau=50e-15;
+% sign_w0=4e-3;
+sign_energy=60e-6;
+
+w0=linspace(1e-3,20e-3,10);
+ES=zeros(size(w0));
+EI=zeros(size(w0));
+EP=zeros(size(w0));
+
+for i=1:length(w0)
+sign_w0=w0(i);
+[es,ei,ep]=OPA_Gain(pump_lm,pump_tau,pump_w0,pump_energy,sign_lm,sign_tau,sign_w0,sign_energy);
+
+ES(i)=es;
+EI(i)=ei;
+EP(i)=ep;
+i
+end
+
+
+
+
+
+## end
+#539, 412:
+
+%num2str([ES;EI;EP]/1e-3)
+
+E=[0.195747      1.19945      2.16618      2.91594      3.46819      3.87633       4.1813      4.41085      4.58469      4.71734
+0.178577      1.48043      2.70676      3.65326      4.34951      4.86383      5.24793      5.53681      5.75532      5.92184
+ 27.6857      25.3794      23.1859      21.4895       20.241      19.3187      18.6298      18.1115      17.7193      17.4202];
+
+
+## end
+#541, 440:
+%{
++[返回目录](,扫sign_E0)
+results:...
+%}
+
+
+pump_lm=795e-9;
+pump_tau=26e-15;
+pump_w0=20e-3;
+pump_energy=28e-3;
+
+sign_lm=1.8e-6;
+sign_tau=50e-15;
+sign_w0=4e-3;
+% sign_energy=60e-6;
+
+E0=linspace(10e-6,200e-6,10);
+ES=zeros(size(E0));
+EI=zeros(size(E0));
+EP=zeros(size(E0));
+
+for i=1:length(E0)
+sign_energy=E0(i);
+[es,ei,ep]=OPA_Gain(pump_lm,pump_tau,pump_w0,pump_energy,sign_lm,sign_tau,sign_w0,sign_energy);
+
+ES(i)=es;
+EI(i)=ei;
+EP(i)=ep;
+i
+end
+
+
+
+## end
+#543, 407:
+
+
+% num2str([ES;EI;EP]/1e-3)
+E=[1.3238        1.483      1.59327      1.68266      1.75904      1.82634      1.88686      1.94204      1.99288      2.04009
+1.67739      1.86435      1.98769      2.08356      2.16203      2.22809      2.28467      2.33366      2.37637      2.41378
+25.0084       24.683      24.4703      24.3061      24.1723        24.06       23.964       23.881      23.8086      23.7452];
+## end
+#545, 415:
+%{
+
+results:...
+%}
+
+pump_lm=795e-9;
+pump_tau=26e-15;
+% pump_w0=20e-3;
+pump_energy=28e-3;
+
+sign_lm=1.8e-6;
+sign_tau=50e-15;
+sign_w0=4e-3;
+sign_energy=60e-6;
+
+w0=linspace(10e-3,20e-3,10);
+ES=zeros(size(w0));
+EI=zeros(size(w0));
+EP=zeros(size(w0));
+
+for i=1:length(w0)
+pump_w0=w0(i);
+[es,ei,ep]=OPA_Gain(pump_lm,pump_tau,pump_w0,pump_energy,sign_lm,sign_tau,sign_w0,sign_energy);
+
+ES(i)=es;
+EI(i)=ei;
+EP(i)=ep;
+i
+end
+
+
+## end
+#547, 410:
+
+
+%num2str([ES;EI;EP]/1e-3)
+
+E=[4.28995      3.61272      3.27631      3.08037      2.87326      2.61372      2.32195      2.04346      1.80983      1.62808
+5.46067      4.71998      4.30811      4.05039      3.76477      3.40067         2.99       2.5997      2.27523       2.0255
+18.2489      19.6739      20.4487      20.9153      21.4135      22.0399      22.7441      23.4143      23.9733      24.4054];
+
+
+## end
+#548, 3:
+550
+## end
+#551, 42:
+http://ufs.edu.pl/index.php?article=hussar
+## end
+#552, 3:
+560
+## end
+#554, 3:
+556
+## end
+#556, 3:
+558
+## end
+#558, 3:
+575
+## end
+#561, 28:
++[返回目录](,日志)
+
+20210626:...
+
+
+## end
+#563, 790:
+现在尝试解决如何模拟NOPA的问题. 
+然后我需要自己做分析数据的工具了. 
+测试:...
+然后, 让激光斜着射不是一个trivial的事情. 是需要改变波包本身的分布函数的. 
+而且, 如果波包的函数只是一个包络函数的话, 能不能做NOPA的模拟都是个问题. 
+addSpectralPhase的输入是一个数组. 第i位是相位的第i阶展开. 
+然后, 因为A设置的pulse性质是焦点处的性质, 如果想让焦点在BBO中心, 则需要反向传播BBO一半的宽度. 就是所谓的back propagation了. 
+back propagation::file:///C:/Users/cheng/Desktop/Laser/tools/OPA/Hussar-1.3-p/hussar-1.3.pdf#page=19
++[打开网页](,back propagation)
+而那个GVM可能意味着这个模拟里面是没办法体现出波包的群速度的(因为那个方程是针对包络线的近似方程), 所以人为地加了一个time delay来等效这个GVM的效果. 
+最后, 那个BBO表面的折射过程, 使得泵光和种子光的能量损失了60-70%. 
+
+好了, 小结一下了, 
+1.我不能简单地设置波包的方向; 
+2.我可以调整波包形状(有限选择), 位置, 色散和延时; 
+3.m_mGrid里面记录的是频谱信息, 用intensity()获取强度分布. 
+4.例子模拟的物理过程包括, BBO的表面反射和OPA过程(实验中有Coating). 
+
+对了, Walk off是和晶轴方向有关系的吧. 
+那么我现在设计一下使用的流程吧: 
+1.输出一个正确的Hussar模拟的script; 
+2.用matlab 2014运行代码, 输出ES, EP, EI, IS, IP和II; 
+3.读取上述变量分析数据. 
+## end
+#565, 34:
++[返回目录]
+
+输出代码:...
+数据分析(M函数):...
+
+
+
+## end
+#567, 7124:
+%{
++[返回目录](,输出代码)
+
+内容解释:...
+地址::Matlab\output\20210626\OPA_test.m
++[保存文本](,输出代码)
+%}
+
+
+%% clean up
+clc;
+close all;
+clear all;
+format long e;
+
+
+lm0=800e-9;
+tau0=23e-15;
+E0=20e-3;
+w0=10e-3;
+
+lm1=1.8e-6;
+tau1=50e-15;
+E1=30e-6;
+w1=1e-3;
+GDD1=20e-28;
+
+D=1.5e-3;
+H=13e-3;
+W=13e-3;
+
+
+
+%% include Hussar
+run('C:\Users\cheng\Desktop\Laser\tools\OPA\Hussar-1.3-p\includeAll');
+
+%% space
+space = CSpace('TXY');
+
+fTimeSpan = 3e-12; % time window span in SI units [s]
+iTimeSize = 2^9;   % number of time grid points
+space.setDimension('T', fTimeSpan, iTimeSize);
+space.setDimension('X', W, 2^5);
+space.setDimension('Y', H, 2^5);
+
+%% envelopes
+%signal
+fSignalWavelength = lm1;
+AS = CEnvelope('A_S', space, fSignalWavelength);
+
+composer = CPulseComposer(space);
+composer.append('T', CSincPF('FWHM', tau1));
+composer.append('X',  CGaussPF('Waist', w1/2));
+composer.append('Y', CGaussPF('Waist', w1/2));
+fSignalEnergy = E1;
+AS.put(fSignalEnergy, composer);
+
+% Signal pre streaching - could also be done through propagation
+mStreach = Sapphire();
+%fStreachMaterialThickness = 5e-3;
+%fBeta2 = mStreach.dispersion(fSignalWavelength, 2, 0);
+%AS.addSpectralPhase([0 0 fBeta2*fStreachMaterialThickness]);
+
+AS.addSpectralPhase([0 0 GDD1]);
+
+%pump
+fPumpWavelength = lm0;
+AP = CEnvelope('A_P', space, fPumpWavelength);
+
+composer = CPulseComposer(space);
+composer.append('T', CGaussPF('FWHM', tau0));
+composer.append('X', CSincPF('FWHM', w0));
+composer.append('Y', CSincPF('FWHM', w0));
+
+fPumpEnergy = E0;
+AP.put(fPumpEnergy, composer);
+
+%idler
+fIdlerWavelength = 1/(1/fPumpWavelength - 1/fSignalWavelength);
+AI = CEnvelope('A_I', space, fIdlerWavelength);
+
+
+A(1) = AI;
+A(2) = AS;
+A(3) = AP;
+
+%% materials
+%start in vacuum
+vacuum = Vacuum();
+mmVacuum = CMaterialManager(vacuum, 0);
+
+%nonlinear medium
+m = BBO();
+fCrystalThickness = D;
+
+fPhi = 90*pi/180;
+fTheta = m.phaseMatch([fIdlerWavelength fSignalWavelength], ...
+    ['o' 'o'], fPumpWavelength, 'e', pi/4);
+deff = m.getDeff([fIdlerWavelength fSignalWavelength, ...
+    fPumpWavelength], ['o' 'o' 'e'], fTheta, fPhi);
+
+mm = CMaterialManager(m, fCrystalThickness, fTheta);
+
+
+%% initial pulses temporal and spatial separation (cross the pulses in
+% the center of the medium)
+% group velocity mismatch
+[fSigV] = m.groupVelocity(fSignalWavelength, fTheta, fPhi);
+[~, fPumpV] = m.groupVelocity(fPumpWavelength, fTheta, fPhi);
+GVM = (1/fSigV - 1/fPumpV); % s/m
+
+AP.addSpectralPhase([0, 0.5*fCrystalThickness * GVM ]); % delay
+
+% walk-off and non-collinearity
+[fWalkOffAngleE] = m.getWalkOffAngles(fPumpWavelength, fTheta);
+% fWalkOffAngleE=45/180*pi;
+fPumpXShift = -0.5* fCrystalThickness * tan(fWalkOffAngleE);
+
+% AP.setReferenceWavevectorComponent('X',3e4)
+AP.shiftInSpace('Y', fPumpXShift);
+
+
+
+%% back propagation
+% get the flat pulse front in the center of the crystal
+[n] = m.refractiveIndex(fIdlerWavelength, fTheta);
+vRefractiveIndices(1) = n;
+[n] = m.refractiveIndex(fSignalWavelength, fTheta);
+vRefractiveIndices(2) = n;
+vBackPropagateLength(2) = 0.5*fCrystalThickness * n;
+[~, n] = m.refractiveIndex(fPumpWavelength, fTheta);
+vRefractiveIndices(3) = n;
+vBackPropagateLength(3) = 0.5*fCrystalThickness * n;
+
+
+for it = 2:3 % only the signal and the pump
+    Ai = A(it);
+    backPropagateMM = CMaterialManager(vacuum, vBackPropagateLength(it));
+    pm = CPropagationManager(backPropagateMM, Ai, 'o');
+    dp = CProcessContainer(pm);
+    
+    le = CLinearEffects('BackPropagation', 'on');
+    dp.addProcess(le);
+    
+    ee = CExpEuler(dp, 1);
+    stepper = CConstantStepSizeStepper(ee, 1);
+    
+    %% Listeners
+    caColor = {'m', 'r', 'g'}; % colors for the envelopes
+    
+    hFig = figure('Position', [100+(it-2)*520, 100, 500, 800]);
+    lfigure = CListenerFigure([3 1], hFig);
+    
+    hEnergyListener = CEnergyListener({caColor{it}});
+    hEnergyListener.placeOn(lfigure, [1]);
+    stepper.addListener(hEnergyListener);
+    
+    visual = C3DVisualizeListener({caColor{it}});
+    visual.placeOn(lfigure, [2 3], 1);
+    stepper.addListener(visual);
+    
+    %% solve!
+    Ai = stepper.solve(Ai);
+end
+
+
+m.m_fMaxWavelength=4000e-9;
+% interface = CInterface(mmVacuum, mm);
+
+%% nonlinear propagation
+
+pm = CPropagationManager(mm, A, 'ooe');
+dp = CProcessContainer(pm);
+
+dp.addProcess(CLinearEffects());
+dp.addProcess(OPA(deff));
+n2 = 6e-20; % m^2/W
+dp.addProcess(SPM(n2));
+dp.addProcess(XPM(n2));
+
+% method = CRK45Method(dp, space, length(A), 'Dormand-Prince');
+method = CIFRK45Method(dp, space, length(A), 'Dormand-Prince');
+
+stepper = CHairerStepper(method);
+
+fAccuracy = 1e-6;
+fMinStepSize = 0.5e-6;
+fMaxAmplitude = max(max(max(AP.m_mGrid)));
+stepper.setAccuracy(fAccuracy, 0.1*fAccuracy*fMaxAmplitude, fMinStepSize);
+
+%% Listeners
+
+caColor = {'m', 'r', 'g'};
+
+hFig = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig,'Renderer','zbuffer');
+lfigure = CListenerFigure([1 3], hFig);
+
+hFig2 = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig2,'Renderer','zbuffer');
+lfigure2 = CListenerFigure([2 3], hFig2);
+
+hFig3 = figure('Position', [100, 100, 1400, 800], 'Color', [0.8, 0.8 ,1.0]);
+set(hFig3,'Renderer','zbuffer');
+lfigure3 = CListenerFigure([2 2], hFig3);
+
+
+hEnergyListener = CEnergyListener(caColor);
+hEnergyListener.setRefractiveIndex(vRefractiveIndices); % more or less
+hEnergyListener.placeOn(lfigure3, 1);
+hEnergyListener.setPlotType(@plot);
+hEnergyListener.setVisible([1, 1, 0]);
+hEnergyListener.setAxesUnits( 'Energy', 'nJ');
+stepper.addListener(hEnergyListener);
+
+hEnergyListener2 = CEnergyListener(caColor);
+hEnergyListener2.setRefractiveIndex(vRefractiveIndices); % more or less
+hEnergyListener2.placeOn(lfigure3, 2);
+hEnergyListener2.setPlotType(@semilogy);
+hEnergyListener2.setAxesUnits( 'Energy', 'nJ');
+stepper.addListener(hEnergyListener2);
+
+bpl1 = CProfileListener(1);
+bpl2 = CProfileListener(2);
+bpl3 = CProfileListener(3);
+bpl1.placeOn(lfigure2, 1, 1);
+bpl1.placeOn(lfigure2, 4, 2);
+bpl2.placeOn(lfigure2, 2, 1);
+bpl2.placeOn(lfigure2, 5, 2);
+bpl3.placeOn(lfigure2, 3, 1);
+bpl3.placeOn(lfigure2, 6, 2);
+stepper.addListener(bpl1);
+stepper.addListener(bpl2);
+stepper.addListener(bpl3);
+
+visual = C3DVisualizeListener(caColor); %, 'SHG (BBO)', gm);
+visual.placeOn(lfigure, 1, 1);
+stepper.addListener(visual);
+
+
+visual2 = CTrailListener(caColor); %, 'SHG (BBO)', gm);
+visual2.placeOn(lfigure, 2, 1);
+visual2.setGradientSteps([0.1 0.5]);
+visual2.setAlpha(0.2);
+visual2.setView(0,90);
+stepper.addListener(visual2);
+
+
+specL = CSpectrumListener(caColor, 'Wavelength');
+specL.placeOn(lfigure, 3);
+specL.normalize('on');
+stepper.addListener(specL);
+
+specL = CSpectrumListener(caColor);
+specL.placeOn(lfigure3, 3);
+specL.normalize('on');
+stepper.addListener(specL);
+
+tpl = CTimeProfileListener(caColor);
+tpl.placeOn(lfigure3, 4);
+tpl.setAxesUnits('Local Time', 'ps');
+stepper.addListener(tpl);
+
+%% solve
+A = stepper.solve(A);
+
+interface = CInterface(mm, mmVacuum);
+A = interface.transfer(A, 'ooe', 'ooo');
+
+disp(['output energy: ' num2str(1e12* AS.energy()) ' pJ']);
+
+EP=AP.energy();
+ES=AS.energy();
+EI=AI.energy();
+
+IP=AP.intensity();
+IS=AS.intensity();
+II=AI.intensity();
+
+save('output.mat','EP','ES','EI','IP','IS','II');
+
+
+
+## end
+#569, 100:
+<!--
++[返回目录](,内容解释)
+-->
+
+物理情景是:<br>
+1.不考虑泵光和种子光在BBO表面的反射, 它们在BBO中发生了共线的OPA过程. <br>
+2.焦点在BBO中心位置. 
+
+
+
+## end
+#571, 33:
+Matlab\output\20210626\OPA_test.m
+## end
+#573, 946:
+%{
++[返回目录](,数据分析)
++[M函数](,数据分析)
+%}
+
+
+load('Matlab\output\20210626\output.mat');
+tmp=IP(1:256,:,:);
+IP(1:256,:,:)=IP(257:end,:,:);
+IP(257:end,:,:)=tmp;
+tmp=IP(:,1:16,:);
+IP(:,1:16,:)=IP(:,17:end,:);
+IP(:,17:end,:)=tmp;
+tmp=IP(:,:,1:16);
+IP(:,:,1:16)=IP(:,:,17:end);
+IP(:,:,17:end)=tmp;
+
+tmp=IS(1:256,:,:);
+IS(1:256,:,:)=IS(257:end,:,:);
+IS(257:end,:,:)=tmp;
+tmp=IS(:,1:16,:);
+IS(:,1:16,:)=IS(:,17:end,:);
+IS(:,17:end,:)=tmp;
+tmp=IS(:,:,1:16);
+IS(:,:,1:16)=IS(:,:,17:end);
+IS(:,:,17:end)=tmp;
+
+tmp=II(1:256,:,:);
+II(1:256,:,:)=II(257:end,:,:);
+II(257:end,:,:)=tmp;
+tmp=II(:,1:16,:);
+II(:,1:16,:)=II(:,17:end,:);
+II(:,17:end,:)=tmp;
+tmp=II(:,:,1:16);
+II(:,:,1:16)=II(:,:,17:end);
+II(:,:,17:end)=tmp;
+
+subplot(1,3,1)
+In=reshape(IP(100,:,:),32,32);
+surf(In)
+view(0,90)
+shading interp
+
+subplot(1,3,2)
+In=reshape(IS(100,:,:),32,32);
+surf(In)
+view(0,90)
+shading interp
+
+subplot(1,3,3)
+In=reshape(II(100,:,:),32,32);
+surf(In)
+view(0,90)
+shading interp
+
+
+
+
+## end
+#575, 3:
+577
+## end
+#582, 3:
+584
+## end
+#584, 3:
+586
+## end
+#586, 3:
+588
+## end
+#588, 3:
+592
+## end
+#592, 3:
+596
+## end
+#596, 3:
+599
+## end
+### 结束

@@ -1,0 +1,575 @@
+### 节点
+地址, 的, 反射问题, 目录, 的, 的, 节点数目统计, 的, 二维平面反射, 的, [1]., 表达式, 的, 公式, 的, 示意图场景, 20221118, 的, 平面, 的, 平面方向, 的, 入射线, 的, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, 反射线, 的, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, 宽度, 的, 样式, 方向, 朝向, 方向, 朝向, 样式, 箭头宽度, 的, 箭头长度, 的, 方向, 朝向, 的, 示意图1, 章, 的, [2]., 表达式, 的, 公式, 的, [3]., 表达式, 的, 公式, 的, [4]., 表达式, 的, 公式, 的, [5]., 表达式, 的, 公式, 的, [6]., 表达式, 的, 公式, 的, [7]., 的, [8]., 表达式, 的, 公式, 表达式, 的, 公式, 的, 验证公式, M函数, 的, transform_2D_reflection, M函数, 的, 地址, transform_2D_reflection, 的, 记忆, transform_2D_reflection, 的, 单一位置, 的, 移动位置, 的, 场分布, 的, transform_2D_reflection_inv, M函数, 的, 地址, transform_2D_reflection_inv, 的, transform_2D_reflection_inv, 的, 场分布_inv, 的, transform_2D_reflection_2, M函数, 的, 地址, transform_2D_reflection_2, 的, transform_2D_reflection_2, 的, transform_2D_reflection_surf, M函数, 的, 地址, transform_2D_reflection_surf, 的, transform_2D_reflection_surf, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, #, 10#11, 10#, 8#15, #, #, 6#16, #, 15#18, #, 15#20, #, 15#22, #, 18#24, #, 18#26, #, 18#28, #, 18#30, #, 18#32, #, 20#34, #, 20#36, #, 20#38, #, 20#40, #, 20#42, #, 22#44, #, 22#46, #, 22#48, #, 22#50, #, 22#52, #, 15#54, #, 54#56, #, 54#58, #, 54#60, #, 54#62, #, 54#64, #, 18#66, 18#, #, 18#69, #, 20#71, 20#, #, 20#74, #, 20#76, #, 54#78, 8#81, #, 81#, 8#84, #, #, 84#85, 84#, 8#89, #, #, 89#90, 89#, 8#94, #, #, 94#95, 94#, 8#99, #, #, 99#100, 99#, 8#104, #, #, 104#105, 104#, 8#109, #, 8#111, #, #, 109#112, 109#, #, 111#115, 111#, 8#119, #, 119#, 119#122, #, 122#, 122#125, #, #122, 128#126, 3#, #, 119#131, #, 119#133, #, 119#135, #, 119#137, #, 137#, 137#140, #, #137, 128#141, #, 119#145, #, 119#147, #, 147#, 147#150, #, #147, 128#151, #, 119#155, #, 155#, 155#158, #, #155, 128#159, #, 
+### 内容
+#0, 17:
+文档\数学问题\反射问题.ftxt
+## end
+#2, 55:
++[返回目录](,反射问题)
+地址::文档\数学问题\反射问题.ftxt
+
+
+
+
+二维平面反射:...
+
+
+
+
+## end
+#3, 48:
+反射问题:...
+创建于 20221118
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 898:
+<!--
++[H函数](,二维平面反射)
+-->
+
+
+<h2>Coordinate transform</h2>
+If the plane passes a point \((x_0,y_0)\) and it is facing to a direction \(\theta\), then the boundary line is,
+%[1].
+%示意图1<br>
+The transformation can be made by rotation, reflection and rotation in sequence. The transformation is,
+%[2].
+%[3].
+%[4].
+%[5].
+%[6].
+Those transformation should be made around the point \((x_0,y_0)\). As a result, the transformation function should be,
+%[7].
+%[8].
+For the reflected wave vector, we just need to use the same transformation. 
+
+<!--
+[8].:
+将"\mat{T}=\mat{cos(\theta),-sin(\theta);sin(\theta),cos(\theta)}*\mat{-1,0;0,1}*\mat{cos(\theta),sin(\theta);-sin(\theta),cos(\theta)}"记作为式(3)
+式(8)转换为"表达式"
+式(8)转换为"Matlab"
+
+
+验证公式(M函数):...
++[新建阅读窗口](,验证公式)
+
+示意图场景:...
++[新建阅读窗口](,示意图场景)
+示意图1(章):...
++[生成示意图_html](示意图场景,示意图1)
+
+的([2].,表达式)->+[显示星图]"2"(,表达式)
+Nini, 打开公式分析器(文件)
+Nini, 打开网页画板(文件)
++[H函数](,二维平面反射)
+-->
+## end
+#10, 69:
+\left(x-x_{0}\right)\ cos(\theta)+\left(y-y_{0}\right)\ sin(\theta)=0
+## end
+#11, 41:
+(x-x_0)*cos(\theta)+(y-y_0)*sin(\theta)=0
+## end
+#15, 167:
++[显示PPT场景](,示意图场景)
+
+有平面, 平面方向, 入射线和反射线
+平面, 平面方向, '入射线'和'反射线'都是线段(1)
+
+平面是长方形(0.01,1)
+平面和平面方向都朝向"30"
+平面方向是线段(0.5)
+平面方向是箭头(0.05,0.05)
+
+'反射线'朝向"60"
+
+
++[显示PPT场景]"1"(,示意图场景)
+## end
+#16, 3:
+180
+## end
+#18, 3:
+多边形
+## end
+#24, 20:
+-0.5, 0.5, 0.5, -0.5
+## end
+#26, 20:
+0.0, 0.0, 0.01, 0.01
+## end
+#28, 8:
+0.0, 0.0
+## end
+#30, 3:
+1.0
+## end
+#32, 3:
+长方形
+## end
+#34, 33:
+0.0, 0.0, nan, -0.025, 0.0, 0.025
+## end
+#36, 30:
+0.0, 0.5, nan, 0.45, 0.5, 0.45
+## end
+#38, 8:
+0.0, 0.0
+## end
+#40, 3:
+0.5
+## end
+#42, 2:
+箭头
+## end
+#44, 8:
+0.0, 0.0
+## end
+#46, 8:
+0.0, 1.0
+## end
+#48, 8:
+0.0, 0.0
+## end
+#50, 3:
+1.0
+## end
+#52, 2:
+线段
+## end
+#56, 8:
+0.0, 0.0
+## end
+#58, 8:
+0.0, 1.0
+## end
+#60, 8:
+0.0, 0.0
+## end
+#62, 3:
+1.0
+## end
+#64, 2:
+线段
+## end
+#66, 4:
+0.01
+## end
+#68, 3:
+多边形
+## end
+#69, 2:
+30
+## end
+#71, 2:
+30
+## end
+#73, 2:
+曲线
+## end
+#74, 4:
+0.05
+## end
+#76, 4:
+0.05
+## end
+#78, 2:
+60
+## end
+#81, 571:
+
+<svg viewBox="0 0 1000 450.22177419354836" width=500 style="overflow: hidden;border: 2px solid #888888;"> 
+<polygon points="456,450 283,150 286,148 459,448 " style="fill:white;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polyline points="370,300 520,213 509,229 520,213 500,214 " style="fill:none;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polyline points="370,300 716,300 " style="fill:none;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polyline points="370,300 543,0 " style="fill:none;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+
+</svg>
+
+
+## end
+#84, 62:
+\mathbf{T}=\mathbf{R(-\theta)}\ \mathbf{F}\ \mathbf{R(\theta)}
+## end
+#85, 48:
+\mat{T}=\mat{R(-\theta)}*\mat{F}*\mat{R(\theta)}
+## end
+#89, 221:
+\mathbf{T}=\begin{pmatrix}
+cos(\theta)&-sin(\theta)\\ sin(\theta)&cos(\theta)
+\end{pmatrix}
+
+\ \begin{pmatrix}
+-1&0\\ 0&1
+\end{pmatrix}
+
+\ \begin{pmatrix}
+cos(\theta)&sin(\theta)\\ -sin(\theta)&cos(\theta)
+\end{pmatrix}
+
+
+## end
+#90, 132:
+\mat{T}=\mat{cos(\theta),-sin(\theta);sin(\theta),cos(\theta)}*\mat{-1,0;0,1}*\mat{cos(\theta),sin(\theta);-sin(\theta),cos(\theta)}
+## end
+#94, 179:
+\mathbf{T}=\begin{pmatrix}
+cos(\theta)&-sin(\theta)\\ sin(\theta)&cos(\theta)
+\end{pmatrix}
+
+\ \begin{pmatrix}
+-cos(\theta)&-sin(\theta)\\ -sin(\theta)&cos(\theta)
+\end{pmatrix}
+
+
+## end
+#95, 119:
+\mat{T}=\mat{cos(\theta),-sin(\theta);sin(\theta),cos(\theta)}*\mat{-cos(\theta),-sin(\theta);-sin(\theta),cos(\theta)}
+## end
+#99, 167:
+\mathbf{T}=\begin{pmatrix}
+-cos(\theta)^{2}+sin(\theta)^{2}&-2\ sin(\theta)\ cos(\theta)\\ -2\ sin(\theta)\ cos(\theta)&cos(\theta)^{2}-sin(\theta)^{2}
+\end{pmatrix}
+
+
+## end
+#100, 133:
+\mat{T}=\mat{-cos(\theta)^{2}+sin(\theta)^{2},-2*sin(\theta)*cos(\theta);
+-2*sin(\theta)*cos(\theta),cos(\theta)^{2}-sin(\theta)^{2}}
+## end
+#104, 107:
+\mathbf{T}=\begin{pmatrix}
+-cos(2\ \theta)&-sin(2\ \theta)\\ -sin(2\ \theta)&cos(2\ \theta)
+\end{pmatrix}
+
+
+## end
+#105, 72:
+\mat{T}=\mat{-cos(2*\theta),-sin(2*\theta);-sin(2*\theta),cos(2*\theta)}
+## end
+#109, 212:
+x_{2}(x,y)=\begin{cases}
+-\left(x-x_{0}\right)\ cos(2\ \theta)-\left(y-y_{0}\right)\ sin(2\ \theta)+x_{0}, & \left(x-x_{0}\right)\ cos(\theta)+\left(y-y_{0}\right)\ sin(\theta)\le 0\\ x, & otherwise
+\end{cases}
+
+
+## end
+#111, 212:
+y_{2}(x,y)=\begin{cases}
+-\left(x-x_{0}\right)\ sin(2\ \theta)+\left(y-y_{0}\right)\ cos(2\ \theta)+y_{0}, & \left(x-x_{0}\right)\ cos(\theta)+\left(y-y_{0}\right)\ sin(\theta)\le 0\\ y, & otherwise
+\end{cases}
+
+
+## end
+#112, 127:
+x_2(x,y)=\eqs{-(x-x_0)*cos(2*\theta)-(y-y_0)*sin(2*\theta)+x_0,   (x-x_0)*cos(\theta)+(y-y_0)*sin(\theta)\le 0;
+x,   otherwise}
+## end
+#115, 119:
+y_2(x,y)=\eqs{-(x-x_0)*sin(2*\theta)+(y-y_0)*cos(2*\theta)+y_0,(x-x_0)*cos(\theta)+(y-y_0)*sin(\theta)<=0;
+y,otherwise}
+## end
+#119, 620:
+%{
++[M函数](,验证公式)
+
+transform_2D_reflection(M函数):...
+transform_2D_reflection_2(M函数):...
+transform_2D_reflection_surf(M函数):...
+
+transform_2D_reflection_inv(M函数):...
++[新建阅读窗口](,transform_2D_reflection_inv)
+
+单一位置:...
+移动位置:...
+场分布:...
+场分布_inv:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+angle=6;
+x_0=-1;
+y_0=0;
+
+theta=angle*pi/180;
+
+x=linspace(-2,1,800);
+y=linspace(-0.5,1.5,200);
+
+[X,Y]=meshgrid(x,y);
+
+[X_1,Y_1,X_2,Y_2]=transform_2D_reflection_inv(X,Y,angle,x_0,y_0);
+
+DY=0.2;
+F_1=exp(-(Y_1-y_0).^2/DY^2);
+F_2=exp(-(Y_2-y_0).^2/DY^2);
+
+
+surf(X,Y,F_1+F_2)
+view([0,90])
+axis equal
+shading interp
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#122, 393:
+%{
+地址::Matlab\space\transform_2D_reflection.m
++[保存M函数](,transform_2D_reflection)
+%}
+
+function [X_2,Y_2]=transform_2D_reflection(X,Y,angle,x_0,y_0)
+
+theta=angle*pi/180;
+area_=(X-x_0).*cos(theta)+(Y-y_0).*sin(theta)<=0;
+X_2=X;
+X_2(area_)=-(X(area_)-x_0).*cos(2.*theta)-(Y(area_)-y_0).*sin(2.*theta)+x_0;
+Y_2=Y;
+Y_2(area_)=-(X(area_)-x_0).*sin(2.*theta)+(Y(area_)-y_0).*cos(2.*theta)+y_0;
+
+
+end
+
+
+## end
+#125, 38:
+Matlab\space\transform_2D_reflection.m
+## end
+#131, 398:
+%{
++[M函数](,验证公式)
+
+transform_2D_reflection(M函数):...
++[新建阅读窗口](,transform_2D_reflection)
+
+单一位置:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+angle=30;
+x_0=-1;
+y_0=0;
+
+theta=angle*pi/180;
+
+x=linspace(-2,2,80);
+y=linspace(-0.5,0.5,20);
+
+[X,Y]=meshgrid(x,y);
+
+
+[X_2,Y_2]=transform_2D_reflection(X,Y,angle,x_0,y_0);
+plot(X,Y,'k',X',Y','k',X_2,Y_2,'r',X_2',Y_2','r')
+axis equal
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#133, 462:
+%{
++[M函数](,验证公式)
+
+transform_2D_reflection(M函数):...
++[新建阅读窗口](,transform_2D_reflection)
+
+单一位置:...
+移动位置:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+angle=30;
+x_0=linspace(-2,2,200);
+y_0=0;
+
+theta=angle*pi/180;
+
+x=linspace(-2,2,80);
+y=linspace(-0.5,0.5,20);
+
+[X,Y]=meshgrid(x,y);
+
+for i=1:length(x_0)
+
+[X_2,Y_2]=transform_2D_reflection(X,Y,angle,x_0(i),y_0);
+plot(X,Y,'k',X',Y','k',X_2,Y_2,'r',X_2',Y_2','r')
+axis equal
+pause(0.01)
+
+end
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#135, 449:
+%{
++[M函数](,验证公式)
+
+transform_2D_reflection(M函数):...
++[新建阅读窗口](,transform_2D_reflection)
+
+单一位置:...
+移动位置:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+angle=60;
+x_0=-1;
+y_0=0;
+
+theta=angle*pi/180;
+
+x=linspace(-2,2,80);
+y=linspace(-0.5,0.5,20);
+
+[X,Y]=meshgrid(x,y);
+
+[X_2,Y_2]=transform_2D_reflection(X,Y,angle,x_0,y_0);
+
+DY=0.2;
+F=exp(-(Y-y_0).^2/DY^2);
+% surf(X,Y,F)
+surf(X_2,Y_2,F)
+view([0,90])
+axis equal
+shading interp
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#137, 434:
+%{
+地址::Matlab\space\transform_2D_reflection_inv.m
++[保存M函数](,transform_2D_reflection_inv)
+%}
+
+function [X_1,Y_1,X_2,Y_2]=transform_2D_reflection_inv(X,Y,angle,x_0,y_0)
+
+theta=angle*pi/180;
+X_1=X;
+X_2=-(X-x_0).*cos(2.*theta)-(Y-y_0).*sin(2.*theta)+x_0;
+Y_1=Y;
+Y_2=-(X-x_0).*sin(2.*theta)+(Y-y_0).*cos(2.*theta)+y_0;
+
+area_=(X-x_0).*cos(theta)+(Y-y_0).*sin(theta)<=0;
+X_1(area_)=nan;
+Y_1(area_)=nan;
+X_2(area_)=nan;
+Y_2(area_)=nan;
+
+
+end
+## end
+#140, 42:
+Matlab\space\transform_2D_reflection_inv.m
+## end
+#145, 535:
+%{
++[M函数](,验证公式)
+
+transform_2D_reflection(M函数):...
+transform_2D_reflection_inv(M函数):...
++[新建阅读窗口](,transform_2D_reflection_inv)
+
+单一位置:...
+移动位置:...
+场分布:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+angle=30;
+x_0=-1;
+y_0=0;
+
+theta=angle*pi/180;
+
+x=linspace(-2,1,800);
+y=linspace(-0.5,1.5,200);
+
+[X,Y]=meshgrid(x,y);
+
+[X_1,Y_1,X_2,Y_2]=transform_2D_reflection_inv(X,Y,angle,x_0,y_0);
+
+DY=0.2;
+F_1=exp(-(Y_1-y_0).^2/DY^2);
+F_2=exp(-(Y_2-y_0).^2/DY^2);
+
+
+surf(X,Y,F_1+F_2)
+view([0,90])
+axis equal
+shading interp
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#147, 293:
+%{
+地址::Matlab\space\transform_2D_reflection_2.m
++[保存M函数](,transform_2D_reflection_2)
+%}
+
+function [X_2,Y_2]=transform_2D_reflection_2(X,Y,angle,x_0,y_0)
+
+theta=angle*pi/180;
+X_2=-(X-x_0).*cos(2.*theta)-(Y-y_0).*sin(2.*theta)+x_0;
+Y_2=-(X-x_0).*sin(2.*theta)+(Y-y_0).*cos(2.*theta)+y_0;
+
+
+end
+
+
+## end
+#150, 40:
+Matlab\space\transform_2D_reflection_2.m
+## end
+#155, 383:
+%{
+地址::Matlab\space\transform_2D_reflection_surf.m
++[保存M函数](,transform_2D_reflection_surf)
+%}
+
+function [X_2,Y_2]=transform_2D_reflection_surf(X,Y,xs,ys,x_0,y_0)
+
+Dx=diff(xs(1:2));
+Dy=diff(ys(1:2));
+angle=acosd(Dx/norm([Dx,Dy]))*sign_1(Dy)+90;
+theta=angle*pi/180;
+X_2=-(X-x_0).*cos(2.*theta)-(Y-y_0).*sin(2.*theta)+x_0;
+Y_2=-(X-x_0).*sin(2.*theta)+(Y-y_0).*cos(2.*theta)+y_0;
+
+
+end
+
+
+## end
+#158, 43:
+Matlab\space\transform_2D_reflection_surf.m
+## end
+### 结束

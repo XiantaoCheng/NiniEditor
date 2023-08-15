@@ -1,0 +1,1040 @@
+### 节点
+地址, 的, Boris_pusher, 目录, 的, 的, 节点数目统计, 起点, =, *, B, 输入, 矢量, c, \times , E, 输入, 矢量, k_0, 输入, 矢量, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 表达式, 的, 公式, [2]., m_width, m_height, m_y, m_x, m_cursor, 的, 的, 的, 的, 的, 的, 的, 的, 的, 起点, =, *, *, B, 输入, 矢量, \omega, i, *, \times , E, 输入, 矢量, k, 输入, 矢量, i, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 表达式, 的, 公式, [1]., 的, 的, 的, html, 例子, 的, M函数, 测试_光波, 表达式, 的, 公式, [1]., 表达式, 的, 公式, [2]., 表达式, 的, 公式, [3]., 表达式, 的, 公式, [4]., 表达式, 的, 公式, [5]., 表达式, 的, 公式, [6]., 表达式, 的, 公式, [7]., 表达式, 的, 公式, [8]., 表达式, 的, 公式, [9]., 表达式, 的, 公式, [10]., M函数, 公式验证, 表达式, 的, 公式, [11]., html, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 例子, 的, M函数, 测试_电场, 表达式, 公式, 的, [4]., 表达式, 公式, 的, [3]., 表达式, 公式, 的, [2]., 表达式, 公式, 的, [1]., 的, 的, 的, 的, html, 例子, 的, M函数, 测试_磁场, 地址, 的, 的, 的, 的, M函数, BorisPusher, 矢量实现, 的, 的, M函数, 验证公式, 表达式, 公式, 的, [18]., 表达式, 公式, 的, [17]., 表达式, 公式, 的, [12]., 表达式, 公式, 的, [11]., 表达式, 公式, 的, [10]., 表达式, 公式, 的, [9]., 表达式, 公式, 的, [8]., 表达式, 公式, 的, [7]., 表达式, 公式, 的, [6]., 参考, 表达式, 公式, 的, [5]., 表达式, 公式, 的, [4]., 表达式, 公式, 的, [3]., 表达式, 公式, 的, [2]., 表达式, 公式, 的, [1]., 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, Boris草稿, 表达式, 公式, 的, [16]., 表达式, 公式, 的, 公式, [15]., 表达式, 公式, 的, 公式, [14]., 表达式, 公式, 的, 公式, [13]., 表达式, 公式, 的, [12]., 表达式, 公式, 的, [11]., 表达式, 公式, 的, [10]., 表达式, 公式, 的, [9]., 表达式, 公式, 的, [8]., 表达式, 公式, 的, [7]., 表达式, 公式, 的, [6]., 表达式, 公式, 的, [5]., 表达式, 公式, 的, [4]., 表达式, 公式, 的, [3]., 表达式, 表达式, 公式, 的, 公式, 的, [2]., 表达式, 公式, 的, [1]., Smilei实现, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 算法描述, 算法, SmileiPush, 的, 的, 的, BorisPusher, 的, 20220820, 的, BorisPusher, 的, 记忆, BorisPusher, 读取, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, #20, 20#13, 13#12, #, 12#10, #10, #, 20#17, #, 17#15, #15, #, 20#18, #18, 35#7, 35#8, 35#9, 35#10, 35#11, 35#12, 35#13, 35#14, 35#15, 35#16, 35#17, 35#18, 35#19, 35#20, #, 38#35, 38#, #, #, #, #, #, #, del#39, del#40, del#41, del#42, del#43, del#del, del#del, del#del, del#del, #70, 70#61, 61#60, 60#59, #, 59#57, #57, #, #, 70#69, 69#66, #, 66#64, #64, #, 69#67, #67, #, 89#53, 89#54, 89#55, 89#56, 89#57, 89#58, 89#59, 89#60, 89#61, 89#62, 89#63, 89#64, 89#65, 89#66, 89#67, 89#68, 89#69, 89#70, #, 92#89, 92#, #, 97#38, 97#del, 97#92, 97#, #, 100#97, 100#, #, #, 104#101, 104#, #, #, 108#105, 108#, #, #, 112#109, 112#, #, #, 116#113, 116#, #, #, 120#117, 120#, #, #, 124#121, 124#, #, #, 128#125, 128#, #, #, 132#129, 132#, #, #, 136#133, 136#, #, #, 140#137, 140#, #, 142#, #, #, 146#143, 146#, #, 160#, 160#104, 160#108, 160#112, 160#116, 160#120, 160#124, 160#128, 160#132, 160#136, 160#140, 160#142, 160#146, #, 163#160, 163#, #, #, 167#, 167#164, #, #, 171#, 171#168, #, #, 175#, 175#172, #, #, 179#, 179#176, #, 185#167, 185#171, 185#175, 185#179, 185#, #, 188#185, 188#, #, #, 195#100, 195#163, 195#188, 195#189, 195#, #, #, 200#195, 200#196, 200#, #, #, 204#, 204#201, #, #, 208#, 208#205, #, #, 212#, 212#209, #, #, 216#, 216#213, #, #, 220#, 220#217, #, #, 224#, 224#221, #, #, 228#, 228#225, #, #, 232#, 232#229, #, #, 236#, 236#233, #, #, #, 241#, 241#238, #, #, 245#, 245#242, #, #, 249#, 249#246, #, #, 253#, 253#250, #, #, 257#, 257#254, #, 271#212, 271#216, 271#220, 271#224, 271#228, 271#232, 271#236, 271#237, 271#241, 271#245, 271#249, 271#253, 271#257, #, #, 275#, 275#272, #, #, 280#, 280#276, 280#, #, #, 285#, 285#281, 285#, #, #, 290#, 290#286, 290#, #, #, 294#, 294#291, #, #, 298#, 298#295, #, #, 302#, 302#299, #, #, 306#, 306#303, #, #, 310#, 310#307, #, #, 314#, 314#311, #, #, 318#, 318#315, #, #, 322#, 322#319, #, #, 326#, 326#323, #, #, 330#, 330#327, #, #, #, 337#, 337#331, 337#, 337#332, #, #, 341#, 341#338, #, #, 364#200, 364#204, 364#208, 364#271, 364#275, 364#280, 364#285, 364#290, 364#294, 364#298, 364#302, 364#306, 364#310, 364#314, 364#318, 364#322, 364#326, 364#330, 364#337, 364#341, 364#342, #, #, #, 370#364, 370#365, 370#366, #, 2#370, #, 6#372, #195, 376#374, 3#, #, del#364, 
+### 内容
+#0, 25:
+文档\物理问题\Boris_pusher.ftxt
+## end
+#2, 76:
++[返回目录](,Boris_pusher)
+地址::文档\物理问题\Boris_pusher.ftxt
+
+
+
+BorisPusher:...
+
+
+
+
+
+## end
+#3, 56:
+Boris_pusher:...
+创建于 20220820
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#9, 1:
+*
+## end
+#10, 1:
+B
+## end
+#13, 1:
+c
+## end
+#14, 7:
+\times 
+## end
+#15, 1:
+E
+## end
+#18, 3:
+k_0
+## end
+#35, 33:
+\vec{k_0}\times \vec{E}=c*\vec{B}
+## end
+#38, 34:
+\vec{k_0}\times \vec{E}=c\ \vec{B}
+## end
+#39, 3:
+958
+## end
+#40, 3:
+476
+## end
+#41, 2:
+38
+## end
+#42, 3:
+961
+## end
+#43, 7:
+794,794
+## end
+#55, 1:
+*
+## end
+#56, 1:
+*
+## end
+#57, 1:
+B
+## end
+#60, 6:
+\omega
+## end
+#61, 1:
+i
+## end
+#62, 1:
+*
+## end
+#63, 7:
+\times 
+## end
+#64, 1:
+E
+## end
+#67, 1:
+k
+## end
+#70, 1:
+i
+## end
+#89, 40:
+i*\vec{k}\times \vec{E}=i*\omega*\vec{B}
+## end
+#92, 43:
+i\ \vec{k}\times \vec{E}=i\ \omega\ \vec{B}
+## end
+#97, 164:
+<!--
++[H函数](,例子)
+Nini, 打开plasma(文件)
+-->
+A plane wave electromagnetic field is,
+%[1].
+%[2].
+
+
+<!--
+[2].:
+将"\vec{k_0}\times \vec{E}=c*\vec{B}"记作为式(2)
+
++[H函数](,例子)
+-->
+## end
+#100, 782:
+%{
++[M函数](,测试_光波)
+
+例子(html):...
++[新建阅读窗口](,例子)
++[H函数](,例子)
+%}
+
+physics_constant;
+addpath('Matlab\Smilei');
+
+E_0=1e13;
+lm_0=800e-9;
+gamma=1.;
+
+omega=2*pi*c/lm_0;
+v_0=sqrt(1-(1/gamma)^2)*c;
+
+t=linspace(0,1*lm_0/c,5000);
+dt=t(2)-t(1);
+
+x=0;
+y=0;
+z=0;
+v_x=0;
+v_y=v_0;
+v_z=0;
+
+X=zeros(size(t));
+Y=zeros(size(t));
+Z=zeros(size(t));
+
+for i=1:length(t)
+E=E_0.*cos(omega.*t(i));
+B=E/c;
+[x,y,z,v_x,v_y,v_z]=BorisPusher(x,y,z,v_x,v_y,v_z,dt,[0,E,0],[B,0,0]);
+X(i)=x;
+Y(i)=y;
+Z(i)=z;
+end
+
+DZ=Z(end)-Z(1);
+Dt=t(end)-t(1);
+Z0=DZ/Dt*t;
+
+subplot(1,2,1)
+plot(Y,Z,'o')
+xlabel('Y [m]')
+ylabel('Z [m]')
+axis equal
+
+subplot(1,2,2)
+plot(Y,Z-Z0,'o')
+xlabel('Y [m]')
+ylabel('Z [m]')
+axis equal
+
+% plot3(X,Y,Z,'o')
+% xlabel('X [m]')
+% ylabel('Y [m]')
+% zlabel('Z [m]')
+
+
+%{
+plot(Z)
+plot(Y)
++[M函数](,测试_光波)
+%}
+## end
+#101, 36:
+\frac{\d{\vec{p}}}{\d{t}}=-e*\vec{E}
+## end
+#104, 31:
+\frac{d\vec{p}}{dt}=-e\ \vec{E}
+## end
+#105, 31:
+\vec{E}=\vec{E_0}*cos(\omega*t)
+## end
+#108, 33:
+\vec{E}=\vec{E_0}\ cos(\omega\ t)
+## end
+#109, 51:
+\vec{p}=-e*\int_{}^{}{t}{(\vec{E_0}*cos(\omega*t))}
+## end
+#112, 68:
+\vec{p}=-e\ \int_{}^{}{dt\ }{\left(\vec{E_0}\ cos(\omega\ t)\right)}
+## end
+#113, 59:
+\vec{p}=-\frac{e*\vec{E_0}}{\omega}*sin(\omega*t)+\vec{p_0}
+## end
+#116, 62:
+\vec{p}=-\frac{e\ \vec{E_0}}{\omega}\ sin(\omega\ t)+\vec{p_0}
+## end
+#117, 22:
+p=\gamma*m_e*(\beta*c)
+## end
+#120, 38:
+p=\gamma\ m_{e}\ \left(\beta\ c\right)
+## end
+#121, 33:
+\gamma=\frac{1}{\sqrt{1-\beta^2}}
+## end
+#124, 35:
+\gamma=\frac{1}{\sqrt{1-\beta^{2}}}
+## end
+#125, 38:
+\beta=\frac{\sqrt{\gamma^2-1}}{\gamma}
+## end
+#128, 40:
+\beta=\frac{\sqrt{\gamma^{2}-1}}{\gamma}
+## end
+#129, 29:
+p=m_e*c*(\sqrt{\gamma^{2}-1})
+## end
+#132, 44:
+p=m_{e}\ c\ \left(\sqrt{\gamma^{2}-1}\right)
+## end
+#133, 35:
+\gamma=\sqrt{1+(\frac{p}{m_e*c})^2}
+## end
+#136, 51:
+\gamma=\sqrt{1+\left(\frac{p}{m_{e}\ c}\right)^{2}}
+## end
+#137, 34:
+\vec{v}=\frac{\vec{p}}{\gamma*m_e}
+## end
+#140, 37:
+\vec{v}=\frac{\vec{p}}{\gamma\ m_{e}}
+## end
+#142, 974:
+%{
++[M函数](,公式验证)
+%}
+
+physics_constant;
+
+lm_0=800e-9;
+E0=1e10;
+E_r=[0,1,1];
+E_0=E_r*E0;
+
+gamma=1.8;
+beta_r=[0,0,1];
+% p_0=0;
+beta=sqrt(1-1/gamma^2);
+p_0=gamma*m_e*beta*c*beta_r;
+
+omega=2*pi*c/lm_0;
+
+t=linspace(0,3*lm_0/c,1000);
+
+px_e=-(e.*E_0(1))./(omega).*sin(omega.*t)+p_0(1);
+py_e=-(e.*E_0(2))./(omega).*sin(omega.*t)+p_0(2);
+pz_e=-(e.*E_0(3))./(omega).*sin(omega.*t)+p_0(3);
+
+px_p=(e.*E_0(1))./(omega).*sin(omega.*t)+p_0(1);
+py_p=(e.*E_0(2))./(omega).*sin(omega.*t)+p_0(2);
+pz_p=(e.*E_0(3))./(omega).*sin(omega.*t)+p_0(3);
+
+gamma_e=sqrt(1+(px_e.^2+py_e.^2+pz_e.^2)./(m_e.*c).^(2));
+gamma_p=sqrt(1+(px_p.^2+py_p.^2+pz_p.^2)./(m_e.*c).^(2));
+
+vx_e=(px_e)./(gamma_e.*m_e);
+vy_e=(py_e)./(gamma_e.*m_e);
+vz_e=(pz_e)./(gamma_e.*m_e);
+
+vx_p=(px_p)./(gamma_p.*m_e);
+vy_p=(py_p)./(gamma_p.*m_e);
+vz_p=(pz_p)./(gamma_p.*m_e);
+
+j_x=e*(vx_p-vx_e);
+j_y=e*(vy_p-vy_e);
+j_z=e*(vz_p-vz_e);
+
+
+subplot(1,2,1)
+plot(t,j_y,t,j_z)
+subplot(1,2,2)
+plot(t,gamma_e,t,gamma_p)
+
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#143, 80:
+\vec{v}=\frac{(-\frac{e*\vec{E_0}}{\omega}*sin(\omega*t)+\vec{p_0})}{\gamma*m_e}
+## end
+#146, 97:
+\vec{v}=\frac{\left(-\frac{e\ \vec{E_0}}{\omega}\ sin(\omega\ t)+\vec{p_0}\right)}{\gamma\ m_{e}}
+## end
+#160, 428:
+<!--
++[H函数](,例子)
+-->
+
+The dynamic equation of a relativistic electron in an optical field is,
+%[1].
+%[2].
+As a result the momentum is,
+%[3].
+%[4].
+The relation between momentum and \(\gamma\) is,
+%[5].
+%[6].
+%[7].
+%[8].
+%[9].
+
+Then the velocity is,
+%[10].
+%[11].
+
+
+<!--
++[H函数](,相对论振荡)
+[11].:
+式(9)转换为"Matlab"
+将式(10)记作为式(11)
+将式(4)代入到式(11)
+
++[设置结构](,[11].)
+的([11].,表达式)->+[设置结构](,表达式)
+公式验证(M函数):...
++[新建阅读窗口](,公式验证)
++[H函数](,例子)
+-->
+## end
+#163, 601:
+%{
++[M函数](,测试_电场)
+
+例子(html):...
++[新建阅读窗口](,例子)
++[H函数](,例子)
+%}
+
+physics_constant;
+addpath('Matlab\Smilei');
+
+E_0=1;
+lm_0=800e-9;
+gamma=1.5;
+
+omega=2*pi*c/lm_0;
+v_0=sqrt(1-(1/gamma)^2)*c;
+p_0=gamma*m_e*v_0;
+
+t=linspace(0,4*lm_0/c,1000);
+dt=t(2)-t(1);
+
+x=0;
+y=0;
+z=0;
+v_x=0;
+v_y=v_0;
+v_z=0;
+
+V=zeros(size(t));
+
+for i=1:length(t)
+E=E_0.*cos(omega.*t(i));
+[x,y,z,v_x,v_y,v_z]=BorisPusher(x,y,z,v_x,v_y,v_z,dt,[0,E,0],[0,0,0]);
+V(i)=v_y;
+end
+
+p=(e.*E_0)./(omega).*sin(omega.*t)+p_0;
+gamma_t=sqrt(1+((p)./(m_e.*c)).^(2));
+v=p./gamma_t/m_e;
+% plot(t,v,t,V)
+plot(t,v-mean(v),t,V-mean(V))
+
+
+%{
++[M函数](,测试_电场)
+%}
+## end
+#164, 38:
+R=\frac{p}{B*q}=\frac{\gamma*m*v}{B*q}
+## end
+#167, 42:
+R=\frac{p}{B\ q}=\frac{\gamma\ m\ v}{B\ q}
+## end
+#168, 17:
+R=\frac{m*v}{B*q}
+## end
+#171, 19:
+R=\frac{m\ v}{B\ q}
+## end
+#172, 36:
+\vec{F}=m*\vec{\omega}\times \vec{v}
+## end
+#175, 37:
+\vec{F}=m\ \vec{\omega}\times \vec{v}
+## end
+#176, 31:
+\vec{F}=q*\vec{v}\times \vec{B}
+## end
+#179, 32:
+\vec{F}=q\ \vec{v}\times \vec{B}
+## end
+#185, 321:
+<!--
++[H函数](,例子)
+-->
+
+For a constant magnetic field, the trajecotry of an electron is a circle. In a non-relativistic case, the radius is,
+%[1].
+%[2].
+%[3].
+
+In a relativistic case, the radius is,
+%[4].
+
+
+<!--
+[4].:
+式(3)转换为"表达式"
+
+将"R=\frac{p}{B*q}=\frac{\gamma*m*v}{B*q}"记作为式(4)
+将式(1)记作为式(3)
+将式(2)代入到式(3)
+
++[H函数](,例子)
+-->
+## end
+#188, 735:
+%{
++[M函数](,测试_磁场)
+
+例子(html):...
++[新建阅读窗口](,例子)
+%}
+
+physics_constant;
+addpath('Matlab\Smilei');
+
+B=[0,0,1];
+dt=2e-13;
+
+% v_0=1;
+% gamma=1./sqrt(1-(v_0/c)^2);
+gamma=1.5;
+v_0=sqrt(1-(1/gamma)^2)*c;
+
+R1=m_e*v_0/B(3)/e;
+R2=gamma*m_e*v_0/B(3)/e;
+
+x=0;
+y=0;
+z=0;
+v_x=0;
+v_y=v_0;
+v_z=0;
+
+X=x;
+Y=y;
+
+for i=1:1000;
+[x,y,z,v_x,v_y,v_z]=BorisPusher(x,y,z,v_x,v_y,v_z,dt,[0,0,0],B);
+X(end+1,:)=x;
+Y(end+1,:)=y;
+end
+
+angle=linspace(0,360,1000);
+X1=R1*cosd(angle)+R1;
+Y1=R1*sind(angle);
+X2=R2*cosd(angle)+R2;
+Y2=R2*sind(angle);
+
+plot(X,Y,'o',X1,Y1,X2,Y2,'--');
+axis equal
+xlabel('x [m]')
+ylabel('y [m]')
+legend('Boris pusher','Non-relativistic','Relativistic')
+title(sprintf('B=%.2f T, v=%.2e m/s, \\gamma=%.2f',B(3),v_0,gamma))
+
+%{
++[M函数](,测试_磁场)
+%}
+## end
+#189, 27:
+Matlab\Smilei\BorisPusher.m
+## end
+#195, 1220:
+%{
+地址::Matlab\Smilq.\BorisPusher.m
++[保存M函数](,BorisPusher)
+
+测试_磁场(M函数):...
+测试_电场(M函数):...
+测试_光波(M函数):...
++[新建阅读窗口](,测试_磁场)
++[M函数](,测试_光波)
+%}
+
+
+function [x_2,y_2,z_2,vx_2,vy_2,vz_2]=BorisPusher(x,y,z,v_x,v_y,v_z,dt,E,B,m_p,q)
+physics_constant;
+
+% pt0=[0,0,0];
+% E=[1e7,1e7,0];
+% B=[0,0,1];
+% dt=2e-13;
+% v_r=[1,1,0];
+% gamma=1.001;
+
+% v_r=v_r/norm(v_r);
+% beta=sqrt(1-1./gamma.^2);
+
+if nargin<10
+m_p=m_e;
+end
+if nargin<11
+q=-e;
+end
+
+beta=sqrt(v_x.^2+v_y.^2+v_z.^2)/c;
+gamma=1./sqrt(1-beta.^2);
+
+px_0=gamma*m_p*v_x;
+py_0=gamma*m_p*v_y;
+pz_0=gamma*m_p*v_z;
+
+dpx_1=q.*E(1)*dt/2;
+dpy_1=q.*E(2)*dt/2;
+dpz_1=q.*E(3)*dt/2;
+
+px_1=px_0+dpx_1;
+py_1=py_0+dpy_1;
+pz_1=pz_0+dpz_1;
+gamma_1=sqrt(1+(px_1.^2+py_1.^2+pz_1.^2)/(m_p*c)^2);
+
+T=(q.*dt/2)./(gamma_1.*m_p).*B;
+T_m=[0,T(3),-T(2)
+-T(3),0,T(1)
+T(2),-T(1),0];
+B_f=((eye(3)-(T*T').*eye(3)+2.*T'*T+2.*T_m))./(1+sum(T.^2));
+
+px_2=B_f(1,1)*px_1+B_f(1,2)*py_1+B_f(1,3)*pz_1+dpx_1;
+py_2=B_f(2,1)*px_1+B_f(2,2)*py_1+B_f(2,3)*pz_1+dpy_1;
+pz_2=B_f(3,1)*px_1+B_f(3,2)*py_1+B_f(3,3)*pz_1+dpz_1;
+gamma_2=sqrt(1+(px_2.^2+py_2.^2+pz_2.^2)/(m_p*c)^2);
+
+vx_2=px_2./gamma_2/m_p;
+vy_2=py_2./gamma_2/m_p;
+vz_2=pz_2./gamma_2/m_p;
+
+x_2=x+vx_2*dt;
+y_2=y+vy_2*dt;
+z_2=z+vz_2*dt;
+end
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#196, 624:
+%{
++[M函数](,验证公式)
+
+矢量实现:...
+%}
+
+physics_constant;
+
+pt0=[0,0,0];
+E=[1e7,1e7,0];
+B=[0,0,1];
+dt=2e-13;
+v_r=[1,1,0];
+gamma=1.001;
+
+v_r=v_r/norm(v_r);
+beta=sqrt(1-1./gamma.^2);
+p_0=gamma*v_r*m_e*beta*c;
+
+pt=pt0;
+
+clf
+hold on
+axis equal
+
+for i=1:1000
+dp_1=e.*E.*dt;
+p_1=p_0+dp_1;
+gamma_1=sqrt(1+(p_1)./(m_e.*c)*(p_1')./(m_e.*c));
+
+T=(e.*dt)./(gamma_1.*m_e).*B;
+T_m=[0,T(3),-T(2)
+-T(3),0,T(1)
+T(2),-T(1),0];
+
+p_2=p_1*((eye(3)-(T*T').*eye(3)+2.*T'*T+2.*T_m))./(1+sum(T.^2))+dp_1;
+gamma_2=sqrt(1+(p_2*p_2')./(m_e.*c)./(m_e.*c));
+
+v_2=p_2/gamma_2/m_e;
+pt=pt+v_2*dt;
+p_0=p_2;
+
+plot(pt(1),pt(2),'o')
+pause(0.01)
+end
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#200, 396:
+%{
++[M函数](,验证公式)
+
+矢量实现:...
+BorisPusher(M函数):...
+在BorisPusher中, 将"m_e"替换为"m_p"
+%}
+
+physics_constant;
+addpath('Matlab\Smilei');
+
+E=[1e7,1e7,0]*0;
+B=[0,0,1];
+dt=2e-13;
+
+x=0;
+y=0;
+z=0;
+v_x=1;
+v_y=1;
+v_z=1;
+
+X=x;
+Y=y;
+Z=z;
+
+for i=1:1000;
+[x,y,z,v_x,v_y,v_z]=BorisPusher(x,y,z,v_x,v_y,v_z,dt,E,B);
+X(end+1,:)=x;
+Y(end+1,:)=y;
+Z(end+1,:)=z;
+end
+
+%plot3(X,Y,Z);
+plot(X,Y);
+axis equal
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#201, 70:
+\gamma_2=\sqrt{1+\frac{\vec{p_2}}{m_e*c}\cdot \frac{\vec{p_2}}{m_e*c}}
+## end
+#204, 78:
+\gamma_{2}=\sqrt{1+\frac{\vec{p_2}}{m_{e}\ c}\cdot \frac{\vec{p_2}}{m_{e}\ c}}
+## end
+#205, 133:
+\vec{p_2}=\frac{(\mat{I}-(\vec{T}\cdot \vec{T})*\mat{I}+2*\vec{T}*\vec{T}+2*\mat{T})*\vec{p_1}}{1+\vec{T}\cdot \vec{T}}+\d{\vec{p_1}}
+## end
+#208, 166:
+\vec{p_2}=\frac{\left(\mathbf{I}-\left(\vec{T}\cdot \vec{T}\right)\ \mathbf{I}+2\ \vec{T}\ \vec{T}+2\ \mathbf{T}\right)\ \vec{p_1}}{1+\vec{T}\cdot \vec{T}}+d\vec{p_1}
+## end
+#209, 140:
+\vec{v_2}=\frac{\vec{v_1}+2*\vec{v_1}\times \vec{t}+2*\vec{t}\cdot \vec{v_1}*\vec{t}-\vec{t}\cdot \vec{t}*\vec{v_1}}{1+\vec{t}\cdot \vec{t}}
+## end
+#212, 144:
+\vec{v_2}=\frac{\vec{v_1}+2\ \vec{v_1}\times \vec{t}+2\ \vec{t}\cdot \vec{v_1}\ \vec{t}-\vec{t}\cdot \vec{t}\ \vec{v_1}}{1+\vec{t}\cdot \vec{t}}
+## end
+#213, 159:
+\vec{v_2}=\vec{v_1}+\frac{2*\vec{v_1}\times \vec{t}}{1+(\vec{t})^{2}}+\frac{2*(\vec{t}\cdot \vec{v_1}*\vec{t}-\vec{t}\cdot \vec{t}*\vec{v_1})}{1+(\vec{t})^{2}}
+## end
+#216, 196:
+\vec{v_2}=\vec{v_1}+\frac{2\ \vec{v_1}\times \vec{t}}{1+\left(\vec{t}\right)^{2}}+\frac{2\ \left(\vec{t}\cdot \vec{v_1}\ \vec{t}-\vec{t}\cdot \vec{t}\ \vec{v_1}\right)}{1+\left(\vec{t}\right)^{2}}
+## end
+#217, 131:
+\vec{v_2}=\vec{v_1}+\frac{2*\vec{v_1}\times \vec{t}}{1+(\vec{t})^2}+\frac{2*(\vec{v_1}\times \vec{t})\times \vec{t}}{1+(\vec{t})^2}
+## end
+#220, 170:
+\vec{v_2}=\vec{v_1}+\frac{2\ \vec{v_1}\times \vec{t}}{1+\left(\vec{t}\right)^{2}}+\frac{2\ \left(\vec{v_1}\times \vec{t}\right)\times \vec{t}}{1+\left(\vec{t}\right)^{2}}
+## end
+#221, 97:
+\vec{v_2}=\vec{v_1}+(\vec{v_1}+\vec{v_1}\times \vec{t})\times (\frac{2*\vec{t}}{1+(\vec{t})^{2}})
+## end
+#224, 131:
+\vec{v_2}=\vec{v_1}+\left(\vec{v_1}+\vec{v_1}\times \vec{t}\right)\times \left(\frac{2\ \vec{t}}{1+\left(\vec{t}\right)^{2}}\right)
+## end
+#225, 39:
+\vec{s}=\frac{2*\vec{t}}{1+(\vec{t})^2}
+## end
+#228, 53:
+\vec{s}=\frac{2\ \vec{t}}{1+\left(\vec{t}\right)^{2}}
+## end
+#229, 44:
+\vec{v_2}=\vec{v_1}+\vec{v_12}\times \vec{s}
+## end
+#232, 44:
+\vec{v_2}=\vec{v_1}+\vec{v_12}\times \vec{s}
+## end
+#233, 44:
+\vec{v_12}=\vec{v_1}+\vec{v_1}\times \vec{t}
+## end
+#236, 44:
+\vec{v_12}=\vec{v_1}+\vec{v_1}\times \vec{t}
+## end
+#237, 49:
+https://www.particleincell.com/2011/vxb-rotation/
+## end
+#238, 57:
+\vec{v_2}=\vec{v_1}+\vec{v_1}*\frac{2*\mat{t}}{1-\mat{t}}
+## end
+#241, 65:
+\vec{v_2}=\vec{v_1}+\vec{v_1}\ \frac{2\ \mathbf{t}}{1-\mathbf{t}}
+## end
+#242, 47:
+\vec{v_2}=\vec{v_1}*\frac{1+\mat{t}}{1-\mat{t}}
+## end
+#245, 54:
+\vec{v_2}=\vec{v_1}\ \frac{1+\mathbf{t}}{1-\mathbf{t}}
+## end
+#246, 49:
+\vec{v_2}-\vec{v_1}=(\vec{v_2}+\vec{v_1})*\mat{t}
+## end
+#249, 64:
+\vec{v_2}-\vec{v_1}=\left(\vec{v_2}+\vec{v_1}\right)\ \mathbf{t}
+## end
+#250, 70:
+\vec{v_2}-\vec{v_1}=\frac{q*\Delta}{2*m}*(\vec{v_2}+\vec{v_1})*\mat{B}
+## end
+#253, 88:
+\vec{v_2}-\vec{v_1}=\frac{q\ \Delta}{2\ m}\ \left(\vec{v_2}+\vec{v_1}\right)\ \mathbf{B}
+## end
+#254, 78:
+\frac{\vec{v_2}-\vec{v_1}}{\Delta}=\frac{q}{2*m}*(\vec{v_2}+\vec{v_1})*\mat{B}
+## end
+#257, 95:
+\frac{\vec{v_2}-\vec{v_1}}{\Delta}=\frac{q}{2\ m}\ \left(\vec{v_2}+\vec{v_1}\right)\ \mathbf{B}
+## end
+#271, 747:
+<!--
++[H函数](,Boris草稿)
+
+参考::https://www.particleincell.com/2011/vxb-rotation/
++[打开](,参考)
+-->
+We want to calculate \(\vec{v_2}\) from following equation,
+%[1].
+%[2].
+By define \(\mathbf{t}=\frac{q*\Delta}{2*m}*\mathbf{B}\), we have,
+%[3].
+%[4].
+%[5].
+
+If we use the algorithm from the web page, we will have,
+%[6].
+%[7].
+%[8].
+
+After putting all equations together, there will be,
+%[9].
+%[10].
+%[11].
+%[12].
+
+
+<!--
+[11].:
+式(11)转换为"表达式"
+将"\vec{v_2}=\frac{\vec{v_1}+2*\vec{v_1}\times \vec{t}+2*\vec{t}\cdot \vec{v_1}*\vec{t}-\vec{t}\cdot \vec{t}*\vec{v_1}}{1+\vec{t}\cdot \vec{t}}"记作为式(12)
+将式(10)记作为式(11)
+将式(8)代入到式(9)
+将"(\vec{v_1}\times \vec{t})\times \vec{t}=\vec{t}\cdot \vec{v_1}*\vec{t}-\vec{t}\cdot \vec{t}*\vec{v_1}"代入到式(11)
++[H函数](,Boris草稿)
+-->
+## end
+#272, 44:
+\vec{T}=\frac{e*\d{t}}{\gamma_1*m_e}*\vec{B}
+## end
+#275, 48:
+\vec{T}=\frac{e\ dt}{\gamma_{1}\ m_{e}}\ \vec{B}
+## end
+#276, 70:
+\gamma_1=\sqrt{1+\frac{\vec{p_1}}{m_e*c}\cdot \frac{\vec{p_1}}{m_e*c}}
+## end
+#280, 78:
+\gamma_{1}=\sqrt{1+\frac{\vec{p_1}}{m_{e}\ c}\cdot \frac{\vec{p_1}}{m_{e}\ c}}
+## end
+#281, 33:
+\vec{p_1}=\vec{p_0}+\d{\vec{p_1}}
+## end
+#285, 30:
+\vec{p_1}=\vec{p_0}+d\vec{p_1}
+## end
+#286, 29:
+\d{\vec{p_1}}=e*\vec{E}*\d{t}
+## end
+#290, 25:
+d\vec{p_1}=e\ \vec{E}\ dt
+## end
+#291, 32:
+\vec{r}=\vec{r}+\vec{p_sm}*invgf
+## end
+#294, 33:
+\vec{r}=\vec{r}+\vec{p_sm}\ invgf
+## end
+#295, 14:
+invgf=invgf*dt
+## end
+#298, 15:
+invgf=invgf\ dt
+## end
+#299, 18:
+\vec{p}=\vec{p_sm}
+## end
+#302, 18:
+\vec{p}=\vec{p_sm}
+## end
+#303, 51:
+invgf=\frac{1}{\sqrt{1+\vec{p_sm}\cdot \vec{p_sm}}}
+## end
+#306, 51:
+invgf=\frac{1}{\sqrt{1+\vec{p_sm}\cdot \vec{p_sm}}}
+## end
+#307, 50:
+\vec{p_sm}=\vec{p_sm}+\mat{B_f}*\vec{um}*inv_det_T
+## end
+#310, 57:
+\vec{p_sm}=\vec{p_sm}+\mathbf{B_f}\ \vec{um}\ inv_{det_T}
+## end
+#311, 42:
+inv_det_T=\frac{1}{1+\vec{T}\cdot \vec{T}}
+## end
+#314, 44:
+inv_{det_T}=\frac{1}{1+\vec{T}\cdot \vec{T}}
+## end
+#315, 21:
+\vec{T}=invgf*\vec{B}
+## end
+#318, 22:
+\vec{T}=invgf\ \vec{B}
+## end
+#319, 61:
+invgf=\frac{e}{m_e}*\frac{1}{\sqrt{1+\vec{um}\cdot \vec{um}}}
+## end
+#322, 64:
+invgf=\frac{e}{m_{e}}\ \frac{1}{\sqrt{1+\vec{um}\cdot \vec{um}}}
+## end
+#323, 27:
+\vec{um}=\vec{p}+\vec{p_sm}
+## end
+#326, 27:
+\vec{um}=\vec{p}+\vec{p_sm}
+## end
+#327, 32:
+\vec{p_sm}=\frac{e}{m_e}*\vec{E}
+## end
+#330, 35:
+\vec{p_sm}=\frac{e}{m_{e}}\ \vec{E}
+## end
+#331, 76:
+\mat{B_f}=\mat{I}-(\vec{T}\cdot \vec{T})*\mat{I}+2*\vec{T}*\vec{T}+2*\mat{T}
+## end
+#332, 76:
+\mat{B_f}=\mat{I}-(\vec{T}\cdot \vec{T})*\mat{I}+2*\vec{T}*\vec{T}+2*\mat{T}
+## end
+#337, 103:
+\mathbf{B_f}=\mathbf{I}-\left(\vec{T}\cdot \vec{T}\right)\ \mathbf{I}+2\ \vec{T}\ \vec{T}+2\ \mathbf{T}
+## end
+#338, 189:
+\mat{B_f}=\mat{1+T_x*T_x-T_y*T_y-T_z*T_z,2*(T_x*T_y+T_z),2*(T_z*T_x-T_y);2*(T_x*T_y-T_z),1-T_x*T_x+T_y*T_y-T_z*T_z,2*(T_y*T_z+T_x);2*(T_z*T_x+T_y),2*(T_y*T_z-T_x),1-T_x*T_x-T_y*T_y+T_z*T_z}
+## end
+#341, 381:
+\mathbf{B_f}=\begin{pmatrix}
+1+T_{x}\ T_{x}-T_{y}\ T_{y}-T_{z}\ T_{z}&2\ \left(T_{x}\ T_{y}+T_{z}\right)&2\ \left(T_{z}\ T_{x}-T_{y}\right)\\ 2\ \left(T_{x}\ T_{y}-T_{z}\right)&1-T_{x}\ T_{x}+T_{y}\ T_{y}-T_{z}\ T_{z}&2\ \left(T_{y}\ T_{z}+T_{x}\right)\\ 2\ \left(T_{z}\ T_{x}+T_{y}\right)&2\ \left(T_{y}\ T_{z}-T_{x}\right)&1-T_{x}\ T_{x}-T_{y}\ T_{y}+T_{z}\ T_{z}
+\end{pmatrix}
+
+
+## end
+#342, 1705:
+/*
+笔记:...
++[新建阅读窗口](,笔记)
+*/
+
+// init Half-acceleration in the electric field
+double pxsm = charge_over_mass_dts2*( Ex[ipart2] );
+double pysm = charge_over_mass_dts2*( Ey[ipart2] );
+double pzsm = charge_over_mass_dts2*( Ez[ipart2] );
+
+
+//(*this)(particles, ipart, (*Epart)[ipart], (*Bpart)[ipart] , (*invgf)[ipart]);
+const double umx = momentum_x[ipart] + pxsm;
+const double umy = momentum_y[ipart] + pysm;
+const double umz = momentum_z[ipart] + pzsm;
+
+
+// Rotation in the magnetic field
+double local_invgf     = charge_over_mass_dts2 / std::sqrt( 1.0 + umx*umx + umy*umy + umz*umz );
+const double Tx        = local_invgf * ( Bx[ipart2] );
+const double Ty        = local_invgf * ( By[ipart2] );
+const double Tz        = local_invgf * ( Bz[ipart2] );
+const double inv_det_T = 1.0/( 1.0+Tx*Tx+Ty*Ty+Tz*Tz );
+
+
+pxsm += ( ( 1.0+Tx*Tx-Ty*Ty-Tz*Tz )* umx  +      2.0*( Tx*Ty+Tz )* umy  +      2.0*( Tz*Tx-Ty )* umz )*inv_det_T;
+pysm += ( 2.0*( Tx*Ty-Tz )* umx  + ( 1.0-Tx*Tx+Ty*Ty-Tz*Tz )* umy  +      2.0*( Ty*Tz+Tx )* umz )*inv_det_T;
+pzsm += ( 2.0*( Tz*Tx+Ty )* umx  +      2.0*( Ty*Tz-Tx )* umy  + ( 1.0-Tx*Tx-Ty*Ty+Tz*Tz )* umz )*inv_det_T;
+
+
+// finalize Half-acceleration in the electric field
+local_invgf = 1. / std::sqrt( 1.0 + pxsm*pxsm + pysm*pysm + pzsm*pzsm );
+invgf[ipart2] = local_invgf; //1. / sqrt( 1.0 + pxsm*pxsm + pysm*pysm + pzsm*pzsm );
+
+
+momentum_x[ipart] = pxsm;
+momentum_y[ipart] = pysm;
+momentum_z[ipart] = pzsm;
+
+
+// Move the particle
+local_invgf *= dt;
+//position_x[ipart] += dt*momentum_x[ipart]*invgf[ipart2];
+position_x[ipart] += pxsm*local_invgf;
+if (nDim_>1) {
+    position_y[ipart] += pysm*local_invgf;
+    if (nDim_>2) {
+        position_z[ipart] += pzsm*local_invgf;
+    }
+}
+
+
+
+## end
+#364, 992:
+<!--
++[H函数](,算法描述)
+Smilei实现:...
++[新建阅读窗口](,Smilei实现)
+
+Boris草稿:...
++[新建阅读窗口](,Boris草稿)
++[H函数](,Boris草稿)
+-->
+First make the following definition,
+%[1].
+%[2].
+The whole process is,
+%[3].
+%[4].
+%[5].
+%[6].
+%[7].
+%[8].
+%[9].
+%[10].
+
+Move electrons,
+%[11].
+%[12].
+
+Above are the direct transformation from Smilei code to LaTeX. The trick part should be the eq.[2]. Let's rewrite the whole process in a more understandable way,
+%[13].
+%[14].
+
+The Boris is used for calculating the trajectory in a magnetic field. The final momentum was got by,
+%[15].
+%[16].
+%[17].
+%[18].
+
+
+<!--
+[13].:
+式(15)转换为"Matlab"
+
+将"\gamma_1=\sqrt{1+\frac{\vec{p_1}}{m_e*c}\cdot \frac{\vec{p_1}}{m_e*c}}"记作为式(15)
+将式(2)代入到式(17)
+将式(14)记作为式(14)
+将"e*\mat{B}*\frac{\vec{p_1}}{\gamma_1*m_e}=\frac{e}{\gamma_1*m_e}*\mat{B}*\vec{p_1}"代入到式(15)
+
+验证公式(M函数):...
++[新建阅读窗口](,验证公式)
+
++[显示](,记忆)
+Nini, 打开词典的条目(节点)
+Nini, 打开公式分析器(文件)
+
++[设置结构](,[16].)
+[]=>的([15].,表达式)=>+[删除结构](,表达式)
+的([15].,表达式)->+[del](,表达式)
+
++[H函数](,算法描述)
++[H函数](,Boris草稿)
+-->
+## end
+#365, 49:
+https://www.particleincell.com/2011/vxb-rotation/
+## end
+#366, 64:
+https://smileipic.github.io/Smilei/algorithms.html#particle-push
+## end
+#370, 178:
+
+SmileiPush::https://smileipic.github.io/Smilei/algorithms.html#particle-push
+算法::https://www.particleincell.com/2011/vxb-rotation/
++[打开](,算法)
+
+算法描述(html):...
++[新建阅读窗口](,算法描述)
+
+
+
+## end
+#372, 3:
+386
+## end
+### 结束

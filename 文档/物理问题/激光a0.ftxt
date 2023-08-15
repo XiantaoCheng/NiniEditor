@@ -1,0 +1,676 @@
+### 节点
+地址, PIC模拟结果, 分母, 分子, 分式, *, e, 的, *, m, 的, A_0, ^, c, 2, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, =, a_0, WeiLu07, 计算A0, *, 分母, 分子, 分式, *, c, 的, *, 4, 的, ^, k, 2, \pi, ^, A_0, 2, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, =, I_0, 计算I0, *, 分母, 分子, 分式, *, 输入, sqrt, 的, 2, 的, \pi, 的, \pi, *, I_0, *, ^, w_0, 2, \tau, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, =, E, 问题, 分母, 分子, 分式, t, 的, \tau, 的, 的, 的, 的, 的, 的, =, t', *, 输入, sqrt, 2, 的, 分母, 分子, 分式, r, 的, w_0, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, =, r', 的, 的, 归一化, *, I_0, *, 输入, exp, 分母, 分子, 分式, 的, *, 2, 的, ^, w_0, 的, ^, r, 2, 2, -, 输入, exp, 分母, 分子, 分式, 的, ^, t, 的, ^, \tau, 的, 2, 2, -, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, =, I, [标题], 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 激光a0, 目录, 的, 的, 测试, 的, 依据公式, 的, 依据公式, 的, 节点数目统计, 20210321, 的, 的, a0, 的, Gaussian units, 20210331, 的, 20210413, 的, 的, 网页画板, 的, a0对应光强, M函数, 20210428, 的, 20210430, 的, 的, 激光动词, 的, 求解, 的, 公式, html, 的, M代码, 20210614, 的, 20220820, 的, 的, a0使用公式, 的, [1]., 的, [2]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [3]., 的, [4]., 表达式, 的, 公式, 表达式, 的, 公式, 的, 测试公式, M函数, 的, [5]., 的, [6]., 表达式, 的, 公式, 的, 高斯单位, 打开网页, 表达式, 的, 公式, 读取, 
+### 关联
+#, #, 4#, 4#, #, 6#11, #, 3#6, 9#13, #, 2#9, #, 13#14, #, #, 27#4, 27#3, 27#2, 27#6, 27#5, 27#11, 27#9, 27#8, 27#13, 27#12, 27#14, 27#4, #, #, #, 33#45, 33#, 33#, #, 35#41, #, 32#35, 38#43, #, 31#38, 41#42, #, #, #, 45#46, #, #, 63#33, 63#32, 63#31, 63#35, 63#34, 63#41, 63#40, 63#42, 63#38, 63#37, 63#43, 63#30, 63#45, 63#44, 63#46, 63#33, #, #, 68#79, 68#, 68#, #, 71#77, 71#, #, 67#71, #, 66#73, #, 70#75, #, 79#82, #, 82#84, 82#83, #, #, #, 103#68, 103#67, 103#66, 103#71, 103#70, 103#75, 103#69, 103#77, 103#73, 103#65, 103#79, 103#78, 103#82, 103#81, 103#83, 103#80, 103#84, 103#68, #, #, 107#, 107#, #, #, 106#108, #, 105#110, 118#107, 118#106, 118#105, 118#108, 118#110, 118#107, #, 121#126, 121#, #, #, 120#122, 126#, 126#, #, #, 125#127, #, 124#129, 141#121, 141#120, 141#122, 141#119, 141#126, 141#125, 141#124, 141#127, 141#129, 141#121, #, 144#118, 144#141, #, 146#149, #, 149#166, 149#, #, 152#, 152#, #, 148#152, 155#161, #, 151#155, 158#163, #, 150#158, 161#162, #, #, #, #152, 166#, #, 169#, 169#, #, 165#169, 172#177, #, 168#172, 175#178, #, 167#175, #, #, #169, 210#146, 210#145, 210#149, 210#148, 210#152, 210#151, 210#150, 210#155, 210#154, 210#161, 210#160, 210#162, 210#158, 210#157, 210#163, 210#164, 210#147, 210#166, 210#165, 210#169, 210#168, 210#167, 210#172, 210#171, 210#177, 210#175, 210#174, 210#178, 210#179, 210#146, #, #, 223#0, 223#1, 223#27, 223#28, 223#29, 223#63, 223#64, 223#103, 223#104, 223#144, 223#210, #, #, 224#223, 224#227, #, 64#229, #, 29#231, #, 224#233, #, #, 233#234, 223#237, #, 237#239, #, #, 233#240, #, 233#242, 223#245, #, 237#247, #, 247#, #, 233#249, #, 233#251, 223#254, #, 254#256, #, 256#258, #, 258#, 256#261, #, #, 233#262, #, 233#264, 223#267, #, 267#269, #, 267#271, #, #, 269#272, 269#, #, 271#275, 271#, 267#279, #, 267#281, #, #, 279#282, 279#, #, 281#285, 281#, 267#289, #, 289#, 267#292, #, 267#294, #, #, 292#295, 292#, 267#299, #, #299, #, 294#301, 294#, del#267, 
+### 内容
+#0, 17:
+文档\物理问题\激光a0.ftxt
+## end
+#1, 1564:
+%{
++[返回目录]
++[返回]
++[标签](+PIC,)->+[标签](+M程序,)->+[标签](+模拟结果,)->+[标签](+Smilei,)
++[标签](+第一轮搜索,)
+%}
+%i=1;
+
+
+
+address_table="C:\Users\cheng\Desktop\Laser\TACC\programs\20200210simulationAnalysis_search\";
+a0_t=readtable(address_table+'table_a0.txt');
+ns_s=readtable(address_table+'table_ns.txt');
+rb_s=readtable(address_table+'table_rb.txt');
+
+a0_t=a0_t{:,:};
+ns_s=ns_s{:,:};
+rb_s=rb_s{:,:};
+DX=readmatrix(address_table+'DX.txt');
+DT=readmatrix(address_table+'DT.txt');
+
+lambda=1.8e-6;
+
+addpath('C:\Users\cheng\Desktop\Laser\TACC\programs');
+addpath('C:\Users\cheng\Desktop\Laser\TACC\programs\20200203parameterSearch');
+
+fileName=sprintf('C:\\Users\\cheng\\Desktop\\Laser\\TACC\\UCF\\20200210search\\example%d%d\\Fields0.h5',i,j);
+info=h5info(fileName);
+t_size=size(info.Groups.Groups,1);
+
+[tau,rb,ns,scales]=parameters_transfer(lambda,12.5,rb_s,ns_s,'toSIUnits');
+DX=DX*scales.Lr;
+DT=DT*scales.Tr;
+
+
+dx=DX(i,j);
+dy=rb(i,j)/6;
+dt=DT(i,j);
+a0=a0_t(i,j);
+r_b=rb(i,j);
+n0=ns(i,j);
+
+for k=1:t_size
+field=getFieldDataFromHdf5(fileName,field_type,k);
+T=100*k*dt;
+if k==1
+    x=1:size(field,2);
+    y=1:size(field,1);
+    [X,Y]=meshgrid(x*dx,y*dy);
+    handle=surf(X/1e-6,Y/1e-6,field);
+    ha=annotation('textbox',[0.8,0.85,0.1,0.1],'backgroundcolor','w','string',sprintf('T=%.1ffs',T/1e-15));
+    view([0,90]);
+    shading interp
+    title(sprintf('%s field, a_0=%.1f, r_b=%.1fum, n_0=%.3ecm^-^3',field_type,a0,r_b/1e-6,n0))
+    xlabel('X[\mum]');
+    ylabel('Y[\mum]');
+else
+    set(handle,'ZData',field);
+    set(ha,'string',sprintf('T=%.1ffs',T/1e-15))
+end
+pause(0.1);
+end
+## end
+#26, 17:
+frac(e*A_0,m*c^2)
+## end
+#27, 85:
++[返回目录]
++[返回]
++[标签](+公式,)->+[标签](+定义,)->+[标签](+a_0,)
++[标签](+高斯单位制,)
++[显示页面](browser,)
+## end
+#28, 58:
+file:///C:/Users/cheng/Desktop/paper/LWFA/WeiLu07,PRST.pdf
+## end
+#29, 269:
+%{
++[返回目录]
+
+依据公式:...
++[网页](web,依据公式)
+
+%}
+
+% 注意一下, Gaussian units里面的e和SI units里面的e, 数值是不一样的
+
+
+physics_constant;
+e_G=e/sqrt(4*pi*epsilon0);
+
+%w0=5e-6;
+E=20e-3;
+tau=12e-15;
+
+I0=2*E/sqrt(pi)/pi/w0^2/tau
+
+lambda=1.8e-6;
+k=2*pi/lambda;
+A0=sqrt(4*pi*I0/c/k^2)
+a0=e_G*A0/me/c^2
+## end
+#62, 23:
+frac(c*k^2,4*\pi)*A_0^2
+## end
+#63, 62:
++[返回目录]
++[标签](+公式,)->+[标签](+高斯单位制,)->+[标签](+光强,)->+[标签](+A_0,)
+## end
+#64, 83:
+%{
++[返回目录]
+
+依据公式:...
+%}
+%w0=5e-6;
+E=20e-3;
+tau=12e-15;
+
+I0=2*E/sqrt(pi)/pi/w0^2/tau
+## end
+#102, 36:
+frac(sqrt(\pi)*\pi,2)*I_0*w_0^2*\tau
+## end
+#104, 246:
+
++[段落](,+E)->+[=]"int(0,2*\pi,\theta,int(0,\infty,r,r*int(-\infty,\infty,t,I)))"(+E,)
+E->[段落](,E)->+[删除内容](,E)
+I->[段落](,I)->=(I,_)->+[结构式](I,_)
+结构式(I,I_0)->E->[段落](,E)->的(E,I#0)->+[公式](结构式,E)->+[变量代换](+[公式],I#0)
+
+要做计算先解决变量代换的问题吧.
+现在不能这样了. 今晚就做. 
+
+## end
+#117, 12:
+frac(t,\tau)
+## end
+#140, 19:
+sqrt(2)*frac(r,w_0)
+## end
+#209, 50:
+I_0*exp(-frac(2*r^2,w_0^2))*exp(-frac(t^2,\tau^2))
+## end
+#211, 4:
+激光a0
+## end
+#223, 2188:
++[返回目录]
+地址::文档\物理问题\激光a0.ftxt
++[导出结构](,激光a0)
+
+激光动词:...
++[设置动词](,激光动词)
+
+
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+
+
+a0:...
+a0使用公式:....
++[H函数](,a0使用公式)
++[H函数](,a0)
+(A0和I0的关系不太对. 见星辰的等离子体的相关公式)
++[新建阅读窗口](,a0使用公式)
+
+
+分为两个部分:
+1.能量形状和光强分布的关系;
+2.光强和A0的关系.
+这里用高斯单位制.
+
+
+1.能量分布:
++[段落](,+I)->+[=]"I_0*exp(-frac(2*r^2,w_0^2))*exp(-frac(t^2,\tau^2))"(+I,)
+I->[段落](,I)->+[显示公式](,I)
++[段落](,+归一化)->+的(+归一化,+r')->+的(+归一化,+t')...
+->+[=]"sqrt(2)*frac(r,w_0)"(+r',)->+[=]"frac(t,\tau)"(+t',)
+归一化->[段落](,归一化)->的(归一化,r')->的(归一化,t')...
+->+[显示公式](,r')->+[显示公式](,t')
+
++[段落](,+问题)->+问题"
++[段落](,+E)->+[=]\"int(0,2*\pi,\theta,int(0,\infty,r,r*int(-\infty,\infty,t,I)))\"(+E,)
+E->[段落](,E)->+[删除内容](,E)
+I->[段落](,I)->=(I,_)->+[结构式](I,_)
+结构式(I,I_0)->E->[段落](,E)->的(E,I#0)->+[公式](结构式,E)->+[变量代换](+[公式],I#0)
+
+要做计算先解决变量代换的问题吧.
+现在不能这样了. 今晚就做. 
+"
+
++[段落](,+E)->+[=]"frac(sqrt(\pi)*\pi,2)*I_0*w_0^2*\tau"(+E,)
+E->[段落](,E)->+[显示公式](,E)
+那么接下来就可以写程序计算I0了
++[段落](,计算I0)
+计算I0:...
+计算I0->[段落](,计算I0)->+[matlab](Matlab,)->+[code](+[matlab],计算I0)...
+->+[.]"w0"(+[matlab],+[w0])...
+->+[w0]"5e-6"
+
+
+2.计算A0:
+直接手算了:
++[段落](,+I_0)->+[=]"frac(c*k^2,4*\pi)*A_0^2"(+I_0,)
+I_0->[段落](,I_0)->+[显示公式](,I_0)
++[段落](,+WeiLu07)->+WeiLu07"file:///C:/Users/cheng/Desktop/paper/LWFA/WeiLu07,PRST.pdf"
++[段落](,+计算A0)
++[段落](,+a_0)->+[=]"frac(e*A_0,m*c^2)"(+a_0,)->+引用"第2页,第2段"(+a_0,WeiLu07)
+a_0->[段落](,a_0)->+[显示公式](,a_0)
+
+a_0:...
+I_0:...
+m_readPtr(editor,_)->的(_,a_0)->+[显示公式](,a_0)
+m_readPtr(editor,_)->的(_,I_0)->+[显示公式](,I_0)
+m_readPtr(editor,_)->的(_,E)->+[显示公式](,E)
+
+计算A0:...
+计算I0->[段落](,计算I0)->+[matlab](Matlab,)->+[code](+[matlab],计算I0)...
+->+[.]"w0"(+[matlab],+[w0])...
+->+[w0]"5e-6"(,)...
+->计算A0->[段落](,计算A0)->+[matlab](Matlab,)->+[code](+[matlab],计算A0)
+
+
+MidIR->的(MidIR,M程序)->选择(,list)=>.[i](list,_)=>+的(M程序,_)
++[matlabStart](,Matlab)
+3.PIC模拟的结果:
+接下来做一个读取之前模拟结果的入口程序. 要求是, 输入模拟序号, 输出模拟结果以及a0, 以及density的参数.
+所有的东西都可以只反映在matlab程序中
++[段落](,PIC模拟结果)
+
+PIC模拟结果:...
+PIC模拟结果{[段落](,PIC模拟结果)}->+[matlab](Matlab,)->+[code](+[matlab],PIC模拟结果)...
+->+[.]"i"(+[matlab],+[i])->+[.]"j"(+[matlab],+[j])->+[.]"field_type"(+[matlab],+[type])...
+->+[i]"1"->+[j]"1"->+[type]"Rho"
+
+
++[matlabStart](,Matlab)
+
+WeiLu07::file:///C:/Users/cheng/Desktop/paper/LWFA/WeiLu07,PRST.pdf
+## end
+#224, 96:
+激光a0:...
+创建于 20210216
++[修改标题]"目录"(,文本)
+
+节点数目统计::
+
+
+[当前文件](文本,)->是([当前文件],_)->+[显示星图](,_)
+
+测试:...
+## end
+#227, 41:
+%{
++[M函数](,测试)
+%}
+
+
+name1
+text(0,0,name1)
+## end
+#229, 684:
+<!--
++[返回目录](,依据公式)
+
++[网页](web,依据公式)
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+For a laser pulse, if the intensity distribution is,
+$$
+I(r,t)=I_0 exp(-\frac{2 r^2}{w_0^2}) exp(-\frac{t^2}{\tau^2})
+$$
+Then the total energy is, 
+$$
+E=\frac{\sqrt{\pi}\pi w_0^2\tau I_0}{2}
+
+$$
+In other words, the intensity is, 
+$$
+I_0=\frac{2 E}{\sqrt{\pi}\pi w_0^2\tau}
+$$
+
+
+<!--
++[网页](web,依据公式)
+-->
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#231, 987:
+<!--
++[返回目录]
++[网页](web,依据公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+To calculate \(a_0\) from the total energy, \(E\), of the laser pulse, we can use following formulas:<br>
+If the intensity of the pulse is,
+$$
+I(r,t)=I_0 exp(-\frac{2 r^2}{w_0^2}) exp(-\frac{t^2}{\tau^2})
+$$
+Then the peak intensity is,
+$$
+I_0=\frac{2 E}{\sqrt{\pi}\pi w_0^2\tau}
+$$
+In the Gaussian units, the normalized \(a_0\) is,
+$$
+A_0=\sqrt{\frac{I_0 \lambda^2}{\pi c}}
+$$
+$$
+a_0=\frac{e_G A_0}{m_e c^2}=\frac{e_G}{m_e c^2}\sqrt{\frac{I_0 \lambda^2}{\pi c}}
+$$
+In the SI units, the normalized \(a_0\) is,
+$$
+a_0=\frac{e}{2 \pi m_e c^2}\sqrt{\frac{I_0 \lambda^2}{\epsilon_0 c}}
+$$
+
+
+
+
+<!--
++[网页](web,依据公式)
+-->
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#234, 3:
+240
+## end
+#237, 1713:
+<!--
++[H函数](,a0)
+
+Gaussian units::https://en.wikipedia.org/wiki/Gaussian_units
++[打开](,Gaussian units)
+-->
+
+<b><u>Definition</u></b><br>
+In the SI units, the \(\vec{A}\) is,
+$$
+\vec{E}=-\nabla \phi-\frac{\partial \vec{A}}{\partial t}
+$$
+For the harmonic plane wave, we have,
+$$
+\vec{E}=-\frac{\partial \vec{A}}{\partial t}=i\omega \vec{A}
+$$
+
+In the Gaussian units, the normalized \(a_0\) is,
+$$
+a_0=\frac{e_G A_G}{m_e c^2}
+$$
+Then, in the SI units, the normalized \(a_0\) is,
+$$
+a_0=\frac{e A_0}{m_e c^2}\cdot \frac{c \sqrt{4 \pi \epsilon_0}}{\sqrt{4 \pi \epsilon_0}}
+=\frac{e A_0}{m_e c}
+$$
+As a result, the relation of it with the electric field is, 
+$$
+E_0=i\omega A_0
+=\frac{i\omega m_e c}{e} a_0
+$$
+<br>
+
+
+
+
+
+<b><u>Pulse Laser</u></b><br>
+To calculate \(a_0\) from the total energy, \(E\), of the laser pulse, we can use following formulas:<br>
+If the intensity of the pulse is,
+$$
+I(r,t)=I_0 exp(-\frac{2 r^2}{w_0^2}) exp(-\frac{t^2}{\tau^2})
+$$
+Then the peak intensity is,
+$$
+I_0=\frac{2 E}{\sqrt{\pi}\pi w_0^2\tau}
+$$
+In the Gaussian units, the normalized \(a_0\) is,
+$$
+A_0=\sqrt{\frac{I_0 \lambda^2}{\pi c}}
+$$
+$$
+a_0=\frac{e_G A_0}{m_e c^2}=\frac{e_G}{m_e c^2}\sqrt{\frac{I_0 \lambda^2}{\pi c}}
+$$
+In the SI units, the normalized \(a_0\) is,
+$$
+a_0=\frac{e}{2 \pi m_e c^2}\sqrt{\frac{I_0 \lambda^2}{\epsilon_0 c}}
+$$
+
+<b><u>Laser intensity</u></b><br>
+The formula is,
+$$
+\frac{I_0 \lambda^2}{\epsilon_0 c}
+=\left(\frac{2\pi m_e c^2 a_0}{e}\right)^2
+$$
+$$
+I_0
+=\left(\frac{2\pi m_e c^2 a_0}{e}\right)^2 \frac{\epsilon_0 c}{\lambda^2}
+$$
+For example, when \(a_0=1\) and \(\lambda=1.8\mu m\), the laser intensity is \(I_0=8.44\times 10^{17} W/cm^2\)
+
+<!--
++[H函数](,a0)
+
+a0对应光强(M函数):...
++[M函数](,a0对应光强)
+-->
+
+## end
+#239, 44:
+https://en.wikipedia.org/wiki/Gaussian_units
+## end
+#240, 3:
+242
+## end
+#242, 3:
+252
+## end
+#245, 16:
+文档\S应用\网页画板.ftxt
+## end
+#247, 175:
+%{
++[返回目录](,a0对应光强)
++[M函数](,a0对应光强)
+%}
+
+physics_constant;
+lm=1.8e-6;
+a0=1;
+
+I0=(2*pi*me*c^2*a0/e)^2*epsilon0*c/lm^2;
+disp(sprintf('a_0=%.2f, I_0=%.2e W/cm^2',a0,I0/1e4));
+
+
+
+
+
+## end
+#249, 3:
+251
+## end
+#251, 3:
+262
+## end
+#254, 24:
++[返回目录](,激光动词)
+
+求解:...
+
+
+## end
+#256, 410:
+"""
++[返回目录](,求解)
+
+示例::已知波包的总能量, 展宽和腰宽, 求解光强.
++[求解](,+[光强])->+[已知](+[求解],+[波包])...
+->+[的](+[波包],+[总能量])->+[的](+[波包],+[展宽])->+[的](+[波包],+[腰宽])
+
+M代码:...
+公式(html):...
+
+"""
+
++求解(,光强)->+[del](,+求解)...
+->已知(+求解,波包)->的(波包,总能量)->的(波包,展宽)->的(波包,腰宽)...
+->的(求解,M代码)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"E0"(+[matlab],总能量)->+[.]"tau"(+[matlab],展宽)->+[.]"w0"(+[matlab],腰宽)...
+->+[o]"I0"(+[matlab],光强);
+
+
+## end
+#258, 326:
+<!--
++[返回目录](,公式)
+
++[H函数](,公式)
+
+-->
+
+以下公式参考 激光a0 的a0. <br>
+$$
+I(r,t)=I_0 exp(-\frac{2 r^2}{w_0^2}) exp(-\frac{t^2}{\tau^2})
+$$
+$$
+I_0=\frac{2 E_0}{\sqrt{\pi}\pi w_0^2\tau}
+$$
+Here, \(E_0\) is the total energy of the laser pulse. The waist of the beam is \(w_0\), and the pulse duration is \(\tau\). <br>
+
+<!--
++[H函数](,公式)
+-->
+
+## end
+#261, 560:
+%{
++[返回目录](,M代码)
+
++[M函数](,M代码)
+%}
+
+physics_constant;
+
+%E0=24e-3;
+%w0=1e-2;
+%tau=12e-15;
+
+lambda_0=0.8e-6;
+angle=20.1; 
+
+% E0
+I0=2*E0/sqrt(pi)/pi/w0^2/tau;
+disp(sprintf('I0: %.2e W/cm^2',I0/1e4));
+
+x=linspace(-2*w0,2*w0,100);
+y=x;
+[X,Y]=meshgrid(x,y);
+T=linspace(-2*tau,2*tau,100);
+
+R=sqrt(X.^2+Y.^2);
+I_xy=I0*exp(-2*R.^2/w0^2);
+I_t=I0*exp(-T.^2/tau^2);
+
+subplot(1,2,1)
+surf(X/1e-2,Y/1e-2,I_xy/I0)
+view([0,90])
+shading interp
+axis equal
+xlabel('[cm]')
+ylabel('[cm]')
+
+subplot(1,2,2)
+plot(T/1e-15,I_t/1e4)
+xlabel('T [fs]')
+ylabel('I [W/cm^2]')
+
+%{
++[M函数](,计算)
+%}
+## end
+#262, 3:
+264
+## end
+#264, 3:
+318
+## end
+#267, 536:
+<!--
++[H函数](,a0使用公式)
+
+高斯单位::https://en.wikipedia.org/wiki/Gaussian_units#Units_for_magnetism
++[打开网页](,高斯单位)
+-->
+
+(已更正SI单位错误: 20230330)<br>
+The definition of a0 (SI units) is, 
+%[1].
+%[2].
+
+The relation between \(a_0\) and \(E_0\) is,
+%[3].
+%[4].
+
+In SI units, the relation between \(A_0\) and the peak intensity \(I_0\) is,
+%[5].
+%[6].
+
+
+<!--
+[5].:
+式(5)转换为"表达式"
+式(6)转换为"Matlab"
+将"I_0=(\frac{2*\pi}{\lambda})^2*\frac{c}{\mu_0}*A_0^2"记作为式(6)
+将"A_0=\sqrt{\frac{4*\pi}{\mu_0}}*A_0"代入到式(5)
+
+测试公式(M函数):...
++[新建阅读窗口](,测试公式)
++[H函数](,a0使用公式)
+-->
+## end
+#269, 31:
+a_{0}=\frac{e\ A_{0}}{m_{e}\ c}
+## end
+#271, 22:
+E_{0}=i\ \omega\ A_{0}
+## end
+#272, 23:
+a_0=\frac{e*A_0}{m_e*c}
+## end
+#275, 16:
+E_0=i*\omega*A_0
+## end
+#279, 42:
+E_{0}=\frac{i\ \omega\ m_{e}\ c}{e}\ a_{0}
+## end
+#281, 42:
+a_{0}=\frac{e}{i\ \omega\ m_{e}\ c}\ E_{0}
+## end
+#282, 32:
+E_0=\frac{i*\omega*m_e*c}{e}*a_0
+## end
+#285, 32:
+a_0=\frac{e}{i*\omega*m_e*c}*E_0
+## end
+#289, 242:
+%{
++[M函数](,测试公式)
+%}
+
+physics_constant;
+lm_0=800e-9;
+a_0=0.0001;
+r=40e-6;
+Dtau=20e-15;
+
+omega=2*pi*c/lm_0;
+E_0=(omega.*m_e.*c)./(e).*a_0;
+
+A_0=E_0/omega;
+I_0=((2.*pi)./(lm_0)).^(2).*(c)./(mu_0).*A_0^2;
+
+E_0
+I_0*Dtau*r^2*pi
+
+%{
++[M函数](,测试公式)
+%}
+## end
+#292, 61:
+A_{0}=\frac{\lambda}{2\ \pi}\ \sqrt{\frac{I_{0}\ \mu_{0}}{c}}
+## end
+#294, 75:
+I_{0}=\left(\frac{2\ \pi}{\lambda}\right)^{2}\ \frac{c}{\mu_{0}}\ A_{0}^{2}
+## end
+#295, 52:
+A_0=\frac{\lambda}{2*\pi}*\sqrt{\frac{I_0*\mu_0}{c}}
+## end
+#299, 64:
+https://en.wikipedia.org/wiki/Gaussian_units#Units_for_magnetism
+## end
+#301, 51:
+I_0=(\frac{2*\pi}{\lambda})^2*\frac{c}{\mu_0}*A_0^2
+## end
+### 结束

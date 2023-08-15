@@ -1,0 +1,777 @@
+### 节点
+地址, 的, 种子, 目录, 的, 种子, 种子1, 报告地址, 卡丁车游戏, GEANT4, 爬虫, PPT, GEANT4文件, 三维场景, 网页画板, iFAST日志, iFAST日志2, iFAST光路, 能谱仪论文, 平面测绘, 透镜设计, 星辰, 草稿, 能谱仪设计, 随机分布, 图形库, 一元三次方程, 公式结构, 公式分析器, 二维世界, JS编译器, Phaser, 阴影形状, 函数拟合, LWFA11数据分析, 光线传播, 计算波前, 波前模拟, 辐射防护, 实验室资源, 任务栏, 第一级放大光路, 第二级放大光路, 定义运算, 句子设计, 打印机, 打印机密码, 实验室总体信息, 双屏幕能谱, 能谱仪原理, 电子能谱, debug, 13975电子能谱, 能谱仪校正, 光栅压缩器, Booster光路, 透镜波前, 高斯光束, 配置文件, 博客生成器, 物理学难题集萃, 直线交点, 能谱仪模拟, 网页画图工具, 轫致辐射, 波前原理, 干涉原理, 光栅原理, 波包原理, 热透镜, LaTeX符号表, 日记, html位置, YAG折射, QR成像, TOPAS模拟, TOPAS光束, OPA原理, 周报告, 20220302报告, 当前文件夹, 文件夹, 计算卷积, 编程语言parser, 能谱仪误差, 像素矩阵, 能谱仪论文报告, TOPAS光路, QR光斑, 平面几何, 词典, Hussar, OPA模拟对照, 核心, 日记本1, TOPAS输出响应, BBO相位匹配, 激光放大模拟, 激光原理, CBS, 句子库, 中, 2, 中, 测试, 中, TOPAS光路图, TOPAS_1st_pump, 中, OPA_gain_paper, 中, 折射率椭圆, 中, 二维匹配图, 中, 扶桑核心, 句子相关, 句子库, 中, 句子结构, OPA_profile, 中, CCountListener, 中, 操作, 中, 句子库, 中, TOPAS光斑模拟, 散射分布, 中, 操作, 中, 计算库, 中, 波包, TOPAS系统, 中, grating_compressor_dtau, 中, 色散曲线, 中, 展宽变化, FOPA, spectrum, 中, spectrum2IP, 中, spectrum_x, 中, u_substitution, 中, iFAST资源, 列举图像, 中, TOPAS光斑测量, 收集数据, 中, Gaussian_fitting, 中, OPA光斑尺寸, trajectory_fiducial, 中, trajectory_uniform, 中, expected_shadows_13975, 中, spectrometer_para_13975, 中, scan_spectrometer_13975, 中, DesignTool2, 中, 轨迹测试, 中, 机械花园, 日记2, 日记本2, 当前日记, 花园, parser函数, 中, 词语库, 中, 本地地址, FROG, ThermalLensing, 第二级热透镜, Booster参数, 中, 光栅对场景, 相机驱动, C编译器, 几何画图, 中, 结构场景, 中, 模式, 中, 数据中心, 通用爬虫, 计算理论光斑, 中, FROG校正, read_FROG, 中, LWFA12数据分析, read_vis, 中, 列举可见光谱, 中, Dazzler校准, FROG_In, 中, FROG_trace, 中, 第一级放大光路, 中, Dazzler优化, writeDZphase, 中, readDZphase, 中, 列举FROG图像, 中, read_MIR, 中, 列举红外光谱, 中, addRefPt, 中, modRefPts, 中, modRefPt, 中, match_pts, 中, 能谱仪场景, 中, IP校正, 中, 网页编辑器, 衍射, 圆孔衍射, 中, func_peak, 中, 示意图场景, 中, 截面分布, 中, 画FROG, 中, 当前问题, 中, pulse_shift, 中, 计算波包, 中, grating_compressor_phase, 中, 电子能谱, 中, calibrationIP, 中, 照片测量, BeamTech测量, BBO晶体测量, 三维图形库, 中, FROG分析, 设置相机参数, 中, GetPointOnPlane, 中, 标记点, 中, camera_from_photo, 中, 计算IP能谱_LWFA12, 中, 计算能谱, 中, main, 中, get_Di, 中, auto_select, 中, get_axis_all, 中, 计算成像过程, 中, 网页聊天框, 能谱仪实验数据, 旋转, 中, 显示三维场景, 中, 七通放大, 放大模拟, 计算交点, 中, 平面投影, Local_coordinates, 中, 计算电子能谱, 中, IP_ATM_arb, 中, 天使, 缓存, readGEANT4_IP, 中, LaserNetUS, fiducial_method, 中, radiation_method, 中, spectrometer_error_test, 中, 实验参数, 中, 齿轮模拟, Smilei生成器, 超导, Booster光斑测量, intersection_lines, 中, intersection_lines_dir_pt, 中, Reflection_grating, 中, grating_compressor_path, 中, obj_2D_shape, 中, gear_2D, 中, rect_2D, 中, frame_from_pt_angle, 中, frame_from_pts, 中, frame_to_pts, 中, joint_two_arms, 中, gear_rotation, 中, 调光路, func_zero, 中, func_min, 中, 光线路径, 中, f1, 中, f2, 中, 光栅调节, 中, 光路场景, Blender, 函数工具, pt_in_frame, 中, Smilei, NameList解读器, 喷嘴设计, PIC模拟_MIR, 法拉第旋转, plasma, 相对论双折射, WavefrontPropagation, 中, GaussianBeam_3D, 中, WavefrontPropagation, 中, intersection_lines_path, 中, 纪录片, func_max, 中, plasma_refractive_index, 中, EigDecomposition, 中, 动画制作, 1D_PIC_FR, 等离子体折射率, Smilei源码分析, 龙格库塔方法, BorisPusher, 中, Boris_pusher, 为激光a0, 阿泽, 激光a0, 夏日午后, Boris_relativistic_osc, 中, BorisPusher, 中, RoadMap, read_smilei_field, 中, read_smilei_track, 中, LWFA2022, 神经网络, 能谱仪数据分析, fig_data_2D, 中, setRefPt, 中, setRefPts, 中, Projector, 简历, Shape_function, 中, LWFA, transform_3D_frame, 中, 为空间角, 空间角, 三维旋转, frame2Eulers, 中, camera_lookat, 中, 天书, 2D双折射, 为结构语言Debug, 结构语言Debug, get_axis, 中, FROG光路, MPM, Dazzler控制, 定义样本, 中, 傅里叶变换, spatial_phase, 中, 人体模型, read_FROG_2, 中, FROG图像, 中, read_FROG_retrieval, 中, read_vis_2, 中, 初等数学习题集, 四则运算, spectrum_2_pulse, 中, 列举DZ数据, 中, 为列举DZ数据, 中, Dazzler模拟, RB实验设计, LWFA数据分析, 空间投影, read_IP_image, 中, iFAST数据汇总, Local_coordinates_3_pts, 中, Local_coordinates_pts_Eulers, 中, vec2Eulers, 中, 扫描代码, 中, PlasmaMirror, 演示, Lorentz_T, 中, Lorentz_T2, 中, ComptonScatter, 中, ComptonBackScatter, 中, ComptonCrossSection_KN, 中, ComptonCrossSection_KN_total, 中, 海思面试, QR水管, 程序交互, CBS_rate, 中, CBS_event, 中, 反射问题, transform_2D_reflection, 中, transform_2D_reflection_inv, 中, Gaussian_mirror_field, 中, 画笔, addRefPt_curve, 中, addRefPt_path, 中, modRefPt_curve, 中, modRefPt_path, 中, Local_frame_2D, 中, 水管接口, intersection_line_lines, 中, intersection_line_curve, 中, intersection_curve_curve, 中, Local_frame_2D_2, 中, 空间关系, 结构化文本, 为文本结构, 文本结构, 日记本3, 论文基本信息, 论文索引, 为报告地址, 运动场景, draw_arrow_1, 中, transform_2D_reflection_2, 中, fit_GradientD, 中, transform_2D_reflection_surf, 中, Reflection_curve_2D, 中, 刚体运动, 角动量守恒, rigid_bodies_collision, 中, draw_arrow_2, 中, draw_arrow_rt, 中, rigid_bodies_collision_2, 中, trajectory_XY, 中, trajectory_fs, 中, trajectory_ft, 中, trajectory_Es, 中, 结构语言, EM_motion_RK4, 中, EM_re_motion_RK4, 中, 电透镜, tm_traj, 中, 光学探针, 光学探针论文, 静电场, besseljzero, 中, 验证公式, 中, 验证公式, 中, 语句摘抄, GPU编程, UT3日志, PIConGPU, 合并多边形, PtInPolygon, 中, PtsInPolygon, 中, shape_merge, 中, TACC, GPT, shape_cut, 中, shape_inter, 中, 蚌埠二中, ThreeJS, rotation_Eulers, 中, rotation_3D, 中, sign_1, 中, physics_constant, 中, Einzel_lens_phi, 中, HS_fun, 中, Einzel_lens_phi_3D, 中, mathematica, lens_matrix, 中, lenses_traj, 中, EM_motion_BEM, 中, EM_motion_CM, 中, Stiff问题, EM_motion_eqns, 中, EM_motion_ODEs, 中, field_2D_interp, 中, show_dist_2D, 中, dist_2D_val, 中, read_G4_radiation_2D, 中, UT3光路, test_u_1, 中, test_traj_mat, 中, GetPointOnPlane, 中, getPointOnLine, 中, github, 语音识别, 有限元分析, fft_x, 中, read_data_PIC_PNG, 中, read_data_G4BL, 中, read_data_G4BL_IP, 中, ShadowSpectrometer, Gaussian_expansion, 中, random_func_1D, 中, bdFormPolygon, 中, hasInterTriangle, 中, rmInterTriangle, 中, pickUpExistedPt, 中, intersection_line_lines_2, 中, meshGeneration_AF, 中, showMesh_2D, 中, showMesh_patch, 中, showMesh_3D, 中, 三维模型, UT3能谱仪, read_data_PIConGPU_h5, 中, SEM, field_spatial_phase, 中, FDH, read_data_Smilei_h5, 中, read_data_PIConGPU_h5_3D, 中, tangent_circle, 中, tangent_two_circles, 中, 工程架构, disp_data_PIConGPU_h5, 中, plasma_refractive_index_FR, 中, plasma_refractive_index_CM, 中, plasma_refractive_index_LW, 中, plasma_refractive_index_current_shift, 中, tangent_pt_curve, 中, tangent_curve_curve, 中, array_split_n_parts, 中, read_data_1D_Smilei_h5, 中, carrier_envelop_probe, 中, addLine, 中, addLine2, 中, addLine3, 中, addLine, 中, BNL实验模拟, 画板, rmLine3, 中, rmLine2, 中, pySEM, cos_fitting, 中, MagOptics, NiniEditor, 光线追踪, 曲面交点, intersection_sphere_3D, 中, reflect_refract_sphere_3D, 中, periodic_self_fitting, 中, 函数展开, 函数变换, 干涉仪, fill_3D, 中, 高性能计算, draw_sphere_fill, 中, draw_XYZ_fill, 中, Plane_intersection, 中, intersection_plane_3D, 中, reflect_refract_plane_3D, 中, ray_tracing_stepOne, 中, ray_tracing_diffusion, 中, 创业项目, 服务器, FDTD, 语音相关, 反射折射, NLP, 
+### 关联
+#, 2#0, #, #, 3#2, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, 21#100, #, 75#102, #, 75#104, #, #, 75#107, #, 91#109, #, 96#111, #, 96#113, #, #, #, 90#117, #, #, 75#120, #, 75#122, #, 91#124, #, 91#126, #, #, 64#129, #, 21#131, #, 21#133, #, #, 135#136, #, 54#138, #, 54#140, #, #, #, 49#144, #, 49#146, #, 49#148, #, 49#150, #, #, 16#153, #, #, 32#156, #, 33#158, #, #, 49#161, #, 49#163, #, 53#165, #, 53#167, #, 53#169, #, 53#171, #, 49#173, #, #, #, #, #, #, 90#180, #, 90#182, #, #, #, #, #, 15#188, #, #, #, #, 25#193, #, 119#195, #, 116#197, #, #, #, 128#201, #, #, 16#204, #, #, 16#207, #, 16#209, #, #, 185#212, #, 185#214, #, 15#216, #, #, 218#219, #, 218#221, #, 16#223, #, 16#225, #, 16#227, #, 90#229, #, 90#231, #, 90#233, #, 53#235, #, 206#237, #, 49#239, #, #, #, 242#243, #, 242#245, #, 56#247, #, 199#249, #, 90#251, #, 185#253, #, 185#255, #, 90#257, #, 54#259, #, 52#261, #, 53#263, #, #, #, #, 25#268, #, #, 265#271, #, 265#273, #, 90#275, #, 265#277, #, 206#279, #, 90#281, #, 49#283, #, 16#285, #, 16#287, #, 16#289, #, 20#291, #, #, #, 13#295, #, 13#297, #, #, #, 35#301, #, #, 303#304, #, 62#306, #, 32#308, #, #, #, 18#312, #, #, 84#315, #, 84#317, #, 18#319, #, 34#321, #, #, #, #, #, 61#327, #, 61#329, #, 67#331, #, 54#333, #, 323#335, #, 323#337, #, 323#339, #, 323#341, #, 323#343, #, 323#345, #, 323#347, #, 323#349, #, #, 96#352, #, 351#354, #, 54#356, #, 351#358, #, 351#360, #, 351#362, #, #, #, #, 323#367, #, #, #, #, #, #, #, #, 65#376, #, 57#378, #, 36#380, #, 61#382, #, #, 374#385, #, 374#387, #, 374#389, #, #, #, #, #, #, 394#396, #, #, #, #, #, #, 374#403, #, 398#405, #, #, 394#408, #, 394#410, #, #, #, #, 90#415, #, 90#417, #, 90#419, #, #, #, 421#423, #, #, 13#426, #, #, #, #, 430#431, #, 13#433, #, #, #, #, #, 16#439, #, #, #, #, 435#444, #, #, 446#447, #, #, 218#450, #, 16#452, #, 218#454, #, 218#456, #, #, #, 218#460, #, 16#462, #, 16#464, #, #, #, #, #, 468#470, #, #, 449#473, #, 449#475, #, 449#477, #, 468#479, #, #, #, 99#483, #, 99#485, #, 99#487, #, 99#489, #, 99#491, #, 99#493, #, #, #, #, 99#498, #, 99#500, #, #, 502#503, #, 502#505, #, 99#507, #, #, 90#510, #, 90#512, #, 90#514, #, 90#516, #, 449#518, #, #, 61#521, #, 61#523, #, 61#525, #, 449#527, #, #, #, #, #, #, #, #, #, #, 537#538, #, 502#540, #, 33#542, #, 502#544, #, 35#546, #, #, #, 548#550, #, 537#552, #, 537#554, #, 548#556, #, 21#558, #, 49#560, #, 49#562, #, 49#564, #, #, 395#567, #, 395#569, #, #, 571#572, #, #, #, #, 576#577, #, 576#579, #, 185#581, #, #, #, #, #, #, 587#588, #, 587#590, #, 587#592, #, #, #, 587#596, #, 587#598, #, #, #, 430#602, #, 430#604, #, 21#606, #, 571#608, #, 576#610, #, 576#612, #, 576#614, #, #, 571#617, #, 571#619, #, 395#621, #, 395#623, #, #, 395#626, #, 395#628, #, 571#630, #, 24#632, #, 24#634, #, 585#636, #, #, 571#639, #, 571#641, #, 469#643, #, 469#645, #, #, #, #, 446#650, #, 586#652, #, 18#654, #, 18#656, #, #, 658#659, #, 24#661, #, 649#663, #, 649#665, #, 649#667, #, 649#669, #, 649#671, #, 649#673, #, 649#675, #, 649#677, #, 649#679, #, #, #, 586#683, #, #, 586#686, #, #, 688#689, #, 688#691, #, 89#693, #, 89#695, #, #, 374#698, #, 374#700, #, 374#702, #, 374#704, #, 374#706, #, 25#708, #, 25#710, #, 25#712, #, 374#714, #, 688#716, #, 178#718, #, 90#720, #, 90#722, #, 90#724, #, #, #, 90#728, #, 90#730, #, #, 33#733, #, #, #, #, #, 738#739, #, 738#741, #, 33#743, #, #, #, #, 13#748, #, #, 13#751, #, 13#753, #, 61#755, #, 61#757, #, 61#759, #, 737#761, #, 737#763, #, #, #, #, #, #, 
+### 内容
+#0, 14:
+文档\伊甸园\种子.ftxt
+## end
+#2, 32:
++[返回目录](,种子)
+地址::文档\伊甸园\种子.ftxt
+
+## end
+#3, 46:
+种子:...
+创建于 20220116
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#5, 14:
+文档\伊甸园\种子.ftxt
+## end
+#6, 14:
+文档\伊甸园\种子.ftxt
+## end
+#7, 60:
+C:\Users\cheng\Desktop\Laser\report\short_report20221207\res
+## end
+#8, 43:
+https://www.crazygames.com/game/smash-karts
+## end
+#9, 57:
+/home/xiantao/Documents/tools/G4beamline-3.08/bin/g4blgui
+## end
+#10, 16:
+文档\S应用\通用爬虫.ftxt
+## end
+#11, 15:
+文档\S应用\PPT.ftxt
+## end
+#12, 18:
+文档\S应用\GEANT4.ftxt
+## end
+#13, 16:
+文档\S应用\三维建模.ftxt
+## end
+#14, 16:
+文档\S应用\网页画板.ftxt
+## end
+#15, 19:
+文档\实验室信息\iFAST.ftxt
+## end
+#16, 24:
+文档\实验室信息\iFAST_log2.ftxt
+## end
+#17, 21:
+文档\实验室信息\iFAST光路.ftxt
+## end
+#18, 16:
+文档\论文\能谱仪论文.ftxt
+## end
+#19, 16:
+文档\S应用\平面测绘.ftxt
+## end
+#20, 16:
+文档\S应用\透镜设计.ftxt
+## end
+#21, 14:
+文档\伊甸园\星辰.ftxt
+## end
+#22, 14:
+文档\S应用\草稿.ftxt
+## end
+#23, 18:
+文档\S应用\电子能谱设计.ftxt
+## end
+#24, 17:
+文档\数学问题\随机分布.ftxt
+## end
+#25, 15:
+文档\S应用\图形库.ftxt
+## end
+#26, 18:
+文档\数学问题\伽罗瓦定理.ftxt
+## end
+#27, 16:
+文档\S应用\公式结构.ftxt
+## end
+#28, 17:
+文档\S应用\公式分析器.ftxt
+## end
+#29, 16:
+文档\伊甸园\二维世界.ftxt
+## end
+#30, 17:
+文档\S应用\JS编译器.ftxt
+## end
+#31, 18:
+文档\S应用\Phaser.ftxt
+## end
+#32, 17:
+文档\物理问题\阴影形状.ftxt
+## end
+#33, 17:
+文档\数学问题\函数拟合.ftxt
+## end
+#34, 24:
+文档\实验室问题\LWFA11数据分析.ftxt
+## end
+#35, 16:
+文档\S应用\光线传播.ftxt
+## end
+#36, 17:
+文档\物理问题\计算波前.ftxt
+## end
+#37, 18:
+文档\实验室问题\波前模拟.ftxt
+## end
+#38, 18:
+文档\实验室问题\辐射防护.ftxt
+## end
+#39, 42:
+C:\Users\cheng\Dropbox\iFAST_log\resources
+## end
+#40, 10:
+文档\任务栏.txt
+## end
+#41, 21:
+文档\实验室信息\第一级放大光路.ftxt
+## end
+#42, 21:
+文档\实验室信息\第二级放大光路.ftxt
+## end
+#43, 16:
+文档\S应用\句子设计.ftxt
+## end
+#44, 16:
+文档\S应用\句子设计.ftxt
+## end
+#45, 4:
+8891
+## end
+#46, 4:
+8891
+## end
+#47, 18:
+文档\实验室信息\总体信息.ftxt
+## end
+#48, 18:
+文档\物理问题\双屏幕能谱.ftxt
+## end
+#49, 17:
+文档\物理问题\电子能谱.ftxt
+## end
+#50, 17:
+文档\物理问题\电子能谱.ftxt
+## end
+#51, 21:
+文档\S应用\结构语言Debug.ftxt
+## end
+#52, 23:
+文档\实验室问题\13975电子能谱.ftxt
+## end
+#53, 19:
+文档\实验室问题\能谱仪校正.ftxt
+## end
+#54, 18:
+文档\物理问题\光栅压缩器.ftxt
+## end
+#55, 23:
+文档\实验室信息\Booster光路.ftxt
+## end
+#56, 17:
+文档\物理问题\透镜波前.ftxt
+## end
+#57, 17:
+文档\物理问题\高斯光束.ftxt
+## end
+#58, 12:
+配置文件_new.txt
+## end
+#59, 17:
+文档\S应用\博客生成器.ftxt
+## end
+#60, 66:
+file:///C:/Users/cheng/Desktop/paper/Books/Physics_shuyousheng.pdf
+## end
+#61, 17:
+文档\数学问题\直线交点.ftxt
+## end
+#62, 14:
+文档\论文\能谱仪.ftxt
+## end
+#63, 33:
+https://www.desmos.com/calculator
+## end
+#64, 17:
+文档\物理问题\轫致辐射.ftxt
+## end
+#65, 17:
+文档\物理问题\计算波前.ftxt
+## end
+#66, 17:
+文档\物理问题\干涉原理.ftxt
+## end
+#67, 17:
+文档\物理问题\光栅原理.ftxt
+## end
+#68, 15:
+文档\物理问题\波包.ftxt
+## end
+#69, 27:
+文档\物理问题\ThermalLensing.ftxt
+## end
+#70, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#71, 10:
+文档\日记.ftxt
+## end
+#72, 20:
+文档\计算机问题\html位置.ftxt
+## end
+#73, 19:
+文档\实验室问题\YAG折射.ftxt
+## end
+#74, 18:
+文档\实验室问题\QR成像.ftxt
+## end
+#75, 21:
+文档\实验室问题\TOPAS模拟.ftxt
+## end
+#76, 21:
+文档\实验室问题\TOPAS光束.ftxt
+## end
+#77, 18:
+文档\物理问题\OPA原理.ftxt
+## end
+#78, 15:
+文档\S应用\周报告.ftxt
+## end
+#79, 19:
+文档\报告\20220302.ftxt
+## end
+#80, 64:
+C:\Users\cheng\Desktop\Laser\MIR@UCF\report\short_report20220302
+## end
+#81, 14:
+文档\报告\20220307
+## end
+#82, 17:
+文档\数学问题\计算卷积.ftxt
+## end
+#83, 24:
+文档\计算机问题\编程语言parser.ftxt
+## end
+#84, 18:
+文档\物理问题\能谱仪误差.ftxt
+## end
+#85, 16:
+文档\S应用\像素矩阵.ftxt
+## end
+#86, 19:
+文档\报告\20220307.ftxt
+## end
+#87, 21:
+文档\实验室信息\TOPAS光路.ftxt
+## end
+#88, 18:
+文档\实验室问题\QR光斑.ftxt
+## end
+#89, 17:
+文档\数学问题\平面几何.ftxt
+## end
+#90, 14:
+文档\S应用\词典.ftxt
+## end
+#91, 18:
+文档\S应用\Hussar.ftxt
+## end
+#92, 20:
+文档\物理问题\OPA模拟对照.ftxt
+## end
+#93, 14:
+文档\伊甸园\核心.ftxt
+## end
+#94, 22:
+文档\日记\日记_20210810.ftxt
+## end
+#95, 23:
+文档\实验室问题\TOPAS输出响应.ftxt
+## end
+#96, 20:
+文档\物理问题\BBO相位匹配.ftxt
+## end
+#97, 20:
+文档\实验室问题\激光放大模拟.ftxt
+## end
+#98, 17:
+文档\物理问题\激光原理.ftxt
+## end
+#99, 16:
+文档\物理问题\CBS.ftxt
+## end
+#106, 58:
+C:\Users\cheng\Dropbox\iFAST_log\status\TOPAS\Picture1.jpg
+## end
+#115, 16:
+文档\结构体\扶桑核心.ftxt
+## end
+#116, 15:
+文档\S应用\句子相关.txt
+## end
+#119, 16:
+文档\S应用\句子结构.ftxt
+## end
+#128, 23:
+文档\实验室问题\TOPAS光斑模拟.ftxt
+## end
+#135, 15:
+文档\物理问题\波包.ftxt
+## end
+#142, 16:
+文档\S应用\展宽变化.ftxt
+## end
+#143, 17:
+文档\物理问题\FOPA.ftxt
+## end
+#152, 42:
+C:\Users\cheng\Dropbox\iFAST_log\resources
+## end
+#155, 23:
+文档\实验室问题\TOPAS光斑测量.ftxt
+## end
+#160, 21:
+文档\实验室问题\OPA光斑尺寸.ftxt
+## end
+#175, 16:
+文档\伊甸园\机械花园.ftxt
+## end
+#176, 22:
+文档\日记\日记_20220417.ftxt
+## end
+#177, 22:
+文档\日记\日记_20220417.ftxt
+## end
+#178, 15:
+文档\日记\当前日记.ftxt
+## end
+#179, 14:
+文档\伊甸园\花园.ftxt
+## end
+#184, 49:
+C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini
+## end
+#185, 17:
+文档\物理问题\FROG.ftxt
+## end
+#186, 27:
+文档\物理问题\ThermalLensing.ftxt
+## end
+#187, 20:
+文档\实验室问题\第二级热透镜.ftxt
+## end
+#190, 19:
+文档\实验室问题\光栅对场景.ftxt
+## end
+#191, 18:
+文档\实验室问题\相机驱动.ftxt
+## end
+#192, 16:
+文档\S应用\C编译器.ftxt
+## end
+#199, 16:
+文档\S应用\数据中心.ftxt
+## end
+#200, 16:
+文档\S应用\通用爬虫.ftxt
+## end
+#203, 20:
+文档\实验室问题\FROG校正.ftxt
+## end
+#206, 24:
+文档\实验室问题\LWFA12数据分析.ftxt
+## end
+#211, 23:
+文档\实验室问题\Dazzler校准.ftxt
+## end
+#218, 23:
+文档\实验室问题\Dazzler优化.ftxt
+## end
+#241, 17:
+文档\S应用\网页编辑器.ftxt
+## end
+#242, 15:
+文档\物理问题\衍射.ftxt
+## end
+#265, 16:
+文档\S应用\照片测量.ftxt
+## end
+#266, 24:
+文档\实验室问题\BeamTech测量.ftxt
+## end
+#267, 21:
+文档\实验室问题\BBO晶体测量.ftxt
+## end
+#270, 20:
+文档\实验室问题\FROG分析.ftxt
+## end
+#293, 17:
+文档\S应用\网页聊天框.ftxt
+## end
+#294, 18:
+文档\论文\能谱仪实验数据.ftxt
+## end
+#299, 18:
+文档\实验室问题\七通放大.ftxt
+## end
+#300, 20:
+文档\实验室问题\激光放大模拟.ftxt
+## end
+#303, 17:
+文档\数学问题\平面投影.ftxt
+## end
+#310, 14:
+文档\伊甸园\天使.ftxt
+## end
+#311, 7:
+缓存.ftxt
+## end
+#314, 21:
+文档\论文\LaserNetUS.ftxt
+## end
+#323, 16:
+文档\S应用\齿轮模拟.ftxt
+## end
+#324, 21:
+文档\S应用\Smilei生成器.ftxt
+## end
+#325, 15:
+文档\物理问题\超导.ftxt
+## end
+#326, 25:
+文档\实验室问题\Booster光斑测量.ftxt
+## end
+#351, 15:
+文档\S应用\调光路.ftxt
+## end
+#364, 16:
+文档\S应用\光路场景.ftxt
+## end
+#365, 19:
+文档\S应用\Blender.ftxt
+## end
+#366, 16:
+文档\S应用\函数工具.ftxt
+## end
+#369, 20:
+文档/实验室问题/Smilei.ftxt
+## end
+#370, 22:
+文档\S应用\NameList解读器.txt
+## end
+#371, 16:
+文档\设计文档\喷嘴设计.txt
+## end
+#372, 22:
+文档\设计文档\PIC模拟_MIR.ftxt
+## end
+#373, 18:
+文档\物理问题\法拉第旋转.ftxt
+## end
+#374, 19:
+文档\物理问题\plasma.ftxt
+## end
+#375, 18:
+文档\物理问题\相对论双折射.txt
+## end
+#384, 14:
+文档\资料\纪录片.ftxt
+## end
+#391, 16:
+文档\S应用\动画制作.ftxt
+## end
+#392, 20:
+文档\模拟\1D_PIC_FR.ftxt
+## end
+#393, 18:
+文档\模拟\等离子体折射率.ftxt
+## end
+#394, 21:
+文档\模拟\Smilei源码分析.ftxt
+## end
+#395, 19:
+文档\数学问题\龙格库塔方法.ftxt
+## end
+#398, 25:
+文档\物理问题\Boris_pusher.ftxt
+## end
+#399, 17:
+文档\物理问题\激光a0.ftxt
+## end
+#400, 33:
+C:\Users\cheng\Desktop\zz\阿泽.ftxt
+## end
+#401, 17:
+文档\物理问题\激光a0.ftxt
+## end
+#402, 43:
+/media/xiantao/Elements/resource/zz/阿泽.ftxt
+## end
+#407, 21:
+文档\实验室问题\RoadMap.ftxt
+## end
+#412, 19:
+文档\论文\LWFA2022.ftxt
+## end
+#413, 18:
+文档\计算机问题\神经网络.ftxt
+## end
+#414, 21:
+文档\实验室问题\能谱仪数据分析.ftxt
+## end
+#421, 22:
+文档\物理问题\Projector.ftxt
+## end
+#422, 13:
+文档\论文\简历.ftxt
+## end
+#425, 17:
+文档\物理问题\LWFA.ftxt
+## end
+#428, 16:
+文档\数学问题\空间角.ftxt
+## end
+#429, 16:
+文档\数学问题\空间角.ftxt
+## end
+#430, 17:
+文档\数学问题\三维旋转.ftxt
+## end
+#435, 14:
+文档\伊甸园\天书.ftxt
+## end
+#436, 25:
+文档\物理问题\相对论双折射\2D双折射.ftxt
+## end
+#437, 21:
+文档\S应用\结构语言Debug.ftxt
+## end
+#438, 21:
+文档\S应用\结构语言Debug.ftxt
+## end
+#441, 20:
+文档\实验室问题\FROG光路.ftxt
+## end
+#442, 17:
+文档\计算机问题\MPM.ftxt
+## end
+#443, 18:
+文档\实验室问题\Dazzler控制
+## end
+#446, 18:
+文档\数学问题\傅里叶变换.ftxt
+## end
+#449, 16:
+文档\S应用\人体模型.ftxt
+## end
+#458, 20:
+文档\数学问题\初等数学习题集.ftxt
+## end
+#459, 17:
+文档\数学问题\四则运算.ftxt
+## end
+#466, 23:
+文档\实验室问题\Dazzler模拟.ftxt
+## end
+#467, 20:
+文档\实验室问题\RB实验设计.ftxt
+## end
+#468, 22:
+文档\实验室问题\LWFA数据分析.ftxt
+## end
+#469, 17:
+文档\数学问题\空间投影.ftxt
+## end
+#472, 23:
+文档\实验室信息\iFAST数据汇总.ftxt
+## end
+#481, 25:
+文档\物理问题\PlasmaMirror.ftxt
+## end
+#482, 14:
+文档\S应用\演示.ftxt
+## end
+#495, 15:
+文档\论文\海思面试.ftxt
+## end
+#496, 18:
+文档\实验室问题\QR水管.ftxt
+## end
+#497, 16:
+文档\S应用\程序交互.ftxt
+## end
+#502, 17:
+文档\数学问题\反射问题.ftxt
+## end
+#509, 14:
+文档\S应用\画笔.ftxt
+## end
+#520, 18:
+文档\实验室问题\水管接口.ftxt
+## end
+#529, 17:
+文档\语言问题\空间关系.ftxt
+## end
+#530, 17:
+文档\S应用\结构化文本.ftxt
+## end
+#531, 16:
+文档\S应用\文本结构.ftxt
+## end
+#532, 16:
+文档\S应用\文本结构.ftxt
+## end
+#533, 22:
+文档\日记\日记_20221203.ftxt
+## end
+#534, 17:
+文档\论文\论文基本信息.ftxt
+## end
+#535, 15:
+文档\论文\论文索引.ftxt
+## end
+#536, 60:
+C:\Users\cheng\Desktop\Laser\report\short_report20221207\res
+## end
+#537, 16:
+文档\S应用\运动场景.ftxt
+## end
+#548, 17:
+文档\物理问题\刚体运动.ftxt
+## end
+#549, 18:
+文档\物理问题\角动量守恒.ftxt
+## end
+#566, 15:
+文档\论文\结构语言.ftxt
+## end
+#571, 16:
+文档\物理问题\电透镜.ftxt
+## end
+#574, 15:
+文档\论文\光学探针.ftxt
+## end
+#575, 17:
+文档\论文\光学探针论文.ftxt
+## end
+#576, 16:
+文档\物理问题\静电场.ftxt
+## end
+#583, 15:
+文档\论文\语句摘抄.ftxt
+## end
+#584, 19:
+文档\计算机问题\GPU编程.ftxt
+## end
+#585, 19:
+文档\实验室信息\UT3日志.ftxt
+## end
+#586, 22:
+文档\实验室问题\PIConGPU.ftxt
+## end
+#587, 19:
+文档\计算机问题\合并多边形.ftxt
+## end
+#594, 18:
+文档\计算机问题\TACC.ftxt
+## end
+#595, 17:
+文档\计算机问题\GPT.ftxt
+## end
+#600, 16:
+文档\伊甸园\蚌埠二中.ftxt
+## end
+#601, 19:
+文档\S应用\ThreeJS.ftxt
+## end
+#616, 25:
+文档/计算机问题/mathematica.ftxt
+## end
+#625, 20:
+文档/数学问题/Stiff问题.ftxt
+## end
+#638, 19:
+文档/实验室信息/UT3光路.ftxt
+## end
+#647, 20:
+文档/计算机问题/github.ftxt
+## end
+#648, 18:
+文档/计算机问题/语音识别.ftxt
+## end
+#649, 18:
+文档/数学问题/有限元分析.ftxt
+## end
+#658, 31:
+文档/物理问题/ShadowSpectrometer.ftxt
+## end
+#681, 16:
+文档/S应用/三维模型.ftxt
+## end
+#682, 20:
+文档/实验室问题/UT3能谱仪.ftxt
+## end
+#685, 16:
+文档/物理问题/SEM.ftxt
+## end
+#688, 16:
+文档/物理问题/FDH.ftxt
+## end
+#697, 18:
+文档/计算机问题/工程架构.ftxt
+## end
+#726, 21:
+文档/实验室问题/BNL实验模拟.ftxt
+## end
+#727, 14:
+文档/S应用/画板.ftxt
+## end
+#732, 16:
+文档/项目/pySEM.ftxt
+## end
+#735, 22:
+文档/物理问题/MagOptics.ftxt
+## end
+#736, 22:
+文档/S应用/NiniEditor.ftxt
+## end
+#737, 18:
+文档/计算机问题/光线追踪.ftxt
+## end
+#738, 17:
+文档/数学问题/曲面交点.ftxt
+## end
+#745, 17:
+文档/数学问题/函数展开.ftxt
+## end
+#746, 17:
+文档/数学问题/函数变换.ftxt
+## end
+#747, 16:
+文档/物理问题/干涉仪.ftxt
+## end
+#750, 19:
+文档/计算机问题/高性能计算.ftxt
+## end
+#765, 15:
+文档/论文/创业项目.ftxt
+## end
+#766, 15:
+文档/S应用/服务器.ftxt
+## end
+#767, 17:
+文档/物理问题/FDTD.ftxt
+## end
+#768, 16:
+文档/S应用/语音相关.ftxt
+## end
+#769, 17:
+文档/物理问题/反射折射.ftxt
+## end
+#770, 17:
+文档/计算机问题/NLP.ftxt
+## end
+### 结束

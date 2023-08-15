@@ -1,0 +1,105 @@
+### 节点
+M函数, 计算, 参考, 的, 的, 公式推导, 目录, 的, 色散与群速度, 的, 的, 群速度, 
+### 关联
+1#, #, #, 5#1, 5#2, #, #, 6#8, #, 8#5, 6#11, #, 
+### 内容
+#1, 414:
+%{
++[M函数](,计算)
+%}
+
+physics_constant;
+
+D=1e-3;
+
+lm1=1.5296;
+n1=2.4488;
+dndlm1=-0.027049;
+
+lm2=1.9701;
+n2=2.4407;
+dndlm2=-0.012204;
+
+vg1=c/n1*(1+lm1/n1*dndlm1);
+vg2=c/n2*(1+lm2/n2*dndlm2);
+
+dL=D/vg1*(vg2-vg1);
+
+disp(sprintf('lambda=%.3f um: vg=%.3e m/s',lm1,vg1));
+disp(sprintf('lambda=%.3f um: vg=%.3e m/s',lm2,vg2));
+disp(sprintf('Passing through a %.2f mm plate, two pulses separated by %.2f um',D/1e-3,dL/1e-6))
+
+## end
+#2, 62:
+https://refractiveindex.info/?shelf=main&book=ZnSe&page=Marple
+## end
+#5, 942:
+<!--
++[返回目录](,公式推导)
+
++[H函数](,公式推导)
+-->
+
+The group velocity is,
+$$
+v_g=\frac{d\omega}{dk}
+$$
+And we have,
+$$
+\lambda=\frac{2 \pi}{k}, \omega=\frac{c k}{n}=\frac{2\pi c}{\lambda n}
+$$
+Then, 
+$$
+v_g=\frac{d\omega}{dk}
+=\frac{d}{dk}\frac{c k}{n}
+\\
+=\frac{c}{n}-\frac{c k}{n^2}\frac{dn}{d\lambda}\frac{d\lambda}{dk}
+
+=\frac{c}{n}+\frac{2 \pi c}{n^2 k}\frac{dn}{d\lambda}
+\\
+
+=\frac{c}{n}\left(1+\frac{\lambda}{n}\frac{dn}{d\lambda}\right)
+$$
+
+For ZnSe, we have,
+$$
+\lambda_1=1.5296 \mu m, 
+n=2.4488, 
+n_g=2.4901, 
+\frac{dn}{d\lambda}=-0.027049 \mu m^{-1}
+$$$$
+\lambda_2=1.9701 \mu m, 
+n=2.4407, 
+n_g=2.4647, 
+\frac{dn}{d\lambda}=-0.012204 \mu m^{-1}
+$$
+MATLAB output:<br>
+lambda=1.530 um: vg=1.204e+08 m/s<br>
+lambda=1.970 um: vg=1.216e+08 m/s<br>
+Passing through a 1.00 mm plate, two pulses separated by 10.51 um
+
++[matlab]"90e-6/c"(Matlab,)
+
+
+<!--
++[H函数](,公式推导)
+计算(M函数):...
+参考::https://refractiveindex.info/?shelf=main&book=ZnSe&page=Marple
+-->
+## end
+#6, 50:
+色散与群速度:...
+创建于 20210412
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 35:
++[返回目录](,色散与群速度)
+
+公式推导(html):...
+
+
+
+## end
+### 结束

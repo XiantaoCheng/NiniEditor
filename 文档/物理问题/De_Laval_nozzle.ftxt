@@ -1,0 +1,1475 @@
+### 节点
+地址, m_width, m_height, m_y, m_x, m_cursor, m_readPtr, [ctrl+S], [ctrl+R], [ctrl+S], [ctrl+S], [ctrl+P], [ctrl+S], [ctrl+P], [ctrl+S], [ctrl+P], [ctrl+S], [ctrl+P], [ctrl+P], 的, 的, 的, 的, 的, 的, 新窗口, 解释, 参考材料, 的, 的, 一维模型, NS equations, [端口], 物理问题, 参考文献, 笔记, 参考, 的, 检验结果, 临时, 的, 的, 的, 公式推导, [标题], 的, 的, 的, 的, 的, 的, 的, De Laval nozzle理论, 目录, 的, 的, 节点数目统计, 20210727, 的, 的, 场景模型, 的, 设置出口直径, P0, T0, enter_angle, throat_d, L2, exit_d, L1, depth, height, w_0, tau, energy, wavelength, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 输入, 输出, 依据公式, 用时, 的, 的, 的, 的, 气阀和光束, 的, 用时, 依据公式, 输出, wavelength, energy, tau, w_0, height, depth, L1, exit_angle, L2, throat_d, enter_angle, T0, P0, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 输入, 的, 的, 的, 的, 气阀和光束, 的, 设置出口角度, 的, 20210801, 的, 的, 密度分布, M函数, 的, 理论参考, M函数, 20210802, 的, 的, Nozzle_output, M函数, 的, 地址, 
+### 关联
+#, #, #, #, #, #, #, 25#, 25#, 25#, 25#, 25#, 25#, 25#, 25#, 25#, 25#, 25#, 25#, 25#1, 25#2, 25#3, 25#4, 25#5, 25#6, 33#, #, #43, 30#26, 30#27, #, #, 33#, #, #, #, #, 38#36, #, #, 43#35, 43#38, 43#39, #, #, 52#0, 52#25, 52#30, 52#31, 52#33, 52#34, 52#43, #, #, 53#52, 53#56, #, #, 56#57, 52#60, #, 60#62, #, #, #, #, #, #, #, #, #, #, #, #, #, #, 89#63, 89#64, 89#65, 89#66, 89#67, 89#68, 89#69, 89#70, 89#71, 89#72, 89#73, 89#74, 89#75, #, #, #, #, 97#89, 97#90, 97#91, 97#92, #, 62#97, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, 128#102, 128#103, 128#104, 128#105, 128#106, 128#107, 128#108, 128#109, 128#110, 128#111, 128#112, 128#113, 128#114, #, 133#99, 133#100, 133#101, 133#128, #, 135#133, #, 60#135, #, 56#137, 43#140, #, 140#, 140#143, #, 143#, #, 56#145, 140#148, #, 148#, 148#151, #, 
+### 内容
+#0, 28:
+文档\物理问题\De_Laval_nozzle.ftxt
+## end
+#1, 3:
+958
+## end
+#2, 3:
+476
+## end
+#3, 2:
+38
+## end
+#4, 1:
+1
+## end
+#5, 7:
+110,110
+## end
+#26, 832:
+<!--
++[返回目录](,解释)
+
++[网页](web,解释)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+马赫数\(M\)是核心参数. <br>
+先用\(M\)表示\(T, P, w\)和\(\rho\), 然后通过反函数, 把面积\(f\)变成这些参数的自变量. 
+
+$$
+\frac{f_*}{f}=\frac{w\rho}{w_*\rho_*}
+=M\left[1+\frac{\gamma-1}{\gamma + 1}(M^2-1)\right]^{-\frac{\gamma+1}{2(\gamma-1)}}
+$$
+$$
+\frac{T}{T_0}=\frac{2}{2+(\gamma-1)M^2}
+$$
+$$
+w=\sqrt{2 c_p(T_0-T)},
+\ 
+\rho=\rho_0\left(\frac{T}{T_0}\right)^{\frac{1}{\gamma-1}},
+\ 
+\frac{P}{P_0}=\left(\frac{T}{T_0}\right)^{\frac{\gamma}{\gamma-1}}
+$$
+
+$$
+c_p=\frac{\gamma}{\gamma-1}k
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#30, 1195:
+%{
++[返回目录](,一维模型)
+参考材料(,_材料)->+[网页](web,_材料)
+
++[matlabStart](,Matlab)
++[M函数](,一维模型)
+
+解释:...
++[网页](web,解释)
+%}
+
+physics_constant;
+
+gamma=5/3;
+m=4*mp;
+T0=300;
+P0=40e5;
+
+L1=1e-3;
+L2=2e-3;
+A=3e-3;
+B=2e-3;
+C=7e-3;
+
+x1=linspace(0,L1,10000);
+x2=linspace(0,L2,10000);
+x=[x1,L1+x2];
+r1=((B-A)*x1/L1+A)/2;
+r2=((C-B)*x2/L2+B)/2;
+r=[r1,r2];
+S1=pi*r1.^2;
+S2=pi*r2.^2;
+S=[S1,S2];
+Sm=pi*(B/2)^2;
+
+
+cp=gamma/(gamma-1)*kB;
+n0=P0/kB/T0;
+
+M1=linspace(0.001,1,1000);
+M2=linspace(1,50,1000);
+f1=(1+(gamma-1)/(gamma+1)*(M1.^2-1)).^((gamma+1)/2/(gamma-1))./M1;
+f2=(1+(gamma-1)/(gamma+1)*(M2.^2-1)).^((gamma+1)/2/(gamma-1))./M2;
+M=[interp1(f1,M1,S1/Sm,'spline'),interp1(f2,M2,S2/Sm,'spline')];
+
+T=2*T0./(2+(gamma-1)*M.^2);
+n=n0*(T/T0).^(1/(gamma-1));
+P=P0*(T/T0).^(gamma/(gamma-1));
+w=sqrt(2*cp*(T0-T)/m);
+
+
+
+subplot(2,2,1)
+plot(M,Sm./S)
+xlabel('M')
+ylabel('S/S_0')
+
+subplot(2,2,2)
+plot(x/1e-3,w)
+xlabel('L [mm]')
+ylabel('v [m/s]')
+
+subplot(2,2,3)
+plot(x/1e-3,P)
+xlabel('L [mm]')
+ylabel('P [Pa]')
+set(gca,'YScale','log')
+
+subplot(2,2,4)
+h4=plot(x/1e-3,n/1e6);
+outlet=sprintf('Outlet density: %.2e Pa',n(end)/1e6)
+%text(x(end),n(end)/1e6,outlet)
+title(outlet)
+xlabel('L [mm]')
+ylabel('n [cm^-^3]')
+set(gca,'YScale','log')
+## end
+#31, 53:
+https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html
+## end
+#33, 11:
+文档\物理问题.txt
+## end
+#34, 71:
+file:\\\C:\Users\cheng\Desktop\paper\Nozzle\Schmid09_thesis.pdf#page=39
+## end
+#35, 431:
++[返回目录](,笔记)
++[修改标题]"笔记"(,问题)
+
+首先, 这里最后获得的那个等式是近似解. 
+这个解不是微分方程的解. 而是用焓变作为能量守恒的代数方程的解. 
+再有, 从解的过程来看, 这个解是个恰好在喷嘴喉部达到马赫数为1的特殊解. 我们无法从这个解中得知, 如果马赫数不是在喉部为1, 而是在其它地方为1的时候, 流场会有怎样的演化. 
+
+
+有可能可以用流量来描述流场的状态. M=1的性质也许是限制了喷嘴的流量. 
+变化过程也许是, 在保持入口处P和T不变的情况下, 入口处流体流速w是一个可调参数. 
+但是, w是有上界的. 在喉部的马赫数变成1的时候, w就不能继续增加了. 
+
+出口的压强也是一个可调参数. 
+当出口背景压强比较大的时候, 出口的压强会影响到上游流场的性质. 
+如果出口压强太小了, 流场的流速变得超音速了, 那么背景压强就不再影响上游的流体性质了. 
+
+所以, 喷嘴喷出的气体是否超音速, 可能是由出口的气压决定的. 
+## end
+#36, 71:
+file:///C:/Users/cheng/Desktop/paper/Nozzle/Schmid09_thesis.pdf#page=43
+## end
+#38, 1052:
+<!--
++[返回目录](,检验结果)
++[网页](web,检验结果)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+
+参考::file:///C:/Users/cheng/Desktop/paper/Nozzle/Schmid09_thesis.pdf#page=43
++[打开](,参考)->+[网页](+[打开],)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+这个是草稿. <br>
+参考的paper里面的公式是, 
+$$
+\frac{f^*}{f}=\frac{\rho w}{\rho^* w^*}
+=M\left[1+\frac{\gamma-1}{\gamma+1}(M^2-1)\right]^{-\frac{\gamma+1}{2(\gamma-1)}}
+$$
+呃, 我严重怀疑这个结果不是解微分方程得到的... 先变形看看. 
+$$
+\frac{f^*}{f}
+=M\left[1+\frac{\gamma-1}{\gamma+1}(M^2-1)\right]^{-\frac{\gamma+1}{2(\gamma-1)}}
+\\
+=M\left[\frac{\gamma-1}{\gamma+1}M^2+\frac{2}{\gamma+1}\right]^{-\frac{\gamma+1}{2(\gamma-1)}}
+\\
+=\left[\frac{\gamma-1}{\gamma+1}M^{\frac{4}{\gamma+1}}
++\frac{2}{\gamma+1}M^{-\frac{2(\gamma-1)}{\gamma+1}}\right]^{-\frac{\gamma+1}{2(\gamma-1)}}
+
+$$
+
+<!--
++[网页](web,检验结果)
+-->
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#39, 20:
+文档\临时\20210107Y1.png
+## end
+#43, 7855:
+<!--
++[返回目录](,公式推导)
++[网页](web,公式推导)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+
+检验结果:...
++[调用知识](+[LaTeX网页],检验结果)->+[全局](+[调用知识],)
++[网页](web,检验结果)
+
+gamma
+
+笔记:...
++[del](,问题)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+<b><u>DESCRIPTION</u></b><br>
+The theory of the De Laval nozzle is about compressible gas flowing through a cross-section variable nozzle. The gas is isentropic and the flow is 1D flow.<br>
+<br>
+<b><u>ISENTROPIC GAS</u></b><br>
+The isentropic gas is changing the volume and the temperature without changing the entropy. Then,
+$$
+dS=\frac{dQ}{T}=\frac{dE+pdV}{T}=0
+$$
+$$
+dE=mC_VdT, p=nk_BT
+$$
+We transform all variables for total amount to variables for per mol, then,
+$$
+\frac{de+pdv}{T}=0
+$$$$
+de=C_VdT,\ pv=RT
+$$$$
+C_V\frac{dT}{T}+R\frac{dv}{v}=0\Rightarrow log(\frac{T}{T_0})=-\frac{R}{C_V}log(\frac{v}{v_0})
+$$
+Define the heat capacity ratio,
+$$
+\gamma=\frac{C_p}{C_V}=\frac{R+C_V}{C_V}
+$$$$
+\gamma-1=\frac{R}{C_V}
+$$
+And we have,
+$$
+\frac{p_1}{p_2}\frac{\rho_2}{\rho_1}=\frac{T_1}{T_2}
+$$
+
+The result is,
+$$
+\frac{v_1}{v_2}=\frac{\rho_2}{\rho_1}=\left(\frac{T_2}{T_1}\right)^{\frac{1}{\gamma-1}}
+$$$$
+\frac{P_2}{P_1}=\left(\frac{T_2}{T_1}\right)^{\frac{\gamma}{\gamma-1}}
+$$$$
+\frac{P_2}{P_1}=\left(\frac{\rho_2}{\rho_1}\right)^\gamma
+$$
+<br>
+<br>
+
+
+
+<b><u>SOUND SPEED</u></b><br>
+For sound transporting in the air, the air density vibrates in an isentropic process. Then,
+$$
+dP=\gamma\frac{P_0}{\rho_0^\gamma}\rho^{\gamma-1}d\rho=\frac{\gamma P}{\rho}d\rho
+$$
+The sonic speed is,
+$$
+v_s=\sqrt{\left(\frac{dP}{d\rho}\right)}_{ise}=\sqrt{\frac{\gamma P}{\rho}}
+$$
+Then we can define the Mach number as the following,
+$$
+M^2=\frac{w^2}{v_s^2}=\frac{w^2\rho}{\gamma P}
+$$
+
+<!--
++[网页](web,公式推导)
+临时::文档\临时\20210107Y1.png
++[截屏](,临时)
+-->
+
+
+
+<br>
+<br>
+<b><u>1D FLOW</u></b><br>
+The NS equations of the gas flow are,
+$$
+\begin{cases}
+\frac{\partial \rho}{\partial t}+\nabla\cdot (\rho \textbf{u})=0 \\
+\rho \frac{\partial \textbf{u}}{\partial t}
++\rho\textbf{u}\cdot (\nabla \textbf{u})=-\nabla P \\
+\rho \frac{\partial \textbf{u}^2}{\partial t}
++\rho \textbf{u} \cdot (\nabla \textbf{u}^2)=-2\nabla (\textbf{u} P)
+
+\end{cases}
+$$
+(The third equation may be wrong. )<br>
+For a stable 1D flow in a cross-section variable nozzle, the density equation are,
+$$
+\frac{d}{dx}(f\rho w)=0
+$$
+For the momentum equation, the force along the x direction is simply the change of the cross section times the pressure of the gas. As a result, the whole differential equation becomes,
+$$
+-\frac{d}{dx}(f\rho w^2)-\frac{d}{dx}(fP)+p\frac{df}{dx}=0
+$$$$
+\frac{d}{dx}(f\rho w^2)+f\frac{dP}{dx}=0
+$$$$
+(f\rho w)\frac{dw}{dx}+f\frac{dP}{dx}=0
+$$
+For the energy conservation equation, because nethier the viscosity nor the thermal conductivity is assumed in the gas, the equation looks like,
+$$
+\frac{d}{dx}(fw(k+u))+wf\frac{dP}{dx}=0
+$$$$
+wf\rho\frac{d}{dx}(k_0+u_0)+wf\frac{dP}{dx}=0
+$$$$
+\rho\frac{d}{dx}(k_0+u_0)+\frac{dP}{dx}=0
+$$
+I'm not sure whether this equation is correct or not. I still couldn't get enthalpy in this equation. But two equations should be enough for me to solve the result,
+$$
+\begin{cases}
+\frac{d}{dx}(f\rho w)=0
+\\
+(f\rho w)\frac{dw}{dx}+f\frac{dP}{dx}=0
+\\
+\rho\frac{d}{dx}(k_0+u_0)+\frac{dP}{dx}=0
+\end{cases}
+
+$$ 
+Merge the second equation with isentropic gas model, 
+
+$$
+(f\rho w)\frac{dw}{dx}+f\frac{dP}{dx}=0,
+\ 
+\frac{dP}{dx}=\frac{\gamma P}{\rho} \frac{d\rho}{dx}
+$$$$
+\Rightarrow (f\rho w)\frac{dw}{dx}+\frac{f \gamma P}{\rho} \frac{d\rho}{dx}=0
+\\
+\Rightarrow \frac{w\rho^2}{\gamma P} \frac{dw}{dx}+\frac{d\rho}{dx}=0
+$$
+Then merge this equation with the first one,
+
+$$
+\rho w \frac{df}{dx}+fw \frac{d\rho}{dx}+f\rho\frac{dw}{dx}=0,
+\ 
+\frac{w\rho^2}{\gamma P} \frac{dw}{dx}+\frac{d\rho}{dx}=0
+$$$$
+\Rightarrow \rho w \frac{df}{dx}-f \frac{w^2\rho^2}{\gamma P} \frac{dw}{dx}+f\rho\frac{dw}{dx}=0
+$$$$
+\Rightarrow w \frac{df}{dx}+f\left(1-\frac{w^2\rho}{\gamma P}\right) \frac{dw}{dx}=0
+$$$$
+\Rightarrow \frac{df}{f}=- \left(\frac{1}{w}-\frac{w\rho}{\gamma P}\right) dw
+$$
+
+The result is,
+$$
+-\frac{df}{f}=\left[1-M(f,w)^2\right] \frac{dw}{w}
+$$
+
+Let's express the Mach number in \(f\) and \(w\),
+$$
+\frac{P}{\rho}=\frac{P_0\rho^{\gamma-1}}{\rho_0^\gamma}
+$$$$
+M^2=\frac{w^2\rho}{\gamma P}
+=\frac{\rho_0^\gamma}{\gamma P_0} \frac{w^2\rho}{\rho^\gamma}
+$$
+
+Since the flow is same in any place of the nozzle, we have,
+$$
+f\rho w=f_0\rho_0 w_0=A_0
+$$$$
+w\rho=\frac{A_0}{f}, \frac{1}{\rho^\gamma}=\frac{f^\gamma w^\gamma}{A_0^\gamma}
+$$
+
+Put them into the previous equation, then we will have,
+$$
+M(f,w)^2=\frac{\rho_0^\gamma}{\gamma P_0} \frac{f^{\gamma-1}w^{\gamma+1}}{A_0^{\gamma-1}}
+=\frac{\rho_0^\gamma}{\gamma P_0 A_0^{\gamma-1}} f^{\gamma-1}w^{\gamma+1}
+\\
+\equiv B_0 f^{\gamma-1}w^{\gamma+1}
+$$
+
+Put the above equation into the former differential equation, then,
+$$
+-\frac{df}{f}=\left(1-B_0 f^{\gamma-1}w^{\gamma+1}\right) \frac{dw}{w}
+$$$$
+B_0 f^{\gamma-1}w^{\gamma+1} dw=\frac{dw}{w}+\frac{df}{f}
+$$
+<br>
+<br>
+
+
+<b><u>EQUATION 1.56</u></b><br>
+The core result of the supersonic nozzle is this equation. It's not a result from the differential equation, but from "energy conservation" equation, which should only be correct from a cylindrical nozzle.<br>
+Starting equations:
+$$
+\begin{cases}
+f\rho w=f_0\rho_0 w_0
+\\
+\frac{w^2}{2}+c_pT=c_p T_0
+\\
+\frac{\rho_2}{\rho_1}=\left(\frac{T_2}{T_1}\right)^{\frac{1}{\gamma-1}}
+\end{cases}
+$$
+
+First of all, the gas properties (with a \(*\) marker) at the throat is, 
+$$
+w_*^2=2c_p(T_0-T_*)
+,\ 
+w_*^2=\gamma k T_*
+$$$$
+\gamma k T_*=2c_p T_0 -2c_pT_*
+\\\Rightarrow
+T_0=\frac{2c_p+\gamma k}{2c_p}T_*
+=\frac{c_v+ c_p}{2c_V}T_*=\frac{1+ \gamma}{2}T_*
+$$$$
+\frac{T_*}{T_0}=\frac{2}{1+\gamma}
+$$
+$$
+w_*
+=\sqrt{2c_p\left(1-\frac{2}{1+\gamma}\right)T_0}
+=\sqrt{\left(\frac{\gamma-1}{\gamma+1}\right)2 c_p T_0}
+$$
+$$
+\frac{\rho_*}{\rho_0}=\left(\frac{2}{\gamma+ 1}\right)^{\frac{1}{\gamma-1}}
+$$
+
+
+For properties at any other locations, we have,
+$$
+w=\sqrt{2 c_p(T_0-T)},
+\ 
+\rho=\rho_0\left(\frac{T}{T_0}\right)^{\frac{1}{\gamma-1}}
+$$
+$$
+\frac{w\rho}{w_*\rho_*}=\sqrt{2 c_p(T_0-T)}
+\left(\frac{T}{T_0}\right)^{\frac{1}{\gamma-1}}/
+\sqrt{\left(\frac{\gamma-1}{\gamma+1}\right)2 c_p T_0}
+\left(\frac{2}{\gamma+ 1}\right)^{\frac{1}{\gamma-1}}
+\\
+
+=\sqrt{\left(\frac{\gamma+1}{\gamma-1}\right)\frac{T_0-T}{T_0}}
+\left[\frac{(\gamma + 1) T}{2 T_0}\right]^{\frac{1}{\gamma-1}}
+\\
+=\sqrt{\frac{\gamma+1}{\gamma-1}\left(1-\frac{T}{T_0}\right)}
+\left[\frac{\gamma + 1}{2}\frac{T}{T_0}\right]^{\frac{1}{\gamma-1}}
+
+$$
+
+
+The Mach number is related to the temperature directly,
+$$
+M=\frac{w}{\sqrt{\gamma k T}}
+=\sqrt{\frac{2}{\gamma-1}\frac{T_0-T}{T}}
+$$
+$$
+\frac{T_0-T}{T}=\frac{\gamma-1}{2}M^2
+\Rightarrow
+\frac{T_0}{T}=1+\frac{\gamma-1}{2}M^2
+\\\Rightarrow
+\frac{T}{T_0}=\frac{2}{2+(\gamma-1)M^2}
+,\ 
+1-\frac{T}{T_0}=\frac{(\gamma-1)M^2}{2+(\gamma-1)M^2}
+$$
+
+
+Putting the Mach number to replace the temperature in the above equation, 
+$$
+\frac{w\rho}{w_*\rho_*}
+=\sqrt{\frac{\gamma+1}{\gamma-1}\left(1-\frac{T}{T_0}\right)}
+\left[\frac{\gamma + 1}{2}\frac{T}{T_0}\right]^{\frac{1}{\gamma-1}}
+\\
+=\sqrt{\frac{(\gamma+1)M^2}{2+(\gamma-1)M^2}}
+\left[\frac{\gamma + 1}{2+(\gamma-1)M^2}\right]^{\frac{1}{\gamma-1}}
+\\
+=M\left[\frac{(\gamma + 1)}{2+(\gamma-1)M^2}\right]^{\frac{\gamma+1}{2(\gamma-1)}}
+\\
+=M\left[\frac{2}{\gamma + 1}+\frac{\gamma-1}{\gamma + 1}M^2\right]^{-\frac{\gamma+1}{2(\gamma-1)}}
+$$
+
+OK! Finally we have the equation, 
+$$
+\frac{f_*}{f}=\frac{w\rho}{w_*\rho_*}
+=M\left[1+\frac{\gamma-1}{\gamma + 1}(M^2-1)\right]^{-\frac{\gamma+1}{2(\gamma-1)}}
+
+$$
+
+
+
+<!--
++[网页](web,公式推导)
+-->
+
+    </mathjax></p>
+  </body>
+</html>
+
+
+<!--
+密度分布(M函数):...
++[M函数](,密度分布)
+-->
+## end
+#44, 17:
+De Laval nozzle理论
+## end
+#52, 439:
++[返回目录](,De Laval nozzle理论)
+地址::文档\物理问题\De_Laval_nozzle.ftxt
++[导出结构](,De Laval nozzle理论)
+
+参考文献::file:\\\C:\Users\cheng\Desktop\paper\Nozzle\Schmid09_thesis.pdf#page=39
++[打开](,参考文献)->+[网页](+[打开],)
+物理问题::文档\物理问题.txt
++[删除结构](,物理问题)
++[打开文件](+新窗口,物理问题)
+
+NS equations::https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html
++[打开](,NS equations)
+
+公式推导:...
++[网页](web,公式推导)
+两点:
+1.可能只在半径恒定的圆管道中内能才会变成焓;
+2.能量守恒和动量守恒结合应该会变成绝热方程. 
+
+
+一维模型:...
+场景模型:...
+
+
+
+## end
+#53, 64:
+De Laval nozzle理论:...
+创建于 20210216
+
++[修改标题]"目录"(,文本)
+节点数目统计::
+
+
+
+## end
+#57, 3:
+137
+## end
+#60, 95:
++[返回目录](,场景模型)
+
+设置出口角度:...
+设置出口直径:...
++[复制结构](,设置出口角度)->+[粘贴](,场景模型)->+[修改标题]"设置出口直径"(,设置出口角度)
+
+## end
+#62, 71:
++[返回目录](,设置出口直径)
++[粘贴](,设置出口直径)
+
+气阀和光束:...
+的(气阀和光束,输入)->+[设置结构](,输入)
+
+
+
+## end
+#63, 3:
+5e5
+## end
+#64, 3:
+300
+## end
+#65, 2:
+16
+## end
+#66, 7:
+0.77e-3
+## end
+#67, 4:
+8e-3
+## end
+#68, 6:
+2.4e-3
+## end
+#69, 4:
+2e-3
+## end
+#70, 4:
+1e-3
+## end
+#71, 4:
+2e-3
+## end
+#72, 4:
+5e-6
+## end
+#73, 6:
+20e-15
+## end
+#74, 5:
+10e-3
+## end
+#75, 6:
+1.8e-6
+## end
+#89, 144:
++[返回目录]
++[内容]
+wavelength::
+energy::
+tau::
+w_0::
+h::
+depth::
+L::
+exit_d::
+L2::
+throat_d::
+enter_angle::
+T0::
+P0::
+
++[修改标题]"exit_d"(,exit_angle)
+
+
+## end
+#90, 14:
++[返回目录]
++[内容]
+
+## end
+#91, 1368:
+<!--
++[返回目录]
+
++[网页](web,依据公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+<b><u>Gaussian beam</u></b><br>
+The shape of the beam is, 
+$$
+w=w_0\sqrt{1+\left(\frac{z}{z_R}\right)^2},
+\ 
+z_R=\frac{w_0^2 \pi}{\lambda}
+$$
+<br>
+<b><u>Intensity of Beam</u></b><br>
+The shape of the pulse,
+$$
+I(r,t)=I_0 exp(-\frac{2 r^2}{w_0^2}) exp(-\frac{t^2}{\tau^2})
+$$
+The peak intensity of the laser pulse,
+$$
+I_0=\frac{2 E}{\sqrt{\pi}\pi w_0^2\tau}
+$$
+The \(a_0\) at the focus point,
+$$
+a_0=\frac{e}{2 \pi m_e c^2}\sqrt{\frac{I_0 \lambda^2}{\epsilon_0 c}}
+$$
+<br>
+<b><u>Gas density distribution</u></b><br>
+The gas density along the De Laval nozzle can be calculate in the following way:
+$$
+\frac{f_*}{f}=\frac{w\rho}{w_*\rho_*}
+=M\left[1+\frac{\gamma-1}{\gamma + 1}(M^2-1)\right]^{-\frac{\gamma+1}{2(\gamma-1)}}
+$$
+$$
+\frac{T}{T_0}=\frac{2}{2+(\gamma-1)M^2}
+$$
+$$
+w=\sqrt{2 c_p(T_0-T)},
+\ 
+\rho=\rho_0\left(\frac{T}{T_0}\right)^{\frac{1}{\gamma-1}},
+\ 
+\frac{P}{P_0}=\left(\frac{T}{T_0}\right)^{\frac{\gamma}{\gamma-1}}
+$$
+
+$$
+c_p=\frac{\gamma}{\gamma-1}k
+$$
+
+<!--
++[网页](web,依据公式)
+-->
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#92, 8:
+画图部分, 1h
+## end
+#97, 3751:
+%{
++[返回目录](,气阀和光束)
+
++[M函数](,气阀和光束)
+
+用时::画图部分, 1h
+
+依据公式:...
++[网页](web,依据公式)
+
+输入:...
++[设置结构](,输入)
+%}
+
+clf;
+physics_constant;
+
+% gas input
+gamma=5/3;
+m=4*mp;
+%T0=300;
+%P0=40e5;
+
+% nozzle inputs
+%L1=1e-3;
+%L=5e-2;
+%exit_angle=16;
+%L2=4.5e-2;
+%throat_d=0.5e-2;
+%enter_angle=30;
+
+D=3e-2;
+H=5e-2;
+% flange
+tube_d=1e-2;
+DN16CF_d=1.33*2.54e-2;
+DN16CF_h=7.620e-3;
+
+% beam inputs
+F=6*2.54e-2;
+L_y=200e-6;
+
+h=height;
+depth=0.5*1e-3
+%w_0=5e-6;
+%wavelength=1.8e-6;
+
+E=energy;
+%tau=20e-15;
+
+
+
+% nozzle and gas
+%L1=L-L2;
+L=L1+L2;
+exit_angle=2*atand((exit_d-throat_d)/L2/2);
+% exit_d=L2*tand(exit_angle/2)*2+throat_d;
+enter_d=L1*tand(enter_angle/2)*2+throat_d;
+
+nozzle_X=[-enter_d/2,-throat_d/2,-exit_d/2,exit_d/2,throat_d/2,enter_d/2];
+nozzle_Y=[0,L1,L1+L2,L1+L2,L1,0];
+
+% gas
+gas_D=H*tand(exit_angle/2)*2+exit_d;
+gas_d=(L2+h)*tand(exit_angle/2)*2+throat_d;
+gas_X=[-exit_d/2,-gas_D/2,gas_D/2,exit_d/2];
+gas_Y=[L,L+H,L+H,L];
+focus=[-gas_d/2+depth,h];
+
+
+% gaussian beam
+z_R=w_0^2*pi/wavelength;
+%wavelength
+beam_x=linspace(-2*D,exit_d/2,10000);
+beam_y=w_0*sqrt(1+((beam_x-focus(1))/z_R).^2)/2;
+beam_X=[beam_x,fliplr(beam_x)];
+beam_Y=[beam_y,-fliplr(beam_y)]+focus(2)+L;
+
+% a0
+I0=2*E/sqrt(pi)/pi/w_0^2/tau;
+a0=e/2/pi/me/c^2*sqrt(I0*wavelength^2/epsilon0/c);
+
+% parabolic
+w=w_0*sqrt(1+(F/z_R).^2)/2;
+I=2*E/sqrt(pi)/pi/w^2/tau;
+
+% gas density
+A=enter_d;
+B=throat_d;
+C=gas_d;
+
+x1=linspace(0,L1,10000);
+x2=linspace(0,L2,10000);
+x=[x1,L1+x2];
+r1=((B-A)*x1/L1+A)/2;
+r2=((C-B)*x2/L2+B)/2;
+r=[r1,r2];
+S1=pi*r1.^2;
+S2=pi*r2.^2;
+S=[S1,S2];
+Sm=pi*(B/2)^2;
+
+cp=gamma/(gamma-1)*kB;
+n0=P0/kB/T0;
+
+M1=linspace(0.001,1,1000);
+M2=linspace(1,50,1000);
+f1=(1+(gamma-1)/(gamma+1)*(M1.^2-1)).^((gamma+1)/2/(gamma-1))./M1;
+f2=(1+(gamma-1)/(gamma+1)*(M2.^2-1)).^((gamma+1)/2/(gamma-1))./M2;
+M=[interp1(f1,M1,S1/Sm,'spline'),interp1(f2,M2,S2/Sm,'spline')];
+
+T=2*T0./(2+(gamma-1)*M.^2);
+n=n0*(T/T0).^(1/(gamma-1));
+n(end);
+
+
+hold on
+
+
+
+
+% window
+rectangle('Position',[-gas_d/2,L+h-L_y/2,gas_d,L_y],'LineStyle','--','FaceColor',[1,1,0])
+line([-2*D,2*D],[L+h,L+h],'LineStyle','-.','Color',[0,0,0])
+
+% flange
+rectangle('Position',[-tube_d/2,0,tube_d,L],'FaceColor',[0.8,0.8,0.8])
+rectangle('Position',[-DN16CF_d/2,0,DN16CF_d,DN16CF_h],'FaceColor',[0.8,0.8,0.8])
+
+% nozzle
+patch(nozzle_X,nozzle_Y,[1,1,1])
+line([0,0],[0,L],'LineStyle','--','Color',[0,0,0]);
+
+% gas
+patch(gas_X,gas_Y,[0.5,0.8,1],'FaceAlpha',0.5,'EdgeAlpha',0)
+
+
+% beam
+patch(beam_X,beam_Y,[1,0,0],'FaceAlpha',0.2,'EdgeAlpha',0);
+plot(beam_x,beam_y+focus(2)+L,'k');
+plot(beam_x,-beam_y+focus(2)+L,'k');
+
+% foucs marker
+plot(focus(1),focus(2)+L,'r*')
+
+axis equal
+
+
+% info box
+% gas output info
+gas_info1={
+sprintf('Density: %.2e cm^-^3',n(end)/1e6),
+sprintf('Length: %.2f mm',gas_d/1e-3)
+};
+dim=[0.7,0.7,0.,0.];
+annotation('textbox',dim,'String',gas_info1,'FitBoxToText','on');
+
+% gas input info
+gas_info2={
+sprintf('T: %.1f K',T0),
+sprintf('P: %.1f bar',P0/1e5)
+};
+dim=[0.3,0.25,0.,0.];
+annotation('textbox',dim,'String',gas_info2,'FitBoxToText','on');
+
+% nozzle info
+nozzle_info={
+sprintf('Exit: %.2f mm',exit_d/1e-3),
+sprintf('Throat: %.2f mm',throat_d/1e-3),
+sprintf('Enter: %.2f mm',enter_d/1e-3)
+};
+dim=[0.6,0.3,0.,0.];
+annotation('textbox',dim,'String',nozzle_info,'FitBoxToText','on');
+
+% focus focus
+focus_info={
+sprintf('Waist: %.2f um',w_0/1e-6),
+sprintf('Height: %.2f mm',h/1e-3),
+sprintf('Depth: %.2f mm',depth/1e-3),
+sprintf('a_0: %.2f',a0)
+};
+dim=[0.3,0.8,0.,0.];
+annotation('textbox',dim,'String',focus_info,'FitBoxToText','on');
+
+% laser focus
+laser_info={
+sprintf('E: %.2f mJ',E/1e-3),
+sprintf('\\tau: %.2f fs',tau/1e-15),
+sprintf('d: %.2f cm',2*w/1e-2),
+sprintf('I: %.2f GW/cm^2',I/1e9/1e6)
+};
+dim=[0.13,0.65,0.,0.];
+annotation('textbox',dim,'String',laser_info,'FitBoxToText','on');
+
+axis off
+
+
+%{
++[M函数](,气阀和光束)
+%}
+## end
+#99, 8:
+画图部分, 1h
+## end
+#100, 1368:
+<!--
++[返回目录]
+
++[网页](web,依据公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+<b><u>Gaussian beam</u></b><br>
+The shape of the beam is, 
+$$
+w=w_0\sqrt{1+\left(\frac{z}{z_R}\right)^2},
+\ 
+z_R=\frac{w_0^2 \pi}{\lambda}
+$$
+<br>
+<b><u>Intensity of Beam</u></b><br>
+The shape of the pulse,
+$$
+I(r,t)=I_0 exp(-\frac{2 r^2}{w_0^2}) exp(-\frac{t^2}{\tau^2})
+$$
+The peak intensity of the laser pulse,
+$$
+I_0=\frac{2 E}{\sqrt{\pi}\pi w_0^2\tau}
+$$
+The \(a_0\) at the focus point,
+$$
+a_0=\frac{e}{2 \pi m_e c^2}\sqrt{\frac{I_0 \lambda^2}{\epsilon_0 c}}
+$$
+<br>
+<b><u>Gas density distribution</u></b><br>
+The gas density along the De Laval nozzle can be calculate in the following way:
+$$
+\frac{f_*}{f}=\frac{w\rho}{w_*\rho_*}
+=M\left[1+\frac{\gamma-1}{\gamma + 1}(M^2-1)\right]^{-\frac{\gamma+1}{2(\gamma-1)}}
+$$
+$$
+\frac{T}{T_0}=\frac{2}{2+(\gamma-1)M^2}
+$$
+$$
+w=\sqrt{2 c_p(T_0-T)},
+\ 
+\rho=\rho_0\left(\frac{T}{T_0}\right)^{\frac{1}{\gamma-1}},
+\ 
+\frac{P}{P_0}=\left(\frac{T}{T_0}\right)^{\frac{\gamma}{\gamma-1}}
+$$
+
+$$
+c_p=\frac{\gamma}{\gamma-1}k
+$$
+
+<!--
++[网页](web,依据公式)
+-->
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#101, 14:
++[返回目录]
++[内容]
+
+## end
+#102, 6:
+1.8e-6
+## end
+#103, 5:
+10e-3
+## end
+#104, 6:
+20e-15
+## end
+#105, 4:
+5e-6
+## end
+#106, 4:
+2e-3
+## end
+#107, 4:
+1e-3
+## end
+#108, 4:
+2e-3
+## end
+#109, 2:
+16
+## end
+#110, 4:
+8e-3
+## end
+#111, 4:
+4e-3
+## end
+#112, 2:
+16
+## end
+#113, 3:
+300
+## end
+#114, 4:
+40e5
+## end
+#128, 138:
++[返回目录]
++[内容]
+wavelength::
+energy::
+tau::
+w_0::
+h::
+depth::
+L::
+exit_angle::
+L2::
+throat_d::
+enter_angle::
+T0::
+P0::
+
+
++[修改标题]"height"(,h)
+## end
+#133, 3693:
+%{
++[返回目录](,气阀和光束)
+
++[M函数](,气阀和光束)
+
+用时::画图部分, 1h
+
+依据公式:...
++[网页](web,依据公式)
+
+输入:...
+
+%}
+
+clf;
+physics_constant;
+
+% gas input
+gamma=5/3;
+m=4*mp;
+%T0=300;
+%P0=40e5;
+
+% nozzle inputs
+%L1=1e-3;
+%L=5e-2;
+%exit_angle=16;
+%L2=4.5e-2;
+%throat_d=0.5e-2;
+%enter_angle=30;
+
+D=3e-2;
+H=5e-2;
+% flange
+tube_d=1e-2;
+DN16CF_d=1.33*2.54e-2;
+DN16CF_h=7.620e-3;
+
+% beam inputs
+F=6*2.54e-2;
+L_y=200e-6;
+
+h=height;
+depth=0.5*1e-3
+%w_0=5e-6;
+%wavelength=1.8e-6;
+
+E=energy;
+%tau=20e-15;
+
+
+
+% nozzle and gas
+%L1=L-L2;
+L=L1+L2;
+exit_d=L2*tand(exit_angle/2)*2+throat_d;
+enter_d=L1*tand(enter_angle/2)*2+throat_d;
+
+nozzle_X=[-enter_d/2,-throat_d/2,-exit_d/2,exit_d/2,throat_d/2,enter_d/2];
+nozzle_Y=[0,L1,L1+L2,L1+L2,L1,0];
+
+% gas
+gas_D=H*tand(exit_angle/2)*2+exit_d;
+gas_d=(L2+h)*tand(exit_angle/2)*2+throat_d;
+gas_X=[-exit_d/2,-gas_D/2,gas_D/2,exit_d/2];
+gas_Y=[L,L+H,L+H,L];
+focus=[-gas_d/2+depth,h];
+
+
+% gaussian beam
+z_R=w_0^2*pi/wavelength;
+%wavelength
+beam_x=linspace(-2*D,exit_d/2,10000);
+beam_y=w_0*sqrt(1+((beam_x-focus(1))/z_R).^2)/2;
+beam_X=[beam_x,fliplr(beam_x)];
+beam_Y=[beam_y,-fliplr(beam_y)]+focus(2)+L;
+
+% a0
+I0=2*E/sqrt(pi)/pi/w_0^2/tau;
+a0=e/2/pi/me/c^2*sqrt(I0*wavelength^2/epsilon0/c);
+
+% parabolic
+w=w_0*sqrt(1+(F/z_R).^2)/2;
+I=2*E/sqrt(pi)/pi/w^2/tau;
+
+% gas density
+A=enter_d;
+B=throat_d;
+C=gas_d;
+
+x1=linspace(0,L1,10000);
+x2=linspace(0,L2,10000);
+x=[x1,L1+x2];
+r1=((B-A)*x1/L1+A)/2;
+r2=((C-B)*x2/L2+B)/2;
+r=[r1,r2];
+S1=pi*r1.^2;
+S2=pi*r2.^2;
+S=[S1,S2];
+Sm=pi*(B/2)^2;
+
+cp=gamma/(gamma-1)*kB;
+n0=P0/kB/T0;
+
+M1=linspace(0.001,1,1000);
+M2=linspace(1,50,1000);
+f1=(1+(gamma-1)/(gamma+1)*(M1.^2-1)).^((gamma+1)/2/(gamma-1))./M1;
+f2=(1+(gamma-1)/(gamma+1)*(M2.^2-1)).^((gamma+1)/2/(gamma-1))./M2;
+M=[interp1(f1,M1,S1/Sm,'spline'),interp1(f2,M2,S2/Sm,'spline')];
+
+T=2*T0./(2+(gamma-1)*M.^2);
+n=n0*(T/T0).^(1/(gamma-1));
+n(end);
+
+
+hold on
+
+
+
+
+% window
+rectangle('Position',[-gas_d/2,L+h-L_y/2,gas_d,L_y],'LineStyle','--','FaceColor',[1,1,0])
+line([-2*D,2*D],[L+h,L+h],'LineStyle','-.','Color',[0,0,0])
+
+% flange
+rectangle('Position',[-tube_d/2,0,tube_d,L],'FaceColor',[0.8,0.8,0.8])
+rectangle('Position',[-DN16CF_d/2,0,DN16CF_d,DN16CF_h],'FaceColor',[0.8,0.8,0.8])
+
+% nozzle
+patch(nozzle_X,nozzle_Y,[1,1,1])
+line([0,0],[0,L],'LineStyle','--','Color',[0,0,0]);
+
+% gas
+patch(gas_X,gas_Y,[0.5,0.8,1],'FaceAlpha',0.5,'EdgeAlpha',0)
+
+
+% beam
+patch(beam_X,beam_Y,[1,0,0],'FaceAlpha',0.2,'EdgeAlpha',0);
+plot(beam_x,beam_y+focus(2)+L,'k');
+plot(beam_x,-beam_y+focus(2)+L,'k');
+
+% foucs marker
+plot(focus(1),focus(2)+L,'r*')
+
+axis equal
+
+
+% info box
+% gas output info
+gas_info1={
+sprintf('Density: %.2e cm^-^3',n(end)/1e6),
+sprintf('Length: %.2f mm',gas_d/1e-3)
+};
+dim=[0.7,0.7,0.,0.];
+annotation('textbox',dim,'String',gas_info1,'FitBoxToText','on');
+
+% gas input info
+gas_info2={
+sprintf('T: %.1f K',T0),
+sprintf('P: %.1f bar',P0/1e5)
+};
+dim=[0.3,0.25,0.,0.];
+annotation('textbox',dim,'String',gas_info2,'FitBoxToText','on');
+
+% nozzle info
+nozzle_info={
+sprintf('Exit: %.2f mm',exit_d/1e-3),
+sprintf('Throat: %.2f mm',throat_d/1e-3),
+sprintf('Enter: %.2f mm',enter_d/1e-3)
+};
+dim=[0.6,0.3,0.,0.];
+annotation('textbox',dim,'String',nozzle_info,'FitBoxToText','on');
+
+% focus focus
+focus_info={
+sprintf('Waist: %.2f um',w_0/1e-6),
+sprintf('Height: %.2f mm',h/1e-3),
+sprintf('Depth: %.2f mm',depth/1e-3),
+sprintf('a_0: %.2f',a0)
+};
+dim=[0.3,0.8,0.,0.];
+annotation('textbox',dim,'String',focus_info,'FitBoxToText','on');
+
+% laser focus
+laser_info={
+sprintf('E: %.2f mJ',E/1e-3),
+sprintf('\\tau: %.2f fs',tau/1e-15),
+sprintf('d: %.2f cm',2*w/1e-2),
+sprintf('I: %.2f GW/cm^2',I/1e9/1e6)
+};
+dim=[0.13,0.65,0.,0.];
+annotation('textbox',dim,'String',laser_info,'FitBoxToText','on');
+
+axis off
+
+
+%{
++[M函数](,气阀和光束)
+%}
+## end
+#135, 71:
++[返回目录](,设置出口角度)
++[粘贴](,设置出口角度)
+
+气阀和光束:...
+的(气阀和光束,输入)->+[设置结构](,输入)
+
+
+
+## end
+#137, 3:
+145
+## end
+#140, 531:
+%{
++[返回目录](,气阀和光束)
++[M函数](,密度分布)
+
+理论参考(M函数):...
+Nozzle_output(M函数):...
++[M函数](,理论参考)
+%}
+
+clf
+physics_constant;
+addpath('Matlab\nozzle')
+
+P=3;
+% gas input
+gamma=5/3;
+m=4*mp;
+T0=300;
+P0=40e5;
+
+% nozzle inputs
+L1=1e-3;
+enter_d=1e-3;
+L2=3e-3;
+throat_d=0.5e-3;
+exit_d=4e-3;
+L=L1+L2;
+
+% location
+x0=linspace(-10e-3,10e-3,200);
+z0=linspace(0e-3,10e-3,200);
+
+[x,z]=meshgrid(x0,z0);
+y=0*ones(size(x));
+
+
+n=Nozzle_output(x,y,z,L1,L2,enter_d,throat_d,exit_d,gamma,m,T0,P0,P);
+
+
+surf(x,z,n/1e6);
+shading interp
+view(0,90)
+
+
+%{
++[M函数](,密度分布)
+%}
+## end
+#143, 1174:
+%{
++[返回目录](,气阀和光束)
++[M函数](,密度分布)
+depth
+L_y
+%}
+
+clf;
+clear all;
+physics_constant;
+
+% gas input
+gamma=5/3;
+m=4*mp;
+T0=300;
+P0=40e5;
+
+% nozzle inputs
+L1=1e-3;
+enter_d=1e-3;
+L2=3e-3;
+throat_d=0.5e-3;
+exit_d=4e-3;
+L=L1+L2;
+
+
+
+% gas density
+A=enter_d;
+B=throat_d;
+C=exit_d;
+
+z1=linspace(0,L1,10000);
+z2=linspace(0,L2,10000);
+z=[z1,L1+z2];
+r1=((B-A)*z1/L1+A)/2;
+r2=((C-B)*z2/L2+B)/2;
+r=[r1,r2];
+S1=pi*r1.^2;
+S2=pi*r2.^2;
+S=[S1,S2];
+Sm=pi*(B/2)^2;
+
+cp=gamma/(gamma-1)*kB;
+n0=P0/kB/T0;
+
+M1=linspace(0.001,1,1000);
+M2=linspace(1,50,1000);
+f1=(1+(gamma-1)/(gamma+1)*(M1.^2-1)).^((gamma+1)/2/(gamma-1))./M1;
+f2=(1+(gamma-1)/(gamma+1)*(M2.^2-1)).^((gamma+1)/2/(gamma-1))./M2;
+M=[interp1(f1,M1,S1/Sm,'spline'),interp1(f2,M2,S2/Sm,'spline')];
+
+T=2*T0./(2+(gamma-1)*M.^2);
+n=n0*(T/T0).^(1/(gamma-1));
+
+
+subplot(2,2,1)
+plot(z/1e-3,n/1e6);
+set(gca,'YScale','log')
+xlabel('distance [mm]');
+ylabel('density [cm^{-3}]')
+
+subplot(2,2,3)
+plot(z/1e-3,M);
+xlabel('distance [mm]');
+ylabel('Mach number')
+
+subplot(1,2,2)
+plot(r/1e-3,(z-L)/1e-3,-r/1e-3,(z-L)/1e-3);
+ylabel('distance [mm]');
+xlabel('radius [mm]');
+axis equal
+axis([-max(r/1e-3),max(r/1e-3),-L/1e-3,max(z-L)/1e-3])
+
+
+
+%{
++[M函数](,密度分布)
+%}
+## end
+#145, 3:
+152
+## end
+#148, 871:
+%{
++[返回目录](,气阀和光束)
++[M函数](,Nozzle_output)
+地址::Matlab\nozzle\Nozzle_output.m
++[保存文本](,Nozzle_output)
+%}
+
+
+function n=Nozzle_output(x,y,z,L1,L2,enter_d,throat_d,exit_d,gamma,m,T0,P0,P)
+physics_constant;
+
+% P=3;
+% gas input
+% gamma=5/3;
+% m=4*mp;
+% T0=300;
+% P0=40e5;
+
+% nozzle inputs
+% L1=1e-3;
+% enter_d=1e-3;
+% L2=3e-3;
+% throat_d=0.5e-3;
+% exit_d=4e-3;
+L=L1+L2;
+
+% location
+% x0=linspace(-10e-3,10e-3,200);
+% z0=linspace(0e-3,10e-3,200);
+
+% [x,z]=meshgrid(x0,z0);
+% y=0*ones(size(x));
+
+
+
+% gas density
+B=throat_d;
+C=exit_d;
+k=(C-B)/L2/2;
+
+r=k*z+C/2;
+S=pi*r.^2;
+Sm=pi*(B/2)^2;
+
+cp=gamma/(gamma-1)*kB;
+n0=P0/kB/T0;
+
+M2=linspace(1,50,1000);
+f2=(1+(gamma-1)/(gamma+1)*(M2.^2-1)).^((gamma+1)/2/(gamma-1))./M2;
+M=interp1(f2,M2,S/Sm,'spline');
+
+T=2*T0./(2+(gamma-1)*M.^2);
+n=n0*(T/T0).^(1/(gamma-1));
+
+R=sqrt(x.^2+y.^2);
+n=n.*exp(-(R.^2./r.^2/2).^P);
+
+end
+
+
+%{
++[M函数](,密度分布)
+%}
+## end
+#151, 29:
+Matlab\nozzle\Nozzle_output.m
+## end
+### 结束

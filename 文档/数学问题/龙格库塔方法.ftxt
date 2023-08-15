@@ -1,0 +1,1716 @@
+### 节点
+地址, 的, 龙格库塔方法, 目录, 的, 的, 节点数目统计, 20210418, 的, 的, 资料1, 的, 资料2, 20210423, 的, 打开网页, 的, 资料3, 打开网页, 打开网页, 打开网页, 的, 正文, html, 的, [1]., 手, 表达式, 的, 公式, 的, [2]., 的, [3]., 的, [4]., 的, [5]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [6]., 表达式, 的, 公式, 表达式, 的, 公式, 的, 差分法, html, 的, [1]., 的, [2]., 的, [3]., 的, [4]., 的, [5]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [7]., 的, [8]., 的, [9]., 的, [10]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, 验证公式, 在, 在, 的, EM_re_motion_RK4, M函数, 的, 测试, M函数, 的, 地址, EM_motion_RK4, 的, 记忆, EM_motion_RK4, 的, [11]., 的, [12]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [13]., 表达式, 的, 公式, 地址, M函数, 测试, 的, 的, M函数, EM_motion_RK4, 的, 的, 低速电子, EM_re_motion_RK4, 的, EM_re_motion_RK4, 的, 隐式RK, html, 的, 参考, 打开网页, 的, [1]., 表达式, 的, 公式, 的, [2]., 的, [3]., 的, [4]., 表达式, 的, 公式, 的, [5]., 的, [6]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [7]., 表达式, 的, 公式, 的, [8]., 表达式, 的, 公式, 的, [9]., 表达式, 的, 公式, 的, [10]., 表达式, 的, 公式, 的, [11]., 的, [12]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [13]., 表达式, 的, 公式, 的, [14]., 的, [15]., 的, [16]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [17]., 表达式, 的, 公式, 的, 验证公式, M函数, 的, 测试BEM, 为, 的, 在, 在, 的, 保存, 在, 在, 在, 在, 在, 在, 在, 在, 打开网页, 的, 测试CM, 的, EM_motion_BEM, M函数, 的, 地址, EM_motion_BEM, 的, EM_motion_BEM, 的, EM_motion_CM, M函数, 的, 地址, EM_motion_CM, 的, EM_motion_CM, 的, 对比ODE, M函数, 的, EM_motion_eqns, M函数, 的, 地址, EM_motion_eqns, 的, EM_motion_eqns, 的, 参考, 打开网页, 的, EM_motion_ODEs, M函数, 的, 地址, EM_motion_ODEs, 的, EM_motion_ODEs, 的, 测试, 的, 多行测试, 的, 对比测试, 的, 多行测试, 的, 笔记, 的, AM2, 打开网页, 的, 误差, html, 的, 参考1, 的, 参考2, 的, 参考3, 打开网页, 打开网页, 打开网页, 打开网页, 打开网页, 打开网页, 的, [14]., 的, [15]., 的, [16]., 表达式, 的, 公式, 起点, 的, 起点, 的, 短期, 表达式, 的, 公式, 起点, 的, 起点, 的, 表达式, 的, 公式, 起点, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, #, 6#7, 2#10, #, 2#12, #, #, 6#13, #12, 2#17, #, #10, #12, #17, 2#22, #, 22#, 22#25, #, #22, #, 25#27, 25#, 22#31, #, 22#33, #, 22#35, #, 22#37, #, #, 31#38, 31#, #, 33#41, 33#, #, 35#44, 35#, 22#48, #, #, 37#49, 37#, #, 48#52, 48#, 22#56, #, 56#, 56#59, #, 56#61, #, 56#63, #, 56#65, #, 56#67, #, #, 59#68, 59#, #, 61#71, 61#, 22#75, #, 22#77, #, 22#79, #, 22#81, #, #, 75#82, 75#, #, 77#85, 77#, #, 79#88, 79#, 22#92, #, #, #, 92#96, #, 96#, 96#99, #, 99#, 96#102, #, #96, 105#103, 3#, #, 22#108, #, 22#110, #, #, 81#111, 81#, #, 108#114, 108#, #, 110#117, 110#, 22#121, #, #, 121#122, 121#, #, 127#, #, 131#125, 131#127, 131#, #, 92#131, 92#134, #, #96, 105#135, #, 2#139, #, 139#, 139#142, #, #142, 139#145, #, #, 145#146, 145#, 139#150, #, 139#152, #, 139#154, #, #, 150#155, 150#, 139#159, #, 139#161, #, #, 152#162, 152#, #, 154#165, 154#, #, 159#168, 159#, #, 161#171, 161#, 139#175, #, #, 175#176, 175#, 139#180, #, #, 180#181, 180#, 139#185, #, #, 185#186, 185#, 139#190, #, #, 190#191, 190#, 139#195, #, 139#197, #, #, 195#198, 195#, #, 197#201, 197#, 139#205, #, #, 205#206, 205#, 139#210, #, 139#212, #, 139#214, #, #, 210#215, 210#, #, 212#218, 212#, #, 214#221, 214#, 139#225, #, #, 225#226, 225#, 139#230, #, 230#, 230#233, #, #, 139#234, #, #, 230#239, #, #, #, #, #, #, #, #, #, #142, 230#250, #, 230#252, #, 252#, 252#255, #, #252, 105#256, #, 230#260, #, 260#, 260#263, #, #260, 105#264, #, 139#268, #, 268#, 268#271, #, 271#, 271#274, #, #271, 105#275, #, 268#279, #, #279, 268#282, #, 282#, 282#285, #, #282, 105#286, #, 282#290, #, 290#292, #, 268#294, #, 268#296, #, 2#298, #, 2#300, #, #142, 2#303, #, 303#, 303#306, #, 303#308, #, 303#310, #, #310, #308, #306, #306, #306, #308, 22#318, #, 22#320, #, 22#322, #, #, 318#323, 318#, #del, 323#326, #del, 85#328, del#, #, 320#331, 320#, #del, 331#334, #del, 88#336, #, 322#338, 322#, #del, 338#341, 
+### 内容
+#0, 19:
+文档\数学问题\龙格库塔方法.ftxt
+## end
+#2, 671:
++[返回目录](,龙格库塔方法)
+地址::文档\数学问题\龙格库塔方法.ftxt
+
+资料1::file:///C:/Users/cheng/Desktop/paper/FDTD/script0910.pdf#page=83
+资料2::https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods
+资料3::https://www.myphysicslab.com/explain/runge-kutta-en.html#:~:text=Multi%2Dvariable%20Runge%2DKutta%20Algorithm,that%20the%20variables%20become%20vectors.&text=where%20x%20%3D%20(x1%2C,..%2C%20fm)%20.
+AM2::https://web.mit.edu/10.001/Web/Course_Notes/Differential_Equations_Notes/node7.html
++[打开网页](,资料3)
+
+关于龙格库塔方法是什么, 我现在有一个宏观的概念. 具体可以参考, 
+FDTD 的 正文 的 稳定性问题 的 解决方案. 
+
+正文(html):...
+隐式RK(html):...
+误差(html):...
++[新建阅读窗口](,隐式RK)
++[新建阅读窗口](,正文)
++[H函数](,正文)
++[上传网页](,隐式RK)
+正文的式(9)转换为"表达式"
+
+笔记:...
+
+
+## end
+#3, 50:
+龙格库塔方法:...
+创建于 20210418
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#7, 2:
+11
+## end
+#10, 64:
+file:///C:/Users/cheng/Desktop/paper/FDTD/script0910.pdf#page=83
+## end
+#12, 57:
+https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods
+## end
+#13, 2:
+15
+## end
+#17, 198:
+https://www.myphysicslab.com/explain/runge-kutta-en.html#:~:text=Multi%2Dvariable%20Runge%2DKutta%20Algorithm,that%20the%20variables%20become%20vectors.&text=where%20x%20%3D%20(x1%2C,..%2C%20fm)%20.
+## end
+#22, 1049:
+<!--
++[H函数](,正文)
+
+差分法(html):...
+-->
+
+<h2>Runge-Kutta algorithm</h2>
+If the problem is,
+%[1].
+Then \(x_{n+1}\) can be calculated from \(x_{n}\) by,
+%[2].
+%[3].
+%[4].
+%[5].
+%[6].
+Here, \(x\) can be a vector. 
+
+<h2>RK4 in 2D electric-magnetic fields</h2>
+The dynamic equation is,
+%[7].
+%[8].
+
+We can write the equation in the above style,
+%[9].
+
+
+
+<h2>Relativistic electrons</h2>
+The relativistic dynamic equations are,
+%[10].
+%[11].
+%[12].
+
+Write in RK4 style, 
+%[13].
+
+
+<h2>RK4 in 3D electric-magnetic fields</h2>
+The dynamic equation is,
+%[14].
+%[15].
+
+We can write the equation in the above style,
+%[16].
+
+
+<!--
+[16].:
+式(16)转换为"Python"
+将式(7)记作为式(14)
+将"\eqs{f_1(t,x,y,z,v_x,v_y,v_z)=v_x;
+f_2(t,x,y,z,v_x,v_y,v_z)=v_y;
+f_3(t,x,y,z,v_x,v_y,v_z)=v_z;
+f_4(t,x,y,z,v_x,v_y,v_z)=(v_y*B_z(x,y,z)-v_z*B_y(x,y,z)+E_x(x,y,z))*q/m;
+f_5(t,x,y,z,v_x,v_y,v_z)=(v_z*B_x(x,y,z)-v_x*B_z(x,y,z)+E_y(x,y,z))*q/m;
+f_6(t,x,y,z,v_x,v_y,v_z)=(v_x*B_y(x,y,z)-v_y*B_x(x,y,z)+E_z(x,y,z))*q/m}"记作为式(16)
+
+
+验证公式:...
++[新建阅读窗口](,验证公式)
+在选择区域中, 将'验证公式'的"tc_"替换为"ta_"
++[H函数](,正文)
+-->
+## end
+#25, 33:
+\frac{d}{dt}\left(x\right)=f(t,x)
+## end
+#27, 16:
+\d{x}_{t}=f(t,x)
+## end
+#31, 64:
+x\ _{n+1}=x\ _{n}+\frac{\Delta t}{6}\ \left(a+2\ b+2\ c+d\right)
+## end
+#33, 20:
+a=f(t\ _{n},x\ _{n})
+## end
+#35, 45:
+b=f(t\ _{n}+\Delta t/2,x\ _{n}+\Delta t/2\ a)
+## end
+#37, 45:
+c=f(t\ _{n}+\Delta t/2,x\ _{n}+\Delta t/2\ b)
+## end
+#38, 44:
+x[n+1]=x[n]+\frac{\Delta t}{6}*(a+2*b+2*c+d)
+## end
+#41, 14:
+a=f(t[n],x[n])
+## end
+#44, 38:
+b=f(t[n]+\Delta t/2,x[n]+\Delta t/2*a)
+## end
+#48, 41:
+d=f(t\ _{n}+\Delta t,x\ _{n}+\Delta t\ c)
+## end
+#49, 38:
+c=f(t[n]+\Delta t/2,x[n]+\Delta t/2*b)
+## end
+#52, 34:
+d=f(t[n]+\Delta t,x[n]+\Delta t*c)
+## end
+#56, 321:
+<!--
++[H函数](,差分法)
+-->
+
+%[1].
+%[2].
+%[3].
+%[4].
+%[5].
+
+
+
+
+<!--
+[5].:
+将"x(t)=x_0+\d{x_0}_{t}*t+1/2*\d{x_0}_{t,t}*t^2+1/6*\d{x_0}_{t,t,t}*t^3+..."记作为式(1)
+
+的([1].,表达式)->的(表达式,微分)->输入(微分,)=>的(输入,_变量)=>+[显示](,的)
+的([1].,表达式)->的(表达式,微分)->+[微分](微分,+[显示])
+
+将"..."记作为式(2)
+
+的([2].,表达式)->+[显示](,表达式)
+Nini, 打开公式分析器(文件)
++[H函数](,差分法)
+-->
+## end
+#59, 111:
+x(t)=x_{0}+\frac{dx_{0}}{dt}\ t+1/2\ \frac{d^{2}x_{0}}{dt^{2}}\ t^{2}+1/6\ \frac{d^{3}x_{0}}{dt^{3}}\ t^{3}+...
+## end
+#61, 3:
+...
+## end
+#68, 72:
+x(t)=x_0+\d{x_0}_{t}*t+1/2*\d{x_0}_{t,t}*t^2+1/6*\d{x_0}_{t,t,t}*t^3+...
+## end
+#71, 3:
+...
+## end
+#75, 62:
+m_{e}\ \frac{d\vec{v}}{dt}=q\ \vec{v}\times \vec{B}+q\ \vec{E}
+## end
+#77, 130:
+\begin{cases}
+m_{e}\ \frac{dv_{x}}{dt}=q\ v_{y}\ B_{z}+q\ E_{x}\\ m_{e}\ \frac{dv_{y}}{dt}=-q\ v_{x}\ B_{z}+q\ E_{y}
+\end{cases}
+
+
+## end
+#79, 240:
+\begin{cases}
+f_{1}(t,x,y,v_{x},v_{y})=v_{x}\\ f_{2}(t,x,y,v_{x},v_{y})=v_{y}\\ f_{3}(t,x,y,v_{x},v_{y})=\left(v_{y}\ B_{z}(x,y)+E_{x}(x,y)\right)\ q/m\\ f_{4}(t,x,y,v_{x},v_{y})=\left(-v_{x}\ B_{z}(x,y)+E_{y}(x,y)\right)\ q/m
+\end{cases}
+
+
+## end
+#81, 65:
+\frac{d\vec{p}}{dt}=q\ \left(\vec{v}\times \vec{B}+\vec{E}\right)
+## end
+#82, 53:
+m_e*\d{\vec{v}}_{t}=q*\vec{v}\times \vec{B}+q*\vec{E}
+## end
+#85, 71:
+\eqs{m_e*\d{v_x}_{t}=q*v_y*B_z+q*E_x;
+m_e*\d{v_y}_{t}=-q*v_x*B_z+q*E_y}
+## end
+#88, 149:
+\eqs{f_1(t,x,y,v_x,v_y)=v_x;
+f_2(t,x,y,v_x,v_y)=v_y;
+f_3(t,x,y,v_x,v_y)=(v_y*B_z(x,y)+E_x(x,y))*q/m;
+f_4(t,x,y,v_x,v_y)=(-v_x*B_z(x,y)+E_y(x,y))*q/m}
+## end
+#92, 523:
+%{
++[M函数](,验证公式)
+
+EM_motion_RK4(M函数):...
+EM_re_motion_RK4(M函数):...
+将条目"EM_motion_RK4"复制为条目"EM_re_motion_RK4"
+
+低速电子:...
+%}
+
+physics_constant;
+
+addpath('Matlab/Physics');
+q=-1;
+m=1;
+Delta_t=0.01;
+x=0;
+y=0;
+p_x=1;
+p_y=0;
+N=1000;
+t=0;
+
+B_z=@(x,y)1;
+E_x=@(x,y)0;
+E_y=@(x,y)0;
+
+
+xs=zeros(1,N);
+ys=zeros(1,N);
+pxs=zeros(1,N);
+pys=zeros(1,N);
+
+for i=1:N
+[x,y,p_x,p_y]=EM_re_motion_RK4(x,y,p_x,p_y,Delta_t,t,q,m,B_z,E_x,E_y);
+
+xs(i)=x;
+ys(i)=y;
+pxs(i)=p_x;
+pys(i)=p_y;
+end
+
+plot(xs,ys)
+axis equal
+
+%{
+clf
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#96, 2054:
+%{
+地址::Matlab\Physics\EM_re_motion_RK4.m
++[保存M函数](,EM_re_motion_RK4)
+
+测试(M函数):...
++[新建阅读窗口](,测试)
+将'测试'的"v"替换为"p"
+%}
+
+function [x,y,p_x,p_y]=EM_re_motion_RK4(x,y,p_x,p_y,Delta_t,t,q,m,B_z,E_x,E_y)
+physics_constant;
+
+f_1=@(t,x,y,p_x,p_y)c.*p_x./sqrt(p_x.^(2)+p_y.^(2)+m.^(2).*c.^(2));
+f_2=@(t,x,y,p_x,p_y)c.*p_y./sqrt(p_x.^(2)+p_y.^(2)+m.^(2).*c.^(2));
+f_3=@(t,x,y,p_x,p_y)q.*(c.*p_y.*B_z(x,y)./sqrt(p_x.^(2)+p_y.^(2)+m.^(2).*c.^(2))+E_x(x,y));
+f_4=@(t,x,y,p_x,p_y)q.*(-c.*p_x.*B_z(x,y)./sqrt(p_x.^(2)+p_y.^(2)+m.^(2).*c.^(2))+E_y(x,y));
+
+a_1=f_1(t,x,y,p_x,p_y);
+a_2=f_2(t,x,y,p_x,p_y);
+a_3=f_3(t,x,y,p_x,p_y);
+a_4=f_4(t,x,y,p_x,p_y);
+
+b_1=f_1(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    p_x+Delta_t./2.*a_3,p_y+Delta_t./2.*a_4);
+b_2=f_2(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    p_x+Delta_t./2.*a_3,p_y+Delta_t./2.*a_4);
+b_3=f_3(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    p_x+Delta_t./2.*a_3,p_y+Delta_t./2.*a_4);
+b_4=f_4(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    p_x+Delta_t./2.*a_3,p_y+Delta_t./2.*a_4);
+
+c_1=f_1(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    p_x+Delta_t./2.*b_3,p_y+Delta_t./2.*b_4);
+c_2=f_2(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    p_x+Delta_t./2.*b_3,p_y+Delta_t./2.*b_4);
+c_3=f_3(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    p_x+Delta_t./2.*b_3,p_y+Delta_t./2.*b_4);
+c_4=f_4(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    p_x+Delta_t./2.*b_3,p_y+Delta_t./2.*b_4);
+
+d_1=f_1(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    p_x+Delta_t.*c_3,p_y+Delta_t.*c_4);
+d_2=f_2(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    p_x+Delta_t.*c_3,p_y+Delta_t.*c_4);
+d_3=f_3(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    p_x+Delta_t.*c_3,p_y+Delta_t.*c_4);
+d_4=f_4(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    p_x+Delta_t.*c_3,p_y+Delta_t.*c_4);
+
+x=x+Delta_t/6*(a_1+2*b_1+2*c_1+d_1);
+y=y+Delta_t/6*(a_2+2*b_2+2*c_2+d_2);
+p_x=p_x+Delta_t/6*(a_3+2*b_3+2*c_3+d_3);
+p_y=p_y+Delta_t/6*(a_4+2*b_4+2*c_4+d_4);
+
+end
+
+
+%{
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#99, 2117:
+%{
++[M函数](,测试)
+%}
+
+physics_constant;
+q=-1;
+m=1;
+Delta_t=0.1;
+x=0;
+y=0;
+p_x=1;
+p_y=0;
+N=1000;
+t=0;
+
+B_z=@(x,y)1;
+E_x=@(x,y)1;
+E_y=@(x,y)0;
+
+f_1=@(t,x,y,p_x,p_y)c.*p_x./sqrt(p_x.^(2)+p_y.^(2)+m.^(2).*c.^(2));
+f_2=@(t,x,y,p_x,p_y)c.*p_y./sqrt(p_x.^(2)+p_y.^(2)+m.^(2).*c.^(2));
+f_3=@(t,x,y,p_x,p_y)q.*(c.*p_y.*B_z(x,y)./sqrt(p_x.^(2)+p_y.^(2)+m.^(2).*c.^(2))+E_x(x,y));
+f_4=@(t,x,y,p_x,p_y)q.*(-c.*p_x.*B_z(x,y)./sqrt(p_x.^(2)+p_y.^(2)+m.^(2).*c.^(2))+E_y(x,y));
+
+xs=zeros(1,N);
+ys=zeros(1,N);
+pxs=zeros(1,N);
+pys=zeros(1,N);
+
+for i=1:N
+a_1=f_1(t,x,y,p_x,p_y);
+a_2=f_2(t,x,y,p_x,p_y);
+a_3=f_3(t,x,y,p_x,p_y);
+a_4=f_4(t,x,y,p_x,p_y);
+
+b_1=f_1(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    p_x+Delta_t./2.*a_3,p_y+Delta_t./2.*a_4);
+b_2=f_2(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    p_x+Delta_t./2.*a_3,p_y+Delta_t./2.*a_4);
+b_3=f_3(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    p_x+Delta_t./2.*a_3,p_y+Delta_t./2.*a_4);
+b_4=f_4(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    p_x+Delta_t./2.*a_3,p_y+Delta_t./2.*a_4);
+
+c_1=f_1(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    p_x+Delta_t./2.*b_3,p_y+Delta_t./2.*b_4);
+c_2=f_2(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    p_x+Delta_t./2.*b_3,p_y+Delta_t./2.*b_4);
+c_3=f_3(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    p_x+Delta_t./2.*b_3,p_y+Delta_t./2.*b_4);
+c_4=f_4(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    p_x+Delta_t./2.*b_3,p_y+Delta_t./2.*b_4);
+
+d_1=f_1(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    p_x+Delta_t.*c_3,p_y+Delta_t.*c_4);
+d_2=f_2(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    p_x+Delta_t.*c_3,p_y+Delta_t.*c_4);
+d_3=f_3(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    p_x+Delta_t.*c_3,p_y+Delta_t.*c_4);
+d_4=f_4(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    p_x+Delta_t.*c_3,p_y+Delta_t.*c_4);
+
+x=x+Delta_t/6*(a_1+2*b_1+2*c_1+d_1);
+y=y+Delta_t/6*(a_2+2*b_2+2*c_2+d_2);
+p_x=p_x+Delta_t/6*(a_3+2*b_3+2*c_3+d_3);
+p_y=p_y+Delta_t/6*(a_4+2*b_4+2*c_4+d_4);
+
+xs(i)=x;
+ys(i)=y;
+pxs(i)=p_x;
+pys(i)=p_y;
+end
+
+plot(xs,ys)
+axis equal
+
+%{
+
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#102, 33:
+Matlab\Physics\EM_re_motion_RK4.m
+## end
+#108, 34:
+\vec{v}=\vec{p}/m=\vec{p}\ c^{2}/E
+## end
+#110, 62:
+\vec{v}=\frac{c\ \vec{p}}{\sqrt{\vec{p}^{2}+m_{e}^{2}\ c^{2}}}
+## end
+#111, 49:
+\d{\vec{p}}_{t}=q*(\vec{v}\times \vec{B}+\vec{E})
+## end
+#114, 31:
+\vec{v}=\vec{p}/m=\vec{p}*c^2/E
+## end
+#117, 52:
+\vec{v}=\frac{c*\vec{p}}{\sqrt{\vec{p}^2+m_e^2*c^2}}
+## end
+#121, 424:
+\begin{cases}
+f_{1}(t,x,y,p_{x},p_{y})=c\ p_{x}/\sqrt{p_{x}^{2}+p_{y}^{2}+m_{e}^{2}\ c^{2}}\\ f_{2}(t,x,y,p_{x},p_{y})=c\ p_{y}/\sqrt{p_{x}^{2}+p_{y}^{2}+m_{e}^{2}\ c^{2}}\\ f_{3}(t,x,y,p_{x},p_{y})=q\ \left(c\ p_{y}\ B_{z}(x,y)/\sqrt{p_{x}^{2}+p_{y}^{2}+m_{e}^{2}\ c^{2}}+E_{x}(x,y)\right)\\ f_{4}(t,x,y,p_{x},p_{y})=q\ \left(-c\ p_{x}\ B_{z}(x,y)/\sqrt{p_{x}^{2}+p_{y}^{2}+m_{e}^{2}\ c^{2}}+E_{y}(x,y)\right)
+\end{cases}
+
+
+## end
+#122, 269:
+\eqs{f_1(t,x,y,p_x,p_y)=c*p_x/\sqrt{p_x^2+p_y^2+m_e^2*c^2};
+f_2(t,x,y,p_x,p_y)=c*p_y/\sqrt{p_x^2+p_y^2+m_e^2*c^2};
+f_3(t,x,y,p_x,p_y)=q*(c*p_y*B_z(x,y)/\sqrt{p_x^2+p_y^2+m_e^2*c^2}+E_x(x,y));
+f_4(t,x,y,p_x,p_y)=q*(-c*p_x*B_z(x,y)/\sqrt{p_x^2+p_y^2+m_e^2*c^2}+E_y(x,y))}
+## end
+#125, 30:
+Matlab\Physics\EM_motion_RK4.m
+## end
+#127, 1973:
+%{
++[M函数](,测试)
+EB_motion_RK4
+
+测试(M函数):
+%}
+
+physics_constant;
+q=-1;
+m=1;
+Delta_t=0.1;
+x=0;
+y=0;
+v_x=1;
+v_y=0;
+N=1000;
+t=0;
+
+B_z=@(x,y)1;
+E_x=@(x,y)1;
+E_y=@(x,y)0;
+
+f_1=@(t,x,y,v_x,v_y)v_x;
+f_2=@(t,x,y,v_x,v_y)v_y;
+f_3=@(t,x,y,v_x,v_y)(v_y.*B_z(x,y)+E_x(x,y)).*q./m;
+f_4=@(t,x,y,v_x,v_y)(-v_x.*B_z(x,y)+E_y(x,y)).*q./m;
+
+xs=zeros(1,N);
+ys=zeros(1,N);
+vxs=zeros(1,N);
+vys=zeros(1,N);
+
+for i=1:N
+a_1=f_1(t,x,y,v_x,v_y);
+a_2=f_2(t,x,y,v_x,v_y);
+a_3=f_3(t,x,y,v_x,v_y);
+a_4=f_4(t,x,y,v_x,v_y);
+
+b_1=f_1(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    v_x+Delta_t./2.*a_3,v_y+Delta_t./2.*a_4);
+b_2=f_2(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    v_x+Delta_t./2.*a_3,v_y+Delta_t./2.*a_4);
+b_3=f_3(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    v_x+Delta_t./2.*a_3,v_y+Delta_t./2.*a_4);
+b_4=f_4(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    v_x+Delta_t./2.*a_3,v_y+Delta_t./2.*a_4);
+
+c_1=f_1(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    v_x+Delta_t./2.*b_3,v_y+Delta_t./2.*b_4);
+c_2=f_2(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    v_x+Delta_t./2.*b_3,v_y+Delta_t./2.*b_4);
+c_3=f_3(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    v_x+Delta_t./2.*b_3,v_y+Delta_t./2.*b_4);
+c_4=f_4(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    v_x+Delta_t./2.*b_3,v_y+Delta_t./2.*b_4);
+
+d_1=f_1(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    v_x+Delta_t.*c_3,v_y+Delta_t.*c_4);
+d_2=f_2(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    v_x+Delta_t.*c_3,v_y+Delta_t.*c_4);
+d_3=f_3(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    v_x+Delta_t.*c_3,v_y+Delta_t.*c_4);
+d_4=f_4(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    v_x+Delta_t.*c_3,v_y+Delta_t.*c_4);
+
+x=x+Delta_t/6*(a_1+2*b_1+2*c_1+d_1);
+y=y+Delta_t/6*(a_2+2*b_2+2*c_2+d_2);
+v_x=v_x+Delta_t/6*(a_3+2*b_3+2*c_3+d_3);
+v_y=v_y+Delta_t/6*(a_4+2*b_4+2*c_4+d_4);
+
+xs(i)=x;
+ys(i)=y;
+vxs(i)=v_x;
+vys(i)=v_y;
+end
+
+hold on
+plot(xs,ys)
+% axis equal
+
+%{
+
+记住"Matlab"
+和
+%}
+## end
+#131, 1950:
+%{
+地址::Matlab\Physics\EM_motion_RK4.m
++[保存M函数](,EM_motion_RK4)
+
+测试(M函数):...
+%}
+
+function [x,y,v_x,v_y]=EM_motion_RK4(x,y,v_x,v_y,Delta_t,t,q,m,B_z,E_x,E_y)
+%{
+physics_constant;
+q=-1;
+m=1;
+Delta_t=0.1;
+x=0;
+y=0;
+v_x=1;
+v_y=0;
+N=1000;
+
+B_z=@(x,y)1;
+E_x=@(x,y)1;
+E_y=@(x,y)0;
+%}
+
+f_1=@(t,x,y,v_x,v_y)v_x;
+f_2=@(t,x,y,v_x,v_y)v_y;
+f_3=@(t,x,y,v_x,v_y)(v_y.*B_z(x,y)+E_x(x,y)).*q./m;
+f_4=@(t,x,y,v_x,v_y)(-v_x.*B_z(x,y)+E_y(x,y)).*q./m;
+
+a_1=f_1(t,x,y,v_x,v_y);
+a_2=f_2(t,x,y,v_x,v_y);
+a_3=f_3(t,x,y,v_x,v_y);
+a_4=f_4(t,x,y,v_x,v_y);
+
+b_1=f_1(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    v_x+Delta_t./2.*a_3,v_y+Delta_t./2.*a_4);
+b_2=f_2(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    v_x+Delta_t./2.*a_3,v_y+Delta_t./2.*a_4);
+b_3=f_3(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    v_x+Delta_t./2.*a_3,v_y+Delta_t./2.*a_4);
+b_4=f_4(t+Delta_t./2,x+Delta_t./2.*a_1,y+Delta_t./2.*a_2,...
+    v_x+Delta_t./2.*a_3,v_y+Delta_t./2.*a_4);
+
+c_1=f_1(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    v_x+Delta_t./2.*b_3,v_y+Delta_t./2.*b_4);
+c_2=f_2(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    v_x+Delta_t./2.*b_3,v_y+Delta_t./2.*b_4);
+c_3=f_3(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    v_x+Delta_t./2.*b_3,v_y+Delta_t./2.*b_4);
+c_4=f_4(t+Delta_t./2,x+Delta_t./2.*b_1,y+Delta_t./2.*b_2,...
+    v_x+Delta_t./2.*b_3,v_y+Delta_t./2.*b_4);
+
+d_1=f_1(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    v_x+Delta_t.*c_3,v_y+Delta_t.*c_4);
+d_2=f_2(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    v_x+Delta_t.*c_3,v_y+Delta_t.*c_4);
+d_3=f_3(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    v_x+Delta_t.*c_3,v_y+Delta_t.*c_4);
+d_4=f_4(t+Delta_t,x+Delta_t.*c_1,y+Delta_t.*c_2,...
+    v_x+Delta_t.*c_3,v_y+Delta_t.*c_4);
+
+x=x+Delta_t/6*(a_1+2*b_1+2*c_1+d_1);
+y=y+Delta_t/6*(a_2+2*b_2+2*c_2+d_2);
+v_x=v_x+Delta_t/6*(a_3+2*b_3+2*c_3+d_3);
+v_y=v_y+Delta_t/6*(a_4+2*b_4+2*c_4+d_4);
+
+end
+
+
+%{
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#134, 523:
+%{
++[M函数](,验证公式)
+
+EM_motion_RK4(M函数):...
+EM_re_motion_RK4(M函数):...
+将条目"EM_motion_RK4"复制为条目"EM_re_motion_RK4"
+
+低速电子:...
+%}
+
+physics_constant;
+
+addpath('Matlab\Physics');
+
+q=-1;
+m=1;
+Delta_t=0.02;
+x=0;
+y=0;
+v_x=1;
+v_y=0;
+N=1000;
+t=0;
+
+B_z=@(x,y)1;
+E_x=@(x,y)0.4;
+E_y=@(x,y)0;
+
+
+xs=zeros(1,N);
+ys=zeros(1,N);
+vxs=zeros(1,N);
+vys=zeros(1,N);
+
+for i=1:N
+[x,y,v_x,v_y]=EM_motion_RK4(x,y,v_x,v_y,Delta_t,t,q,m,B_z,E_x,E_y);
+
+xs(i)=x;
+ys(i)=y;
+vxs(i)=v_x;
+vys(i)=v_y;
+end
+
+plot(xs,ys)
+axis equal
+
+%{
+clf
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#139, 724:
+<!--
++[H函数](,隐式RK)
+参考::https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods#Implicit_Runge%E2%80%93Kutta_methods
++[打开网页](,参考)
+-->
+
+<h2>Backward Euler method</h2>
+The formulas are,
+%[1].
+%[2].
+<h3>Electron in EM fields</h3>
+The equations are,
+%[3].
+Then,
+%[4].
+%[5].
+%[6].
+The matrix is,
+%[7].
+Then the result is,
+%[8].
+
+
+<h2>Collocation method</h2>
+The formulas are,
+%[11].
+%[12].
+%[13].
+<h3>Electron in EM fields</h3>
+The process is same. Equations are,
+%[14].
+The second set of equations is,
+%[15].
+Then the coefficient matrix is same as eq.[7].,
+%[17].
+
+where, 
+%[16].
+
+
+
+<!--
+[17].:
+式(15)转换为"表达式"
+
+验证公式(M函数):...
+对比ODE(M函数):...
++[新建阅读窗口](,对比ODE)
+在选择区域中, 将'验证公式'的"Delta_t"替换为"h/2"
+
+Nini, 打开公式分析器(文件)
++[H函数](,隐式RK)
+-->
+## end
+#142, 94:
+https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods#Implicit_Runge%E2%80%93Kutta_methods
+## end
+#145, 35:
+k_{1}=f(t\ _{n}+h,y\ _{n}+h\ k_{1})
+## end
+#146, 24:
+k_1=f(t[n]+h,y[n]+h*k_1)
+## end
+#150, 26:
+y\ _{n+1}=y\ _{n}+h\ k_{1}
+## end
+#152, 240:
+\begin{cases}
+f_{1}(t,x,y,v_{x},v_{y})=v_{x}\\ f_{2}(t,x,y,v_{x},v_{y})=v_{y}\\ f_{3}(t,x,y,v_{x},v_{y})=\left(v_{y}\ B_{z}(x,y)+E_{x}(x,y)\right)\ q/m\\ f_{4}(t,x,y,v_{x},v_{y})=\left(-v_{x}\ B_{z}(x,y)+E_{y}(x,y)\right)\ q/m
+\end{cases}
+
+
+## end
+#154, 314:
+\begin{cases}
+k_{11}=v_{x}+h\ k_{13}\\ k_{12}=v_{y}+h\ k_{14}\\ k_{13}=\left(\left(v_{y}+h\ k_{14}\right)\ B_{z}(x+h\ k_{11},y+h\ k_{12})+E_{x}(x+h\ k_{11},y+h\ k_{12})\right)\ q/m\\ k_{14}=\left(-\left(v_{x}+h\ k_{13}\right)\ B_{z}(x+h\ k_{11},y+h\ k_{12})+E_{y}(x+h\ k_{11},y+h\ k_{12})\right)\ q/m
+\end{cases}
+
+
+## end
+#155, 17:
+y[n+1]=y[n]+h*k_1
+## end
+#159, 383:
+\begin{cases}
+k_{11}=v_{x}+h\ k_{13}\\ k_{12}=v_{y}+h\ k_{14}\\ k_{13}=f_{3}+\frac{\partial f_{3}}{\partial x}\ h\ k_{11}+\frac{\partial f_{3}}{\partial y}\ h\ k_{12}+\frac{\partial f_{3}}{\partial v_{y}}\ h\ k_{14}\\ k_{14}=f_{4}+\frac{\partial f_{4}}{\partial x}\ h\ k_{11}+\frac{\partial f_{4}}{\partial y}\ h\ k_{12}+\frac{\partial f_{3}}{\partial v_{x}}\ h\ k_{13}
+\end{cases}
+
+
+## end
+#161, 385:
+\begin{cases}
+k_{11}-h\ k_{13}=v_{x}\\ k_{12}-h\ k_{14}=v_{y}\\ -\frac{\partial f_{3}}{\partial x}\ h\ k_{11}-\frac{\partial f_{3}}{\partial y}\ h\ k_{12}+k_{13}-\frac{\partial f_{3}}{\partial v_{y}}\ h\ k_{14}=f_{3}\\ -\frac{\partial f_{4}}{\partial x}\ h\ k_{11}-\frac{\partial f_{4}}{\partial y}\ h\ k_{12}-\frac{\partial f_{3}}{\partial v_{x}}\ h\ k_{13}+k_{14}=f_{4}
+\end{cases}
+
+
+## end
+#162, 149:
+\eqs{f_1(t,x,y,v_x,v_y)=v_x;
+f_2(t,x,y,v_x,v_y)=v_y;
+f_3(t,x,y,v_x,v_y)=(v_y*B_z(x,y)+E_x(x,y))*q/m;
+f_4(t,x,y,v_x,v_y)=(-v_x*B_z(x,y)+E_y(x,y))*q/m}
+## end
+#165, 181:
+\eqs{k_11=v_x+h*k_13;
+k_12=v_y+h*k_14;
+k_13=((v_y+h*k_14)*B_z(x+h*k_11,y+h*k_12)+E_x(x+h*k_11,y+h*k_12))*q/m;
+k_14=(-(v_x+h*k_13)*B_z(x+h*k_11,y+h*k_12)+E_y(x+h*k_11,y+h*k_12))*q/m}
+## end
+#168, 170:
+\eqs{k_11=v_x+h*k_13;
+k_12=v_y+h*k_14;
+k_13=f_3+\p{x}{f_3}*h*k_11+\p{y}{f_3}*h*k_12+\p{v_y}{f_3}*h*k_14;
+k_14=f_4+\p{x}{f_4}*h*k_11+\p{y}{f_4}*h*k_12+\p{v_x}{f_3}*h*k_13}
+## end
+#171, 172:
+\eqs{k_11-h*k_13=v_x;
+k_12-h*k_14=v_y;
+-\p{x}{f_3}*h*k_11-\p{y}{f_3}*h*k_12+k_13-\p{v_y}{f_3}*h*k_14=f_3;
+-\p{x}{f_4}*h*k_11-\p{y}{f_4}*h*k_12-\p{v_x}{f_3}*h*k_13+k_14=f_4}
+## end
+#175, 306:
+\mathbf{A}=\begin{pmatrix}
+1&0&-h&0\\ 0&1&0&-h\\ -\frac{\partial f_{3}}{\partial x}\ h&-\frac{\partial f_{3}}{\partial y}\ h&1&-\frac{\partial f_{3}}{\partial v_{y}}\ h\\ -\frac{\partial f_{4}}{\partial x}\ h&-\frac{\partial f_{4}}{\partial y}\ h&-\frac{\partial f_{3}}{\partial v_{x}}\ h&1
+\end{pmatrix}
+
+
+## end
+#176, 126:
+\mat{A}=\mat{1,0,-h,0;
+0,1,0,-h;
+-\p{x}{f_3}*h,-\p{y}{f_3}*h,1,-\p{v_y}{f_3}*h;
+-\p{x}{f_4}*h,-\p{y}{f_4}*h,-\p{v_x}{f_3}*h,1}
+## end
+#180, 36:
+\vec{k_{1}}=\mathbf{A}^{-1}\ \vec{f}
+## end
+#181, 30:
+\vec{k_1}=\mat{A}^{-1}*\vec{f}
+## end
+#185, 235:
+\begin{cases}
+k_{13}=f_{3}+\frac{\partial f_{3}}{\partial x}\ h\ k_{13}+\frac{\partial f_{3}}{\partial y}\ h\ k_{14}\\ k_{14}=f_{4}+\frac{\partial f_{4}}{\partial x}\ h\ k_{13}+\frac{\partial f_{4}}{\partial y}\ h\ k_{14}
+\end{cases}
+
+
+## end
+#186, 96:
+\eqs{k_13=f_3+\p{x}{f_3}*h*k_13+\p{y}{f_3}*h*k_14;
+k_14=f_4+\p{x}{f_4}*h*k_13+\p{y}{f_4}*h*k_14}
+## end
+#190, 252:
+\begin{cases}
+\left(1-\frac{\partial f_{3}}{\partial x}\ h\right)\ k_{13}-\frac{\partial f_{3}}{\partial y}\ h\ k_{14}=f_{3}\\ -\frac{\partial f_{4}}{\partial x}\ h\ k_{13}+\left(1-\frac{\partial f_{4}}{\partial y}\ h\right)\ k_{14}=f_{4}
+\end{cases}
+
+
+## end
+#191, 95:
+\eqs{(1-\p{x}{f_3}*h)*k_13-\p{y}{f_3}*h*k_14=f_3;
+-\p{x}{f_4}*h*k_13+(1-\p{y}{f_4}*h)*k_14=f_4}
+## end
+#195, 24:
+k_{1}=f(t\ _{n},y\ _{n})
+## end
+#197, 48:
+k_{2}=f(t\ _{n}+h,y\ _{n}+h\ k_{1}/2+h\ k_{2}/2)
+## end
+#198, 16:
+k_1=f(t[n],y[n])
+## end
+#201, 34:
+k_2=f(t[n]+h,y[n]+h*k_1/2+h*k_2/2)
+## end
+#205, 39:
+y\ _{n+1}=y\ _{n}+h\ k_{1}/2+h\ k_{2}/2
+## end
+#206, 27:
+y[n+1]=y[n]+h*k_1/2+h*k_2/2
+## end
+#210, 85:
+\begin{cases}
+k_{11}=f_{1}\\ k_{12}=f_{2}\\ k_{13}=f_{3}\\ k_{14}=f_{4}
+\end{cases}
+
+
+## end
+#212, 482:
+\begin{cases}
+k_{21}=v_{x}+h\ k_{13}/2+h\ k_{23}/2\\ k_{22}=v_{y}+h\ k_{14}/2+h\ k_{24}/2\\ k_{23}=\left(\left(v_{y}+h\ k_{14}/2+h\ k_{24}/2\right)\ B_{z}(x+h\ k_{11}/2+h\ k_{21}/2,y+h\ k_{12}/2+h\ k_{22}/2)+E_{x}(x+h\ k_{11}/2+h\ k_{21}/2,y+h\ k_{12}/2+h\ k_{22}/2)\right)\ q/m\\ k_{24}=\left(-\left(v_{x}+h\ k_{13}/2+h\ k_{23}/2\right)\ B_{z}(x+h\ k_{11}/2+h\ k_{21}/2,y+h\ k_{12}/2+h\ k_{22}/2)+E_{y}(x+h\ k_{11}/2+h\ k_{21}/2,y+h\ k_{12}/2+h\ k_{22}/2)\right)\ q/m
+\end{cases}
+
+
+## end
+#214, 140:
+\frac{\partial f_{i}}{\partial x_{j}}=\frac{\partial f_{i}(v_{x}+h\ k_{11}/2,v_{y}+h\ k_{12}/2,x+h\ k_{13}/2,y+h\ k_{14}/2)}{\partial x_{j}}
+## end
+#215, 42:
+\eqs{k_11=f_1;k_12=f_2;
+k_13=f_3;k_14=f_4}
+## end
+#218, 313:
+\eqs{k_21=v_x+h*k_13/2+h*k_23/2;
+k_22=v_y+h*k_14/2+h*k_24/2;
+k_23=((v_y+h*k_14/2+h*k_24/2)*B_z(x+h*k_11/2+h*k_21/2,y+h*k_12/2+h*k_22/2)+E_x(x+h*k_11/2+h*k_21/2,y+h*k_12/2+h*k_22/2))*q/m;
+k_24=(-(v_x+h*k_13/2+h*k_23/2)*B_z(x+h*k_11/2+h*k_21/2,y+h*k_12/2+h*k_22/2)+E_y(x+h*k_11/2+h*k_21/2,y+h*k_12/2+h*k_22/2))*q/m}
+## end
+#221, 74:
+\p{x_j}{f_i}=\p{x_j}{f_i(v_x+h*k_11/2,v_y+h*k_12/2,x+h*k_13/2,y+h*k_14/2)}
+## end
+#225, 322:
+\mathbf{A}=\begin{pmatrix}
+1&0&-h/2&0\\ 0&1&0&-h/2\\ -\frac{\partial f_{3}}{\partial x}\ h/2&-\frac{\partial f_{3}}{\partial y}\ h/2&1&-\frac{\partial f_{3}}{\partial v_{y}}\ h/2\\ -\frac{\partial f_{4}}{\partial x}\ h/2&-\frac{\partial f_{4}}{\partial y}\ h/2&-\frac{\partial f_{3}}{\partial v_{x}}\ h/2&1
+\end{pmatrix}
+
+
+## end
+#226, 139:
+\mat{A}=\mat{1,0,-h/2,0;0,1,0,-h/2;-\p{x}{f_3}*h/2,-\p{y}{f_3}*h/2,1,-\p{v_y}{f_3}*h/2;-\p{x}{f_4}*h/2,-\p{y}{f_4}*h/2,-\p{v_x}{f_3}*h/2,1}
+## end
+#230, 1581:
+%{
++[M函数](,验证公式)
+
+测试BEM:...
+测试CM:...
+
+EM_motion_BEM(M函数):...
+EM_motion_CM(M函数):...
++[新建阅读窗口](,EM_motion_BEM)
+
+保存:...
+%}
+
+
+physics_constant;
+q=-1;
+m=1;
+Delta_t=0.1;
+x=0;
+y=0;
+v_x=1;
+v_y=0;
+N=1000;
+t=0;
+
+B_z=@(x,y)1;
+E_x=@(x,y)0;
+E_y=@(x,y)0;
+
+f_1=@(t,x,y,v_x,v_y)v_x;
+f_2=@(t,x,y,v_x,v_y)v_y;
+f_3=@(t,x,y,v_x,v_y)(v_y.*B_z(x,y)+E_x(x,y)).*q./m;
+f_4=@(t,x,y,v_x,v_y)(-v_x.*B_z(x,y)+E_y(x,y)).*q./m;
+
+xs=zeros(1,N);
+ys=zeros(1,N);
+vxs=zeros(1,N);
+vys=zeros(1,N);
+
+h=Delta_t;
+F=zeros(4,1);
+
+for i=1:N
+k_11=f_1(t,x,y,v_x,v_y);
+k_12=f_2(t,x,y,v_x,v_y);
+k_13=f_3(t,x,y,v_x,v_y);
+k_14=f_4(t,x,y,v_x,v_y);
+
+x1=x+k_11*h/2;
+y1=y+k_12*h/2;
+v_x1=v_x+k_13*h/2;
+v_y1=v_y+k_14*h/2;
+
+
+F(1)=f_1(t,x1,y1,v_x1,v_y1);
+F(2)=f_2(t,x1,y1,v_x1,v_y1);
+F(3)=f_3(t,x1,y1,v_x1,v_y1);
+F(4)=f_4(t,x1,y1,v_x1,v_y1);
+
+df_3_dx=(f_3(t,x1+h*1e-5/2,y1,v_x1,v_y1)-f_3(t,x1-h*1e-5/2,y1,v_x1,v_y1))/h/1e-5;
+df_3_dy=(f_3(t,x1,y1+h*1e-5/2,v_x1,v_y1)-f_3(t,x1,y1-h*1e-5/2,v_x1,v_y1))/h/1e-5;
+df_3_dv_y=(f_3(t,x1,y1,v_x1,v_y1+h*1e-5/2)-f_3(t,x1,y1,v_x1,v_y1-h*1e-5/2))/h/1e-5;
+
+df_4_dx=(f_4(t,x1+h*1e-5/2,y1,v_x1,v_y1)-f_4(t,x1-h*1e-5/2,y1,v_x1,v_y1))/h/1e-5;
+df_4_dy=(f_4(t,x1,y1+h*1e-5/2,v_x1,v_y1)-f_4(t,x1,y1-h*1e-5/2,v_x1,v_y1))/h/1e-5;
+df_4_dv_x=(f_4(t,x1,y1,v_x1+h*1e-5/2,v_y1)-f_4(t,x1,y1,v_x1-h*1e-5/2,v_y1))/h/1e-5;
+
+
+A=[1,0,-h/2,0;
+0,1,0,-h/2;
+-df_3_dx.*h/2,-df_3_dy.*h/2,1,-df_3_dv_y.*h/2;
+-df_4_dx.*h/2,-df_4_dy.*h/2,-df_4_dv_x.*h/2,1];
+
+K=A\F;
+
+x=x1+h/2*K(1);
+y=y1+h/2*K(2);
+v_x=v_x1+h/2*K(3);
+v_y=v_y1+h/2*K(4);
+
+xs(i)=x;
+ys(i)=y;
+vxs(i)=v_x;
+vys(i)=v_y;
+end
+
+clf
+plot(xs,ys)
+% axis equal
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#233, 1253:
+%{
++[M函数](,验证公式)
+
+测试BEM:...
+%}
+
+
+physics_constant;
+q=-1;
+m=1;
+Delta_t=0.01;
+x=0;
+y=0;
+v_x=1;
+v_y=0;
+N=10000;
+t=0;
+
+B_z=@(x,y)1;
+E_x=@(x,y)0;
+E_y=@(x,y)0;
+
+f_1=@(t,x,y,v_x,v_y)v_x;
+f_2=@(t,x,y,v_x,v_y)v_y;
+f_3=@(t,x,y,v_x,v_y)(v_y.*B_z(x,y)+E_x(x,y)).*q./m;
+f_4=@(t,x,y,v_x,v_y)(-v_x.*B_z(x,y)+E_y(x,y)).*q./m;
+
+xs=zeros(1,N);
+ys=zeros(1,N);
+vxs=zeros(1,N);
+vys=zeros(1,N);
+
+h=Delta_t;
+F=zeros(4,1);
+
+for i=1:N
+F(1)=f_1(t,x,y,v_x,v_y);
+F(2)=f_2(t,x,y,v_x,v_y);
+F(3)=f_3(t,x,y,v_x,v_y);
+F(4)=f_4(t,x,y,v_x,v_y);
+
+df_3_dx=(f_3(t,x+h*1e-5/2,y,v_x,v_y)-f_3(t,x-h*1e-5/2,y,v_x,v_y))/h/1e-5;
+df_3_dy=(f_3(t,x,y+h*1e-5/2,v_x,v_y)-f_3(t,x,y-h*1e-5/2,v_x,v_y))/h/1e-5;
+df_3_dv_y=(f_3(t,x,y,v_x,v_y+h*1e-5/2)-f_3(t,x,y,v_x,v_y-h*1e-5/2))/h/1e-5;
+
+df_4_dx=(f_4(t,x+h*1e-5/2,y,v_x,v_y)-f_4(t,x-h*1e-5/2,y,v_x,v_y))/h/1e-5;
+df_4_dy=(f_4(t,x,y+h*1e-5/2,v_x,v_y)-f_4(t,x,y-h*1e-5/2,v_x,v_y))/h/1e-5;
+df_4_dv_x=(f_4(t,x,y,v_x+h*1e-5/2,v_y)-f_4(t,x,y,v_x-h*1e-5/2,v_y))/h/1e-5;
+
+A=[1,0,-h,0;
+0,1,0,-h;
+-df_3_dx.*h,-df_3_dy.*h,1,-df_3_dv_y.*h;
+-df_4_dx.*h,-df_4_dy.*h,-df_4_dv_x.*h,1];
+K=A\F;
+
+x=x+Delta_t*K(1);
+y=y+Delta_t*K(2);
+v_x=v_x+Delta_t*K(3);
+v_y=v_y+Delta_t*K(4);
+
+xs(i)=x;
+ys(i)=y;
+vxs(i)=v_x;
+vys(i)=v_y;
+end
+
+clf
+plot(xs,ys)
+% axis equal
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#239, 1426:
+%{
++[M函数](,验证公式)
+
+测试BEM:...
+%}
+
+
+physics_constant;
+q=-1;
+m=1;
+Delta_t=0.01;
+x=0;
+y=0;
+v_x=1;
+v_y=0;
+N=10000;
+t=0;
+
+B_z=@(x,y)1;
+E_x=@(x,y)0;
+E_y=@(x,y)0;
+
+f_1=@(t,x,y,v_x,v_y)v_x;
+f_2=@(t,x,y,v_x,v_y)v_y;
+f_3=@(t,x,y,v_x,v_y)(v_y.*B_z(x,y)+E_x(x,y)).*q./m;
+f_4=@(t,x,y,v_x,v_y)(-v_x.*B_z(x,y)+E_y(x,y)).*q./m;
+
+xs=zeros(1,N);
+ys=zeros(1,N);
+vxs=zeros(1,N);
+vys=zeros(1,N);
+
+h=Delta_t;
+F=zeros(4,1);
+
+for i=1:N
+k_11=f_1(t,x,y,v_x,v_y);
+k_12=f_2(t,x,y,v_x,v_y);
+k_13=f_3(t,x,y,v_x,v_y);
+k_14=f_4(t,x,y,v_x,v_y);
+
+x1=x+k_11*h/2;
+y1=y+k_12*h/2;
+v_x1=v_x+k_13*h/2;
+v_y1=v_y+k_14*h/2;
+
+
+F(1)=f_1(t,x,y,v_x,v_y);
+F(2)=f_2(t,x,y,v_x,v_y);
+F(3)=f_3(t,x,y,v_x,v_y);
+F(4)=f_4(t,x,y,v_x,v_y);
+
+df_3_dx=(f_3(t,x+h*1e-5/2,y,v_x,v_y)-f_3(t,x-h*1e-5/2,y,v_x,v_y))/h/1e-5;
+df_3_dy=(f_3(t,x,y+h*1e-5/2,v_x,v_y)-f_3(t,x,y-h*1e-5/2,v_x,v_y))/h/1e-5;
+df_3_dv_y=(f_3(t,x,y,v_x,v_y+h*1e-5/2)-f_3(t,x,y,v_x,v_y-h*1e-5/2))/h/1e-5;
+
+df_4_dx=(f_4(t,x+h*1e-5/2,y,v_x,v_y)-f_4(t,x-h*1e-5/2,y,v_x,v_y))/h/1e-5;
+df_4_dy=(f_4(t,x,y+h*1e-5/2,v_x,v_y)-f_4(t,x,y-h*1e-5/2,v_x,v_y))/h/1e-5;
+df_4_dv_x=(f_4(t,x,y,v_x+h*1e-5/2,v_y)-f_4(t,x,y,v_x-h*1e-5/2,v_y))/h/1e-5;
+
+
+A=[1,0,-h,0;
+0,1,0,-h;
+-df_3_dx.*h,-df_3_dy.*h,1,-df_3_dv_y.*h;
+-df_4_dx.*h,-df_4_dy.*h,-df_4_dv_x.*h,1];
+
+K=A\F;
+
+x=x+Delta_t*K(1);
+y=y+Delta_t*K(2);
+v_x=v_x+Delta_t*K(3);
+v_y=v_y+Delta_t*K(4);
+
+xs(i)=x;
+ys(i)=y;
+vxs(i)=v_x;
+vys(i)=v_y;
+end
+
+clf
+plot(xs,ys)
+% axis equal
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#250, 1509:
+%{
++[M函数](,验证公式)
+
+测试BEM:...
+测试CM:...
+
+保存:...
+%}
+
+
+physics_constant;
+q=-1;
+m=1;
+Delta_t=0.1;
+x=0;
+y=0;
+v_x=1;
+v_y=0;
+N=1000;
+t=0;
+
+B_z=@(x,y)1;
+E_x=@(x,y)0;
+E_y=@(x,y)0;
+
+f_1=@(t,x,y,v_x,v_y)v_x;
+f_2=@(t,x,y,v_x,v_y)v_y;
+f_3=@(t,x,y,v_x,v_y)(v_y.*B_z(x,y)+E_x(x,y)).*q./m;
+f_4=@(t,x,y,v_x,v_y)(-v_x.*B_z(x,y)+E_y(x,y)).*q./m;
+
+xs=zeros(1,N);
+ys=zeros(1,N);
+vxs=zeros(1,N);
+vys=zeros(1,N);
+
+h=Delta_t;
+F=zeros(4,1);
+
+for i=1:N
+k_11=f_1(t,x,y,v_x,v_y);
+k_12=f_2(t,x,y,v_x,v_y);
+k_13=f_3(t,x,y,v_x,v_y);
+k_14=f_4(t,x,y,v_x,v_y);
+
+x1=x+k_11*h/2;
+y1=y+k_12*h/2;
+v_x1=v_x+k_13*h/2;
+v_y1=v_y+k_14*h/2;
+
+
+F(1)=f_1(t,x1,y1,v_x1,v_y1);
+F(2)=f_2(t,x1,y1,v_x1,v_y1);
+F(3)=f_3(t,x1,y1,v_x1,v_y1);
+F(4)=f_4(t,x1,y1,v_x1,v_y1);
+
+df_3_dx=(f_3(t,x1+h*1e-5/2,y1,v_x1,v_y1)-f_3(t,x1-h*1e-5/2,y1,v_x1,v_y1))/h/1e-5;
+df_3_dy=(f_3(t,x1,y1+h*1e-5/2,v_x1,v_y1)-f_3(t,x1,y1-h*1e-5/2,v_x1,v_y1))/h/1e-5;
+df_3_dv_y=(f_3(t,x1,y1,v_x1,v_y1+h*1e-5/2)-f_3(t,x1,y1,v_x1,v_y1-h*1e-5/2))/h/1e-5;
+
+df_4_dx=(f_4(t,x1+h*1e-5/2,y1,v_x1,v_y1)-f_4(t,x1-h*1e-5/2,y1,v_x1,v_y1))/h/1e-5;
+df_4_dy=(f_4(t,x1,y1+h*1e-5/2,v_x1,v_y1)-f_4(t,x1,y1-h*1e-5/2,v_x1,v_y1))/h/1e-5;
+df_4_dv_x=(f_4(t,x1,y1,v_x1+h*1e-5/2,v_y1)-f_4(t,x1,y1,v_x1-h*1e-5/2,v_y1))/h/1e-5;
+
+
+A=[1,0,-h/2,0;
+0,1,0,-h/2;
+-df_3_dx.*h/2,-df_3_dy.*h/2,1,-df_3_dv_y.*h/2;
+-df_4_dx.*h/2,-df_4_dy.*h/2,-df_4_dv_x.*h/2,1];
+
+K=A\F;
+
+x=x1+h/2*K(1);
+y=y1+h/2*K(2);
+v_x=v_x1+h/2*K(3);
+v_y=v_y1+h/2*K(4);
+
+xs(i)=x;
+ys(i)=y;
+vxs(i)=v_x;
+vys(i)=v_y;
+end
+
+clf
+plot(xs,ys)
+% axis equal
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#252, 1116:
+%{
+地址::Matlab/Physics/EM_motion_BEM.m
++[保存M函数](,EM_motion_BEM)
+%}
+
+function [x,y,v_x,v_y]=EM_motion_BEM(x,y,v_x,v_y,Delta_t,t,q,m,B_z,E_x,E_y)
+%physics_constant;
+
+f_1=@(t,x,y,v_x,v_y)v_x;
+f_2=@(t,x,y,v_x,v_y)v_y;
+f_3=@(t,x,y,v_x,v_y)(v_y.*B_z(x,y)+E_x(x,y)).*q./m;
+f_4=@(t,x,y,v_x,v_y)(-v_x.*B_z(x,y)+E_y(x,y)).*q./m;
+
+h=Delta_t;
+F=zeros(4,1);
+
+F(1)=f_1(t,x,y,v_x,v_y);
+F(2)=f_2(t,x,y,v_x,v_y);
+F(3)=f_3(t,x,y,v_x,v_y);
+F(4)=f_4(t,x,y,v_x,v_y);
+
+df_3_dx=(f_3(t,x+h*1e-5/2,y,v_x,v_y)-f_3(t,x-h*1e-5/2,y,v_x,v_y))/h/1e-5;
+df_3_dy=(f_3(t,x,y+h*1e-5/2,v_x,v_y)-f_3(t,x,y-h*1e-5/2,v_x,v_y))/h/1e-5;
+df_3_dv_y=(f_3(t,x,y,v_x,v_y+h*1e-5/2)-f_3(t,x,y,v_x,v_y-h*1e-5/2))/h/1e-5;
+
+df_4_dx=(f_4(t,x+h*1e-5/2,y,v_x,v_y)-f_4(t,x-h*1e-5/2,y,v_x,v_y))/h/1e-5;
+df_4_dy=(f_4(t,x,y+h*1e-5/2,v_x,v_y)-f_4(t,x,y-h*1e-5/2,v_x,v_y))/h/1e-5;
+df_4_dv_x=(f_4(t,x,y,v_x+h*1e-5/2,v_y)-f_4(t,x,y,v_x-h*1e-5/2,v_y))/h/1e-5;
+
+A=[1,0,-h,0;
+0,1,0,-h;
+-df_3_dx.*h,-df_3_dy.*h,1,-df_3_dv_y.*h;
+-df_4_dx.*h,-df_4_dy.*h,-df_4_dv_x.*h,1];
+K=A\F;
+
+x=x+Delta_t*K(1);
+y=y+Delta_t*K(2);
+v_x=v_x+Delta_t*K(3);
+v_y=v_y+Delta_t*K(4);
+
+end
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#255, 30:
+Matlab/Physics/EM_motion_BEM.m
+## end
+#260, 1335:
+%{
+地址::Matlab/Physics/EM_motion_CM.m
++[保存M函数](,EM_motion_CM)
+%}
+
+function [x,y,v_x,v_y]=EM_motion_CM(x,y,v_x,v_y,Delta_t,t,q,m,B_z,E_x,E_y)
+
+f_1=@(t,x,y,v_x,v_y)v_x;
+f_2=@(t,x,y,v_x,v_y)v_y;
+f_3=@(t,x,y,v_x,v_y)(v_y.*B_z(x,y)+E_x(x,y)).*q./m;
+f_4=@(t,x,y,v_x,v_y)(-v_x.*B_z(x,y)+E_y(x,y)).*q./m;
+
+h=Delta_t;
+F=zeros(4,1);
+
+k_11=f_1(t,x,y,v_x,v_y);
+k_12=f_2(t,x,y,v_x,v_y);
+k_13=f_3(t,x,y,v_x,v_y);
+k_14=f_4(t,x,y,v_x,v_y);
+
+x1=x+k_11*h/2;
+y1=y+k_12*h/2;
+v_x1=v_x+k_13*h/2;
+v_y1=v_y+k_14*h/2;
+
+
+F(1)=f_1(t,x1,y1,v_x1,v_y1);
+F(2)=f_2(t,x1,y1,v_x1,v_y1);
+F(3)=f_3(t,x1,y1,v_x1,v_y1);
+F(4)=f_4(t,x1,y1,v_x1,v_y1);
+
+df_3_dx=(f_3(t,x1+h*1e-5/2,y1,v_x1,v_y1)-f_3(t,x1-h*1e-5/2,y1,v_x1,v_y1))/h/1e-5;
+df_3_dy=(f_3(t,x1,y1+h*1e-5/2,v_x1,v_y1)-f_3(t,x1,y1-h*1e-5/2,v_x1,v_y1))/h/1e-5;
+df_3_dv_y=(f_3(t,x1,y1,v_x1,v_y1+h*1e-5/2)-f_3(t,x1,y1,v_x1,v_y1-h*1e-5/2))/h/1e-5;
+
+df_4_dx=(f_4(t,x1+h*1e-5/2,y1,v_x1,v_y1)-f_4(t,x1-h*1e-5/2,y1,v_x1,v_y1))/h/1e-5;
+df_4_dy=(f_4(t,x1,y1+h*1e-5/2,v_x1,v_y1)-f_4(t,x1,y1-h*1e-5/2,v_x1,v_y1))/h/1e-5;
+df_4_dv_x=(f_4(t,x1,y1,v_x1+h*1e-5/2,v_y1)-f_4(t,x1,y1,v_x1-h*1e-5/2,v_y1))/h/1e-5;
+
+
+A=[1,0,-h/2,0;
+0,1,0,-h/2;
+-df_3_dx.*h/2,-df_3_dy.*h/2,1,-df_3_dv_y.*h/2;
+-df_4_dx.*h/2,-df_4_dy.*h/2,-df_4_dv_x.*h/2,1];
+
+K=A\F;
+
+x=x1+h/2*K(1);
+y=y1+h/2*K(2);
+v_x=v_x1+h/2*K(3);
+v_y=v_y1+h/2*K(4);
+
+end
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#263, 29:
+Matlab/Physics/EM_motion_CM.m
+## end
+#268, 614:
+%{
++[M函数](,对比ODE)
+参考::https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html
++[打开网页](,参考)
+
+EM_motion_eqns(M函数):...
+EM_motion_ODEs(M函数):...
++[新建阅读窗口](,EM_motion_eqns)
+
+对比测试:...
+多行测试:...
+%}
+
+
+physics_constant;
+addpath('Matlab/Physics');
+
+q=-1;
+m=1;
+
+N=1000;
+Ne=10;
+
+x=zeros(1,Ne);
+y=zeros(1,Ne);
+v_x=ones(1,Ne);
+v_y=linspace(-1,1,Ne);
+t=linspace(0,100,N);
+
+B_z=@(x,y)1;
+E_x=@(x,y)0.1;
+E_y=@(x,y)0;
+
+[x1,y1,v_x1,v_y1]=EM_motion_ODEs(x,y,v_x,v_y,t,q,m,B_z,E_x,E_y,'ode45');
+[x2,y2,v_x2,v_y2]=EM_motion_ODEs(x,y,v_x,v_y,t,q,m,B_z,E_x,E_y,'ode15s');
+
+plot(x1,y1,x2,y2,'--')
+axis equal
+
+%{
++[M函数](,对比ODE)
+%}
+## end
+#271, 296:
+%{
+地址::Matlab/Physics/EM_motion_eqns.m
++[保存M函数](,EM_motion_eqns)
+%}
+
+function y=EM_motion_eqns(t,x,q,m,B_z,E_x,E_y)
+
+y=zeros(size(x));
+y(1,:)=x(3,:);
+y(2,:)=x(4,:);
+y(3,:)=(x(4,:).*B_z(x(1,:),x(2,:))+E_x(x(1,:),x(2,:))).*q./m;
+y(4,:)=(-x(3,:).*B_z(x(1,:),x(2,:))+E_y(x(1,:),x(2,:))).*q./m;
+
+end
+
+
+## end
+#274, 31:
+Matlab/Physics/EM_motion_eqns.m
+## end
+#279, 68:
+https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html
+## end
+#282, 647:
+%{
+地址::Matlab/Physics/EM_motion_ODEs.m
++[保存M函数](,EM_motion_ODEs)
+
+测试:...
+%}
+
+function [x,y,v_x,v_y]=EM_motion_ODEs(x0,y0,v_x0,v_y0,t,q,m,B_z,E_x,E_y,ode_type)
+
+tspan=[min(t),max(t)];
+f=@(t,x)EM_motion_eqns(t,x,q,m,B_z,E_x,E_y);
+
+for i=1:length(x0)
+fy0=[x0(i),y0(i),v_x0(i),v_y0(i)]';
+% fy0=[x0,y0,v_x0,v_y0]'
+
+if strcmp(ode_type,'ode45')
+    [t_ode,fy_t]=ode45(f,tspan,fy0);
+elseif strcmp(ode_type,'ode15s')
+    [t_ode,fy_t]=ode45(f,tspan,fy0);
+else
+    [t_ode,fy_t]=ode45(f,tspan,fy0);
+end
+
+x(:,i)=interp1(t_ode,fy_t(:,1),t);
+y(:,i)=interp1(t_ode,fy_t(:,2),t);
+v_x(:,i)=interp1(t_ode,fy_t(:,3),t);
+v_y(:,i)=interp1(t_ode,fy_t(:,4),t);
+
+end
+
+end
+
+
+## end
+#285, 31:
+Matlab/Physics/EM_motion_ODEs.m
+## end
+#290, 680:
+%{
++[M函数](,测试)
+
+多行测试:...
+%}
+
+physics_constant;
+addpath('Matlab/Physics');
+
+Ne=8;
+q=-1;
+m=1;
+x0=zeros(1,Ne);
+y0=zeros(1,Ne);
+v_x0=linspace(-1,1,Ne);
+v_y0=zeros(1,Ne);
+t=linspace(0,10,100)
+tspan=[min(t),max(t)];
+
+B_z=@(x,y)1;
+E_x=@(x,y)0.1;
+E_y=@(x,y)0;
+
+f=@(t,x)EM_motion_eqns(t,x,q,m,B_z,E_x,E_y);
+
+x=zeros(length(t),length(x0));
+y=zeros(size(x));
+v_x=zeros(size(x));
+v_y=zeros(size(x));
+
+for i=1:length(x0)
+fy0=[x0(i);y0(i);v_x0(i);v_y0(i)];
+[t_ode,fy_t]=ode45(f,tspan,fy0);
+
+x(:,i)=interp1(t_ode,fy_t(:,1),t);
+y(:,i)=interp1(t_ode,fy_t(:,2),t);
+v_x(:,i)=interp1(t_ode,fy_t(:,3),t);
+v_y(:,i)=interp1(t_ode,fy_t(:,4),t);
+end
+
+plot(x,y)
+
+
+%{
+plot(y)
+size(x)
+size(x0)
++[M函数](,测试)
+%}
+## end
+#292, 456:
+%{
++[M函数](,测试)
+
+多行测试:...
+%}
+
+physics_constant;
+addpath('Matlab/Physics');
+
+Ne=2;
+q=-1;
+m=1;
+x0=zeros(1,Ne);
+y0=zeros(1,Ne);
+v_x0=linspace(-1,1,Ne);
+v_y0=zeros(1,Ne);
+tspan=[0,100];
+
+B_z=@(x,y)1;
+E_x=@(x,y)0.1;
+E_y=@(x,y)0;
+
+f=@(t,x)EM_motion_eqns(t,x,q,m,B_z,E_x,E_y);
+fy0=[x0;y0;v_x0;v_y0];
+f(0,fy0)
+[t,fy_t]=ode45(f,tspan,fy0);
+
+x=fy_t(:,[1,5]);
+y=fy_t(:,[0,4]+2);
+% v_x=fy_t(:,3);
+% v_y=fy_t(:,4);
+
+plot(fy_t)
+
+%{
+plot(y)
+size(x)
+size(x0)
++[M函数](,测试)
+%}
+## end
+#294, 546:
+%{
++[M函数](,对比ODE)
+参考::https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html
++[打开网页](,参考)
+
+EM_motion_eqns(M函数):...
+EM_motion_ODEs(M函数):...
++[新建阅读窗口](,EM_motion_eqns)
+
+
+%}
+
+
+physics_constant;
+addpath('Matlab/Physics');
+
+q=-1;
+m=1;
+x=0;
+y=0;
+v_x=1;
+v_y=0;
+N=1000;
+t=linspace(0,100,1000);
+
+B_z=@(x,y)1;
+E_x=@(x,y)0.1;
+E_y=@(x,y)0;
+
+[x1,y1,v_x1,v_y1]=EM_motion_ODEs(x,y,v_x,v_y,t,q,m,B_z,E_x,E_y,'ode45');
+[x2,y2,v_x2,v_y2]=EM_motion_ODEs(x,y,v_x,v_y,t,q,m,B_z,E_x,E_y,'ode15s');
+
+plot(x1,y1,x2,y2,'--')
+axis equal
+
+%{
++[M函数](,对比ODE)
+%}
+## end
+#296, 605:
+%{
++[M函数](,对比ODE)
+参考::https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html
++[打开网页](,参考)
+
+EM_motion_eqns(M函数):...
+EM_motion_ODEs(M函数):...
++[新建阅读窗口](,EM_motion_eqns)
+
+对比测试:...
+%}
+
+
+physics_constant;
+addpath('Matlab/Physics');
+
+q=-1;
+m=1;
+
+N=1000;
+Ne=10;
+
+x=zeros(1,Ne);
+y=zeros(1,Ne);
+v_x=ones(1,Ne);
+v_y=linspace(-1,1,Ne);
+t=linspace(0,100,N);
+
+B_z=@(x,y)1;
+E_x=@(x,y)0.1;
+E_y=@(x,y)0;
+
+[x1,y1,v_x1,v_y1]=EM_motion_ODEs(x,y,v_x,v_y,t,q,m,B_z,E_x,E_y,'ode45');
+[x2,y2,v_x2,v_y2]=EM_motion_ODEs(x,y,v_x,v_y,t,q,m,B_z,E_x,E_y,'ode15s');
+
+plot(x1,y1,x2,y2,'--')
+axis equal
+
+%{
++[M函数](,对比ODE)
+%}
+## end
+#298, 130:
+简单记一下. stiff问题是解趋向稳定的时候数值解会发生振荡的现象. 显式的方法都有这个问题, 而隐式会好得多. AM是隐式的多步方法. 也需要解方程. 多步方法和RK不同的在于, RK是把一步分成了很多步, 输入始终是上一步. 多步方法是把之前几步作为输入
+## end
+#300, 83:
+https://web.mit.edu/10.001/Web/Course_Notes/Differential_Equations_Notes/node7.html
+## end
+#303, 273:
+<1--
+参考1::file:///media/xiantao/Elements/paper/SEM/GlobalErrorODE.pdf
+参考2::https://math.stackexchange.com/questions/2176843/how-to-obtain-error-bound-on-runge-kutta-4th-order-method
+(公式)
+参考3::https://onlinehw.math.ksu.edu/math340book/chap1/xc1.php
+(RKF45)
++[打开网页](,参考3)
+-->
+## end
+#306, 59:
+file:///media/xiantao/Elements/paper/SEM/GlobalErrorODE.pdf
+## end
+#308, 106:
+https://math.stackexchange.com/questions/2176843/how-to-obtain-error-bound-on-runge-kutta-4th-order-method
+## end
+#310, 55:
+https://onlinehw.math.ksu.edu/math340book/chap1/xc1.php
+## end
+#318, 59:
+m_{e} \frac{d\vec{v}}{dt}=q \vec{v}\times \vec{B}+q \vec{E}
+## end
+#320, 211:
+\begin{cases}
+m_{e} \frac{dv_{x}}{dt}=q v_{y} B_{z}-q v_{z} B_{y}+q E_{x}\\ m_{e} \frac{dv_{y}}{dt}=q v_{z} B_{x}-q v_{x} B_{z}+q E_{y}\\ m_{e} \frac{dv_{z}}{dt}=q v_{x} B_{y}-q v_{y} B_{x}+q E_{z}
+\end{cases}
+
+
+## end
+#322, 667:
+\begin{cases}
+f_{1} \left( t,x,y,z,v_{x},v_{y},v_{z} \right)=v_{x}\\ f_{2} \left( t,x,y,z,v_{x},v_{y},v_{z} \right)=v_{y}\\ f_{3} \left( t,x,y,z,v_{x},v_{y},v_{z} \right)=v_{z}\\ f_{4} \left( t,x,y,z,v_{x},v_{y},v_{z} \right)=\left(v_{y} B_{z} \left( x,y,z \right)-v_{z} B_{y} \left( x,y,z \right)+E_{x} \left( x,y,z \right)\right) q/m\\ f_{5} \left( t,x,y,z,v_{x},v_{y},v_{z} \right)=\left(v_{z} B_{x} \left( x,y,z \right)-v_{x} B_{z} \left( x,y,z \right)+E_{y} \left( x,y,z \right)\right) q/m\\ f_{6} \left( t,x,y,z,v_{x},v_{y},v_{z} \right)=\left(v_{x} B_{y} \left( x,y,z \right)-v_{y} B_{x} \left( x,y,z \right)+E_{z} \left( x,y,z \right)\right) q/m
+\end{cases}
+
+
+## end
+#323, 53:
+m_e*\d{\vec{v}}_{t}=q*\vec{v}\times \vec{B}+q*\vec{E}
+## end
+#330, 366:
+f_1=lambda:t,x,y,z,v_x,v_y,v_z v_x
+f_2=lambda:t,x,y,z,v_x,v_y,v_z v_y
+f_3=lambda:t,x,y,z,v_x,v_y,v_z v_z
+f_4=lambda:t,x,y,z,v_x,v_y,v_z (v_y*np.B_z(x,y,z)-v_z*np.B_y(x,y,z)+np.E_x(x,y,z))*q/m
+f_5=lambda:t,x,y,z,v_x,v_y,v_z (v_z*np.B_x(x,y,z)-v_x*np.B_z(x,y,z)+np.E_y(x,y,z))*q/m
+f_6=lambda:t,x,y,z,v_x,v_y,v_z (v_x*np.B_y(x,y,z)-v_y*np.B_x(x,y,z)+np.E_z(x,y,z))*q/m
+
+## end
+#331, 133:
+\eqs{m_e*\d{v_x}_{t}=q*v_y*B_z-q*v_z*B_y+q*E_x;
+m_e*\d{v_y}_{t}=q*v_z*B_x-q*v_x*B_z+q*E_y;
+m_e*\d{v_z}_{t}=q*v_x*B_y-q*v_y*B_x+q*E_z}
+## end
+#338, 313:
+\eqs{f_1(t,x,y,z,v_x,v_y,v_z)=v_x;
+f_2(t,x,y,z,v_x,v_y,v_z)=v_y;
+f_3(t,x,y,z,v_x,v_y,v_z)=v_z;
+f_4(t,x,y,z,v_x,v_y,v_z)=(v_y*B_z(x,y,z)-v_z*B_y(x,y,z)+E_x(x,y,z))*q/m;
+f_5(t,x,y,z,v_x,v_y,v_z)=(v_z*B_x(x,y,z)-v_x*B_z(x,y,z)+E_y(x,y,z))*q/m;
+f_6(t,x,y,z,v_x,v_y,v_z)=(v_x*B_y(x,y,z)-v_y*B_x(x,y,z)+E_z(x,y,z))*q/m}
+## end
+### 结束

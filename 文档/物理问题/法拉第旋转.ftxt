@@ -1,0 +1,372 @@
+### 节点
+地址, LaTeX数学记号, 依据公式, 的, 理论, 地址, trapezoidal, 的, Smilei内置函数, Smilei单位, 经过材料, 的, 的, 的, 法拉第旋转部分, [标题], 的, 的, 的, 的, 文本, 的, 的, 备份, 的, 地址, 的, 测试, 的, 模式分解, 的, 显示偏振态, 的, 地址, 的, 地址, 的, 测试输出模式, 节点数目统计, 的, FR实验, 的, 论文, 打开网页, 打开网页, 
+### 关联
+#, #, #, 2#1, #, #, #, 6#5, #, #, #, 10#6, 10#8, 10#9, #, #, 14#0, 14#2, 14#4, 14#10, #, 20#14, 10#23, #, 10#25, #, 10#27, #, 14#29, #, 29#31, #, 31#33, #, 29#35, #, 10#37, #, #, 14#40, #, 40#42, #, #42, #42, 
+### 内容
+#0, 18:
+文档\物理问题\法拉第旋转.ftxt
+## end
+#1, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#2, 706:
+<!--
++[返回目录](,依据公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+
++[网页](web,依据公式)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+$$
+\Omega=\frac{eB_0}{m_e}
+$$$$
+\omega_p=\sqrt{\frac{e^2n_e}{\epsilon_0m_e}}
+$$$$
+k_{\pm}c=\omega\sqrt{\left[1-\frac{\omega_p^2}{\omega(\omega\pm \Omega)}\right]}
+$$
+As a result, we will have,
+$$
+\varphi_{\pm}(x,t)=\varphi(0,t)+\int^x_0{\frac{\omega}{c}\sqrt{\left[1-\frac{\omega_p^2}{\omega(\omega\pm \Omega)}\right]}dx}
+$$
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#4, 62:
+http://farside.ph.utexas.edu/teaching/em/lectures/node101.html
+## end
+#5, 27:
+Matlab\Smilei\trapezoidal.m
+## end
+#6, 480:
+%{
++[返回目录](,trapezoidal)
+
+地址::Matlab\Smilei\trapezoidal.m
++[保存文本](,trapezoidal)
+
++[M函数](,trapezoidal)
+%}
+
+function y=trapezoidal(x,xvacuum,xslope1,xplateau,xslope2,max)
+
+%x=ones(10,1)*linspace(0,100,1000);
+%xvacuum=10;
+%xslope1=20;
+%xplateau=20;
+%xslope2=20;
+%max=20;
+
+y=zeros(size(x));
+x1=xvacuum;
+x2=x1+xslope1;
+x3=x2+xplateau;
+x4=x3+xslope2;
+
+y(x>x1 & x<=x2)=(x(x>x1 & x<=x2)-x1)*max/xslope1;
+y(x>x2 & x<=x3)=max;
+y(x>x3 & x<=x4)=(x4-x(x>x3 & x<=x4))*max/xslope2;
+
+%surf(y)
+end
+## end
+#8, 57:
+https://smileipic.github.io/Smilei/namelist.html#profiles
+## end
+#9, 45:
+https://smileipic.github.io/Smilei/units.html
+## end
+#10, 1334:
+%{
++[返回目录](,经过材料)
+地址::Matlab\Physics\FaradayRotation.m
++[命令行]"md Matlab\Physics"
++[保存文本](,经过材料)
+
+Smilei单位::https://smileipic.github.io/Smilei/units.html
+Smilei内置函数::https://smileipic.github.io/Smilei/namelist.html#profiles
++[打开](,Smilei内置函数)
++[matlabStart](,Matlab)
+
++[M函数](,经过材料)
+备份:...
+
+trapezoidal:...
+测试:...
+测试输出模式:...
++[修改内容](测试,测试输出模式)
++[M函数](,测试)
+%}
+
+function [Ey,Ez,Dphi1,Dphi2,mode]=FaradayRotation(E0,B0,X,density,t,lmbd0)
+%addpath('Matlab\\Smilei')
+%addpath('Matlab\\Physics')
+
+%E0=[1,1]/sqrt(2);
+%B0=10000;
+%ne=1e25;
+%X=linspace(0,300e-6,10000);
+%density=@(x)trapezoidal(x,20e-6,20e-6,150e-6,20e-6,ne);
+%t=900e-15;
+%lmbd0=800e-9;
+
+physics_constant;
+
+w0=2*pi*c/lmbd0;
+W=e*B0/me;
+dx=X(2)-X(1);
+
+mode=[1i,-1;
+      1,-1i]/sqrt(2);
+A=EigDecomposition(E0,mode);
+
+physics_constant;
+
+Dphi1=zeros(size(X));
+Dphi2=Dphi1;
+for i=1:length(X)
+    x=[0,0:dx:X(i)];
+    wp=sqrt(e^2*density(x)/epsilon0/me);
+    ni1=sqrt(1-wp.^2/w0/(w0-W));
+    ni2=sqrt(1-wp.^2/w0/(w0+W));
+    Dphi1(i)=trapz(x,ni1*w0/c)+t;
+    Dphi2(i)=trapz(x,ni2*w0/c)+t;
+end
+
+
+Ey1=A(1)*1i/sqrt(2);
+Ey2=-A(2)*1i/sqrt(2)*exp(-1i*pi/2);
+Ez1=A(1)*1/sqrt(2);
+Ez2=A(2)*1/sqrt(2)*exp(-1i*pi/2);
+Ey=Ey1*exp(-1i*Dphi1)+Ey2*exp(-1i*Dphi2);
+Ez=Ez1*exp(-1i*Dphi1)+Ez2*exp(-1i*Dphi2);
+Ey(X>t*c)=0;
+Ez(X>t*c)=0;
+
+%subplot(2,1,1)
+%plot(X,Ez)
+%subplot(2,1,2)
+%plot(X,density(X))
+
+end
+## end
+#14, 238:
++[返回目录](,法拉第旋转部分)
+地址::文档\物理问题\法拉第旋转.ftxt
++[导出结构](,法拉第旋转部分)
+
+Nini, 打开LaserNetUS(文件)
+
+理论::http://farside.ph.utexas.edu/teaching/em/lectures/node101.html
++[打开](,理论)
+依据公式:...
++[网页](web,依据公式)
+经过材料:...
++[修改标题]"经过材料"(,代码)
+模式分解:...
+
+FR实验:...
+
+
+
+
+
+## end
+#15, 7:
+法拉第旋转部分
+## end
+#20, 11:
+法拉第旋转部分:...
+## end
+#23, 797:
+%{
++[返回目录](,备份)
++[python](Python,)->+[code](+[python],代码)
+
+Smilei单位::https://smileipic.github.io/Smilei/units.html
+Smilei内置函数::https://smileipic.github.io/Smilei/namelist.html#profiles
++[打开](,Smilei内置函数)
++[matlabStart](,Matlab)
+
++[M函数](,代码)
+
+trapezoidal:...
+%}
+
+physics_constant;
+addpath('Matlab\\Smilei')
+
+B0=0.1;
+x=linspace(0,300,1000);
+N0=trapezoidal(x,20,20,150,20,0.4);
+
+W=B0;
+wp=sqrt(N0);
+w0=1;
+
+ni0=sqrt(1-wp.^2/w0/(w0-W));
+ni1=sqrt(1-wp.^2/w0/(w0+W));
+
+Dphi0=zeros(size(x));
+Dphi1=Dphi0;
+for i=1:size(x,2)
+    Dphi0(i)=trapz(x(1:i),ni0(1:i));
+    Dphi1(i)=trapz(x(1:i),ni1(1:i));
+end
+
+Ex0=1/sqrt(2);
+Ey0=1i/sqrt(2);
+Ex1=1/sqrt(2)*exp(-1i*pi/2);
+Ey1=-1i/sqrt(2)*exp(-1i*pi/2);
+Ex=real(Ex0*exp(-1i*Dphi0)+Ex1*exp(-1i*Dphi1));
+Ey=real(Ey0*exp(-1i*Dphi0)+Ey1*exp(-1i*Dphi1));
+
+
+plot(x,Ex,x,Ey)
+## end
+#25, 32:
+Matlab\Physics\FaradayRotation.m
+## end
+#27, 481:
+%{
++[返回目录](,测试)
++[matlabStart](,Matlab)
+
++[M函数](,测试)
+%}
+
+physics_constant;
+
+addpath('Matlab\\Smilei')
+addpath('Matlab\\Physics')
+
+ne=1e25;
+E0=[1,1];
+B0=3346.8;
+X=linspace(0,26e-6,700);
+density=@(x)trapezoidal(x,20e-6,20e-6,150e-6,20e-6,ne);
+lmbd0=800e-9;
+
+T=437.8e-15;
+t0=63.7e-15;
+v=0.997*c;
+
+t=linspace(0,T,500);
+dt=t(2)-t(1);
+
+for i=1:length(t)
+if t(i)>t0
+X=X+dt*v;
+end
+[Ey,Ez,phi1,phi2]=FaradayRotation(E0,B0,X,density,t(i),lmbd0);
+plot(X,real(Ey),X,real(Ez));
+pause(0.01);
+end
+## end
+#29, 247:
+%{
++[返回目录](,模式分解)
+地址::Matlab\Physics\EigDecomposition.m
+
++[保存文本](,模式分解)
+显示偏振态:...
++[M函数](,模式分解)
+%}
+
+function A=EigDecomposition(E,mode)
+%mode=[1,1i;
+%      1i,1]/sqrt(2);
+%E=[1;1i];
+
+E1=reshape(E,2,1);
+A=mode'*E1;
+A=reshape(A,size(E));
+%mode*A
+end
+## end
+#31, 323:
+%{
++[返回目录](,显示偏振态)
+地址::Matlab\Physics\plotPolarization.m
++[保存文本](,显示偏振态)
+
++[matlabStart](,Matlab)
++[M函数](,显示偏振态)
+%}
+
+function plotPolarization(E0)
+%E0=[1;-1*exp(-1i*pi/3)];
+
+phi=linspace(0,2*pi,1000);
+
+x=real(E0(1)*exp(-1i*phi));
+y=real(E0(2)*exp(-1i*phi));
+
+dx=diff(x);
+dy=diff(y);
+quiver(x(1:end-1),y(1:end-1),dx,dy);
+end
+## end
+#33, 33:
+Matlab\Physics\plotPolarization.m
+## end
+#35, 33:
+Matlab\Physics\EigDecomposition.m
+## end
+#37, 468:
+%{
++[返回目录](,测试输出模式)
++[matlabStart](,Matlab)
+
++[M函数](,测试输出模式)
+%}
+
+
+physics_constant;
+
+addpath('Matlab\\Smilei')
+addpath('Matlab\\Physics')
+
+ne=1e25;
+E0=[1,1];
+B0=3346.8;
+X=linspace(0,400e-6,700);
+density=@(x)trapezoidal(x,20e-6,20e-6,150e-6,20e-6,ne);
+lmbd0=800e-9;
+
+T=437.8e-15;
+[Ey,Ez,phi1,phi2]=FaradayRotation(E0,B0,X,density,10*T,lmbd0);
+
+for i=1:5:length(Ey)
+hold off
+plotPolarization(E0)
+hold on
+E1=[Ey(i),Ez(i)];
+plotPolarization(E1)
+
+axis equal
+pause(0.01)
+end
+## end
+#40, 88:
+
+论文::file:///C:/Users/cheng/Desktop/paper/FaradayRotation/Kaluza10.pdf
++[打开网页](,论文)
+
+
+
+
+
+## end
+#42, 65:
+file:///C:/Users/cheng/Desktop/paper/FaradayRotation/Kaluza10.pdf
+## end
+### 结束

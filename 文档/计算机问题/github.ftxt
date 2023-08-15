@@ -1,0 +1,184 @@
+### 节点
+地址, 的, github, 目录, 的, 的, 节点数目统计, 的, 笔记, 密码, 的, 使用git, 参考, 的, 设置ssh, 地址, 的, 测试文档, 的, 的, 的, 测试输出, 的, 的, 新建项目, 的, gitee, 的, pySEM, 的, 问题参考, 的, 问题参考_2, 的, merge问题, 的, 参考1, 的, 参考2, 的, 参考3, 的, 参考3b, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, #, 11#9, #, #, 14#12, #, #, 17#15, #, 21#11, 21#14, 21#17, #, 8#21, 8#24, #, 2#26, #, 26#28, #, 28#30, #, 28#32, #, 26#34, #, 34#36, #, 34#38, #, 34#40, #, 34#42, #, 
+### 内容
+#0, 20:
+文档/计算机问题/github.ftxt
+## end
+#2, 82:
++[返回目录](,github)
+地址::文档/计算机问题/github.ftxt
+
+Nini, 打开网页画板(文件)
+
+笔记:...
+gitee:...
+
+
+
+
+
+## end
+#3, 50:
+github:...
+创建于 20230318
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 80:
+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
+
+测试输出:...
+新建项目:...
++[新建阅读窗口](,测试输出)
+
+
+
+
+## end
+#9, 40:
+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
+## end
+#11, 256:
+密码::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
+
+cd 文档/S应用/博客生成器/UT3-meta
+git commit -m "test"
+git add index2.html
+git add --all
+git push
+
++[命令行]"cd 文档/S应用/博客生成器;ls"
++[复制内容](,密码)
++[命令行]"cd 文档/S应用/博客生成器/meta-UT3;git commit -m \"test\";git add --all;git push"
+
+
+## end
+#12, 127:
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+## end
+#14, 227:
+参考::https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+运行指令(ssh-keygen -t ed25519 -C "chengxiantao@utexas.edu")
+运行指令"ssh-add ~/.ssh/id_ed25519"
+从
+
+
+
+## end
+#15, 22:
+文档/S应用/博客生成器/测试文档.html
+## end
+#17, 52:
+<!--
+地址::文档/S应用/博客生成器/测试文档.html
++[保存文本](,测试文档)
+-->
+
+
+## end
+#21, 260:
+创建"文档/S应用/博客生成器"
+运行指令"nautilus 文档/S应用/博客生成器"
+运行指令"git push "
++[命令行]"ls"
++[命令行]"cd 文档/S应用/博客生成器/meta-UT3;ls;git push"
+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
+
+设置ssh:...
+使用git:...
+测试文档:...
++[上传网页]"文档/S应用/博客生成器/meta-UT3"(,测试文档)
++[H函数](,测试文档)
+
+
+Nini, 打开龙格库塔方法(文件)
+## end
+#24, 112:
+运行指令"nautilus 文档/S应用/周报告/SEM_simulator"
+
++[记住]"git clone https://github.com/XiantaoCheng/SEM_simulator.git"
+
+
+
+
+
+## end
+#26, 69:
+Nini, 打开周报告(文件)
+上传网页在网页画板中
+
+pySEM:...
++[上传pySEM]"test"
+
+merge问题:...
+
+
+## end
+#28, 358:
+运行指令"nautilus /home/xiantao/Documents/Projects"
+
++[记住]"git clone https://gitee.com/zz303/py-sem.git"
+
+问题参考::https://stackoverflow.com/questions/38378914/how-to-fix-git-error-rpc-failed-curl-56-gnutls
+问题参考_2::https://devopscube.com/gnutls-handshake-failed-aws-codecommit/
++[打开网页](,问题参考_2)
+
+上传pySEM的操作
+cd %地址;
+git commit -m \"test\";
+git add --all;
+git push
+
+
+
+## end
+#30, 91:
+https://stackoverflow.com/questions/38378914/how-to-fix-git-error-rpc-failed-curl-56-gnutls
+## end
+#32, 62:
+https://devopscube.com/gnutls-handshake-failed-aws-codecommit/
+## end
+#34, 723:
+git config pull.rebase false
+参考1::https://stackoverflow.com/questions/161813/how-do-i-resolve-merge-conflicts-in-a-git-repository
+(merge config)
+
+git config pull.rebase false
+git config merge.tool vimdiff
+git config merge.conflictstyle diff3
+git config mergetool.prompt false
+git mergetool
+(好像没啥用)
+
+参考2::https://stackoverflow.com/questions/14250257/resolve-merge-conflicts-force-overwrite-all-files
+fetch也是下载文件, 但是不更新本地状态. 是安全版的pull
+
+参考3:https://gitprotect.io/blog/merge-vs-rebase-ways-to-combine-changes-in-git...
+参考3b::https://www.atlassian.com/git/tutorials/syncing/git-pull
+rebase和merge的对比
+
+逻辑大概是, 
+1.add会提示修改, commit会保存修改; 
+2.rebase和merge都是基于local committed的brunch来做修改. pull里面包含了merge. 所以应该在commit之后再做rebase/merge. 
+
+
+
+## end
+#36, 95:
+https://stackoverflow.com/questions/161813/how-do-i-resolve-merge-conflicts-in-a-git-repository
+## end
+#38, 94:
+https://stackoverflow.com/questions/14250257/resolve-merge-conflicts-force-overwrite-all-files
+## end
+#40, 338:
+https://gitprotect.io/blog/merge-vs-rebase-ways-to-combine-changes-in-git/?utm_campaign=Search%20GitProtect&utm_source=google&utm_medium=cpc&utm_content=Dynamic%20Ads&utm_term=&campaignid=19346890731&adgroupid=145500399060&adid=648439979956&gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqUWLHwRfhwiE6Ieyo7ESg6huvmQsHP3KY1QDSVhz52JBJKP8uXsWGBoChEkQAvD_BwE
+## end
+#42, 56:
+https://www.atlassian.com/git/tutorials/syncing/git-pull
+## end
+### 结束

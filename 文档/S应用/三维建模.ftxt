@@ -1,0 +1,6817 @@
+### 节点
+地址, P函数, 设置物体, P函数, 创建物体, 代码, Freestyle2, Freestyle, mount模型, 安装方法, STEPer插件, 的, 的, 的, 的, 的, 的, 的, 的, 的, Blender, 目录, 的, 的, 节点数目统计, 20210527, 的, 的, 三维场景, 的, 网页画板, 的, 欧拉角与坐标轴, html, 的, 欧拉角示意图, 图片, 的, 动态示意图, 图片, 20210528, 的, 的, 显示局域坐标系, M函数, 的, 坐标变换, M函数, 的, 局域坐标系, M函数, 的, 地址, 的, 地址, 的, 测试坐标变换, M函数, 的, 空间投影, 的, 空间角, 的, 相机投影, html, 的, 显示相机, M函数, 的, show_camera, M函数, 的, 地址, 的, camera_lookat, M函数, 的, 地址, 的, 拍照, M函数, 的, camera_click, M函数, 的, 地址, 的, 抛物面, M函数, 的, 相机轨迹, M函数, 的, 地平面, M函数, 20210530, 的, 的, 三维模型, 的, 模型描述, html, 的, patch测试, M函数, 的, 含义测试, M函数, 的, fill_3D, M函数, 的, 地址, 的, model_para_cylindrical_mirror, M函数, 的, 地址, 的, 旋转模型, M函数, 20210603, 的, 的, model_round_mirror, M函数, 的, 地址, 的, 代码测试, M函数, 的, model_rectangle_mirror, M函数, 的, 地址, 的, 代码测试, M函数, 20210617, 的, 20210704, 的, 的, 地址, 的, 地址, 的, 搭建光路模型, 的, 画路径, P函数, 的, 地址, 的, curve参考, 的, 函数曲线, P函数, 的, 地址, 20210705, 的, 的, Bezier curve, 的, Nurbs curve, 的, curve obj, 的, modifiers, 的, modifiers使用方法举例, P函数, 的, 透镜示例, P函数, 的, 地址, 20210708, 的, 20210710, 的, 的, model_lens, M函数, 的, 地址, 的, 参考, 的, 框架, 的, 代码测试, M函数, 20210712, 的, 20210713, 的, 20210731, 的, 的, 计算欧拉角, M函数, 的, Eulers, 的, 地址, 20210814, 的, 20210815, 的, 20210816, 的, 的, 问题, M函数, 20210821, 的, 20210830, 的, P代码, 的, 描述三维场景, P代码, 的, 相机, P代码, 的, 平面, P代码, 的, 立方体, 的, 的, 的, 库, 的, 结构转Blender_del, 的, 的, 动词, 的, 20210902, 的, 20210909, 的, 的, PPT, 的, 测试场景, 的, 的, 的, 相机, 立方体, XY平面, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 方向, 空间点, 朝向, 在, 方向, 空间点, 朝向, 在, 方向, 空间点, 朝向, 在, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 样式, Z, 的, Y, 的, X, 的, 样式, Z, 的, Y, 的, X, 的, 20210910, 的, 的, 显示三维场景, 的, 画网格, M函数, 设置网格, M函数, 更新立方体, 的, 更新立方体, 的, 设置网格, M函数, 20210912, 的, 20210913, 的, 的, 的, 的, 的, 的, 的, Z, 的, Y, 的, X, 的, 的, 更新网格, 的, 库, 的, 相机, 的, 名词, 的, 朝向, 20210914, 的, 的, 相片场景, 的, 的, 的, 的, D, 的, 形状, 的, 的, 拍照_del, 20210918, 的, 的, 描述, 的, 库, 的, 设置相机, 的, 匹配模板, 的, 输出模板, 的, 句子, 的, 拍摄照片, 的, 匹配模板, 的, 输出模板, 的, 的, 的, 的, 的, 的, 的, 的, 内容, 的, 样式, 尺寸, 的, 空间点, 在, 相片, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, y, 的, x, 的, 样式, 方向, 朝向, 空间点, 在, y, 的, x, 的, 样式, 方向, 朝向, 空间点, 在, 立方体, 底板, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 空间点, 在, 空间点, 在, 空间点, 在, 空间点, 在, D, C, B, A, 的, 的, 的, 的, 边, 边, 边, 边, 20210919, 的, 的, 照片测量, 20210920, 的, 20210921, 的, P代码, 的, 转述, 匹配模板, 的, 的, 设置图形, 的, 的, M代码, 的, 平面, 的, M代码, 的, 圆柱体, 的, M代码, 20210922, 的, P代码, 的, 转述, 匹配模板, 的, 的, 朝向3, 的, 输出模板, 匹配模板, 的, 的, 设置位置2, 的, 输出模板, 匹配模板, 的, 的, 相距, 的, 的, 更新圆柱, 的, 更新相机, 的, 更新立方体, 的, 匹配模板, 的, 输出模板, 的, 匹配模板, 的, 输出模板, 的, 匹配模板, 的, 输出模板, 的, 箭头, 的, M代码, 输出模板, 匹配模板, 20210923, 的, 位置, 的, 20210924, 的, 20210925, 的, 20210926, 的, 的, 设置相机参数, 的, M代码, M函数, 20210928, 的, 的, 三维旋转, 的, 旋转, 的, M代码, M函数, 的, 空间映射, 的, M代码, M函数, 的, 保存, 20210929, 的, 20210930, 的, 相对, 的, 的, 旋转, 的, 转述, 的, P代码, 的, 匹配模板, 20211002, 的, 的, 方向, 的, M代码, M函数, 的, P代码, P函数, 的, 显示, P函数, 的, 测试公式, M函数, 的, sign_1, M函数, 的, 地址, 的, 备份, 20211003, 的, 20211004, 的, 20211005, 的, 20211006, 的, 20211008, 的, M代码, 的, 立方体, 的, 的, 显示空间图片, 的, M代码, M函数, 20211010, 的, 20211024, 的, 20211107, 的, 20211113, 的, 输出模板, 匹配模板, 的, 的, 查询位置, 的, 20211127, 的, 的, 显示三维图形, 的, 画网格, M函数, 20211128, 的, 20211203, 的, 的, 旋转2, 的, 匹配模板, 的, 输出模板, 的, 查询方向, 的, 匹配模板, 的, 输出模板, 的, 更新平面, 的, 匹配模板, 的, 输出模板, 20211205, 的, 的, 设置图形2, 的, 匹配模板, 的, 输出模板, 的, 朝向2, 的, 匹配模板, 的, 输出模板, 的, 设置图形3, 的, 输出模板, 的, 匹配模板, 20211206, 的, 的, 设置图形4, 的, 匹配模板, 的, 输出模板, 20211207, 的, 20211208, 的, 20211209, 的, 20211210, 的, 的, 空间反演, 的, 匹配模板, 的, 输出模板, 的, 缩放, 的, 匹配模板, 的, 输出模板, 的, 设置图形5, 的, 匹配模板, 的, 输出模板, 的, 更新直线, 的, 输出模板, 的, 匹配模板, 的, 更新直线2, 的, 匹配模板, 的, 输出模板, 的, 垂直, 的, 匹配模板, 的, 输出模板, 的, 垂直, 的, M代码, M函数, 20211212, 的, 的, 星图, 的, 设置图形6, 20211216, 的, 的, 匹配模板, 的, 输出模板, 匹配模板, 输出模板, 的, 的, 更新图形2, 的, 20211218, 的, 匹配模板, P代码, 的, 转述, 的, 的, 朝向, 的, 匹配模板, 输出模板, 的, 的, 设置位置, 的, 20211221, 的, 20220102, 的, 20220109, 的, P代码, 的, 转述, 匹配模板, 网页画板, 的, 记忆, 的, 的, 句子库, 的, 20220124, 的, 20220125, 的, 20220211, 的, fill_3D, 的, 的, 显示三维曲面, 的, 画网格, M函数, 20220213, 的, 20220511, 的, 输出模板, 匹配模板, 的, 的, 更新图形, 的, 20220512, 的, 20220608, 的, 的, 测试场景2, 的, A0, 20220609, 的, Z, 的, Y, 的, X, 的, 空间点, 在, 类型, 的, 20220621, 的, 旋转, 的, 旋转, 显示三维场景, 的, 显示三维场景, 的, ThreeJS, 的, 测试, 的, 例子1, 20220709, 的, 的, 例子2, 的, 参考, 的, 问题_import, 20220728, 的, 20220914, 的, 的, 保存, 的, 结构描述, 的, 库, 的, 局域坐标系, 的, 物体类型, 的, 组合体, 的, M代码, M代码, 的, 三维物体, 的, 的, 初始化, 的, transform_3D_frame, 的, 地址, transform_3D_frame, 的, transform_3D_frame, 的, 测试, 为空间角, 空间角, 三维旋转, 的, 全代码测试, 的, 互逆对比, 的, 版本1, 的, 更新物体_规则, 的, 显示物体名称, 的, M代码, M函数, camera_lookat, 的, camera_lookat, 的, 测试, 20220915, 的, 的, 测试场景3, 手, A0, 的, A1, 的, A2, 的, A3, 的, Z, 的, Y, 的, X, 的, 空间点, 在, 高度, 的, 宽度, 的, 长度, 的, 类型, 的, Z, 的, Y, 的, X, 的, 空间点, 在, 高度, 的, 半径, 的, 类型, 的, Z, 的, Y, 的, X, 的, 空间点, 在, 半径, 的, 类型, 的, Z, 的, Y, 的, X, 的, 空间点, 在, 宽度, 的, 长度, 的, 类型, 的, a0, 的, a1, 的, a2, 的, a3, 的, B0, 的, B1, 的, B2, 的, B3, 的, y, 的, x, 的, 空间点, 在, 宽度, 的, 长度, 的, 样式, 类型, 的, 方向, 朝向, y, 的, x, 的, 空间点, 在, 半径, 的, 类型, 的, y, 的, x, 的, 空间点, 在, 半径, 的, 类型, 的, 样式, y, 的, x, 的, 类型, 的, 的, 图形生成物体, 的, 描述结构, 的, 平面, 的, 物体, 的, 库, 的, 创建圆柱体, 的, M代码, 在, 在, 在, 在, 在, 方向, 朝向, m_width, m_height, m_y, m_x, m_cursor, M代码, 的, 创建球体, 的, 在, 在, 在, 方向, 朝向, m_cursor, m_x, m_y, m_height, m_width, M代码, 的, 创建多面体, 的, 在, 方向, 朝向, A4, 的, m_width, m_height, m_y, m_x, m_cursor, M代码, 的, 创建立方体, 的, 在, 在, 方向, 朝向, 空间点, 在, Z, 的, Y, 的, X, 的, y, 的, x, 的, 高度, 的, 类型, 的, 方向, 朝向, 的, ThreeJS, 节点数目统计, ThreeJS, 的, ThreeJS, 节点数目统计, 的, 三维模型, 节点数目统计, 三维模型, 的, FreeCAD, 的, 例子, 的, fill_3D, 的, 地址, fill_3D, 的, draw_sphere_fill, 的, 地址, 的, draw_XYZ_fill, 的, 地址, draw_sphere_fill, 的, 的, 的, draw_sphere_fill, 中, draw_XYZ_fill, 的, 的, 的, draw_XYZ_fill, 中, 
+### 关联
+#, 2#, #, 4#, #, #, #, #, #, #, #, 20#0, 20#2, 20#4, 20#5, 20#6, 20#7, 20#8, 20#9, 20#10, #, #, 21#20, 21#24, #, #, 24#25, 21#28, #, 28#30, #, 28#32, #, 32#, 32#35, #, 35#, 32#38, #, 38#, #, 24#40, 32#43, #, 43#, 43#46, #, 46#, 43#49, #, 49#, 46#52, #, 49#54, #, 32#56, #, 56#, 28#59, #, 28#61, #, 28#63, #, 63#, 63#66, #, 66#, 66#69, #, 69#, 69#72, #, 66#74, #, 74#, 74#77, #, 63#79, #, 79#, 79#82, #, 82#, 82#85, #, 79#87, #, 87#, 79#90, #, 90#, 79#93, #, 93#, #, 24#95, 21#98, #, 98#100, #, 100#, 98#103, #, 103#, 103#106, #, 106#, 103#109, #, 109#, 109#112, #, 103#114, #, 114#, 114#117, #, 103#119, #, 119#, #, 24#121, 103#124, #, 124#, 124#127, #, 124#129, #, 129#, 103#132, #, 132#, 132#135, #, 132#137, #, 137#, #, 24#139, #, 24#141, 4#144, #, 2#146, #, 20#148, #, 148#150, #, 150#, 150#153, #, 148#155, #, 148#157, #, 157#, 157#160, #, #, 24#161, 148#164, #, 148#166, #, 148#168, #, 148#170, #, 148#172, #, 172#, 148#175, #, 175#, 175#178, #, #, 24#179, #, 24#181, 103#184, #, 184#, 184#187, #, 184#189, #, 184#191, #, 184#193, #, 193#, #, 24#195, #, 24#197, #, 24#199, 32#202, #, 202#, 202#205, #, 205#207, #, #, 24#208, #, 24#210, #, 24#212, 74#215, #, 215#, #, 24#217, #, 24#219, #, 223#221, #, #, 226#224, #, #, 229#227, #, #, 232#230, #, 236#226, 236#229, 236#232, #, 238#236, #, 241#223, 241#238, #, 28#241, #, 24#243, #, 24#245, 28#248, #, 28#250, #, 250#254, 250#255, 250#256, #, #, #, 250#269, 250#270, 250#271, 250#272, 250#273, 250#274, 250#275, 250#276, 250#277, 250#278, 250#279, 250#280, #, #, 254#269, 254#270, #, #, 255#273, 255#274, #, #, 256#277, 256#278, 250#295, 250#296, 250#297, 250#298, 250#299, 250#300, 250#301, 250#302, 250#303, 250#304, 250#305, 250#306, 250#307, 250#308, 255#, #, 255#296, #, 255#298, #, 255#300, 256#, #, 256#303, #, 256#305, #, 256#307, #, 24#309, 241#312, #, 312#314, #, 314#, #, 316#, #255, 241#320, #, 320#322, #, 322#, #, 24#324, #, 24#326, 250#334, 250#335, 250#336, 250#337, 250#338, 250#339, #, 254#334, #, 254#336, #, 254#338, 241#341, #, 341#343, #, 343#345, #, 28#347, #, 241#349, #, #, 24#350, 250#353, #, 250#358, 250#359, 250#360, 250#361, #, 360#358, #, 254#360, 241#363, #, #, 24#364, 241#367, #, 367#369, #, 369#371, #, 371#373, #, 371#375, #, 250#377, #, 369#379, #, 379#381, #, 379#383, #, 353#392, 353#393, 353#394, 353#395, 353#396, 353#397, 353#398, 353#399, #, 399#392, 399#, #, 399#395, #, 399#397, #, 353#420, 353#421, 353#422, 353#423, 353#424, 353#425, 353#426, 353#427, 353#428, 353#429, 353#430, 353#431, 353#432, 353#433, 353#434, 353#435, 353#436, 353#437, 353#438, 353#439, #, 438#420, #, 438#422, 438#, #, 438#425, #, 438#427, #, 439#429, #, 439#431, 439#, #, 439#434, #, 439#436, #, #, 353#452, 353#453, 353#454, 353#455, 353#456, 353#457, 353#458, 353#459, 353#460, 353#461, 353#462, 353#463, #, 460#452, #, 461#454, #, 462#456, #, 463#458, #, #, #, #, 353#468, 353#469, 353#470, 353#471, 452#458, 454#452, 456#454, 458#456, #, 24#472, 28#475, #, #, 24#476, #, 24#478, #, 482#480, #, #, 486#482, 486#483, #, 369#486, 345#489, #, 343#491, #, 491#493, #, 343#495, #, 495#497, #, #, 24#498, #, 502#500, #, #, 506#502, 506#503, #, 369#506, #, #, 512#508, 512#509, #, 369#512, #, #, 518#514, 518#515, #, 369#518, 369#521, #, 369#523, #, 369#525, #, 525#527, #, 525#529, #, 523#531, #, 523#533, #, 521#535, #, 521#537, #, 343#539, #, 539#541, #, #, #, #, 24#544, #, 347#546, #, 24#548, #, 24#550, #, 24#552, 241#555, #, 555#557, #, 557#, #, 24#559, 28#562, #, 241#564, #, 564#566, #, 566#, 241#569, #, 569#571, #, 571#, 569#574, #, #, 24#575, #, 24#577, #, 241#579, 369#582, #, 582#584, #, 584#586, #, 582#588, #, #, 24#589, 347#592, #, 592#594, #, 594#, 592#597, #, 597#, 586#600, #, 600#, 566#603, #, 603#, 603#606, #, 606#, 606#609, #, 566#611, #, #, 24#612, #, 24#614, #, 24#616, #, 24#618, #, 24#620, #, 624#622, #, 343#624, 241#627, #, 627#629, #, 629#, #, 24#631, #, 24#633, #, 24#635, #, 24#637, #, #, 643#639, 643#640, #, 369#643, #, 24#645, 241#648, #, 648#650, #, 650#, #, 24#652, #, 24#654, 369#657, #, 657#659, #, 657#661, #, 369#663, #, 663#665, #, 663#667, #, 369#669, #, 669#671, #, 669#673, #, #, 24#674, 369#677, #, 677#679, #, 677#681, #, 369#683, #, 683#685, #, 683#687, #, 369#689, #, 689#691, #, 689#693, #, #, 24#694, 369#697, #, 697#699, #, 697#701, #, #, 24#702, #, 24#704, #, 24#706, #, 24#708, 369#711, #, 711#713, #, 711#715, #, 369#717, #, 717#719, #, 717#721, #, 369#723, #, 723#725, #, 723#727, #, 369#729, #, 729#731, #, 729#733, #, 369#735, #, 735#737, #, 735#739, #, 369#741, #, 741#743, #, 741#745, #, 241#747, #, 747#749, #, 749#, #, 24#751, 28#754, #, 369#756, #, #, 24#757, 756#760, #, 756#762, #, #, #, 767#763, 767#764, #, 369#767, #, 24#769, #, #, 774#772, #, 777#771, 777#774, #, 369#777, #, #, 783#779, 783#780, #, 369#783, #, 24#785, #, 24#787, #, 24#789, #, 793#791, #, #, #, 367#797, 21#, 367#800, 367#801, #369, 797#800, #, 24#802, #, 24#804, #, 24#806, #1144, 797#808, 241#811, #, 811#813, #, 813#, #, 24#815, #, 24#817, #, #, 823#819, 823#820, #, 369#823, #, 24#825, #, 24#827, 28#830, #, 830#832, #, #, 24#833, #, 832#835, #, 832#837, #, 832#839, #, 832#841, #, 832#843, #, 24#845, #564, 797#847, #, #312, 797#850, #, 21#854, #, 854#856, #, 856#858, #, #, 24#859, 856#862, #, 862#864, #, 858#866, #, #, 24#867, #, 24#869, 312#872, #, 312#874, #, 312#876, #, 874#878, #, 874#880, #, 876#882, #, 882#884, #, #, 887#885, #, 876#887, 312#890, #, 885#892, #, 892#894, #, #892, 797#895, #, 892#899, #, #, #, #, 899#904, #, 904#906, #, 892#908, #, 241#910, #, 241#912, #, 912#914, #, 914#, #74, 797#916, #, 74#920, #, #, 24#921, 28#924, #, #924, #, 924#926, #, 924#928, #, 924#930, #, 924#932, #, 926#934, #, 926#936, #, 926#938, #, 926#940, #, 926#942, #, 926#944, #, 926#946, #, 926#948, #, 928#950, #, 928#952, #, 928#954, #, 928#956, #, 928#958, #, 928#960, #, 928#962, #, 930#964, #, 930#966, #, 930#968, #, 930#970, #, 930#972, #, 930#974, #, 932#976, #, 932#978, #, 932#980, #, 932#982, #, 932#984, #, 932#986, #, 932#988, #, 932#990, #, 932#992, #, 932#994, #, 932#996, #, 932#998, #, 932#1000, #, 932#1002, #, 932#1004, #, 990#1006, #, 990#1008, #, 990#1010, #, 990#1012, #, 990#1014, 990#, #, 990#1017, #, 990#1019, #, 992#1021, #, 992#1023, #, 992#1025, #, 992#1027, #, 992#1029, #, 994#1031, #, 994#1033, #, 994#1035, #, 994#1037, #, 994#1039, 996#, #, 996#1042, #, 996#1044, #, 996#1046, 241#1049, #, 1049#1051, #, 1051#1053, #, 1051#1055, #, 1049#1057, #, 1057#1059, #, 1059#1061, #, #, #, #, #, #, #, 926#1067, #, #, #, #, #, #, 1076#1074, #, 1057#1076, #, #, #, #, 928#1081, #, #, #, #, #, #, 1090#1088, #, 1057#1090, #, #, 930#1093, #, 924#1095, #, #, #, #, #, #, 1104#1102, #, 1057#1104, #, #, #, 1095#1108, #, 1095#1110, #, 1095#1112, #, 1095#1114, #, 1095#1116, #, 1095#1118, #, 1095#1120, #, 1095#1122, #, 1095#1124, #, 932#1126, 28#1129, #, #, #, 28#1133, #, #, 98#1136, #, #, #, 21#1140, #, 1140#1142, #, 885#1144, #, 1144#1146, #, #, 314#1149, #, 1149#1151, #, 314#1153, #, 1153#1155, #, #1149, 797#1156, del#1161, del#1160, #, del#1160, #1153, 797#1162, del#1167, del#1166, #, del#1166, 
+### 内容
+#0, 16:
+文档\S应用\三维建模.ftxt
+## end
+#2, 2653:
+"""
++[返回目录](,设置物体)
+地址::文档\输出\20210704\设置物体.py
++[保存文本](,设置物体)
+
+"""
+
+import bpy
+from math import pi, sin, cos
+import colorsys
+import mathutils
+
+
+
+angle=10
+BBO_pos=[0,0,0]
+BBO_scl=[1.2,0.16,1.2]
+BBO_rte=[angle*pi/180,0,0]
+
+mount_pos=[0,0.4,0]
+mount_scl=[0.2,0.2,-0.2]
+mount_rte=[pi/2,0,0]
+
+scale=0.3
+x0=4
+
+X_pos=[x0+2*scale,0,0]
+X_scl=[1*scale,1*scale,1*scale]
+X_rte=[pi/2,0,pi/2]
+
+X_end_pos=[x0,0,0]
+X_end_scl=[0.5*scale,0.5*scale,1*scale]
+X_end_rte=[pi/2,0,pi/2]
+
+y0=3
+
+Y_pos=[0,0,y0+2*scale]
+Y_scl=[1*scale,1*scale,1*scale]
+Y_rte=[0,0,0]
+
+Y_end_pos=[0,0,y0]
+Y_end_scl=[0.5*scale,0.5*scale,1*scale]
+Y_end_rte=[0,0,0]
+
+laser_pos=[0,0,0]
+laser_scl=[0.1,0.1,100]
+laser_rte=[pi/2,0,0]
+
+
+Camera_pos=[-5,5,5]
+P0=(0.0, 0.0, 0.0)
+L=7
+looking_direction = mathutils.Vector(Camera_pos) - mathutils.Vector(P0)
+rot_quat = looking_direction.to_track_quat('Z', 'Y')
+Camera_rte = rot_quat.to_euler()
+# Use * instead of @ for Blender <2.8
+Camera_pos = rot_quat @ mathutils.Vector((0.0, 0.0, L))
+
+
+
+
+bpy.data.objects['BBO'].location=(BBO_pos[0],BBO_pos[1],BBO_pos[2])
+bpy.data.objects['BBO'].scale=(BBO_scl[0],BBO_scl[1],BBO_scl[2])
+bpy.data.objects['BBO'].rotation_euler=(BBO_rte[0],BBO_rte[1],BBO_rte[2])
+
+bpy.data.objects['mount'].location=(mount_pos[0],mount_pos[1],mount_pos[2])
+bpy.data.objects['mount'].scale=(mount_scl[0],mount_scl[1],mount_scl[2])
+bpy.data.objects['mount'].rotation_euler=(mount_rte[0],mount_rte[1],mount_rte[2])
+
+bpy.data.objects['X'].location=(X_pos[0],X_pos[1],X_pos[2])
+bpy.data.objects['X'].scale=(X_scl[0],X_scl[1],X_scl[2])
+bpy.data.objects['X'].rotation_euler=(X_rte[0],X_rte[1],X_rte[2])
+
+bpy.data.objects['X_end'].location=(X_end_pos[0],X_end_pos[1],X_end_pos[2])
+bpy.data.objects['X_end'].scale=(X_end_scl[0],X_end_scl[1],X_end_scl[2])
+bpy.data.objects['X_end'].rotation_euler=(X_end_rte[0],X_end_rte[1],X_end_rte[2])
+
+bpy.data.objects['Y'].location=(Y_pos[0],Y_pos[1],Y_pos[2])
+bpy.data.objects['Y'].scale=(Y_scl[0],Y_scl[1],Y_scl[2])
+bpy.data.objects['Y'].rotation_euler=(Y_rte[0],Y_rte[1],Y_rte[2])
+
+bpy.data.objects['Y_end'].location=(Y_end_pos[0],Y_end_pos[1],Y_end_pos[2])
+bpy.data.objects['Y_end'].scale=(Y_end_scl[0],Y_end_scl[1],Y_end_scl[2])
+bpy.data.objects['Y_end'].rotation_euler=(Y_end_rte[0],Y_end_rte[1],Y_end_rte[2])
+
+bpy.data.objects['laser'].location=(laser_pos[0],laser_pos[1],laser_pos[2])
+bpy.data.objects['laser'].scale=(laser_scl[0],laser_scl[1],laser_scl[2])
+bpy.data.objects['laser'].rotation_euler=(laser_rte[0],laser_rte[1],laser_rte[2])
+
+bpy.data.objects['Camera'].location=(Camera_pos[0],Camera_pos[1],Camera_pos[2])
+bpy.data.objects['Camera'].rotation_euler=(Camera_rte[0],Camera_rte[1],Camera_rte[2])
+
+
+
+## end
+#4, 1008:
+"""
++[返回目录](,创建物体)
+地址::文档\输出\20210704\创建物体.py
++[保存文本](,创建物体)
+
+"""
+
+import bpy
+from math import pi, sin, cos
+import colorsys
+from random import TWOPI
+
+
+x0=0
+y0=0
+z0=0
+
+dx=1.2
+dz=dx
+dy=0.16
+
+angle=10
+theta=angle/180*pi
+
+
+bpy.ops.mesh.primitive_cube_add()
+bpy.context.selected_objects[0].name='BBO'
+
+#bpy.ops.import_mesh.stl(filepath="C:\\Users\\cheng\\Documents\\CXT\\blender\\model\\MK05S_Step.step")
+
+bpy.ops.mesh.primitive_cone_add()
+bpy.context.selected_objects[0].name='Y'
+
+bpy.ops.mesh.primitive_cone_add()
+bpy.context.selected_objects[0].name='X'
+
+bpy.ops.mesh.primitive_cylinder_add()
+bpy.context.selected_objects[0].name='laser'
+
+bpy.ops.mesh.primitive_cylinder_add()
+bpy.context.selected_objects[0].name='Y_end'
+
+bpy.ops.mesh.primitive_cylinder_add()
+bpy.context.selected_objects[0].name='X_end'
+
+camera_data = bpy.data.cameras.new(name='Camera')
+camera_object = bpy.data.objects.new('Camera', camera_data)
+bpy.context.scene.collection.objects.link(camera_object)
+
+print(bpy.context.scene.collection)
+## end
+#5, 341:
+import bpy
+from math import pi, sin, cos
+import colorsys
+from random import TWOPI
+
+
+x0=0
+y0=0
+z0=0
+
+dx=1.2
+dz=dx
+dy=0.16
+
+angle=10
+theta=angle/180*pi
+
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+bpy.ops.mesh.primitive_cube_add(location=(x0, y0, z0),scale=(dx,dy,dz),rotation=(theta,0,0))
+bpy.context.selected_objects[0].name='BBO'
+
+
+## end
+#6, 61:
+https://blenderartists.org/t/edge-rendering-line-art/651813/4
+## end
+#7, 43:
+https://www.youtube.com/watch?v=2PoElEZbdwk
+## end
+#8, 58:
+C:\Users\cheng\Documents\CXT\blender\model\MK05S_Step.step
+## end
+#9, 66:
+https://www.cgchan.com/static/doc/sceneskies/1.1/installation.html
+## end
+#10, 51:
+C:\Users\cheng\Documents\CXT\blender\Blender_addons
+## end
+#20, 1202:
++[返回目录](,Blender)
+地址::文档\S应用\三维建模.ftxt
++[导出结构](,Blender)
+
+暂时没必要装bpy. 我们直接在blender里面画图, 先熟悉熟悉. 
+python在blender里面可能不是一个很好的工具. 
+
+然后我要做哪些事情呢? 
+我要导入mount的模型. 我要画晶体. 我要生成一定风格的图片(线图). 我还要画坐标系和箭头. 
+接下来看怎么设置cube的形状和方向. 
+先是, blender怎么增加模型? 
+用Add按钮添加. 但是立方体只有正方体. 
+接下来是怎么设置Transform? (bpy.ops.transform.bbone_resize)
+怎么对某一个物体设置? 需要选中物体(bpy.data.objects['name'].select_set(True))
+选物体是按照名字来选的. 这里两个物体不允许同名. 
+那么怎么设置名字呢? 
+for obj in bpy.context.selected_objects:
+    obj.name = "newName"
+上面这句可以修改所有选中对象的名字
+同名对象会自动加上后缀, newName.XXX(number)
+
+接下来可以导入模型了. 
+Step模型需要用插件导入. 在preference的Addon里面
+STEPer插件::C:\Users\cheng\Documents\CXT\blender\Blender_addons
+安装方法::https://www.cgchan.com/static/doc/sceneskies/1.1/installation.html
++[打开](,STEPer插件)
+
+mount模型::C:\Users\cheng\Documents\CXT\blender\model\MK05S_Step.step
+
+呃, 接下来我希望能够修改导入的模型. 我想删除掉几个面. 
+好像不太好搞... 
+之后弄成两个部分. 一部分是导入部件, 另一部分是设置位置. 
+那么现在我先尝试一下输出线图吧. 
+做不到... 
+
+所以, 光线示意图我就直接手画吧. 
+blender output technical drawing
+Freestyle::https://www.youtube.com/watch?v=2PoElEZbdwk
+Freestyle2::https://blenderartists.org/t/edge-rendering-line-art/651813/4
+
+代码:...
+
+怎么用代码导入模型? 
+应该是不行了. 
+接下来加两个圆锥三个圆柱. 
+接着手动加光源和相机. 先不加光源了. 
+
+创建物体(P函数):...
+设置物体(P函数):...
+
+接下来设置相机的位置和角度. 
+搭建光路模型:...
+
+
+
+## end
+#21, 124:
+三维场景:...
+三维模型:...
+Blender:...
+ThreeJS:...
+FreeCAD:...
+
+创建于 20210508
+
+节点数目统计::
++[设置结构](,节点数目统计)
+
+
++[新建阅读窗口](,camera_lookat)
+
+
+## end
+#25, 2:
+43
+## end
+#28, 779:
++[返回目录](,三维场景)
+运行指令"nautilus 文档/S应用"
+
+动词:...
++[设置动词](,动词)
+名词:...
++[设置名词](,名词)
++[新建阅读窗口](,动词)
+
+Nini, 打开三维模型(文件)
+
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+空间投影::文档\数学问题\空间投影.ftxt
++[打开文件](+新窗口,空间投影)
+空间角::文档\数学问题\空间角.ftxt
++[打开文件](+新窗口,空间角)
+三维旋转::文档\数学问题\三维旋转.ftxt
++[打开文件](+新窗口,三维旋转)
+PPT::文档\S应用\PPT.ftxt
++[打开文件](+新窗口,PPT)
+照片测量::文档\S应用\照片测量.ftxt
++[打开文件](+新窗口,照片测量)
+星图::文档\S应用\星图.txt
++[打开文件](+新窗口,星图)
+
+Nini, 打开PPT(文件)
+Nini, 导入词典的库. 导入词典
+Nini, 导入网页画板的库
+Nini, 导入三维场景的库. Nini, 导入PPT的库
+Nini, 导入图形库的库
+Nini, 导入Blender的库
+Nini, 导入ThreeJS的库
+
+Nini, 打开图形库(文件)
+Nini, 打开空间角(文件)
+Nini, 打开三维旋转(文件)
+Nini, 打开UT3日志(文件)
+Nini, 打开Blender(文件)
+Nini, 打开ThreeJS(文件)
+
+
+那么首先是, 给定物体的欧拉角, 怎么画局域坐标系. 
+用正统的欧拉角定义了. 
+
+
+欧拉角与坐标轴(html):...
+相机投影(html):...
++[新建阅读窗口](,相机投影)
+测试场景:...
+测试场景2:...
+测试场景3:...
++[新建阅读窗口](,测试场景2)
+
+
+
+## end
+#30, 16:
+文档\S应用\网页画板.ftxt
+## end
+#32, 2716:
+<!--
++[H函数](,欧拉角与坐标轴)
++[新建阅读窗口](,欧拉角与坐标轴)
+
+欧拉角示意图(图片)::https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Intermediateframes.svg/800px-Intermediateframes.svg.png
+动态示意图(图片)::https://upload.wikimedia.org/wikipedia/commons/8/85/Euler2a.gif
+-->
+
+<b><u>Euler angles</u></b><br>
+The definition of the Euler angles can be explained by the following graphs,<br>
+%欧拉角示意图
+%动态示意图
+<br>
+The Z axis directions of the local frame is, 
+$$
+\mathbf{Z}=(sin\alpha sin\beta,-cos\alpha sin\beta,cos\beta)
+$$
+The other two are not  very easy. We can make rotation in the \(X\times Y\) plane to calculate the orientation, 
+$$
+\mathbf{N}=(cos\alpha, sin\alpha, 0)
+\\
+\mathbf{M}\equiv \mathbf{N}\times \mathbf{Z} 
+= (-sin\alpha cos\beta,cos\alpha cos\beta,sin\beta)
+$$
+Then, \(X\) and \(Y\) can be expressed by \(N\) and \(M\), 
+$$
+\mathbf{X}=cos\gamma \mathbf{N} + sin\gamma \mathbf{M}
+\\
+\mathbf{X}=
+cos\gamma (cos\alpha, sin\alpha, 0)
++ 
+sin\gamma (-sin\alpha cos\beta,cos\alpha cos\beta,sin\beta)
+\\
+\mathbf{X}=
+(-sin\gamma sin\alpha cos\beta + cos\gamma cos\alpha,
+sin\gamma cos\alpha cos\beta + cos\gamma sin\alpha,
+sin\gamma sin\beta)
+$$
+
+And,
+$$
+\mathbf{Y}=-sin\gamma \mathbf{N} + cos\gamma \mathbf{M}
+\\
+\mathbf{Y}=
+-sin\gamma (cos\alpha, sin\alpha, 0)
++ 
+cos\gamma (-sin\alpha cos\beta,cos\alpha cos\beta,sin\beta)
+\\
+\mathbf{Y}=
+(-cos\gamma sin\alpha cos\beta - sin\gamma cos\alpha,
+cos\gamma cos\alpha cos\beta - sin\gamma sin\alpha,
+cos\gamma sin\beta)
+$$
+<br>
+OK, so the final result is, 
+$$
+\mathbf{X}=
+(-sin\gamma sin\alpha cos\beta + cos\gamma cos\alpha,
+sin\gamma cos\alpha cos\beta + cos\gamma sin\alpha,
+sin\gamma sin\beta)
+\\
+\mathbf{Y}=
+(-cos\gamma sin\alpha cos\beta - sin\gamma cos\alpha,
+cos\gamma cos\alpha cos\beta - sin\gamma sin\alpha,
+cos\gamma sin\beta)
+\\
+\mathbf{Z}=(sin\alpha sin\beta,-cos\alpha sin\beta,cos\beta)
+$$
+<br>
+<br>
+<b><u>Calculate Euler angles</u></b><br>
+It is easy to calculate the \(\alpha\) and \(\beta\) by \(\mathbf{Z}\), and then \(\gamma\) by \(\mathbf{X}\) and \(\mathbf{Y}\). <br>
+If, 
+$$
+\mathbf{Z}=(z_1,z_2,z_3), \mathbf{X}=(x_1,x_2,x_3), \mathbf{Y}=(y_1,y_2,y_3)
+$$
+Then, 
+$$
+\beta=arccos(z_3)
+\\
+cos\alpha=-\frac{z_2}{sin\beta},\ sin\alpha=\frac{z_1}{sin\beta}
+\\\Rightarrow
+\alpha=sign(\frac{z_1}{sin\beta}) arccos(-\frac{z_2}{sin\beta})
+\\
+
+sin\gamma=\frac{x_3}{sin\beta},\ 
+cos\gamma=\frac{y_3}{sin\beta}
+\\\Rightarrow
+\gamma=sign(\frac{x_3}{sin\beta}) arccos(\frac{y_3}{sin\beta})
+
+$$
+
+If \(\beta=0\), then \(\alpha\) and \(\gamma\) are equivalent. In this case, we assume \(\gamma=0\), and, 
+$$
+cos\alpha={x_1},\ sin\alpha={x_2}
+\\\Rightarrow
+\alpha=sign(x_2) arccos(x_1)
+$$
+
+<!--
++[H函数](,欧拉角与坐标轴)
+
+计算欧拉角(M函数):...
+显示局域坐标系(M函数):...
+测试坐标变换(M函数):...
++[M函数](,显示局域坐标系)
+
+-->
+## end
+#35, 113:
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Intermediateframes.svg/800px-Intermediateframes.svg.png
+## end
+#38, 63:
+https://upload.wikimedia.org/wikipedia/commons/8/85/Euler2a.gif
+## end
+#40, 3:
+105
+## end
+#43, 547:
+%{
++[M函数](,显示局域坐标系)
+
+坐标变换(M函数):...
+局域坐标系(M函数):...
+%}
+
+Alpha=linspace(0,0,100);
+Beta=linspace(-45,45,100);
+Gamma=linspace(0,360,100); 
+orig_0=[0,0,0];
+orig_1=[10,0,0];
+orig_2=[0,10,10];
+orig_3=[0,0,10];
+D=1;
+
+for i=1:length(Alpha)
+alpha=Alpha(i);
+beta=Beta(i);
+gamma=Gamma(i); 
+
+show_frame(orig_0,alpha,beta,gamma,D);
+hold on
+show_frame(orig_1,alpha,beta,gamma,3*D);
+show_frame(orig_2,alpha,beta,gamma,2*D);
+show_frame(orig_3,alpha,beta,gamma,10*D);
+hold off
+
+axis equal
+xlabel('X')
+ylabel('Y')
+zlabel('Z')
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,显示局域坐标系)
+%}
+## end
+#46, 807:
+%{
++[M函数](,坐标变换)
+地址::Matlab\space\transform_3D.m
++[保存文本](,坐标变换)
+%}
+
+function [x,y,z]=transform_3D(Dr,alpha,beta,gamma,x0,y0,z0)
+
+% Dr=[1,1,1];
+% alpha=45;
+% beta=45;
+% gamma=0; 
+
+vX=[
+-sind(gamma)*sind(alpha)*cosd(beta)+cosd(gamma)*cosd(alpha),
+sind(gamma)*cosd(alpha)*cosd(beta)+cosd(gamma)*sind(alpha),
+sind(gamma)*sind(beta)]';
+
+vY=[
+-cosd(gamma)*sind(alpha)*cosd(beta)-sind(gamma)*cosd(alpha),
+cosd(gamma)*cosd(alpha)*cosd(beta)-sind(gamma)*sind(alpha),
+cosd(gamma)*sind(beta)]';
+
+vZ=[
+sind(alpha)*sind(beta),
+-cosd(alpha)*sind(beta),
+cosd(beta)]';
+
+T=[vX;vY;vZ];
+
+X0=reshape(x0,numel(x0),1);
+Y0=reshape(y0,numel(y0),1);
+Z0=reshape(z0,numel(z0),1);
+P0=[X0,Y0,Z0];
+
+P=P0*T;
+x=reshape(P(:,1),size(x0))+Dr(1);
+y=reshape(P(:,2),size(y0))+Dr(2);
+z=reshape(P(:,3),size(z0))+Dr(3);
+
+end
+
+%{
++[M函数](,显示局域坐标系)
+%}
+## end
+#49, 716:
+%{
++[返回目录](,局域坐标系)
+地址::Matlab\space\show_frame.m
++[保存文本](,局域坐标系)
+
++[M函数](,局域坐标系)
+%}
+
+function show_frame(orig,alpha,beta,gamma,D)
+% orig=[0,0,10];
+% alpha=30;
+% beta=30;
+% gamma=30; 
+% D=1;
+
+addpath('Matlab\space');
+
+plane_X0=[D/2,D/2,-D/2,-D/2];
+plane_Y0=[-D/2,D/2,D/2,-D/2];
+plane_Z0=zeros(1,4);
+[plane_X,plane_Y,plane_Z]=transform_3D(orig,alpha,beta,gamma,...
+    plane_X0,plane_Y0,plane_Z0);
+
+r_x0=[1,0,0];
+r_y0=[0,1,0];
+r_z0=[0,0,1];
+[r_x,r_y,r_z]=transform_3D([0,0,0],alpha,beta,gamma,...
+    r_x0,r_y0,r_z0);
+
+
+quiver3(orig(1)*ones(1,3),orig(2)*ones(1,3),orig(3)*ones(1,3),r_x,r_y,r_z);
+patch(plane_X,plane_Y,plane_Z,[1,1,1])
+text(orig(1)+r_x,orig(2)+r_y,orig(3)+r_z,{'x','y','z'})
+
+end
+
+
+%{
++[M函数](,局域坐标系)
+%}
+## end
+#52, 27:
+Matlab\space\transform_3D.m
+## end
+#54, 25:
+Matlab\space\show_frame.m
+## end
+#56, 481:
+%{
++[M函数](,测试坐标变换)
+%}
+
+
+addpath('Matlab\space');
+
+Alpha=linspace(0,360,100);
+Beta=linspace(45,45,100);
+Gamma=linspace(0,0,100); 
+orig_0=[0,0,0];
+
+
+
+r=linspace(0,1,10);
+theta=linspace(0,360,30);
+[Theta,R]=meshgrid(theta,r);
+
+X0=R.*cosd(Theta);
+Y0=R.*sind(Theta);
+Z0=R.^2;
+
+
+for i=1:length(Alpha)
+alpha=Alpha(i);
+beta=Beta(i);
+gamma=Gamma(i);
+
+[X,Y,Z]=transform_3D(orig_0,alpha,beta,gamma,X0,Y0,Z0);
+
+plot3(X,Y,Z,'b-',X',Y',Z','b-')
+axis equal
+pause(0.01);
+end
+
+%{
++[M函数](,测试坐标变换)
+%}
+## end
+#59, 17:
+文档\数学问题\空间投影.ftxt
+## end
+#61, 16:
+文档\数学问题\空间角.ftxt
+## end
+#63, 1532:
+<!--
++[H函数](,相机投影)
+-->
+
+<b><u>Projection algorithm</u></b><br>
+We have seven parameters for camera: the pointing (\(\alpha, \beta, \gamma\)), the position (\(r_0=(x_0, y_0, z_0)\)) and the photo distance (\(D\)). <br>
+The projection algorithm is very simple by two steps: <br>
+<br>
+1.Calculate the local coordinate of the objects. <br>
+The axis for the local frame is, 
+$$
+\begin{cases}
+\mathbf{X}=
+(-sin\gamma sin\alpha cos\beta + cos\gamma cos\alpha,
+sin\gamma cos\alpha cos\beta + cos\gamma sin\alpha,
+sin\gamma sin\beta)
+\\
+\mathbf{Y}=
+(-cos\gamma sin\alpha cos\beta - sin\gamma cos\alpha,
+cos\gamma cos\alpha cos\beta - sin\gamma sin\alpha,
+cos\gamma sin\beta)
+\\
+\mathbf{Z}=(sin\alpha sin\beta,-cos\alpha sin\beta,cos\beta)
+\end{cases}
+$$
+
+The coordinate of points will be transformed,
+$$
+(x,y,z)
+\rightarrow
+(x_1,y_1,z_1)
+$$
+<br>
+2.Project points onto the photo. <br>
+$$
+\begin{cases}
+x_2=\frac{D}{z_1}x_1
+\\
+y_2=\frac{D}{z_1}y_1
+\end{cases}
+$$
+<br><br>
+
+
+<b><u>Camera pointing</u></b><br>
+To make the camera easier to use, I want to define a new set of camera parameters. The point \(\vec{p}_0\) is the point where the camera looks at. The angle \(\theta\) is the orientation of the photo. When \(\theta=0\), the x-axis of the photo is horizental. <br>
+It's also easy. 
+$$
+\mathbf{Z}=\vec{p}_0-\vec{r}_0
+\equiv (z_1,z_2,z_3),
+$$$$
+\beta=arccos(z_3)
+\\
+\alpha=sign(\frac{z_1}{sin\beta}) arccos(-\frac{z_2}{sin\beta})
+\\
+\gamma=\theta
+$$
+If \(\beta=0\), then \(\alpha=0\). 
+
+
+
+<!--
++[H函数](,相机投影)
+
+显示相机(M函数):...
+拍照(M函数):...
+-->
+## end
+#66, 288:
+%{
++[返回目录](,显示相机)
+
++[M函数](,显示相机)
+
+show_camera(M函数):...
+camera_lookat(M函数):...
+%}
+
+clf
+
+r0=[-10,-10,10];
+p0=[0,0,0];
+theta=0;
+D=1;
+
+addpath('Matlab\space');
+Eulers=camera_lookat(r0,p0,theta);
+
+
+show_camera(r0,Eulers,D);
+hold on
+plot3(p0(1),p0(2),p0(3),'r+')
+axis equal
+
+%{
++[M函数](,显示相机)
+%}
+## end
+#69, 1045:
+%{
++[返回目录](,show_camera)
+地址::Matlab\space\show_camera.m
++[保存文本](,show_camera)
+%}
+
+function show_camera(r0,Eulers,D)
+%r0=[10,10,10];
+%Eulers=[30,30,30];
+%D=1;
+
+addpath('Matlab\space');
+
+orig_x0=zeros(1,4);
+orig_y0=zeros(1,4);
+orig_z0=zeros(1,4);
+photo_x0=[1,1,-1,-1]/2;
+photo_y0=[-1,1,1,-1]/2;
+photo_z0=D*ones(1,4);
+po_x0=[0,0];
+po_y0=[0,0];
+po_z0=[D,D];
+axis_x0=[1,0];
+axis_y0=[0,1];
+axis_z0=[0,0];
+
+[orig_x,orig_y,orig_z]=transform_3D(r0,Eulers(1),Eulers(2),Eulers(3),...
+orig_x0,orig_y0,orig_z0);
+[photo_x,photo_y,photo_z]=transform_3D(r0,Eulers(1),Eulers(2),Eulers(3),...
+photo_x0,photo_y0,photo_z0);
+[po_x,po_y,po_z]=transform_3D(r0,Eulers(1),Eulers(2),Eulers(3),...
+po_x0,po_y0,po_z0);
+[axis_x,axis_y,axis_z]=transform_3D([0,0,0],Eulers(1),Eulers(2),Eulers(3),...
+axis_x0,axis_y0,axis_z0);
+
+plot3([orig_x;photo_x],[orig_y;photo_y],[orig_z;photo_z],'k')
+hold on
+quiver3(po_x,po_y,po_z,axis_x,axis_y,axis_z)
+patch(photo_x,photo_y,photo_z,[1,1,1]);
+text(po_x+axis_x,po_y+axis_y,po_z+axis_z,{'x','y'})
+hold off
+
+
+end
+
+%{
++[M函数](,show_camera)
+%}
+## end
+#72, 26:
+Matlab\space\show_camera.m
+## end
+#74, 487:
+%{
++[返回目录](,camera_lookat)
+地址::Matlab\space\camera_lookat.m
++[保存M函数](,camera_lookat)
+
++[M函数](,camera_lookat)
+问题(M函数):...
+测试:...
++[新建阅读窗口](,测试)
+%}
+
+function Eulers=camera_lookat(r0,p0,theta)
+%r0=[10,10,10];
+%p0=[0,0,0];
+%theta=0;
+
+Z=p0-r0;
+Z=Z/norm(Z);
+beta=acosd(Z(3));
+if beta==90 && Z(2)>0
+beta=-90;
+end
+
+if beta==0 || beta==180
+    alpha=0;
+else
+    alpha=sign(Z(1)/sind(beta))*acosd(-Z(2)/sind(beta));
+end
+gamma=theta;
+
+Eulers=[alpha,beta,gamma];
+
+end
+
+%{
++[保存M函数](,camera_lookat)
+%}
+## end
+#77, 28:
+Matlab\space\camera_lookat.m
+## end
+#79, 543:
+%{
++[返回目录](,拍照)
+
++[M函数](,拍照)
+
+抛物面(M函数):...
+地平面(M函数):...
+相机轨迹(M函数):...
+camera_click(M函数):...
+
++[M函数](,抛物面)
++[M函数](,相机轨迹)
+%}
+clf
+addpath('Matlab\space');
+
+% camera
+p0=[0,0,0];
+theta=0;
+D=1;
+
+for i=1:size(r,1)
+r0=r(i,:);
+Eulers=camera_lookat(r0,p0,theta);
+[x2,y2]=camera_click(r0,Eulers,D,X,Y,Z);
+
+% plot
+subplot(1,2,1)
+show_camera(r0,Eulers,D);
+hold on
+plot3(p0(1),p0(2),p0(3),'r+')
+plot3(X,Y,Z,'b-',X',Y',Z','b-')
+hold off
+%axis equal
+
+subplot(1,2,2)
+plot(x2,y2,'b-',x2',y2','b-')
+axis equal
+axis([-1,1,-1,1])
+pause(0.01)
+end
+
+%{
++[M函数](,拍照)
+%}
+## end
+#82, 859:
+%{
++[返回目录](,camera_click)
+地址::Matlab\space\camera_click.m
+
++[保存文本](,camera_click)
+
+%}
+
+function [x2,y2]=camera_click(r0,Eulers,D,X,Y,Z)
+
+% object
+%X;
+%Y;
+%Z;
+% camera
+%r0=[0,1,-1];
+%p0=[0,0,0];
+%theta=60;
+%D=1;
+%Eulers=camera_lookat(r0,p0,theta);
+
+
+alpha=Eulers(1);
+beta=Eulers(2);
+gamma=Eulers(3);
+
+vx=[
+-sind(gamma)*sind(alpha)*cosd(beta)+cosd(gamma)*cosd(alpha)
+sind(gamma)*cosd(alpha)*cosd(beta)+cosd(gamma)*sind(alpha)
+sind(gamma)*sind(beta)]';
+
+vy=[
+-cosd(gamma)*sind(alpha)*cosd(beta)-sind(gamma)*cosd(alpha)
+cosd(gamma)*cosd(alpha)*cosd(beta)-sind(gamma)*sind(alpha)
+cosd(gamma)*sind(beta)]';
+
+vz=[
+sind(alpha)*sind(beta)
+-cosd(alpha)*sind(beta)
+cosd(beta)]';
+
+DX=X-r0(1);
+DY=Y-r0(2);
+DZ=Z-r0(3);
+
+X1=vx(1)*DX+vx(2)*DY+vx(3)*DZ;
+Y1=vy(1)*DX+vy(2)*DY+vy(3)*DZ;
+Z1=vz(1)*DX+vz(2)*DY+vz(3)*DZ;
+
+x2=X1./Z1*D;
+y2=Y1./Z1*D;
+
+end
+
+%{
++[M函数](,camera_click)
+%}
+## end
+#85, 27:
+Matlab\space\camera_click.m
+## end
+#87, 414:
+%{
++[返回目录](,抛物面)
+
++[M函数](,抛物面)
+%}
+addpath('Matlab\space');
+
+% object
+Alpha=linspace(0,360,100);
+Beta=linspace(0,45,100);
+Gamma=linspace(0,0,100); 
+orig_0=[0,0,0];
+
+r=linspace(0,1,10);
+theta=linspace(0,360,30);
+[Theta,R]=meshgrid(theta,r);
+
+X0=R.*cosd(Theta);
+Y0=R.*sind(Theta);
+Z0=R.^2;
+
+i=1;
+alpha=Alpha(i);
+beta=Beta(i);
+gamma=Gamma(i);
+[X,Y,Z]=transform_3D(orig_0,alpha,beta,gamma,X0,Y0,Z0);
+
+%{
++[M函数](,抛物面)
+%}
+## end
+#90, 424:
+%{
++[返回目录](,相机轨迹)
++[M函数](,相机轨迹)
+%}
+
+
+theta=linspace(0,3600,1000);
+r0=[0,0,10];
+R=10;
+dx=R*cosd(theta);
+dy=R*sind(theta);
+dz=linspace(0,-20,1000);
+
+r=r0+[dx',dy',dz'];
+
+%r_s=[10,0,10];
+%v=[-10,0,0];
+%L=20;
+%T=L/abs(v(1));
+%t=linspace(0,T,100);
+%g=[0,0,0];
+
+%r=r_s+t'*v+1/2*t'.^2*g;
+
+subplot(1,2,1)
+plot3(r(:,1),r(:,2),r(:,3),0,0,0,'r*')
+axis equal
+
+subplot(1,2,2)
+plot(r(:,1),r(:,3),0,0,'r*')
+axis equal
+
+
+%{
++[M函数](,相机轨迹)
+%}
+## end
+#93, 161:
+%{
++[M函数](,地平面)
+%}
+
+x=linspace(-100,100,50);
+y=linspace(-100,100,50);
+
+[Y,X]=meshgrid(y,x);
+Z=0*ones(size(X));
+
+subplot(1,2,1);
+
+plot3(X,Y,Z,'r-',X',Y',Z','r-')
+
+## end
+#95, 3:
+122
+## end
+#98, 69:
++[返回目录](,三维模型)
+
+Nini, 打开三维模型(文件)
+
+模型描述(html):...
+patch测试(M函数):...
+
+
+
+
+## end
+#100, 43:
+<!--
++[H函数](,模型描述)
++[新建阅读窗口](,模型描述)
+-->
+
+
+
+
+## end
+#103, 481:
+%{
++[M函数](,patch测试)
+
+含义测试(M函数):...
+fill_3D(M函数):...
+旋转模型(M函数):...
++[新建阅读窗口](,旋转模型)
+
+model_para_cylindrical_mirror(M函数):...
+model_round_mirror(M函数):...
+model_rectangle_mirror(M函数):...
+model_lens(M函数):...
++[修改内容](model_round_mirror,model_rectangle_mirror)
+%}
+clf
+addpath('Matlab/space');
+
+% mirror
+a=0.01;
+W=20;
+H=1;
+D=10;
+
+hold on
+model_para_cylindrical_mirror(a,W,H,D,[90,90,0],[0,0,0])
+model_para_cylindrical_mirror(a,W,H,D,[-90,90,0],[150,0,0])
+
+axis equal
+%{
++[M函数](,patch测试)
+%}
+## end
+#106, 186:
+%{
++[M函数](,含义测试)
+
+含义测试(M函数):...
+%}
+clf
+
+theta=linspace(0,360,60);
+x=[0,cosd(theta)];
+y=[0,sind(theta)];
+z=[zeros(size(x))];
+z(1)=1;
+
+patch([x;x]',[y;y]',[z;z+0.5]',[1,0,1]);
+axis equal
+
+
+## end
+#109, 325:
+%{
++[M函数](,fill_3D)
+地址::Matlab\space\fill_3D.m
+Nini, 打开三维场景的fill_3D(节点)
+记住fill_3D(节点)
++[保存文本](,fill_3D)
+%}
+function fill_3D(x1,y1,z1,x2,y2,z2,color)
+
+for i=1:length(x1)-1
+    patch([x1(i),x1(i+1),x2(i+1),x2(i)],[y1(i),y1(i+1),y2(i+1),y2(i)],...
+    [z1(i),z1(i+1),z2(i+1),z2(i)],color,'EdgeAlpha',0,'FaceAlpha',0.5)
+end
+
+end
+
+## end
+#112, 22:
+Matlab\space\fill_3D.m
+## end
+#114, 1577:
+%{
++[M函数](,model_para_cylindrical_mirror)
+地址::Matlab\space\model_para_cylindrical_mirror.m
+
++[保存文本](,model_para_cylindrical_mirror)
+%}
+
+function model_para_cylindrical_mirror(a,W,D,H,Eulers,orig_0)
+
+% mirror
+%a=0.01;
+%W=20;
+%H=5;
+%D=1;
+
+x=linspace(-W/2,W/2,10);
+
+x10=x;
+y10=zeros(size(x10))+H/2;
+z10=a*x10.^2;
+
+x20=x;
+y20=zeros(size(x20))-H/2;
+z20=a*x20.^2;
+
+x30=x;
+y30=zeros(size(x10))-H/2;
+z30=zeros(size(x10))-D;
+
+x40=x;
+y40=zeros(size(x10))+H/2;
+z40=zeros(size(x10))-D;
+
+
+alpha=Eulers(1);
+beta=Eulers(2);
+gamma=Eulers(3);
+
+[x1,y1,z1]=transform_3D(orig_0,alpha,beta,gamma,x10,y10,z10);
+[x2,y2,z2]=transform_3D(orig_0,alpha,beta,gamma,x20,y20,z20);
+[x3,y3,z3]=transform_3D(orig_0,alpha,beta,gamma,x30,y30,z30);
+[x4,y4,z4]=transform_3D(orig_0,alpha,beta,gamma,x40,y40,z40);
+
+
+
+end1_x=[x1(1),x2(1);x4(1),x3(1)];
+end1_y=[y1(1),y2(1);y4(1),y3(1)];
+end1_z=[z1(1),z2(1);z4(1),z3(1)];
+
+end2_x=[x1(end),x2(end);x4(end),x3(end)];
+end2_y=[y1(end),y2(end);y4(end),y3(end)];
+end2_z=[z1(end),z2(end);z4(end),z3(end)];
+
+
+plot3([x1;x2;x3;x4]',[y1;y2;y3;y4]',[z1;z2;z3;z4]','k-',...
+end1_x,end1_y,end1_z,'k',end1_x',end1_y',end1_z','k',...
+end2_x,end2_y,end2_z,'k',end2_x',end2_y',end2_z','k'...
+)
+
+fill_3D(x1,y1,z1,x2,y2,z2,[0.9,0.9,1]);
+fill_3D(x2,y2,z2,x3,y3,z3,[0.9,0.9,1]);
+fill_3D(x3,y3,z3,x4,y4,z4,[0.9,0.9,1]);
+fill_3D(x4,y4,z4,x1,y1,z1,[0.9,0.9,1]);
+fill_3D(end1_x(1:2),end1_y(1:2),end1_z(1:2),...
+    end1_x(3:4),end1_y(3:4),end1_z(3:4),[0.9,0.9,1]);
+fill_3D(end2_x(1:2),end2_y(1:2),end2_z(1:2),...
+    end2_x(3:4),end2_y(3:4),end2_z(3:4),[0.9,0.9,1]);
+
+end
+
+%{
++[M函数](,patch测试)
+%}
+## end
+#117, 44:
+Matlab\space\model_para_cylindrical_mirror.m
+## end
+#119, 657:
+%{
++[M函数](,旋转模型)
+%}
+clf
+
+addpath('Matlab\space');
+
+N=1;
+Alpha=linspace(0,360,N);
+Beta=linspace(45,45,N);
+Gamma=linspace(0,0,N); 
+orig_0=[0,0,0];
+
+
+
+r=linspace(0,1,10);
+theta=linspace(0,360,30);
+[Theta,R]=meshgrid(theta,r);
+
+X0=R.*cosd(Theta);
+Y0=R.*sind(Theta);
+Z0=R.^2;
+
+
+% mirror
+a=0.01;
+W=20;
+H=5;
+D=1;
+
+
+
+for i=1:length(Alpha)
+alpha=Alpha(i);
+beta=Beta(i);
+gamma=Gamma(i);
+
+% model_para_cylindrical_mirror(a,W,H,D,[alpha,beta,gamma],orig_0);
+% model_round_mirror(10,1,[alpha,beta,gamma],orig_0);
+% model_rectangle_mirror(10,10,1,[alpha,beta,gamma],orig_0);
+model_lens(1,0.1,2,2,[alpha,beta,gamma],orig_0);
+axis equal
+
+pause(0.01)
+end
+%{
++[M函数](,旋转模型)
+%}
+## end
+#121, 3:
+139
+## end
+#124, 683:
+%{
++[M函数](,model_round_mirror)
+地址::Matlab\space\model_round_mirror.m
+
++[保存文本](,model_round_mirror)
+代码测试(M函数):...
+%}
+
+function model_round_mirror(R,D,Eulers,orig_0)
+
+% mirror
+%R=10;
+%D=1;
+%Eulers=[0,0,0];
+%orig_0=[0,75,0];
+
+
+t=linspace(0,360,100);
+
+x10=R*cosd(t);
+y10=R*sind(t);
+z10=0*ones(size(t));
+
+x20=x10;
+y20=y10;
+z20=-D*ones(size(t));
+
+alpha=Eulers(1);
+beta=Eulers(2);
+gamma=Eulers(3);
+
+[x1,y1,z1]=transform_3D(orig_0,alpha,beta,gamma,x10,y10,z10);
+[x2,y2,z2]=transform_3D(orig_0,alpha,beta,gamma,x20,y20,z20);
+
+plot3([x1;x2]',[y1;y2]',[z1;z2]','k-')
+
+patch(x1,y1,z1,[0.9,0.9,1]);
+patch(x2,y2,z2,[0.9,0.9,1]);
+fill_3D(x1,y1,z1,x2,y2,z2,[0.9,0.9,1]);
+
+end
+
+%{
++[M函数](,patch测试)
+%}
+## end
+#127, 33:
+Matlab\space\model_round_mirror.m
+## end
+#129, 106:
+%{
++[M函数](,代码测试)
+%}
+
+R=10;
+D=1;
+Eulers=[45,90,0];
+orig_0=[0,75,0];
+
+model_round_mirror(R,D,Eulers,orig_0)
+
+## end
+#132, 713:
+%{
++[M函数](,model_rectangle_mirror)
+地址::Matlab\space\model_rectangle_mirror.m
+
++[保存文本](,model_rectangle_mirror)
+代码测试(M函数):...
+%}
+
+function model_rectangle_mirror(W,H,D,Eulers,orig_0)
+
+% mirror
+%W=1;
+%H=1;
+%D=1;
+%Eulers=[0,0,0];
+%orig_0=[0,0,0];
+
+x10=[W/2,W/2,-W/2,-W/2,W/2];
+y10=[-H/2,H/2,H/2,-H/2,-H/2];
+z10=0*ones(size(x10));
+
+x20=x10;
+y20=y10;
+z20=-D*ones(size(x20));
+
+alpha=Eulers(1);
+beta=Eulers(2);
+gamma=Eulers(3);
+
+[x1,y1,z1]=transform_3D(orig_0,alpha,beta,gamma,x10,y10,z10);
+[x2,y2,z2]=transform_3D(orig_0,alpha,beta,gamma,x20,y20,z20);
+
+plot3([x1;x2]',[y1;y2]',[z1;z2]','k-')
+
+patch(x1,y1,z1,[0.9,0.9,1]);
+patch(x2,y2,z2,[0.9,0.9,1]);
+fill_3D(x1,y1,z1,x2,y2,z2,[0.9,0.9,1]);
+
+end
+
+%{
++[M函数](,patch测试)
+%}
+## end
+#135, 37:
+Matlab\space\model_rectangle_mirror.m
+## end
+#137, 117:
+%{
++[M函数](,代码测试)
+%}
+
+W=10;
+H=10;
+D=1;
+Eulers=[45,90,0];
+orig_0=[0,0,0];
+
+model_rectangle_mirror(W,H,D,Eulers,orig_0)
+
+## end
+#139, 3:
+141
+## end
+#141, 3:
+162
+## end
+#144, 22:
+文档\输出\20210704\创建物体.py
+## end
+#146, 22:
+文档\输出\20210704\设置物体.py
+## end
+#148, 554:
++[返回目录](,搭建光路模型)
+
+curve参考::https://behreajj.medium.com/scripting-curves-in-blender-with-python-c487097efd13
+Bezier curve::https://en.wikipedia.org/wiki/B%C3%A9zier_curve
+Nurbs curve::https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline
+curve obj::https://docs.blender.org/api/current/bpy.types.Curve.html
++[打开网页](,curve参考)
+
+加modifier的方法, 
+object.modifiers.new(...)
+modifiers::https://docs.blender.org/api/current/bpy.types.Modifier.html#bpy.types.Modifier
++[打开网页](,modifiers)
+
+modifiers使用方法举例(P函数):...
+
+
+
+画路径(P函数):...
+函数曲线(P函数):...
+透镜示例(P函数):...
+
+
+## end
+#150, 4141:
+"""
++[返回目录](,画路径)
+地址::文档\输出\20210704\画路径.py
++[保存文本](,画路径)
+
+"""
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+
+
+# Create curve and cache reference.
+ops.curve.primitive_bezier_circle_add(enter_editmode=False)
+curve = context.active_object
+curve.name = 'Heart Curve'
+bez_points = curve.data.splines[0].bezier_points
+
+
+# Set handles to desired handle type.
+for bez_point in bez_points:
+    bez_point.handle_left_type = 'FREE'
+    bez_point.handle_right_type = 'FREE'
+
+
+# Left point.
+bez_points[0].co = Vector((-1.0, 0.3, 0.0))
+bez_points[0].handle_left = Vector((-1.0, -0.25, 0.0))
+bez_points[0].handle_right = Vector((-1.0, 1.0, 0.0))
+
+
+# Top-middle point.
+bez_points[1].co = Vector((0.0, 0.5, 0.0))
+bez_points[1].handle_left = Vector((0.0, 1.0, 0.0))
+bez_points[1].handle_right = Vector((0.0, 1.0, 0.0))
+
+
+# Right point.
+bez_points[2].co = Vector((1.0, 0.3, 0.0))
+bez_points[2].handle_left = Vector((1.0, 1.0, 0.0))
+bez_points[2].handle_right = Vector((1.0, -0.25, 0.0))
+
+
+# Bottom point.
+bez_points[3].co = Vector((0.0, -1.0, 0.0))
+bez_points[3].handle_left = Vector((0.5, -0.5, 0.0))
+bez_points[3].handle_right = Vector((-0.5, -0.5, 0.0))
+
+
+
+# Instead of replacing the curve with a mesh, keep the original curve.
+ops.object.convert(target='MESH', keep_original=True)
+
+
+
+# Cache reference to heart object.
+heart_mesh = context.active_object
+heart_mesh.name = 'Heart Mesh'
+
+# Switch to edit mode.
+ops.object.mode_set(mode='EDIT')
+
+# Select all the vertices on the boundary of the mesh.
+ops.mesh.select_all(action='SELECT')
+
+# Fill in with a face.
+ops.mesh.edge_face_add()
+
+# Convert n-gon face to triangles.
+# Ngon method options: ['BEAUTY', 'CLIP']
+ops.mesh.quads_convert_to_tris(ngon_method='CLIP')
+
+# Heart has bilateral symmetry.
+ops.mesh.symmetrize(direction='NEGATIVE_X', threshold=0.0001)
+
+# Reselect all faces.
+ops.mesh.select_all(action='SELECT')
+
+# Convert triangles to quadrilaterals.
+ops.mesh.tris_convert_to_quads(face_threshold=1.396264, shape_threshold=1.396264)
+
+# Inset faces.
+iter_range = range(0, 2, 1)
+
+for i in iter_range:
+    ops.mesh.inset(thickness=0.25, use_relative_offset=True)
+
+# Switch to object mode.
+ops.object.mode_set(mode='OBJECT')
+
+# Add solidify modifier.
+solidify = heart_mesh.modifiers.new(type='SOLIDIFY', name='Solidify')
+solidify.offset = 0.0
+solidify.thickness = 0.125
+
+
+
+# Add Subsurface modifier.
+subsurf = heart_mesh.modifiers.new(type='SUBSURF', name='Subsurf')
+subsurf.levels = subsurf.render_levels = 3
+
+
+
+
+
+# Left point.
+bez_points[0].co = Vector((0.0, 0.0, 0.0))
+bez_points[0].handle_left = Vector((0.0, -0.25, 0.0))
+bez_points[0].handle_right = Vector((0.0, 0.25, 0.0))
+
+
+# Top-middle point.
+bez_points[1].co = Vector((0.0, 0.5, 0.0))
+bez_points[1].handle_left = Vector((0.0, 0.0, 0.0))
+bez_points[1].handle_right = Vector((0.0, 1.0, 0.0))
+
+
+# Right point (same as previous).
+
+# Bottom point.
+bez_points[3].co = Vector((0.0, -1.0, 0.0))
+bez_points[3].handle_left = Vector((0.5, -0.5, 0.0))
+bez_points[3].handle_right = Vector((0.0, -0.25, 0.0))
+
+
+
+
+
+# Create mesh.
+ops_object.mode_set(mode='OBJECT')
+ops_object.convert(target='MESH', keep_original=True)
+heart_mesh = context.active_object
+heart_mesh_data = heart_mesh.data
+heart_mesh_data.name = heart_mesh.name = 'Heart Mesh'
+
+# Grid Fill.
+# Span is an integer within the rage range [1, 1000]. Set it to zero to disable.
+# Offset is an integer within the range [-1000, 1000]. Set it to zero to disable.
+ops_object.mode_set(mode='EDIT')
+ops_mesh.select_all(action='SELECT')
+ops.mesh.fill_grid(span=5, offset=0, use_interp_simple=False)
+ops_object.mode_set(mode='OBJECT')
+
+
+# Add mirror modifier.
+mirror = heart_mesh.modifiers.new(name='Mirror', type='MIRROR')
+
+
+# Add solidify modifier.
+solidify = heart_mesh.modifiers.new(name='Solidify', type='SOLIDIFY')
+solidify.thickness = 0.025
+
+# Add subsurface modifier.
+subsurf = heart_mesh.modifiers.new(name='Subsurf', type='SUBSURF')
+subsurf.levels = 2
+subsurf.render_levels = 4
+
+
+
+# Apply mirror and solidify modifiers.
+ops_object.modifier_apply(apply_as='DATA', modifier='Mirror')
+ops_object.modifier_apply(apply_as='DATA', modifier='Solidify')
+
+
+
+
+
+
+## end
+#153, 21:
+文档\输出\20210704\画路径.py
+## end
+#155, 80:
+https://behreajj.medium.com/scripting-curves-in-blender-with-python-c487097efd13
+## end
+#157, 828:
+"""
++[返回目录](,函数曲线)
++[新建阅读窗口](,函数曲线)
+地址::文档\输出\20210704\函数曲线.py
++[保存文本](,函数曲线)
+
+"""
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+N=200
+x=np.linspace(-2,2,N)
+y=(x)**3
+
+ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=N-2)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Curve"
+bez_points = curve.data.splines[0].bezier_points
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],0))
+    if i>0:
+        bez_points[i].handle_left_type='VECTOR'
+    if i<N-1:
+        bez_points[i].handle_right_type='VECTOR'
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Y'
+screw.angle=np.pi
+screw.render_steps=64
+screw.steps=64
+
+
+## end
+#160, 22:
+文档\输出\20210704\函数曲线.py
+## end
+#161, 3:
+180
+## end
+#164, 47:
+https://en.wikipedia.org/wiki/B%C3%A9zier_curve
+## end
+#166, 59:
+https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline
+## end
+#168, 57:
+https://docs.blender.org/api/current/bpy.types.Curve.html
+## end
+#170, 79:
+https://docs.blender.org/api/current/bpy.types.Modifier.html#bpy.types.Modifier
+## end
+#172, 122:
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Y'
+screw.angle=np.pi
+screw.render_steps=64
+screw.steps=64
+## end
+#175, 841:
+"""
++[返回目录](,透镜示例)
++[新建阅读窗口](,透镜示例)
+地址::文档\输出\20210704\透镜示例.py
++[保存文本](,透镜示例)
+
+"""
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+N=200
+x=np.linspace(0,2,N)
+z=(x/10)**2
+y=0*x
+
+ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=N-2)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Curve"
+bez_points = curve.data.splines[0].bezier_points
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],z[i]))
+    if i>0:
+        bez_points[i].handle_left_type='VECTOR'
+    if i<N-1:
+        bez_points[i].handle_right_type='VECTOR'
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Z'
+screw.angle=2*np.pi
+screw.render_steps=64
+screw.steps=64
+
+
+## end
+#178, 22:
+文档\输出\20210704\透镜示例.py
+## end
+#179, 3:
+181
+## end
+#181, 3:
+196
+## end
+#184, 988:
+%{
++[M函数](,model_lens)
++[新建阅读窗口](,model_lens)
+地址::Matlab\space\model_lens.m
++[保存文本](,model_lens)
+
+参考::文档\S应用\光路场景.ftxt
+的(参考,镜子)->的(镜子,验证透镜)->+[H函数](,镜子)
+
+框架:...
+代码测试(M函数):...
+
+%}
+
+function model_lens(D,dc,R1,R2,Eulers,orig_0)
+
+%D=1;
+%dc=0.1;
+%R1=2;
+%R2=-20;
+
+%orig_0=[0,0,10];
+%Eulers=[90,90,0];
+
+
+N=20;
+N2=21;
+
+theta1=asind(D/2/R1);
+theta2=asind(D/2/R2);
+de=dc-R1*(1-cosd(theta1))-R2*(1-cosd(theta2));
+z01=-R1*cosd(theta1);
+z02=R2*cosd(theta2)-de;
+
+
+t1=linspace(0,theta1,N);
+t2=linspace(-theta2,0,N)+180;
+
+r1=R1*sind(t1);
+z1=R1*cosd(t1)+z01;
+r2=R2*sind(t2);
+z2=R2*cosd(t2)+z02;
+
+r=[r1,r2];
+z=[z1,z2];
+
+t=linspace(0,360,N2);
+[R,T]=meshgrid(r,t);
+[Z,T]=meshgrid(z,t);
+
+X=R.*cosd(T);
+Y=R.*sind(T);
+
+alpha=Eulers(1);
+beta=Eulers(2);
+gamma=Eulers(3);
+
+[X,Y,Z]=transform_3D(orig_0,alpha,beta,gamma,X,Y,Z);
+
+plot3(X(:,N),Y(:,N),Z(:,N),'k',X(:,N+1),Y(:,N+1),Z(:,N+1),'k')
+for i=1:2*N-1
+    fill_3D(X(:,i),Y(:,i),Z(:,i),X(:,i+1),Y(:,i+1),Z(:,i+1),[0.9,0.9,1]);
+end
+
+end
+
+%{
++[M函数](,model_lens)
+%}
+## end
+#187, 25:
+Matlab\space\model_lens.m
+## end
+#189, 16:
+文档\S应用\光路场景.ftxt
+## end
+#191, 774:
+%{
++[M函数](,框架)
++[新建阅读窗口](,model_lens)
+地址::Matlab\space\model_lens.m
++[保存文本](,model_lens)
+
+参考::文档\S应用\光路场景.ftxt
+的(参考,镜子)->的(镜子,验证透镜)->+[H函数](,镜子)
+
+框架:...
+
+%}
+
+D=1;
+dc=0.1;
+R1=2;
+R2=-20;
+N=20;
+N2=21;
+
+
+theta1=asind(D/2/R1);
+theta2=asind(D/2/R2);
+de=dc-R1*(1-cosd(theta1))-R2*(1-cosd(theta2));
+z01=-R1*cosd(theta1);
+z02=R2*cosd(theta2)-de;
+
+
+t1=linspace(0,theta1,N);
+t2=linspace(-theta2,0,N)+180;
+
+r1=R1*sind(t1);
+z1=R1*cosd(t1)+z01;
+r2=R2*sind(t2);
+z2=R2*cosd(t2)+z02;
+
+r=[r1,r2];
+z=[z1,z2];
+
+t=linspace(0,360,N2);
+[R,T]=meshgrid(r,t);
+[Z,T]=meshgrid(z,t);
+
+X=R.*cosd(T);
+Y=R.*sind(T);
+
+
+
+for i=1:2*N-1
+    plot3(X,Y,Z,'k',X',Y',Z','k',X(:,[i,i+1]),Y(:,[i,i+1]),Z(:,[i,i+1]),'r')
+    axis equal
+    axis([-0.5,0.5,-0.5,0.5,-0.5,0.5])
+    
+    pause(0.1)
+end
+
+%{
++[M函数](,框架)
+%}
+## end
+#193, 127:
+%{
++[M函数](,代码测试)
+%}
+
+
+
+D=1;
+dc=0.1;
+R1=2;
+R2=-20;
+
+
+orig_0=[0,0,10];
+Eulers=[45,45,0];
+
+model_lens(D,dc,R1,R2,Eulers,orig_0)
+
+
+
+## end
+#195, 3:
+197
+## end
+#197, 3:
+199
+## end
+#199, 3:
+208
+## end
+#202, 236:
+%{
++[返回目录](,计算欧拉角)
++[M函数](,计算欧拉角)
+
+Eulers:...
+%}
+
+addpath('Matlab\space');
+
+Dr=[0,0,0];
+alpha0=90;
+beta0=10;
+gamma0=90;
+
+[x0,y0,z0]=transform_3D(Dr,alpha0,beta0,gamma0,0,0,1);
+[alpha,beta,gamma]=Eulers(x0,y0,z0)
+
+
+
+%{
++[M函数](,计算欧拉角)
+%}
+
+## end
+#205, 298:
+%{
++[返回目录](,Eulers)
+
+地址::Matlab\space\Eulers.m
++[保存文本](,Eulers)
+%}
+
+function [alpha,beta,gamma]=Eulers(x0,y0,z0)
+x=x0./sqrt(x0.^2+y0.^2+z0.^2);
+y=y0./sqrt(x0.^2+y0.^2+z0.^2);
+z=z0./sqrt(x0.^2+y0.^2+z0.^2);
+beta=acosd(z);
+alpha=sign(x./sind(beta)).*acosd(-y./sind(beta));
+gamma=zeros(size(z));
+end
+
+
+## end
+#207, 21:
+Matlab\space\Eulers.m
+## end
+#208, 3:
+213
+## end
+#210, 3:
+218
+## end
+#212, 3:
+214
+## end
+#215, 539:
+%{
++[返回目录](,测试公式)
++[M函数](,测试公式)
+
+参考::文档\S应用\三维建模.ftxt
++[删除结构](,参考)
++[打开文件](+新窗口,参考)
+%}
+
+clf
+addpath('Matlab\space');
+
+% camera
+p0=[0,0,0];
+r0=[0,-2,1.8];
+theta=0;
+D=1;
+
+X=[-2,-2,-2;2,2,2];
+Y=[0,1,1;0,1,1];
+Z=[0,0,1;0,0,1];
+
+
+Eulers=camera_lookat(r0,p0,theta);
+[x2,y2]=camera_click(r0,Eulers,D,X,Y,Z);
+
+% plot
+subplot(1,2,1)
+show_camera(r0,Eulers,D);
+hold on
+plot3(p0(1),p0(2),p0(3),'r+')
+plot3(X,Y,Z,'b-',X',Y',Z','b-')
+hold off
+axis equal
+
+subplot(1,2,2)
+plot(x2,y2,'b-',x2',y2','b-')
+axis equal
+axis([-1,1,-1,1])
+
+
+
+
+
+%{
++[M函数](,测试公式)
+%}
+## end
+#217, 3:
+222
+## end
+#219, 3:
+243
+## end
+#221, 536:
+"""
++[返回目录](,%[标题])
+地址::output\scene.py
++[保存文本](,%[标题])
+
+"""
+
+
+import bpy
+from math import pi, sin, cos
+import colorsys
+import mathutils
+
+# 太阳
+# Create light datablock
+light_data = bpy.data.lights.new(name="my-light-data", type='SUN')
+light_data.energy = 100
+# Create new object, pass the light data 
+light_object = bpy.data.objects.new(name="my-light", object_data=light_data)
+# Link object to collection in context
+bpy.context.collection.objects.link(light_object)
+# Change light position
+light_object.location = (0, 0, 90)
+
+%[临时文本]
+
+
+## end
+#223, 324:
+"""
++[返回目录](,描述三维场景)
++[显示动词结构](,描述三维场景)
+
+P代码:...
+
+"""
++描述三维场景(_场景,_代码)->+[del](,+描述三维场景)...
+->的(描述三维场景,P代码)->+[临时文本](,)...
+->[]{
+    []->的(_场景,相机)->+[结构转Blender](相机,+[临时文本])...
+    ->的(_场景,主体)=>是(_物体,主体)=>+[结构转Blender](_物体,+[临时文本])
+}...
+
+->+[标题](_代码,)...
+->+[模板文本](P代码,_代码)...
+->+[.](+[模板文本],+[标题])->+[.](+[模板文本],+[临时文本])
+
+
+
+## end
+#224, 489:
+
+# 相机
+pos=[%位置]
+P0=(%目标)
+
+looking_direction = mathutils.Vector(pos) - mathutils.Vector(P0)
+rot_quat = looking_direction.to_track_quat('Z', 'Y')
+Camera_rte = rot_quat.to_euler()
+camera_data = bpy.data.cameras.new(name='Camera')
+camera_object = bpy.data.objects.new('Camera', camera_data)
+bpy.context.scene.collection.objects.link(camera_object)
+bpy.data.objects['Camera'].location=(pos[0],pos[1],pos[2])
+bpy.data.objects['Camera'].rotation_euler=(Camera_rte[0],Camera_rte[1],Camera_rte[2])
+
+## end
+#226, 226:
+"""
++[返回目录](,相机)
++[显示动词结构](,相机)
+
+P代码:...
+
+是([动词库],动词)->+[打开文件](+新窗口,动词)
+
+"""
++相机(_结构,_代码)->+[del](,+相机)...
+->的(相机,P代码)...
+->在(_结构,_位置)->看向(_结构,_位置2)...
+
+->+[模板文本](P代码,_代码)...
+->+[.]"位置"(+[模板文本],_位置)->+[.]"目标"(+[模板文本],_位置2)
+
+
+
+
+## end
+#227, 217:
+
+# %[标题]
+bpy.ops.mesh.primitive_plane_add(size=1)
+bpy.context.selected_objects[0].name='%[标题]'
+pos=[%位置]
+bpy.context.selected_objects[0].location=(pos[0],pos[1],pos[2])
+bpy.context.selected_objects[0].scale=(%宽,%长,1)
+
+## end
+#229, 298:
+"""
++[返回目录](,平面)
++[显示动词结构](,平面)
+
+P代码:...
+
+是([动词库],动词)->+[打开文件](+新窗口,动词)
+
+"""
++平面(_结构,_代码)->+[del](,+平面)...
+->的(平面,P代码)...
+->的(_结构,长)->的(_结构,宽)->的(_结构,中心)->在(中心,_位置)...
+->+[标题](_结构,)...
+
+->+[模板文本](P代码,_代码)...
+->+[.](+[模板文本],+[标题])...
+->+[.](+[模板文本],长)->+[.](+[模板文本],宽)...
+->+[.]"位置"(+[模板文本],_位置)
+
+
+
+
+## end
+#230, 223:
+
+# %[标题]
+bpy.ops.mesh.primitive_cube_add()
+bpy.context.selected_objects[0].name='%[标题]'
+pos=[%空间点]
+bpy.context.selected_objects[0].location=(pos[0],pos[1],pos[2]+%高/2)
+bpy.context.selected_objects[0].scale=(%宽/2,%长/2,%高/2)
+
+## end
+#232, 321:
+"""
++[返回目录](,立方体)
++[显示动词结构](,立方体)
+
+P代码:...
+
+是([动词库],动词)->+[打开文件](+新窗口,动词)
+
+"""
++立方体(_结构,_代码)->+[del](,+立方体)...
+->的(立方体,P代码)...
+->的(_结构,高)->的(_结构,长)->的(_结构,宽)->在(_结构,_位置)...
+->+[标题](_结构,)...
+
+->+[模板文本](P代码,_代码)...
+->+[.](+[模板文本],+[标题])...
+->+[.](+[模板文本],长)->+[.](+[模板文本],宽)->+[.](+[模板文本],高)...
+->+[.]"空间点"(+[模板文本],_位置)
+
+
+
+
+## end
+#236, 38:
++[返回目录](,库)
+
+
+立方体:...
+平面:...
+相机:...
+
+
+
+## end
+#238, 373:
+"""
++[返回目录](,结构转Blender)
++[显示动词结构](,结构转Blender)
+库:...
+
+"""
+
++结构转Blender(_结构,_代码)->+[del](,+结构转Blender)...
+->的(结构转Blender,库)->+[临时文本]->[]{
+    []:->立方体(_结构,)->的(库,立方体#1)->+[做](_结构,+[临时文本])->+[code](+[做],立方体#1),
+    ->平面(_结构,)->的(库,平面#1)->+[做](_结构,+[临时文本])->+[code](+[做],平面#1),
+    ->[is](_结构,相机)->的(库,相机#1)->+[做](_结构,+[临时文本])->+[code](+[做],相机#1)
+}->+[增加内容](+[临时文本],_代码)
+
+
+
+
+
+## end
+#241, 362:
++[返回目录](,动词)
++[粘贴](,动词)
+Nini, 打开PPT(文件)
+
+结构转Blender_del:...
++[修改标题]"结构转Blender_del"(,结构转Blender)
+描述三维场景:...
+
+显示空间图片:...
+显示三维图形:...
+显示三维曲面:...
+显示三维曲面的"显示三维图形"替换为"显示三维曲面"
+显示三维场景:...
++[新建阅读窗口](,显示三维场景)
+
+图形生成物体:...
+
+
+显示物体名称:...
+更新立方体:...
+更新网格:...
+更新物体_规则:...
+
+朝向:...
+相对:...
+旋转:...
+空间映射:...
+垂直:...
+
+拍照_del:...
++[修改标题]"拍照_del"(,拍照)
+设置相机参数:...
+
+描述:...
++[新建阅读窗口](,描述)
+
+
+
+## end
+#243, 3:
+245
+## end
+#245, 3:
+316
+## end
+#248, 15:
+文档\S应用\PPT.ftxt
+## end
+#250, 1133:
++[返回目录](,测试场景)
++[删除结构](,测试场景)
++[显示星图](,测试场景)
+
+
+有一个XY平面, 有一个立方体, 有一个相机. 
++XY平面->+立方体->+相机
+它们都在一个空间点上, 朝着某个方向
+测试场景=>的(测试场景,_物体)=>+在(_物体,+空间点)->+朝向(_物体,+方向)...
+->+空间点"0,0,0"->+方向"0,0,0"
+
+XY平面和立方体有X,Y,Z坐标, 它们的样式都是网格
+XY平面->立方体=>[那](_,)=>+的(_,+X)->+的(_,+Y)->+的(_,+Z)...
+->+样式"网格"(_,)
+
+
++[更新立方体]"3,1,0.04"(,XY平面)
+朝向(立方体,方向)->+[修改内容]"0,0,0"(,方向)
++[更新立方体]"0.5,0.1,0.5"(,立方体)
+在(XY平面,空间点)->+[修改内容]"-1.5,0.5,0"(,空间点)
++[相对]"0,0.5,-0.5"(XY平面,立方体)
+
+相机的类型是相机吧. 或者, 相机也可以直接XYZ呀... 
+相机也有XYZ. 
++的(相机,+X)->+的(相机,+Y)->+的(相机,+Z)
++[相对]"-6,3,5"(XY平面,相机)
+朝向(相机,方向)->+[修改内容]"0,0,0"(,方向)
++的(相机,+形状)->+的(+形状,+D)->+D"1"
++[更新网格]"1,1,1"(相机,相机)
++[朝向](相机,立方体)
+[位置](相机,)->是([位置],_空间点#1)
+
+相片场景:...
++[新建阅读窗口](,相片场景)
+的(相片场景,底板)->+[拍照](相机,XY平面)->+[相片](+[拍照],底板)
+的(相片场景,立方体)->+[拍照](相机,立方体#0)->+[相片](+[拍照],立方体)
+
+句子::的(相片场景,A)->的(相片场景,B)->的(相片场景,C)->的(相片场景,D)...
+->的(相片场景,相片)...
+->:<描述"以四边形(A,B,C,D)作为相片中的参考平面, 设置相机参数">
++[回答](测试场景,句子)
++[回答]"的(相片场景,相片)->的(相片场景,底板)...
+->:<描述\"相机拍摄XY平面, 显示为相片上的底板\">"(测试场景,)
++[回答]"的(相片场景,相片)->的(相片场景,立方体#2)...
+->:<描述\"相机拍摄立方体, 显示为相片上的立方体#2\">"(测试场景,)
+
++[显示PPT场景]"1"(,相片场景)
++[显示三维场景]"2"(,测试场景)
+
+在(相机,空间点)->+[复制内容](,空间点)
+朝向(相机,方向)->+[复制内容](,方向)
+
+## end
+#269, 59:
+-27.73232875275092, 50.64828866565346, -0.30776320780374067
+## end
+#270, 58:
+-2.907704081479481, -6.024253426461256, -1.139908100021243
+## end
+#273, 5:
+0,0,0
+## end
+#274, 14:
+0.0, 0.5, -0.5
+## end
+#277, 5:
+0,0,0
+## end
+#278, 10:
+-1.5,0.5,0
+## end
+#295, 2:
+网格
+## end
+#296, 118:
+0.0, 0.0, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 0.0, 0.0, 0.0, 0.0;
+0.0, 0.0, 0.0, 0.0, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5
+## end
+#298, 154:
+-0.05, -0.05, 0.05, 0.05, -0.05, -0.05, 0.05, 0.05, -0.05, -0.05, 0.05, 0.05;
+-0.05, 0.05, 0.05, -0.05, -0.05, 0.05, 0.05, -0.05, -0.05, -0.05, 0.05, 0.05
+## end
+#300, 154:
+-0.25, 0.25, 0.25, -0.25, -0.25, 0.25, 0.25, -0.25, -0.25, 0.25, 0.25, -0.25;
+0.25, 0.25, -0.25, -0.25, 0.25, 0.25, -0.25, -0.25, -0.25, 0.25, 0.25, -0.25
+## end
+#302, 2:
+网格
+## end
+#303, 130:
+0.0, 0.0, 0.0, 0.0, 0.04, 0.04, 0.04, 0.04, 0.0, 0.0, 0.0, 0.0;
+0.0, 0.0, 0.0, 0.0, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04
+## end
+#305, 130:
+-0.5, -0.5, 0.5, 0.5, -0.5, -0.5, 0.5, 0.5, -0.5, -0.5, 0.5, 0.5;
+-0.5, 0.5, 0.5, -0.5, -0.5, 0.5, 0.5, -0.5, -0.5, -0.5, 0.5, 0.5
+## end
+#307, 130:
+-1.5, 1.5, 1.5, -1.5, -1.5, 1.5, 1.5, -1.5, -1.5, 1.5, 1.5, -1.5;
+1.5, 1.5, -1.5, -1.5, 1.5, 1.5, -1.5, -1.5, -1.5, 1.5, 1.5, -1.5
+## end
+#309, 3:
+332
+## end
+#312, 791:
+"""
++[返回目录](,显示三维场景)
+画网格(M函数):...
+记住显示三维场景(节点)
+保存:...
+
+初始化:...
+结构描述:...
+库:...
++[新建阅读窗口](,结构描述)
+
+"""
+
++显示三维场景(,_场景)...
+->的(显示三维场景,结构描述)->的(显示三维场景,库)...
+->的(显示三维场景,初始化)...
+
+->Matlab{
+    []:->[==](,+显示三维场景),
+    ->+[matlab]"if ~isempty(n)
+figure(n);clf;
+end"(Matlab,)->+[.]"n"(+[matlab],+显示三维场景)
+}->+[del](,+显示三维场景)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],初始化)...
+
+->+操作([想],)->+[del](,+操作)...
+    ->+[code]([想],结构描述)->[想](+显示三维场景,_场景)...
+
+->[]{
+    []=>的(+操作,_操作)->_操作=>[说](,_操作)->[]:
+        ->[is](_操作,_操作1)->_操作1(,_宾语)->_宾语(,)...
+            ->的(库,_条目)->_条目->[eq](_操作,_条目)...
+            ->+[做](,_宾语)->+[code](+[做],_条目)...
+            ->原点(_操作,_原点)->+原点(+[做],)->[m_text](_原点,+原点)->+[del](,+原点)...
+            ->方向(_操作,_方向)->+方向(+[做],)->[m_text](_方向,+方向)->+[del](,+方向),
+        ->[]
+}
+
+
+## end
+#314, 483:
+%{
++[M函数](,画网格)
++[打开文件夹]"Matlab/space"
+
+draw_sphere_fill:...
+draw_XYZ_fill:...
+%}
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+
+[X,Y,Z]=transform_3D(pt,Eulers(1),Eulers(2),Eulers(3),X,Y,Z);
+plot3(X,Y,Z,'k-')
+
+N=size(X,2);
+for i=1:N-1
+    fill_3D(X(:,i),Y(:,i),Z(:,i),X(:,i+1),Y(:,i+1),Z(:,i+1),[0.95,0.95,0.95]);
+end
+
+patch(X(:,1),Y(:,1),Z(:,1),[0.95,0.95,0.95],'FaceAlpha',0.5,'EdgeALpha',0);
+patch(X(:,end),Y(:,end),Z(:,end),[0.95,0.95,0.95],'FaceAlpha',0.5,'EdgeALpha',0);
+
+
+
+## end
+#316, 391:
+%{
++[M函数](,设置网格)
+%}
+
+X=[0,siz(1);siz(1),siz(1);siz(1),0;0,0;
+0,siz(1);siz(1),siz(1);siz(1),0;0,0;
+0,0;siz(1),siz(1);siz(1),siz(1);0,0]'-siz(1)/2;
+
+Y=[0,0;0,siz(2);siz(2),siz(2);siz(2),0;
+0,0;0,siz(2);siz(2),siz(2);siz(2),0;
+0,0;0,0;siz(2),siz(2);siz(2),siz(2)]'-siz(2)/2;
+
+Z=[0,0;0,0;0,0;0,0;
+siz(3),siz(3);siz(3),siz(3);siz(3),siz(3);siz(3),siz(3);
+0,siz(3);0,siz(3);0,siz(3);0,siz(3)]';
+
+
+
+## end
+#318, 5:
+2,2,3
+## end
+#320, 332:
+"""
++[返回目录](,更新立方体)
+设置网格(M函数):...
+
+"""
+
++更新立方体(,_立方体)...
+->的(更新立方体,设置网格)...
+->的(_立方体,X)->的(_立方体,Y)->的(_立方体,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],设置网格)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z):
+    ->的(_立方体,尺寸)->+[.]"siz"(+[matlab],尺寸)->+[del](,+更新立方体),
+    ->+[.]"siz"(+[matlab],+更新立方体)->+[del](,+更新立方体)
+
+## end
+#322, 391:
+%{
++[M函数](,设置网格)
+%}
+
+X=[0,siz(1);siz(1),siz(1);siz(1),0;0,0;
+0,siz(1);siz(1),siz(1);siz(1),0;0,0;
+0,0;siz(1),siz(1);siz(1),siz(1);0,0]'-siz(1)/2;
+
+Y=[0,0;0,siz(2);siz(2),siz(2);siz(2),0;
+0,0;0,siz(2);siz(2),siz(2);siz(2),0;
+0,0;0,0;siz(2),siz(2);siz(2),siz(2)]'-siz(2)/2;
+
+Z=[0,0;0,0;0,0;0,0;
+siz(3),siz(3);siz(3),siz(3);siz(3),siz(3);siz(3),siz(3);
+0,siz(3);0,siz(3);0,siz(3);0,siz(3)]';
+
+
+
+## end
+#324, 3:
+332
+## end
+#326, 3:
+357
+## end
+#334, 73:
+0.0, 0.0, 1.0;
+1.0, 1.0, 1.0;
+1.0, 1.0, 1.0;
+0.0, 0.0, 1.0;
+0.0, 0.0, 1.0
+## end
+#336, 77:
+0.0, 0.0, 0.5;
+0.5, 0.5, -0.5;
+-0.5, -0.5, -0.5;
+0.0, 0.0, 0.5;
+0.0, 0.0, 0.5
+## end
+#338, 77:
+0.0, 0.0, 0.5;
+-0.5, 0.5, 0.5;
+-0.5, 0.5, -0.5;
+0.0, 0.0, -0.5;
+0.0, 0.0, 0.5
+## end
+#341, 154:
+"""
++[返回目录](,更新网格)
+
+库:...
+
+"""
+
++更新网格(_类型,_图形)...
+->的(更新网格,库)->的(库,_画图)->[eq](_类型,_画图)...
+->+[做](+更新网格,_图形)->+[code](+[做],_画图)...
+
+->+[del](,+更新网格);
+
+
+
+
+
+
+## end
+#343, 113:
++[返回目录](,库)
++[复制结构](,立方体)->+[粘贴](,库)->+[修改标题]"平面"(,立方体)
+
+相机:...
+立方体:...
+平面:...
+
+圆柱体:...
+圆柱体的"圆柱"替换为"圆柱体"
+箭头:...
+
+
+## end
+#345, 249:
+"""
++[返回目录](,相机)
+M代码:...
+
+"""
+
++相机(更新网格,_图形)->+[del](,+相机)...
+->的(相机,M代码)...
+->的(_图形,X)->的(_图形,Y)->的(_图形,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"siz"(+[matlab],更新网格)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+
+
+## end
+#347, 214:
++[返回目录](,名词)
++[设置名词](,名词)
++[粘贴](,名词)
+
+位置:...
+方向:...
+
+收集场景结构:...
++[del](,收集场景结构)
+
+
+是([动词库],动词)->+[打开文件](+新窗口,动词)
+是([名词库],名词)->+[显示定义来源](,名词)
+是([动词库],动词)->+[显示定义来源](,动词)
+
+=>和(名词,_)->的(_来源,_)->的(_来源,目录)=>+[显示](,_来源)
+
+
+## end
+#349, 457:
+"""
++[返回目录](,朝向)
+->的(_相机,X)
+
+"""
+
++朝向(_相机,_物体)->+[del](,+朝向)...
+->[位置](_相机,)->是([位置],空间点#1)...
+->[位置](_物体,)->是([位置],空间点#2)...
+->朝向(_相机,方向)...
+
+->Matlab->[]{
+    []:->反向(+朝向,)->+[matlab]"flag=true;"(Matlab,),
+    ->+[matlab]"flag=false;"(Matlab,)
+}...
+
+->+[matlab]"
+addpath('Matlab\space');
+if flag
+dp=p0-r0;
+p0=r0-dp;
+end
+
+Eulers=camera_lookat(r0,p0,0);
+"(Matlab,)...
+->+[.]"p0"(+[matlab],空间点#2)->+[.]"r0"(+[matlab],空间点#1)...
+->+[o]"Eulers"(+[matlab],方向)
+
+
+
+## end
+#350, 3:
+387
+## end
+#353, 449:
++[返回目录](,相片场景)
++[删除结构](,相片场景)
++[显示星图](,相片场景)
+
++[回答]"+相片都是图片"(相片场景,)
++[回答]"相片的尺寸是\"1,2\""(相片场景,)
++[回答]"相片的内容是\"input/1.jpg\""(相片场景,)
++[回答]"+底板, +立方体都是图形"(相片场景,)
++[回答]"+A, +B, +C, +D都是点"(相片场景,)
++[回答]"有一个四边形(A,B,C,D)"(相片场景,)
+
++[回答]"B距离A为(1,0)"(相片场景,)
++[回答]"D距离A为(0,1)"(相片场景,)
++[回答]"C距离A为(1,1)"(相片场景,)
+
++[回答]"A在鼠标的位置"(相片场景,)
++[回答]"B在鼠标的位置"(相片场景,)
++[回答]"C在鼠标的位置"(相片场景,)
++[回答]"D在鼠标的位置"(相片场景,)
+
+
++[显示PPT场景]"1"(,相片场景)
++[回答]"显示区域(0.53,1,0.23,0.5)"(相片场景,)
+
+
+
+
+## end
+#358, 18:
+0.5425821704155807
+## end
+#363, 771:
+"""
++[返回目录](,拍照)
+
+"""
+
++拍照(_相机,_物体)->+[del](,+拍照)...
+->相片(+拍照,_相片)->图象(+拍照,_图象)...
+
+->在(_相片,空间点#0)->的(_相片,尺寸)...
+->的(_图象,x)->的(_图象,y)...
+->在(_相机,空间点)->朝向(_相机,方向)...
+->的(_物体,X)->的(_物体,Y)->的(_物体,Z)...
+->在(_物体,空间点#2)->朝向(_物体,方向#2)...
+->+[matlab]"
+[X,Y,Z]=transform_3D(r2,Eulers2(1),Eulers2(2),Eulers2(3),X,Y,Z);
+[tx,ty]=camera_click(r0,Eulers,D,X,Y,Z);
+x=tx+pt0(1)+siz(1)/2;
+y=ty+pt0(2)+siz(2)/2;
+"(Matlab,)...
+->+[.]"r0"(+[matlab],空间点)->+[.]"Eulers"(+[matlab],方向)...
+->+[.]"r2"(+[matlab],空间点#2)->+[.]"Eulers2"(+[matlab],方向#2)...
+->+[.]"pt0"(+[matlab],空间点#0)->+[.]"siz"(+[matlab],尺寸)...
+->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[o](+[matlab],x)->+[o](+[matlab],y):
+
+->的(_相机,形状)->的(形状,D)->+[.](+[matlab],D),
+->+D"1"->+[.](+[matlab],+D)->+[del](,+D)
+
+
+
+
+## end
+#364, 3:
+480
+## end
+#367, 477:
+"""
++[返回目录](,描述)
+库:...
+将库(节点)记作句子库
++[新建阅读窗口](,库)
+
+"""
++描述(_句子,_结构)->+[del](,+描述)...
+->的(描述,库)...
+->的(库,_模板)->的(_模板,匹配模板)->[模式匹配](匹配模板,_句子)...
+->+[临时文本]->[]{
+    []:->的(_模板,转述)->+[做](_句子,+[临时文本])->+[code](+[做],转述)...
+    ->+匹配模板(+[做],匹配模板)->+[del](,+匹配模板),
+    ->的(_模板,输出模板)->+[转述](_句子,+[临时文本])...
+    ->+匹配模板(+[转述],匹配模板)->+[del](,+匹配模板)...
+    ->+输出模板(+[转述],输出模板)->+[del](,+输出模板)
+}...
+
+->+[复制内容](,+[临时文本])->+[修改内容](+[临时文本],+[显示]):
+    ->_结构->+[修改内容](+[临时文本],_结构),
+    ->[]
+
+
+
+
+
+## end
+#369, 1028:
++[返回目录](,库)
++[粘贴](,库)
++[新建阅读窗口](,旋转)
+Nini, 打开PPT(文件)
+
+增加物体:...
+
+设置相机:以四边形\(%[A],%[B],%[C],%[D]\)作为%[相片]中的参考平面, 设置%[相机]参数...
+拍摄照片:%[相机]拍摄%[物体], 显示为%[相片]上的%[图象]...
+设置图形:%[元件]都是(网格|相机)...
+设置图形2:%[相机]是个相机...
+设置图形3:%[平面]是个平面...
+设置图形4:%[立方体]是个立方体...
+设置图形5:%[线段]是条线段...
+设置图形6:...
+设置图形6的"立方体"替换为"圆柱体"
+设置图形4的"平面"替换为"立方体"
+
+朝向:%[滤光片]朝向%[透镜]的(方向|角度)...
+朝向2:%[相机1]朝向\(%[句子]\)的(角度|方向)...
+朝向3:%[滤光片]朝向%[透镜]的(方向|角度)...
++[复制结构](,朝向)->+[粘贴](,库)->+[修改标题]"朝向3"(,朝向)
+
+设置位置:%[A]在\(%[位置]\)...
+设置位置2:...
++[复制结构](,设置位置)->+[粘贴](,库)->+[修改标题]"设置位置2"(,设置位置)
+相距:%[光斑]距离%[透镜]为\(%[位移]\)...
+
+旋转:%[物体]相对(\(%[空间点]\)|%[物体])绕(\(%[方向]\)|%[x]轴|%[物体])旋转%[180]度...
+旋转2:^%[DM1]绕z轴旋转%[45]度$...
+垂直:%[AB]垂直于%[外壳]...
+
+空间反演:%[相机]空间反演...
+缩放:%[相机]缩放%[n]倍...
+
+更新图形:%[物体]是\(%[参数]\)的%[图形]...
+更新图形2:%[物体]是\(%[句子]\)的%[图形]\(三维\)...
++[复制结构](,更新图形)->+[粘贴](,库)->+[修改标题]"更新图形2"(,更新图形)
+更新圆柱:%[物体]是直径%[直径], 高%[高]的圆柱...
+更新相机:%[物体]是长%[长], 宽%[宽], 像距%[像距]的相机...
+更新立方体:%[物体]是长%[长], 宽%[宽], 高%[高]的立方体...
+更新平面:%[切面]是三维平面...
+更新直线:...
+更新直线2:...
+
+
+查询位置:%[物体]在什么位置...
+查询方向:^%[DM1]朝什么方向$...
++[粘贴](,库)
+
+
+## end
+#371, 958:
++[返回目录](,设置相机)
+
+
+匹配模板::以四边形\(%[A],%[B],%[C],%[D]\)作为%[相片]中的参考平面, 设置%[相机]参数
+输出模板::在(%[A],空间点#A)->在(%[B],空间点#B)->在(%[C],空间点#C)->在(%[D],空间点#D)...
+->+[设置相机参数](%[相片],%[相机])->+参考平面(+[设置相机参数],)->+[del](,+参考平面)...
+->+A点(+参考平面,空间点#A)->+[del](,+A点)...
+->+B点(+参考平面,空间点#B)->+[del](,+B点)...
+->+C点(+参考平面,空间点#C)->+[del](,+C点)...
+->+D点(+参考平面,空间点#D)->+[del](,+D点)
+
+
+
+
+在(%[A],空间点#A)->在(%[B],空间点#B)->在(%[C],空间点#C)->在(%[D],空间点#D)...
+->在(%[相片],空间点#0)->的(%[相片],尺寸)...
+->在(%[相机],空间点#y)->朝向(%[相机],方向#y)...
+->的(%[相机],形状)->的(形状,D#形状)...
+
+->+[matlab]"
+x=[ptA(1),ptB(1),ptC(1),ptD(1)];
+y=[ptA(2),ptB(2),ptC(2),ptD(2)];
+center=pt+siz/2;
+x=x-center(1);
+y=y-center(2);
+[Eulers,r0,S]=camera_from_photo(x,y,1)
+"(Matlab,)...
+
+->+[.]"ptA"(+[matlab],空间点#A)->+[.]"ptB"(+[matlab],空间点#B)...
+->+[.]"ptC"(+[matlab],空间点#C)->+[.]"ptD"(+[matlab],空间点#D)...
+->+[.]"pt"(+[matlab],空间点#0)->+[.]"siz"(+[matlab],尺寸)...
+->+[o]"Eulers"(+[matlab],方向#y)->+[o]"r0"(+[matlab],空间点#y)...
+->+[o]"S"(+[matlab],D#形状)
+
+
+
+
+## end
+#373, 51:
+以四边形\(%[A],%[B],%[C],%[D]\)作为%[相片]中的参考平面, 设置%[相机]参数
+## end
+#375, 265:
+在(%[A],空间点#A)->在(%[B],空间点#B)->在(%[C],空间点#C)->在(%[D],空间点#D)...
+->+[设置相机参数](%[相片],%[相机])->+参考平面(+[设置相机参数],)->+[del](,+参考平面)...
+->+A点(+参考平面,空间点#A)->+[del](,+A点)...
+->+B点(+参考平面,空间点#B)->+[del](,+B点)...
+->+C点(+参考平面,空间点#C)->+[del](,+C点)...
+->+D点(+参考平面,空间点#D)->+[del](,+D点)
+## end
+#377, 102:
+的(相片场景,A)->的(相片场景,B)->的(相片场景,C)->的(相片场景,D)...
+->的(相片场景,相片)...
+->:<描述"以四边形(A,B,C,D)作为相片中的参考平面, 设置相机参数">
+## end
+#379, 125:
++[返回目录](,拍摄照片)
+
+
+匹配模板::%[相机]拍摄%[物体], 显示为%[相片]上的%[图象]
+输出模板::+[拍照](%[相机],%[物体])...
+->+[图象](+[拍照],%[图象])->+[相片](+[拍照],%[相片])
+
+
+
+
+## end
+#381, 29:
+%[相机]拍摄%[物体], 显示为%[相片]上的%[图象]
+## end
+#383, 62:
++[拍照](%[相机],%[物体])...
+->+[图象](+[拍照],%[图象])->+[相片](+[拍照],%[相片])
+## end
+#392, 11:
+input/1.jpg
+## end
+#394, 2:
+图片
+## end
+#395, 3:
+1,2
+## end
+#397, 3:
+0,0
+## end
+#420, 481:
+0.46534862375577946, 0.46822673132979054, 0.4693893827168124, 0.4665917004670924, 0.3840411455817685, 0.390127088750276, 0.392452756085486, 0.38654321940448644, 0.46534862375577946, 0.46822673132979054, 0.4693893827168124, 0.4665917004670924;
+0.46822673132979054, 0.4693893827168124, 0.4665917004670924, 0.46534862375577946, 0.390127088750276, 0.392452756085486, 0.38654321940448644, 0.3840411455817685, 0.3840411455817685, 0.390127088750276, 0.392452756085486, 0.38654321940448644
+## end
+#422, 478:
+0.5747899239355354, 0.5257464261062067, 0.5302681642275643, 0.5788080837653357, 0.5801145194911335, 0.5276638666839545, 0.5324506746335157, 0.5843248257903872, 0.5747899239355354, 0.5257464261062067, 0.5302681642275643, 0.5788080837653357;
+0.5257464261062067, 0.5302681642275643, 0.5788080837653357, 0.5747899239355354, 0.5276638666839545, 0.5324506746335157, 0.5843248257903872, 0.5801145194911335, 0.5801145194911335, 0.5276638666839545, 0.5324506746335157, 0.5843248257903872
+## end
+#424, 3:
+多边形
+## end
+#425, 1:
+0
+## end
+#427, 3:
+0,0
+## end
+#429, 481:
+0.32005470329617913, 0.37537172230069127, 0.3996083418107833, 0.36009328183022604, 0.3098725276639904, 0.36799288784116, 0.393339043192236, 0.35189420515692926, 0.32005470329617913, 0.37537172230069127, 0.3996083418107833, 0.36009328183022604;
+0.37537172230069127, 0.3996083418107833, 0.36009328183022604, 0.32005470329617913, 0.36799288784116, 0.393339043192236, 0.35189420515692926, 0.3098725276639904, 0.3098725276639904, 0.36799288784116, 0.393339043192236, 0.35189420515692926
+## end
+#431, 475:
+0.9685371543476091, 0.5313751738032295, 0.5767141403865716, 0.952107210201868, 0.9721200683287816, 0.5315755447553147, 0.5771128717204369, 0.9549775618727863, 0.9685371543476091, 0.5313751738032295, 0.5767141403865716, 0.952107210201868;
+0.5313751738032295, 0.5767141403865716, 0.952107210201868, 0.9685371543476091, 0.5315755447553147, 0.5771128717204369, 0.9549775618727863, 0.9721200683287816, 0.9721200683287816, 0.5315755447553147, 0.5771128717204369, 0.9549775618727863
+## end
+#433, 3:
+多边形
+## end
+#434, 1:
+0
+## end
+#436, 3:
+0,0
+## end
+#452, 38:
+0.9552085452695831, 0.3216022380467956
+## end
+#454, 38:
+0.9425737538148526, 0.3614292980671415
+## end
+#456, 38:
+0.576439471007121, 0.39988301119023395
+## end
+#458, 38:
+0.531119023397762, 0.37516276703967444
+## end
+#472, 3:
+494
+## end
+#475, 16:
+文档\S应用\照片测量.ftxt
+## end
+#476, 3:
+497
+## end
+#478, 3:
+514
+## end
+#480, 586:
+"""
++[P函数](,P代码)
+
+测试(P函数):...
+
+"""
+
+words=re.findall('%(\[[^\[^\]]*\])',pat)
+pat=re.sub('%\[[^\[^\]]*\]',r"([\\s\\S]*)",pat)
+name=re.search(pat,sent)
+elements=name.group(1)
+
+if name.group(2)=="网格":
+    code=elements.replace(', ','->')+"""=>[那](_,)...
+=>+在(_,+空间点)->+空间点"0,0,0"...
+->+朝向(_,+方向)->+方向"0,0,0"...
+->+样式"网格"(_,)...
+->+的(_,+X)->+的(_,+Y)->+的(_,+Z)"""
+
+elif name.group(2)=="相机":
+    code=elements.replace(', ','->')+"""=>[那](_,)...
+=>+在(_,+空间点)->+空间点"0,0,0"...
+->+朝向(_,+方向)->+方向"0,0,0"...
+->+样式"网格"(_,)...
+->+的(_,+X)->+的(_,+Y)->+的(_,+Z)...
+->+的(_,+形状)->+的(+形状,+D)->+D\"1\""""
+
+
+
+
+## end
+#482, 230:
+"""
++[返回目录](,转述)
+P代码:...
+
+"""
+
++转述(_输入,_输出)->+[del](,+转述)...
+->的(转述,P代码)->匹配模板(+转述,_匹配模板)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[.]"pat"(+[python],_匹配模板)->+[.]"sent"(+[python],_输入)...
+->+[o]"code"(+[python],_输出)
+
+
+
+## end
+#483, 14:
+%[元件]都是(网格|相机)
+## end
+#486, 48:
++[返回目录](,设置图形)
+
+
+匹配模板::%[元件]都是(网格|相机)
+转述:...
+
+
+
+
+## end
+#489, 269:
+%{
++[M函数](,相机)
+%}
+
+
+W=siz(1);
+L=siz(2);
+H=siz(3);
+X=-[0,-W/2,-W/2,0,0;
+0,W/2,W/2,0,0;
+W/2,W/2,-W/2,-W/2,W/2
+0,-W/2,0,W/2,0
+]';
+
+Y=-[0,L/2,-L/2,0,0;
+0,L/2,-L/2,0,0
+L/2,-L/2,-L/2,L/2,L/2
+0.6*L,0.6*L,1.1*L,0.6*L,0.6*L
+]';
+
+Z=-[0,H,H,0,0;
+0,H,H,0,0;
+H,H,H,H,H;
+H,H,H,H,H]';
+## end
+#491, 249:
+"""
++[返回目录](,平面)
+M代码:...
+
+"""
+
++平面(更新网格,_图形)->+[del](,+平面)...
+->的(平面,M代码)...
+->的(_图形,X)->的(_图形,Y)->的(_图形,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"siz"(+[matlab],更新网格)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+
+
+## end
+#493, 147:
+%{
++[M函数](,设置网格)
+%}
+
+X=[0,siz(1);siz(1),siz(1);siz(1),0;0,0]'-siz(1)/2;
+Y=[0,0;0,siz(2);siz(2),siz(2);siz(2),0]'-siz(2)/2;
+Z=[0,0;0,0;0,0;0,0]';
+
+
+
+## end
+#495, 253:
+"""
++[返回目录](,圆柱体)
+M代码:...
+
+"""
+
++圆柱体(更新网格,_图形)->+[del](,+圆柱体)...
+->的(圆柱体,M代码)...
+->的(_图形,X)->的(_图形,Y)->的(_图形,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"siz"(+[matlab],更新网格)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+
+
+## end
+#497, 188:
+%{
++[M函数](,M代码)
+%}
+
+% siz=[1,1];
+
+R=siz(1)/2;
+H=siz(2);
+N=100;
+
+theta=linspace(0,360,N);
+X=[R*cosd(theta);R*cosd(theta)]';
+Y=[R*sind(theta);R*sind(theta)]';
+Z=[zeros(1,N);zeros(1,N)+H]';
+
+
+## end
+#498, 3:
+573
+## end
+#500, 688:
+"""
++[P函数](,P代码)
+
+测试(P函数):...
+
+"""
+
+words=re.findall('%(\[[^\[^\]]*\])',pat)
+pat=re.sub('%\[[^\[^\]]*\]',r"([\\s\\S]*)",pat)
+name=re.search(pat,sent)
+obj=name.group(1)
+type_op=name.group(2)
+angle=name.group(3)
+type_an=name.group(4)
+
+code="{0}:->朝向({0},方向),->+朝向({0},+方向);\n".format(obj)
+
+if angle=="x轴":
+    code+="朝向(%s,方向)->+[修改内容]\"90,90,0\"(,方向)"%(obj)
+elif angle=="y轴":
+    code+="朝向(%s,方向)->+[修改内容]\"0,90,0\"(,方向)"%(obj)
+elif angle=="z轴":
+    code+="朝向(%s,方向)->+[修改内容]\"0,0,0\"(,方向)"%(obj)
+
+elif type_an=="方向":
+    code+="+[朝向](%s,%s)"%(obj,angle)
+elif type_an=="角度":
+    code+="朝向(%s,方向)->+[修改内容]\"%s\"(,方向)"%(obj,angle)
+
+if type_op=="背":
+    code+="->+反向(+[朝向],)->+[del](,+反向)"
+
+
+
+## end
+#502, 230:
+"""
++[返回目录](,转述)
+P代码:...
+
+"""
+
++转述(_输入,_输出)->+[del](,+转述)...
+->的(转述,P代码)->匹配模板(+转述,_匹配模板)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[.]"pat"(+[python],_匹配模板)->+[.]"sent"(+[python],_输入)...
+->+[o]"code"(+[python],_输出)
+
+
+
+## end
+#503, 25:
+%[滤光片](朝|背)向%[透镜]的(方向|角度)
+## end
+#506, 69:
++[返回目录](,朝向)
++[复制结构](,朝向)
+
+匹配模板::%[滤光片](朝|背)向%[透镜]的(方向|角度)
+转述:...
+
+
+
+
+## end
+#508, 83:
+%[A]:->在(%[A],空间点),->+在(%[A],+空间点);
+在(%[物体],空间点#0)->在(%[A],空间点)->+[修改内容](空间点#0,空间点)
+## end
+#509, 15:
+^%[A]在%[物体]的位置$
+## end
+#512, 132:
++[返回目录](,设置位置)
+
+
+匹配模板::^%[A]在%[物体]的位置$
+输出模板::%[A]:->在(%[A],空间点),->+在(%[A],+空间点);
+在(%[物体],空间点#0)->在(%[A],空间点)->+[修改内容](空间点#0,空间点)
+
+
+
+
+## end
+#514, 64:
+%[光斑]:->在(%[光斑],空间点),->+在(%[光斑],+空间点);
++[相对]"%[句子]"(%[透镜],%[光斑])
+## end
+#515, 23:
+%[光斑]距离%[透镜]为?\(%[句子]\)
+## end
+#518, 117:
++[返回目录](,相距)
+
+匹配模板::%[光斑]距离%[透镜]为?\(%[句子]\)
+输出模板::%[光斑]:->在(%[光斑],空间点),->+在(%[光斑],+空间点);
++[相对]"%[句子]"(%[透镜],%[光斑])
+
+
+
+## end
+#521, 101:
++[返回目录](,更新圆柱)
+
+
+匹配模板::%[物体]是直径%[直径], ?高%[高]的圆柱
+输出模板::+[更新网格]"%[直径],%[高]"(+圆柱,%[物体])->+[del](,+圆柱)
+
+
+
+## end
+#523, 112:
++[返回目录](,更新相机)
+
+
+匹配模板::%[物体]是长%[长], 宽%[宽], 像距%[像距]的相机
+输出模板::+[更新网格]"%[宽],%[长],%[像距]"(+相机,%[物体])->+[del](,+相机)
+
+
+
+## end
+#525, 113:
++[返回目录](,更新立方体)
+
+
+匹配模板::%[物体]是长%[长], 宽%[宽], 高%[高]的立方体
+输出模板::+[更新网格]"%[长],%[宽],%[高]"(+立方体,%[物体])->+[del](,+立方体)
+
+
+
+## end
+#527, 29:
+%[物体]是长%[长], 宽%[宽], 高%[高]的立方体
+## end
+#529, 50:
++[更新网格]"%[长],%[宽],%[高]"(+立方体,%[物体])->+[del](,+立方体)
+## end
+#531, 30:
+%[物体]是长%[长], 宽%[宽], 像距%[像距]的相机
+## end
+#533, 49:
++[更新网格]"%[宽],%[长],%[像距]"(+相机,%[物体])->+[del](,+相机)
+## end
+#535, 24:
+%[物体]是直径%[直径], ?高%[高]的圆柱
+## end
+#537, 44:
++[更新网格]"%[直径],%[高]"(+圆柱,%[物体])->+[del](,+圆柱)
+## end
+#539, 249:
+"""
++[返回目录](,箭头)
+M代码:...
+
+"""
+
++箭头(更新网格,_图形)->+[del](,+箭头)...
+->的(箭头,M代码)...
+->的(_图形,X)->的(_图形,Y)->的(_图形,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"siz"(+[matlab],更新网格)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+
+
+## end
+#541, 153:
+%{
++[M函数](,M代码)
+%}
+
+% siz=[1,2,3];
+
+X=[0,0;
+0,siz(1)/2;
+0,-siz(1)/2]';
+
+Y=[0,0;
+0,0;
+0,0]';
+
+Z=[0,siz(3);
+siz(3),siz(3)-siz(2);
+siz(3),siz(3)-siz(2)]';
+
+
+## end
+#542, 150:
+%[物体]:->的(%[物体],X),->+的(%[物体],+X);
+%[物体]:->的(%[物体],Y),->+的(%[物体],+Y);
+%[物体]:->的(%[物体],Z),->+的(%[物体],+Z);
++[更新网格]"%[句子]"(+%[图形],%[物体])->+[del](,+%[图形])
+## end
+#543, 27:
+%[物体]是\(%[句子]\)的%[图形]\(三维\)
+## end
+#544, 3:
+579
+## end
+#546, 130:
+"""
++[返回目录](,位置)
+
+"""
+
++位置(_M1,):->[is](_M1,空间点)->+是(+位置,空间点)->[m_text](空间点,+位置),
+->在(_M1,_位置)->+是(+位置,_位置)->[m_text](_位置,+位置)
+
+
+
+
+## end
+#548, 3:
+582
+## end
+#550, 3:
+586
+## end
+#552, 3:
+597
+## end
+#555, 577:
+"""
++[返回目录](,设置相机参数)
+
+M代码(M函数):...
+
+"""
++设置相机参数(_相片,_相机)->+[del](,+设置相机参数)...
+->的(设置相机参数,M代码)...
+->参考平面(+设置相机参数,)...
+->A点(参考平面,_A点)->B点(参考平面,_B点)->C点(参考平面,_C点)->D点(参考平面,_D点)...
+
+->在(_相片,空间点#0)->的(_相片,尺寸)...
+->在(_相机,空间点#y)->朝向(_相机,方向#y)...
+->的(_相机,形状)->的(形状,D#形状)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+
+->+[.]"ptA"(+[matlab],_A点)->+[.]"ptB"(+[matlab],_B点)...
+->+[.]"ptC"(+[matlab],_C点)->+[.]"ptD"(+[matlab],_D点)...
+->+[.]"pt"(+[matlab],空间点#0)->+[.]"siz"(+[matlab],尺寸)...
+->+[o]"Eulers"(+[matlab],方向#y)->+[o]"r0"(+[matlab],空间点#y)...
+->+[o]"S"(+[matlab],D#形状)
+
+
+
+
+
+
+
+## end
+#557, 173:
+%{
++[M函数](,M代码)
+%}
+
+x=[ptA(1),ptB(1),ptC(1),ptD(1)];
+y=[ptA(2),ptB(2),ptC(2),ptD(2)];
+center=pt+siz/2;
+x=x-center(1);
+y=y-center(2);
+[Eulers,r0,S]=camera_from_photo(x,y,1);
+
+## end
+#559, 3:
+625
+## end
+#562, 17:
+文档\数学问题\三维旋转.ftxt
+## end
+#564, 510:
+"""
++[返回目录](,旋转)
+M代码(M函数):...
+Nini, 打开三维场景的旋转(节点)
+记住旋转(节点)
+
+"""
+
++旋转(_原点,_物体)->+[del](,+旋转)...
+->的(旋转,M代码)...
+->方向(+旋转,)->角度(+旋转,)...
+->[位置](_物体,)->是([位置],空间点#2)...
+->朝向(_物体,方向#2)...
+
+->+[matlab]"addpath('Matlab\space')"(Matlab,)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"zu"(+[matlab],方向)->+[.]"theta"(+[matlab],角度)...
+->+[o]"pt"(+[matlab],空间点#2)->+[o]"Eulers"(+[matlab],方向#2):
+
+    ->_原点->[位置](_原点,)->是([位置],空间点)->+[.]"r0"(+[matlab],空间点),
+    ->+[临时文本]"0,0,0"->+[.]"r0"(+[matlab],+[临时文本])
+
+
+
+
+## end
+#566, 174:
+%{
++[M函数](,M代码)
+
+测试公式(M函数):...
+备份:...
+%}
+
+
+pt=pt-r0;
+[px,py,pz]=rotation_3D(pt(1),pt(2),pt(3),zu,theta);
+pt=[px,py,pz];
+pt=pt+r0;
+Eulers=rotation_Eulers(Eulers,zu,theta);
+
+
+
+
+## end
+#569, 98:
+"""
++[返回目录](,空间映射)
+M代码(M函数):...
+保存:...
+
+"""
+
++空间映射(_平面点,_空间点)->+[del](,+空间映射)...
+->的(空间映射,M代码)
+
+
+
+
+## end
+#571, 99:
+x2=x2-pt0(1)-shape(1)/2;
+y2=y2-pt0(2)-shape(2)/2;
+
+[X,Y,Z]=camera_To_3D(x2,y2,r1,Eulers,D,r0,ux,uy)
+## end
+#574, 698:
+的(相机,形状)->的(形状,D#0)->在(相机,空间点)->朝向(相机,方向)...
+->的(相片场景,A)->在(A,空间点#A)...
+->的(相片场景,B)->在(B,空间点#B)...
+->的(相片场景,C)->在(C,空间点#C)...
+->的(相片场景,D)->在(D,空间点#D)...
+->的(相片场景,相片)->在(相片,空间点#0)->的(相片,尺寸)...
+->+[matlab]"
+x2=[pt1(1),pt2(1),pt3(1),pt4(1)];
+y2=[pt1(2),pt2(2),pt3(2),pt4(2)];
+
+x2=x2-pt0(1)-shape(1)/2;
+y2=y2-pt0(2)-shape(2)/2;
+
+r0=[0,0,0];
+ux=[1,0,0];
+uy=[0,1,0];
+
+[X,Y,Z]=camera_To_3D(x2,y2,r1,Eulers,D,r0,ux,uy)
+plot3(X,Y,Z)
+"(Matlab,)...
+->+[.]"r1"(+[matlab],空间点)->+[.]"Eulers"(+[matlab],方向)...
+->+[.]"D"(+[matlab],D#0)...
+->+[.]"pt1"(+[matlab],空间点#A)->+[.]"pt2"(+[matlab],空间点#B)...
+->+[.]"pt3"(+[matlab],空间点#C)->+[.]"pt4"(+[matlab],空间点#D)...
+->+[.]"pt0"(+[matlab],空间点#0)->+[.]"shape"(+[matlab],尺寸)
+## end
+#575, 3:
+621
+## end
+#577, 3:
+648
+## end
+#579, 445:
+"""
++[返回目录](,相对)
+
+"""
+
++相对(_M1,_M2)...
+->[位置](_M1,)->是([位置],_位置1)...
+->[位置](_M2,)->是([位置],_位置2)...
+->+[修改内容](_位置1,_位置2)->Matlab:
+
+->沿着(+相对,)->+[matlab]"pt2=pt1+v*t;"(Matlab,)...
+->+[.]"pt1"(+[matlab],_位置1)->+[.]"v"(+[matlab],沿着)->+[.]"t"(+[matlab],+相对)...
+->+[o]"pt2"(+[matlab],_位置2)...
+->+[del](,+相对),
+
+->+[matlab]"pt2=pt1+dr;"(Matlab,)...
+->+[.]"pt1"(+[matlab],_位置1)->+[.]"dr"(+[matlab],+相对)...
+->+[o]"pt2"(+[matlab],_位置2)...
+->+[del](,+相对)
+
+
+
+## end
+#582, 100:
++[返回目录](,旋转)
++[复制结构](,旋转)
+
+匹配模板::%[物体]相对(\(%[空间点]\)|%[物体])绕(\(%[方向]\)|%[x]轴|%[物体])旋转%[180]度
+转述:...
+
+
+## end
+#584, 230:
+"""
++[返回目录](,转述)
+P代码:...
+
+"""
+
++转述(_输入,_输出)->+[del](,+转述)...
+->的(转述,P代码)->匹配模板(+转述,_匹配模板)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[.]"pat"(+[python],_匹配模板)->+[.]"sent"(+[python],_输入)...
+->+[o]"code"(+[python],_输出)
+
+
+
+## end
+#586, 1134:
+"""
++[P函数](,P代码)
+
+测试(P函数):...
+显示(P函数):...
+
+"""
+
+words=re.findall('%(\[[^\[^\]]*\])',pat)
+pat=re.sub('%\[[^\[^\]]*\]',r"([\\s\\S]*)",pat)
+name=re.search(pat,sent)
+
+code_pat="""+[旋转](%s,%s)%s...
+->+方向(+[旋转],)->+[del](,+方向)%s...
+->+角度"%s"(+[旋转],)->+[del](,+角度)"""
+
+list_txt=['','','','','']
+
+obj=name.group(1)
+orig=name.group(2)
+dirc=name.group(5)
+angle=name.group(9)
+
+list_txt[1]=obj
+
+if orig[-1]==")":
+    list_txt[0]='+空间点'
+    list_txt[2]='->+空间点"%s"'%(name.group(3))
+    sbj='+空间点'
+elif orig=="原点":
+    pass
+else:
+    list_txt[0]=name.group(4)
+    sbj=name.group(4)
+
+if dirc[-1]=="轴":
+    dirc_txt=''
+    if name.group(7)=='x' or name.group(7)=='X':
+        dirc_txt='1,0,0'
+    elif name.group(7)=='y' or name.group(7)=='Y':
+        dirc_txt='0,1,0'
+    elif name.group(7)=='z' or name.group(7)=='Z':
+        dirc_txt='0,0,1'
+    list_txt[3]='->[m_text]"%s"(,+方向)'%(dirc_txt)
+elif dirc[-1]==")":
+    list_txt[3]='->[m_text]"%s"(,+方向)'%(name.group(6))
+else:
+    list_txt[3]="->[方向](%s,%s)->[m_text]([方向],+方向)"%(sbj,name.group(8))
+
+
+
+list_txt[4]=angle
+
+
+code=code_pat%(list_txt[0],list_txt[1],list_txt[2],list_txt[3],list_txt[4])
+
+
+
+
+## end
+#588, 58:
+%[物体]相对(\(%[空间点]\)|%[物体])绕(\(%[方向]\)|%[x]轴|%[物体])旋转%[180]度
+## end
+#589, 3:
+632
+## end
+#592, 275:
+"""
++[返回目录](,方向)
+M代码(M函数):...
+P代码(P函数):...
+
+
+"""
+
++方向(_元件1,_元件2)...
+->[位置]#1(_元件1,)->[位置]#2(_元件2,)...
+->+[.]"pt1"([python],[位置]#1)->+[.]"pt2"([python],[位置]#2)...
+->[python]"dp=np.array(pt2)-np.array(pt1)
+dp=dp/np.sqrt(np.sum(dp*dp))
+ans=list(dp)
+state=True"(Python,+方向); 
+
+
+
+
+## end
+#600, 881:
+"""
++[P函数](,P代码)
+
+测试(P函数):...
+
+"""
+
+words=re.findall('%(\[[^\[^\]]*\])',pat)
+pat=re.sub('%\[[^\[^\]]*\]',r"([\\s\\S]*)",pat)
+name=re.search(pat,sent)
+
+output_pat="""+[旋转](%s,%s)...
+->+方向(+[旋转],)->+[del](,+方向)%s...
+->+角度"%s"(+[旋转],)->+[del](,+角度)"""
+
+list_txt=['','','','']
+
+print(name.group(1),name.group(2),name.group(3),name.group(4),name.group(5),name.group(6),name.group(7),name.group(8),name.group(9))
+print(words)
+
+sbj=name.group(1)
+orig=name.group(2)
+dirc=name.group(5)
+angle=name.group(9)
+
+print("主语: %s"%(sbj))
+
+if orig[-1]=="点":
+    print("点: %s"%("(0,0,0)"))
+elif orig[-1]==")":
+    print("点: %s"%(name.group(3)))
+elif orig[-1]=="体":
+    print("点: %s"%(name.group(4)))
+
+if dirc[-1]=="轴":
+    print("方向: %s轴"%(name.group(7)))
+elif dirc[-1]==")":
+    print("方向: (%s)"%(name.group(6)))
+elif dirc[-1]=="体":
+    print("方向: %s"%(name.group(8)))
+
+print("角度: %s"%(angle))
+
+
+
+
+
+
+
+## end
+#603, 295:
+%{
++[M函数](,测试公式)
+
+sign_1(M函数):...
+%}
+
+beta=acosd(Z(3));
+
+if sind(beta)==0
+    alpha=0;
+    gamma=-sign(X(2))*acosd(Y(2)/cosd(beta));
+else
+    alpha=sign(X(3)./sind(beta)).*acosd(-Y(3)./sind(beta));
+    gamma=sign(Z(1))*acosd(Z(2)/sind(beta));
+end
+
+Eulers=[alpha,beta,gamma];
+
+%{
++[M函数](,测试公式)
+%}
+## end
+#606, 134:
+%{
++[M函数](,sign_1)
+
+地址::C:\Users\cheng\Documents\MATLAB\sign_1.m
++[保存文本](,sign_1)
+%}
+
+function y=sign_1(x)
+    y=2*double(x>=0)-1;
+end
+## end
+#609, 40:
+C:\Users\cheng\Documents\MATLAB\sign_1.m
+## end
+#611, 420:
+%{
++[M函数](,M代码)
+
+测试公式(M函数):...
+备份:...
+%}
+
+
+theta=90;
+
+[x,y,z]=Euler_frame(Eulers(1),Eulers(2),Eulers(3));
+pt=pt-r0;
+[X,Y,Z]=rotation_3D([x(1),y(1),z(1)],[x(2),y(2),z(2)],[x(3),y(3),z(3)],zu,theta);
+[px,py,pz]=rotation_3D(pt(1),pt(2),pt(3),zu,theta);
+pt=[px,py,pz];
+pt=pt+r0;
+
+beta=acosd(Z(3));
+alpha=sign(X(3)./sind(beta)).*acosd(-Y(3)./sind(beta));
+gamma=sign(Z(1))*acosd(Z(2)/sind(beta));
+Eulers=[alpha,beta,gamma];
+
+
+
+## end
+#612, 3:
+618
+## end
+#614, 3:
+623
+## end
+#616, 3:
+625
+## end
+#618, 3:
+627
+## end
+#620, 3:
+636
+## end
+#622, 391:
+%{
++[M函数](,设置网格)
+%}
+
+X=[0,siz(1);siz(1),siz(1);siz(1),0;0,0;
+0,siz(1);siz(1),siz(1);siz(1),0;0,0;
+0,0;siz(1),siz(1);siz(1),siz(1);0,0]'-siz(1)/2;
+
+Y=[0,0;0,siz(2);siz(2),siz(2);siz(2),0;
+0,0;0,siz(2);siz(2),siz(2);siz(2),0;
+0,0;0,0;siz(2),siz(2);siz(2),siz(2)]'-siz(2)/2;
+
+Z=[0,0;0,0;0,0;0,0;
+siz(3),siz(3);siz(3),siz(3);siz(3),siz(3);siz(3),siz(3);
+0,siz(3);0,siz(3);0,siz(3);0,siz(3)]';
+
+
+
+## end
+#624, 270:
+"""
++[返回目录](,立方体)
+M代码:...
+
+Nini, 打开图形库(文件)
+
+"""
+
++立方体(更新网格,_图形)->+[del](,+立方体)...
+->的(立方体,M代码)...
+->的(_图形,X)->的(_图形,Y)->的(_图形,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"siz"(+[matlab],更新网格)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+
+
+## end
+#627, 359:
+"""
+M代码(M函数):...
++[M函数](,M代码)
+
+"""
+
++显示空间图片(_图片,_平面)->+[del](,+显示空间图片)...
+->的(显示空间图片,M代码)...
+->的(_平面,X)->的(_平面,Y)->的(_平面,Z)...
+->在(_平面,空间点)->朝向(_平面,方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"file_name"(+[matlab],_图片)...
+->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[.]"pt"(+[matlab],空间点)->+[.]"Eulers"(+[matlab],方向)
+
+
+
+
+
+## end
+#629, 336:
+%{
++[M函数](,M代码)
+%}
+
+img = imread(file_name);
+
+x_max=max(max(X));
+x_min=min(min(X));
+y_max=max(max(Y));
+y_min=min(min(Y));
+
+XI=[x_min,x_max;x_min,x_max];
+YI=[y_max,y_max;y_min,y_min];
+ZI=[0,0;0,0];
+
+[XI,YI,ZI]=transform_3D(pt,Eulers(1),Eulers(2),Eulers(3),XI,YI,ZI);
+
+surf(XI,YI,ZI,'CData',img,'FaceColor','texturemap');
+colormap gray
+
+
+
+## end
+#631, 3:
+637
+## end
+#633, 3:
+642
+## end
+#635, 3:
+641
+## end
+#637, 3:
+646
+## end
+#639, 40:
+在(%[物体],空间点)->+[消息窗口](,空间点)->+[显示](,空间点)
+## end
+#640, 10:
+%[物体]在什么位置
+## end
+#643, 66:
+匹配模板::%[物体]在什么位置
+输出模板::在(%[物体],空间点)->+[消息窗口](,空间点)->+[显示](,空间点)
+
+
+
+## end
+#645, 3:
+657
+## end
+#648, 603:
+"""
++[返回目录](,显示三维图形)
+画网格(M函数):...
+
+"""
+
++显示三维图形(,_物体)->Matlab{
+    []:->[==](,+显示三维图形),
+    ->+[matlab]"if ~isempty(n)
+figure(n);
+end"(Matlab,)->+[.]"n"(+[matlab],+显示三维图形)
+}->+[del](,+显示三维图形)...
+
+->的(显示三维图形,画网格)...
+
+->的(_物体,X)->的(_物体,Y)->的(_物体,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],画网格)...
+->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->[]{
+    []:->在(_物体,空间点)->空间点->+[.]"pt"(+[matlab],空间点),
+    ->+[.](+[matlab],+pt)->+pt"0,0,0"->+[del](,+pt)
+}...
+->[]{
+    []:->朝向(_物体,方向)->方向->+[.]"Eulers"(+[matlab],方向),
+    ->+[.](+[matlab],+Eulers)->+Eulers"0,0,0"->+[del](,+Eulers)
+}
+
+
+
+
+
+
+## end
+#650, 137:
+%{
++[M函数](,画网格)
+%}
+
+
+Eulers
+addpath('Matlab\space');
+
+[X,Y,Z]=transform_3D(pt,Eulers(1),Eulers(2),Eulers(3),X,Y,Z);
+plot3(X,Y,Z,'k-')
+
+
+
+
+## end
+#652, 3:
+658
+## end
+#654, 3:
+672
+## end
+#657, 145:
+
+
+匹配模板::^%[DM1]绕z轴旋转%[45]度$
+输出模板::在(%[DM1],空间点)->+[旋转](空间点,%[DM1])...
+->+方向"0,0,1"(+[旋转],)->+[del](,+方向)...
+->+角度"%[45]"(+[旋转],)->+[del](,+角度)
+
+
+
+## end
+#659, 19:
+^%[DM1]绕z轴旋转%[45]度$
+## end
+#661, 108:
+在(%[DM1],空间点)->+[旋转](空间点,%[DM1])...
+->+方向"0,0,1"(+[旋转],)->+[del](,+方向)...
+->+角度"%[45]"(+[旋转],)->+[del](,+角度)
+## end
+#663, 77:
+
+
+匹配模板::^%[DM1](朝|朝着|朝向)什么方向$
+输出模板::朝向(%[DM1],方向)->+[消息窗口](,方向)->+[显示](,方向)
+
+
+## end
+#665, 21:
+^%[DM1](朝|朝着|朝向)什么方向$
+## end
+#667, 39:
+朝向(%[DM1],方向)->+[消息窗口](,方向)->+[显示](,方向)
+## end
+#669, 135:
+
+
+匹配模板::%[切面]是三维平面
+输出模板::的(%[切面],长)->的(%[切面],宽)...
+->+[修改内容](长,+[更新网格])->+[增加内容]","(宽,+[更新网格])...
+->+[更新网格](+平面,%[切面])->+[del](,+平面)
+
+
+
+## end
+#671, 10:
+%[切面]是三维平面
+## end
+#673, 107:
+的(%[切面],长)->的(%[切面],宽)...
+->+[修改内容](长,+[更新网格])->+[增加内容]","(宽,+[更新网格])...
+->+[更新网格](+平面,%[切面])->+[del](,+平面)
+## end
+#674, 3:
+698
+## end
+#677, 264:
+
+
+匹配模板::%[相机]是个相机
+输出模板::%[相机]:->样式(%[相机],)->+[修改内容]"网格"(,样式),
+    ->+样式"网格"(%[相机],);
+%[相机]:->的(%[相机],X),
+    ->+的(%[相机],+X)->+的(%[相机],+Y)->+的(%[相机],+Z);
+%[相机]:->的(%[相机],形状),
+    ->+的(%[相机],+形状)->+的(+形状,+D)->+D"1"...
+    ->+[更新网格]"1,1,1"(+相机,%[相机])->+[del](,+相机);
+
+
+## end
+#679, 9:
+%[相机]是个相机
+## end
+#681, 238:
+%[相机]:->样式(%[相机],)->+[修改内容]"网格"(,样式),
+    ->+样式"网格"(%[相机],);
+%[相机]:->的(%[相机],X),
+    ->+的(%[相机],+X)->+的(%[相机],+Y)->+的(%[相机],+Z);
+%[相机]:->的(%[相机],形状),
+    ->+的(%[相机],+形状)->+的(+形状,+D)->+D"1"...
+    ->+[更新网格]"1,1,1"(+相机,%[相机])->+[del](,+相机);
+## end
+#683, 118:
+
+
+匹配模板::^%[相机1]朝向\(%[句子]\)的(角度|方向)$
+输出模板::%[相机1]:->朝向(%[相机1],方向),->+朝向(%[相机1],+方向);
+朝向(%[相机1],方向)->+[修改内容]"%[句子]"(,方向)
+## end
+#685, 27:
+^%[相机1]朝向\(%[句子]\)的(角度|方向)$
+## end
+#687, 76:
+%[相机1]:->朝向(%[相机1],方向),->+朝向(%[相机1],+方向);
+朝向(%[相机1],方向)->+[修改内容]"%[句子]"(,方向)
+## end
+#689, 201:
+
+
+匹配模板::%[平面]是个平面
+输出模板::%[平面]:->样式(%[平面],)->+[修改内容]"网格"(,样式),
+    ->+样式"网格"(%[平面],);
+%[平面]:->的(%[平面],X),
+    ->+的(%[平面],+X)->+的(%[平面],+Y)->+的(%[平面],+Z)...
+    ->+[更新网格]"1,1"(+平面,%[平面])->+[del](,+平面);
+
+
+## end
+#691, 175:
+%[平面]:->样式(%[平面],)->+[修改内容]"网格"(,样式),
+    ->+样式"网格"(%[平面],);
+%[平面]:->的(%[平面],X),
+    ->+的(%[平面],+X)->+的(%[平面],+Y)->+的(%[平面],+Z)...
+    ->+[更新网格]"1,1"(+平面,%[平面])->+[del](,+平面);
+## end
+#693, 9:
+%[平面]是个平面
+## end
+#694, 3:
+700
+## end
+#697, 216:
+
+
+匹配模板::%[立方体]是个立方体
+输出模板::%[立方体]:->样式(%[立方体],)->+[修改内容]"网格"(,样式),
+    ->+样式"网格"(%[立方体],);
+%[立方体]:->的(%[立方体],X),
+    ->+的(%[立方体],+X)->+的(%[立方体],+Y)->+的(%[立方体],+Z)...
+    ->+[更新网格]"1,1,1"(+立方体,%[立方体])->+[del](,+立方体);
+
+
+## end
+#699, 9:
+%[平面]是个平面
+## end
+#701, 175:
+%[平面]:->样式(%[平面],)->+[修改内容]"网格"(,样式),
+    ->+样式"网格"(%[平面],);
+%[平面]:->的(%[平面],X),
+    ->+的(%[平面],+X)->+的(%[平面],+Y)->+的(%[平面],+Z)...
+    ->+[更新网格]"1,1"(+平面,%[平面])->+[del](,+平面);
+## end
+#702, 3:
+708
+## end
+#704, 3:
+710
+## end
+#706, 3:
+712
+## end
+#708, 3:
+758
+## end
+#711, 161:
+
+
+匹配模板::%[相机]空间反演
+输出模板::的(%[相机],X)->的(%[相机],Y)->的(%[相机],Z)...
+->+[matlab]"X=-X;Y=-Y;Z=-Z;"(Matlab,)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+
+## end
+#713, 9:
+%[相机]空间反演
+## end
+#715, 136:
+的(%[相机],X)->的(%[相机],Y)->的(%[相机],Z)...
+->+[matlab]"X=-X;Y=-Y;Z=-Z;"(Matlab,)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+## end
+#717, 176:
+
+
+匹配模板::%[相机]缩放%[n]倍
+输出模板::的(%[相机],X)->的(%[相机],Y)->的(%[相机],Z)...
+->+[matlab]"X=%[n]*X;Y=%[n]*Y;Z=%[n]*Z;"(Matlab,)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+
+## end
+#719, 12:
+%[相机]缩放%[n]倍
+## end
+#721, 148:
+的(%[相机],X)->的(%[相机],Y)->的(%[相机],Z)...
+->+[matlab]"X=%[n]*X;Y=%[n]*Y;Z=%[n]*Z;"(Matlab,)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+## end
+#723, 197:
+
+
+匹配模板::%[线段]是条线段
+输出模板::%[线段]:->样式(%[线段],)->+[修改内容]"网格"(,样式),
+    ->+样式"网格"(%[线段],);
+%[线段]:->的(%[线段],X),
+    ->+的(%[线段],+X)->+X"0,1"...
+    ->+的(%[线段],+Y)->+Y"0,0"...
+    ->+的(%[线段],+Z)->+Z"0,0";
+
+
+## end
+#725, 9:
+%[线段]是条线段
+## end
+#727, 171:
+%[线段]:->样式(%[线段],)->+[修改内容]"网格"(,样式),
+    ->+样式"网格"(%[线段],);
+%[线段]:->的(%[线段],X),
+    ->+的(%[线段],+X)->+X"0,1"...
+    ->+的(%[线段],+Y)->+Y"0,0"...
+    ->+的(%[线段],+Z)->+Z"0,0";
+## end
+#729, 238:
+
+匹配模板::%[AB]\(三维直线\)从%[A点]出发
+输出模板::在(%[A点],空间点)...
+->的(%[AB],X)->的(%[AB],Y)->的(%[AB],Z)...
+->+[matlab]"
+X(1)=pt(1);
+Y(1)=pt(2);
+Z(1)=pt(3);
+"(Matlab,)->+[.]"pt"(+[matlab],空间点)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+
+
+## end
+#731, 201:
+在(%[A点],空间点)...
+->的(%[AB],X)->的(%[AB],Y)->的(%[AB],Z)...
+->+[matlab]"
+X(1)=pt(1);
+Y(1)=pt(2);
+Z(1)=pt(3);
+"(Matlab,)->+[.]"pt"(+[matlab],空间点)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+## end
+#733, 21:
+%[AB]\(三维直线\)从%[A点]出发
+## end
+#735, 238:
+
+匹配模板::%[AB]\(三维直线\)到%[A点]为止
+输出模板::在(%[A点],空间点)...
+->的(%[AB],X)->的(%[AB],Y)->的(%[AB],Z)...
+->+[matlab]"
+X(2)=pt(1);
+Y(2)=pt(2);
+Z(2)=pt(3);
+"(Matlab,)->+[.]"pt"(+[matlab],空间点)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+
+
+## end
+#737, 21:
+%[AB]\(三维直线\)到%[A点]为止
+## end
+#739, 201:
+在(%[A点],空间点)...
+->的(%[AB],X)->的(%[AB],Y)->的(%[AB],Z)...
+->+[matlab]"
+X(2)=pt(1);
+Y(2)=pt(2);
+Z(2)=pt(3);
+"(Matlab,)->+[.]"pt"(+[matlab],空间点)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+## end
+#741, 49:
+
+
+匹配模板::%[AB]垂直于%[外壳]
+输出模板::+[垂直](%[外壳],%[AB])
+
+
+
+## end
+#743, 13:
+%[AB]垂直于%[外壳]
+## end
+#745, 18:
++[垂直](%[外壳],%[AB])
+## end
+#747, 260:
+"""
+M代码(M函数):...
+
+"""
+
++垂直(_平面,_直线)->+[del](,+垂直)...
+->的(垂直,M代码)...
+
+->朝向(_平面,方向)...
+->的(_直线,X)->的(_直线,Y)->的(_直线,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"Eulers"(+[matlab],方向)...
+->+[o](+[matlab],X)->+[o](+[matlab],Y)->+[o](+[matlab],Z)
+
+
+
+
+## end
+#749, 201:
+%{
++[M函数](,M代码)
+%}
+
+% X,Y,Z,Eulers
+
+L=sqrt((X(1)-X(2))^2+(Y(1)-Y(2))^2+(Z(1)-Z(2))^2);
+[Xu,Yu,Zu]=Euler_frame(Eulers(1),Eulers(2),Eulers(3));
+
+X(2)=X(1)+L*Zu(1);
+Y(2)=Y(1)+L*Zu(2);
+Z(2)=Z(1)+L*Zu(3);
+
+
+## end
+#751, 3:
+765
+## end
+#754, 13:
+文档\S应用\星图.txt
+## end
+#756, 216:
+
+
+匹配模板::%[圆柱体]是个圆柱体
+输出模板::%[圆柱体]:->样式(%[圆柱体],)->+[修改内容]"网格"(,样式),
+    ->+样式"网格"(%[圆柱体],);
+%[圆柱体]:->的(%[圆柱体],X),
+    ->+的(%[圆柱体],+X)->+的(%[圆柱体],+Y)->+的(%[圆柱体],+Z)...
+    ->+[更新网格]"1,1,1"(+圆柱体,%[圆柱体])->+[del](,+圆柱体);
+
+
+## end
+#757, 3:
+767
+## end
+#760, 11:
+%[圆柱体]是个圆柱体
+## end
+#762, 188:
+%[圆柱体]:->样式(%[圆柱体],)->+[修改内容]"网格"(,样式),
+    ->+样式"网格"(%[圆柱体],);
+%[圆柱体]:->的(%[圆柱体],X),
+    ->+的(%[圆柱体],+X)->+的(%[圆柱体],+Y)->+的(%[圆柱体],+Z)...
+    ->+[更新网格]"1,1,1"(+圆柱体,%[圆柱体])->+[del](,+圆柱体);
+## end
+#763, 27:
+%[物体]是\(%[句子]\)的%[图形]\(三维\)
+## end
+#764, 150:
+%[物体]:->的(%[物体],X),->+的(%[物体],+X);
+%[物体]:->的(%[物体],Y),->+的(%[物体],+Y);
+%[物体]:->的(%[物体],Z),->+的(%[物体],+Z);
++[更新网格]"%[句子]"(+%[图形],%[物体])->+[del](,+%[图形])
+## end
+#767, 210:
++[返回目录](,更新图形)
+
+
+匹配模板::%[物体]是\(%[句子]\)的%[图形]\(三维\)
+输出模板::%[物体]:->的(%[物体],X),->+的(%[物体],+X);
+%[物体]:->的(%[物体],Y),->+的(%[物体],+Y);
+%[物体]:->的(%[物体],Z),->+的(%[物体],+Z);
++[更新网格]"%[句子]"(+%[图形],%[物体])->+[del](,+%[图形])
+
+
+
+## end
+#769, 3:
+789
+## end
+#771, 31:
+%[滤光片](朝|背)向%[透镜]的(方向|角度)\(三维\)
+## end
+#772, 688:
+"""
++[P函数](,P代码)
+
+测试(P函数):...
+
+"""
+
+words=re.findall('%(\[[^\[^\]]*\])',pat)
+pat=re.sub('%\[[^\[^\]]*\]',r"([\\s\\S]*)",pat)
+name=re.search(pat,sent)
+obj=name.group(1)
+type_op=name.group(2)
+angle=name.group(3)
+type_an=name.group(4)
+
+code="{0}:->朝向({0},方向),->+朝向({0},+方向);\n".format(obj)
+
+if angle=="x轴":
+    code+="朝向(%s,方向)->+[修改内容]\"90,90,0\"(,方向)"%(obj)
+elif angle=="y轴":
+    code+="朝向(%s,方向)->+[修改内容]\"0,90,0\"(,方向)"%(obj)
+elif angle=="z轴":
+    code+="朝向(%s,方向)->+[修改内容]\"0,0,0\"(,方向)"%(obj)
+
+elif type_an=="方向":
+    code+="+[朝向](%s,%s)"%(obj,angle)
+elif type_an=="角度":
+    code+="朝向(%s,方向)->+[修改内容]\"%s\"(,方向)"%(obj,angle)
+
+if type_op=="背":
+    code+="->+反向(+[朝向],)->+[del](,+反向)"
+
+
+
+## end
+#774, 230:
+"""
++[返回目录](,转述)
+P代码:...
+
+"""
+
++转述(_输入,_输出)->+[del](,+转述)...
+->的(转述,P代码)->匹配模板(+转述,_匹配模板)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[.]"pat"(+[python],_匹配模板)->+[.]"sent"(+[python],_输入)...
+->+[o]"code"(+[python],_输出)
+
+
+
+## end
+#777, 75:
++[返回目录](,朝向)
++[复制结构](,朝向)
+
+匹配模板::%[滤光片](朝|背)向%[透镜]的(方向|角度)\(三维\)
+转述:...
+
+
+
+
+## end
+#779, 14:
+%[A]在\(%[句子]\)
+## end
+#780, 69:
+%[A]:->在(%[A],空间点),->+在(%[A],+空间点);
+在(%[A],空间点)->+[修改内容]"%[句子]"(,空间点)
+## end
+#783, 117:
++[返回目录](,设置位置)
+
+
+匹配模板::%[A]在\(%[句子]\)
+输出模板::%[A]:->在(%[A],空间点),->+在(%[A],+空间点);
+在(%[A],空间点)->+[修改内容]"%[句子]"(,空间点)
+
+
+
+
+## end
+#785, 3:
+791
+## end
+#787, 3:
+793
+## end
+#789, 3:
+795
+## end
+#791, 332:
+"""
++[P函数](,P代码)
+
+测试(P函数):...
+
+"""
+
+words=re.findall('%(\[[^\[^\]]*\])',pat)
+pat=re.sub('%\[[^\[^\]]*\]',r"([\\s\\S]*)",pat)
+name=re.search(pat,sent)
+scene=name.group(1)
+n=int(name.group(2))
+obj=name.group(3)
+
+list_code=[]
+for i in range(n):
+    list_code.append("+[有]({0},+{2}{1})".format(scene,i,obj))
+code="->".join(list_code)
+
+
+
+## end
+#793, 230:
+"""
++[返回目录](,转述)
+P代码:...
+
+"""
+
++转述(_输入,_输出)->+[del](,+转述)...
+->的(转述,P代码)->匹配模板(+转述,_匹配模板)...
+->+[python](Python,)->+[code](+[python],P代码)...
+->+[.]"pat"(+[python],_匹配模板)->+[.]"sent"(+[python],_输入)...
+->+[o]"code"(+[python],_输出)
+
+
+
+## end
+#794, 20:
+^%[场景]中新增%[n]个%[透镜]$
+## end
+#795, 16:
+文档\S应用\网页画板.ftxt
+## end
+#802, 3:
+811
+## end
+#804, 3:
+810
+## end
+#806, 3:
+825
+## end
+#811, 603:
+"""
++[返回目录](,显示三维曲面)
+画网格(M函数):...
+
+"""
+
++显示三维曲面(,_物体)->Matlab{
+    []:->[==](,+显示三维曲面),
+    ->+[matlab]"if ~isempty(n)
+figure(n);
+end"(Matlab,)->+[.]"n"(+[matlab],+显示三维曲面)
+}->+[del](,+显示三维曲面)...
+
+->的(显示三维曲面,画网格)...
+
+->的(_物体,X)->的(_物体,Y)->的(_物体,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],画网格)...
+->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->[]{
+    []:->在(_物体,空间点)->空间点->+[.]"pt"(+[matlab],空间点),
+    ->+[.](+[matlab],+pt)->+pt"0,0,0"->+[del](,+pt)
+}...
+->[]{
+    []:->朝向(_物体,方向)->方向->+[.]"Eulers"(+[matlab],方向),
+    ->+[.](+[matlab],+Eulers)->+Eulers"0,0,0"->+[del](,+Eulers)
+}
+
+
+
+
+
+
+## end
+#813, 363:
+%{
++[M函数](,画网格)
+%}
+
+addpath('Matlab\space');
+
+[X,Y,Z]=transform_3D(pt,Eulers(1),Eulers(2),Eulers(3),X,Y,Z);
+N=size(X,2);
+for i=1:N-1
+    fill_3D(X(:,i),Y(:,i),Z(:,i),X(:,i+1),Y(:,i+1),Z(:,i+1),[1,0.8,0.8]);
+end
+
+patch(X(:,1),Y(:,1),Z(:,1),[1,0.8,0.8],'FaceAlpha',0.5,'EdgeALpha',0);
+patch(X(:,end),Y(:,end),Z(:,end),[1,0.8,0.8],'FaceAlpha',0.5,'EdgeALpha',0);
+
+
+
+
+## end
+#815, 3:
+821
+## end
+#817, 3:
+825
+## end
+#819, 150:
+%[物体]:->的(%[物体],X),->+的(%[物体],+X);
+%[物体]:->的(%[物体],Y),->+的(%[物体],+Y);
+%[物体]:->的(%[物体],Z),->+的(%[物体],+Z);
++[更新网格]"%[句子]"(+%[图形],%[物体])->+[del](,+%[图形])
+## end
+#820, 21:
+%[物体]是\(%[句子]\)的%[图形]
+## end
+#823, 204:
++[返回目录](,更新图形)
+
+
+匹配模板::%[物体]是\(%[句子]\)的%[图形]
+输出模板::%[物体]:->的(%[物体],X),->+的(%[物体],+X);
+%[物体]:->的(%[物体],Y),->+的(%[物体],+Y);
+%[物体]:->的(%[物体],Z),->+的(%[物体],+Z);
++[更新网格]"%[句子]"(+%[图形],%[物体])->+[del](,+%[图形])
+
+
+
+## end
+#825, 3:
+827
+## end
+#827, 3:
+834
+## end
+#830, 83:
++[显示三维场景]"2"(,测试场景2)
+记住"自然语言"
+
+A0::
+A0是立方体
+A0是圆柱体
+A0是球体
+A0是相机
+A0是三维箭头
+A0是平面
+
+
+
+
+
+
+
+
+## end
+#833, 3:
+845
+## end
+#835, 23:
+0.0;
+0.0;
+0.0;
+0.0;
+0.0
+## end
+#837, 26:
+-0.5;
+-0.5;
+0.5;
+0.5;
+-0.5
+## end
+#839, 26:
+-0.5;
+0.5;
+0.5;
+-0.5;
+-0.5
+## end
+#841, 5:
+0,0,0
+## end
+#843, 2:
+平面
+## end
+#845, 3:
+854
+## end
+#854, 29:
+
+
+
+Nini, 导入网页画板的库
+
+测试:...
+
+
+
+
+## end
+#856, 1038:
+<!--
++[H函数](,测试)
+
+参考::https://stemkoski.github.io/Three.js/#outline
+例子(链接)::https://stemkoski.github.io/Three.js/Outline.html
++超链接(例子,)
+例子1:...
+例子2:...
+(没有解决OrbitControl的问题, 先用例1的方案)
++[H函数](,例子1)
++[新建阅读窗口](,例子1)
+-->
+
+%例子
+
+<script src="https://threejs.org/build/three.js"></script>
+<script>
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
+
+const renderer = new THREE.WebGLRenderer();
+renderer.setSize( window.innerWidth, window.innerHeight );
+document.body.appendChild( renderer.domElement );
+
+//const geometry = new THREE.BoxGeometry( 1, 1, 1 );
+const geometry = new THREE.CylinderGeometry( 1, 1, 1, 100 );
+const material = new THREE.LineDashedMaterial( { color: 0xeeeeee } );
+const obj = new THREE.Mesh( geometry, material );
+scene.add( obj );
+
+const light = new THREE.DirectionalLight(0x404040,0.5);
+scene.add(light);
+
+camera.position.z = 5;
+obj.rotation.x=0.5;
+obj.rotation.y=0.5;
+
+renderer.render( scene, camera );
+
+</script>
+
+
+<!--
++[H函数](,测试)
+-->
+## end
+#858, 3608:
+<!--
+Detector
+THREEx
+OrbitControls
+appendChild
+Stats
+loadTexture
++[H函数](,例子1)
+renderer
+问题_import:...
+-->
+
+
+<script src="https://stemkoski.github.io/Three.js/js/Three.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/OrbitControls.js"></script>
+
+<script>
+
+/*
+	Three.js "tutorials by example"
+	Author: Lee Stemkoski
+	Date: July 2013 (three.js v59dev)
+ */
+
+// MAIN
+
+// standard global variables
+var container, scene, camera, renderer, controls, stats;
+//var keyboard = new THREEx.KeyboardState();
+//var clock = new THREE.Clock();
+// custom global variables
+var cube;
+
+init();
+
+// FUNCTIONS 		
+function init() 
+{
+	// SCENE
+	scene = new THREE.Scene();
+	// CAMERA
+	var SCREEN_WIDTH = window.innerWidth, SCREEN_HEIGHT = window.innerHeight;
+	var VIEW_ANGLE = 45, ASPECT = SCREEN_WIDTH / SCREEN_HEIGHT, NEAR = 0.1, FAR = 20000;
+	camera = new THREE.PerspectiveCamera( VIEW_ANGLE, ASPECT, NEAR, FAR);
+	scene.add(camera);
+	camera.position.set(0,150,400);
+	camera.lookAt(scene.position);	
+	// RENDERER
+	//if ( Detector.webgl )
+		renderer = new THREE.WebGLRenderer( {antialias:true} );
+	//else
+		//renderer = new THREE.CanvasRenderer(); 
+	renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+	//container = document.getElementById( 'ThreeJS' );
+	//container.appendChild( renderer.domElement );
+    document.body.appendChild( renderer.domElement );
+	// EVENTS
+	//THREEx.WindowResize(renderer, camera);
+	//THREEx.FullScreen.bindKey({ charCode : 'm'.charCodeAt(0) });
+	// CONTROLS
+	controls = new THREE.OrbitControls( camera, renderer.domElement );
+	// LIGHT
+	var light = new THREE.PointLight(0xffffff);
+	light.position.set(0,150,100);
+	scene.add(light);
+	// FLOOR
+	var floorTexture = new THREE.ImageUtils.loadTexture( 'https://stemkoski.github.io/Three.js/images/checkerboard.jpg' );
+	floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping; 
+	floorTexture.repeat.set( 10, 10 );
+	var floorMaterial = new THREE.MeshBasicMaterial( { map: floorTexture, side: THREE.DoubleSide } );
+
+	var floorGeometry = new THREE.PlaneGeometry(1000, 1000, 10, 10);
+	var floor = new THREE.Mesh(floorGeometry, floorMaterial);
+	floor.position.y = -0.5;
+	floor.rotation.x = Math.PI / 2;
+	scene.add(floor);
+	// SKYBOX/FOG
+	var skyBoxGeometry = new THREE.CubeGeometry( 10000, 10000, 10000 );
+	var skyBoxMaterial = new THREE.MeshBasicMaterial( { color: 0x9999ff, side: THREE.BackSide } );
+	var skyBox = new THREE.Mesh( skyBoxGeometry, skyBoxMaterial );
+	scene.add(skyBox);
+	
+	////////////
+	// CUSTOM //
+	////////////
+
+	var material = new THREE.MeshNormalMaterial();
+
+	var sphereGeometry = new THREE.SphereGeometry(50, 32, 16);
+	var sphere = new THREE.Mesh( sphereGeometry, material );
+	sphere.position.set(-60, 55, 0);
+	scene.add( sphere );		
+
+	var outlineMaterial1 = new THREE.MeshBasicMaterial( { color: 0xff0000, side: THREE.BackSide } );
+	var outlineMesh1 = new THREE.Mesh( sphereGeometry, outlineMaterial1 );
+	outlineMesh1.position = sphere.position;
+	outlineMesh1.scale.multiplyScalar(1.05);
+	scene.add( outlineMesh1 );
+	
+	var cubeGeometry = new THREE.CubeGeometry( 80, 80, 80 );
+	var cube = new THREE.Mesh( cubeGeometry, material );
+	cube.position.set(60, 60, 0);
+	scene.add( cube );		
+	
+
+	var geometry = new THREE.CylinderGeometry(30,30,80,20,4);
+	var shape = new THREE.Mesh( geometry, material );
+	shape.position.set(60, 60, 160);
+	scene.add( shape );		
+}
+
+function animate() {
+    //requestAnimationFrame(animate);
+    render();
+    update();
+}
+
+function update() {
+    controls.update();
+}
+
+function render() {
+    renderer.render( scene, camera );
+}
+
+animate();
+//render();
+//update();
+
+</script>
+
+
+
+<!--
++[H函数](,例子1)
+-->
+## end
+#859, 3:
+868
+## end
+#862, 3532:
+<!--
++[H函数](,例子2)
+
+参考::https://github.com/mrdoob/three.js/blob/master/examples/webgl_lights_spotlight.html
+-->
+
+
+<script src="https://threejs.org/build/three.js"></script>
+<script src="https://github.com/mrdoob/three.js/blob/dev/examples/jsm/controls/OrbitControls.js"></script>
+<script async src="https://unpkg.com/es-module-shims@1.3.6/dist/es-module-shims.js"></script>
+
+<script type="importmap">
+  {
+    "imports": {
+      "three": "https://raw.githubusercontent.com/mrdoob/three.js/dev/build/three.js"
+    }
+  }
+</script>
+
+<script type="module">
+    //import * as THREE from 'https://raw.githubusercontent.com/mrdoob/three.js/dev/build/three.js';
+    //import { OrbitControls } from 'https://github.com/mrdoob/three.js/blob/dev/examples/jsm/controls/OrbitControls.js';
+
+    let renderer, scene, camera;
+    let spotLight, lightHelper, shadowCameraHelper;
+    let gui;
+    
+    function init() {
+    renderer = new THREE.WebGLRenderer();
+    renderer.setPixelRatio( window.devicePixelRatio );
+    renderer.setSize( window.innerWidth, window.innerHeight );
+    document.body.appendChild( renderer.domElement );
+    
+    renderer.shadowMap.enabled = true;
+    renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+    renderer.outputEncoding = THREE.sRGBEncoding;
+    
+    scene = new THREE.Scene();
+    
+    camera = new THREE.PerspectiveCamera( 35, window.innerWidth / window.innerHeight, 1, 1000 );
+    camera.position.set( 160, 40, 10 );
+    
+    const controls = new OrbitControls( camera, renderer.domElement );
+    controls.addEventListener( 'change', render );
+    
+    controls.minDistance = 20;
+    controls.maxDistance = 500;
+    controls.enablePan = false;
+    
+    const ambient = new THREE.AmbientLight( 0xffffff, 0.1 );
+    scene.add( ambient );
+    
+    spotLight = new THREE.SpotLight( 0xffffff, 1 );
+    spotLight.position.set( 15, 40, 35 );
+    spotLight.angle = Math.PI / 4;
+    spotLight.penumbra = 0.1;
+    spotLight.decay = 2;
+    spotLight.distance = 200;
+    
+    spotLight.castShadow = true;
+    spotLight.shadow.mapSize.width = 512;
+    spotLight.shadow.mapSize.height = 512;
+    spotLight.shadow.camera.near = 10;
+    spotLight.shadow.camera.far = 200;
+    spotLight.shadow.focus = 1;
+    
+    scene.add( spotLight );
+    
+    lightHelper = new THREE.SpotLightHelper( spotLight );
+    scene.add( lightHelper );
+    
+    shadowCameraHelper = new THREE.CameraHelper( spotLight.shadow.camera );
+    scene.add( shadowCameraHelper );
+    
+    
+    
+    //
+    let material = new THREE.MeshPhongMaterial( { color: 0x808080, dithering: true } );
+    let geometry = new THREE.PlaneGeometry( 2000, 2000 );
+    let mesh = new THREE.Mesh( geometry, material );
+    mesh.position.set( 0, - 1, 0 );
+    mesh.rotation.x = - Math.PI * 0.5;
+    mesh.receiveShadow = true;
+    scene.add( mesh );
+    
+    //
+    material = new THREE.MeshPhongMaterial( { color: 0x4080ff, dithering: true } );
+    geometry = new THREE.CylinderGeometry( 5, 5, 2, 32, 1, false );
+    
+    mesh = new THREE.Mesh( geometry, material );
+    mesh.position.set( 0, 5, 0 );
+    mesh.castShadow = true;
+    
+    scene.add( mesh );
+    render();
+    window.addEventListener( 'resize', onWindowResize );
+}
+
+
+
+function onWindowResize() {
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize( window.innerWidth, window.innerHeight );
+}
+
+
+
+function render() {
+    lightHelper.update();
+    shadowCameraHelper.update();
+    renderer.render( scene, camera );
+}
+init();
+render();
+
+
+</script>
+
+
+## end
+#864, 83:
+https://github.com/mrdoob/three.js/blob/master/examples/webgl_lights_spotlight.html
+## end
+#866, 3754:
+<!--
+Detector
+THREEx
+OrbitControls
+appendChild
+Stats
+loadTexture
++[H函数](,例子1)
+renderer
+<script src="https://stemkoski.github.io/Three.js/js/Three.js"></script>
+问题_import:...
+-->
+
+
+<script src="https://threejs.org/build/three.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/OrbitControls.js"></script>
+
+<script type="module">
+
+import { THREE } from 'https://stemkoski.github.io/Three.js/js/Three.js'
+/*
+	Three.js "tutorials by example"
+	Author: Lee Stemkoski
+	Date: July 2013 (three.js v59dev)
+ */
+
+// MAIN
+
+// standard global variables
+var container, scene, camera, renderer, controls, stats;
+//var keyboard = new THREEx.KeyboardState();
+//var clock = new THREE.Clock();
+// custom global variables
+var cube;
+
+init();
+
+// FUNCTIONS 		
+function init() 
+{
+	// SCENE
+	scene = new THREE.Scene();
+	// CAMERA
+	var SCREEN_WIDTH = window.innerWidth, SCREEN_HEIGHT = window.innerHeight;
+	var VIEW_ANGLE = 45, ASPECT = SCREEN_WIDTH / SCREEN_HEIGHT, NEAR = 0.1, FAR = 20000;
+	camera = new THREE.PerspectiveCamera( VIEW_ANGLE, ASPECT, NEAR, FAR);
+	scene.add(camera);
+	camera.position.set(0,150,400);
+	camera.lookAt(scene.position);	
+	// RENDERER
+	//if ( Detector.webgl )
+		renderer = new THREE.WebGLRenderer( {antialias:true} );
+	//else
+		//renderer = new THREE.CanvasRenderer(); 
+	renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+	//container = document.getElementById( 'ThreeJS' );
+	//container.appendChild( renderer.domElement );
+    document.body.appendChild( renderer.domElement );
+	// EVENTS
+	//THREEx.WindowResize(renderer, camera);
+	//THREEx.FullScreen.bindKey({ charCode : 'm'.charCodeAt(0) });
+	// CONTROLS
+	controls = new THREE.OrbitControls( camera, renderer.domElement );
+	// LIGHT
+	var light = new THREE.PointLight(0xffffff);
+	light.position.set(0,150,100);
+	scene.add(light);
+	// FLOOR
+	var floorTexture = new THREE.ImageUtils.loadTexture( 'https://stemkoski.github.io/Three.js/images/checkerboard.jpg' );
+	floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping; 
+	floorTexture.repeat.set( 10, 10 );
+	var floorMaterial = new THREE.MeshBasicMaterial( { map: floorTexture, side: THREE.DoubleSide } );
+
+	var floorGeometry = new THREE.PlaneGeometry(1000, 1000, 10, 10);
+	var floor = new THREE.Mesh(floorGeometry, floorMaterial);
+	floor.position.y = -0.5;
+	floor.rotation.x = Math.PI / 2;
+	scene.add(floor);
+	// SKYBOX/FOG
+	var skyBoxGeometry = new THREE.CubeGeometry( 10000, 10000, 10000 );
+	var skyBoxMaterial = new THREE.MeshBasicMaterial( { color: 0x9999ff, side: THREE.BackSide } );
+	var skyBox = new THREE.Mesh( skyBoxGeometry, skyBoxMaterial );
+	scene.add(skyBox);
+	
+	////////////
+	// CUSTOM //
+	////////////
+
+	var material = new THREE.MeshNormalMaterial();
+
+	var sphereGeometry = new THREE.SphereGeometry(50, 32, 16);
+	var sphere = new THREE.Mesh( sphereGeometry, material );
+	sphere.position.set(-60, 55, 0);
+	scene.add( sphere );		
+
+	var outlineMaterial1 = new THREE.MeshBasicMaterial( { color: 0xff0000, side: THREE.BackSide } );
+	var outlineMesh1 = new THREE.Mesh( sphereGeometry, outlineMaterial1 );
+	outlineMesh1.position = sphere.position;
+	outlineMesh1.scale.multiplyScalar(1.05);
+	scene.add( outlineMesh1 );
+	
+	var cubeGeometry = new THREE.CubeGeometry( 80, 80, 80 );
+	var cube = new THREE.Mesh( cubeGeometry, material );
+	cube.position.set(60, 60, 0);
+	scene.add( cube );		
+	
+
+	var geometry = new THREE.CylinderGeometry(30,30,80,20,4);
+	var shape = new THREE.Mesh( geometry, material );
+	shape.position.set(60, 60, 160);
+	scene.add( shape );		
+}
+
+function animate() {
+    //requestAnimationFrame(animate);
+    render();
+    update();
+}
+
+function update() {
+    controls.update();
+}
+
+function render() {
+    renderer.render( scene, camera );
+}
+
+animate();
+//render();
+//update();
+
+</script>
+
+
+
+<!--
++[H函数](,例子1)
+-->
+## end
+#867, 3:
+869
+## end
+#869, 3:
+948
+## end
+#872, 733:
+"""
++[返回目录](,显示三维场景)
+画网格(M函数):...
+记住显示三维场景(节点)
+
+"""
+
++显示三维场景(,_场景)->Matlab{
+    []:->[==](,+显示三维场景),
+    ->+[matlab]"if ~isempty(n)
+figure(n);
+end"(Matlab,)->+[.]"n"(+[matlab],+显示三维场景)
+}->+[del](,+显示三维场景)...
+
+->的(显示三维场景,画网格)...
+->+[matlab]"clf;axis equal;hold on;
+xlabel('X');
+ylabel('Y');
+zlabel('Z');
+"(Matlab,)...
+
+=>的(_场景,_物体)->的(_物体,X#1)...
+=>的(_物体,X)->的(_物体,Y)->的(_物体,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],画网格)...
+->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->[]{
+    []:->在(_物体,空间点)->空间点->+[.]"pt"(+[matlab],空间点),
+    ->+[.](+[matlab],+pt)->+pt"0,0,0"->+[del](,+pt)
+}...
+->[]{
+    []:->朝向(_物体,方向)->方向->+[.]"Eulers"(+[matlab],方向),
+    ->+[.](+[matlab],+Eulers)->+Eulers"0,0,0"->+[del](,+Eulers)
+}
+
+
+
+
+
+
+## end
+#874, 507:
+"""
+Nini, 打开公式分析器(文件)
+局域坐标系:...
+物体类型:...
+
+"""
+
++结构描述(_操作,_场景)...
+->的(结构描述,局域坐标系)...
+
+->操作(+结构描述,)...
+
+->+空间点"0,0,0"->[]{
+    []:->原点(_操作,)->[m_text](原点,+空间点),->[]
+}->+空间角"0,0,0"->[]{
+    []:->方向(_操作,)->[m_text](方向,+空间角),->[]
+}...
+
+
+->[]{
+    []=>的(_场景,_物体)->_物体=>[]:
+        ->的(_物体,X#0)->+三维物体(,_物体)->+的(操作,+三维物体)...
+            ->+原点(+三维物体,+空间点)->+方向(+三维物体,+空间角),
+        ->的(_物体,_物体1)->的(_物体1,X#1)...
+            ->+组合体(,_物体)->+的(操作,+组合体)...
+            ->+原点(+组合体,+空间点)->+方向(+组合体,+空间角),
+        ->[]
+}
+
+
+## end
+#876, 42:
+
+
+三维物体:...
+组合体:...
+将条目"三维物体"复制为条目"组合体"
+
+
+
+
+## end
+#882, 590:
+"""
+M代码:...
+
+"""
+
++组合体(,_场景)->+[del](,+组合体)...
+->的(组合体,M代码)...
+
+->原点(+组合体,)->方向(+组合体,)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"pt0"(+[matlab],原点)->+[.]"Eulers0"(+[matlab],方向)...
+->[]{
+    []:->在(_场景,空间点)->空间点->+[.]"pt"(+[matlab],空间点),
+    ->+[.](+[matlab],+pt)->+pt"0,0,0"->+[del](,+pt)
+}...
+->[]{
+    []:->朝向(_场景,方向#1)->方向#1->+[.]"Eulers"(+[matlab],方向#1),
+    ->+[.](+[matlab],+Eulers)->+Eulers"0,0,0"->+[del](,+Eulers)
+}...
+
+->+[显示三维场景](,_场景)...
+->+[o]"pt2"(+[matlab],+原点)->+原点(+[显示三维场景],)->+[del](,+原点)...
+->+[o]"Eulers2"(+[matlab],+方向)->+方向(+[显示三维场景],)->+[del](,+方向)
+
+
+## end
+#884, 131:
+%{
++[M函数](,M代码)
+%}
+
+addpath('Matlab/space');
+
+[pt2,Eulers2]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt,Eulers);
+
+
+
+
+## end
+#885, 636:
+%{
++[M函数](,M代码)
+Nini, 打开词典的条目(节点)
++[打开文件夹]"Matlab/space"
+
+fill_3D:...
+transform_3D_frame:...
+%}
+
+addpath('Matlab/space');
+
+[pt1,Eulers1]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt,Eulers);
+[X,Y,Z]=transform_3D(pt1,Eulers1(1),Eulers1(2),Eulers1(3),X0,Y0,Z0);
+plot3(X,Y,Z,'k-')
+
+N=size(X,2);
+for i=1:N-1
+%     fill_3D(X(:,i),Y(:,i),Z(:,i),X(:,i+1),Y(:,i+1),Z(:,i+1),[0.95,0.95,0.95]);
+    fill_3D(X(:,i),Y(:,i),Z(:,i),X(:,i+1),Y(:,i+1),Z(:,i+1),color_RGB);
+end
+
+patch(X(:,1),Y(:,1),Z(:,1),[0.95,0.95,0.95],'FaceAlpha',0.5,'EdgeALpha',0);
+patch(X(:,end),Y(:,end),Z(:,end),[0.95,0.95,0.95],'FaceAlpha',0.5,'EdgeALpha',0);
+
+
+
+## end
+#887, 703:
+"""
+M代码:...
+
+"""
+
++三维物体(,_物体)->+[del](,+三维物体)...
+->的(三维物体,M代码)...
+
+->原点(+三维物体,)->方向(+三维物体,)...
+->的(_物体,X)->的(_物体,Y)->的(_物体,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"X0"(+[matlab],X)->+[.]"Y0"(+[matlab],Y)->+[.]"Z0"(+[matlab],Z)...
+->+[.]"pt0"(+[matlab],原点)->+[.]"Eulers0"(+[matlab],方向)...
+->[]{
+    []:->在(_物体,空间点)->空间点->+[.]"pt"(+[matlab],空间点),
+    ->+[.](+[matlab],+pt)->+pt"0,0,0"->+[del](,+pt)
+}...
+->[]{
+    []:->朝向(_物体,方向#1)->方向#1->+[.]"Eulers"(+[matlab],方向#1),
+    ->+[.](+[matlab],+Eulers)->+Eulers"0,0,0"->+[del](,+Eulers)
+}...
+->[]{
+    []:->的(_物体,颜色)->颜色->+[.]"color_RGB"(+[matlab],颜色),
+    ->+[.](+[matlab],+color_RGB)->+color_RGB"0.95,0.95,0.95"->+[del](,+color_RGB)
+}
+
+
+
+## end
+#890, 58:
+axis equal;hold on;
+xlabel('X');
+ylabel('Y');
+zlabel('Z');
+## end
+#892, 549:
+%{
++[保存M函数](,transform_3D_frame)
+地址::Matlab\space\transform_3D_frame.m
+
+测试:...
++[M函数](,测试)
+
+版本1:...
+(这一版有问题, Euler_frame输出的XYZ要做一些处理)
+%}
+
+function [pt2,Eulers2]=transform_3D_frame(pt,alpha,beta,gamma,pt1,Eulers1)
+
+[x,y,z]=transform_3D(pt,alpha,beta,gamma,pt1(1),pt1(2),pt1(3));
+pt2=[x,y,z];
+
+[X,Y,Z]=Euler_frame(Eulers1(1),Eulers1(2),Eulers1(3));
+[vX,vY,vZ]=Euler_frame(alpha,beta,gamma);
+
+T=[vX;vY;vZ];
+P0=[X;Y;Z];
+P=P0*T;
+
+X2=P(1,:);
+Y2=P(2,:);
+Z2=P(3,:);
+Eulers2=real(frame2Eulers(X2,Y2,Z2));
+
+end
+
+%{
++[保存M函数](,transform_3D_frame)
++[M函数](,测试)
+%}
+## end
+#894, 33:
+Matlab\space\transform_3D_frame.m
+## end
+#899, 246:
+%{
++[M函数](,测试)
+全代码测试:...
++[M函数](,全代码测试)
+%}
+
+addpath('Matlab\space');
+
+pt0=[0,0,1];
+Eulers0=[0,45,0]
+pt=[1,-1,0];
+Eulers=[0,0,0];
+
+[pt2,Eulers2]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt,Eulers);
+Eulers0
+Eulers2
+
+%{
++[M函数](,测试)
+%}
+## end
+#900, 16:
+文档\数学问题\空间角.ftxt
+## end
+#901, 16:
+文档\数学问题\空间角.ftxt
+## end
+#902, 17:
+文档\数学问题\三维旋转.ftxt
+## end
+#904, 456:
+%{
++[M函数](,全代码测试)
+互逆对比:...
+额, 问题出在Euler_frame输出的XYZ和transform_3D输入的XYZ的定义是不一样的
+%}
+
+addpath('Matlab\space');
+
+pt0=[0,0,0];
+Eulers0=[0,0,0];
+pt=[1,1,0];
+Eulers=[0,45,0];
+
+alpha=Eulers0(1);
+beta=Eulers0(2);
+gamma=Eulers0(3);
+[x,y,z]=transform_3D(pt0,alpha,beta,gamma,pt(1),pt(2),pt(3));
+pt2=[x,y,z]
+
+[X,Y,Z]=Euler_frame(Eulers(1),Eulers(2),Eulers(3))
+[X2,Y2,Z2]=transform_3D(pt0,alpha,beta,gamma,X,Y,Z);
+Eulers2=frame2Eulers(X2,Y2,Z2);
+
+
+
+%{
++[M函数](,全代码测试)
+%}
+## end
+#906, 366:
+%{
++[M函数](,互逆对比)
+额, 问题出在Euler_frame输出的XYZ和transform_3D输入的XYZ的定义是不一样的
+%}
+
+addpath('Matlab\space');
+
+pt0=[0,0,0];
+
+Eulers=[0,45,0];
+[X,Y,Z]=Euler_frame(Eulers(1),Eulers(2),Eulers(3))
+
+
+Eulers=[0,0,0];
+Eulers0=[0,45,0];
+[X1,Y1,Z1]=Euler_frame(Eulers(1),Eulers(2),Eulers(3));
+[X2,Y2,Z2]=transform_3D(pt0,Eulers0(1),Eulers0(2),Eulers0(3),X1,Y1,Z1)
+
+
+
+
+%{
++[M函数](,互逆对比)
+%}
+## end
+#908, 455:
+%{
++[保存M函数](,transform_3D_frame)
+地址::Matlab\space\transform_3D_frame.m
+
+测试:...
++[M函数](,测试)
+
+版本1:...
+%}
+
+function [pt2,Eulers2]=transform_3D_frame(pt,alpha,beta,gamma,pt1,Eulers1)
+
+[x,y,z]=transform_3D(pt,alpha,beta,gamma,pt1(1),pt1(2),pt1(3));
+pt2=[x,y,z];
+
+[X,Y,Z]=Euler_frame(Eulers1(1),Eulers1(2),Eulers1(3));
+[X2,Y2,Z2]=transform_3D([0,0,0],alpha,beta,gamma,X,Y,Z);
+Eulers2=frame2Eulers(X2,Y2,Z2);
+
+end
+
+%{
++[保存M函数](,transform_3D_frame)
++[M函数](,测试)
+%}
+## end
+#910, 96:
+"""
+
+
+"""
+
++更新物体_规则(,_物体)->+[del](,+更新物体_规则)...
+
+->的(_物体,规则)...
+->+[做](,_物体)->+[code](+[做],规则)
+
+
+## end
+#912, 228:
+"""
+M代码(M函数):...
+
+"""
+
++显示物体名称(,_布局)->+[del](,+显示物体名称)...
+->的(显示物体名称,M代码)...
+
+=>的(_布局,_物体)->在(_物体,空间点)...
+=>+[标题](_物体,)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"name"(+[matlab],+[标题])->+[.]"pt"(+[matlab],空间点)
+
+
+
+## end
+#914, 33:
+
+text(pt(1),pt(2),pt(3),name);
+
+
+
+## end
+#920, 191:
+%{
++[M函数](,测试)
+%}
+
+addpath('Matlab\space');
+
+%p0=[-1,0,0];
+%r0=[1,0,0];
+
+p0=[0,-1,0];
+r0=[0,1,0];
+
+%p0=[0,0,-1];
+%r0=[0,0,1];
+
+camera_lookat(r0,p0,0)
+camera_lookat(p0,r0,0)
+
+%{
++[M函数](,测试)
+%}
+## end
+#921, 3:
+923
+## end
+#924, 378:
++[显示三维场景]"1"(,测试场景3)
+
+
+有A0, A1, A2和A3
+有A4
+A0是立方体"1,1.5,0.8"
+A1是圆柱体"0.4,2"
+A2是球体"0.8"
+A3是平面"2,2"
+
+
+A3:...
+的(A3,a0)->+[图形生成物体]"立方体"(a0,A0)->+[.]"平面"(+[图形生成物体],A3)
+的(A3,a1)->+[图形生成物体]"圆柱体"(a1,A1)->+[.]"平面"(+[图形生成物体],A3)
+的(A3,a2)->+[图形生成物体]"球体"(a2,A2)->+[.]"平面"(+[图形生成物体],A3)
+的(A3,a3)->+[图形生成物体]"多面体"(a3,A4)->+[.]"平面"(+[图形生成物体],A3)
+
+A3朝向"45,30,10"
+A3朝向"5,0,10"
+
++[显示三维场景]"1"(,测试场景3)
+## end
+#932, 240:
++[显示PPT场景]"2"(,A3)
+
+
+有a0, a1, a2和a3
+
+a0是长方形"0.5,0.8"
+a0在(-0.2,0)
+a0朝向"10"
+
+a1是圆形"0.1"
+a1在(0.5,0.3)
+
+a2是圆形"0.15"
+a2在(0.5,-0.1)
+
+axis([-1,1,-1,1])
+在屏幕"2"中, 添加标记点
+a3是标记点的多边形
+
++[更新图形]"0.1,0.1,0.1"(+路线箭头,a3)->+[del](,+路线箭头)
+
+
+
++[显示PPT场景]"2"(,A3)
+## end
+#934, 48:
+0.0, 0.8;
+0.0, 0.8;
+0.0, 0.8;
+0.0, 0.8;
+0.0, 0.8
+## end
+#936, 54:
+-0.4, -0.4;
+-0.4, -0.4;
+0.4, 0.4;
+0.4, 0.4;
+-0.4, -0.4
+## end
+#938, 64:
+-0.25, -0.25;
+0.25, 0.25;
+0.25, 0.25;
+-0.25, -0.25;
+-0.25, -0.25
+## end
+#940, 45:
+0.03339178150134881, 0.05389075641467069, 0.0
+## end
+#942, 3:
+0.8
+## end
+#944, 3:
+0.5
+## end
+#946, 3:
+0.8
+## end
+#948, 3:
+立方体
+## end
+#950, 998:
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0;
+0.0, 2.0
+## end
+#952, 4260:
+0.0, 0.0;
+0.006342391965656451, 0.006342391965656451;
+0.012659245357374928, 0.012659245357374928;
+0.01892512443604102, 0.01892512443604102;
+0.025114798718107924, 0.025114798718107924;
+0.031203344569848718, 0.031203344569848718;
+0.037166245566032756, 0.037166245566032756;
+0.04297949120891716, 0.04297949120891716;
+0.048619673610046876, 0.048619673610046876;
+0.05406408174555976, 0.05406408174555976;
+0.05929079290546405, 0.05929079290546405;
+0.06427876096865393, 0.06427876096865393;
+0.06900790114821119, 0.06900790114821119;
+0.07345917086575333, 0.07345917086575333;
+0.07761464642917569, 0.07761464642917569;
+0.08145759520503358, 0.08145759520503358;
+0.08497254299495144, 0.08497254299495144;
+0.08814533634475821, 0.08814533634475821;
+0.09096319953545184, 0.09096319953545184;
+0.09341478602651068, 0.09341478602651068;
+0.09549022414440739, 0.09549022414440739;
+0.09718115683235418, 0.09718115683235418;
+0.0984807753012208, 0.0984807753012208;
+0.09938384644612541, 0.09938384644612541;
+0.0998867339183008, 0.0998867339183008;
+0.09998741276738751, 0.09998741276738751;
+0.09968547759519425, 0.09968547759519425;
+0.09898214418809327, 0.09898214418809327;
+0.09788024462147787, 0.09788024462147787;
+0.09638421585599422, 0.09638421585599422;
+0.09450008187146686, 0.09450008187146686;
+0.09223542941045815, 0.09223542941045815;
+0.0895993774291336, 0.0895993774291336;
+0.08660254037844387, 0.08660254037844387;
+0.08325698546347714, 0.08325698546347714;
+0.07957618405308323, 0.07957618405308323;
+0.07557495743542585, 0.07557495743542585;
+0.0712694171378863, 0.0712694171378863;
+0.06667690005162916, 0.06667690005162916;
+0.06181589862206053, 0.06181589862206053;
+0.05670598638627705, 0.05670598638627705;
+0.051367739157340636, 0.051367739157340636;
+0.045822652172741056, 0.045822652172741056;
+0.04009305354066135, 0.04009305354066135;
+0.03420201433256687, 0.03420201433256687;
+0.028173255684142987, 0.028173255684142987;
+0.022031053278654053, 0.022031053278654053;
+0.015800139597334995, 0.015800139597334995;
+0.00950560433041829, 0.00950560433041829;
+0.0031727933498067566, 0.0031727933498067566;
+-0.0031727933498067566, -0.0031727933498067566;
+-0.00950560433041829, -0.00950560433041829;
+-0.015800139597334995, -0.015800139597334995;
+-0.022031053278654053, -0.022031053278654053;
+-0.028173255684142987, -0.028173255684142987;
+-0.03420201433256687, -0.03420201433256687;
+-0.04009305354066135, -0.04009305354066135;
+-0.045822652172741056, -0.045822652172741056;
+-0.051367739157340636, -0.051367739157340636;
+-0.05670598638627705, -0.05670598638627705;
+-0.06181589862206053, -0.06181589862206053;
+-0.06667690005162916, -0.06667690005162916;
+-0.0712694171378863, -0.0712694171378863;
+-0.07557495743542585, -0.07557495743542585;
+-0.0795761840530832, -0.0795761840530832;
+-0.08325698546347715, -0.08325698546347715;
+-0.08660254037844387, -0.08660254037844387;
+-0.08959937742913358, -0.08959937742913358;
+-0.09223542941045815, -0.09223542941045815;
+-0.09450008187146686, -0.09450008187146686;
+-0.09638421585599422, -0.09638421585599422;
+-0.09788024462147787, -0.09788024462147787;
+-0.09898214418809327, -0.09898214418809327;
+-0.09968547759519424, -0.09968547759519424;
+-0.09998741276738751, -0.09998741276738751;
+-0.0998867339183008, -0.0998867339183008;
+-0.09938384644612541, -0.09938384644612541;
+-0.0984807753012208, -0.0984807753012208;
+-0.09718115683235418, -0.09718115683235418;
+-0.0954902241444074, -0.0954902241444074;
+-0.09341478602651065, -0.09341478602651065;
+-0.09096319953545183, -0.09096319953545183;
+-0.0881453363447582, -0.0881453363447582;
+-0.08497254299495144, -0.08497254299495144;
+-0.0814575952050336, -0.0814575952050336;
+-0.0776146464291757, -0.0776146464291757;
+-0.0734591708657533, -0.0734591708657533;
+-0.06900790114821119, -0.06900790114821119;
+-0.06427876096865393, -0.06427876096865393;
+-0.05929079290546407, -0.05929079290546407;
+-0.054064081745559794, -0.054064081745559794;
+-0.048619673610046835, -0.048619673610046835;
+-0.04297949120891714, -0.04297949120891714;
+-0.03716624556603275, -0.03716624556603275;
+-0.031203344569848718, -0.031203344569848718;
+-0.025114798718107945, -0.025114798718107945;
+-0.018925124436041066, -0.018925124436041066;
+-0.012659245357374891, -0.012659245357374891;
+-0.006342391965656433, -0.006342391965656433;
+0.0, 0.0
+## end
+#954, 4194:
+0.1, 0.1;
+0.09979866764718845, 0.09979866764718845;
+0.09919548128307953, 0.09919548128307953;
+0.09819286972627067, 0.09819286972627067;
+0.09679487013963563, 0.09679487013963563;
+0.09500711177409454, 0.09500711177409454;
+0.09283679330160727, 0.09283679330160727;
+0.09029265382866214, 0.09029265382866214;
+0.0873849377069785, 0.0873849377069785;
+0.08412535328311813, 0.08412535328311813;
+0.08052702575310586, 0.08052702575310586;
+0.0766044443118978, 0.0766044443118978;
+0.07237340381050703, 0.07237340381050703;
+0.06785094115571322, 0.06785094115571322;
+0.06305526670845225, 0.06305526670845225;
+0.05800569095711982, 0.05800569095711982;
+0.05272254676105025, 0.05272254676105025;
+0.04722710747726827, 0.04722710747726827;
+0.041541501300188646, 0.041541501300188646;
+0.03568862215918718, 0.03568862215918718;
+0.029692037532827478, 0.029692037532827478;
+0.02357589355094273, 0.02357589355094273;
+0.017364817766693033, 0.017364817766693033;
+0.011083819990101095, 0.011083819990101095;
+0.004758191582374241, 0.004758191582374241;
+-0.0015865963834807884, -0.0015865963834807884;
+-0.00792499568567885, -0.00792499568567885;
+-0.014231483827328523, -0.014231483827328523;
+-0.02048066680651906, -0.02048066680651906;
+-0.0266473813690035, -0.0266473813690035;
+-0.032706796331742165, -0.032706796331742165;
+-0.03863451256931288, -0.03863451256931288;
+-0.04440666126057741, -0.04440666126057741;
+-0.05, -0.05;
+-0.05539200638661103, -0.05539200638661103;
+-0.060560968713766664, -0.060560968713766664;
+-0.0654860733945285, -0.0654860733945285;
+-0.07014748877063212, -0.07014748877063212;
+-0.07452644496757548, -0.07452644496757548;
+-0.07860530947427874, -0.07860530947427874;
+-0.0823676581429833, -0.0823676581429833;
+-0.08579834132349771, -0.08579834132349771;
+-0.08888354486549234, -0.08888354486549234;
+-0.09161084574320698, -0.09161084574320698;
+-0.09396926207859085, -0.09396926207859085;
+-0.09594929736144975, -0.09594929736144975;
+-0.09754297868854071, -0.09754297868854071;
+-0.09874388886763943, -0.09874388886763943;
+-0.09954719225730846, -0.09954719225730846;
+-0.09994965423831852, -0.09994965423831852;
+-0.09994965423831852, -0.09994965423831852;
+-0.09954719225730846, -0.09954719225730846;
+-0.09874388886763943, -0.09874388886763943;
+-0.09754297868854071, -0.09754297868854071;
+-0.09594929736144975, -0.09594929736144975;
+-0.09396926207859085, -0.09396926207859085;
+-0.09161084574320698, -0.09161084574320698;
+-0.08888354486549234, -0.08888354486549234;
+-0.08579834132349771, -0.08579834132349771;
+-0.0823676581429833, -0.0823676581429833;
+-0.07860530947427874, -0.07860530947427874;
+-0.07452644496757548, -0.07452644496757548;
+-0.07014748877063212, -0.07014748877063212;
+-0.0654860733945285, -0.0654860733945285;
+-0.060560968713766684, -0.060560968713766684;
+-0.055392006386611015, -0.055392006386611015;
+-0.05, -0.05;
+-0.044406661260577435, -0.044406661260577435;
+-0.03863451256931286, -0.03863451256931286;
+-0.032706796331742165, -0.032706796331742165;
+-0.02664738136900352, -0.02664738136900352;
+-0.02048066680651906, -0.02048066680651906;
+-0.014231483827328523, -0.014231483827328523;
+-0.007924995685678874, -0.007924995685678874;
+-0.001586596383480838, -0.001586596383480838;
+0.004758191582374265, 0.004758191582374265;
+0.01108381999010112, 0.01108381999010112;
+0.017364817766693033, 0.017364817766693033;
+0.02357589355094271, 0.02357589355094271;
+0.029692037532827453, 0.029692037532827453;
+0.03568862215918722, 0.03568862215918722;
+0.04154150130018867, 0.04154150130018867;
+0.04722710747726828, 0.04722710747726828;
+0.05272254676105024, 0.05272254676105024;
+0.0580056909571198, 0.0580056909571198;
+0.06305526670845223, 0.06305526670845223;
+0.06785094115571325, 0.06785094115571325;
+0.07237340381050704, 0.07237340381050704;
+0.0766044443118978, 0.0766044443118978;
+0.08052702575310586, 0.08052702575310586;
+0.0841253532831181, 0.0841253532831181;
+0.08738493770697853, 0.08738493770697853;
+0.09029265382866214, 0.09029265382866214;
+0.09283679330160727, 0.09283679330160727;
+0.09500711177409454, 0.09500711177409454;
+0.09679487013963563, 0.09679487013963563;
+0.09819286972627067, 0.09819286972627067;
+0.09919548128307953, 0.09919548128307953;
+0.09979866764718845, 0.09979866764718845;
+0.1, 0.1
+## end
+#956, 43:
+0.4053171996137779, 0.4191872704379808, 0.0
+## end
+#958, 3:
+2.0
+## end
+#960, 3:
+0.1
+## end
+#962, 3:
+圆柱体
+## end
+#964, 7748:
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15;
+0.15, 0.14095389311788625, 0.1149066664678467, 0.075, 0.02604722665003955, -0.02604722665003955, -0.075, -0.1149066664678467, -0.14095389311788625, -0.15
+## end
+#966, 8942:
+0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0;
+0.0, 0.006560484775112167, 0.012329678263902407, 0.016611730587394836, 0.018890163039014574, 0.018890163039014574, 0.016611730587394836, 0.012329678263902407, 0.006560484775112167, 0.0;
+0.0, 0.013013246571591384, 0.024456903551583888, 0.03295069701780073, 0.03747015012317527, 0.03747015012317527, 0.03295069701780073, 0.024456903551583888, 0.013013246571591384, 0.0;
+0.0, 0.019252331219135693, 0.03618254715909597, 0.04874861391414553, 0.055434878378231654, 0.055434878378231654, 0.04874861391414553, 0.03618254715909597, 0.019252331219135693, 0.0;
+0.0, 0.025175293120321216, 0.04731407434257619, 0.06374607991774822, 0.0724893674628974, 0.0724893674628974, 0.06374607991774822, 0.04731407434257619, 0.025175293120321216, 0.0;
+0.0, 0.03068487740447962, 0.05766870573341951, 0.07769683705145702, 0.08835358313789912, 0.08835358313789912, 0.07769683705145702, 0.05766870573341951, 0.03068487740447962, 0.0;
+0.0, 0.03569061684998568, 0.06707641857045749, 0.09037181426882586, 0.10276703542044316, 0.10276703542044316, 0.09037181426882586, 0.06707641857045749, 0.03569061684998568, 0.0;
+0.0, 0.04011031735353534, 0.07538273846899625, 0.10156288879436426, 0.11549305582253158, 0.11549305582253158, 0.10156288879436426, 0.07538273846899625, 0.04011031735353534, 0.0;
+0.0, 0.04387140755504953, 0.08245127588594238, 0.11108630349375681, 0.1263226834409919, 0.1263226834409919, 0.11108630349375681, 0.08245127588594238, 0.04387140755504953, 0.0;
+0.0, 0.04691213045740033, 0.0881659656323299, 0.1187856841609285, 0.13507809608973023, 0.13507809608973023, 0.1187856841609285, 0.0881659656323299, 0.04691213045740033, 0.0;
+0.0, 0.04918255747459647, 0.09243297266051424, 0.12453460717818524, 0.14161553013511072, 0.14161553013511072, 0.12453460717818524, 0.09243297266051424, 0.04918255747459647, 0.0;
+0.0, 0.05064540825778492, 0.0951822328330604, 0.1282386753885212, 0.1458276410908453, 0.1458276410908453, 0.1282386753885212, 0.0951822328330604, 0.05064540825778492, 0.0;
+0.0, 0.051276662837548434, 0.09636860337394257, 0.1298370680943272, 0.147645266211491, 0.147645266211491, 0.1298370680943272, 0.09636860337394257, 0.051276662837548434, 0.0;
+0.0, 0.05106595603113926, 0.09597260411167843, 0.12930353973156386, 0.1470385601428177, 0.1470385601428177, 0.12930353973156386, 0.09597260411167843, 0.05106595603113926, 0.0;
+0.0, 0.05001674763849334, 0.0940007373432064, 0.12664685082119753, 0.14401748498169972, 0.14401748498169972, 0.12664685082119753, 0.0940007373432064, 0.05001674763849334, 0.0;
+0.0, 0.048146265632410985, 0.09048538106634957, 0.12191062412168831, 0.13863164669876055, 0.13863164669876055, 0.12191062412168831, 0.09048538106634957, 0.048146265632410985, 0.0;
+0.0, 0.045485223275719786, 0.08548425733398665, 0.11517262834450206, 0.13096948060970642, 0.13096948060970642, 0.11517262834450206, 0.08548425733398665, 0.045485223275719786, 0.0;
+0.0, 0.04207731481034816, 0.07907948445953955, 0.10654350119401833, 0.1211567992698877, 0.1211567992698877, 0.10654350119401833, 0.07907948445953955, 0.04207731481034816, 0.0;
+0.0, 0.037978497999080756, 0.07137622863653714, 0.09616493269948283, 0.10935472663561789, 0.10935472663561789, 0.09616493269948283, 0.07137622863653714, 0.037978497999080756, 0.0;
+0.0, 0.033256075300640696, 0.06250097711262514, 0.08420733866864491, 0.09575705241326583, 0.09575705241326583, 0.08420733866864491, 0.06250097711262514, 0.033256075300640696, 0.0;
+0.0, 0.02798758876517794, 0.052599461272456606, 0.07086706246490534, 0.08058705003763454, 0.08058705003763454, 0.07086706246490534, 0.052599461272456606, 0.02798758876517794, 0.0;
+0.0, 0.02225954679594965, 0.04183426373238499, 0.056363151054717814, 0.06409381052833464, 0.06409381052833464, 0.056363151054717814, 0.04183426373238499, 0.02225954679594965, 0.0;
+0.0, 0.016166003683730227, 0.03038214873839821, 0.04093375826245516, 0.04654815242212843, 0.04654815242212843, 0.04093375826245516, 0.03038214873839821, 0.016166003683730227, 0.0;
+0.0, 0.009807015237957243, 0.01843115970208676, 0.024832234291197817, 0.028238174940044002, 0.028238174940044002, 0.024832234291197817, 0.01843115970208676, 0.009807015237957243, 0.0;
+0.0, 0.0032869958731065745, 0.0061775315330239635, 0.008322965719403184, 0.009464527406130538, 0.009464527406130538, 0.008322965719403184, 0.0061775315330239635, 0.0032869958731065745, 0.0;
+-0.0, -0.0032869958731065745, -0.0061775315330239635, -0.008322965719403184, -0.009464527406130538, -0.009464527406130538, -0.008322965719403184, -0.0061775315330239635, -0.0032869958731065745, -0.0;
+-0.0, -0.009807015237957243, -0.01843115970208676, -0.024832234291197817, -0.028238174940044002, -0.028238174940044002, -0.024832234291197817, -0.01843115970208676, -0.009807015237957243, -0.0;
+-0.0, -0.016166003683730227, -0.03038214873839821, -0.04093375826245516, -0.04654815242212843, -0.04654815242212843, -0.04093375826245516, -0.03038214873839821, -0.016166003683730227, -0.0;
+-0.0, -0.02225954679594965, -0.04183426373238499, -0.056363151054717814, -0.06409381052833464, -0.06409381052833464, -0.056363151054717814, -0.04183426373238499, -0.02225954679594965, -0.0;
+-0.0, -0.02798758876517794, -0.052599461272456606, -0.07086706246490534, -0.08058705003763454, -0.08058705003763454, -0.07086706246490534, -0.052599461272456606, -0.02798758876517794, -0.0;
+-0.0, -0.033256075300640696, -0.06250097711262514, -0.08420733866864491, -0.09575705241326583, -0.09575705241326583, -0.08420733866864491, -0.06250097711262514, -0.033256075300640696, -0.0;
+-0.0, -0.037978497999080756, -0.07137622863653714, -0.09616493269948283, -0.10935472663561789, -0.10935472663561789, -0.09616493269948283, -0.07137622863653714, -0.037978497999080756, -0.0;
+-0.0, -0.04207731481034816, -0.07907948445953955, -0.10654350119401833, -0.1211567992698877, -0.1211567992698877, -0.10654350119401833, -0.07907948445953955, -0.04207731481034816, -0.0;
+-0.0, -0.04548522327571979, -0.08548425733398667, -0.11517262834450208, -0.13096948060970645, -0.13096948060970645, -0.11517262834450208, -0.08548425733398667, -0.04548522327571979, -0.0;
+-0.0, -0.04814626563241098, -0.09048538106634955, -0.1219106241216883, -0.13863164669876052, -0.13863164669876052, -0.1219106241216883, -0.09048538106634955, -0.04814626563241098, -0.0;
+-0.0, -0.05001674763849335, -0.09400073734320641, -0.12664685082119753, -0.14401748498169975, -0.14401748498169975, -0.12664685082119753, -0.09400073734320641, -0.05001674763849335, -0.0;
+-0.0, -0.05106595603113926, -0.09597260411167843, -0.12930353973156386, -0.1470385601428177, -0.1470385601428177, -0.12930353973156386, -0.09597260411167843, -0.05106595603113926, -0.0;
+-0.0, -0.051276662837548434, -0.09636860337394257, -0.1298370680943272, -0.147645266211491, -0.147645266211491, -0.1298370680943272, -0.09636860337394257, -0.051276662837548434, -0.0;
+-0.0, -0.050645408257784914, -0.09518223283306039, -0.12823867538852118, -0.1458276410908453, -0.1458276410908453, -0.12823867538852118, -0.09518223283306039, -0.050645408257784914, -0.0;
+-0.0, -0.04918255747459647, -0.09243297266051424, -0.12453460717818524, -0.14161553013511072, -0.14161553013511072, -0.12453460717818524, -0.09243297266051424, -0.04918255747459647, -0.0;
+-0.0, -0.046912130457400315, -0.08816596563232988, -0.11878568416092847, -0.13507809608973018, -0.13507809608973018, -0.11878568416092847, -0.08816596563232988, -0.046912130457400315, -0.0;
+-0.0, -0.04387140755504952, -0.08245127588594237, -0.1110863034937568, -0.12632268344099187, -0.12632268344099187, -0.1110863034937568, -0.08245127588594237, -0.04387140755504952, -0.0;
+-0.0, -0.040110317353535346, -0.07538273846899625, -0.10156288879436427, -0.1154930558225316, -0.1154930558225316, -0.10156288879436427, -0.07538273846899625, -0.040110317353535346, -0.0;
+-0.0, -0.03569061684998567, -0.06707641857045746, -0.09037181426882583, -0.10276703542044312, -0.10276703542044312, -0.09037181426882583, -0.06707641857045746, -0.03569061684998567, -0.0;
+-0.0, -0.03068487740447962, -0.05766870573341951, -0.07769683705145702, -0.08835358313789912, -0.08835358313789912, -0.07769683705145702, -0.05766870573341951, -0.03068487740447962, -0.0;
+-0.0, -0.025175293120321237, -0.04731407434257622, -0.06374607991774828, -0.07248936746289746, -0.07248936746289746, -0.06374607991774828, -0.04731407434257622, -0.025175293120321237, -0.0;
+-0.0, -0.019252331219135686, -0.03618254715909595, -0.048748613914145505, -0.05543487837823163, -0.05543487837823163, -0.048748613914145505, -0.03618254715909595, -0.019252331219135686, -0.0;
+-0.0, -0.013013246571591395, -0.02445690355158391, -0.032950697017800755, -0.037470150123175304, -0.037470150123175304, -0.032950697017800755, -0.02445690355158391, -0.013013246571591395, -0.0;
+-0.0, -0.006560484775112149, -0.012329678263902372, -0.01661173058739479, -0.01889016303901452, -0.01889016303901452, -0.01661173058739479, -0.012329678263902372, -0.006560484775112149, -0.0;
+0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+## end
+#968, 9180:
+0.0, 0.051303021498850306, 0.09641814145298089, 0.12990381056766578, 0.1477211629518312, 0.1477211629518312, 0.12990381056766578, 0.09641814145298089, 0.051303021498850306, 0.0;
+0.0, 0.05088182440151904, 0.09562654984446362, 0.1288373020785976, 0.14650837424598265, 0.14650837424598265, 0.1288373020785976, 0.09562654984446362, 0.05088182440151904, 0.0;
+0.0, 0.04962514915421879, 0.09326477293123892, 0.1256552886512983, 0.1428899220854577, 0.1428899220854577, 0.1256552886512983, 0.09326477293123892, 0.04962514915421879, 0.0;
+0.0, 0.04755363032976757, 0.08937159102492709, 0.12041001885827264, 0.13692522135469465, 0.13692522135469465, 0.12041001885827264, 0.08937159102492709, 0.04755363032976757, 0.0;
+0.0, 0.044701282209992636, 0.08401093006479696, 0.1131876198845088, 0.1287122122747896, 0.1287122122747896, 0.1131876198845088, 0.08401093006479696, 0.044701282209992636, 0.0;
+0.0, 0.04111494027216327, 0.07727081195561038, 0.10410668332148197, 0.11838575222777364, 0.11838575222777364, 0.10410668332148197, 0.07727081195561038, 0.04111494027216327, 0.0;
+0.0, 0.03685349215174886, 0.06926190925037957, 0.09331631789650102, 0.10611540140212843, 0.10611540140212843, 0.09331631789650102, 0.06926190925037957, 0.03685349215174886, 0.0;
+0.0, 0.03198691070907252, 0.060115727910106394, 0.08099370111152839, 0.0921026386191789, 0.0921026386191789, 0.08099370111152839, 0.060115727910106394, 0.03198691070907252, 0.0;
+0.0, 0.026595105076879087, 0.04998244797953825, 0.06734116999349618, 0.07657755305641734, 0.07657755305641734, 0.06734116999349618, 0.04998244797953825, 0.026595105076879087, 0.0;
+0.0, 0.020766608554584672, 0.03902845763498547, 0.05258289872591791, 0.05979506618957014, 0.05979506618957014, 0.05258289872591791, 0.03902845763498547, 0.020766608554584672, 0.0;
+0.0, 0.014597124893947842, 0.027433621095066144, 0.036961217714992736, 0.04203074598901398, 0.04203074598901398, 0.036961217714992736, 0.027433621095066144, 0.014597124893947842, 0.0;
+0.0, 0.008187956846111708, 0.015388325255209263, 0.020732634531035445, 0.02357628210132097, 0.02357628210132097, 0.020732634531035445, 0.015388325255209263, 0.008187956846111708, 0.0;
+0.0, 0.001644342773230689, 0.0030903535400950296, 0.004163622061263127, 0.004734696313325718, 0.004734696313325718, 0.004163622061263127, 0.0030903535400950296, 0.001644342773230689, 0.0;
+-0.0, -0.004926271362526456, -0.009258361694710105, -0.012473756967645551, -0.014184633057236561, -0.014184633057236561, -0.012473756967645551, -0.009258361694710105, -0.004926271362526456, -0.0;
+-0.0, -0.01141599625870505, -0.021455054886449346, -0.028906317252001143, -0.032871051145154394, -0.032871051145154394, -0.028906317252001143, -0.021455054886449346, -0.01141599625870505, -0.0;
+-0.0, -0.017718270811927946, -0.03329945667011008, -0.04486423660623712, -0.05101772748203802, -0.05101772748203802, -0.04486423660623712, -0.03329945667011008, -0.017718270811927946, -0.0;
+-0.0, -0.023729611848267038, -0.04459708229586079, -0.06008548643573749, -0.06832669414412783, -0.06832669414412783, -0.06008548643573749, -0.04459708229586079, -0.023729611848267038, -0.0;
+-0.0, -0.0293513133140981, -0.05516242506326633, -0.07432013423911595, -0.08451373837736442, -0.08451373837736442, -0.07432013423911595, -0.05516242506326633, -0.0293513133140981, -0.0;
+-0.0, -0.034491067026772536, -0.06482200233618063, -0.08733444749297915, -0.09931306936295316, -0.09931306936295316, -0.08733444749297915, -0.06482200233618063, -0.034491067026772536, -0.0;
+-0.0, -0.03906447837242438, -0.07341720412283581, -0.09891473153349878, -0.1124816824952602, -0.1124816824952602, -0.09891473153349878, -0.07341720412283581, -0.03906447837242438, -0.0;
+-0.0, -0.04299645206319682, -0.08080689744752219, -0.1088708384168837, -0.123803349510719, -0.123803349510719, -0.1088708384168837, -0.08080689744752219, -0.04299645206319682, -0.0;
+-0.0, -0.046222425199792624, -0.08686974375014749, -0.11703928914336013, -0.1330921689499401, -0.1330921689499401, -0.11703928914336013, -0.08686974375014749, -0.046222425199792624, -0.0;
+-0.0, -0.04868942739249577, -0.09150619126203909, -0.12328595797782844, -0.14019561865453486, -0.14019561865453486, -0.12328595797782844, -0.09150619126203909, -0.04868942739249577, -0.0;
+-0.0, -0.05035695053350601, -0.09464010964323322, -0.12750827479072507, -0.14499706017673922, -0.14499706017673922, -0.12750827479072507, -0.09464010964323322, -0.05035695053350601, -0.0;
+-0.0, -0.051197613938949116, -0.0962200400405525, -0.12963690925671453, -0.1474176539795016, -0.1474176539795016, -0.12963690925671453, -0.0962200400405525, -0.051197613938949116, -0.0;
+-0.0, -0.051197613938949116, -0.0962200400405525, -0.12963690925671453, -0.1474176539795016, -0.1474176539795016, -0.12963690925671453, -0.0962200400405525, -0.051197613938949116, -0.0;
+-0.0, -0.05035695053350601, -0.09464010964323322, -0.12750827479072507, -0.14499706017673922, -0.14499706017673922, -0.12750827479072507, -0.09464010964323322, -0.05035695053350601, -0.0;
+-0.0, -0.04868942739249577, -0.09150619126203909, -0.12328595797782844, -0.14019561865453486, -0.14019561865453486, -0.12328595797782844, -0.09150619126203909, -0.04868942739249577, -0.0;
+-0.0, -0.046222425199792624, -0.08686974375014749, -0.11703928914336013, -0.1330921689499401, -0.1330921689499401, -0.11703928914336013, -0.08686974375014749, -0.046222425199792624, -0.0;
+-0.0, -0.04299645206319682, -0.08080689744752219, -0.1088708384168837, -0.123803349510719, -0.123803349510719, -0.1088708384168837, -0.08080689744752219, -0.04299645206319682, -0.0;
+-0.0, -0.03906447837242438, -0.07341720412283581, -0.09891473153349878, -0.1124816824952602, -0.1124816824952602, -0.09891473153349878, -0.07341720412283581, -0.03906447837242438, -0.0;
+-0.0, -0.034491067026772536, -0.06482200233618063, -0.08733444749297915, -0.09931306936295316, -0.09931306936295316, -0.08733444749297915, -0.06482200233618063, -0.034491067026772536, -0.0;
+-0.0, -0.0293513133140981, -0.05516242506326633, -0.07432013423911595, -0.08451373837736442, -0.08451373837736442, -0.07432013423911595, -0.05516242506326633, -0.0293513133140981, -0.0;
+-0.0, -0.023729611848267024, -0.04459708229586077, -0.06008548643573746, -0.06832669414412779, -0.06832669414412779, -0.06008548643573746, -0.04459708229586077, -0.023729611848267024, -0.0;
+-0.0, -0.01771827081192796, -0.0332994566701101, -0.04486423660623716, -0.05101772748203806, -0.05101772748203806, -0.04486423660623716, -0.0332994566701101, -0.01771827081192796, -0.0;
+-0.0, -0.011415996258705026, -0.0214550548864493, -0.028906317252001084, -0.032871051145154324, -0.032871051145154324, -0.028906317252001084, -0.0214550548864493, -0.011415996258705026, -0.0;
+-0.0, -0.004926271362526456, -0.009258361694710105, -0.012473756967645551, -0.014184633057236561, -0.014184633057236561, -0.012473756967645551, -0.009258361694710105, -0.004926271362526456, -0.0;
+0.0, 0.0016443427732306761, 0.0030903535400950053, 0.004163622061263095, 0.004734696313325681, 0.004734696313325681, 0.004163622061263095, 0.0030903535400950053, 0.0016443427732306761, 0.0;
+0.0, 0.008187956846111719, 0.015388325255209282, 0.02073263453103547, 0.023576282101321, 0.023576282101321, 0.02073263453103547, 0.015388325255209282, 0.008187956846111719, 0.0;
+0.0, 0.014597124893947842, 0.027433621095066144, 0.036961217714992736, 0.04203074598901398, 0.04203074598901398, 0.036961217714992736, 0.027433621095066144, 0.014597124893947842, 0.0;
+0.0, 0.020766608554584693, 0.03902845763498551, 0.05258289872591797, 0.0597950661895702, 0.0597950661895702, 0.05258289872591797, 0.03902845763498551, 0.020766608554584693, 0.0;
+0.0, 0.02659510507687909, 0.04998244797953826, 0.0673411699934962, 0.07657755305641735, 0.07657755305641735, 0.0673411699934962, 0.04998244797953826, 0.02659510507687909, 0.0;
+0.0, 0.031986910709072516, 0.06011572791010638, 0.08099370111152837, 0.09210263861917889, 0.09210263861917889, 0.08099370111152837, 0.06011572791010638, 0.031986910709072516, 0.0;
+0.0, 0.03685349215174887, 0.06926190925037962, 0.09331631789650106, 0.10611540140212848, 0.10611540140212848, 0.09331631789650106, 0.06926190925037962, 0.03685349215174887, 0.0;
+0.0, 0.04111494027216327, 0.07727081195561038, 0.10410668332148197, 0.11838575222777364, 0.11838575222777364, 0.10410668332148197, 0.07727081195561038, 0.04111494027216327, 0.0;
+0.0, 0.04470128220999262, 0.08401093006479694, 0.11318761988450877, 0.12871221227478954, 0.12871221227478954, 0.11318761988450877, 0.08401093006479694, 0.04470128220999262, 0.0;
+0.0, 0.047553630329767574, 0.0893715910249271, 0.12041001885827265, 0.13692522135469465, 0.13692522135469465, 0.12041001885827265, 0.0893715910249271, 0.047553630329767574, 0.0;
+0.0, 0.049625149154218784, 0.0932647729312389, 0.1256552886512983, 0.14288992208545767, 0.14288992208545767, 0.1256552886512983, 0.0932647729312389, 0.049625149154218784, 0.0;
+0.0, 0.05088182440151904, 0.09562654984446362, 0.1288373020785976, 0.14650837424598265, 0.14650837424598265, 0.1288373020785976, 0.09562654984446362, 0.05088182440151904, 0.0;
+0.0, 0.051303021498850306, 0.09641814145298089, 0.12990381056766578, 0.1477211629518312, 0.1477211629518312, 0.12990381056766578, 0.09641814145298089, 0.051303021498850306, 0.0
+## end
+#970, 45:
+0.5088448176547862, 0.032816939922353544, 0.0
+## end
+#972, 4:
+0.15
+## end
+#974, 2:
+球体
+## end
+#976, 23:
+0.0;
+0.0;
+0.0;
+0.0;
+0.0
+## end
+#978, 26:
+-1.0;
+-1.0;
+1.0;
+1.0;
+-1.0
+## end
+#980, 26:
+-1.0;
+1.0;
+1.0;
+-1.0;
+-1.0
+## end
+#982, 13:
+0.0, 0.0, 0.0
+## end
+#984, 3:
+2.0
+## end
+#986, 3:
+2.0
+## end
+#988, 2:
+平面
+## end
+#1006, 20:
+-0.4, 0.4, 0.4, -0.4
+## end
+#1008, 18:
+0.0, 0.0, 0.5, 0.5
+## end
+#1010, 9:
+-0.2, 0.0
+## end
+#1012, 3:
+0.5
+## end
+#1014, 3:
+0.8
+## end
+#1016, 3:
+多边形
+## end
+#1017, 3:
+长方形
+## end
+#1019, 2:
+10
+## end
+#1021, 2129:
+0.0, 0.006342391965656451, 0.012659245357374928, 0.01892512443604102, 0.025114798718107924, 0.031203344569848718, 0.037166245566032756, 0.04297949120891716, 0.048619673610046876, 0.05406408174555976, 0.05929079290546405, 0.06427876096865393, 0.06900790114821119, 0.07345917086575333, 0.07761464642917569, 0.08145759520503358, 0.08497254299495144, 0.08814533634475821, 0.09096319953545184, 0.09341478602651068, 0.09549022414440739, 0.09718115683235418, 0.0984807753012208, 0.09938384644612541, 0.0998867339183008, 0.09998741276738751, 0.09968547759519425, 0.09898214418809327, 0.09788024462147787, 0.09638421585599422, 0.09450008187146686, 0.09223542941045815, 0.0895993774291336, 0.08660254037844387, 0.08325698546347714, 0.07957618405308323, 0.07557495743542585, 0.0712694171378863, 0.06667690005162916, 0.06181589862206053, 0.05670598638627705, 0.051367739157340636, 0.045822652172741056, 0.04009305354066135, 0.03420201433256687, 0.028173255684142987, 0.022031053278654053, 0.015800139597334995, 0.00950560433041829, 0.0031727933498067566, -0.0031727933498067566, -0.00950560433041829, -0.015800139597334995, -0.022031053278654053, -0.028173255684142987, -0.03420201433256687, -0.04009305354066135, -0.045822652172741056, -0.051367739157340636, -0.05670598638627705, -0.06181589862206053, -0.06667690005162916, -0.0712694171378863, -0.07557495743542585, -0.0795761840530832, -0.08325698546347715, -0.08660254037844387, -0.08959937742913358, -0.09223542941045815, -0.09450008187146686, -0.09638421585599422, -0.09788024462147787, -0.09898214418809327, -0.09968547759519424, -0.09998741276738751, -0.0998867339183008, -0.09938384644612541, -0.0984807753012208, -0.09718115683235418, -0.0954902241444074, -0.09341478602651065, -0.09096319953545183, -0.0881453363447582, -0.08497254299495144, -0.0814575952050336, -0.0776146464291757, -0.0734591708657533, -0.06900790114821119, -0.06427876096865393, -0.05929079290546407, -0.054064081745559794, -0.048619673610046835, -0.04297949120891714, -0.03716624556603275, -0.031203344569848718, -0.025114798718107945, -0.018925124436041066, -0.012659245357374891, -0.006342391965656433, 0.0
+## end
+#1023, 2096:
+0.1, 0.09979866764718845, 0.09919548128307953, 0.09819286972627067, 0.09679487013963563, 0.09500711177409454, 0.09283679330160727, 0.09029265382866214, 0.0873849377069785, 0.08412535328311813, 0.08052702575310586, 0.0766044443118978, 0.07237340381050703, 0.06785094115571322, 0.06305526670845225, 0.05800569095711982, 0.05272254676105025, 0.04722710747726827, 0.041541501300188646, 0.03568862215918718, 0.029692037532827478, 0.02357589355094273, 0.017364817766693033, 0.011083819990101095, 0.004758191582374241, -0.0015865963834807884, -0.00792499568567885, -0.014231483827328523, -0.02048066680651906, -0.0266473813690035, -0.032706796331742165, -0.03863451256931288, -0.04440666126057741, -0.05, -0.05539200638661103, -0.060560968713766664, -0.0654860733945285, -0.07014748877063212, -0.07452644496757548, -0.07860530947427874, -0.0823676581429833, -0.08579834132349771, -0.08888354486549234, -0.09161084574320698, -0.09396926207859085, -0.09594929736144975, -0.09754297868854071, -0.09874388886763943, -0.09954719225730846, -0.09994965423831852, -0.09994965423831852, -0.09954719225730846, -0.09874388886763943, -0.09754297868854071, -0.09594929736144975, -0.09396926207859085, -0.09161084574320698, -0.08888354486549234, -0.08579834132349771, -0.0823676581429833, -0.07860530947427874, -0.07452644496757548, -0.07014748877063212, -0.0654860733945285, -0.060560968713766684, -0.055392006386611015, -0.05, -0.044406661260577435, -0.03863451256931286, -0.032706796331742165, -0.02664738136900352, -0.02048066680651906, -0.014231483827328523, -0.007924995685678874, -0.001586596383480838, 0.004758191582374265, 0.01108381999010112, 0.017364817766693033, 0.02357589355094271, 0.029692037532827453, 0.03568862215918722, 0.04154150130018867, 0.04722710747726828, 0.05272254676105024, 0.0580056909571198, 0.06305526670845223, 0.06785094115571325, 0.07237340381050704, 0.0766044443118978, 0.08052702575310586, 0.0841253532831181, 0.08738493770697853, 0.09029265382866214, 0.09283679330160727, 0.09500711177409454, 0.09679487013963563, 0.09819286972627067, 0.09919548128307953, 0.09979866764718845, 0.1
+## end
+#1025, 8:
+0.5, 0.3
+## end
+#1027, 3:
+0.1
+## end
+#1029, 2:
+圆形
+## end
+#1031, 2108:
+0.0, 0.009513587948484675, 0.018988868036062388, 0.028387686654061526, 0.037672198077161885, 0.04680501685477308, 0.055749368349049123, 0.06446923681337574, 0.0729295104150703, 0.08109612261833964, 0.08893618935819607, 0.09641814145298089, 0.10351185172231679, 0.11018875629863, 0.11642196964376351, 0.12218639280755035, 0.12745881449242716, 0.1322180045171373, 0.13644479930317774, 0.140122179039766, 0.14323533621661108, 0.14577173524853124, 0.1477211629518312, 0.14907576966918812, 0.1498301008774512, 0.14998111915108125, 0.14952821639279135, 0.14847321628213989, 0.1468203669322168, 0.1445763237839913, 0.14175012280720026, 0.1383531441156872, 0.13439906614370037, 0.12990381056766578, 0.12488547819521569, 0.11936427607962483, 0.11336243615313875, 0.10690412570682946, 0.10001535007744372, 0.09272384793309078, 0.08505897957941558, 0.07705160873601094, 0.06873397825911158, 0.06013958031099202, 0.051303021498850306, 0.04225988352621447, 0.03304657991798107, 0.02370020939600249, 0.014258406495627433, 0.004759190024710135, -0.004759190024710135, -0.014258406495627433, -0.02370020939600249, -0.03304657991798107, -0.04225988352621447, -0.051303021498850306, -0.06013958031099202, -0.06873397825911158, -0.07705160873601094, -0.08505897957941558, -0.09272384793309078, -0.10001535007744372, -0.10690412570682946, -0.11336243615313875, -0.1193642760796248, -0.12488547819521573, -0.12990381056766578, -0.13439906614370037, -0.13835314411568722, -0.14175012280720026, -0.1445763237839913, -0.1468203669322168, -0.14847321628213989, -0.14952821639279135, -0.14998111915108125, -0.1498301008774512, -0.14907576966918812, -0.1477211629518312, -0.14577173524853126, -0.14323533621661108, -0.14012217903976598, -0.13644479930317774, -0.13221800451713728, -0.12745881449242716, -0.12218639280755036, -0.11642196964376356, -0.11018875629862994, -0.10351185172231679, -0.09641814145298089, -0.0889361893581961, -0.08109612261833968, -0.07292951041507025, -0.0644692368133757, -0.05574936834904912, -0.04680501685477308, -0.03767219807716191, -0.0283876866540616, -0.018988868036062336, -0.009513587948484649, 0.0
+## end
+#1033, 2087:
+0.15, 0.14969800147078266, 0.1487932219246193, 0.147289304589406, 0.14519230520945342, 0.1425106676611418, 0.13925518995241087, 0.13543898074299318, 0.13107740656046774, 0.12618802992467718, 0.12079053862965877, 0.1149066664678467, 0.10856010571576052, 0.10177641173356983, 0.09458290006267837, 0.08700853643567973, 0.07908382014157538, 0.07084066121590239, 0.06231225195028296, 0.053532933238780764, 0.044538056299241215, 0.03536384032641409, 0.02604722665003955, 0.01662572998515164, 0.0071372873735613615, -0.0023798945752211823, -0.011887493528518272, -0.021347225740992782, -0.03072100020977859, -0.039971072053505245, -0.04906019449761325, -0.057951768853969306, -0.06660999189086611, -0.075, -0.08308800957991654, -0.09084145307064999, -0.09822911009179275, -0.10522123315594817, -0.11178966745136322, -0.11790796421141811, -0.12355148721447493, -0.12869751198524657, -0.1333253172982385, -0.13741626861481046, -0.14095389311788625, -0.1439239460421746, -0.14631446803281106, -0.14811583330145914, -0.1493207883859627, -0.14992448135747777, -0.14992448135747777, -0.1493207883859627, -0.14811583330145914, -0.14631446803281106, -0.1439239460421746, -0.14095389311788625, -0.13741626861481046, -0.1333253172982385, -0.12869751198524657, -0.12355148721447493, -0.11790796421141811, -0.11178966745136322, -0.10522123315594817, -0.09822911009179275, -0.09084145307065002, -0.08308800957991652, -0.075, -0.06660999189086614, -0.05795176885396927, -0.04906019449761325, -0.03997107205350528, -0.03072100020977859, -0.021347225740992782, -0.01188749352851831, -0.002379894575221257, 0.007137287373561398, 0.016625729985151678, 0.02604722665003955, 0.035363840326414056, 0.04453805629924118, 0.05353293323878083, 0.062312251950283, 0.0708406612159024, 0.07908382014157535, 0.08700853643567968, 0.09458290006267832, 0.10177641173356985, 0.10856010571576054, 0.1149066664678467, 0.12079053862965877, 0.12618802992467715, 0.13107740656046776, 0.13543898074299318, 0.1392551899524109, 0.1425106676611418, 0.14519230520945342, 0.14728930458940598, 0.1487932219246193, 0.14969800147078266, 0.15
+## end
+#1035, 9:
+0.5, -0.1
+## end
+#1037, 4:
+0.15
+## end
+#1039, 2:
+圆形
+## end
+#1041, 3:
+多边形
+## end
+#1042, 408:
+0.8955223880597014, 0.6743988811834475, 0.7031577187829603, 0.47932965329934674, 0.07869413063965115, -0.3302377901940733, -0.6102773712973061, -0.4123681917980945, 0.21193523512675544, 0.7637506868498334, 0.7765478206128531, 0.21791551114190205, -0.4950944947690698, -0.727036061538515, -0.3861801202536883, 0.07652974995736363, 0.5475360183424444, 0.7606753939819859, 0.7894342315814987, 0.8955223880597014
+## end
+#1044, 417:
+-0.06865671641791016, -0.10188915097734731, -0.1427906088966544, -0.3001697174398204, -0.7776394499246627, -0.2622731935314761, -0.20303405137502298, 0.8249941865792153, 0.8305683243196158, 0.759366330548896, 0.8585441172122985, 0.9306257055311308, 0.9242595447640687, -0.28054803817721574, -0.3526521796028522, -0.9357933858962323, -0.3744571482318213, -0.22459352473526856, -0.2654949826545756, -0.06865671641791016
+## end
+#1046, 3:
+多边形
+## end
+#1049, 473:
+"""
+描述结构:...
+库:...
++[新建阅读窗口](,描述结构)
+
+"""
++图形生成物体(_图形,_物体)->+[del](,+图形生成物体)...
+->的(图形生成物体,描述结构)->的(图形生成物体,库)...
+
+->."平面"(+图形生成物体,_平面)...
+->+[code]([想],描述结构)->+[.]([想],+图形生成物体)->[想](_平面,_图形)...
+
+->操作([想],)...
+->[]{
+    []=>的(操作,_操作)->_操作=>的(库,_条目)->_条目->[eq](_条目,_操作)...
+    ->+[做](_图形,_物体)->+[code](+[做],_条目)...
+        ->+[.]"空间点"(+[做],+[临时文本]#1)...
+            ->空间点(操作,)->[m_text](空间点,+[临时文本]#1)...
+        ->+[.]"方向"(+[做],+[临时文本]#2)->方向(操作,)->[m_text](方向,+[临时文本]#2)
+}
+
+
+## end
+#1051, 197:
+"""
+平面:...
+物体:...
+
+"""
++描述结构(_平面,_物体)->+操作(+描述结构,)...
+->的(描述结构,平面)->的(描述结构,物体)...
+
+->.(+描述结构,图形生成物体)...
+->+[code]([想],平面)->[想](+操作,_平面)...
+->+[code]([想]#2,物体)->+[.]([想]#2,图形生成物体)->[想]#2(+操作,_物体)
+
+
+
+## end
+#1053, 187:
+"""
+
+
+"""
+
++平面(操作,_平面)...
+
+->+空间点"0,0,0"(操作,)->[]{
+    []:->在(_平面,空间点)->空间点->[m_text](空间点,+空间点),
+    ->[]
+}...
+->+方向"0,0,0"(操作,)->[]{
+    []:->朝向(_平面,方向)->方向->[m_text](方向,+方向),
+    ->[]
+}
+## end
+#1055, 372:
+"""
++[临时文本]"test"->[==]"test"(,+[临时文本])
+
+"""
+
++物体(操作,_物体)->.(+物体,_类型)...
+
+->[]{
+    []:->的(_物体,宽度)->宽度->[]{
+        []:->[==]"立方体"(,_类型)->+的(操作,+创建立方体),
+        ->[==]"圆柱体"(,_类型)->+的(操作,+创建圆柱体2)
+    },
+    ->的(_物体,半径)->半径->[]{
+        []:->[==]"圆柱体"(,_类型)->+的(操作,+创建圆柱体),
+        ->[==]"球体"(,_类型)->+的(操作,+创建球体)
+    },
+    ->的(_物体,x)->x->[==]"多面体"(,_类型)->+的(操作,+创建多面体)
+}
+
+
+
+## end
+#1057, 136:
+有什么
+
+创建立方体:...
+创建圆柱体:...
+创建球体:...
+创建多面体:...
++[新建阅读窗口](,创建多面体)
+将条目"创建立方体"复制为条目"创建多面体"
+将'创建圆柱体'的"Z"替换为"方向"
+在选择区域中, 将'创建多面体'的"长度"替换为"y"
+
+
+
+
+## end
+#1059, 1290:
+"""
+M代码:...
++[新建阅读窗口](,M代码)
+
+"""
++创建圆柱体(_图形,_物体)->+[del](,+创建圆柱体)...
+->的(创建圆柱体,M代码)...
+
+->."空间点"(+创建圆柱体,_空间点)->."方向"(+创建圆柱体,_方向)...
+->[]{
+    []:->的(_物体,类型)->类型->+[修改内容]"圆柱体"(,类型),
+    ->+的(_物体,+类型)->+类型"圆柱体"
+}...
+->的(_图形,半径#1)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"pt0"(+[matlab],_空间点)->+[.]"an0"(+[matlab],_方向)...
+->+[.]"R1"(+[matlab],半径#1)...
+
+->[]{
+    []:->在(_图形,空间点#1)->空间点#1->+[.]"pt1"(+[matlab],空间点#1),
+    ->+[临时文本]"0,0"->+[.]"pt1"(+[matlab],+[临时文本])
+}...
+->[]{
+    []:->朝向(_图形,方向#1)->方向#1->+[.]"an1"(+[matlab],方向#1),
+    ->+[临时文本]"0"->+[.]"an1"(+[matlab],+[临时文本])
+}...
+
+->[]{
+    []:->的(_物体,高度)->高度->+[.]"H"(+[matlab],高度),
+    ->+的(_物体,+高度)->+高度"1"->+[.]"H"(+[matlab],+高度)
+}...
+->[]{
+    []:->的(_物体,半径)->半径->+[o]"R"(+[matlab],半径),
+    ->+的(_物体,+半径)->+[o]"R"(+[matlab],+半径)
+}...
+
+->[]{
+    []:->的(_物体,X)->X->+[o](+[matlab],X),
+    ->+的(_物体,+X)->+[o](+[matlab],+X)
+}...
+->[]{
+    []:->的(_物体,Y)->Y->+[o](+[matlab],Y),
+    ->+的(_物体,+Y)->+[o](+[matlab],+Y)
+}...
+->[]{
+    []:->的(_物体,Z)->Z->+[o](+[matlab],Z),
+    ->+的(_物体,+Z)->+[o](+[matlab],+Z)
+}...
+
+->[]{
+    []:->在(_物体,空间点)->空间点->+[o]"pt"(+[matlab],空间点),
+    ->+在(_物体,+空间点)->+[o]"pt"(+[matlab],+空间点)
+}...
+->[]{
+    []:->朝向(_物体,方向)->方向->+[o]"an"(+[matlab],方向),
+    ->+朝向(_物体,+方向)->+[o]"an"(+[matlab],+方向)
+}
+
+
+
+
+
+## end
+#1061, 323:
+%{
++[M函数](,M代码)
+Nini, 打开图形库(文件)
+%}
+
+addpath('Matlab\space')
+
+an=an0;
+an(3)=an(3)+an1;
+
+[Vx,Vy,Vz]=Euler_frame(an0(1),an0(2),an0(3));
+pt_x=pt1(1);
+pt_y=pt1(2);
+pt=pt_x*Vx+pt_y*Vy+pt0;
+
+R=R1;
+
+N=100;
+
+theta=linspace(0,360,N);
+X=[R*cosd(theta);R*cosd(theta)]';
+Y=[R*sind(theta);R*sind(theta)]';
+Z=[zeros(1,N);zeros(1,N)+H]';
+
+
+## end
+#1067, 14:
+5.0, 0.0, 20.0
+## end
+#1069, 3:
+958
+## end
+#1070, 3:
+476
+## end
+#1071, 2:
+38
+## end
+#1072, 1:
+1
+## end
+#1073, 6:
+20,149
+## end
+#1074, 367:
+%{
++[M函数](,M代码)
+Nini, 打开图形库(文件)
+%}
+
+addpath('Matlab\space')
+
+an=an0;
+an(3)=an(3)+an1;
+
+[Vx,Vy,Vz]=Euler_frame(an0(1),an0(2),an0(3));
+pt_x=pt1(1);
+pt_y=pt1(2);
+pt=pt_x*Vx+pt_y*Vy+pt0;
+
+R=R1;
+
+N1=50;
+N2=10;
+
+phi=linspace(0,360,N1);
+theta=linspace(0,180,N2);
+[Phi,Theta]=meshgrid(phi,theta);
+X=R*sind(Theta)'.*cosd(Phi)';
+Y=R*sind(Theta)'.*sind(Phi)';
+Z=R*cosd(Theta)';
+
+## end
+#1076, 1175:
+"""
+M代码:...
++[新建阅读窗口](,M代码)
+
+"""
++创建球体(_图形,_物体)->+[del](,+创建球体)...
+->的(创建球体,M代码)...
+
+->."空间点"(+创建球体,_空间点)->."方向"(+创建球体,_方向)...
+->[]{
+    []:->的(_物体,类型)->类型->+[修改内容]"球体"(,类型),
+    ->+的(_物体,+类型)->+类型"球体"
+}...
+->的(_图形,半径#1)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"pt0"(+[matlab],_空间点)->+[.]"an0"(+[matlab],_方向)...
+->+[.]"R1"(+[matlab],半径#1)...
+
+->[]{
+    []:->在(_图形,空间点#1)->空间点#1->+[.]"pt1"(+[matlab],空间点#1),
+    ->+[临时文本]"0,0"->+[.]"pt1"(+[matlab],+[临时文本])
+}...
+->[]{
+    []:->朝向(_图形,方向#1)->方向#1->+[.]"an1"(+[matlab],朝向#1),
+    ->+[临时文本]"0"->+[.]"an1"(+[matlab],+[临时文本])
+}...
+
+->[]{
+    []:->的(_物体,半径)->半径->+[o]"R"(+[matlab],半径),
+    ->+的(_物体,+半径)->+[o]"R"(+[matlab],+半径)
+}...
+
+->[]{
+    []:->的(_物体,X)->X->+[o](+[matlab],X),
+    ->+的(_物体,+X)->+[o](+[matlab],+X)
+}...
+->[]{
+    []:->的(_物体,Y)->Y->+[o](+[matlab],Y),
+    ->+的(_物体,+Y)->+[o](+[matlab],+Y)
+}...
+->[]{
+    []:->的(_物体,Z)->Z->+[o](+[matlab],Z),
+    ->+的(_物体,+Z)->+[o](+[matlab],+Z)
+}...
+
+->[]{
+    []:->在(_物体,空间点)->空间点->+[o]"pt"(+[matlab],空间点),
+    ->+在(_物体,+空间点)->+[o]"pt"(+[matlab],+空间点)
+}...
+->[]{
+    []:->朝向(_物体,方向)->方向->+[o]"an"(+[matlab],方向),
+    ->+朝向(_物体,+方向)->+[o]"an"(+[matlab],+方向)
+}
+
+
+
+
+
+## end
+#1081, 14:
+5.0, 0.0, 10.0
+## end
+#1083, 6:
+20,149
+## end
+#1084, 1:
+1
+## end
+#1085, 2:
+38
+## end
+#1086, 3:
+476
+## end
+#1087, 3:
+958
+## end
+#1088, 344:
+%{
++[M函数](,M代码)
+Nini, 打开图形库(文件)
+%}
+
+addpath('Matlab\space')
+
+an=an0;
+an(3)=an(3)+an1;
+
+[Vx,Vy,Vz]=Euler_frame(an0(1),an0(2),an0(3));
+pt_x=mean(x1*cosd(an1)-y1*sind(an1)+pt1(1));
+pt_y=mean(y1*cosd(an1)+x1*sind(an1)+pt1(2));
+pt=pt_x*Vx+pt_y*Vy+pt0;
+
+x=x1-mean(x1);
+y=y1-mean(y1);
+
+X=[x]';
+Y=[y]';
+Z=zeros(size(X));
+
+X=[X,X];
+Y=[Y,Y];
+Z=[Z,Z+H];
+
+
+## end
+#1090, 1415:
+"""
+M代码:...
++[新建阅读窗口](,M代码)
+
+"""
++创建多面体(_图形,_物体)->+[del](,+创建多面体)...
+->的(创建多面体,M代码)...
+
+->."空间点"(+创建多面体,_空间点)->."方向"(+创建多面体,_方向)...
+->[]{
+    []:->的(_物体,类型)->类型->+[修改内容]"多面体"(,类型),
+    ->+的(_物体,+类型)->+类型"多面体"
+}...
+->的(_图形,x#1)->的(_图形,y#1)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"pt0"(+[matlab],_空间点)->+[.]"an0"(+[matlab],_方向)...
+->+[.]"x1"(+[matlab],x#1)->+[.]"y1"(+[matlab],y#1)...
+
+->[]{
+    []:->在(_图形,空间点#1)->空间点#1->+[.]"pt1"(+[matlab],空间点#1),
+    ->+[临时文本]"0,0"->+[.]"pt1"(+[matlab],+[临时文本])
+}...
+->[]{
+    []:->朝向(_图形,方向#1)->方向#1->+[.]"an1"(+[matlab],方向#1),
+    ->+[临时文本]"0"->+[.]"an1"(+[matlab],+[临时文本])
+}...
+
+->[]{
+    []:->的(_物体,高度)->高度->+[.]"H"(+[matlab],高度),
+    ->+的(_物体,+高度)->+高度"1"->+[.]"H"(+[matlab],+高度)
+}...
+->[]{
+    []:->的(_物体,x)->x->+[o]"x"(+[matlab],x),
+    ->+的(_物体,+x)->+[o]"x"(+[matlab],+x)
+}...
+->[]{
+    []:->的(_物体,y)->y->+[o]"y"(+[matlab],y),
+    ->+的(_物体,+y)->+[o]"y"(+[matlab],+y)
+}...
+
+->[]{
+    []:->的(_物体,X)->X->+[o](+[matlab],X),
+    ->+的(_物体,+X)->+[o](+[matlab],+X)
+}...
+->[]{
+    []:->的(_物体,Y)->Y->+[o](+[matlab],Y),
+    ->+的(_物体,+Y)->+[o](+[matlab],+Y)
+}...
+->[]{
+    []:->的(_物体,Z)->Z->+[o](+[matlab],Z),
+    ->+的(_物体,+Z)->+[o](+[matlab],+Z)
+}...
+
+->[]{
+    []:->在(_物体,空间点)->空间点->+[o]"pt"(+[matlab],空间点),
+    ->+在(_物体,+空间点)->+[o]"pt"(+[matlab],+空间点)
+}...
+->[]{
+    []:->朝向(_物体,方向)->方向->+[o]"an"(+[matlab],方向),
+    ->+朝向(_物体,+方向)->+[o]"an"(+[matlab],+方向)
+}
+
+
+
+
+
+## end
+#1093, 14:
+5.0, 0.0, 10.0
+## end
+#1097, 3:
+958
+## end
+#1098, 3:
+476
+## end
+#1099, 2:
+38
+## end
+#1100, 1:
+1
+## end
+#1101, 6:
+20,149
+## end
+#1102, 358:
+%{
++[M函数](,M代码)
+Nini, 打开图形库(文件)
+%}
+
+addpath('Matlab\space')
+
+an=an0;
+an(3)=an(3)+an1;
+
+[Vx,Vy,Vz]=Euler_frame(an0(1),an0(2),an0(3));
+pt_x=pt1(1)+W1/2*cosd(an1);
+pt_y=pt1(2)+W1/2*sind(an1);
+pt=pt_x*Vx+pt_y*Vy+pt0;
+
+W=W1;
+L=L1;
+
+siz=[W,L,H];
+
+X=[0,siz(1),siz(1),0,0]'-siz(1)/2;
+Y=[0,0,siz(2),siz(2),0]'-siz(2)/2;
+Z=[0,0,0,0,0]';
+
+X=[X,X];
+Y=[Y,Y];
+Z=[Z,Z+H];
+
+
+## end
+#1104, 1429:
+"""
+M代码:...
++[新建阅读窗口](,M代码)
+
+"""
++创建立方体(_图形,_物体)->+[del](,+创建立方体)...
+->的(创建立方体,M代码)...
+
+->."空间点"(+创建立方体,_空间点)->."方向"(+创建立方体,_方向)...
+->[]{
+    []:->的(_物体,类型)->类型->+[修改内容]"立方体"(,类型),
+    ->+的(_物体,+类型)->+类型"立方体"
+}...
+->的(_图形,宽度#1)->的(_图形,长度#1)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"pt0"(+[matlab],_空间点)->+[.]"an0"(+[matlab],_方向)...
+->+[.]"W1"(+[matlab],宽度#1)->+[.]"L1"(+[matlab],长度#1)...
+
+->[]{
+    []:->在(_图形,空间点#1)->空间点#1->+[.]"pt1"(+[matlab],空间点#1),
+    ->+[临时文本]"0,0"->+[.]"pt1"(+[matlab],+[临时文本])
+}...
+->[]{
+    []:->朝向(_图形,方向#1)->方向#1->+[.]"an1"(+[matlab],方向#1),
+    ->+[临时文本]"0"->+[.]"an1"(+[matlab],+[临时文本])
+}...
+
+->[]{
+    []:->的(_物体,高度)->高度->+[.]"H"(+[matlab],高度),
+    ->+的(_物体,+高度)->+高度"1"->+[.]"H"(+[matlab],+高度)
+}...
+->[]{
+    []:->的(_物体,宽度)->宽度->+[o]"W"(+[matlab],宽度),
+    ->+的(_物体,+宽度)->+[o]"W"(+[matlab],+宽度)
+}...
+->[]{
+    []:->的(_物体,长度)->长度->+[o]"L"(+[matlab],长度),
+    ->+的(_物体,+长度)->+[o]"L"(+[matlab],+长度)
+}...
+
+->[]{
+    []:->的(_物体,X)->X->+[o](+[matlab],X),
+    ->+的(_物体,+X)->+[o](+[matlab],+X)
+}...
+->[]{
+    []:->的(_物体,Y)->Y->+[o](+[matlab],Y),
+    ->+的(_物体,+Y)->+[o](+[matlab],+Y)
+}...
+->[]{
+    []:->的(_物体,Z)->Z->+[o](+[matlab],Z),
+    ->+的(_物体,+Z)->+[o](+[matlab],+Z)
+}...
+
+->[]{
+    []:->在(_物体,空间点)->空间点->+[o]"pt"(+[matlab],空间点),
+    ->+在(_物体,+空间点)->+[o]"pt"(+[matlab],+空间点)
+}...
+->[]{
+    []:->朝向(_物体,方向)->方向->+[o]"an"(+[matlab],方向),
+    ->+朝向(_物体,+方向)->+[o]"an"(+[matlab],+方向)
+}
+
+
+
+
+
+## end
+#1108, 14:
+5.0, 0.0, 10.0
+## end
+#1110, 46:
+-0.02636280836648283, 0.24708376720572023, 0.0
+## end
+#1112, 198:
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0;
+0.0, 1.0
+## end
+#1114, 826:
+0.6500345991712665, 0.6500345991712665;
+0.42891109229501256, 0.42891109229501256;
+0.4576699298945254, 0.4576699298945254;
+0.2338418644109118, 0.2338418644109118;
+-0.16679365824878378, -0.16679365824878378;
+-0.5757255790825082, -0.5757255790825082;
+-0.855765160185741, -0.855765160185741;
+-0.6578559806865294, -0.6578559806865294;
+-0.03355255376167951, -0.03355255376167951;
+0.5182628979613985, 0.5182628979613985;
+0.5310600317244182, 0.5310600317244182;
+-0.027572277746532897, -0.027572277746532897;
+-0.7405822836575048, -0.7405822836575048;
+-0.9725238504269499, -0.9725238504269499;
+-0.6316679091421232, -0.6316679091421232;
+-0.1689580389310713, -0.1689580389310713;
+0.30204822945400944, 0.30204822945400944;
+0.515187605093551, 0.515187605093551;
+0.5439464426930638, 0.5439464426930638;
+0.6500345991712665, 0.6500345991712665
+## end
+#1116, 840:
+-0.10714218365173292, -0.10714218365173292;
+-0.14037461821117006, -0.14037461821117006;
+-0.18127607613047717, -0.18127607613047717;
+-0.33865518467364314, -0.33865518467364314;
+-0.8161249171584855, -0.8161249171584855;
+-0.30075866076529884, -0.30075866076529884;
+-0.24151951860884574, -0.24151951860884574;
+0.7865087193453926, 0.7865087193453926;
+0.7920828570857931, 0.7920828570857931;
+0.7208808633150733, 0.7208808633150733;
+0.8200586499784758, 0.8200586499784758;
+0.892140238297308, 0.892140238297308;
+0.885774077530246, 0.885774077530246;
+-0.3190335054110385, -0.3190335054110385;
+-0.39113764683667496, -0.39113764683667496;
+-0.974278853130055, -0.974278853130055;
+-0.41294261546564404, -0.41294261546564404;
+-0.2630789919690913, -0.2630789919690913;
+-0.30398044988839834, -0.30398044988839834;
+-0.10714218365173292, -0.10714218365173292
+## end
+#1118, 412:
+0.6500345991712665, 0.42891109229501256, 0.4576699298945254, 0.2338418644109118, -0.16679365824878378, -0.5757255790825082, -0.855765160185741, -0.6578559806865294, -0.03355255376167951, 0.5182628979613985, 0.5310600317244182, -0.027572277746532897, -0.7405822836575048, -0.9725238504269499, -0.6316679091421232, -0.1689580389310713, 0.30204822945400944, 0.515187605093551, 0.5439464426930638, 0.6500345991712665
+## end
+#1120, 419:
+-0.10714218365173292, -0.14037461821117006, -0.18127607613047717, -0.33865518467364314, -0.8161249171584855, -0.30075866076529884, -0.24151951860884574, 0.7865087193453926, 0.7920828570857931, 0.7208808633150733, 0.8200586499784758, 0.892140238297308, 0.885774077530246, -0.3190335054110385, -0.39113764683667496, -0.974278853130055, -0.41294261546564404, -0.2630789919690913, -0.30398044988839834, -0.10714218365173292
+## end
+#1122, 1:
+1
+## end
+#1124, 3:
+多面体
+## end
+#1126, 6:
+5,0,10
+## end
+#1129, 14:
+文档\S应用\ThreeJS
+## end
+#1131, 19:
+文档\S应用\ThreeJS.ftxt
+## end
+#1133, 19:
+文档\S应用\ThreeJS.ftxt
+## end
+#1136, 16:
+文档/S应用/三维模型.ftxt
+## end
+#1138, 16:
+文档/S应用/三维模型.ftxt
+## end
+#1140, 11:
+
+
+
+例子:...
+
+
+## end
+#1142, 1542:
+"""
+记住"Python"
++[P函数](,test)
+
+"""
+
+FREECADPATH = '/usr/lib/freecad-python3/lib/'
+import sys
+sys.path.append(FREECADPATH)
+import FreeCAD as App
+import Part, math
+
+def makeBottleTut(myWidth = 50.0, myHeight = 70.0, myThickness = 30.0):
+    aPnt1=App.Vector(-myWidth / 2., 0, 0)
+    aPnt2=App.Vector(-myWidth / 2., -myThickness / 4., 0)
+    aPnt3=App.Vector(0, -myThickness / 2., 0)
+    aPnt4=App.Vector(myWidth / 2., -myThickness / 4., 0)
+    aPnt5=App.Vector(myWidth / 2., 0, 0)
+
+    aArcOfCircle = Part.Arc(aPnt2, aPnt3, aPnt4)
+    aSegment1=Part.LineSegment(aPnt1, aPnt2)
+    aSegment2=Part.LineSegment(aPnt4, aPnt5)
+
+    aEdge1=aSegment1.toShape()
+    aEdge2=aArcOfCircle.toShape()
+    aEdge3=aSegment2.toShape()
+    aWire=Part.Wire([aEdge1, aEdge2, aEdge3])
+
+    aTrsf=App.Matrix()
+    aTrsf.rotateZ(math.pi) # rotate around the z-axis
+
+    aMirroredWire=aWire.copy()
+    aMirroredWire.transformShape(aTrsf)
+    myWireProfile=Part.Wire([aWire, aMirroredWire])
+
+    myFaceProfile=Part.Face(myWireProfile)
+    aPrismVec=App.Vector(0, 0, myHeight)
+    myBody=myFaceProfile.extrude(aPrismVec)
+
+    myBody=myBody.makeFillet(myThickness / 12.0, myBody.Edges)
+
+    neckLocation=App.Vector(0, 0, myHeight)
+    neckNormal=App.Vector(0, 0, 1)
+
+    myNeckRadius = myThickness / 4.
+    myNeckHeight = myHeight / 10.
+    myNeck = Part.makeCylinder(myNeckRadius, myNeckHeight, neckLocation, neckNormal)
+    myBody = myBody.fuse(myNeck)
+
+    return myBody
+
+el = makeBottleTut()
+Part.show(el)
+# print(el)
+el.exportStep("test.step")
+# el.write("test.obj")
+
+## end
+#1144, 373:
+%{
++[M函数](,fill_3D)
+地址::Matlab/space/fill_3D.m
+
++[保存M函数](,fill_3D)
+%}
+function fill_3D(x1,y1,z1,x2,y2,z2,color)
+
+if length(color)>3
+    alpha=color(4);
+    color=color(1:3);
+else
+    alpha=0.5;
+end
+
+for i=1:length(x1)-1
+    patch([x1(i),x1(i+1),x2(i+1),x2(i)],[y1(i),y1(i+1),y2(i+1),y2(i)],...
+    [z1(i),z1(i+1),z2(i+1),z2(i)],color,'EdgeAlpha',0,'FaceAlpha',0.5)
+end
+
+end
+## end
+#1146, 22:
+Matlab/space/fill_3D.m
+## end
+#1149, 434:
+%{
++[保存M函数](,draw_sphere_fill)
+地址::Matlab/draw/draw_sphere_fill.m
+%}
+
+function draw_sphere_fill(pt,R)
+[X,Y,Z]=sphere();
+
+X=X'*R+pt(1);
+Y=Y'*R+pt(2);
+Z=Z'*R+pt(3);
+
+N=size(X,2);
+for i=1:N-1
+    fill_3D(X(:,i),Y(:,i),Z(:,i),X(:,i+1),Y(:,i+1),Z(:,i+1),[0.5,0.5,0.5]);
+end
+
+patch(X(:,1),Y(:,1),Z(:,1),[0.95,0.95,0.95],'FaceAlpha',0.5,'EdgeALpha',0);
+patch(X(:,end),Y(:,end),Z(:,end),[0.95,0.95,0.95],'FaceAlpha',0.5,'EdgeALpha',0);
+
+end
+
+
+## end
+#1151, 30:
+Matlab/draw/draw_sphere_fill.m
+## end
+#1153, 415:
+%{
++[保存M函数](,draw_XYZ_fill)
+地址::Matlab/draw/draw_XYZ_fill.m
+%}
+
+function draw_sphere_fill(X,Y,Z)
+addpath('Matlab/space');
+
+plot3(X,Y,Z,'k-')
+
+N=size(X,2);
+for i=1:N-1
+    fill_3D(X(:,i),Y(:,i),Z(:,i),X(:,i+1),Y(:,i+1),Z(:,i+1),[0.95,0.95,0.95]);
+end
+
+patch(X(:,1),Y(:,1),Z(:,1),[0.95,0.95,0.95],'FaceAlpha',0.5,'EdgeALpha',0);
+patch(X(:,end),Y(:,end),Z(:,end),[0.95,0.95,0.95],'FaceAlpha',0.5,'EdgeALpha',0);
+
+end
+
+
+## end
+#1155, 27:
+Matlab/draw/draw_XYZ_fill.m
+## end
+### 结束

@@ -1,0 +1,364 @@
+### 节点
+m_width, m_height, m_y, m_x, m_cursor, m_readPtr, [ctrl+S], [ctrl+R], [ctrl+S], [ctrl+P], 的, 的, 的, 的, 的, 的, 新窗口, [端口], De Laval气阀, 地址, [标题], 的, 的, 的, 估算背景气压, 目录, 的, 的, 公式推导, 的, 计算背景气压, 的, 依据公式, 的, 气泵, 的, 真空泵, 的, 音速, 的, 节点数目统计, 20210420, 的, 的, PIC模拟, 的, 
+### 关联
+#, #, #, #, #, #, 16#, 16#, 16#, 16#, 16#0, 16#1, 16#2, 16#3, 16#4, 16#5, 18#, 18#, #, #, #, 24#16, 24#18, 24#19, #, #, 25#24, 24#28, #, 24#30, #, 30#32, #, 24#34, #, 24#36, #, 24#38, #, 25#40, #, #, 40#41, 24#44, #, 24#del, 
+### 内容
+#0, 3:
+958
+## end
+#1, 3:
+476
+## end
+#2, 2:
+38
+## end
+#3, 3:
+961
+## end
+#4, 7:
+228,228
+## end
+#18, 28:
+文档\物理问题\De_Laval_nozzle.ftxt
+## end
+#19, 19:
+文档\物理问题\估算背景气压.ftxt
+## end
+#20, 6:
+估算背景气压
+## end
+#24, 973:
++[返回目录](,估算背景气压)
+地址::文档\物理问题\估算背景气压.ftxt
++[导出结构](,估算背景气压)
+
+气压问题一开始我想不清楚变量间的约束关系. 方程太多了, 不确定需要知道几个变量.  
+后来想到了熵不变, 好像问题就变得简单了. (思考的中间过程其实很多的, 复原有点麻烦. 这次就这样了. 一步步来)
+
+思路是:
+1.认为中间过程是绝热的. 所以, 只要有压强, 就有了其它所有的热力学量; 
+2.出口处的压强已知, 所以密度已知, 所以流速确定. 或者说, 出口处的所有性质都确定了; 
+3.认为流团的动能来自于流团的内能, 所以可以确定初始时刻的流团的压强以及其它各种量; 
+4.因为流体不均匀, 所以流体的面积不能确定. 所以不能用流量守恒的方程; 
+5.关于背景气体的熵可以这么估计: 
+5.1 认为背景气体的熵和气阀的熵相同, 意味着认为出来的气体把动能全部传递到了器壁上. 
+5.2 也可以认为气阀出来的气体, 所有的动能都转化为了热能, 那么背景气体的熵应该用动能加上热能作为内能来估算(密度不变, 温度升高). 
+
+最后一个问题, 能量守恒怎么用? 我记得可以用那个焓守恒? 直接参考资料吧. 
+用等压热容就行了. 
+
+音速::file:///C:/Users/cheng/Desktop/paper/Nozzle/Schmid09_thesis.pdf#page=36
++[打开网页](,音速)
+De Laval气阀::文档\物理问题\De_Laval_nozzle.ftxt
++[打开文件](+新窗口,De Laval气阀)
+
+公式推导:...
++[网页](web,公式推导)
+
+计算背景气压:...
++[M函数](,计算背景气压)
+
+真空泵能抽到1e-4 Torr
+
+PIC模拟::文档\设计文档\PIC模拟_MIR.ftxt
++[打开文件](+新窗口,PIC模拟)
+
+气泵::文档\设计文档\MIR Checklist.ftxt
++[打开文件](+新窗口,气泵)
+真空泵::https://www.lesker.com/newweb/vacuum_pumps/rotaryvanepump_kjlc_rvseries.cfm?highlight=KJLC-RV206SSH
++[打开网页](,真空泵)
+## end
+#25, 52:
+估算背景气压:...
+创建于 20210221
+
++[修改标题]"目录"(,文本)
+节点数目统计::
+
+
+## end
+#28, 4274:
+<!--
++[返回目录](,公式推导)
++[网页](web,公式推导)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+<b><u>Background pressure in the vacuum chamber</u></b><br>
+Assume the output pressure is \(P_1\), the output area is \(A_1\). The input pressure of the De Laval nozzle is \(P_0\) and the temperature is \(T_0=300\ K\).<br>
+Since the state of the gas is steady, the outcoming flow should be the same as the incoming flow. I assume it's \(M\) at the beginning. <br>
+<br>
+We can assume there are two kinds of gas in the chamber. One comes from the De Laval nozzle directly, with the same entropy as the input gas and very high velocity. After hitting the chamber, or slowing down by any other mechanisms, it becomes background gas with higher entropy and very low velocity. <br>
+<br>
+Now I want to calculate the density \(\rho\) of the background gas. <br>
+For isentropic gas, we have,
+$$
+P_1 T_1^{-\frac{\gamma}{\gamma-1}}
+=P T^{-\frac{\gamma}{\gamma-1}}
+=C_1
+$$
+$$
+\rho_1 T_1^{-\frac{1}{\gamma-1}}
+=\rho T^{-\frac{1}{\gamma-1}}
+=C_2
+$$
+The velocity of the gas at the output tube is,
+$$
+w_1=\frac{M}{A_1 \rho_1}
+$$
+Then the temperature of the background gas should be,
+$$
+\frac{m_{0}w_1^2}{2}+c_p T_1=c_p T
+$$
+As a result,
+$$
+T=T_1 + \frac{m_{0}w_1^2}{2 c_p}
+
+=T_1 + \frac{m_{0}M^2}{2 c_p A_1^2}\left(\frac{1}{\rho_1}\right)^2
+\\
+=T_1 + \frac{m_{0}M^2}{2 c_p A_1^2 C_2^2}
+
+\left(\frac{1}{T_1}\right)^{\frac{2}{\gamma-1}}
+
+$$
+And,
+$$
+P_1 T_1^{-\frac{\gamma}{\gamma-1}}
+=C_1
+\Rightarrow
+T_1^{\frac{\gamma}{\gamma-1}}
+=\frac{P_1}{C_1}
+\\\Rightarrow
+T_1=\left(\frac{P_1}{C_1}\right)^{\frac{\gamma-1}{\gamma}}
+$$
+
+So we will have,
+$$
+T=\left(\frac{P_1}{C_1}\right)^{\frac{\gamma-1}{\gamma}}
++ \frac{m_{0}M^2}{2 c_p A_1^2 C_2^2}
+
+\left(\frac{C_1}{P_1}\right)^{\frac{2}{\gamma}}
+$$
+We also have,
+$$
+\frac{C_1}{C_2}=k_B
+$$
+Then,
+$$
+T=\left(\frac{P_1}{k_B}\right)^{\frac{\gamma-1}{\gamma}}
+
+(C_2)^{\frac{1-\gamma}{\gamma}}
+
++\frac{m_{0}M^2}{2 c_p A_1^2}
+\left(\frac{k_B}{P_1}\right)^{\frac{2}{\gamma}}
+
+(C_2)^{\frac{2(1-\gamma)}{\gamma}}
+
+$$
+
+<!--
++[网页](web,公式推导)
+-->
+
+<br>
+<br>
+So far, there are two unsolved problems:<br>
+1.What is the flow of the De Laval nozzle? (\(M=?\)) <br>
+2.What is the entropy of the background gas? (\(C_2=?\))<br>
+
+<br>
+<b>Q1:</b> What is the flow of the De Laval nozzle?<br>
+The velocity of the gas at the throat is,
+$$
+w_*=\sqrt{\left(\frac{\gamma-1}{\gamma+1}\right)\frac{2 c_p T_0}{m_0}}
+$$
+The density is,
+$$
+\rho_*=\rho_0\left(\frac{2}{\gamma+1}\right)^{\frac{1}{\gamma-1}}
+$$
+So the incoming flow is,
+$$
+M=A_* w_* \rho_*
+=A_* \rho_0 \sqrt{\frac{2 c_p T_0}{m_0}}
+\left(\frac{2}{\gamma+1}\right)^{\frac{1}{\gamma-1}}\sqrt{\frac{\gamma-1}{\gamma+1}}
+$$
+
+<br>
+<b>Q2:</b> What is the entropy of the background gas? <br>
+Instead of calculating the entropy, let's calculate the change of the \(C_2\).<br> 
+The change of \(C_2\) is caused by the change of entropy when the gas hitting the wall or decelerate in the background gas. By simplifying this process, we can assume that, at the certain point, the temperature arised while the density of the gas doesn't change at all.<br>
+At that point, the density is \(\rho_2\) and the temperature is \(T_2\). The change of the temperature is \(\Delta T\). 
+
+Then,
+$$
+C_2^{1-\gamma}
+=\rho_2^{1-\gamma}(T_2+\Delta T)
+=\rho_0^{1-\gamma}T_0+ \rho_2^{1-\gamma}\Delta T
+$$
+
+Now we can simplify the above equations farther more. 
+$$
+C_2
+=\rho T^{-\frac{1}{\gamma-1}}
+$$
+$$
+C_2^{1-\gamma}
+=\rho^{1-\gamma}T
+$$
+$$
+\rho^{\gamma-1}
+=C_2^{\gamma-1}T
+$$
+$$
+T=\left(\frac{P_1}{k_B}\right)^{\frac{\gamma-1}{\gamma}}
+
+(C_2)^{\frac{1-\gamma}{\gamma}}
+
++\frac{m_{0}M^2}{2 c_p A_1^2}
+\left(\frac{k_B}{P_1}\right)^{\frac{2}{\gamma}}
+
+(C_2)^{\frac{2(1-\gamma)}{\gamma}}
+
+$$
+$$
+\rho^{\gamma-1}=C_2^{\gamma-1}T
+=\left(\frac{P_1}{k_B}\right)^{\frac{\gamma-1}{\gamma}}
+
+(C_2)^{\frac{(1-\gamma)^2}{\gamma}}
+
++\frac{m_{0}M^2}{2 c_p A_1^2}
+\left(\frac{k_B}{P_1}\right)^{\frac{2}{\gamma}}
+
+(C_2)^{\frac{2(1-\gamma)^2}{\gamma}}
+
+$$
+
+
+
+
+<!--
++[网页](web,公式推导)
+-->
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#30, 828:
+%{
++[M函数](,计算背景气压)
+
+依据公式:...
++[网页](web,依据公式)
+%}
+
+physics_constant;
+
+P0=40e5;
+T0=300;
+DT=10;
+rho2=1e24;
+
+m0=4*mp;
+throat_d=1e-3;
+A0=pi*(throat_d/2)^2;
+P1=1e-4*133.322;
+tube_d=0.2e10;
+A1=pi*(tube_d/2)^2;
+
+rho0=P0/kB/T0;
+gamma=5/3;
+c_p=5/2*kB;
+
+C_2=(rho0^(1-gamma)*T0 + rho2^(1-gamma)*DT)^(1/(1-gamma));
+M=A0*rho0*sqrt(2*c_p*T0/m0)*(2/(gamma+1))^(1/(gamma-1))*sqrt((gamma-1)/(gamma+1));
+
+tmp_rho=(P1/kB)^((gamma-1)/gamma)*C_2^((1-gamma)^2/gamma)...
++m0*M^2/2/c_p/A1^2*(kB/P1)^(2/gamma)*C_2^(2*(1-gamma)^2/gamma);
+
+rho_1=(tmp_rho)^(1/(gamma-1));
+
+
+disp(sprintf('Back pressure: %.2e Pa',P0))
+disp(sprintf('Background pressure: %.2e Pa(%.2e Torr)',P1,P1/133.322))
+disp(sprintf('Background density: %.2e cm^-3',rho_1/1e6))
+disp(sprintf('Gas flow: %.2e L/s',M/rho_1/1e3))
+disp(sprintf('Pumping speed: 2.99 L/s'))
+
+
+%{
++[M函数](,计算背景气压)
+%}
+## end
+#32, 915:
+<!--
++[返回目录](,依据公式)
++[网页](web,依据公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+$$
+\gamma_{He}=\frac{5}{3}
+$$
+
+
+$$
+C_2^{1-\gamma}
+=\rho_2^{1-\gamma}(T_2+\Delta T)
+=\rho_0^{1-\gamma}T_0+ \rho_2^{1-\gamma}\Delta T
+$$
+
+$$
+M=A_* w_* \rho_*
+=A_* \rho_0 \sqrt{\frac{2 c_p T_0}{m_0}}
+\left(\frac{2}{\gamma+1}\right)^{\frac{1}{\gamma-1}}\sqrt{\frac{\gamma-1}{\gamma+1}}
+$$
+
+$$
+\rho^{\gamma-1}=C_2^{\gamma-1}T
+=\left(\frac{P_1}{k_B}\right)^{\frac{\gamma-1}{\gamma}}
+
+(C_2)^{\frac{(1-\gamma)^2}{\gamma}}
+
++\frac{m_{0}M^2}{2 c_p A_1^2}
+\left(\frac{k_B}{P_1}\right)^{\frac{2}{\gamma}}
+
+(C_2)^{\frac{2(1-\gamma)^2}{\gamma}}
+
+$$
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#34, 26:
+文档\设计文档\MIR Checklist.ftxt
+## end
+#36, 99:
+https://www.lesker.com/newweb/vacuum_pumps/rotaryvanepump_kjlc_rvseries.cfm?highlight=KJLC-RV206SSH
+## end
+#38, 71:
+file:///C:/Users/cheng/Desktop/paper/Nozzle/Schmid09_thesis.pdf#page=36
+## end
+#41, 2:
+45
+## end
+#44, 22:
+文档\设计文档\PIC模拟_MIR.ftxt
+## end
+### 结束

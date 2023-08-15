@@ -1,0 +1,8444 @@
+### 节点
+地址, 的, PlasmaMirror, 目录, 的, 的, 节点数目统计, 20221110, 的, 的, 磁场场景, 参考波长, 的, 模拟空间, 的, 窗口, 的, plasma, 的, PW_laser, 的, 探测场, 的, y, 的, x, 的, 空间点, 在, 宽度, 的, 长度, 的, 样式, 类型, 的, y, 的, x, 的, 空间点, 在, 宽度, 的, 长度, 的, 样式, 类型, 的, 数密度, 的, 的, f, 表达式, 的, 公式, 的, 模拟动画, 启动时间, 的, 为, 的, a0, 的, 展宽, 的, 腰宽, 的, 焦点位置, 的, 偏振态, 的, 的, A, 空间点, 在, 动画, 画图, 初始化, 画图, 初始化, 的, 保存代码, 的, 散射场景, 手, 参考波长, 的, 模拟空间, 的, 窗口, 的, plasma, 的, LWFA_e, 的, y, 的, x, 的, 空间点, 在, 宽度, 的, 长度, 的, 样式, 类型, 的, y, 的, x, 的, 空间点, 在, 宽度, 的, 长度, 的, 样式, 类型, 的, 数密度, 的, 的, n, 表达式, 的, 公式, 的, 预览, 启动时间, 的, 数密度, 的, 延时函数, 的, gamma, 的, beta_r, 的, 空间点, 在, 的, fx, 的, ft, 表达式, 的, 公式, 表达式, 的, 公式, 画图, 初始化, 画图, 初始化, 的, 保存代码, 速度, 的, 动画, 画图, 初始化, 画图, 初始化, 20221120, 的, 的, 磁场散射, 的, 公式, html, 的, 示意图场景, 电子源, 的, 磁场1, 的, 磁场2, 的, 屏幕, 的, 参考线, 的, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, 宽度, 的, 样式, 宽度, 的, 样式, 宽度, 的, 样式, 空间点, 在, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, A, 的, B, 的, C, 的, D, 的, 空间点, 在, 空间点, 在, 空间点, 在, 空间点, 在, 轨迹, 的, 经过, 的, 经过, 的, 经过, 的, 经过, 的, 样式, y, 的, x, 的, 类型, 的, 的, 示意图1, 章, 的, [1]., 表达式, 的, 公式, 的, [2]., 表达式, 的, 公式, 的, [3]., 表达式, 的, 公式, 的, [4]., 表达式, 的, 公式, 的, [5]., 表达式, 的, 公式, 的, [6]., 的, [7]., 的, [8]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [9]., 的, [10]., 的, [11]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [12]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [13]., 的, [14]., 的, [15]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [16]., 的, [17]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [18]., 表达式, 的, 公式, 的, [19]., 表达式, 的, 公式, 的, 验证公式, M函数, 的, 参考, 20221121, 的, 的, 地址, 的, 数据地址, 探测类型, 的, 探测间隔, 的, 波长, 的, 探测场, 的, 探测类型, 的, 探测间隔, 的, 的, 地址, 的, 数据地址, PW_laser, 的, 波长, 的, a0, 的, 展宽, 的, 腰宽, 的, 焦点位置, 的, 偏振态, 的, 的, A, 空间点, 在, 的, 分析数据, 的, 观察磁场, 的, 分析发散度, 的, theta_y分布, 手, 20221127, 的, 的, 分析数据, 的, 计算散射角, 的, 保存, 的, 获取数据, 的, 发射角变化, 手, 的, 磁场变化, 的, 电子透射瞬间, 的, 瞬时状态, 的, 演化过程, 的, 2_long_e_20_deg, 的, 预览图, 的, NL文件, 电子透射瞬间, 磁场变化, 演化过程, 瞬时状态, 的, 的, 发射角变化, 获取数据, 保存, 的, 的, 的, 的, 的, 计算散射角, 的, 保存, 获取数据, 瞬时状态, 演化过程, 的, 的, 发射角变化, 磁场变化, 电子透射瞬间, 的, 的, 的, 的, 的, 计算散射角, NL文件, 预览图, 的, 的, 的, 0_short_e, 的, 20221128, 的, 分析数据, NL文件, 预览图, 的, 的, 的, 7_10_deg_no_e, 的, 手, 的, 模拟案例, 的, 磁场演化性质, 的, 地址, 的, 数据地址, 手, 探测场, 的, 参考波长, 的, 模拟空间, 的, 窗口, 的, plasma, 的, PW_laser, 的, 探测类型, 的, 探测间隔, 的, y, 的, x, 的, 空间点, 在, 宽度, 的, 长度, 的, 样式, 类型, 的, y, 的, x, 的, 空间点, 在, 宽度, 的, 长度, 的, 样式, 类型, 的, 启动时间, 的, 数密度, 的, 的, f, 表达式, 的, 公式, a0, 的, 展宽, 的, 腰宽, 的, 焦点位置, 的, 偏振态, 的, 的, A, 波长, 的, 空间点, 在, 的, 模拟动画, 的, 保存代码, 的, 分析数据, 预览图, NL文件, 电子透射瞬间, 磁场变化, 演化过程, 瞬时状态, 的, 的, 发射角变化, 获取数据, 保存, 的, 的, 的, 的, 的, 计算散射角, 的, 的, 的, 8_long_e_3_deg, 的, 的, 电子散射规律, 探测场, 的, 探测类型, 的, 探测间隔, 的, 参考波长, 的, 模拟空间, 的, 窗口, 的, plasma, 的, LWFA_e, 的, y, 的, x, 的, 空间点, 在, 宽度, 的, 长度, 的, 样式, 类型, 的, y, 的, x, 的, 空间点, 在, 宽度, 的, 长度, 的, 样式, 类型, 的, 启动时间, 的, 速度, 的, 数密度, 的, 的, n, 表达式, 的, 公式, 数密度, 的, 延时函数, 的, gamma, 的, beta_r, 的, 空间点, 在, 的, fx, 的, ft, 表达式, 的, 公式, 表达式, 的, 公式, 的, A, 空间点, 在, PW_laser, 的, 波长, 的, a0, 的, 展宽, 的, 腰宽, 的, 焦点位置, 的, 偏振态, 的, 的, 预览, 粒子追踪, 的, 名称, 的, 追踪间隔, 的, 的, 保存代码, 的, 数据地址, 的, 地址, 预览图, NL文件, 横向分布, 纵向分布, 的, 的, 分析数据, 的, 的, 的, 3_no_e_10_deg_B_field, 的, 的, 分析数据, 的, 场分布, 手, 预览图, NL文件, 场分布, 的, 分析数据, 的, 的, 的, 4_10_deg_laser, 的, 预览图, NL文件, 场分布, 的, 分析数据, 的, 的, 的, 5_10_deg, 的, 预览图, NL文件, 场分布, 的, 分析数据, 的, 的, 的, 6_10_deg_n_1e29, 的, 粒子追踪, 的, 名称, 的, 追踪间隔, 的, 保存, 获取数据, 瞬时状态, 演化过程, 的, 的, 发射角变化, 磁场变化, 电子透射瞬间, 的, 的, 的, 的, 的, 计算散射角, NL文件, 预览图, 的, 的, 的, 1_long_e_10_deg, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, #, 6#7, 2#10, #, #, 10#11, #, 10#13, #, 10#15, #, 10#17, #, 10#19, #, 10#21, #, 13#23, #, 13#25, #, 13#27, #, 13#29, #, 13#31, 13#, #, 13#34, #, 15#36, #, 15#38, #, 15#40, #, 15#42, #, 15#44, 15#, #, 15#47, #52, 17#49, 10#52, #, #, 52#53, 52#, 10#57, #, #, 15#58, 58#, 10#60, #, 19#62, #, 19#64, #, 19#66, #73, 19#68, #, 19#70, 10#73, #, #, 73#74, #, #, #, #, #, 10#82, #, 2#84, #, #84, #, 84#86, #, 84#88, #, 84#90, #, 84#92, #, 84#94, #, 88#96, #, 88#98, #, 88#100, #, 88#102, #, 88#104, 88#, #, 88#107, #, 90#109, #, 90#111, #, 90#113, #, 90#115, #, 90#117, 90#, #, 90#120, #125, 92#122, 84#125, #, #, 125#126, 125#, 84#130, #, #, 90#131, #144, 94#133, #146, 94#135, #, 94#137, #, 94#139, #, 94#141, 84#144, #, 84#146, #, #, 144#147, 144#, #, 146#150, 146#, #, #, #, #, 84#158, #, #, 90#159, #, #, #, #, #, #, 6#166, 2#169, #, 169#171, #, 171#, 171#174, #, #, 174#175, #, 174#177, #, 174#179, #, 174#181, #, 174#183, #, 177#185, #, 177#187, #, 177#189, #, 177#191, #, 177#193, #, 179#195, #, 179#197, #, 179#199, #, 179#201, #, 179#203, #, 181#205, #, 181#207, #, 181#209, #, 181#211, #, 181#213, #, 177#215, 177#, #, 179#218, 179#, #, 181#221, 181#, #, 175#224, #, 183#226, #, 183#228, #, 183#230, #, 183#232, #, 183#234, #, 174#236, #, 174#238, #, 174#240, #, 174#242, #, 236#244, #, 238#246, #, 240#248, #, 242#250, #, 174#252, 252#236, 174#254, 252#238, 174#256, 252#240, 174#258, 252#242, 174#260, 252#, #, 252#263, #, 252#265, #, 252#267, 171#270, #, 270#, 171#273, #, #, 273#274, 273#, 171#278, #, #, 278#279, 278#, 171#283, #, #, 283#284, 283#, 171#288, #, #, 288#289, 288#, 171#293, #, #, 293#294, 293#, 171#298, #, 171#300, #, 171#302, #, #, 298#303, 298#, #, 300#306, 300#, #, 302#309, 302#, 171#313, #, 171#315, #, 171#317, #, #, 313#318, 313#, #, 315#321, 315#, 171#325, #, #, 317#326, 317#, #, 325#329, 325#, 171#333, #, 171#335, #, 171#337, #, #, 335#338, 335#, #, 333#341, 333#, #, 337#344, 337#, 171#348, #, 171#350, #, #, 348#351, 348#, #, 350#354, 350#, 171#358, #, #, 358#359, 358#, 171#363, #, #, 363#364, 363#, 171#368, #, 368#, 368#371, #, #, 6#372, 10#375, #, 10#377, #, #, 21#378, #, 21#380, #, 19#382, #, 84#384, #, 384#386, #, 384#388, 84#391, #, 84#393, #, #, 84#394, #, 394#396, #, 394#398, #, 394#400, #, 394#402, #409, 394#404, #, 394#406, 84#409, #, #, 409#410, 84#413, #, 413#415, #, 413#417, #, 417#419, #, #84, #, 6#421, 2#424, #, 424#426, #, 426#428, #, 426#430, #, 426#432, #, #84, 426#435, #, 426#437, #, 432#439, #, 432#441, #, 424#443, #, 443#445, #, 443#447, #, #, #, #, #, 454#450, 454#451, #, #, #, 462#448, 462#449, 462#454, 462#455, 462#456, #, 443#462, #, #, #, #, 470#466, 470#467, #, #, #, 478#464, 478#465, 478#470, 478#471, 478#472, #, #, #, 484#478, 484#479, 484#480, #, 424#484, #, 6#486, #, #, #, 494#488, 494#489, 494#490, #, 424#494, #84, 2#498, #, 498#500, #, 500#502, #, 500#504, #, #602, #, 500#506, #, 500#508, #, 500#510, #, 500#512, #, 500#514, #, 500#516, #, 506#518, #, 506#520, #, 510#522, #, 510#524, #, 510#526, #, 510#528, #, 510#530, 510#, #, 510#533, #, 512#535, #, 512#537, #, 512#539, #, 512#541, #, 512#543, 512#, #, 512#546, #, 512#548, #553, 514#550, 500#553, #, #, 553#554, 553#, #, 516#557, #, 516#559, #, 516#561, #568, 516#563, #, 516#565, 500#568, #, #, 516#569, #, 568#571, 500#574, #, 500#576, #, 500#578, #, #, #, #, #, #, #, 587#583, 587#584, #, #, #, 595#581, 595#582, 595#587, 595#588, 595#589, #, 599#579, 599#580, 599#595, #, 424#599, 498#602, #, #, 602#603, #, 603#605, #, 603#607, #, 602#609, #, 602#611, #, 602#613, #, 602#615, #, 602#617, #, 611#619, #, 611#621, #, 611#623, #, 611#625, #, 611#627, 611#, #, 611#630, #, 613#632, #, 613#634, #, 613#636, #, 613#638, #, 613#640, 613#, #, 613#643, #, 613#645, #, 613#647, #652, 615#649, 602#652, #, #, 652#653, 652#, #667, 617#656, #669, 617#658, #, 617#660, #, 617#662, #, 617#664, 602#667, #, 602#669, #, #, 667#670, 667#, #, 669#673, 669#, 602#677, #, #, 677#678, #, 602#680, #, 680#682, #, 680#684, #, 680#686, #, 680#688, #677, 680#690, #, 680#692, 602#695, #, #, 602#696, #, 696#698, #, 696#700, 602#703, #, 602#705, #, 602#707, #, #, #, #, #, 714#710, 714#711, #, 718#708, 718#709, 718#714, #, 424#718, 602#721, #, 488#723, #, #84, #, #, #, 729#727, #, 733#725, 733#726, 733#729, #, 424#733, #, #, #, 739#737, #, 743#735, 743#736, 743#739, #, 424#743, #, #, #, 749#747, #, 753#745, 753#746, 753#749, #, 424#753, #, 84#755, #, 755#757, #, 755#759, #, #, #, #, 767#763, 767#764, #, #, #, 775#761, 775#762, 775#767, 775#768, 775#769, #, #, #, 781#775, 781#776, 781#777, #, 424#781, 
+### 内容
+#0, 25:
+文档\物理问题\PlasmaMirror.ftxt
+## end
+#2, 252:
++[返回目录](,PlasmaMirror)
+地址::文档\物理问题\PlasmaMirror.ftxt
+
+
+Nini, 导入PPT的库
+Nini, 导入GEANT4文件的库
+
+Nini, 打开相对论双折射(文件)
+Nini, 打开Smilei生成器(文件)
+Nini, 打开GEANT4文件(文件)
+
+
+磁场场景:...
+散射场景:...
+模拟案例:...
++[新建阅读窗口](,模拟案例)
+
+分析数据:...
++[新建阅读窗口](,分析数据)
+
+磁场散射:...
++[新建阅读窗口](,磁场散射)
+
+
+## end
+#3, 56:
+PlasmaMirror:...
+创建于 20221110
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#7, 3:
+164
+## end
+#10, 1037:
+地址::文档\模拟\Smilei\code\run.py
+数据地址::文档\\模拟\\Smilei\\code
++[提取Smilei数据]"Rho"(数据地址,)
++[提取Smilei数据]"Ey"(数据地址,)
++[提取Smilei数据]"Ez"(数据地址,)
++[提取Smilei数据]"Bz"(数据地址,)
+
+Nini, 打开Smilei生成器(文件)
+
++[生成Smilei代码_结构](磁场场景,)
+保存代码:...
++[保存文本](地址,保存代码)
+
+有探测场
+有参考波长, 模拟空间和窗口
+有plasma, PW_laser
+
+有探测场
+探测场有探测类型和探测间隔
+探测场的探测类型是"'Ez','Ey','Rho','Bz'"
+探测场的探测间隔是"400"
+
+
+参考波长是"800e-9"
+
+模拟空间和窗口都是长方形(110e-6,80e-6)
+窗口有启动时间
+窗口的启动时间是"800e-15"
+
+plasma有数密度
+plasma的数密度是f
+f:...
+将"\eqs{n_e=10^{26};
+D=25*10^{-6};
+x_0=50*10^{-6};
+\theta=10/180*3.1415;
+n(x)=\eqs{n_e,(x-x_0)*cos(\theta)+y*sin(\theta)>0,(x-x_0-D)*cos(\theta)+y*sin(\theta)<0;0,otherwise}}"记作为f
+显示f
+
+
+
+将"\eqs{n_e=10^{26};
+D=25*10^{-6};
+x_0=50*10^{-6};
+\theta=10/180*3.1415;
+n(x)=\eqs{n_e,x>x_0,x<x_0+D;0,otherwise}}"记作为f
+
+
+
+PW_laser有a0, 展宽, 腰宽, 焦点位置和偏振态
+PW_laser的展宽是"100e-15"
+PW_laser的腰宽是"10e-6"
+PW_laser的a0是"1"
+PW_laser的偏振态是(0,1)
+PW_laser的焦点位置是A
+
+PW_laser有波长
+PW_laser的波长是"1000e-9"
+
+A::
+A在(60e-6,0)
+
+
+模拟动画:...
++[召唤星辰](磁场场景,模拟动画)
++[M函数](,模拟动画)
++[新建阅读窗口](,模拟动画)
++[设置结构](,模拟动画)
+
+
++[显示PPT场景]"2"(,磁场场景)
+Nini, 打开公式分析器(文件)
+## end
+#11, 6:
+800e-9
+## end
+#13, 3:
+多边形
+## end
+#15, 3:
+多边形
+## end
+#23, 28:
+-4e-05, 4e-05, 4e-05, -4e-05
+## end
+#25, 26:
+0.0, 0.0, 0.00011, 0.00011
+## end
+#27, 8:
+0.0, 0.0
+## end
+#29, 7:
+0.00011
+## end
+#31, 5:
+8e-05
+## end
+#33, 3:
+多边形
+## end
+#34, 3:
+长方形
+## end
+#36, 28:
+-4e-05, 4e-05, 4e-05, -4e-05
+## end
+#38, 26:
+0.0, 0.0, 0.00011, 0.00011
+## end
+#40, 8:
+0.0, 0.0
+## end
+#42, 7:
+0.00011
+## end
+#44, 5:
+8e-05
+## end
+#46, 3:
+多边形
+## end
+#47, 3:
+长方形
+## end
+#52, 171:
+n_e=10**(26)
+D=25*10**(-6)
+x_0=50*10**(-6)
+theta=10/180*3.1415
+n=0
+if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+    n=n_e
+
+
+
+## end
+#53, 171:
+\eqs{n_e=10^{26};
+D=25*10^{-6};
+x_0=50*10^{-6};
+\theta=10/180*3.1415;
+n(x)=\eqs{n_e,(x-x_0)*cos(\theta)+y*sin(\theta)>0,(x-x_0-D)*cos(\theta)+y*sin(\theta)<0;0,otherwise}}
+## end
+#57, 1517:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0*c;
+t0=800e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=8e-05;
+L1=8e-05;
+W0=0.00011;
+W1=0.00011;
+
+DW=0.00011-0.00011;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+tau2=100e-15*2.5;
+focus2=[60e-6,0];
+w_02=10e-6;
+% Gaussian beam
+z_R2=w_02^2*pi/lm_0;
+z=linspace(pt0(1),pt0(1)+W0,100);
+w2=w_02.*sqrt(1+((z-focus2(1))./(z_R2)).^(2));
+
+n_e=10.^(26);
+D=25.*10.^(-6);
+x_0=50.*10.^(-6);
+theta=10./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n3=n;
+
+
+
+clf
+hold on
+contourf(x,y,n3);
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+patch([z,fliplr(z)],focus2(2)+[w2/2,-fliplr(w2)/2],[1,0,0],'FaceAlpha',0.2)
+h2=rectangle('Position',[pt1(1)-c*tau2,pt1(2)-w2(1)/2,c*tau2,w2(1)],'Curvature',[1,1],'FaceColor',[1,0.5,0,0.8]);
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+w_z2=w_02.*sqrt(1+((c*t(i)+pt1(1)-focus2(1))./(z_R2)).^(2));
+
+h2.Position(1)=c*t(i)+pt1(1)-c*tau2;
+h2.Position(2)=focus2(2)-w_z2/2;
+h2.Position(4)=w_z2;
+
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#58, 7:
+800e-15
+## end
+#62, 1:
+1
+## end
+#64, 7:
+100e-15
+## end
+#66, 5:
+10e-6
+## end
+#70, 3:
+0,1
+## end
+#74, 7:
+60e-6,0
+## end
+#76, 154:
+w_z2=w_02.*sqrt(1+((c*t(i)+pt1(1)-focus2(1))./(z_R2)).^(2));
+
+h2.Position(1)=c*t(i)+pt1(1)-c*tau2;
+h2.Position(2)=focus2(2)-w_z2/2;
+h2.Position(4)=w_z2;
+
+
+## end
+#77, 190:
+patch([z,fliplr(z)],focus2(2)+[w2/2,-fliplr(w2)/2],[1,0,0],'FaceAlpha',0.2)
+h2=rectangle('Position',[pt1(1)-c*tau2,pt1(2)-w2(1)/2,c*tau2,w2(1)],'Curvature',[1,1],'FaceColor',[1,0.5,0,0.8]);
+
+## end
+#78, 167:
+tau2=100e-15*2.5;
+focus2=[60e-6,0];
+w_02=10e-6;
+% Gaussian beam
+z_R2=w_02^2*pi/lm_0;
+z=linspace(pt0(1),pt0(1)+W0,100);
+w2=w_02.*sqrt(1+((z-focus2(1))./(z_R2)).^(2));
+
+
+## end
+#79, 18:
+contourf(x,y,n3);
+
+## end
+#80, 101:
+n_e=10.^(25);
+D=25.*10.^(-6);
+x_0=50.*10.^(-6);
+n=0.*ones(size(x));
+n(x<x_0+D & x>x_0)=n_e;;
+
+n3=n;
+
+
+## end
+#82, 2248:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 6912.0
+Lx = 864.0
+Ly = 628.3185307179587
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(15221.426806536188)*dt,
+
+    cell_length  = [0.125, 15.707963267948966],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(26)
+    D=25*10**(-6)
+    x_0=50*10**(-6)
+    theta=10/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 1.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 314.1592653589793],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Ez','Ey','Rho','Bz'],
+    every = 400,
+)
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#84, 1400:
+地址::文档\模拟\Smilei\code\run.py
+数据地址::文档\\模拟\\Smilei\\code
++[提取Smilei数据]"Rho"(数据地址,)
++[提取Smilei数据]"Jx"(数据地址,)
++[提取Smilei数据]"Jy"(数据地址,)
++[提取Smilei数据]"Bz"(数据地址,)
++[提取Smilei数据]"Ez"(数据地址,)
++[提取Smilei数据]"e_track"(数据地址,)
++[打开](,数据地址)
+
++[生成Smilei代码_结构](散射场景,)
+保存代码:...
++[保存文本](地址,保存代码)
++[新建阅读窗口](,保存代码)
+
+
+有探测场
+探测场有探测类型和探测间隔
+探测场的探测类型是"'Rho','Jx','Jy','Bz','Ez'"
+探测场的探测间隔是"400"
+
+有粒子追踪
+粒子追踪有名称和追踪间隔
+粒子追踪的名称是"electron2"
+粒子追踪的追踪间隔是"400"
+
+
+有参考波长, 模拟空间和窗口
+有plasma和LWFA_e
+
+参考波长::800e-9
+模拟空间和窗口都是长方形(110e-6,90e-6)
+
+窗口有启动时间
+窗口的启动时间是"500e-15"
+模拟空间是长方形(200e-6,90e-6)
+窗口有速度
+窗口的速度是"0.999"
+
+plasma有数密度
+plasma的数密度是n
+n::
+将"\eqs{n_e=10^{26};x_0=40*10^{-6};D=25*10^{-6};
+\theta=3/180*3.1415;
+n(x)=\eqs{n_e,(x-x_0)*cos(\theta)+y*sin(\theta)>0,(x-x_0-D)*cos(\theta)+y*sin(\theta)<0;0,otherwise}}"记作为n
+显示n
+
+LWFA_e有数密度, 延时函数, gamma和beta_r
+LWFA_e在(-20e-6,3e-6)
+LWFA_e在(-20e-6,0)
+LWFA_e在(-60e-6,0)
+LWFA_e的gamma是"4000"
+LWFA_e的beta_r是"1,0,0"
++[设置结构](,LWFA_e)
+
+LWFA_e的数密度是fx
+LWFA_e的延时函数是ft
+fx::
+ft::
+
+将"\eqs{Dy=5*10^{-6};n_0=10^{20};
+n=n_0*exp(-y^2/Dy^2)}"记作为fx
+将"\eqs{Dt=30*10^{-15};
+f=exp(-t^2/Dt^2)}"记作为ft
+显示fx
+显示ft
+
+
+A::
+A在(60e-6,0)
+有PW_laser
+PW_laser有波长, a0, 展宽, 腰宽, 焦点位置和偏振态
+PW_laser的展宽是"100e-15"
+PW_laser的腰宽是"10e-6"
+PW_laser的a0是"1"
+PW_laser的偏振态是(0,1)
+PW_laser的焦点位置是A
+PW_laser的波长是"1000e-9"
+
+
+
+将"\eqs{f=1}"记作为ft
+LWFA_e在(-20e-6,0)
+
+
+
+预览:...
++[召唤星辰](散射场景,预览)
++[M函数](,预览)
++[新建阅读窗口](,预览)
+
+分析数据:...
++[新建阅读窗口](,分析数据)
+
+
++[显示PPT场景]"1"(,散射场景)
+## end
+#86, 6:
+800e-9
+## end
+#88, 3:
+多边形
+## end
+#96, 36:
+-4.5e-05, 4.5e-05, 4.5e-05, -4.5e-05
+## end
+#98, 24:
+0.0, 0.0, 0.0002, 0.0002
+## end
+#100, 8:
+0.0, 0.0
+## end
+#102, 6:
+0.0002
+## end
+#104, 5:
+9e-05
+## end
+#106, 3:
+多边形
+## end
+#107, 3:
+长方形
+## end
+#109, 36:
+-4.5e-05, 4.5e-05, 4.5e-05, -4.5e-05
+## end
+#111, 26:
+0.0, 0.0, 0.00011, 0.00011
+## end
+#113, 8:
+0.0, 0.0
+## end
+#115, 7:
+0.00011
+## end
+#117, 5:
+9e-05
+## end
+#119, 3:
+多边形
+## end
+#120, 3:
+长方形
+## end
+#125, 170:
+n_e=10**(26)
+x_0=40*10**(-6)
+D=25*10**(-6)
+theta=3/180*3.1415
+n=0
+if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+    n=n_e
+
+
+
+## end
+#126, 168:
+\eqs{n_e=10^{26};x_0=40*10^{-6};D=25*10^{-6};
+\theta=3/180*3.1415;
+n(x)=\eqs{n_e,(x-x_0)*cos(\theta)+y*sin(\theta)>0,(x-x_0-D)*cos(\theta)+y*sin(\theta)<0;0,otherwise}}
+## end
+#130, 1881:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0.999*c;
+t0=500e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=9e-05;
+L1=9e-05;
+W0=0.0002;
+W1=0.00011;
+
+DW=0.0002-0.00011;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+tau2=100e-15*2.5;
+focus2=[60e-6,0];
+w_02=10e-6;
+% Gaussian beam
+z_R2=w_02^2*pi/lm_0;
+z=linspace(pt0(1),pt0(1)+W0,100);
+w2=w_02.*sqrt(1+((z-focus2(1))./(z_R2)).^(2));
+
+n_e=10.^(26);
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+theta=3./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n4=n;
+
+v3=[0.9999999687499995, 0.0, 0.0]*c;
+v_n3=v3/norm(v3);
+pt_e3=[-20e-6,0];
+
+
+clf
+hold on
+contourf(x,y,n4);
+h_p3=plot(pt_e3(1),pt_e3(2),'r*');
+h_t3=text(pt_e3(1),pt_e3(2),'electron3');
+plot([pt_e3(1),pt_e3(1)+v3(1)*t(end)],[pt_e3(2),pt_e3(2)+v3(2)*t(end)],'k--');
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+patch([z,fliplr(z)],focus2(2)+[w2/2,-fliplr(w2)/2],[1,0,0],'FaceAlpha',0.2)
+h2=rectangle('Position',[pt1(1)-c*tau2*1.2,pt1(2)-w2(1)/2,c*tau2/sqrt(2),w2(1)],'Curvature',[1,1],'FaceColor',[1,1,1,0.1]);
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+x3=pt_e3(1)+v3(1)*t(i);
+y3=pt_e3(2)+v3(2)*t(i);
+h_p3.XData=x3;
+h_p3.YData=y3;
+h_t3.Position(1)=x3;
+h_t3.Position(2)=y3;
+w_z2=w_02.*sqrt(1+((c*t(i)+pt1(1)-focus2(1))./(z_R2)).^(2));
+
+h2.Position(1)=c*t(i)+pt1(1)-c*tau2*1.2;
+h2.Position(2)=focus2(2)-w_z2/2;
+h2.Position(4)=w_z2;
+
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#131, 7:
+500e-15
+## end
+#137, 4:
+4000
+## end
+#139, 5:
+1,0,0
+## end
+#141, 8:
+-20e-6,0
+## end
+#144, 57:
+Dy=5*10**(-6)
+n_0=10**(20)
+n=n_0*np.exp(-y**(2)/Dy**(2))
+
+## end
+#146, 4:
+f=1
+
+## end
+#147, 52:
+\eqs{Dy=5*10^{-6};n_0=10^{20};
+n=n_0*exp(-y^2/Dy^2)}
+## end
+#150, 9:
+\eqs{f=1}
+## end
+#153, 18:
+contourf(x,y,n2);
+
+## end
+#154, 69:
+Dx=20.*10.^(-6);
+n_0=10.^(25);
+n=n_0.*exp(-x.^(2)./Dx.^(2));
+
+n2=n;
+
+
+## end
+#155, 18:
+contourf(x,y,n3);
+
+## end
+#156, 101:
+n_e=10.^(25);
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+n=0.*ones(size(x));
+n(x<x_0+D & x>x_0)=n_e;;
+
+n3=n;
+
+
+## end
+#158, 3424:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 6912.0
+Lx = 864.0
+Ly = 706.8583470577034
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(15225.37839697565)*dt,
+
+    cell_length  = [0.125, 17.671458676442587],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+MovingWindow(
+    time_start = 1177.2822295680332,
+    velocity_x = 0.999
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(26)
+    x_0=40*10**(-6)
+    D=25*10**(-6)
+    theta=3/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+def n2_profile(x,y):
+    x=x*1.2732395447351627e-07+(0.0)-(-2e-05)
+    y=(y-Ly/2)*1.2732395447351627e-07+(0.0)-(0.0)
+    n=0.
+    Dy=5*10**(-6)
+    n_0=10**(20)
+    n=n_0*np.exp(-y**(2)/Dy**(2))
+    
+    n=n/1.741446424138715e+27
+    return n
+
+def ft2_profile(t):
+    t=t*4.247069967100916e-16-(6.671282112440611e-14)
+    f=1
+    f=1
+    
+    return f
+
+Species(
+    name = "electron2",
+    position_initialization = "random",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = 0., 
+
+    mean_velocity = [0.9999999687499995, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+    ],
+)
+
+ParticleInjector(
+    species   = "electron2",
+    box_side  = "xmin",
+    time_envelope = ft2_profile,
+    number_density = n2_profile, 
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 1.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 353.4291735288517],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Rho','Jx','Jy','Bz','Ez'],
+    every = 400,
+)
+
+
+
+DiagTrackParticles(
+    species = "electron2",
+    every = 400,
+#    flush_every = 100,
+#    filter = my_filter,
+   attributes = ['x','y','px','py','w']
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#159, 5:
+0.999
+## end
+#161, 120:
+x2=pt_e2(1)+v2(1)*t(i);
+y2=pt_e2(2)+v2(2)*t(i);
+h_p2.XData=x2;
+h_p2.YData=y2;
+h_t2.Position(1)=x2;
+h_t2.Position(2)=y2;
+
+## end
+#162, 156:
+h_p2=plot(pt_e2(1),pt_e2(2),'r*');
+h_t2=text(pt_e2(1),pt_e2(2),'electron2');
+plot([pt_e2(1),pt_e2(1)+v2(1)*t(end)],[pt_e2(2),pt_e2(2)+v2(2)*t(end)],'k--');
+
+## end
+#163, 73:
+v2=[0.9999999687499995, 0.0, 0.0]*c;
+v_n2=v2/norm(v2);
+pt_e2=[-20e-6,0];
+
+## end
+#164, 18:
+contourf(x,y,n3);
+
+## end
+#165, 101:
+n_e=10.^(25);
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+n=0.*ones(size(x));
+n(x<x_0+D & x>x_0)=n_e;;
+
+n3=n;
+
+
+## end
+#166, 3:
+447
+## end
+#169, 38:
+Nini, 打开初等数学习题集(文件)
+
+
+公式(html):...
+
+
+
+
+## end
+#171, 1465:
+<!--
++[H函数](,公式)
+Nini, 打开能谱仪模拟(文件)
+Nini, 打开能谱仪原理(文件)
+-->
+
+<h2>Deflection of a magnetic field</h2>
+If a magnetic field is \(B\) for the effective field strength and \(D\) for the effective length, aussme that incoming angle is \(\theta\) and leaving angle is \(\beta\), then we have,
+%[1].
+%[2].
+%[3].
+
+As a result,
+%[4].
+%[5].
+
+<h2>Local magnetic field</h2>
+The PM experiment was set up as the following diagram,
+<br>%示意图1<br>
+
+The variables, \(L_0\), \(L_1\) and \(L_2\) are distance between the source and the first magnet, the source and the second magnet, the second magnet and the screen. And, \(\Phi_i=B_i*D_i\), for the first and the second magnet. <br>
+Then, an electron of the energy \(E\) and the launch angle \(\theta\), will fall on the screen at \(x_2(E,\theta)\) with angle \(\beta_2(E,\theta)\),
+
+%[6].
+%[7].
+%[8].
+
+<h2>Spectrum measurement</h2>
+If we ignored the local magnetic field, the measured launch angle \(\theta_m\) and energy \(E_m\) will be calculated,
+%[9].
+%[10].
+%[11].
+%[12].
+
+We can make \(\theta=0\), and try to make \(E_m\) as a function of \(\theta_m\),
+%[13].
+%[14].
+%[15].
+%[16].
+%[17].
+%[18].
+
+After changing notation (\(\Phi_1\rightarrow \Phi_0, \Phi_2\rightarrow \Phi_1\)), we have,
+%[19].
+
+
+<!--
+[19].:
+式(19)转换为"Matlab"
+将"\theta_m=\frac{q*c}{E_m}*\frac{\Phi_0*\Phi_1*(L_1-L_0)}{L_1*\Phi_1+L_0*\Phi_0}"记作为式(19)
+
+验证公式(M函数):...
++[新建阅读窗口](,验证公式)
+
+示意图场景:...
++[新建阅读窗口](,示意图场景)
+示意图1(章):...
++[生成示意图_html](示意图场景,示意图1)
+
++[H函数](,公式)
+-->
+## end
+#174, 331:
+
+
+有电子源, 磁场1, 磁场2和屏幕
+有参考线
+
+磁场1, 磁场2和屏幕都是长方形(0.001,0.5)
+电子源在(0,0)
+屏幕, 磁场2, 磁场1和电子源依次距离彼此为(0.7,0)
+
+磁场1和磁场2都是长方形(0.001,0.25)
+电子源距离磁场1为(-0.3,0)
+磁场2距离磁场1为(0.3,0)
+
+参考线是线段(1.8)
+参考线在电子源的位置
+
+有A, B, C和D
+A在电子源的位置
+B距离磁场1为(0,0.05)
+C距离磁场2为(0,0.06)
+D距离屏幕为(0,-0.2)
+
+有轨迹
+轨迹经过A, B, C和D
+轨迹是折线
+
+L0是电子源和磁场1的水平距离
+角度1是A, B和C的夹角
+
+
+clf
++[显示PPT场景]"2"(,示意图场景)
+## end
+#177, 3:
+多边形
+## end
+#179, 3:
+多边形
+## end
+#181, 3:
+多边形
+## end
+#185, 28:
+-0.125, 0.125, 0.125, -0.125
+## end
+#187, 22:
+0.0, 0.0, 0.001, 0.001
+## end
+#189, 8:
+0.7, 0.0
+## end
+#191, 4:
+0.25
+## end
+#193, 3:
+长方形
+## end
+#195, 28:
+-0.125, 0.125, 0.125, -0.125
+## end
+#197, 22:
+0.0, 0.0, 0.001, 0.001
+## end
+#199, 8:
+1.0, 0.0
+## end
+#201, 4:
+0.25
+## end
+#203, 3:
+长方形
+## end
+#205, 24:
+-0.25, 0.25, 0.25, -0.25
+## end
+#207, 22:
+0.0, 0.0, 0.001, 0.001
+## end
+#209, 23:
+2.0999999999999996, 0.0
+## end
+#211, 3:
+0.5
+## end
+#213, 3:
+长方形
+## end
+#215, 5:
+0.001
+## end
+#217, 3:
+多边形
+## end
+#218, 5:
+0.001
+## end
+#220, 3:
+多边形
+## end
+#221, 5:
+0.001
+## end
+#223, 3:
+多边形
+## end
+#224, 24:
+0.39999999999999997, 0.0
+## end
+#226, 8:
+0.0, 0.0
+## end
+#228, 8:
+0.0, 1.8
+## end
+#230, 24:
+0.39999999999999997, 0.0
+## end
+#232, 3:
+1.8
+## end
+#234, 2:
+线段
+## end
+#244, 24:
+0.39999999999999997, 0.0
+## end
+#246, 9:
+0.7, 0.05
+## end
+#248, 9:
+1.0, 0.06
+## end
+#250, 24:
+2.0999999999999996, -0.2
+## end
+#262, 2:
+曲线
+## end
+#263, 21:
+-0.2, 0.06, 0.05, 0.0
+## end
+#265, 49:
+2.0999999999999996, 1.0, 0.7, 0.39999999999999997
+## end
+#267, 2:
+折线
+## end
+#270, 701:
+
+<svg viewBox="0 0 1000 452.10554730732895" width=500 style="overflow: hidden;border: 2px solid #888888;"> 
+<polygon points="256,286 256,173 256,173 256,286 " style="fill:white;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polygon points="392,286 392,173 392,173 392,286 " style="fill:white;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polygon points="892,343 892,116 892,116 892,343 " style="fill:white;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polyline points="119,230 937,230 " style="fill:none;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polyline points="892,321 392,202 256,207 119,230 " style="fill:none;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+
+</svg>
+
+
+## end
+#273, 64:
+R=\frac{D}{sin(\beta)-sin(\theta)}\approx \frac{D}{\beta-\theta}
+## end
+#274, 57:
+R=\frac{D}{sin(\beta)-sin(\theta)}~\frac{D}{\beta-\theta}
+## end
+#278, 70:
+E=\sqrt{B^{2}\ q^{2}\ R^{2}\ c^{2}+m_{e}^{2}\ c^{4}}\approx B\ q\ R\ c
+## end
+#279, 42:
+E=\sqrt{B^2*q^2*R^2*c^2+m_e^2*c^4}~B*q*R*c
+## end
+#283, 19:
+R=\frac{E}{B\ q\ c}
+## end
+#284, 17:
+R=\frac{E}{B*q*c}
+## end
+#288, 40:
+\frac{E}{B\ q\ c}=\frac{D}{\beta-\theta}
+## end
+#289, 38:
+\frac{E}{B*q*c}=\frac{D}{\beta-\theta}
+## end
+#293, 33:
+\beta=\frac{\Phi\ q\ c}{E}+\theta
+## end
+#294, 31:
+\beta=\frac{\Phi*q*c}{E}+\theta
+## end
+#298, 51:
+\beta_{1}(E,\theta)=\frac{\Phi_{1}\ q\ c}{E}+\theta
+## end
+#300, 76:
+\beta_{2}(E,\theta)=\frac{\Phi_{1}\ q\ c}{E}+\frac{\Phi_{2}\ q\ c}{E}+\theta
+## end
+#302, 82:
+x_{2}(E,\theta)=\theta\ L_{0}+\beta_{1}\ \left(L_{1}-L_{0}\right)+\beta_{2}\ L_{2}
+## end
+#303, 45:
+\beta_1(E,\theta)=\frac{\Phi_1*q*c}{E}+\theta
+## end
+#306, 66:
+\beta_2(E,\theta)=\frac{\Phi_1*q*c}{E}+\frac{\Phi_2*q*c}{E}+\theta
+## end
+#309, 54:
+x_2(E,\theta)=\theta*L_0+\beta_1*(L_1-L_0)+\beta_2*L_2
+## end
+#313, 28:
+x_{1}=x_{2}-\beta_{2}\ L_{2}
+## end
+#315, 52:
+\theta_{m}=\left(x_{2}-\beta_{2}\ L_{2}\right)/L_{1}
+## end
+#317, 49:
+E_{m}=\frac{\Phi_{2}\ q\ c}{\beta_{2}-\theta_{m}}
+## end
+#318, 19:
+x_1=x_2-\beta_2*L_2
+## end
+#321, 30:
+\theta_m=(x_2-\beta_2*L_2)/L_1
+## end
+#325, 77:
+E_{m}=\frac{\Phi_{2}\ q\ c\ L_{1}}{\beta_{2}\ \left(L_{1}+L_{2}\right)-x_{2}}
+## end
+#326, 39:
+E_m=\frac{\Phi_2*q*c}{\beta_2-\theta_m}
+## end
+#329, 48:
+E_m=\frac{\Phi_2*q*c*L_1}{\beta_2*(L_1+L_2)-x_2}
+## end
+#333, 48:
+\theta_{m}=\beta_{1}\ \left(1-L_{0}/L_{1}\right)
+## end
+#335, 88:
+E_{m}=\frac{\Phi_{2}\ q\ c\ L_{1}}{\beta_{2}\ L_{1}-\beta_{1}\ \left(L_{1}-L_{0}\right)}
+## end
+#337, 61:
+\beta_{2}/\beta_{1}=\left(\Phi_{1}+\Phi_{2}\right)/\Phi_{1}=A
+## end
+#338, 56:
+E_m=\frac{\Phi_2*q*c*L_1}{\beta_2*L_1-\beta_1*(L_1-L_0)}
+## end
+#341, 28:
+\theta_m=\beta_1*(1-L_0/L_1)
+## end
+#344, 40:
+\beta_2/\beta_1=(\Phi_1+\Phi_2)/\Phi_1=A
+## end
+#348, 91:
+E_{m}=\frac{\Phi_{2}\ q\ c\ L_{1}}{\beta_{1}\ A\ L_{1}-\beta_{1}\ \left(L_{1}-L_{0}\right)}
+## end
+#350, 90:
+E_{m}=\frac{\Phi_{2}\ q\ c\ L_{1}}{\beta_{1}\ \left(L_{1}\ \Phi_{2}/\Phi_{1}+L_{0}\right)}
+## end
+#351, 58:
+E_m=\frac{\Phi_2*q*c*L_1}{\beta_1*A*L_1-\beta_1*(L_1-L_0)}
+## end
+#354, 58:
+E_m=\frac{\Phi_2*q*c*L_1}{\beta_1*(L_1*\Phi_2/\Phi_1+L_0)}
+## end
+#358, 121:
+\theta_{m}=\frac{\Phi_{1}\ \Phi_{2}\ q\ c\ \left(L_{1}-L_{0}\right)}{E_{m}\ \left(L_{1}\ \Phi_{2}+L_{0}\ \Phi_{1}\right)}
+## end
+#359, 72:
+\theta_m=\frac{\Phi_1*\Phi_2*q*c*(L_1-L_0)}{E_m*(L_1*\Phi_2+L_0*\Phi_1)}
+## end
+#363, 115:
+\theta_{m}=\frac{q\ c}{E_{m}}\ \frac{\Phi_{0}\ \Phi_{1}\ \left(L_{1}-L_{0}\right)}{L_{1}\ \Phi_{1}+L_{0}\ \Phi_{0}}
+## end
+#364, 78:
+\theta_m=\frac{q*c}{E_m}*\frac{\Phi_0*\Phi_1*(L_1-L_0)}{L_1*\Phi_1+L_0*\Phi_0}
+## end
+#368, 494:
+%{
++[M函数](,验证公式)
+参考::C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\文档\论文\LWFA2022\poster\res
+%}
+
+physics_constant;
+
+B_0=10000;
+D_0=20e-6;
+B_1=1.5;
+D_1=5e-2;
+
+L_0=1e-3;
+L_1=20e-2;
+L_2=3;
+
+Phi_0=B_0*D_0;
+Phi_1=B_1*D_1;
+
+E_m=linspace(1200,2300,1000)*1e6*e;
+theta_m=(e.*c)./(E_m).*(Phi_0.*Phi_1.*(L_1-L_0))./(L_1.*Phi_1+L_0.*Phi_0);
+
+plot(E_m/e/1e9,theta_m/1e-3)
+xlabel('E [GeV]')
+ylabel('Launch angle [mrad]')
+
+axis([min(E_m/e/1e9),max(E_m/e/1e9),0,max(theta_m)/1e-3])
+
+%{
+clf
++[M函数](,验证公式)
+%}
+## end
+#371, 75:
+C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\文档\论文\LWFA2022\poster\res
+## end
+#372, 3:
+431
+## end
+#375, 24:
+文档\模拟\Smilei\code\run.py
+## end
+#377, 20:
+文档\\模拟\\Smilei\\code
+## end
+#378, 20:
+'Ez','Ey','Rho','Bz'
+## end
+#380, 3:
+400
+## end
+#382, 7:
+1000e-9
+## end
+#386, 25:
+'Rho','Jx','Jy','Bz','Ez'
+## end
+#388, 3:
+400
+## end
+#391, 24:
+文档\模拟\Smilei\code\run.py
+## end
+#393, 20:
+文档\\模拟\\Smilei\\code
+## end
+#396, 7:
+1000e-9
+## end
+#398, 1:
+1
+## end
+#400, 7:
+100e-15
+## end
+#402, 5:
+10e-6
+## end
+#406, 3:
+0,1
+## end
+#410, 7:
+60e-6,0
+## end
+#413, 671:
+%{
++[M函数](,分析数据)
+
+观察磁场:...
+分析发散度:...
++[新建阅读窗口](,分析发散度)
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+% fileName='文档\\模拟\\\20221127_PM\\1_long_e_10_deg\\Rho.mat';
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+% fileName='文档\\模拟\\Smilei\\code\\Jx.mat';
+% fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a=result.result;
+
+%{
++[M函数](,分析数据)
+%}
+clf
+for i=1:size(a,1)
+% for i=1:13
+field=reshape(a(i,:,:),size(a,2),size(a,3));
+surf(field)
+%surf(field(2000:end,:))
+shading interp
+view([90,-90])
+% view([90,0])
+%axis equal
+axis([0,size(a,3),0,size(a,2)])
+pause(0.1)
+end
+
+
+
+%{
+clf
+plot(sum(field'))
+surf(field(2000:end,:))
+shading interp
+view([90,90])
+
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#415, 456:
+%{
++[M函数](,观察磁场)
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+%fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a=result.result;
+
+
+clf
+for i=1:size(a,1)
+% for i=1:3
+field=reshape(a(i,:,:),size(a,2),size(a,3));
+
+subplot(2,1,1)
+surf(field)
+shading interp
+view([90,-90])
+axis([0,size(a,3),0,size(a,2)])
+
+subplot(2,1,2)
+plot(max(field'))
+axis([0,size(a,2),0,700])
+
+pause(0.1)
+end
+
+
+
+%{
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#417, 845:
+%{
++[M函数](,分析发散度)
+
+theta_y分布:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Jx.mat';
+result=load(fileName);
+a_Jx=result.result;
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+
+i=size(a_Jx,1);
+
+field_0=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_1=reshape(a_Jx(i,:,:),size(a_Jx,2),size(a_Jx,3));
+field_2=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+theta_y0=zeros(1,size(field_0,1));
+
+for j=1:size(field_0,1)
+%for j=2000
+Rho=abs(field_0(j,10:35));
+Jx=field_1(j,10:35);
+Jy=field_2(j,10:35);
+
+theta_y=Jy(Rho>1e20)./Jx(Rho>1e20);
+theta_y0(j)=mean(theta_y);
+end
+
+% plot(Rho)
+plot(theta_y0)
+
+%{
+size(theta_y0)
+surf(field_2)
+view([90,90])
+shading interp
+clf
+记住"Matlab"
++[M函数](,分析发散度)
+%}
+## end
+#419, 770:
+%{
++[M函数](,分析发散度)
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Jx.mat';
+result=load(fileName);
+a_Jx=result.result;
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+
+clf
+i=size(a,1);
+
+field_0=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_1=reshape(a_Jx(i,:,:),size(a_Jx,2),size(a_Jx,3));
+field_2=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+v_x=field_1(abs(field_0)>1e10)./field_0(abs(field_0)>1e10)/e;
+v_y=field_2(abs(field_0)>1e10)./field_0(abs(field_0)>1e10)/e;
+v=sqrt(v_x.^2+v_y.^2);
+
+theta_y=field_2(abs(field_0)>1e10)./field_1(abs(field_0)>1e10);
+hist(theta_y/1e-3)
+
+
+
+
+%{
+记住"Matlab"
++[M函数](,theta_y分布)
+%}
+## end
+#421, 3:
+502
+## end
+#424, 451:
+Nini, 打开Smilei生成器(文件)
+创建"文档\模拟\20221127_PM\8_long_e_3_deg"
++[打开]"文档\模拟\20221127_PM\8_long_e_3_deg"
+
+
+计算散射角:...
++[新建阅读窗口](,计算散射角)
++[复制结构](,计算散射角)
+
+0_short_e:...
+(PM角度是10度)
+1_long_e_10_deg:...
+2_long_e_20_deg:...
+8_long_e_3_deg:...
+将条目"1_long_e_10_deg"复制为条目"8_long_e_3_deg"
++[新建阅读窗口](,2_long_e_20_deg)
+
+(20221205)
+3_no_e_10_deg_B_field:...
+4_10_deg_laser:...
+5_10_deg:...
+6_10_deg_n_1e29:...
+7_10_deg_no_e:...
+将条目"6_10_deg_n_1e29"复制为条目"7_10_deg_no_e"
+
+
+
+## end
+#426, 1525:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=110e-6;
+t_win=500e-15;
+v_win=0.999;
+
+L_0=200e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,计算散射角)
+%}
+
+
+for i=1:length(t_n)
+if t_n(i)<t_win
+x_n=x_n0;
+else
+x_n=x_n0+(t_n(i)-t_win)*v_win*c;
+end
+
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+% plot(x_n/1e-6,Bz,x_n/1e-6,Rho*1e-23,x_n/1e-6,Jy_1*0.0005,x_n/1e-6,-Jy_2*0.0005,x_n/1e-6,Ez*1e-11)
+plot(x_n/c/1e-15,Bz,x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Jy_1*0.0005,x_n/c/1e-15,-Jy_2*0.0005,x_n/c/1e-15,Ez*1e-11)
+axis([0,700,0,1000])
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('B [T]')
+
+pause(0.1)
+end
+
+
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#428, 427:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+%}
+
+tys=pys./pxs;
+
+x_c=linspace(300,1000,100);
+ty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+ty_c(i)=sum(ty(~isnan(w)).*w(~isnan(w)))/sum(w(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+ty_c(w_c<max(w_c)*0.2)=0;
+
+plot(x_c,ty_c/1e-3)
+
+%{
+plot(xs,pys./pxs,'.')
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#430, 313:
+%{
++[M函数](,计算散射角)
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result;
+
+i=21;
+xs=result.result{1}.x(i,:);
+ys=result.result{1}.y(i,:);
+pxs=result.result{1}.px(i,:);
+pys=result.result{1}.py(i,:);
+ws=result.result{1}.w(i,:);
+
+
+%{
++[M函数](,计算散射角)
+%}
+## end
+#432, 1091:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+演化过程:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+% i=39;
+for i=1:39
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.4])
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,1.8])
+
+pause(0.1)
+end
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#435, 1037:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+
+%{
++[M函数](,计算散射角)
+%}
+for i=1:size(a,1)
+% for i=19
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+plot(n_x,Bz,n_x,Rho*1e-23,n_x,Jy_1,n_x,-Jy_2,n_x,Ez*1e-11*2)
+axis([1,7000,0,1000])
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#437, 1038:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+
+%{
++[M函数](,电子透射瞬间)
+%}
+% for i=1:size(a,1)
+for i=19
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+plot(n_x,Bz,n_x,Rho*1e-23,n_x,Jy_1,n_x,-Jy_2,n_x,Ez*1e-11*2)
+axis([1,7000,0,1000])
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#439, 1014:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+i=39;
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#441, 1082:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+% i=39;
+for i=1:39
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.2])
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,0.8])
+
+pause(0.1)
+end
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#443, 108:
+创建"文档\模拟\20221127_PM\2_long_e_20_deg"
++[打开]"文档\模拟\20221127_PM\2_long_e_20_deg"
+
+
+预览图:...
+NL文件:...
+计算散射角:...
+
+## end
+#445, 1882:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0.999*c;
+t0=500e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=9e-05;
+L1=9e-05;
+W0=0.0002;
+W1=0.00011;
+
+DW=0.0002-0.00011;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+tau2=100e-15*2.5;
+focus2=[60e-6,0];
+w_02=10e-6;
+% Gaussian beam
+z_R2=w_02^2*pi/lm_0;
+z=linspace(pt0(1),pt0(1)+W0,100);
+w2=w_02.*sqrt(1+((z-focus2(1))./(z_R2)).^(2));
+
+n_e=10.^(26);
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+theta=20./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n4=n;
+
+v3=[0.9999999687499995, 0.0, 0.0]*c;
+v_n3=v3/norm(v3);
+pt_e3=[-20e-6,0];
+
+
+clf
+hold on
+contourf(x,y,n4);
+h_p3=plot(pt_e3(1),pt_e3(2),'r*');
+h_t3=text(pt_e3(1),pt_e3(2),'electron3');
+plot([pt_e3(1),pt_e3(1)+v3(1)*t(end)],[pt_e3(2),pt_e3(2)+v3(2)*t(end)],'k--');
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+patch([z,fliplr(z)],focus2(2)+[w2/2,-fliplr(w2)/2],[1,0,0],'FaceAlpha',0.2)
+h2=rectangle('Position',[pt1(1)-c*tau2*1.2,pt1(2)-w2(1)/2,c*tau2/sqrt(2),w2(1)],'Curvature',[1,1],'FaceColor',[1,1,1,0.1]);
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+x3=pt_e3(1)+v3(1)*t(i);
+y3=pt_e3(2)+v3(2)*t(i);
+h_p3.XData=x3;
+h_p3.YData=y3;
+h_t3.Position(1)=x3;
+h_t3.Position(2)=y3;
+w_z2=w_02.*sqrt(1+((c*t(i)+pt1(1)-focus2(1))./(z_R2)).^(2));
+
+h2.Position(1)=c*t(i)+pt1(1)-c*tau2*1.2;
+h2.Position(2)=focus2(2)-w_z2/2;
+h2.Position(4)=w_z2;
+
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#447, 3428:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 6912.0
+Lx = 864.0
+Ly = 706.8583470577034
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(15225.37839697565)*dt,
+
+    cell_length  = [0.125, 17.671458676442587],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+MovingWindow(
+    time_start = 1177.2822295680332,
+    velocity_x = 0.999
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(26)
+    x_0=40*10**(-6)
+    D=25*10**(-6)
+    theta=20/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+def n2_profile(x,y):
+    x=x*1.2732395447351627e-07+(0.0)-(-2e-05)
+    y=(y-Ly/2)*1.2732395447351627e-07+(0.0)-(0.0)
+    n=0.
+    Dy=5*10**(-6)
+    n_0=10**(20)
+    n=n_0*np.exp(-y**(2)/Dy**(2))
+    
+    n=n/1.741446424138715e+27
+    return n
+
+def ft2_profile(t):
+    t=t*4.247069967100916e-16-(6.671282112440611e-14)
+    f=1
+    f=1
+    
+    return f
+
+Species(
+    name = "electron2",
+    position_initialization = "random",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = 0., 
+
+    mean_velocity = [0.9999999687499995, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+    ],
+)
+
+ParticleInjector(
+    species   = "electron2",
+    box_side  = "xmin",
+    time_envelope = ft2_profile,
+    number_density = n2_profile, 
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 1.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 353.4291735288517],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Rho','Jx','Jy','Bz','Ez'],
+    every = 400,
+)
+
+
+DiagTrackParticles(
+    species = "electron2",
+    every = 400,
+#    flush_every = 100,
+#    filter = my_filter,
+   attributes = ["x", "y", "px", "py", "w"]
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#448, 1038:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+
+%{
++[M函数](,电子透射瞬间)
+%}
+% for i=1:size(a,1)
+for i=19
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+plot(n_x,Bz,n_x,Rho*1e-23,n_x,Jy_1,n_x,-Jy_2,n_x,Ez*1e-11*2)
+axis([1,7000,0,1000])
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#449, 1037:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+
+%{
++[M函数](,计算散射角)
+%}
+for i=1:size(a,1)
+% for i=19
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+plot(n_x,Bz,n_x,Rho*1e-23,n_x,Jy_1,n_x,-Jy_2,n_x,Ez*1e-11*2)
+axis([1,7000,0,1000])
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#450, 1082:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+% i=39;
+for i=1:39
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.2])
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,0.8])
+
+pause(0.1)
+end
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#451, 1014:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+i=39;
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#454, 1113:
+%{
++[M函数](,发射角变化)
+figure
+瞬时状态:...
+演化过程:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\20221127_PM\\2_long_e_20_deg\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+% i=39;
+for i=1:39
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.4])
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,1.8])
+
+pause(0.1)
+end
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#455, 313:
+%{
++[M函数](,计算散射角)
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result;
+
+i=21;
+xs=result.result{1}.x(i,:);
+ys=result.result{1}.y(i,:);
+pxs=result.result{1}.px(i,:);
+pys=result.result{1}.py(i,:);
+ws=result.result{1}.w(i,:);
+
+
+%{
++[M函数](,计算散射角)
+%}
+## end
+#456, 427:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+%}
+
+tys=pys./pxs;
+
+x_c=linspace(300,1000,100);
+ty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+ty_c(i)=sum(ty(~isnan(w)).*w(~isnan(w)))/sum(w(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+ty_c(w_c<max(w_c)*0.2)=0;
+
+plot(x_c,ty_c/1e-3)
+
+%{
+plot(xs,pys./pxs,'.')
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#462, 1601:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
++[M函数](,发射角变化)
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=110e-6;
+t_win=500e-15;
+v_win=0.999;
+
+L_0=200e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\\20221127_PM\\2_long_e_20_deg\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\2_long_e_20_deg\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\2_long_e_20_deg\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\2_long_e_20_deg\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,计算散射角)
+%}
+
+
+for i=1:length(t_n)
+if t_n(i)<t_win
+x_n=x_n0;
+else
+x_n=x_n0+(t_n(i)-t_win)*v_win*c;
+end
+
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+% plot(x_n/1e-6,Bz,x_n/1e-6,Rho*1e-23,x_n/1e-6,Jy_1*0.0005,x_n/1e-6,-Jy_2*0.0005,x_n/1e-6,Ez*1e-11)
+plot(x_n/c/1e-15,Bz,x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Jy_1*0.0005,x_n/c/1e-15,-Jy_2*0.0005,x_n/c/1e-15,Ez*1e-11)
+axis([0,700,0,1000])
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('B [T]')
+
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#464, 427:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+%}
+
+tys=pys./pxs;
+
+x_c=linspace(300,1000,100);
+ty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+ty_c(i)=sum(ty(~isnan(w)).*w(~isnan(w)))/sum(w(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+ty_c(w_c<max(w_c)*0.2)=0;
+
+plot(x_c,ty_c/1e-3)
+
+%{
+plot(xs,pys./pxs,'.')
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#465, 313:
+%{
++[M函数](,计算散射角)
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result;
+
+i=21;
+xs=result.result{1}.x(i,:);
+ys=result.result{1}.y(i,:);
+pxs=result.result{1}.px(i,:);
+pys=result.result{1}.py(i,:);
+ws=result.result{1}.w(i,:);
+
+
+%{
++[M函数](,计算散射角)
+%}
+## end
+#466, 1014:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+i=39;
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#467, 1082:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+% i=39;
+for i=1:39
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.2])
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,0.8])
+
+pause(0.1)
+end
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#470, 1101:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+演化过程:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\20221127_PM\\0_short_e\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+% i=39;
+for i=1:39
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.2])
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,0.8])
+
+pause(0.1)
+end
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#471, 1037:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+
+%{
++[M函数](,计算散射角)
+%}
+for i=1:size(a,1)
+% for i=19
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+plot(n_x,Bz,n_x,Rho*1e-23,n_x,Jy_1,n_x,-Jy_2,n_x,Ez*1e-11*2)
+axis([1,7000,0,1000])
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#472, 1038:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+
+%{
++[M函数](,电子透射瞬间)
+%}
+% for i=1:size(a,1)
+for i=19
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+plot(n_x,Bz,n_x,Rho*1e-23,n_x,Jy_1,n_x,-Jy_2,n_x,Ez*1e-11*2)
+axis([1,7000,0,1000])
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#478, 1577:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
++[M函数](,发射角变化)
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=110e-6;
+t_win=500e-15;
+v_win=0.999;
+
+L_0=200e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\\20221127_PM\\0_short_e\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\0_short_e\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\0_short_e\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\0_short_e\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,计算散射角)
+%}
+
+
+for i=1:length(t_n)
+if t_n(i)<t_win
+x_n=x_n0;
+else
+x_n=x_n0+(t_n(i)-t_win)*v_win*c;
+end
+
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+% plot(x_n/1e-6,Bz,x_n/1e-6,Rho*1e-23,x_n/1e-6,Jy_1*0.0005,x_n/1e-6,-Jy_2*0.0005,x_n/1e-6,Ez*1e-11)
+plot(x_n/c/1e-15,Bz,x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Jy_1*0.0005,x_n/c/1e-15,-Jy_2*0.0005,x_n/c/1e-15,Ez*1e-11)
+axis([0,700,0,1000])
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('B [T]')
+
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#479, 3471:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 6912.0
+Lx = 864.0
+Ly = 706.8583470577034
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(15225.37839697565)*dt,
+
+    cell_length  = [0.125, 17.671458676442587],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+MovingWindow(
+    time_start = 1177.2822295680332,
+    velocity_x = 0.999
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(26)
+    x_0=40*10**(-6)
+    D=25*10**(-6)
+    theta=10/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+def n2_profile(x,y):
+    x=x*1.2732395447351627e-07+(0.0)-(-6e-05)
+    y=(y-Ly/2)*1.2732395447351627e-07+(0.0)-(0.0)
+    n=0.
+    Dy=5*10**(-6)
+    n_0=10**(20)
+    n=n_0*np.exp(-y**(2)/Dy**(2))
+    
+    n=n/1.741446424138715e+27
+    return n
+
+def ft2_profile(t):
+    t=t*4.247069967100916e-16-(2.0013846337321832e-13)
+    f=1
+    Dt=30*10**(-15)
+    f=np.exp(-t**(2)/Dt**(2))
+    
+    return f
+
+Species(
+    name = "electron2",
+    position_initialization = "random",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = 0., 
+
+    mean_velocity = [0.9999999687499995, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+    ],
+)
+
+ParticleInjector(
+    species   = "electron2",
+    box_side  = "xmin",
+    time_envelope = ft2_profile,
+    number_density = n2_profile, 
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 1.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 353.4291735288517],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Rho','Jx','Jy','Bz','Ez'],
+    every = 400,
+)
+
+
+DiagTrackParticles(
+    species = "electron2",
+    every = 400,
+#    flush_every = 100,
+#    filter = my_filter,
+   attributes = ["x", "y", "px", "py", "w"]
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#480, 1882:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0.999*c;
+t0=500e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=9e-05;
+L1=9e-05;
+W0=0.0002;
+W1=0.00011;
+
+DW=0.0002-0.00011;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+tau2=100e-15*2.5;
+focus2=[60e-6,0];
+w_02=10e-6;
+% Gaussian beam
+z_R2=w_02^2*pi/lm_0;
+z=linspace(pt0(1),pt0(1)+W0,100);
+w2=w_02.*sqrt(1+((z-focus2(1))./(z_R2)).^(2));
+
+n_e=10.^(26);
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+theta=10./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n4=n;
+
+v3=[0.9999999687499995, 0.0, 0.0]*c;
+v_n3=v3/norm(v3);
+pt_e3=[-60e-6,0];
+
+
+clf
+hold on
+contourf(x,y,n4);
+h_p3=plot(pt_e3(1),pt_e3(2),'r*');
+h_t3=text(pt_e3(1),pt_e3(2),'electron3');
+plot([pt_e3(1),pt_e3(1)+v3(1)*t(end)],[pt_e3(2),pt_e3(2)+v3(2)*t(end)],'k--');
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+patch([z,fliplr(z)],focus2(2)+[w2/2,-fliplr(w2)/2],[1,0,0],'FaceAlpha',0.2)
+h2=rectangle('Position',[pt1(1)-c*tau2*1.2,pt1(2)-w2(1)/2,c*tau2/sqrt(2),w2(1)],'Curvature',[1,1],'FaceColor',[1,1,1,0.1]);
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+x3=pt_e3(1)+v3(1)*t(i);
+y3=pt_e3(2)+v3(2)*t(i);
+h_p3.XData=x3;
+h_p3.YData=y3;
+h_t3.Position(1)=x3;
+h_t3.Position(2)=y3;
+w_z2=w_02.*sqrt(1+((c*t(i)+pt1(1)-focus2(1))./(z_R2)).^(2));
+
+h2.Position(1)=c*t(i)+pt1(1)-c*tau2*1.2;
+h2.Position(2)=focus2(2)-w_z2/2;
+h2.Position(4)=w_z2;
+
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#484, 113:
+创建"文档\模拟\20221127_PM\0_short_e"
++[打开]"文档\模拟\20221127_PM\0_short_e"
++[粘贴](,0_short_e)
+
+预览图:...
+NL文件:...
+计算散射角:...
+
+## end
+#486, 3:
+521
+## end
+#488, 1133:
+%{
++[M函数](,分析数据)
+记住"Matlab"
+
+场分布:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\20221127_PM\\7_10_deg_no_e\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+
+clf
+% for i=size(a.x,1)
+for i=1:size(a.x,1)
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+hold on
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+% axis([0,700,0,0.4])
+
+subplot(1,2,2)
+hold on
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+% axis([0,700,0,1.8e-3])
+
+pause(0.1)
+end
+
+
+
+%{
+0^0
+clf
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#489, 3423:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 9472.0
+Lx = 1184.0
+Ly = 706.8583470577034
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(45664.280419608556)*dt,
+
+    cell_length  = [0.125, 17.671458676442587],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+MovingWindow(
+    time_start = 5650.954701926559,
+    velocity_x = 0.999
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=0
+    x_0=40*10**(-6)
+    D=25*10**(-6)
+    theta=10/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+def n2_profile(x,y):
+    x=x*1.2732395447351627e-07+(0.0)-(-6e-05)
+    y=(y-Ly/2)*1.2732395447351627e-07+(0.0)-(0.0)
+    n=0.
+    Dy=5*10**(-6)
+    n_0=10**(20)
+    n=n_0*np.exp(-y**(2)/Dy**(2))
+    
+    n=n/1.741446424138715e+27
+    return n
+
+def ft2_profile(t):
+    t=t*4.247069967100916e-16-(2.0013846337321832e-13)
+    f=1
+    f=1
+    return f
+
+Species(
+    name = "electron2",
+    position_initialization = "random",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = 0., 
+
+    mean_velocity = [0.9999999687499995, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+    ],
+)
+
+ParticleInjector(
+    species   = "electron2",
+    box_side  = "xmin",
+    time_envelope = ft2_profile,
+    number_density = n2_profile, 
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 0.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 353.4291735288517],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Rho','Rho_electron2','Bz','Ez'],
+    every = 4000,
+)
+
+
+
+DiagTrackParticles(
+    species = "electron2",
+    every = 4000,
+#    flush_every = 100,
+#    filter = my_filter,
+   attributes = ['x','y','px','py','w']
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#490, 1353:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0.999*c;
+t0=2400e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=9e-05;
+L1=9e-05;
+W0=0.00015;
+W1=0.00015;
+
+DW=0.00015-0.00015;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+n_e=0;
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+theta=10./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n4=n;
+
+v3=[0.9999999687499995, 0.0, 0.0]*c;
+v_n3=v3/norm(v3);
+pt_e3=[-60e-6,0];
+
+
+clf
+hold on
+contourf(x,y,n4);
+h_p3=plot(pt_e3(1),pt_e3(2),'r*');
+h_t3=text(pt_e3(1),pt_e3(2),'electron3');
+plot([pt_e3(1),pt_e3(1)+v3(1)*t(end)],[pt_e3(2),pt_e3(2)+v3(2)*t(end)],'k--');
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+x3=pt_e3(1)+v3(1)*t(i);
+y3=pt_e3(2)+v3(2)*t(i);
+h_p3.XData=x3;
+h_p3.YData=y3;
+h_t3.Position(1)=x3;
+h_t3.Position(2)=y3;
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#494, 119:
+创建"文档\模拟\20221127_PM\7_10_deg_no_e"
++[打开]"文档\模拟\20221127_PM\7_10_deg_no_e"
+
+
+预览图:...
+NL文件:...
+分析数据:...
++[新建阅读窗口](,分析数据)
+## end
+#498, 86:
+
+
+(20221205)
+磁场演化性质:...
+电子散射规律:...
+
+(数据在外面的分析数据节点中集中分析)
+将'电子散射规律'的"散射场景"替换为"电子散射规律"
+
+
+
+## end
+#500, 1093:
+地址::文档\模拟\Smilei\code\run.py
+数据地址::文档\\模拟\\Smilei\\code
++[提取Smilei数据]"Rho"(数据地址,)
++[提取Smilei数据]"Ez"(数据地址,)
++[提取Smilei数据]"Jz"(数据地址,)
++[提取Smilei数据]"By"(数据地址,)
++[提取Smilei数据]"Bz"(数据地址,)
++[打开](,数据地址)
+
+Nini, 打开Smilei生成器(文件)
+
++[生成Smilei代码_结构](磁场演化性质,)
+保存代码:...
++[保存文本](地址,保存代码)
+
+有探测场
+有参考波长, 模拟空间和窗口
+有plasma, PW_laser
+
+有探测场
+探测场有探测类型和探测间隔
+探测场的探测类型是"'Bz'"
+探测场的探测间隔是"1000"
+
+
+参考波长是"800e-9"
+
+模拟空间和窗口都是长方形(110e-6,80e-6)
+窗口有启动时间
+窗口的启动时间是"800e-15"
+
+plasma有数密度
+plasma的数密度是f
+f::
+将"\eqs{n_e=10^{26};
+D=25*10^{-6};
+x_0=50*10^{-6};
+\theta=10/180*3.1415;
+n(x)=\eqs{n_e,(x-x_0)*cos(\theta)+y*sin(\theta)>0,(x-x_0-D)*cos(\theta)+y*sin(\theta)<0;0,otherwise}}"记作为f
+显示f
+
+
+
+将"\eqs{n_e=10^{26};
+D=25*10^{-6};
+x_0=50*10^{-6};
+\theta=10/180*3.1415;
+n(x)=\eqs{n_e,x>x_0,x<x_0+D;0,otherwise}}"记作为f
+
+
+
+PW_laser有a0, 展宽, 腰宽, 焦点位置和偏振态
+PW_laser的展宽是"100e-15"
+PW_laser的腰宽是"10e-6"
+PW_laser的a0是"1"
+PW_laser的偏振态是(0,1)
+PW_laser的焦点位置是A
+
+PW_laser有波长
+PW_laser的波长是"1000e-9"
+
+A::
+A在(60e-6,0)
+
+
+窗口的启动时间是"5400e-15"
+
+模拟动画:...
++[召唤星辰](磁场演化性质,模拟动画)
++[M函数](,模拟动画)
++[新建阅读窗口](,模拟动画)
++[设置结构](,模拟动画)
+
+分析数据:...
+
++[显示PPT场景]"2"(,磁场演化性质)
+Nini, 打开公式分析器(文件)
+## end
+#502, 24:
+文档\模拟\Smilei\code\run.py
+## end
+#504, 20:
+文档\\模拟\\Smilei\\code
+## end
+#508, 6:
+800e-9
+## end
+#518, 4:
+'Bz'
+## end
+#520, 4:
+1000
+## end
+#522, 28:
+-4e-05, 4e-05, 4e-05, -4e-05
+## end
+#524, 26:
+0.0, 0.0, 0.00011, 0.00011
+## end
+#526, 8:
+0.0, 0.0
+## end
+#528, 7:
+0.00011
+## end
+#530, 5:
+8e-05
+## end
+#532, 3:
+多边形
+## end
+#533, 3:
+长方形
+## end
+#535, 28:
+-4e-05, 4e-05, 4e-05, -4e-05
+## end
+#537, 26:
+0.0, 0.0, 0.00011, 0.00011
+## end
+#539, 8:
+0.0, 0.0
+## end
+#541, 7:
+0.00011
+## end
+#543, 5:
+8e-05
+## end
+#545, 3:
+多边形
+## end
+#546, 3:
+长方形
+## end
+#548, 8:
+5400e-15
+## end
+#553, 171:
+n_e=10**(26)
+D=25*10**(-6)
+x_0=50*10**(-6)
+theta=10/180*3.1415
+n=0
+if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+    n=n_e
+
+
+
+## end
+#554, 171:
+\eqs{n_e=10^{26};
+D=25*10^{-6};
+x_0=50*10^{-6};
+\theta=10/180*3.1415;
+n(x)=\eqs{n_e,(x-x_0)*cos(\theta)+y*sin(\theta)>0,(x-x_0-D)*cos(\theta)+y*sin(\theta)<0;0,otherwise}}
+## end
+#557, 1:
+1
+## end
+#559, 7:
+100e-15
+## end
+#561, 5:
+10e-6
+## end
+#565, 3:
+0,1
+## end
+#569, 7:
+1000e-9
+## end
+#571, 7:
+60e-6,0
+## end
+#574, 1532:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0*c;
+t0=2400e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=8e-05;
+L1=8e-05;
+W0=0.00011;
+W1=0.00011;
+
+DW=0.00011-0.00011;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+tau2=100e-15*2.5;
+focus2=[60e-6,0];
+w_02=10e-6;
+% Gaussian beam
+z_R2=w_02^2*pi/lm_0;
+z=linspace(pt0(1),pt0(1)+W0,100);
+w2=w_02.*sqrt(1+((z-focus2(1))./(z_R2)).^(2));
+
+n_e=10.^(26);
+D=25.*10.^(-6);
+x_0=50.*10.^(-6);
+theta=10./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n3=n;
+
+
+
+clf
+hold on
+contourf(x,y,n3);
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+patch([z,fliplr(z)],focus2(2)+[w2/2,-fliplr(w2)/2],[1,0,0],'FaceAlpha',0.2)
+h2=rectangle('Position',[pt1(1)-c*tau2*1.2,pt1(2)-w2(1)/2,c*tau2/sqrt(2),w2(1)],'Curvature',[1,1],'FaceColor',[1,1,1,0.1]);
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+w_z2=w_02.*sqrt(1+((c*t(i)+pt1(1)-focus2(1))./(z_R2)).^(2));
+
+h2.Position(1)=c*t(i)+pt1(1)-c*tau2*1.2;
+h2.Position(2)=focus2(2)-w_z2/2;
+h2.Position(4)=w_z2;
+
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#576, 2235:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 6912.0
+Lx = 864.0
+Ly = 628.3185307179587
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(102744.63094411926)*dt,
+
+    cell_length  = [0.125, 15.707963267948966],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(26)
+    D=25*10**(-6)
+    x_0=50*10**(-6)
+    theta=10/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.7419597127682662e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 1.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 314.1592653589793],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Bz'],
+    every = 1000,
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#578, 609:
+%{
++[M函数](,分析数据)
+
+观察磁场:...
+分析发散度:...
++[新建阅读窗口](,分析发散度)
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+% fileName='文档\\模拟\\Smilei\\code\\Jx.mat';
+% fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a=result.result;
+
+%{
++[M函数](,分析数据)
+%}
+clf
+for i=1:size(a,1)
+% for i=1:13
+field=reshape(a(i,:,:),size(a,2),size(a,3));
+surf(field)
+%surf(field(2000:end,:))
+shading interp
+view([90,-90])
+% view([90,0])
+%axis equal
+axis([0,size(a,3),0,size(a,2)])
+pause(0.1)
+end
+
+
+
+%{
+clf
+plot(sum(field'))
+surf(field(2000:end,:))
+shading interp
+view([90,90])
+
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#579, 1881:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0.999*c;
+t0=500e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=9e-05;
+L1=9e-05;
+W0=0.0002;
+W1=0.00011;
+
+DW=0.0002-0.00011;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+tau2=100e-15*2.5;
+focus2=[60e-6,0];
+w_02=10e-6;
+% Gaussian beam
+z_R2=w_02^2*pi/lm_0;
+z=linspace(pt0(1),pt0(1)+W0,100);
+w2=w_02.*sqrt(1+((z-focus2(1))./(z_R2)).^(2));
+
+n_e=10.^(26);
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+theta=3./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n4=n;
+
+v3=[0.9999999687499995, 0.0, 0.0]*c;
+v_n3=v3/norm(v3);
+pt_e3=[-20e-6,0];
+
+
+clf
+hold on
+contourf(x,y,n4);
+h_p3=plot(pt_e3(1),pt_e3(2),'r*');
+h_t3=text(pt_e3(1),pt_e3(2),'electron3');
+plot([pt_e3(1),pt_e3(1)+v3(1)*t(end)],[pt_e3(2),pt_e3(2)+v3(2)*t(end)],'k--');
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+patch([z,fliplr(z)],focus2(2)+[w2/2,-fliplr(w2)/2],[1,0,0],'FaceAlpha',0.2)
+h2=rectangle('Position',[pt1(1)-c*tau2*1.2,pt1(2)-w2(1)/2,c*tau2/sqrt(2),w2(1)],'Curvature',[1,1],'FaceColor',[1,1,1,0.1]);
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+x3=pt_e3(1)+v3(1)*t(i);
+y3=pt_e3(2)+v3(2)*t(i);
+h_p3.XData=x3;
+h_p3.YData=y3;
+h_t3.Position(1)=x3;
+h_t3.Position(2)=y3;
+w_z2=w_02.*sqrt(1+((c*t(i)+pt1(1)-focus2(1))./(z_R2)).^(2));
+
+h2.Position(1)=c*t(i)+pt1(1)-c*tau2*1.2;
+h2.Position(2)=focus2(2)-w_z2/2;
+h2.Position(4)=w_z2;
+
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#580, 3424:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 6912.0
+Lx = 864.0
+Ly = 706.8583470577034
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(15225.37839697565)*dt,
+
+    cell_length  = [0.125, 17.671458676442587],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+MovingWindow(
+    time_start = 1177.2822295680332,
+    velocity_x = 0.999
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(26)
+    x_0=40*10**(-6)
+    D=25*10**(-6)
+    theta=3/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+def n2_profile(x,y):
+    x=x*1.2732395447351627e-07+(0.0)-(-2e-05)
+    y=(y-Ly/2)*1.2732395447351627e-07+(0.0)-(0.0)
+    n=0.
+    Dy=5*10**(-6)
+    n_0=10**(20)
+    n=n_0*np.exp(-y**(2)/Dy**(2))
+    
+    n=n/1.741446424138715e+27
+    return n
+
+def ft2_profile(t):
+    t=t*4.247069967100916e-16-(6.671282112440611e-14)
+    f=1
+    f=1
+    
+    return f
+
+Species(
+    name = "electron2",
+    position_initialization = "random",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = 0., 
+
+    mean_velocity = [0.9999999687499995, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+    ],
+)
+
+ParticleInjector(
+    species   = "electron2",
+    box_side  = "xmin",
+    time_envelope = ft2_profile,
+    number_density = n2_profile, 
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 1.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 353.4291735288517],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Rho','Jx','Jy','Bz','Ez'],
+    every = 400,
+)
+
+
+
+DiagTrackParticles(
+    species = "electron2",
+    every = 400,
+#    flush_every = 100,
+#    filter = my_filter,
+   attributes = ['x','y','px','py','w']
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#581, 1038:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+
+%{
++[M函数](,电子透射瞬间)
+%}
+% for i=1:size(a,1)
+for i=19
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+plot(n_x,Bz,n_x,Rho*1e-23,n_x,Jy_1,n_x,-Jy_2,n_x,Ez*1e-11*2)
+axis([1,7000,0,1000])
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#582, 1037:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+
+%{
++[M函数](,计算散射角)
+%}
+for i=1:size(a,1)
+% for i=19
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+plot(n_x,Bz,n_x,Rho*1e-23,n_x,Jy_1,n_x,-Jy_2,n_x,Ez*1e-11*2)
+axis([1,7000,0,1000])
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#583, 1082:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+% i=39;
+for i=1:39
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.2])
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,0.8])
+
+pause(0.1)
+end
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#584, 1014:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+i=39;
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#587, 1112:
+%{
++[M函数](,发射角变化)
+figure
+瞬时状态:...
+演化过程:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\20221127_PM\\8_long_e_3_deg\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+% i=39;
+for i=1:39
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.4])
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,1.8])
+
+pause(0.1)
+end
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#588, 313:
+%{
++[M函数](,计算散射角)
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result;
+
+i=21;
+xs=result.result{1}.x(i,:);
+ys=result.result{1}.y(i,:);
+pxs=result.result{1}.px(i,:);
+pys=result.result{1}.py(i,:);
+ws=result.result{1}.w(i,:);
+
+
+%{
++[M函数](,计算散射角)
+%}
+## end
+#589, 427:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+%}
+
+tys=pys./pxs;
+
+x_c=linspace(300,1000,100);
+ty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+ty_c(i)=sum(ty(~isnan(w)).*w(~isnan(w)))/sum(w(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+ty_c(w_c<max(w_c)*0.2)=0;
+
+plot(x_c,ty_c/1e-3)
+
+%{
+plot(xs,pys./pxs,'.')
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#595, 1597:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
++[M函数](,发射角变化)
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=110e-6;
+t_win=500e-15;
+v_win=0.999;
+
+L_0=200e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\\20221127_PM\\8_long_e_3_deg\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\8_long_e_3_deg\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\8_long_e_3_deg\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\8_long_e_3_deg\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,计算散射角)
+%}
+
+
+for i=1:length(t_n)
+if t_n(i)<t_win
+x_n=x_n0;
+else
+x_n=x_n0+(t_n(i)-t_win)*v_win*c;
+end
+
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+% plot(x_n/1e-6,Bz,x_n/1e-6,Rho*1e-23,x_n/1e-6,Jy_1*0.0005,x_n/1e-6,-Jy_2*0.0005,x_n/1e-6,Ez*1e-11)
+plot(x_n/c/1e-15,Bz,x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Jy_1*0.0005,x_n/c/1e-15,-Jy_2*0.0005,x_n/c/1e-15,Ez*1e-11)
+axis([0,700,0,1000])
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('B [T]')
+
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#599, 106:
+创建"文档\模拟\20221127_PM\8_long_e_3_deg"
++[打开]"文档\模拟\20221127_PM\8_long_e_3_deg"
+
+
+预览图:...
+NL文件:...
+计算散射角:...
+
+## end
+#602, 1410:
+地址::文档\模拟\Smilei\code\run.py
+数据地址::文档\\模拟\\Smilei\\code
++[提取Smilei数据]"Rho"(数据地址,)
++[提取Smilei数据]"Rho_electron2"(数据地址,)
++[提取Smilei数据]"Bz"(数据地址,)
++[提取Smilei数据]"Ez"(数据地址,)
++[提取Smilei数据]"e_track"(数据地址,)
++[打开](,数据地址)
+
+Nini, 打开Smilei生成器(文件)
+
++[生成Smilei代码_结构](电子散射规律,)
+保存代码:...
++[保存文本](地址,保存代码)
++[新建阅读窗口](,保存代码)
+
+
+有探测场
+探测场有探测类型和探测间隔
+探测场的探测类型是"'Rho','Rho_electron2','Bz','Ez'"
+探测场的探测间隔是"4000"
+
+有粒子追踪
+粒子追踪有名称和追踪间隔
+粒子追踪的名称是"electron2"
+粒子追踪的追踪间隔是"4000"
+
+
+有参考波长, 模拟空间和窗口
+有plasma和LWFA_e
+
+参考波长::800e-9
+模拟空间和窗口都是长方形(150e-6,90e-6)
+
+窗口有启动时间
+窗口的启动时间是"500e-15"
+模拟空间是长方形(200e-6,90e-6)
+窗口有速度
+窗口的速度是"0.999"
+
+plasma有数密度
+plasma的数密度是n
+n::
+将"\eqs{n_e=0;x_0=40*10^{-6};D=25*10^{-6};
+\theta=10/180*3.1415;
+n(x)=\eqs{n_e,(x-x_0)*cos(\theta)+y*sin(\theta)>0,(x-x_0-D)*cos(\theta)+y*sin(\theta)<0;0,otherwise}}"记作为n
+显示n
+
+LWFA_e有数密度, 延时函数, gamma和beta_r
+LWFA_e在(-60e-6,0)
+LWFA_e的gamma是"4000"
+LWFA_e的beta_r是"1,0,0"
++[设置结构](,LWFA_e)
+
+LWFA_e的数密度是fx
+LWFA_e的延时函数是ft
+fx::
+ft::
+
+将"\eqs{Dy=5*10^{-6};n_0=10^{20};
+n=n_0*exp(-y^2/Dy^2)}"记作为fx
+将"\eqs{Dt=30*10^{-15};
+f=exp(-t^2/Dt^2)}"记作为ft
+将"f=1"记作为ft
+显示fx
+显示ft
+
+
+A::
+A在(60e-6,0)
+有PW_laser
+PW_laser有波长, a0, 展宽, 腰宽, 焦点位置和偏振态
+PW_laser的展宽是"100e-15"
+PW_laser的腰宽是"10e-6"
+PW_laser的a0是"0"
+PW_laser的偏振态是(0,1)
+PW_laser的焦点位置是A
+PW_laser的波长是"1000e-9"
+
+
+
+将"\eqs{f=1}"记作为ft
+LWFA_e在(-20e-6,0)
+
+
+窗口的启动时间是"2400e-15"
+
+预览:...
++[召唤星辰](电子散射规律,预览)
++[M函数](,预览)
++[新建阅读窗口](,预览)
+
+分析数据:...
++[新建阅读窗口](,分析数据)
+
+
++[显示PPT场景]"1"(,电子散射规律)
+## end
+#605, 31:
+'Rho','Rho_electron2','Bz','Ez'
+## end
+#607, 4:
+4000
+## end
+#609, 6:
+800e-9
+## end
+#611, 3:
+多边形
+## end
+#613, 3:
+多边形
+## end
+#619, 36:
+-4.5e-05, 4.5e-05, 4.5e-05, -4.5e-05
+## end
+#621, 26:
+0.0, 0.0, 0.00015, 0.00015
+## end
+#623, 8:
+0.0, 0.0
+## end
+#625, 7:
+0.00015
+## end
+#627, 5:
+9e-05
+## end
+#629, 3:
+多边形
+## end
+#630, 3:
+长方形
+## end
+#632, 36:
+-4.5e-05, 4.5e-05, 4.5e-05, -4.5e-05
+## end
+#634, 26:
+0.0, 0.0, 0.00015, 0.00015
+## end
+#636, 8:
+0.0, 0.0
+## end
+#638, 7:
+0.00015
+## end
+#640, 5:
+9e-05
+## end
+#642, 3:
+多边形
+## end
+#643, 3:
+长方形
+## end
+#645, 8:
+2400e-15
+## end
+#647, 5:
+0.999
+## end
+#652, 164:
+n_e=0
+x_0=40*10**(-6)
+D=25*10**(-6)
+theta=10/180*3.1415
+n=0
+if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+    n=n_e
+
+
+
+## end
+#653, 163:
+\eqs{n_e=0;x_0=40*10^{-6};D=25*10^{-6};
+\theta=10/180*3.1415;
+n(x)=\eqs{n_e,(x-x_0)*cos(\theta)+y*sin(\theta)>0,(x-x_0-D)*cos(\theta)+y*sin(\theta)<0;0,otherwise}}
+## end
+#660, 4:
+4000
+## end
+#662, 5:
+1,0,0
+## end
+#664, 8:
+-60e-6,0
+## end
+#667, 57:
+Dy=5*10**(-6)
+n_0=10**(20)
+n=n_0*np.exp(-y**(2)/Dy**(2))
+
+## end
+#669, 3:
+f=1
+## end
+#670, 52:
+\eqs{Dy=5*10^{-6};n_0=10^{20};
+n=n_0*exp(-y^2/Dy^2)}
+## end
+#673, 3:
+f=1
+## end
+#678, 7:
+60e-6,0
+## end
+#682, 7:
+1000e-9
+## end
+#684, 1:
+0
+## end
+#686, 7:
+100e-15
+## end
+#688, 5:
+10e-6
+## end
+#692, 3:
+0,1
+## end
+#695, 1353:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0.999*c;
+t0=2400e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=9e-05;
+L1=9e-05;
+W0=0.00015;
+W1=0.00015;
+
+DW=0.00015-0.00015;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+n_e=0;
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+theta=10./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n4=n;
+
+v3=[0.9999999687499995, 0.0, 0.0]*c;
+v_n3=v3/norm(v3);
+pt_e3=[-60e-6,0];
+
+
+clf
+hold on
+contourf(x,y,n4);
+h_p3=plot(pt_e3(1),pt_e3(2),'r*');
+h_t3=text(pt_e3(1),pt_e3(2),'electron3');
+plot([pt_e3(1),pt_e3(1)+v3(1)*t(end)],[pt_e3(2),pt_e3(2)+v3(2)*t(end)],'k--');
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+x3=pt_e3(1)+v3(1)*t(i);
+y3=pt_e3(2)+v3(2)*t(i);
+h_p3.XData=x3;
+h_p3.YData=y3;
+h_t3.Position(1)=x3;
+h_t3.Position(2)=y3;
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#698, 9:
+electron2
+## end
+#700, 4:
+4000
+## end
+#703, 3423:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 9472.0
+Lx = 1184.0
+Ly = 706.8583470577034
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(45664.280419608556)*dt,
+
+    cell_length  = [0.125, 17.671458676442587],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+MovingWindow(
+    time_start = 5650.954701926559,
+    velocity_x = 0.999
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=0
+    x_0=40*10**(-6)
+    D=25*10**(-6)
+    theta=10/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+def n2_profile(x,y):
+    x=x*1.2732395447351627e-07+(0.0)-(-6e-05)
+    y=(y-Ly/2)*1.2732395447351627e-07+(0.0)-(0.0)
+    n=0.
+    Dy=5*10**(-6)
+    n_0=10**(20)
+    n=n_0*np.exp(-y**(2)/Dy**(2))
+    
+    n=n/1.741446424138715e+27
+    return n
+
+def ft2_profile(t):
+    t=t*4.247069967100916e-16-(2.0013846337321832e-13)
+    f=1
+    f=1
+    return f
+
+Species(
+    name = "electron2",
+    position_initialization = "random",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = 0., 
+
+    mean_velocity = [0.9999999687499995, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+    ],
+)
+
+ParticleInjector(
+    species   = "electron2",
+    box_side  = "xmin",
+    time_envelope = ft2_profile,
+    number_density = n2_profile, 
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 0.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 353.4291735288517],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Rho','Rho_electron2','Bz','Ez'],
+    every = 4000,
+)
+
+
+
+DiagTrackParticles(
+    species = "electron2",
+    every = 4000,
+#    flush_every = 100,
+#    filter = my_filter,
+   attributes = ['x','y','px','py','w']
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#705, 20:
+文档\\模拟\\Smilei\\code
+## end
+#707, 24:
+文档\模拟\Smilei\code\run.py
+## end
+#708, 1532:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0*c;
+t0=2400e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=8e-05;
+L1=8e-05;
+W0=0.00011;
+W1=0.00011;
+
+DW=0.00011-0.00011;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+tau2=100e-15*2.5;
+focus2=[60e-6,0];
+w_02=10e-6;
+% Gaussian beam
+z_R2=w_02^2*pi/lm_0;
+z=linspace(pt0(1),pt0(1)+W0,100);
+w2=w_02.*sqrt(1+((z-focus2(1))./(z_R2)).^(2));
+
+n_e=10.^(26);
+D=25.*10.^(-6);
+x_0=50.*10.^(-6);
+theta=10./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n3=n;
+
+
+
+clf
+hold on
+contourf(x,y,n3);
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+patch([z,fliplr(z)],focus2(2)+[w2/2,-fliplr(w2)/2],[1,0,0],'FaceAlpha',0.2)
+h2=rectangle('Position',[pt1(1)-c*tau2*1.2,pt1(2)-w2(1)/2,c*tau2/sqrt(2),w2(1)],'Curvature',[1,1],'FaceColor',[1,1,1,0.1]);
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+w_z2=w_02.*sqrt(1+((c*t(i)+pt1(1)-focus2(1))./(z_R2)).^(2));
+
+h2.Position(1)=c*t(i)+pt1(1)-c*tau2*1.2;
+h2.Position(2)=focus2(2)-w_z2/2;
+h2.Position(4)=w_z2;
+
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#709, 2244:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 6912.0
+Lx = 864.0
+Ly = 628.3185307179587
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(45664.280419608556)*dt,
+
+    cell_length  = [0.125, 15.707963267948966],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(26)
+    D=25*10**(-6)
+    x_0=50*10**(-6)
+    theta=10/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 1.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 314.1592653589793],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Ez','Rho','Bz'],
+    every = 1000,
+)
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#710, 1195:
+%{
++[M函数](,分析数据)
+记住"Matlab"
+
+纵向分布:...
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=110e-6;
+W_win=80e-6;
+t_win=2400e-15;
+v_win=0.999;
+
+L_0=110e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\\20221127_PM\\3_no_e_10_deg_B_field\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\3_no_e_10_deg_B_field\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\3_no_e_10_deg_B_field\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+y_n0=linspace(0,W_win,size(a_Bz,3));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,计算散射角)
+%}
+
+
+for i=1:length(t_n)
+x_n=y_n0;
+
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+
+Bz_1=max(field_Bz);
+Bz_2=min(field_Bz);
+Ez=sum(field_Ez);
+
+
+% plot(x_n/1e-6,Bz_1,x_n/1e-6,Bz_2,x_n/1e-6,Ez*1e-11)
+plot(x_n/1e-6,Bz_1+Bz_2,x_n/1e-6,Ez*1e-11)
+axis([0,80,-800,800])
+xlabel('x [um]')
+ylabel('B [T]')
+title(sprintf('Delay time=%.2f fs',t_n(i)/1e-15))
+
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#711, 1280:
+%{
++[M函数](,计算散射角)
+记住"Matlab"
++[删除结构](,计算散射角)
+
+纵向分布:...
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=110e-6;
+t_win=2400e-15;
+v_win=0.999;
+
+L_0=110e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\\20221127_PM\\3_no_e_10_deg_B_field\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\3_no_e_10_deg_B_field\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\3_no_e_10_deg_B_field\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,计算散射角)
+%}
+
+
+for i=1:length(t_n)
+if t_n(i)<t_win
+x_n=x_n0;
+else
+x_n=x_n0+(t_n(i)-t_win)*v_win*c;
+end
+
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+
+
+plot(x_n/c/1e-15,Bz,x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Ez*1e-11)
+axis([0,400,0,1000])
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('B [T]')
+title(sprintf('Delay time=%.2f fs',t_n(i)/1e-15))
+
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#714, 1272:
+%{
++[M函数](,分析数据)
+记住"Matlab"
+
+纵向分布:...
+横向分布:...
++[M函数](,纵向分布)
++[M函数](,横向分布)
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=110e-6;
+W_win=80e-6;
+t_win=5400e-15;
+v_win=0.999;
+
+L_0=110e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\\20221127_PM\\3_no_e_10_deg_B_field\\Bz_far.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\3_no_e_10_deg_B_field\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\3_no_e_10_deg_B_field\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+y_n0=linspace(0,W_win,size(a_Bz,3));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,计算散射角)
+%}
+
+
+for i=1:length(t_n)
+x_n=x_n0;
+y_n=y_n0;
+
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+
+Bz_1=max(field_Bz);
+Bz_2=min(field_Bz);
+Bz=max(field_Bz')';
+
+
+
+subplot(1,2,1)
+plot(x_n/1e-6,Bz)
+axis([0,110,0,800])
+xlabel('x [um]')
+ylabel('B [T]')
+title(sprintf('Delay time=%.2f fs',t_n(i)/1e-15))
+
+subplot(1,2,2)
+plot(y_n/1e-6,Bz_1+Bz_2)
+axis([0,80,-800,800])
+xlabel('x [um]')
+ylabel('B [T]')
+title(sprintf('Delay time=%.2f fs',t_n(i)/1e-15))
+
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#718, 121:
+创建"文档\模拟\20221127_PM\3_no_e_10_deg_B_field"
++[打开]"文档\模拟\20221127_PM\3_no_e_10_deg_B_field"
+
+
+预览图:...
+NL文件:...
+分析数据:...
+
+
+
+## end
+#721, 670:
+%{
++[M函数](,分析数据)
+
+观察磁场:...
+分析发散度:...
++[新建阅读窗口](,分析发散度)
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+% fileName='文档\\模拟\\\20221127_PM\\1_long_e_10_deg\\Rho.mat';
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+% fileName='文档\\模拟\\Smilei\\code\\Jx.mat';
+% fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a=result.result;
+
+%{
++[M函数](,分析数据)
+%}
+clf
+for i=1:size(a,1)
+% for i=1:13
+field=reshape(a(i,:,:),size(a,2),size(a,3));
+surf(field)
+%surf(field(2000:end,:))
+shading interp
+view([90,-90])
+% view([90,0])
+%axis equal
+axis([0,size(a,3),0,size(a,2)])
+pause(0.1)
+end
+
+
+
+%{
+clf
+plot(sum(field'))
+surf(field(2000:end,:))
+shading interp
+view([90,90])
+
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#723, 1255:
+%{
++[M函数](,场分布)
+记住"Matlab"
+
+纵向分布:...
+横向分布:...
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=150e-6;
+W_win=80e-6;
+t_win=2400e-15;
+v_win=0.999;
+
+L_0=150e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\20221127_PM\\6_10_deg_n_1e29\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\6_10_deg_n_1e29\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\6_10_deg_n_1e29\\Rho.mat';
+% fileName='文档\\模拟\\20221127_PM\\6_10_deg_n_1e29\\Rho_electron2.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+y_n0=linspace(0,W_win,size(a_Bz,3));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,场分布)
+%}
+
+
+for i=1:length(t_n)
+if t_n(i)<t_win
+x_n=x_n0;
+else
+x_n=x_n0+(t_n(i)-t_win)*v_win*c;
+end
+
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+
+plot(x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Ez*1e-11)
+% plot(x_n/c/1e-15,Rho*1e11*500,x_n/c/1e-15,Ez*1e-11)
+axis([0,500,0,1000])
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('B [T]')
+
+pause(0.1)
+end
+
+
+
+
+%{
+
+clf
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#725, 1884:
+%{
++[M函数](,预览图)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0.999*c;
+t0=2400e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=9e-05;
+L1=9e-05;
+W0=0.00015;
+W1=0.00015;
+
+DW=0.00015-0.00015;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+tau2=100e-15*2.5;
+focus2=[60e-6,0];
+w_02=10e-6;
+% Gaussian beam
+z_R2=w_02^2*pi/lm_0;
+z=linspace(pt0(1),pt0(1)+W0,100);
+w2=w_02.*sqrt(1+((z-focus2(1))./(z_R2)).^(2));
+
+n_e=10.^(26);
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+theta=10./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n4=n;
+
+v3=[0.9999999687499995, 0.0, 0.0]*c;
+v_n3=v3/norm(v3);
+pt_e3=[-60e-6,0];
+
+
+clf
+hold on
+contourf(x,y,n4);
+h_p3=plot(pt_e3(1),pt_e3(2),'r*');
+h_t3=text(pt_e3(1),pt_e3(2),'electron3');
+plot([pt_e3(1),pt_e3(1)+v3(1)*t(end)],[pt_e3(2),pt_e3(2)+v3(2)*t(end)],'k--');
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+patch([z,fliplr(z)],focus2(2)+[w2/2,-fliplr(w2)/2],[1,0,0],'FaceAlpha',0.2)
+h2=rectangle('Position',[pt1(1)-c*tau2*1.2,pt1(2)-w2(1)/2,c*tau2/sqrt(2),w2(1)],'Curvature',[1,1],'FaceColor',[1,1,1,0.1]);
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+x3=pt_e3(1)+v3(1)*t(i);
+y3=pt_e3(2)+v3(2)*t(i);
+h_p3.XData=x3;
+h_p3.YData=y3;
+h_t3.Position(1)=x3;
+h_t3.Position(2)=y3;
+w_z2=w_02.*sqrt(1+((c*t(i)+pt1(1)-focus2(1))./(z_R2)).^(2));
+
+h2.Position(1)=c*t(i)+pt1(1)-c*tau2*1.2;
+h2.Position(2)=focus2(2)-w_z2/2;
+h2.Position(4)=w_z2;
+
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#726, 3414:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 9472.0
+Lx = 1184.0
+Ly = 706.8583470577034
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(45664.280419608556)*dt,
+
+    cell_length  = [0.125, 17.671458676442587],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+MovingWindow(
+    time_start = 5650.954701926559,
+    velocity_x = 0.999
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(26)
+    x_0=40*10**(-6)
+    D=25*10**(-6)
+    theta=10/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+def n2_profile(x,y):
+    x=x*1.2732395447351627e-07+(0.0)-(-6e-05)
+    y=(y-Ly/2)*1.2732395447351627e-07+(0.0)-(0.0)
+    n=0.
+    Dy=5*10**(-6)
+    n_0=10**(20)
+    n=n_0*np.exp(-y**(2)/Dy**(2))
+    
+    n=n/1.741446424138715e+27
+    return n
+
+def ft2_profile(t):
+    t=t*4.247069967100916e-16-(2.0013846337321832e-13)
+    f=1
+    f=1
+    return f
+
+Species(
+    name = "electron2",
+    position_initialization = "random",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = 0., 
+
+    mean_velocity = [0.9999999687499995, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+    ],
+)
+
+ParticleInjector(
+    species   = "electron2",
+    box_side  = "xmin",
+    time_envelope = ft2_profile,
+    number_density = n2_profile, 
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 1.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 353.4291735288517],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Rho','Bz','Ez'],
+    every = 4000,
+)
+
+
+
+DiagTrackParticles(
+    species = "electron2",
+    every = 4000,
+#    flush_every = 100,
+#    filter = my_filter,
+   attributes = ['x','y','px','py','w']
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#727, 1182:
+%{
++[M函数](,分析数据)
+记住"Matlab"
+
+纵向分布:...
+横向分布:...
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=150e-6;
+W_win=80e-6;
+t_win=2400e-15;
+v_win=0.999;
+
+L_0=150e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\20221127_PM\\4_10_deg_laser\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\4_10_deg_laser\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\4_10_deg_laser\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+y_n0=linspace(0,W_win,size(a_Bz,3));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,计算散射角)
+%}
+
+
+for i=1:length(t_n)
+if t_n(i)<t_win
+x_n=x_n0;
+else
+x_n=x_n0+(t_n(i)-t_win)*v_win*c;
+end
+
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+
+% plot(x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Ez*1e-11)
+plot(x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Ez*1e-11)
+axis([0,500,0,1000])
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('B [T]')
+
+pause(0.1)
+end
+
+
+
+
+%{
+
+clf
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#729, 1124:
+%{
++[M函数](,分析数据)
+记住"Matlab"
+
+场分布:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\20221127_PM\\4_10_deg_laser\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+
+clf
+% for i=size(a.x,1)
+for i=1:size(a.x,1)
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+hold on
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.4])
+
+subplot(1,2,2)
+hold on
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,1.8])
+
+pause(0.1)
+end
+
+
+
+%{
+
+clf
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#733, 121:
+创建"文档\模拟\20221127_PM\4_10_deg_laser"
++[打开]"文档\模拟\20221127_PM\4_10_deg_laser"
+
+
+预览图:...
+NL文件:...
+分析数据:...
++[新建阅读窗口](,分析数据)
+## end
+#735, 1360:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0.999*c;
+t0=2400e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=9e-05;
+L1=9e-05;
+W0=0.00015;
+W1=0.00015;
+
+DW=0.00015-0.00015;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+n_e=10.^(26);
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+theta=10./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n4=n;
+
+v3=[0.9999999687499995, 0.0, 0.0]*c;
+v_n3=v3/norm(v3);
+pt_e3=[-60e-6,0];
+
+
+clf
+hold on
+contourf(x,y,n4);
+h_p3=plot(pt_e3(1),pt_e3(2),'r*');
+h_t3=text(pt_e3(1),pt_e3(2),'electron3');
+plot([pt_e3(1),pt_e3(1)+v3(1)*t(end)],[pt_e3(2),pt_e3(2)+v3(2)*t(end)],'k--');
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+x3=pt_e3(1)+v3(1)*t(i);
+y3=pt_e3(2)+v3(2)*t(i);
+h_p3.XData=x3;
+h_p3.YData=y3;
+h_t3.Position(1)=x3;
+h_t3.Position(2)=y3;
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#736, 3430:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 9472.0
+Lx = 1184.0
+Ly = 706.8583470577034
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(45664.280419608556)*dt,
+
+    cell_length  = [0.125, 17.671458676442587],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+MovingWindow(
+    time_start = 5650.954701926559,
+    velocity_x = 0.999
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(26)
+    x_0=40*10**(-6)
+    D=25*10**(-6)
+    theta=10/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+def n2_profile(x,y):
+    x=x*1.2732395447351627e-07+(0.0)-(-6e-05)
+    y=(y-Ly/2)*1.2732395447351627e-07+(0.0)-(0.0)
+    n=0.
+    Dy=5*10**(-6)
+    n_0=10**(20)
+    n=n_0*np.exp(-y**(2)/Dy**(2))
+    
+    n=n/1.741446424138715e+27
+    return n
+
+def ft2_profile(t):
+    t=t*4.247069967100916e-16-(2.0013846337321832e-13)
+    f=1
+    f=1
+    return f
+
+Species(
+    name = "electron2",
+    position_initialization = "random",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = 0., 
+
+    mean_velocity = [0.9999999687499995, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+    ],
+)
+
+ParticleInjector(
+    species   = "electron2",
+    box_side  = "xmin",
+    time_envelope = ft2_profile,
+    number_density = n2_profile, 
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 0.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 353.4291735288517],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Rho','Rho_electron2','Bz','Ez'],
+    every = 4000,
+)
+
+
+
+DiagTrackParticles(
+    species = "electron2",
+    every = 4000,
+#    flush_every = 100,
+#    filter = my_filter,
+   attributes = ['x','y','px','py','w']
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#737, 1227:
+%{
++[M函数](,场分布)
+记住"Matlab"
+
+纵向分布:...
+横向分布:...
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=150e-6;
+W_win=80e-6;
+t_win=2400e-15;
+v_win=0.999;
+
+L_0=150e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\20221127_PM\\5_10_deg\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\5_10_deg\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\5_10_deg\\Rho.mat';
+% fileName='文档\\模拟\\20221127_PM\\5_10_deg\\Rho_electron2.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+y_n0=linspace(0,W_win,size(a_Bz,3));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,场分布)
+%}
+
+
+for i=1:length(t_n)
+if t_n(i)<t_win
+x_n=x_n0;
+else
+x_n=x_n0+(t_n(i)-t_win)*v_win*c;
+end
+
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+
+plot(x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Ez*1e-11)
+% plot(x_n/c/1e-15,Rho*1e11*500,x_n/c/1e-15,Ez*1e-11)
+axis([0,500,0,1000])
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('B [T]')
+
+pause(0.1)
+end
+
+
+
+
+%{
+
+clf
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#739, 1122:
+%{
++[M函数](,分析数据)
+记住"Matlab"
+
+场分布:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\20221127_PM\\5_10_deg\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+
+clf
+% for i=size(a.x,1)
+for i=1:size(a.x,1)
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+hold on
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+% axis([0,700,0,0.4])
+
+subplot(1,2,2)
+hold on
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+% axis([0,700,0,1.8])
+
+pause(0.1)
+end
+
+
+
+%{
+
+clf
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#743, 109:
+创建"文档\模拟\20221127_PM\5_10_deg"
++[打开]"文档\模拟\20221127_PM\5_10_deg"
+
+
+预览图:...
+NL文件:...
+分析数据:...
++[新建阅读窗口](,分析数据)
+## end
+#745, 1360:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0.999*c;
+t0=2400e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=9e-05;
+L1=9e-05;
+W0=0.00015;
+W1=0.00015;
+
+DW=0.00015-0.00015;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+n_e=10.^(26);
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+theta=10./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n4=n;
+
+v3=[0.9999999687499995, 0.0, 0.0]*c;
+v_n3=v3/norm(v3);
+pt_e3=[-60e-6,0];
+
+
+clf
+hold on
+contourf(x,y,n4);
+h_p3=plot(pt_e3(1),pt_e3(2),'r*');
+h_t3=text(pt_e3(1),pt_e3(2),'electron3');
+plot([pt_e3(1),pt_e3(1)+v3(1)*t(end)],[pt_e3(2),pt_e3(2)+v3(2)*t(end)],'k--');
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+x3=pt_e3(1)+v3(1)*t(i);
+y3=pt_e3(2)+v3(2)*t(i);
+h_p3.XData=x3;
+h_p3.YData=y3;
+h_t3.Position(1)=x3;
+h_t3.Position(2)=y3;
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#746, 3430:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 9472.0
+Lx = 1184.0
+Ly = 706.8583470577034
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(45664.280419608556)*dt,
+
+    cell_length  = [0.125, 17.671458676442587],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+MovingWindow(
+    time_start = 5650.954701926559,
+    velocity_x = 0.999
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(29)
+    x_0=40*10**(-6)
+    D=25*10**(-6)
+    theta=10/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+def n2_profile(x,y):
+    x=x*1.2732395447351627e-07+(0.0)-(-6e-05)
+    y=(y-Ly/2)*1.2732395447351627e-07+(0.0)-(0.0)
+    n=0.
+    Dy=5*10**(-6)
+    n_0=10**(20)
+    n=n_0*np.exp(-y**(2)/Dy**(2))
+    
+    n=n/1.741446424138715e+27
+    return n
+
+def ft2_profile(t):
+    t=t*4.247069967100916e-16-(2.0013846337321832e-13)
+    f=1
+    f=1
+    return f
+
+Species(
+    name = "electron2",
+    position_initialization = "random",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = 0., 
+
+    mean_velocity = [0.9999999687499995, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+    ],
+)
+
+ParticleInjector(
+    species   = "electron2",
+    box_side  = "xmin",
+    time_envelope = ft2_profile,
+    number_density = n2_profile, 
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 0.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 353.4291735288517],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Rho','Rho_electron2','Bz','Ez'],
+    every = 4000,
+)
+
+
+
+DiagTrackParticles(
+    species = "electron2",
+    every = 4000,
+#    flush_every = 100,
+#    filter = my_filter,
+   attributes = ['x','y','px','py','w']
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#747, 1255:
+%{
++[M函数](,场分布)
+记住"Matlab"
+
+纵向分布:...
+横向分布:...
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=150e-6;
+W_win=80e-6;
+t_win=2400e-15;
+v_win=0.999;
+
+L_0=150e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\20221127_PM\\6_10_deg_n_1e29\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\6_10_deg_n_1e29\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\6_10_deg_n_1e29\\Rho.mat';
+% fileName='文档\\模拟\\20221127_PM\\6_10_deg_n_1e29\\Rho_electron2.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+y_n0=linspace(0,W_win,size(a_Bz,3));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,场分布)
+%}
+
+
+for i=1:length(t_n)
+if t_n(i)<t_win
+x_n=x_n0;
+else
+x_n=x_n0+(t_n(i)-t_win)*v_win*c;
+end
+
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+
+plot(x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Ez*1e-11)
+% plot(x_n/c/1e-15,Rho*1e11*500,x_n/c/1e-15,Ez*1e-11)
+axis([0,500,0,1000])
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('B [T]')
+
+pause(0.1)
+end
+
+
+
+
+%{
+
+clf
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#749, 1135:
+%{
++[M函数](,分析数据)
+记住"Matlab"
+
+场分布:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\20221127_PM\\6_10_deg_n_1e29\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+
+clf
+% for i=size(a.x,1)
+for i=1:size(a.x,1)
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+hold on
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+% axis([0,700,0,0.4])
+
+subplot(1,2,2)
+hold on
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+% axis([0,700,0,1.8e-3])
+
+pause(0.1)
+end
+
+
+
+%{
+0^0
+clf
+记住"Matlab"
++[M函数](,分析数据)
+%}
+## end
+#753, 123:
+创建"文档\模拟\20221127_PM\6_10_deg_n_1e29"
++[打开]"文档\模拟\20221127_PM\6_10_deg_n_1e29"
+
+
+预览图:...
+NL文件:...
+分析数据:...
++[新建阅读窗口](,分析数据)
+## end
+#757, 9:
+electron2
+## end
+#759, 3:
+400
+## end
+#761, 427:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+%}
+
+tys=pys./pxs;
+
+x_c=linspace(300,1000,100);
+ty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+ty_c(i)=sum(ty(~isnan(w)).*w(~isnan(w)))/sum(w(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+ty_c(w_c<max(w_c)*0.2)=0;
+
+plot(x_c,ty_c/1e-3)
+
+%{
+plot(xs,pys./pxs,'.')
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#762, 313:
+%{
++[M函数](,计算散射角)
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result;
+
+i=21;
+xs=result.result{1}.x(i,:);
+ys=result.result{1}.y(i,:);
+pxs=result.result{1}.px(i,:);
+pys=result.result{1}.py(i,:);
+ws=result.result{1}.w(i,:);
+
+
+%{
++[M函数](,计算散射角)
+%}
+## end
+#763, 1014:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+i=39;
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#764, 1082:
+%{
++[M函数](,发射角变化)
+
+瞬时状态:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+% i=39;
+for i=1:39
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+xlabel('x [um]')
+% xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.2])
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,0.8])
+
+pause(0.1)
+end
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#767, 1113:
+%{
++[M函数](,发射角变化)
+figure
+瞬时状态:...
+演化过程:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\20221127_PM\\1_long_e_10_deg\\e_track.mat';
+result=load(fileName);
+a=result.result{1};
+
+% i=39;
+for i=1:39
+xs=a.x(i,:,:);
+ys=a.y(i,:,:);
+pxs=a.px(i,:,:);
+pys=a.py(i,:,:);
+ws=a.w(i,:,:);
+
+tys=pys./pxs;
+
+x_c=linspace(min(xs),max(xs),200);
+ty_c=zeros(size(x_c));
+dty_c=zeros(size(x_c));
+w_c=zeros(size(x_c));
+
+for i=2:length(x_c)
+% i=2;
+ty=tys(x_c(i-1)<xs & x_c(i)>xs);
+w=ws(x_c(i-1)<xs & x_c(i)>xs);
+n_e=w*numel(ty)/sum(w(~isnan(w)));
+
+ty_c(i)=mean(ty(~isnan(w)).*n_e(~isnan(w)));
+% ty_c(i)=mean(ty(~isnan(w)));
+dty_c(i)=std(ty(~isnan(w)).*n_e(~isnan(w)));
+w_c(i)=mean(w(~isnan(w)));
+end
+
+subplot(1,2,1)
+plot(x_c*L_r/c/1e-15,ty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c*L_r/1e-6,ty_c.*w_c/max(w_c)/1e-3)
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('Launch angle [mrad]')
+axis([0,700,0,0.4])
+
+subplot(1,2,2)
+plot(x_c*L_r/c/1e-15,dty_c.*w_c/max(w_c)/1e-3)
+% plot(x_c,dty_c/1e-3)
+xlabel('Delay [fs]')
+ylabel('Divergence [mrad]')
+axis([0,700,0,1.8])
+
+pause(0.1)
+end
+
+%{
+L_r
+size(a.x)
+plot(x_c,ty_c)
+
+记住"Matlab"
++[M函数](,发射角变化)
+%}
+## end
+#768, 1037:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+
+%{
++[M函数](,计算散射角)
+%}
+for i=1:size(a,1)
+% for i=19
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+plot(n_x,Bz,n_x,Rho*1e-23,n_x,Jy_1,n_x,-Jy_2,n_x,Ez*1e-11*2)
+axis([1,7000,0,1000])
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#769, 1038:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
+%}
+
+physics_constant;
+lmbd=800e-9;
+
+fileName='文档\\模拟\\Smilei\\code\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\Smilei\\code\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+
+%{
++[M函数](,电子透射瞬间)
+%}
+% for i=1:size(a,1)
+for i=19
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+plot(n_x,Bz,n_x,Rho*1e-23,n_x,Jy_1,n_x,-Jy_2,n_x,Ez*1e-11*2)
+axis([1,7000,0,1000])
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#775, 1601:
+%{
++[M函数](,计算散射角)
+
+保存:...
+获取数据:...
++[M函数](,获取数据)
+
+发射角变化:...
+磁场变化:...
+电子透射瞬间:...
++[M函数](,发射角变化)
+%}
+
+physics_constant;
+lm_r=800e-9;
+L_win=110e-6;
+t_win=500e-15;
+v_win=0.999;
+
+L_0=200e-6;
+
+T_0=t_win+(L_0-L_win)/v_win/c;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+fileName='文档\\模拟\\\20221127_PM\\1_long_e_10_deg\\Bz.mat';
+result=load(fileName);
+a_Bz=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\1_long_e_10_deg\\Ez.mat';
+result=load(fileName);
+a_Ez=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\1_long_e_10_deg\\Rho.mat';
+result=load(fileName);
+a_Rho=result.result;
+
+fileName='文档\\模拟\\20221127_PM\\1_long_e_10_deg\\Jy.mat';
+result=load(fileName);
+a_Jy=result.result;
+
+n_x=1:size(a_Bz,2);
+x_n0=linspace(0,L_win,size(a_Bz,2));
+t_n=linspace(0,T_0,size(a_Bz,1));
+
+%{
+t_n
++[M函数](,计算散射角)
+%}
+
+
+for i=1:length(t_n)
+if t_n(i)<t_win
+x_n=x_n0;
+else
+x_n=x_n0+(t_n(i)-t_win)*v_win*c;
+end
+
+field_Bz=reshape(a_Bz(i,:,:),size(a_Bz,2),size(a_Bz,3));
+field_Ez=reshape(a_Ez(i,:,:),size(a_Ez,2),size(a_Ez,3));
+field_Rho=reshape(a_Rho(i,:,:),size(a_Rho,2),size(a_Rho,3));
+field_Jy=reshape(a_Jy(i,:,:),size(a_Jy,2),size(a_Jy,3));
+
+Bz=max(field_Bz')';
+Ez=sum(field_Ez')';
+Rho=abs(max(field_Rho')');
+Jy_1=max(field_Jy')';
+Jy_2=min(field_Jy')';
+
+% plot(x_n/1e-6,Bz,x_n/1e-6,Rho*1e-23,x_n/1e-6,Jy_1*0.0005,x_n/1e-6,-Jy_2*0.0005,x_n/1e-6,Ez*1e-11)
+plot(x_n/c/1e-15,Bz,x_n/c/1e-15,Rho*1e-23,x_n/c/1e-15,Jy_1*0.0005,x_n/c/1e-15,-Jy_2*0.0005,x_n/c/1e-15,Ez*1e-11)
+axis([0,700,0,1000])
+% xlabel('x [um]')
+xlabel('Delay [fs]')
+ylabel('B [T]')
+
+pause(0.1)
+end
+
+
+
+
+%{
+plot(n_x,sum(field_Ez')')
+clf
+记住"Matlab"
++[M函数](,计算散射角)
+%}
+## end
+#776, 3471:
+"""
+保存:...
+list_field::https://smileipic.github.io/Smilei/namelist.html#fields-diagnostics
++[打开网页](,list_field)
+
+"""
+import numpy as np
+
+dt = 0.12375
+nx = 6912.0
+Lx = 864.0
+Ly = 706.8583470577034
+npatch_x = 128.0
+
+Main(
+    geometry = "2Dcartesian",
+    
+    interpolation_order = 2,
+
+    timestep = dt,
+    simulation_time = int(15225.37839697565)*dt,
+
+    cell_length  = [0.125, 17.671458676442587],
+    grid_length = [Lx, Ly],
+
+    number_of_patches = [npatch_x, 1],
+
+    cluster_width = nx/npatch_x,
+    
+    EM_boundary_conditions = [
+        ["silver-muller","silver-muller"],
+        ["silver-muller","silver-muller"],
+#        ["periodic", "periodic"],
+    ],
+    
+    solve_poisson = False,
+    print_every = 200,
+
+    random_seed = smilei_mpi_rank
+)
+
+MovingWindow(
+    time_start = 1177.2822295680332,
+    velocity_x = 0.999
+)
+
+LoadBalancing(
+    initial_balance = False,
+    every = 150,
+    cell_load = 1.,
+    frozen_particle_load = 0.1
+)
+
+def n1_profile(x,y):
+    x=x*1.2732395447351627e-07+0.0
+    y=(y-Ly/2)*1.2732395447351627e-07+0.0
+
+    n_e=10**(26)
+    x_0=40*10**(-6)
+    D=25*10**(-6)
+    theta=10/180*3.1415
+    n=0
+    if  (x-x_0-D)*np.cos(theta)+y*np.sin(theta)<0 and (x-x_0)*np.cos(theta)+y*np.sin(theta)>0 :
+        n=n_e
+    
+    
+    
+    n=n/1.741446424138715e+27
+    return n
+
+Species(
+    name = "electron1",
+    position_initialization = "regular",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = n1_profile, 
+
+    mean_velocity = [0.0, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+#        ["periodic", "periodic"],
+    ],
+)
+
+def n2_profile(x,y):
+    x=x*1.2732395447351627e-07+(0.0)-(-6e-05)
+    y=(y-Ly/2)*1.2732395447351627e-07+(0.0)-(0.0)
+    n=0.
+    Dy=5*10**(-6)
+    n_0=10**(20)
+    n=n_0*np.exp(-y**(2)/Dy**(2))
+    
+    n=n/1.741446424138715e+27
+    return n
+
+def ft2_profile(t):
+    t=t*4.247069967100916e-16-(2.0013846337321832e-13)
+    f=1
+    Dt=30*10**(-15)
+    f=np.exp(-t**(2)/Dt**(2))
+    
+    return f
+
+Species(
+    name = "electron2",
+    position_initialization = "random",
+    momentum_initialization = "cold",
+    particles_per_cell = 1,
+    c_part_max = 1.0,
+    mass = 1.0,
+    charge = -1.0,
+    number_density = 0., 
+
+    mean_velocity = [0.9999999687499995, 0.0, 0.0],
+    temperature = [0.0],
+    pusher = "boris",
+    time_frozen = 0.0,
+    boundary_conditions = [
+        ["remove", "remove"],
+        ["remove", "remove"],
+    ],
+)
+
+ParticleInjector(
+    species   = "electron2",
+    box_side  = "xmin",
+    time_envelope = ft2_profile,
+    number_density = n2_profile, 
+)
+
+
+
+LaserGaussian2D(
+    box_side         = "xmin",
+    a0               = 1.0,
+    omega            = 0.8,
+    focus            = [471.23889803846896, 353.4291735288517],
+    waist            = 78.53981633974483,
+    polarization_phi = 1.5707963267948966,
+    ellipticity      = 0.0,
+    time_envelope    = tgaussian(start=0.0, duration=235.45644591360667*4., fwhm=235.45644591360667, center=235.45644591360667*2., order=2.0, )
+)
+
+
+
+
+
+DiagFields(
+    fields = ['Rho','Jx','Jy','Bz','Ez'],
+    every = 400,
+)
+
+
+DiagTrackParticles(
+    species = "electron2",
+    every = 400,
+#    flush_every = 100,
+#    filter = my_filter,
+   attributes = ["x", "y", "px", "py", "w"]
+)
+
+
+
+
+
+DiagPerformances(
+    every = 50,
+)
+
+
+
+## end
+#777, 1882:
+%{
++[M函数](,输出代码)
+%}
+
+
+physics_constant;
+lm_0=800e-9;
+lm_r=lm_0;
+
+omega_r=c/lm_r*2*pi;
+T_r=1/omega_r;
+L_r=c/omega_r;
+
+v=0.999*c;
+t0=500e-15;
+Nt=100;
+pt0=[0.0, 0.0];
+pt1=[0.0, 0.0];
+L0=9e-05;
+L1=9e-05;
+W0=0.0002;
+W1=0.00011;
+
+DW=0.0002-0.00011;
+Dt=DW/v;
+if v==0
+    Dt=0;
+end
+t=linspace(0,t0+Dt,Nt);
+x1=0;
+
+nx=4992;
+ny=40;
+xi=linspace(0,W0,nx)+pt0(1);
+yi=linspace(0,L0,ny)-L0/2+pt0(2);
+[x,y]=meshgrid(xi,yi);
+
+tau2=100e-15*2.5;
+focus2=[60e-6,0];
+w_02=10e-6;
+% Gaussian beam
+z_R2=w_02^2*pi/lm_0;
+z=linspace(pt0(1),pt0(1)+W0,100);
+w2=w_02.*sqrt(1+((z-focus2(1))./(z_R2)).^(2));
+
+n_e=10.^(26);
+x_0=40.*10.^(-6);
+D=25.*10.^(-6);
+theta=10./180.*3.1415;
+n=0.*ones(size(x));
+n((x-x_0-D).*cos(theta)+y.*sin(theta)<0 & (x-x_0).*cos(theta)+y.*sin(theta)>0)=n_e;;
+
+n4=n;
+
+v3=[0.9999999687499995, 0.0, 0.0]*c;
+v_n3=v3/norm(v3);
+pt_e3=[-60e-6,0];
+
+
+clf
+hold on
+contourf(x,y,n4);
+h_p3=plot(pt_e3(1),pt_e3(2),'r*');
+h_t3=text(pt_e3(1),pt_e3(2),'electron3');
+plot([pt_e3(1),pt_e3(1)+v3(1)*t(end)],[pt_e3(2),pt_e3(2)+v3(2)*t(end)],'k--');
+
+rectangle('Position',[pt0(1),pt0(2)-L0/2,W0,L0],'FaceColor',[1,1,1,0.1]);
+h1=rectangle('Position',[pt1(1),pt1(2)-L1/2,W1,L1],'FaceColor',[1,1,1,0.1]);
+axis equal
+% axis([pt0(1),pt0(1)+W0,pt0(2)-L0,pt0(2)+L0])
+
+patch([z,fliplr(z)],focus2(2)+[w2/2,-fliplr(w2)/2],[1,0,0],'FaceAlpha',0.2)
+h2=rectangle('Position',[pt1(1)-c*tau2*1.2,pt1(2)-w2(1)/2,c*tau2/sqrt(2),w2(1)],'Curvature',[1,1],'FaceColor',[1,1,1,0.1]);
+
+colorbar
+
+for i=1:length(t)
+
+if t(i)>t0
+    x1=v*(t(i)-t0);
+end
+h1.Position(1)=x1+pt1(1);
+
+x3=pt_e3(1)+v3(1)*t(i);
+y3=pt_e3(2)+v3(2)*t(i);
+h_p3.XData=x3;
+h_p3.YData=y3;
+h_t3.Position(1)=x3;
+h_t3.Position(2)=y3;
+w_z2=w_02.*sqrt(1+((c*t(i)+pt1(1)-focus2(1))./(z_R2)).^(2));
+
+h2.Position(1)=c*t(i)+pt1(1)-c*tau2*1.2;
+h2.Position(2)=focus2(2)-w_z2/2;
+h2.Position(4)=w_z2;
+
+
+
+title(sprintf('T=%.2f fs, L=%.2f um',t(i)/1e-15,t(i)/1e-6*c))
+pause(0.03)
+
+end
+
+## end
+#781, 108:
+创建"文档\模拟\20221127_PM\1_long_e_10_deg"
++[打开]"文档\模拟\20221127_PM\1_long_e_10_deg"
+
+
+预览图:...
+NL文件:...
+计算散射角:...
+
+## end
+### 结束

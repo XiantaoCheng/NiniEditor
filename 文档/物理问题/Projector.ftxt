@@ -1,0 +1,479 @@
+### 节点
+地址, 的, Projector, 目录, 的, 的, 节点数目统计, 的, 笔记, 的, 参考, 的, Shape, 的, Shape2, 打开网页, 的, 算法, 的, 参考, 20220902, 的, 的, [1]., 手, 表达式, 的, 公式, 的, 的, [2]., 表达式, 的, 公式, 的, 的, [3]., 的, [4]., 的, [5]., 的, [6]., 的, [7]., 表达式, 的, 公式, 的, 表达式, 的, 公式, 的, 表达式, 的, 公式, 的, 表达式, 的, 公式, 的, 表达式, 的, 公式, 的, 验证公式, M函数, 打开网页, 的, 参考2, 打开网页, 读取, 打开网页, 20220903, 的, 的, [8]., 手, 的, 起点, 的, 表达式, 的, 公式, 起点, 的, 的, [9]., 的, [10]., 表达式, 的, 公式, 表达式, 的, 公式, 起点, 的, 起点, 的, 的, [11]., 的, [12]., 的, [13]., 表达式, 的, 公式, 起点, 的, 表达式, 的, 公式, 起点, 的, 表达式, 的, 公式, 起点, 的, 的, [14]., 的, [15]., 的, [16]., 表达式, 的, 公式, 表达式, 的, 公式, 起点, 的, 起点, 的, 表达式, 的, 公式, 起点, 的, 的, [17]., 的, [18]., 的, [19]., 表达式, 的, 公式, 起点, 的, 表达式, 的, 公式, 起点, 的, 表达式, 的, 公式, 起点, 的, 的, Shape_function, 的, 地址, 的, 测试, Shape_function, 的, 记忆, 的, 的, Shape_function, 中, 的, 保存, 的, dx影响, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 8#12, #, 8#14, #, #12, 2#17, #, 17#19, #, #, 6#20, 17#23, #, #17, #, 23#25, 23#, 25#del, 17#30, #, #, 30#31, 30#, 31#del, 17#36, #, 17#38, #, 17#40, #, 17#42, #, 17#44, #, #, 36#45, 36#, 45#del, #, 38#49, 38#, 49#del, #, 40#53, 40#, 53#del, #, 42#57, 42#, 57#del, #, 44#61, 44#, 17#65, #, 65#, #10, 17#69, #, #69, del#17, #69, #, 6#73, 17#76, #, #168, del#77, #del, 61#79, #, 76#81, 76#, #del, 81#84, 17#87, #, 17#89, #, #, 87#90, 87#, #, 89#93, 89#, #del, 93#96, #del, 90#98, 17#101, #, 17#103, #, 17#105, #, #, 101#106, 101#, #del, 106#109, #, 103#111, 103#, #del, 111#114, #, 105#116, 105#, #del, 116#119, 17#122, #, 17#124, #, 17#126, #, #, 122#127, 122#, #, 124#130, 124#, #del, 130#133, #del, 127#135, #, 126#137, 126#, #del, 137#140, 17#143, #, 17#145, #, 17#147, #, #, 143#148, 143#, #del, 148#151, #, 147#153, 147#, #del, 153#156, #, 145#158, 145#, #del, 158#161, 65#164, #, 164#166, #, 164#168, #, #164, 171#169, 3#, del#175, del#174, #, del#174, 168#177, #, 65#179, #, 
+### 内容
+#0, 22:
+文档\物理问题\Projector.ftxt
+## end
+#2, 86:
++[返回目录](,Projector)
+地址::文档\物理问题\Projector.ftxt
+
+
+
+算法(html):...
+
+笔记:...
++[新建阅读窗口](,笔记)
+
+## end
+#3, 53:
+Projector:...
+创建于 20220902
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 528:
+参考::file:///C:/Users/cheng/Desktop/paper/PIC/Esr00.pdf#page=4
+Shape::file:///C:/Users/cheng/Desktop/paper/PIC/Smilei.pdf#page=47
+Shape2::file:///C:/Users/cheng/Desktop/paper/PIC/PIClecture.pdf#page=4
++[打开网页](,参考)
+
+
+所以projector有两大部分, shape function(S(x,y,z))和density decompose
+Shape function的来历不清楚, 但是方法是统一的(应该是一种标准古老的方法了)
+DD是因为速度和位置不在同一时刻, 貌似直接用SF会导致电荷不守恒. Esirkepov发明的方法是, 强行找到一组W来保证电荷守恒
+而注意到, 在DD中, 局部电流在较远的格点上值为0. 所以, 从0开始加就好了
+
+
+1D2O:...
+2D2O:...
++[新建阅读窗口](,1D2O)
+
+韦伯不稳定性::file:///C:/Users/cheng/Desktop/paper/PIC/Morse70.pdf
+## end
+#10, 57:
+file:///C:/Users/cheng/Desktop/paper/PIC/Esr00.pdf#page=4
+## end
+#12, 59:
+file:///C:/Users/cheng/Desktop/paper/PIC/Smilei.pdf#page=47
+## end
+#14, 62:
+file:///C:/Users/cheng/Desktop/paper/PIC/PIClecture.pdf#page=4
+## end
+#17, 1898:
+<!--
++[H函数](,算法)
+参考::file:///C:/Users/cheng/Desktop/paper/PIC/Smilei.pdf#page=47
+参考2::file:///C:/Users/cheng/Desktop/paper/PIC/Esr00.pdf#page=6
++[打开网页](,参考2)
+-->
+
+<h2>Shape function</h2>
+The n-th order shape function is defined in the following way,
+%[1].
+Since \(P(x)=1\), if \(|x|\le\Delta x/2\) and \(P(x)=0\) otherwise, the function can also be written,
+%[2].
+The \(s(x,0)\) is,
+%[3].
+Then \(s(x,1)\) is,
+%[4].
+Then \(s(x,2)\) is,
+%[5].
+Then \(s(x,3)\) is,
+%[6].
+Then \(s(x,4)\) is,
+%[7].
+
+<h2>Density decomposition</h2>
+The method is proposed by T. Zh. Esirkepov to solve the charge conservation problem. The problem might be caused that the position and velocity of an electron were always not at the same time. <br>
+Position was calculated at \(t=1,2,3,...,i,i+1,...\) and velocity was calculated at \(t=1/2,1+1/2,2+1/2,...,i-1/2,i+1/2,...\). 
+In the DD algorithm, we use positions at time \(t_1=i,t_2=i+1\) and velocity at time \(t=i+1/2\) to get the current density on nodes at time \(t=i+1/2\). <br>
+The steps are,<br>
+1.Calculate \(W\) from \(S\);<br>
+2.Get \(\Delta J\) from \(W\);<br>
+3.Add up \(\Delta J\) to get \(J\). It is a local current density of an electron, so the current density should be always zero at 2 nodes away from the center.<br>
+
+<h3>3D grid</h3>
+Let's define the \(W_n\ _{i,j,k}\),
+%[8].
+%[9].
+%[10].
+\(W_n\ _{i,j,k}\) can be written as,
+%[11].
+%[12].
+%[13].
+
+<h3>2D grid</h3>
+\(W_n\ _{i,j}\) can be written as,
+%[14].
+%[15].
+\(J_z\ _{i,j}\) can be written as,
+%[16].
+
+<h3>1D grid</h3>
+\(W_x\ _{i}\) can be written as,
+%[17].
+\(J_n\ _{i,j}\) can be written as,
+%[18].
+%[19].
+
+<!--
+[19].:
+式(16)转换为"Matlab"
+将"J_y[i]=Q*V_y*(\frac{1}{2}*S[i](x+\Delta x)+\frac{1}{2}*S[i](x))"记作为式(18)
+式(4)转换为"Matlab"
+
+的([8].,表达式)->+[显示星图](,表达式)
+的([8].,表达式)->+[设置结构](,表达式)
+的([8].,表达式)->的(表达式,括号)->+[显示](,括号)
+
++[新建阅读窗口](,验证公式)
+验证公式(M函数):...
++[新建阅读窗口](,验证公式)
++[M函数](,验证公式)
++[H函数](,算法)
+-->
+## end
+#19, 59:
+file:///C:/Users/cheng/Desktop/paper/PIC/Smilei.pdf#page=47
+## end
+#20, 2:
+83
+## end
+#23, 81:
+s(x,n)=\Delta x^{-1}\ \int_{-\infty}^{\infty}{dx_{1}\ }{P(x_{1}-x)\ s(x_{1},n-1)}
+## end
+#25, 70:
+s(x,n)=\Delta x^{-1}*\int_{-\infty}^{\infty}{x_1}{P(x_1-x)*s(x_1,n-1)}
+## end
+#30, 79:
+s(x,n)=\Delta x^{-1}\ \int_{-\Delta x/2}^{\Delta x/2}{dx_{1}\ }{s(x+x_{1},n-1)}
+## end
+#31, 71:
+s(x,n)=\Delta x^{-1}*\int_{-\Delta x/2}^{\Delta x/2}{x_1}{s(x+x_1,n-1)}
+## end
+#36, 16:
+s(x,0)=\delta(x)
+## end
+#38, 91:
+s(x,1)=\begin{cases}
+1, & \left|x\right|\le \Delta x/2, &\\ 0, & otherwise, &
+\end{cases}
+
+
+## end
+#40, 134:
+s(x,2)=\begin{cases}
+\left(1-\left|\frac{x}{\Delta x}\right|\right), & \left|x\right|\le \Delta x, &\\ 0, & otherwise, &
+\end{cases}
+
+
+## end
+#42, 297:
+s(x,3)=\begin{cases}
+\frac{3}{4}\ \left(1-\frac{4}{3}\ \left(\frac{x}{\Delta x}\right)^{2}\right), & \left|x\right|\le \Delta x/2, &\\ \frac{9}{8}\ \left(1-\frac{2}{3}\ \left|\frac{x}{\Delta x}\right|\right)^{2}, & \Delta x/2\le \left|x\right|\le 3\ \Delta x/2, &\\ 0, & otherwise, &
+\end{cases}
+
+
+## end
+#44, 337:
+s(x,4)=\begin{cases}
+\frac{2}{3}\ \left(1-\frac{3}{2}\ \left(\frac{x}{\Delta x}\right)^{2}+\frac{3}{4}\ \left|\frac{x}{\Delta x}\right|^{3}\right), & \left|x\right|\le \Delta x, &\\ \frac{4}{3}\ \left(1-\frac{1}{2}\ \left|\frac{x}{\Delta x}\right|\right)^{3}, & \Delta x<\left|x\right|\le 2\ \Delta x, &\\ 0, & otherwise, &
+\end{cases}
+
+
+## end
+#45, 16:
+s(x,0)=\delta(x)
+## end
+#49, 42:
+s(x,1)=\eqs{1,[x]<=\Delta x/2;0,otherwise}
+## end
+#53, 63:
+s(x,2)=\eqs{(1-[\frac{x}{\Delta x}]),[x]<=\Delta x;0,otherwise}
+## end
+#57, 174:
+s(x,3)=\eqs{\frac{3}{4}*(1-\frac{4}{3}*(\frac{x}{\Delta x})^2),[x]<=\Delta x/2;
+\frac{9}{8}*(1-\frac{2}{3}*[\frac{x}{\Delta x}])^2,\Delta x/2<=[x]<=3*\Delta x/2;
+0,otherwise}
+## end
+#61, 202:
+s(x,4)=\eqs{\frac{2}{3}*(1-\frac{3}{2}*(\frac{x}{\Delta x})^2+\frac{3}{4}*[\frac{x}{\Delta x}]^3),[x]<=\Delta x;
+\frac{4}{3}*(1-\frac{1}{2}*[\frac{x}{\Delta x}])^3,\Delta x<[x]<=2*\Delta x;
+0,otherwise}
+## end
+#65, 706:
+%{
++[M函数](,验证公式)
+记住"Matlab"
+Shape_function(M函数):...
+dx影响:...
+%}
+
+addpath('Matlab\Smilei')
+dX=10e-6;
+N=100;
+n=16;
+
+% Jy0=100;
+Jy0=100;
+dJy=10.5;
+lm_0=dX;
+
+X=(0:N)*dX;
+% x=rand(n,N);
+x=0.51*ones(n,N);
+x2=x*dX+X(1:end-1);
+dx=0.1*sin(x2/lm_0*2.1);
+x=x+dx;
+
+xs=x*dX+X(1:end-1);
+xs=reshape(xs,1,numel(xs));
+Jy=Jy0+dJy*sin(xs/lm_0);
+
+% wave
+xs_w=linspace(min(X),max(X),30*N);
+Jy_w=Jy0+dJy*sin(xs_w/lm_0);
+
+
+S=@(x)Shape_function(x,dX,4);
+
+f=zeros(size(X));
+for i=1:length(xs)
+f=f+Jy(i)*S(X-xs(i))/n;
+end
+
+% Df=1.5*(max(f(4:end-3))-min(f(4:end-3)));
+% mf=mean([max(f(4:end-3)),min(f(4:end-3))]);
+Df=4*dJy;
+mf=Jy0;
+
+% plot(xs,Jy,'.',X,f)
+plot(xs_w,Jy_w,X,f)
+axis([min(X),max(X),mf-Df/2,mf+Df/2])
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#69, 57:
+file:///C:/Users/cheng/Desktop/paper/PIC/Esr00.pdf#page=6
+## end
+#73, 3:
+180
+## end
+#76, 68:
+J_{x}\ _{i+1,j,k}-J_{x}\ _{i,j,k}=-Q\ \frac{dx}{dt}\ W_{x}\ _{i,j,k}
+## end
+#81, 57:
+J_x[i+1,j,k]-J_x[i,j,k]=-Q*\frac{\d{x}}{\d{t}}*W_x[i,j,k]
+## end
+#87, 68:
+J_{y}\ _{i,j+1,k}-J_{y}\ _{i,j,k}=-Q\ \frac{dx}{dt}\ W_{y}\ _{i,j,k}
+## end
+#89, 68:
+J_{z}\ _{i,j,k+1}-J_{z}\ _{i,j,k}=-Q\ \frac{dx}{dt}\ W_{z}\ _{i,j,k}
+## end
+#90, 57:
+J_y[i,j+1,k]-J_y[i,j,k]=-Q*\frac{\d{x}}{\d{t}}*W_y[i,j,k]
+## end
+#93, 57:
+J_z[i,j,k+1]-J_z[i,j,k]=-Q*\frac{\d{x}}{\d{t}}*W_z[i,j,k]
+## end
+#101, 221:
+W_{x}\ _{i,j,k}=\left(S\ _{i}(x+\Delta x)-S\ _{i}(x)\right)\ \left(\frac{1}{3}\ S\ _{j,k}(y+\Delta y,z+\Delta z)+\frac{1}{6}\ S\ _{j,k}(y,z+\Delta z)+\frac{1}{6}\ S\ _{j,k}(y+\Delta y,z)+\frac{1}{3}\ S\ _{j,k}(y,z)\right)
+## end
+#103, 221:
+W_{y}\ _{i,j,k}=\left(S\ _{j}(y+\Delta y)-S\ _{j}(y)\right)\ \left(\frac{1}{3}\ S\ _{i,k}(x+\Delta x,z+\Delta z)+\frac{1}{6}\ S\ _{i,k}(x,z+\Delta z)+\frac{1}{6}\ S\ _{i,k}(x+\Delta x,z)+\frac{1}{3}\ S\ _{i,k}(x,z)\right)
+## end
+#105, 221:
+W_{z}\ _{i,j,k}=\left(S\ _{k}(z+\Delta z)-S\ _{k}(z)\right)\ \left(\frac{1}{3}\ S\ _{i,j}(x+\Delta x,y+\Delta y)+\frac{1}{6}\ S\ _{i,j}(x,y+\Delta y)+\frac{1}{6}\ S\ _{i,j}(x+\Delta x,y)+\frac{1}{3}\ S\ _{i,j}(x,y)\right)
+## end
+#106, 171:
+W_x[i,j,k]=(S[i](x+\Delta x)-S[i](x))*(\frac{1}{3}*S[j,k](y+\Delta y,z+\Delta z)+\frac{1}{6}*S[j,k](y,z+\Delta z)+\frac{1}{6}*S[j,k](y+\Delta y,z)+\frac{1}{3}*S[j,k](y,z))
+## end
+#111, 171:
+W_y[i,j,k]=(S[j](y+\Delta y)-S[j](y))*(\frac{1}{3}*S[i,k](x+\Delta x,z+\Delta z)+\frac{1}{6}*S[i,k](x,z+\Delta z)+\frac{1}{6}*S[i,k](x+\Delta x,z)+\frac{1}{3}*S[i,k](x,z))
+## end
+#116, 171:
+W_z[i,j,k]=(S[k](z+\Delta z)-S[k](z))*(\frac{1}{3}*S[i,j](x+\Delta x,y+\Delta y)+\frac{1}{6}*S[i,j](x,y+\Delta y)+\frac{1}{6}*S[i,j](x+\Delta x,y)+\frac{1}{3}*S[i,j](x,y))
+## end
+#122, 128:
+W_{x}\ _{i,j}=\left(S\ _{i}(x+\Delta x)-S\ _{i}(x)\right)\ \left(\frac{1}{2}\ S\ _{j}(y+\Delta y)+\frac{1}{2}\ S\ _{j}(y)\right)
+## end
+#124, 128:
+W_{y}\ _{i,j}=\left(S\ _{j}(y+\Delta y)-S\ _{j}(y)\right)\ \left(\frac{1}{2}\ S\ _{i}(x+\Delta x)+\frac{1}{2}\ S\ _{i}(x)\right)
+## end
+#126, 184:
+J_{z}\ _{i,j}=Q\ V_{z}\ \left(\frac{1}{3}\ S\ _{i,j}(x+\Delta x,y+\Delta y)+\frac{1}{6}\ S\ _{i,j}(x,y+\Delta y)+\frac{1}{6}\ S\ _{i,j}(x+\Delta x,y)+\frac{1}{3}\ S\ _{i,j}(x,y)\right)
+## end
+#127, 86:
+W_x[i,j]=(S[i](x+\Delta x)-S[i](x))*(\frac{1}{2}*S[j](y+\Delta y)+\frac{1}{2}*S[j](y))
+## end
+#130, 86:
+W_y[i,j]=(S[j](y+\Delta y)-S[j](y))*(\frac{1}{2}*S[i](x+\Delta x)+\frac{1}{2}*S[i](x))
+## end
+#137, 148:
+J_z[i,j]=Q*V_z*(\frac{1}{3}*S[i,j](x+\Delta x,y+\Delta y)+\frac{1}{6}*S[i,j](x,y+\Delta y)+\frac{1}{6}*S[i,j](x+\Delta x,y)+\frac{1}{3}*S[i,j](x,y))
+## end
+#143, 55:
+W_{x}\ _{i}=\left(S\ _{i}(x+\Delta x)-S\ _{i}(x)\right)
+## end
+#145, 91:
+J_{y}\ _{i}=Q\ V_{y}\ \left(\frac{1}{2}\ S\ _{i}(x+\Delta x)+\frac{1}{2}\ S\ _{i}(x)\right)
+## end
+#147, 91:
+J_{z}\ _{i}=Q\ V_{z}\ \left(\frac{1}{2}\ S\ _{i}(x+\Delta x)+\frac{1}{2}\ S\ _{i}(x)\right)
+## end
+#148, 33:
+W_x[i]=(S[i](x+\Delta x)-S[i](x))
+## end
+#153, 63:
+J_z[i]=Q*V_z*(\frac{1}{2}*S[i](x+\Delta x)+\frac{1}{2}*S[i](x))
+## end
+#158, 63:
+J_y[i]=Q*V_y*(\frac{1}{2}*S[i](x+\Delta x)+\frac{1}{2}*S[i](x))
+## end
+#164, 848:
+%{
+地址::Matlab\Smilei\Shape_function.m
+测试:...
++[保存M函数](,Shape_function)
+%}
+
+function S=Shape_function(xs,Delta_x,n)
+
+if n==1
+    S=ones(size(xs));
+    S(xs<-Delta_x/2 | xs>=Delta_x/2)=0;
+elseif n==2
+    S=1-abs((xs)./(Delta_x));
+    S(abs(xs)>Delta_x)=0;
+elseif n==3
+    S=zeros(size(xs));
+    S(Delta_x./2<=abs(xs) & abs(xs)<=3.*Delta_x./2)=9/8*(1-2/3.*abs((xs(Delta_x./2<=abs(xs) & abs(xs)<=3.*Delta_x./2))./(Delta_x))).^2;
+    S(abs(xs)<=Delta_x./2)=3/4*(1-4/3*(xs(abs(xs)<=Delta_x./2)./(Delta_x)).^2);
+else
+    S=zeros(size(xs));
+    S(Delta_x<abs(xs) & abs(xs)<= 2.*Delta_x)=(4)./(3).*(1-(1)./(2).*abs((xs(Delta_x<abs(xs) & abs(xs)<= 2.*Delta_x))./(Delta_x))).^(3);
+    S(abs(xs)<= Delta_x)=(2)./(3).*(1-(3)./(2).*((xs(abs(xs)<= Delta_x))./(Delta_x)).^(2)+(3)./(4).*abs((xs(abs(xs)<= Delta_x))./(Delta_x)).^(3));
+end
+
+
+end
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#166, 30:
+Matlab\Smilei\Shape_function.m
+## end
+#168, 362:
+%{
++[M函数](,测试)
+保存:...
+%}
+
+addpath('Matlab\Smilei')
+Delta_x=1;
+xs=linspace(-2.5,2.5,1001)*Delta_x;
+S1=Shape_function(xs,Delta_x,1);
+S2=Shape_function(xs,Delta_x,2);
+S3=Shape_function(xs,Delta_x,3);
+S4=Shape_function(xs,Delta_x,4);
+
+plot(xs,S1,xs,S2,xs,S3,xs,S4)
+axis equal
+legend('s_1','s_2','s_3','s_4')
+xlabel('Normalized distance [\Deltax]')
+
+%{
++[M函数](,测试)
+%}
+## end
+#177, 857:
+%{
++[M函数](,测试)
+保存:
+%}
+
+Delta_x=1;
+xs=linspace(-2.5,2.5,1001)*Delta_x;
+S1=xs;
+S2=xs;
+S3=xs;
+S4=xs;
+
+S1=ones(size(xs));
+S1(abs(xs)>Delta_x/2)=0;
+
+S2=1-abs((xs)./(Delta_x));
+S2(abs(xs)>Delta_x)=0;
+
+S3=zeros(size(xs));
+S3(Delta_x./2<=abs(xs) & abs(xs)<=3.*Delta_x./2)=9/8*(1-2/3.*abs((xs(Delta_x./2<=abs(xs) & abs(xs)<=3.*Delta_x./2))./(Delta_x))).^2;
+S3(abs(xs)<=Delta_x./2)=3/4*(1-4/3*(xs(abs(xs)<=Delta_x./2)./(Delta_x)).^2);
+
+S4=zeros(size(xs));
+S4(Delta_x<abs(xs) & abs(xs)<= 2.*Delta_x)=(4)./(3).*(1-(1)./(2).*abs((xs(Delta_x<abs(xs) & abs(xs)<= 2.*Delta_x))./(Delta_x))).^(3);
+S4(abs(xs)<= Delta_x)=(2)./(3).*(1-(3)./(2).*((xs(abs(xs)<= Delta_x))./(Delta_x)).^(2)+(3)./(4).*abs((xs(abs(xs)<= Delta_x))./(Delta_x)).^(3));
+
+
+plot(xs,S1,xs,S2,xs,S3,xs,S4)
+axis equal
+legend('s_1','s_2','s_3','s_4')
+xlabel('Normalized distance [\Deltax]')
+
+%{
++[M函数](,测试)
+%}
+## end
+#179, 697:
+%{
++[M函数](,验证公式)
+记住"Matlab"
+Shape_function(M函数):...
+%}
+
+addpath('Matlab\Smilei')
+dX=10e-6;
+N=100;
+n=16;
+
+% Jy0=100;
+Jy0=100;
+dJy=10.5;
+lm_0=dX;
+
+X=(0:N)*dX;
+% x=rand(n,N);
+x=0.51*ones(n,N);
+x2=x*dX+X(1:end-1);
+dx=0.1*sin(x2/lm_0*2.1);
+x=x+dx;
+
+xs=x*dX+X(1:end-1);
+xs=reshape(xs,1,numel(xs));
+Jy=Jy0+dJy*sin(xs/lm_0);
+
+% wave
+xs_w=linspace(min(X),max(X),30*N);
+Jy_w=Jy0+dJy*sin(xs_w/lm_0);
+
+
+S=@(x)Shape_function(x,dX,4);
+
+f=zeros(size(X));
+for i=1:length(xs)
+f=f+Jy(i)*S(X-xs(i))/n;
+end
+
+% Df=1.5*(max(f(4:end-3))-min(f(4:end-3)));
+% mf=mean([max(f(4:end-3)),min(f(4:end-3))]);
+Df=4*dJy;
+mf=Jy0;
+
+% plot(xs,Jy,'.',X,f)
+plot(xs_w,Jy_w,X,f)
+axis([min(X),max(X),mf-Df/2,mf+Df/2])
+
+%{
++[M函数](,验证公式)
+%}
+## end
+### 结束

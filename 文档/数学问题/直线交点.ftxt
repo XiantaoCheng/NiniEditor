@@ -1,0 +1,1010 @@
+### 节点
+地址, 的, 直线交点, 目录, 的, 的, 几何画板, 的, 描述参考, 的, 公式, html, 的, 动词, 库, 的, 描述, 的, 回答, 的, 的, 求两直线交点, 的, 匹配模板, 的, 输出模板, 的, 例句, 的, 问题, 的, 直线方程1, 的, 匹配模板, 的, 输出模板, 的, 直线方程2, 的, 匹配模板, 的, 输出模板, 的, 平面交点, html, 的, t_B, 公式, 的, 公式验证, M函数, 的, Plane_intersection, M函数, 的, 地址, 的, 公式验证, M函数, 的, intersection_lines, M函数, 的, 地址, intersection_lines, 的, 记忆, intersection_lines, 的, intersection_lines_dir_pt, M函数, 的, 地址, intersection_lines_dir_pt, 的, intersection_lines_dir_pt, 路径1, 的, y, 的, x, 的, 路线y, 的, 路线x, 的, 箭头宽度, 的, 箭头长度, 的, 宽度, 的, 类型, 的, 的, intersection_lines_path, M函数, 的, 地址, intersection_lines_path, 的, intersection_lines_path, 的, 保存, 的, 测试, 的, intersection_line_curve, M函数, 的, 测试, 的, 地址, intersection_line_lines, 的, intersection_line_lines, intersection_line_curve, 的, intersection_line_curve, 的, 两曲线相交, 的, intersection_curve_curve, M函数, 的, 测试, 的, 地址, intersection_curve_curve, 的, intersection_curve_curve, 的, 正弦函数, 的, 测试顶点交点, 的, 光线追踪, 的, [1]., 的, [2]., 的, [3]., 的, [4]., 的, [5]., 的, [6]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, 公式验证_P, 的, [7]., 的, [8]., 的, [9]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, b, 的, a, 的, 的, [10]., 的, [11]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [12]., 手, 表达式, 的, 公式, Plane_intersection, 的, Plane_intersection, 的, intersection_plane_3D, M函数, 的, 地址, intersection_plane_3D, 的, intersection_plane_3D, 的, reflect_refract_plane_3D, M函数, 的, 地址, reflect_refract_plane_3D, 的, reflect_refract_plane_3D, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 2#10, #, 10#, 2#13, #, #, 16#14, #, 13#16, #, 13#18, 14#21, #, 21#23, #, 21#25, #, 2#27, #, 27#29, #, 14#31, #, 31#33, #, 31#35, #, 14#37, #, 37#39, #, 37#41, #, 2#43, #, 43#, 43#46, #, 46#, 43#49, #, 49#, 49#52, #, 52#, 52#55, #, 10#57, #, 57#, 57#60, #, 60#, 60#63, #, #60, 66#64, 3#, #, 57#69, #, 69#, 69#72, #, #69, 66#73, #, #, 2#76, #, 76#78, #, 76#80, #, 76#82, #, 76#84, #, 76#86, #, 76#88, #, 76#90, #, 76#92, 57#95, #, 95#, 95#98, #, #95, 66#99, #, 60#103, #, 60#105, #, 57#107, #, 107#, 107#110, #, 107#112, #, #107, 66#113, #, #107, 66#116, #, 107#120, #, 120#122, #, 122#, 122#125, #, 122#127, #, #122, 66#128, #, 120#132, #, 107#134, #, 43#136, #, 43#138, #, 43#140, #, 43#142, #, 43#144, #, 43#146, #, 43#148, #, #, 138#149, 138#, #, 140#152, 140#, #, 142#155, 142#, #, 144#158, 144#, #, 146#161, 146#, #, 148#164, 148#, 43#168, #, 43#170, #, 43#172, #, 43#174, #, #, 170#175, 170#, #, 172#178, 172#, #, 174#181, 174#, #, 178#184, #, 178#186, 43#189, #, 43#191, #, #, 189#192, 189#, #, 191#195, 191#, 43#199, #, #43, #, 199#201, 199#, #52, 66#204, #, 49#208, #, 208#, 208#211, #, #208, 66#212, #, 49#216, #, 216#, 216#219, #, #216, 66#220, #, 
+### 内容
+#0, 17:
+文档\数学问题\直线交点.ftxt
+## end
+#2, 252:
++[返回目录](,直线交点)
+地址::文档\数学问题\直线交点.ftxt
+
+几何画板::文档\S应用\几何样本库.ftxt
++[打开文件](+新窗口,几何画板)
+描述参考::文档\S应用\光路设计.ftxt
++[打开文件](+新窗口,描述参考)
+Nini, 导入网页画板的库
+
+
+动词:...
++[设置动词](,动词)
++[新建阅读窗口](,动词)
+
+公式(html):...
+平面交点(html):...
+平面交点的"平面镜反射公式"替换为"平面交点"
++[新建阅读窗口](,公式)
+例句:...
+
+
+
+## end
+#3, 48:
+直线交点:...
+创建于 20210905
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 17:
+文档\S应用\几何样本库.ftxt
+## end
+#8, 16:
+文档\S应用\光路设计.ftxt
+## end
+#10, 1205:
+<!--
++[H函数](,公式)
+-->
+
+<b><u>Linear equations</u></b><br>
+There are several ways to describe a straight line. <br>
+If we know two points on a line, which are \((x_1,y_1)\) and \((x_2,y_2)\), then, 
+$$
+\frac{x-x_1}{y-y_1}=\frac{x_2-x_1}{y_2-y_1}\equiv \frac{\Delta x}{\Delta y}
+$$
+Or,
+$$
+x \Delta y-y \Delta x= D
+$$$$
+D=x_1 (y_2-y_1) - y_1 (x_2-x_1)=x_1 y_2-y_1 x_2
+$$$$
+\Delta x= x_2-x_1,\ \Delta y=y_2-y_1
+$$
+If we know the angle of a line and a point on the line, which are \((x_0,y_0)\) and \(\theta\), then, 
+$$
+sin\ \theta (x-x_0) - cos\ \theta (y-y_0) =0
+$$
+Or,
+$$
+x\Delta y - y\Delta x =D
+$$$$
+D= x_0\ sin\ \theta - y_0\ cos\ \theta
+$$$$
+\Delta x=cos\ \theta, \Delta y=sin\ \theta
+$$
+
+<!--
++[H函数](,公式)
+-->
+<br><br><br><br>
+
+<b><u>Intersection of two lines</u></b><br>
+所以, 两条直线, \(l\)和\(l'\) 的交点为, 
+$$
+\begin{cases}
+x \Delta y-y \Delta x= D
+\\
+x \Delta y'-y \Delta x'= D'
+\end{cases}
+$$
+其中, \(x\)是, 
+$$
+x(\Delta y/\Delta x - \Delta y'/\Delta x')=(D/\Delta x - D'/\Delta x')
+\\\Rightarrow
+x=\frac{D \Delta x' - D' \Delta x}{\Delta y \Delta x' - \Delta y' \Delta x}
+$$
+以及, \(y\)是,
+$$
+y=\frac{D \Delta y' - D' \Delta y}{\Delta y \Delta x' - \Delta y' \Delta x}
+$$
+
+
+
+
+<!--
+公式验证(M函数):...
+
++[H函数](,公式)
+-->
+## end
+#13, 41:
++[返回目录](,动词)
+
+
+描述:...
+回答:...
++[粘贴](,动词)
+
+
+## end
+#14, 58:
++[返回目录](,库)
++[删除结构](,库)
+
+求两直线交点:...
+直线方程1:...
+直线方程2:...
+
+
+
+## end
+#16, 278:
+"""
++[返回目录](,描述)
+库:...
+
+"""
++描述(_句子,_结构)->+[del](,+描述)...
+->的(描述,库)...
+->的(库,_模板)->的(_模板,匹配模板)->[模式匹配](匹配模板,_句子)->的(_模板,输出模板)...
+->+[转述](_句子,+[临时文本])->+[匹配模板](+[转述],匹配模板)->+[输出模板](+[转述],输出模板):
+    ->_结构->+[修改内容](+[临时文本],_结构),
+    ->+[复制内容](,+[临时文本])->+[修改内容](+[临时文本],+[显示])
+
+
+
+
+
+## end
+#18, 97:
+"""
++[返回目录](,回答)
+
+"""
+
++回答(,_问题)->+[del](,+回答)...
+->+[描述](_问题,+答案)->+[S函数](,+答案)->+[del](,+答案)
+
+
+
+## end
+#21, 273:
++[返回目录](,求两直线交点)
+
+匹配模板::如果有两条直线, 分别为, x%[Dy1]-y%[Dx1]=%[D1], x%[Dy2]-y%[Dx2]=%[D2], 那么交点位于哪里
+输出模板::
+$$
+\begin{cases}
+x=\frac{%[D1] %[Dx2] - %[D2] %[Dx1]}{%[Dy1] %[Dx2] - %[Dy2] %[Dx1]}
+\\
+y=\frac{%[D1] %[Dy2] - %[D2] %[Dy1]}{%[Dy1] %[Dx2] - %[Dy2] %[Dx1]}
+\end{cases}
+$$
+
+
+
+## end
+#23, 68:
+如果有两条直线, 分别为, x%[Dy1]-y%[Dx1]=%[D1], x%[Dy2]-y%[Dx2]=%[D2], 那么交点位于哪里
+## end
+#25, 171:
+
+$$
+\begin{cases}
+x=\frac{%[D1] %[Dx2] - %[D2] %[Dx1]}{%[Dy1] %[Dx2] - %[Dy2] %[Dx1]}
+\\
+y=\frac{%[D1] %[Dy2] - %[D2] %[Dy1]}{%[Dy1] %[Dx2] - %[Dy2] %[Dx1]}
+\end{cases}
+$$
+## end
+#27, 220:
++[返回目录](,例句)
+
+
+问题::如果有两条直线, 分别为, x\Delta y-y\Delta x=D, x\Delta y'-y\Delta x'=D', 那么交点位于哪里? 
+问题::如果一条直线经过两点, (x_1,y_1)和(x_2,y_2), 那么这条直线的方程是什么? 
+问题::如果一条直线经过一点, (x_0,y_0), 且这条直线和x轴的夹角是\theta, 那么这条直线的方程是什么? 
++[描述](问题,)
+
+
+
+## end
+#29, 47:
+如果一条直线经过两点, (x_1,y_1)和(x_2,y_2), 那么这条直线的方程是什么? 
+## end
+#31, 191:
++[返回目录]
+
+匹配模板::如果一条直线经过两点, \(%[x1],%[y1]\)和\(%[x2],%[y2]\), 那么这条直线的方程是什么
+输出模板::
+$$
+x \Delta y-y \Delta x= D
+$$$$
+D=%[x1] %[y2]-%[y1] %[x2]
+$$$$
+\Delta x= %[x2]-%[x1],\ \Delta y=%[y2]-%[y1]
+$$
+## end
+#33, 57:
+如果一条直线经过两点, \(%[x1],%[y1]\)和\(%[x2],%[y2]\), 那么这条直线的方程是什么
+## end
+#35, 112:
+
+$$
+x \Delta y-y \Delta x= D
+$$$$
+D=%[x1] %[y2]-%[y1] %[x2]
+$$$$
+\Delta x= %[x2]-%[x1],\ \Delta y=%[y2]-%[y1]
+$$
+## end
+#37, 214:
++[返回目录]
+
+匹配模板::如果一条直线经过一点, \(%[x0],%[y0]\), 且这条直线和x轴的夹角是%[theta], 那么这条直线的方程是什么
+输出模板::
+$$
+x \Delta y-y \Delta x= D
+$$$$
+D=%[x0] sin %[theta]-%[y0] cos %[theta]
+$$$$
+\Delta x= cos %[theta],\ \Delta y= sin %[theta]
+$$
+## end
+#39, 63:
+如果一条直线经过一点, \(%[x0],%[y0]\), 且这条直线和x轴的夹角是%[theta], 那么这条直线的方程是什么
+## end
+#41, 128:
+$$
+x \Delta y-y \Delta x= D
+$$$$
+D=%[x0] sin %[theta]-%[y0] cos %[theta]
+$$$$
+\Delta x= cos %[theta],\ \Delta y= sin %[theta]
+$$
+## end
+#43, 786:
+<!--
++[H函数](,平面交点)
+
+光线追踪::https://en.wikipedia.org/wiki/Ray_tracing_(graphics)
+t_B(公式):...
+-->
+
+<h2>3D plane</h2>
+The plane function is, 
+%[1].
+If the plane is facing the z-axis, for the Euler angles \((\alpha, \beta, \gamma)\), then, 
+%[2].
+Then, for a line, 
+%[3].
+The intersection point \(B\) of the plane and line is, 
+%[4].
+%[5].
+%[6].
+
+
+We can also re-write them in vector equations. The plane function is, 
+%[7].
+The line function is,
+%[8].
+The intersection can be solved by,
+%[9].
+%[10].
+Or,
+%[11].
+%[12].
+
+<!--
+[12].:
+式(12)转换为"Python"
+将"t=\frac{f_x*(x_0-x_A)+f_y*(y_0-y_A)+f_z*(z_0-z_A)}{f_x*(x_B-x_A)+f_y*(y_B-y_A)+f_z*(z_B-z_A)}"记作为式(12)
+t=(np.dot(f,(r_0-r_A)))/(np.dot(f,(r_B-r_A)))
+
+更新式(9)
+公式验证(M函数):...
+公式验证_P(P函数):...
++[新建阅读窗口](,公式验证)
++[新建阅读窗口](,公式验证_P)
++[H函数](,平面交点)
+-->
+## end
+#46, 75:
+t_B 
+=
+\frac{a (x_0-x_A) + b (y_0-y_A) +c (z_0-z_A)}
+{av_1 + b v_2 + c v_3}
+## end
+#49, 507:
+%{
++[M函数](,公式验证)
+Nini, 打开曲面交点的reflect_refract_sphere_3D(节点)
+
+Plane_intersection(M函数):...
+
+intersection_plane_3D(M函数):...
+reflect_refract_plane_3D(M函数):...
+
+%}
+
+% boundary
+xb=[0,0,1,1,0,0,1,1];
+yb=[0,1,1,0,0,1,1,0];
+zb=[0,0,0,0,1,1,1,1];
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+plot3(xb,yb,zb,'b.')
+for i=1:length(xb)
+    text(xb(i),yb(i),zb(i),sprintf("%d",i))
+end
+for i=1:size(faces,1)
+    fs=faces(i,:);
+    patch(xb(fs),yb(fs),zb(fs),[1,1,1])
+end
+axis equal
+
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#52, 481:
+%{
+地址::Matlab/space/Plane_intersection.m
++[保存M函数](,Plane_intersection)
+%}
+function [x_B,y_B,z_B,t_B]=Plane_intersection(x_A,y_A,z_A,v1_x,v1_y,v1_z,r0,Eulers)
+% r0=[0,0,0];
+
+alpha=Eulers(1);
+beta=Eulers(2);
+gamma=Eulers(3);
+
+s=[sind(alpha)*sind(beta), -cosd(alpha)*sind(beta), cosd(beta)];
+A=s(1)*v1_x+s(2)*v1_y+s(3)*v1_z;
+
+t_B=(s(1)*(r0(1)-x_A)+s(2)*(r0(2)-y_A)+s(3)*(r0(3)-z_A))./A;
+x_B=v1_x.*t_B+x_A;
+y_B=v1_y.*t_B+y_A;
+z_B=v1_z.*t_B+z_A;
+
+end
+
+
+%{
++[M函数](,Plane_intersection)
+%}
+## end
+#55, 33:
+Matlab/space/Plane_intersection.m
+## end
+#57, 439:
+%{
++[M函数](,公式验证)
+
+intersection_lines(M函数):...
+intersection_line_curve(M函数):...
+intersection_lines_dir_pt(M函数):...
+intersection_lines_path(M函数):...
+%}
+
+addpath('Matlab\space')
+
+x1=[2,0];
+y1=[0.2,0.5];
+x2=[0,1,2,3];
+y2=[0,1,0,1];
+
+[x0,y0,i,xs0,ys0,on_line1,on_line2]=intersection_line_curve(x1,y1,x2,y2);
+
+clf
+plot(x1,y1,x2,y2,xs0(on_line2),ys0(on_line2),'o',xs0(on_line1&on_line2),ys0(on_line1&on_line2),'*')
+axis equal
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#60, 413:
+%{
++[返回目录](,intersection_lines)
+地址::Matlab\space\intersection_lines.m
++[保存M函数](,intersection_lines)
+
+测试:...
+保存:...
+%}
+
+function [x0,y0]=intersection_lines(L1x,L1y,L2x,L2y)
+x1=L1x;
+y1=L1y;
+x2=L2x;
+y2=L2y;
+D1=x1(1).*y1(2)-x1(2).*y1(1);
+D2=x2(1).*y2(2)-x2(2).*y2(1);
+Dx1=x1(2)-x1(1);
+Dx2=x2(2)-x2(1);
+Dy1=y1(2)-y1(1);
+Dy2=y2(2)-y2(1);
+x0=(D1*Dx2-D2*Dx1)/(Dy1*Dx2-Dy2*Dx1);
+y0=(D1*Dy2-D2*Dy1)/(Dy1*Dx2-Dy2*Dx1);
+end
+
+
+## end
+#63, 33:
+Matlab\space\intersection_lines.m
+## end
+#69, 379:
+%{
++[返回目录](,intersection_lines_dir_pt)
+地址::Matlab\space\intersection_lines_dir_pt.m
++[保存M函数](,intersection_lines_dir_pt)
+%}
+
+function [x0,y0,X1,Y1,X2,Y2]=intersection_lines_dir_pt(pt1,theta1,pt2,theta2)
+X1=[pt1(1),pt1(1)+cos(theta1)];
+Y1=[pt1(2),pt1(2)+sin(theta1)];
+X2=[pt2(1),pt2(1)+cos(theta2)];
+Y2=[pt2(2),pt2(2)+sin(theta2)];
+
+[x0,y0]=intersection_lines(X1,Y1,X2,Y2);
+
+end
+
+
+## end
+#72, 40:
+Matlab\space\intersection_lines_dir_pt.m
+## end
+#78, 3:
+0,1
+## end
+#80, 3:
+0,1
+## end
+#86, 3:
+1.0
+## end
+#88, 3:
+1.0
+## end
+#90, 3:
+1.0
+## end
+#92, 4:
+路线箭头
+## end
+#95, 560:
+%{
++[返回目录](,intersection_lines_path)
+地址::Matlab\space\intersection_lines_path.m
++[保存M函数](,intersection_lines_path)
+Nini, 打开图形库(文件)
+这个函数用来产生有宽度路径箭头
+x_0和dxs都是array
+它们是一组直线的点和方向, 这里计算了每两条直线的交点
+%}
+
+function [x_s,y_s]=intersection_lines_path(x_0,y_0,dxs,dys)
+
+D_s=x_0.*dys-y_0.*dxs;
+
+D_1=D_s(1:end-1);
+D_2=D_s(2:end);
+Delta_x1=dxs(1:end-1);
+Delta_y1=dys(1:end-1);
+Delta_x2=dxs(2:end);
+Delta_y2=dys(2:end);
+
+x_s=(D_1.*Delta_x2-D_2.*Delta_x1)./(Delta_y1.*Delta_x2-Delta_y2.*Delta_x1);
+y_s=(D_1.*Delta_y2-D_2.*Delta_y1)./(Delta_y1.*Delta_x2-Delta_y2.*Delta_x1);
+
+end
+
+
+## end
+#98, 38:
+Matlab\space\intersection_lines_path.m
+## end
+#103, 398:
+%{
++[返回目录](,intersection_lines)
+地址::Matlab\space\intersection_lines.m
++[保存M函数](,intersection_lines)
+%}
+
+function [x0,y0]=intersection_lines(L1x,L1y,L2x,L2y)
+x1=L1x;
+y1=L1y;
+x2=L2x;
+y2=L2y;
+D1=x1(1).*y1(2)-x1(2).*y1(1);
+D2=x2(1).*y2(2)-x2(2).*y2(1);
+Dx1=x1(2)-x1(1);
+Dx2=x2(2)-x2(1);
+Dy1=y1(2)-y1(1);
+Dy2=y2(2)-y2(1);
+x0=(D1*Dx2-D2*Dx1)/(Dy1*Dx2-Dy2*Dx1);
+y0=(D1*Dy2-D2*Dy1)/(Dy1*Dx2-Dy2*Dx1);
+end
+
+
+## end
+#105, 323:
+%{
++[M函数](,测试)
+%}
+
+x1=[1,0];
+y1=[0,0.5];
+x2=[0,1,2,3];
+y2=[0,1,0,1];
+
+D1=x1(1).*y1(2)-x1(2).*y1(1);
+D2=x2(1).*y2(2)-x2(2).*y2(1);
+Dx1=x1(2)-x1(1);
+Dx2=x2(2)-x2(1);
+Dy1=y1(2)-y1(1);
+Dy2=y2(2)-y2(1);
+x0=(D1*Dx2-D2*Dx1)/(Dy1*Dx2-Dy2*Dx1);
+y0=(D1*Dy2-D2*Dy1)/(Dy1*Dx2-Dy2*Dx1);
+
+
+plot(x1,y1,x2,y2)
+axis equal
+
+%{
++[M函数](,测试)
+%}
+## end
+#107, 1012:
+%{
++[保存M函数](,intersection_line_curve)
+地址::Matlab\draw\intersection_line_curve.m
+
+测试:...
+
+两曲线相交:...
+测试顶点交点:...
++[新建阅读窗口](,测试顶点交点)
+%}
+
+function [x0,y0,i,xs0,ys0,on_line1,on_line2]=intersection_line_curve(x1,y1,x2,y2)
+
+% x1=[2,0];
+% y1=[0.2,0.5];
+% x2=[0,1,2,3];
+% y2=[0,1,0,1];
+
+x2_L1=x2(1:end-1);
+x2_L2=x2(2:end);
+y2_L1=y2(1:end-1);
+y2_L2=y2(2:end);
+
+D1=x1(1).*y1(2)-x1(2).*y1(1);
+D2=x2_L1.*y2_L2-x2_L2.*y2_L1;
+Dx1=x1(2)-x1(1);
+Dx2=x2_L2-x2_L1;
+Dy1=y1(2)-y1(1);
+Dy2=y2_L2-y2_L1;
+xs0=(D1*Dx2-D2*Dx1)./(Dy1*Dx2-Dy2*Dx1);
+ys0=(D1*Dy2-D2*Dy1)./(Dy1*Dx2-Dy2*Dx1);
+
+Ds2=(xs0-x2_L1).*(x2_L2-x2_L1)+(ys0-y2_L1).*(y2_L2-y2_L1);
+Ls2=sqrt((x2_L2-x2_L1).^2+(y2_L2-y2_L1).^2);
+Ds1=(xs0-x1(1)).*(x1(2)-x1(1))+(ys0-y1(1)).*(y1(2)-y1(1));
+Ls1=sqrt((x1(2)-x1(1)).^2+(y1(2)-y1(1)).^2);
+
+on_line2=(Ds2./Ls2.^2>=-1e-10 & Ds2./Ls2.^2<=1+1e-10);
+on_line1=(Ds1./Ls1.^2>=-1e-10 & Ds1./Ls1.^2<=1+1e-10);
+
+x0=xs0(on_line1 & on_line2);
+y0=ys0(on_line1 & on_line2);
+i=find(on_line1 & on_line2);
+end
+
+
+%{
++[保存M函数](,intersection_line_curve)
+%}
+## end
+#110, 825:
+%{
++[保存M函数](,intersection_line_lines)
+
+测试:...
+%}
+
+addpath('Matlab\space')
+
+x1=[2,0];
+y1=[0.2,0.5];
+x2=[0,1,2,3];
+y2=[0,1,0,1];
+
+x2_L1=x2(1:end-1);
+x2_L2=x2(2:end);
+y2_L1=y2(1:end-1);
+y2_L2=y2(2:end);
+
+D1=x1(1).*y1(2)-x1(2).*y1(1);
+D2=x2_L1.*y2_L2-x2_L2.*y2_L1;
+Dx1=x1(2)-x1(1);
+Dx2=x2_L2-x2_L1;
+Dy1=y1(2)-y1(1);
+Dy2=y2_L2-y2_L1;
+x0=(D1*Dx2-D2*Dx1)./(Dy1*Dx2-Dy2*Dx1);
+y0=(D1*Dy2-D2*Dy1)./(Dy1*Dx2-Dy2*Dx1);
+
+Ds2=(x0-x2_L1).*(x2_L2-x2_L1)+(y0-y2_L1).*(y2_L2-y2_L1);
+Ls2=sqrt((x2_L2-x2_L1).^2+(y2_L2-y2_L1).^2);
+Ds1=(x0-x1(1)).*(x1(2)-x1(1))+(y0-y1(1)).*(y1(2)-y1(1));
+Ls1=sqrt((x1(2)-x1(1)).^2+(y1(2)-y1(1)).^2);
+on_line2=(Ds2./Ls2.^2>0 & Ds2./Ls2.^2<1);
+on_line1=(Ds1./Ls1.^2>0 & Ds1./Ls1.^2<1);
+
+
+plot(x1,y1,x2,y2,x0(on_line2),y0(on_line2),'o',x0(on_line1&on_line2),y0(on_line1&on_line2),'*')
+axis equal
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#112, 37:
+Matlab\draw\intersection_line_curve.m
+## end
+#120, 505:
+%{
++[M函数](,两曲线相交)
+clf
+intersection_curve_curve(M函数):...
+正弦函数:...
+%}
+
+addpath('Matlab\draw');
+
+t=linspace(-1,1,1000);
+t0=linspace(0,10,100);
+
+v1=10;
+v2=-10;
+
+for i=1:length(t0)
+x1=exp((t*v1+t0(i))*0.03).*sin(t*v1+t0(i))+0.1;
+y1=exp((t*v1+t0(i))*0.03).*cos(t*v1+t0(i));
+x2=exp((t*v2-t0(i))*0.04).*sin(-t*v2-t0(i))-0.1;
+y2=exp((t*v2-t0(i))*0.04).*cos(-t*v2-t0(i));
+
+[xs0,ys0,L1_i,L2_i]=intersection_curve_curve(x1,y1,x2,y2);
+plot(x1,y1,x2,y2,xs0,ys0,'ro')
+axis equal
+pause(0.01)
+end
+
+%{
+clf
++[M函数](,两曲线相交)
+%}
+## end
+#122, 533:
+%{
++[保存M函数](,intersection_curve_curve)
+地址::Matlab\draw\intersection_curve_curve.m
+
+测试:...
+%}
+
+function [xs0,ys0,L1_i,L2_i]=intersection_curve_curve(x1,y1,x2,y2)
+
+addpath('Matlab\draw');
+x1_L1=x1(1:end-1);
+x1_L2=x1(2:end);
+y1_L1=y1(1:end-1);
+y1_L2=y1(2:end);
+
+xs0=[];
+ys0=[];
+L1_i=[];
+L2_i=[];
+
+for i=1:length(x1_L1)
+    [x0,y0,i_pt]=intersection_line_curve([x1_L1(i),x1_L2(i)],[y1_L1(i),y1_L2(i)],x2,y2);
+    xs0=[xs0,x0];
+    ys0=[ys0,y0];
+    
+    L1_i=[L1_i,i*ones(size(x0))];
+    L2_i=[L2_i,i_pt];
+end
+
+
+end
+
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#125, 455:
+
+addpath('Matlab\draw');
+
+t=0.5;
+x1=linspace(-1,1,100);
+x2=linspace(-1,1,200);
+y1=cos(x1*10+t);
+y2=sin(x2*13-t)+0.3;
+
+x1_L1=x1(1:end-1);
+x1_L2=x1(2:end);
+y1_L1=y1(1:end-1);
+y1_L2=y1(2:end);
+
+xs0=[];
+ys0=[];
+L1_i=[];
+L2_i=[];
+
+for i=1:length(x1_L1)
+[x0,y0,i_pt]=intersection_line_curve([x1_L1(i),x1_L2(i)],[y1_L1(i),y1_L2(i)],x2,y2);
+xs0=[xs0,x0];
+ys0=[ys0,y0];
+
+L1_i=[L1_i,i*ones(size(x0))];
+L2_i=[L2_i,i_pt];
+end
+
+plot(x1,y1,x2,y2,xs0,ys0,'ro')
+L1_i
+L2_i
+## end
+#127, 38:
+Matlab\draw\intersection_curve_curve.m
+## end
+#132, 338:
+%{
++[M函数](,两曲线相交)
+
+intersection_curve_curve(M函数):...
+%}
+
+addpath('Matlab\draw');
+
+x1=linspace(-1,1,100);
+x2=linspace(-1,1,200);
+
+
+t=linspace(0,10,100);
+
+for i=1:length(t)
+y1=cos(x1*10+t(i));
+y2=cos(x2*10-t(i));
+
+[xs0,ys0,L1_i,L2_i]=intersection_curve_curve(x1,y1,x2,y2);
+plot(x1,y1,x2,y2,xs0,ys0,'ro')
+pause(0.1)
+end
+
+%{
++[M函数](,两曲线相交)
+%}
+## end
+#134, 352:
+%{
++[M函数](,测试顶点交点)
+%}
+
+x1=[x_n,pts_x(is),x_n];
+y1=[y_n,pts_y(is),y_n];
+xs=pts_x;
+ys=pts_y;
+
+xs(end+1,:)=max(x1)+3;
+ys(end+1,:)=ys;
+n_i=zeros(1,size(xs,2));
+n_w=zeros(1,size(xs,2));
+
+k=60;
+[x0,y0,i,xs0,ys0,on_line1,on_line2]=intersection_line_curve(xs(:,k),ys(:,k),x1,y1);
+plot(xs(:,k),ys(:,k),x1,y1)
+
+%{
+
+find(x0(1:end-1)==x0(2:end))
++[M函数](,测试顶点交点)
+%}
+## end
+#136, 52:
+https://en.wikipedia.org/wiki/Ray_tracing_(graphics)
+## end
+#138, 70:
+a \left(x-x_{0}\right)+b \left(y-y_{0}\right)+c \left(z-z_{0}\right)=0
+## end
+#140, 209:
+\hat{s}=\begin{pmatrix}
+a,&b,&c
+\end{pmatrix}
+
+=\begin{pmatrix}
+cos \left( \alpha \right) sin \left( \beta \right),&-sin \left( \alpha \right) sin \left( \beta \right),&cos \left( \beta \right)
+\end{pmatrix}
+
+
+## end
+#142, 33:
+\vec{r}=\vec{v_{1}} t+\vec{r_{A}}
+## end
+#144, 118:
+a \left(v_{x} t_{B}+x_{A}-x_{0}\right)+b \left(v_{y} t_{B}+y_{A}-y_{0}\right)+c \left(v_{z} t_{B}+z_{A}-z_{0}\right)=0
+## end
+#146, 123:
+\left(a v_{x}+b v_{y}+c v_{z}\right) t_{B}=a \left(x_{0}-x_{A}\right)+b \left(y_{0}-y_{A}\right)+c \left(z_{0}-z_{A}\right)
+## end
+#148, 118:
+t_{B}=\frac{a \left(x_{0}-x_{A}\right)+b \left(y_{0}-y_{A}\right)+c \left(z_{0}-z_{A}\right)}{a v_{x}+b v_{y}+c v_{z}}
+## end
+#149, 31:
+a*(x-x_0)+b*(y-y_0)+c*(z-z_0)=0
+## end
+#152, 83:
+\hat{s}=\vec{a,b,c}=\vec{cos(\alpha)*sin(\beta),-sin(\alpha)*sin(\beta),cos(\beta)}
+## end
+#155, 29:
+\vec{r}=\vec{v_1}*t+\vec{r_A}
+## end
+#158, 61:
+a*(v_x*t_B+x_A-x_0)+b*(v_y*t_B+y_A-y_0)+c*(v_z*t_B+z_A-z_0)=0
+## end
+#161, 59:
+(a*v_x+b*v_y+c*v_z)*t_B=a*(x_0-x_A)+b*(y_0-y_A)+c*(z_0-z_A)
+## end
+#164, 65:
+t_B=\frac{a*(x_0-x_A)+b*(y_0-y_A)+c*(z_0-z_A)}{a*v_x+b*v_y+c*v_z}
+## end
+#168, 281:
+"""
++[P函数](,公式验证_P)
+print(f,np.linalg.norm(f))
+记住"Python"
+
+
+"""
+import numpy as np
+
+f=np.array([1,1,0])
+f=f/np.linalg.norm(f)
+
+r_0=np.array([0,0,0])
+r_A=np.array([-1,-1,-1])
+r_B=np.array([-2,1,0])
+v_A=r_B-r_A
+
+t=(np.dot(f,(r_0-r_A)))/(np.dot(f,(r_B-r_A)))
+
+print(t,f,r_0,r_A,r_B)
+
+
+## end
+#170, 47:
+\vec{f}\cdot \left(\vec{r}-\vec{r_{0}}\right)=0
+## end
+#172, 33:
+\vec{r}=\vec{v_{A}} t+\vec{r_{A}}
+## end
+#174, 65:
+\vec{f}\cdot \left(\vec{v_{A}} t+\vec{r_{A}}-\vec{r_{0}}\right)=0
+## end
+#175, 34:
+\vec{f}\cdot (\vec{r}-\vec{r_0})=0
+## end
+#178, 29:
+\vec{r}=\vec{v_A}*t+\vec{r_A}
+## end
+#181, 48:
+\vec{f}\cdot (\vec{v_A}*t+\vec{r_A}-\vec{r_0})=0
+## end
+#184, 21:
+\vec{v_A}*t+\vec{r_A}
+## end
+#186, 7:
+\vec{r}
+## end
+#189, 84:
+t=\frac{\vec{f}\cdot \left(\vec{r_{0}}-\vec{r_{A}}\right)}{\vec{f}\cdot \vec{v_{A}}}
+## end
+#191, 109:
+t=\frac{\vec{f}\cdot \left(\vec{r_{0}}-\vec{r_{A}}\right)}{\vec{f}\cdot \left(\vec{r_{B}}-\vec{r_{A}}\right)}
+## end
+#192, 67:
+t=\frac{\vec{f}\cdot (\vec{r_0}-\vec{r_A})}{\vec{f}\cdot \vec{v_A}}
+## end
+#195, 79:
+t=\frac{\vec{f}\cdot (\vec{r_0}-\vec{r_A})}{\vec{f}\cdot (\vec{r_B}-\vec{r_A})}
+## end
+#199, 195:
+t=\frac{f_{x} \left(x_{0}-x_{A}\right)+f_{y} \left(y_{0}-y_{A}\right)+f_{z} \left(z_{0}-z_{A}\right)}{f_{x} \left(x_{B}-x_{A}\right)+f_{y} \left(y_{B}-y_{A}\right)+f_{z} \left(z_{B}-z_{A}\right)}
+## end
+#201, 93:
+t=\frac{f_x*(x_0-x_A)+f_y*(y_0-y_A)+f_z*(z_0-z_A)}{f_x*(x_B-x_A)+f_y*(y_B-y_A)+f_z*(z_B-z_A)}
+## end
+#208, 463:
+%{
+地址::Matlab/optics/intersection_plane_3D.m
++[保存M函数](,intersection_plane_3D)
+r0
+%}
+function [t_B,s]=intersection_plane_3D(x_A,y_A,z_A,v1_x,v1_y,v1_z,X,Y,Z)
+
+Dr1=[X(1)-X(2),Y(1)-Y(2),Z(1)-Z(2)];
+Dr2=[X(2)-X(3),Y(2)-Y(3),Z(2)-Z(3)];
+s=cross(Dr1,Dr2);
+r0=[X(1),Y(1),Z(1)];
+A=s(1)*v1_x+s(2)*v1_y+s(3)*v1_z;
+
+t_B=(s(1)*(r0(1)-x_A)+s(2)*(r0(2)-y_A)+s(3)*(r0(3)-z_A))./A;
+x_B=v1_x.*t_B+x_A;
+y_B=v1_y.*t_B+y_A;
+z_B=v1_z.*t_B+z_A;
+
+end
+
+
+%{
++[M函数](,Plane_intersection)
+%}
+## end
+#211, 37:
+Matlab/optics/intersection_plane_3D.m
+## end
+#216, 935:
+%{
+地址::Matlab/optics/reflect_refract_plane_3D.m
++[保存M函数](,reflect_refract_plane_3D)
+
+%}
+function [x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_plane_3D(x_1,y_1,z_1,v_x,v_y,v_z,t_2,y_x,y_y,y_z,n_1,n_2)
+
+
+x_2=x_1+t_2.*v_x;
+y_2=y_1+t_2.*v_y;
+z_2=z_1+t_2.*v_z;
+
+
+v2=v_x.^2+v_y.^2+v_z.^2;
+yy=sqrt(y_x.^2+y_y.^2+y_z.^2);
+y_x=y_x./yy;
+y_y=y_y./yy;
+y_z=y_z./yy;
+
+v_tm_y=(v_x.*y_x+v_y.*y_y+v_z.*y_z);
+x_x=v_x-(v_tm_y.*y_x);
+x_y=v_y-(v_tm_y.*y_y);
+x_z=v_z-(v_tm_y.*y_z);
+xx=sqrt(x_x.^2+x_y.^2+x_z.^2);
+x_x=x_x./xx;
+x_y=x_y./xx;
+x_z=x_z./xx;
+
+v_tm_x=(v_x.*x_x+v_y.*x_y+v_z.*x_z);
+
+% reflection
+v_1_x=v_tm_x.*x_x-v_tm_y.*y_x;
+v_1_y=v_tm_x.*x_y-v_tm_y.*y_y;
+v_1_z=v_tm_x.*x_z-v_tm_y.*y_z;
+
+% refraction
+v_2_x=v_tm_x.*x_x+sqrt((n_2./n_1).^2.*v2-v_tm_x.^2).*y_x.*sign(v_tm_y);
+v_2_y=v_tm_x.*x_y+sqrt((n_2./n_1).^2.*v2-v_tm_x.^2).*y_y.*sign(v_tm_y);
+v_2_z=v_tm_x.*x_z+sqrt((n_2./n_1).^2.*v2-v_tm_x.^2).*y_z.*sign(v_tm_y);
+
+
+
+end
+
+
+
+## end
+#219, 40:
+Matlab/optics/reflect_refract_plane_3D.m
+## end
+### 结束

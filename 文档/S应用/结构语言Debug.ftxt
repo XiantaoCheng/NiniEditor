@@ -1,0 +1,733 @@
+### 节点
+地址, 的, 结构语言Debug, 目录, 的, 的, 节点数目统计, 的, 问题, 的, 20210730, 光线1, 光线2, 光线3, 光线4, 光线5, 光线6, 光线7, 光线8, 光线9, 光线10, 光线11, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 实验场景, 的, 20210730, 的, 的, 结构分析, 的, 句子, 的, 句子结构, 的, 星图, 20210731, 的, 的, 20210731, 的, 20210825, 20210824, 的, 的, 画光路, 的, 20211129, 命令模板, 名称, 的, 电子信息, X射线, 的, 的, 的, 的, 的, bug样本, 的, 的, P代码, 20211202, 的, 的, 模板文本, 的, 的, ., ., 的, 命令模板2, a, 命令模板3, 命令模板, 名称, 的, 电子信息, X射线, P代码, ., ., 模板文本, 命令模板2, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, bug样本2, 的, 的, 20220205, 的, 20220212, 的, 20221001, 的, 错误日志, 的, 错误日志2, 的, 20221029, 20221029, 的, 的, 针对操作, 的, 链型结构, 20221202, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 12#, #, 14#, 15#, 16#, 17#, 18#, 19#, 20#, 21#, 21#, 33#11, 33#12, 33#13, 33#14, 33#15, 33#16, 33#17, 33#18, 33#19, 33#20, 33#21, #, 10#33, #, 6#35, 2#38, #, 38#40, #, 38#42, #, 2#44, #, #, 6#45, 8#48, #, 8#50, #, #, 6#51, 50#54, #, 8#56, #, #, #, 60#58, #, #, 67#57, 67#60, 67#61, 67#58, 67#59, #, 56#67, 67#70, #, #, 6#71, 67#74, #, 67#77, 67#78, 74#61, 74#58, 67#80, #, #, #, #, #, 86#84, #, #, #, 91#87, 91#84, #, #, 105#81, 105#82, 105#83, 105#86, 105#87, 105#84, 105#85, 105#88, 105#91, 105#89, 105#90, 105#92, #, 56#105, 8#108, #, 8#110, #, 8#112, #, 112#114, #, 112#116, #, 8#118, #, #, 6#119, 118#122, #, 2#124, #, #, 6#125, 
+### 内容
+#0, 21:
+文档\S应用\结构语言Debug.ftxt
+## end
+#2, 111:
++[返回目录](,结构语言Debug)
+地址::文档\S应用\结构语言Debug.ftxt
+
+星图::文档\S应用\星图.txt
++[打开文件](+新窗口,星图)
+
+链型结构:...
+问题:...
+结构分析:...
+
+
+
+
+## end
+#3, 53:
+结构语言Debug:...
+创建于 20210730
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 205:
++[返回目录](,问题)
+
+(快速Tab)
+20221029:...
+(天使坠落)
+20221001:...
+
+20220212:...
+(可能也是个+[模板文本]问题)
+20220205:...
+(+[模板文本]问题, 非常诡异. 和+[python]的输入预处理有关, 下次注意)
+20211129:...
+(缩写问题)
+20210731:...
+20210730:...
+
+20210825:...
+
+
+
+## end
+#10, 151:
++[返回目录](,20210730)
+
+来自干涉仪. 
+实验场景:...
++[粘贴](,20210730)
+
+无法匹配到新建节点的关联对象... 
+
+...
+
+->+[del](,+路线结构)=>的(+路线结构,_)=>+[显示](,_)->+[del](,_)
+
+像是这一句话, 就无法工作. 
+
+
+
+## end
+#33, 239:
++[返回目录](,实验场景)
++[复制结构](,实验场景)
++[新建阅读窗口](,实验场景)
++[显示星图](,实验场景)
+
+[]=>光线(光线#1,)=>+测试(,光线)
+
++[修改标题]"光线11"(,光线)->+[显示星图](,实验场景)
+
++[显示](,光线1)
+
+
+[]=>测试=>+[del](,测试)
+
+实验场景=>的(实验场景,~光线)=>+[del](,~光线)
++[设置结构](,实验场景)
++[显示光路场景结构](,实验场景)
++[显示星图](,实验场景)
+## end
+#35, 2:
+52
+## end
+#38, 98:
++[返回目录](,结构分析)
+
+句子:...
+句子结构::
++[因果结构](句子,句子结构)
++[显示因果结构](,句子结构)
++[显示关联结构](,句子结构)
++[设置结构](,句子结构)
+
+
+
+## end
+#40, 631:
+Matlab=>_元件{经过(,_元件)}->朝着(_元件,方向)=>[]:
+->起点(光线#1,_元件)->光线#1(光线#0,)...
+->[方向](光线#0,)->+[增加内容](,+[显示]#1)->[m_text]([方向],+[增加内容])...
+->[方向](光线#1,)->+[增加内容](,+[显示]#1)->[m_text]([方向],+[增加内容])...
+->+[显示]#1"反射[%s]: "(,_元件),
+
+->终点(光线#2,_元件)->[方向](光线#2,)...
+->+[修改内容]([方向],+[临时文本]#2)->[m_text]([方向],+[修改内容])...
+->+[matlab]"[alpha,beta,gamma]=Eulers(z(1),z(2),z(3));
+ans=[alpha,beta,gamma];
+"(Matlab,方向)->+[.]"z"(+[matlab],+[临时文本]#2),
+
+->穿过(光线#3,_元件)->[方向](光线#3,)...
+->+[修改内容]([方向],+[临时文本]#3)->[m_text]([方向],+[修改内容])...
+->+[matlab]"[alpha,beta,gamma]=Eulers(z(1),z(2),z(3));
+ans=[alpha,beta,gamma];
+"(Matlab,方向)->+[.]"z"(+[matlab],+[临时文本]#3)
+## end
+#44, 13:
+文档\S应用\星图.txt
+## end
+#45, 2:
+52
+## end
+#48, 413:
++[返回目录](,20210731)
+
+
+在干涉仪的实验场景里面执行下面代码会有问题... 
+
+[]=>_元件{经过(,_元件)}=>[]:
+->起点(光线#1,_元件)->光线#1(光线#0,)...
+->+[显示]"14444"(,Python),
+
+->终点(光线#2,_元件)...
+->+[显示]"24444"(,Python),
+
+->穿过(光线#3,_元件)...
+->+[显示]"34444"(,Python)
+
+解决了, 还是缩写问题, 改成下面就没问题了. 
+Python=>_元件{经过(,_元件)}=>[]:
+->起点(光线#1,_元件)->光线#1(光线#0,)...
+->+[显示]"14444"(,Python),
+
+->终点(光线#2,_元件)...
+->+[显示]"24444"(,Python),
+
+->穿过(光线#3,_元件)...
+->+[显示]"34444"(,Python)
+
+
+
+
+## end
+#50, 116:
++[返回目录](,20210825)
+
+
+画光路:...
++[显示动词结构](,画光路)
+问题是, 两个分支里面都省略引用了 反射步骤, 于是只有一个分支里面有反射步骤的节点. 
+我把定义 反射步骤 放到主干里面就解决了问题. 
+
+
+## end
+#51, 2:
+55
+## end
+#54, 525:
+_画板->画板(_画板,)...
+->光线光路=>的(光线光路,_光路)=>+的(_画板,+光路)->+[修改标题](_光路,+光路)...
+->[]{
+    反射步骤:->分出来(,_光路)->从(分出来,经过)->经过(,_元件1)->在(_元件1,空间点#1)...
+    ->+光线->+的(_画板,+光线)...
+    ->+[S函数](,反射步骤)->+[的](+[S函数],+光路)->+[光路1](+光路,)...
+    ->+[的](+[S函数],空间点#1)->+[位置](空间点#1,)...
+    ->+[的](+[S函数],+光线)->+[分光光线](+光线,),
+
+    ->的(_光路,输入)->输入(,_元件)->+[S函数](,反射步骤)...
+    ->+[的](+[S函数],输入)...
+    ->+[的](+[S函数],+光路)->+[光路1](+光路,):
+        ->_元件->在(_元件,空间点)->+[的](+[S函数],空间点)->+[位置](空间点,),
+        ->在(输入,空间点#0)->+[的](+[S函数],空间点#0)->+[位置](空间点#0,)
+}
+## end
+#56, 1135:
+(20211128遇到的)
+诡异的bug:
+遇到了一个极其诡异的bug. 在LWFA11数据分析.ftxt中, 当我执行下面句子的时候会有问题: 
+
+从电子数据中获取LWFA11信息
+把电子信息移动到X射线
+或者
+把电子信息移动到地址
+
+其中
+X射线::input\spectrometer\data_X.tiff
+地址::input\spectrometer\data_.tiff
+地址::input\spectrometer\data_a.tiff
+地址::input\spectrometer\data_X.tiff
+
+均会有问题. 但是
+地址::input\spectrometer\dataa.tiff
+地址::input\spectrometer\data.tiff
+时没有问题. 
+
+崩溃的时间点应该是在+[模板文本]中的+[python]处发生的, 似乎是在tools_basic.pythonCodeEval中的exec执行前发生了崩溃. 
+诡异的点有三:
+1.exec()时在try内部, 理论上不应该会崩溃; 
+2.如果exec()之前有print(eng), 似乎就不会崩溃; 
+3.崩溃的时机和位置并不完全确定. 改变地址的内容, 崩溃时间似乎会不一样. 而且曾经有过print(11,code), 崩溃发生在print完11之后, print code之前... 
+
+bug样本:...
++[复制结构](,bug样本)
+是([动词库],动词)->+[打开文件](+新窗口,动词)
+注意到, 比较特殊的一点是, +[临时文本]又是+[python]的输入又是+[python]的输出. 
++[粘贴](,20211129)
+
+bug样本2:...
+问题可能发生在tools_format.str2Vec (在tools_act.pythonCode中被调用的)
+在特定条件(无法确定)下, 当某种类型的字符串(不确定具体条件, 是有汉字, 有下划线_, 长度足够长的字符串), 输入进tools_format.str2Vec(string)后会触发bug. 
+因为把这个函数注释掉以后, bug不再发生, 所以应该是这个函数引发的. 
+但这个绝对不是普通的bug. 
+诡异之处有三:
+1.这个函数是在try内部调用的, 理论上就算有问题也不应该crash; 
+2.这个函数完全没有对vars_in做操作, 但是程序是在print(vars_in)或者vars_in[var]处crash的; 
+3.在这个函数之后print(value,str_var,pt_var.info()), 会改变crash的位置. 
+
+太诡异了, 所以现在不管了
+
+
+
+## end
+#57, 103:
+xC:\Users\cheng\Downloads\%名称 - PSL Data.tiffx xC:\Users\cheng\Dropbo\Struct\Structure1.2.1\Nini\%[地址]x
+## end
+#60, 47:
+ https://utexas.app.box.com/folder/144557785426
+## end
+#61, 30:
+input\spectrometer\data_X.tiff
+## end
+#67, 1507:
++[返回目录]
+
+命令模板::xC:\Users\cheng\Downloads\%名称 - PSL Data.tiffx xC:\Users\cheng\Dropbo\Struct\Structure1.2.1\Nini\%[地址]x
+
+命令模板2::xC:\Users\cheng\Downloads\%什么 - PSL Data.tiffx xC:\Users\cheng\Dropbo\Struct\Structure1.2.1\Nini\%[地址]x
+
+move "C:\Users\cheng\Downloads\%名称 - PSL Data.tiff" "C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\%[地址]"
+
+X射线::input\spectrometer\data_X.tiff
+电子信息:: https://utexas.app.box.com/folder/144557785426
+名称::
+13945 SR 1 13 PMT500
++的(电子信息,名称)
+
++[移动电子数据](电子信息,X射线)
+
++[模板文本](命令模板,+[显示])...
+->+[.](+[模板文本],名称)->+[.]"[地址]"(+[模板文本],X射线)
+
++[模板文本](命令模板2,+[显示])...
+->+[.]"[地址]"(+[模板文本],X射线)->+[.]"[地址]"(+[模板文本],X射线)
+
+A
++[显示](,命令模板)
++[修改内容](命令模板,+[临时文本])
+[说]"?????"
+
+
+模板文本::
+P代码:...
++.(模板文本,名称)->+."[地址]"(模板文本,X射线)
+
+模板文本->+[临时文本]->+[修改内容](命令模板,+[临时文本])...
+->[]{
+	[]=>.(模板文本,_输入)->_输入(,)...
+        =>+[标题](_输入,)->+[显示](,_输入)->+[python](Python,+[临时文本])...
+        ->+[code](+[python],P代码)...
+	->+[s]"code"(+[python],+[临时文本])->+[s]"text"(+[python],_输入):
+            ->[==](,.)->+[.]"var"(+[python],+[标题]),
+            ->+[.]"var"(+[python],.)
+}->+[修改内容](+[临时文本],+[显示])
+
+
++[修改内容](命令模板,+[临时文本])
+[说]"?????"
+
+...
+->+[标题](名称,)->+[临时文本]#1"[地址]"...
+->[]{
+    +[python](Python,+[临时文本])->+[code](+[python],P代码)...
+    ->+[s]"code"(+[python],+[临时文本])->+[s]"text"(+[python],名称)...
+    ->+[.]"var"(+[python],+[标题])
+}->[]{
+    +[python](Python,+[临时文本])->+[code](+[python],P代码)...
+    ->+[s]"code"(+[python],+[临时文本])->+[s]"text"(+[python],X射线)...
+    ->+[.]"var"(+[python],+[临时文本]#1)
+}->+[显示](,+[临时文本])
+
+
+## end
+#70, 109:
+"""
++[P函数](,P代码)
+
+
+"""
+print(var,text)
+ans=code.replace('%'+var,text)
+print('over!')
+# print('中间过程:',ans,var)
+## end
+#71, 3:
+107
+## end
+#77, 4:
+[地址]
+## end
+#80, 103:
+xC:\Users\cheng\Downloads\%什么 - PSL Data.tiffx xC:\Users\cheng\Dropbo\Struct\Structure1.2.1\Nini\%[地址]x
+## end
+#81, 1:
+_
+## end
+#82, 128:
+xCxxUsersxchen这gxDownloadsxxxxxxxPSLxDataxtiffxxxCxxUsersxchengxDropboxStructxStructure1x2x1xNinixxinpuxtxspectrometerxdataxxxxx
+## end
+#83, 103:
+xC:\Users\cheng\Downloads\%名称 - PSL Data.tiffx xC:\Users\cheng\Dropbo\Struct\Structure1.2.1\Nini\%[地址]x
+## end
+#86, 47:
+ https://utexas.app.box.com/folder/144557785426
+## end
+#87, 30:
+inpu_txspectrometerxdataXxtiff
+## end
+#88, 109:
+"""
++[P函数](,P代码)
+
+
+"""
+print(var,text)
+ans=code.replace('%'+var,text)
+print('over!')
+# print('中间过程:',ans,var)
+## end
+#89, 4:
+[地址]
+## end
+#92, 102:
+这xCxxUsersxchengxDownloadsxxxxxxxPSLxDataxtiffxxxCxxUsersxchengxDropboxStructxStructure1x2x1xNinixx%地址
+## end
+#105, 1757:
++[返回目录]
+
+命令模板::xC:\Users\cheng\Downloads\%名称 - PSL Data.tiffx xC:\Users\cheng\Dropbo\Struct\Structure1.2.1\Nini\%[地址]x
+
+命令模板2::xCxxUsersxchengxDownloadsxxxxxxxxx - PSL Data.tiffx xCxxUsersxchengxDropboxStructxStructure1.2.1xNinix%地址x
+
+命令模板2::这xCxxUsersxchengxDownloadsxxxxxxxPSLxDataxtiffxxxCxxUsersxchengxDropboxStructxStructure1x2x1xNinixx%地址
+
+
+命令模板3::xCxxUsersxchen这gxDownloadsxxxxxxxPSLxDataxtiffxxxCxxUsersxchengxDropboxStructxStructure1x2x1xNinixxinpuxtxspectrometerxdataxxxxx
+
+a::_
+
++[模板文本](命令模板3,+[临时文本])...
+->+[.](+[模板文本],名称)->+[.](+[模板文本],a)
+
+
+
+
+move "C:\Users\cheng\Downloads\%名称 - PSL Data.tiff" "C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\%[地址]"
+
+X射线::inputxspectrometerxdata_X.tiff
+电子信息:: https://utexas.app.box.com/folder/144557785426
+名称::
+13945 SR 1 13 PMT500
++的(电子信息,名称)
+
++[移动电子数据](电子信息,X射线)
+
++[模板文本](命令模板,+[显示])...
+->+[.](+[模板文本],名称)->+[.]"[地址]"(+[模板文本],X射线)
+
+
+A
++[显示](,命令模板)
++[修改内容](命令模板,+[临时文本])
+[说]"?????"
+
+
+模板文本::
+P代码:...
++.(模板文本,名称)->+."[地址]"(模板文本,X射线)
+
+模板文本->+[临时文本]->+[修改内容](命令模板2,+[临时文本])...
+->[]{
+	[]=>.(模板文本,_输入)->_输入(,)...
+        =>+[标题](_输入,)->+[显示](,_输入)->+[python](Python,+[临时文本])...
+        ->+[code](+[python],P代码)...
+	->+[s]"code"(+[python],+[临时文本])->+[s]"text"(+[python],_输入):
+            ->[==](,.)->+[.]"var"(+[python],+[标题]),
+            ->+[.]"var"(+[python],.)
+}->+[修改内容](+[临时文本],+[显示])
+
+
++[修改内容](命令模板,+[临时文本])
+[说]"?????"
+
+...
+->+[标题](名称,)->+[临时文本]#1"[地址]"...
+->[]{
+    +[python](Python,+[临时文本])->+[code](+[python],P代码)...
+    ->+[s]"code"(+[python],+[临时文本])->+[s]"text"(+[python],名称)...
+    ->+[.]"var"(+[python],+[标题])
+}->[]{
+    +[python](Python,+[临时文本])->+[code](+[python],P代码)...
+    ->+[s]"code"(+[python],+[临时文本])->+[s]"text"(+[python],X射线)...
+    ->+[.]"var"(+[python],+[临时文本]#1)
+}->+[显示](,+[临时文本])
+
+
+## end
+#108, 221:
+"D=x_m2-x_m1"(表达式)转换为结构(结构)
+将结构记作(5)式
+(这句话会炸...)
+
+在电子能谱的能量标记里面. 
+
+
+"D=x_m2-x_1"(表达式)转换为结构(结构)
+这句会炸
+
+"D=x_2-x_m1"(表达式)转换为结构(结构)
+这句不会炸
+
++[删除结构](,结构)->+[临时文本]"D=x_m2-x_m1"...
+->+[生成公式结构](+[临时文本],结构)->+[更新公式起点](,结构)
+这句不会炸
+
+
+
+
+## end
+#110, 87:
+
+"\frac{2*n^2}{a}=\frac{1}{z}-\frac{1}{z_2}"(表达式)转换为结构(结构)
+将结构记作(17)式
+这个又是那个崩溃的问题. 
+
+
+
+
+## end
+#112, 75:
+
+错误日志:...
+错误日志2:...
+
+在做公式结构转换的时候, 先是发生了上面的错误(错误日志), 之后就再也无法调用天使了(错误日志2)
+
+
+
+
+## end
+#114, 9322:
+
+
+[幂次](方程组,[临时文本]) : [[False, '^(_节点,_幂次)']]
+乘式(,) : [True]
+和式(,) : [True]
+等式(,) : [True]
+算式(,) : [True]
+算式(,) : [True]
+算式结构转换(,) : [True]
+ERROR:root:Error calling OpenClipboard ([WinError 5] Access is denied.)
+Traceback (most recent call last):
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 1694, in opStructure
+    results=structureCode(eng,code,vars_pt,obj,pt_IO)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 1723, in structureCode
+    results=eng.runCode_shell_structure(code,list_pt,pt_ptr,pt_IO)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_compiler.py", line 1364, in runCode_shell_structure
+    results+=self.runCode(sent.m_text,question=None,IO=pt_IO,limit=True,list_pt=list_pt,pt_ptr=pt_ptr)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_compiler.py", line 1407, in runCode
+    port.m_dev.input(self.output())
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 250, in input
+    tools_acts.operateAll(pt_act,self)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 119, in operateAll
+    opDo(action,port)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 306, in opDo
+    port.transfer(action,limit=True,form="自定义",pt_ref=newAct)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 119, in transfer
+    results=lib.transfer(action,limit=limit,form=form,pt_ref=pt_ref)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_lib.py", line 169, in transfer
+    result=compiler.runCode(pt_ref.m_text,question,pt_port,limit=limit,list_pt=[pt_ref])
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_compiler.py", line 1407, in runCode
+    port.m_dev.input(self.output())
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 250, in input
+    tools_acts.operateAll(pt_act,self)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 119, in operateAll
+    opDo(action,port)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 306, in opDo
+    port.transfer(action,limit=True,form="自定义",pt_ref=newAct)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 119, in transfer
+    results=lib.transfer(action,limit=limit,form=form,pt_ref=pt_ref)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_lib.py", line 169, in transfer
+    result=compiler.runCode(pt_ref.m_text,question,pt_port,limit=limit,list_pt=[pt_ref])
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_compiler.py", line 1407, in runCode
+    port.m_dev.input(self.output())
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 250, in input
+    tools_acts.operateAll(pt_act,self)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 119, in operateAll
+    opDo(action,port)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 306, in opDo
+    port.transfer(action,limit=True,form="自定义",pt_ref=newAct)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 119, in transfer
+    results=lib.transfer(action,limit=limit,form=form,pt_ref=pt_ref)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_lib.py", line 169, in transfer
+    result=compiler.runCode(pt_ref.m_text,question,pt_port,limit=limit,list_pt=[pt_ref])
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_compiler.py", line 1407, in runCode
+    port.m_dev.input(self.output())
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 250, in input
+    tools_acts.operateAll(pt_act,self)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 119, in operateAll
+    opDo(action,port)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 306, in opDo
+    port.transfer(action,limit=True,form="自定义",pt_ref=newAct)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 119, in transfer
+    results=lib.transfer(action,limit=limit,form=form,pt_ref=pt_ref)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_lib.py", line 169, in transfer
+    result=compiler.runCode(pt_ref.m_text,question,pt_port,limit=limit,list_pt=[pt_ref])
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_compiler.py", line 1407, in runCode
+    port.m_dev.input(self.output())
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 250, in input
+    tools_acts.operateAll(pt_act,self)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 119, in operateAll
+    opDo(action,port)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 306, in opDo
+    port.transfer(action,limit=True,form="自定义",pt_ref=newAct)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 119, in transfer
+    results=lib.transfer(action,limit=limit,form=form,pt_ref=pt_ref)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_lib.py", line 169, in transfer
+    result=compiler.runCode(pt_ref.m_text,question,pt_port,limit=limit,list_pt=[pt_ref])
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_compiler.py", line 1407, in runCode
+    port.m_dev.input(self.output())
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 250, in input
+    tools_acts.operateAll(pt_act,self)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 255, in operateAll
+    results=port.transfer(action,limit=True)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 119, in transfer
+    results=lib.transfer(action,limit=limit,form=form,pt_ref=pt_ref)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_lib.py", line 187, in transfer
+    result=compiler.runCode(sent.m_text,question,pt_port,limit=True,list_pt=[term])
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_compiler.py", line 1407, in runCode
+    port.m_dev.input(self.output())
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 250, in input
+    tools_acts.operateAll(pt_act,self)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 117, in operateAll
+    opNewAction(sbj,obj,action,port)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 284, in opNewAction
+    port.transfer(obj,limit=True,form="自定义",pt_ref=sbj)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 119, in transfer
+    results=lib.transfer(action,limit=limit,form=form,pt_ref=pt_ref)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_lib.py", line 169, in transfer
+    result=compiler.runCode(pt_ref.m_text,question,pt_port,limit=limit,list_pt=[pt_ref])
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_compiler.py", line 1407, in runCode
+    port.m_dev.input(self.output())
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 250, in input
+    tools_acts.operateAll(pt_act,self)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 119, in operateAll
+    opDo(action,port)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 306, in opDo
+    port.transfer(action,limit=True,form="自定义",pt_ref=newAct)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 119, in transfer
+    results=lib.transfer(action,limit=limit,form=form,pt_ref=pt_ref)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_lib.py", line 169, in transfer
+    result=compiler.runCode(pt_ref.m_text,question,pt_port,limit=limit,list_pt=[pt_ref])
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_compiler.py", line 1407, in runCode
+    port.m_dev.input(self.output())
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\body\body_port.py", line 250, in input
+    tools_acts.operateAll(pt_act,self)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 65, in operateAll
+    opCopyText(obj)
+  File "c:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\tools\tools_acts.py", line 479, in opCopyText
+    clipboard.copy(obj.m_text)
+  File "C:\Users\cheng\AppData\Local\Programs\Python\Python37\lib\site-packages\pyperclip\__init__.py", line 618, in lazy_load_stub_copy
+    return copy(text)
+  File "C:\Users\cheng\AppData\Local\Programs\Python\Python37\lib\site-packages\pyperclip\__init__.py", line 438, in copy_windows
+    with clipboard(hwnd):
+  File "C:\Users\cheng\AppData\Local\Programs\Python\Python37\lib\contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "C:\Users\cheng\AppData\Local\Programs\Python\Python37\lib\site-packages\pyperclip\__init__.py", line 419, in clipboard
+    raise PyperclipWindowsException("Error calling OpenClipboard")
+pyperclip.PyperclipWindowsException: Error calling OpenClipboard ([WinError 5] Access is denied.)
+自我意识(,) : [True]
+
+
+
+
+## end
+#116, 289:
+导入句子分析函数(,) : [True]
+主谓短语 为"Matlab"
+主谓短语(,转换) 为"Matlab"
+主谓短语 为"Matlab"
+主谓短语(,转换) 为"Matlab"
+主谓短语 为"Matlab"
+主谓短语(,转换) 为"Matlab"
+进度: 3.06%
+进度: 12.91%
+进度: 22.98%
+进度: 34.14%
+进度: 42.67%
+进度: 50.55%
+进度: 63.68%
+进度: 70.68%
+进度: 82.71%
+进度: 90.59%
+生成句子结构(,) : [True]
+[自我意识](天使,) : [[False, '内景(,)']]
+
+
+
+## end
+#118, 102:
+Nini, 打开四则运算(文件)
+
+再"针对操作"中, 对下面这一行快速按 ctrl+tab
+->然后(关联#3,关联)->关联#3(,=#3)->=#3(,_等式3)...
+
+针对操作:...
+
+
+
+
+
+## end
+#119, 3:
+123
+## end
+#122, 992:
+"""
+保存:...
+
+"""
++针对操作(操作,_x)...
+->.(+针对操作,合并系数)->.(+针对操作,二次操作)...
+->起点(+针对操作,_xe):
+
+->[]{
+    关联(_节点,_x)->_节点->[]{然后(关联,)}:
+
+    ->然后(关联,关联#2)->关联#2(_节点2,)->_节点2->[]{
+        []:->[is](_节点,=)->=->+左移x(=,_节点2)->+的(操作,+左移x),
+        ->[]{[]=>[is](_节点2,括号)->括号}...
+            ->+提取x(_节点,_节点2)->+的(操作,+提取x)
+    },
+
+    ->>[]{
+        []:->[is](_节点,括号)->括号->内在(关联,)...
+        ->[]{
+            []:->/(,括号)->的(括号,_y0)->_y0->_re"[+\-]"(_y0,)->[]{
+                []:->然后(关联#3,关联)->关联#3(,=#3)->=#3(,_等式3)...
+                    ->+乘以括号(_等式,括号)->+的(二次操作,+乘以括号),
+->然后(关联#3,关联)->关联#3(,=#3)->=#3(,_等式3)...
+                    ->+乘以括号(_等式,括号)->+的(二次操作,+乘以括号),
+                ->然后(,关联),
+                ->+乘以括号(_xe,括号)->+的(二次操作,+乘以括号)
+            },
+            ->+拆括号(_xe,括号)->+的(二次操作,+拆括号)
+        },
+        ->[is](_节点,=)->=->+左移x(=,_x)->+的(操作,+左移x),
+        ->[eq](_节点,_x)->[]{[]=>[is](_节点,_x)}...
+            ->+合并x(_节点,_x)->+的(操作,+合并x),
+        ->+提取x(_节点,_x)->+的(操作,+提取x)
+    }
+},
+->+的(合并系数,_x)
+
+
+## end
+#124, 767:
++[设置结构](,测试)
+
+有A, B和C
+
+测试->的(测试,_A)->+[下一个A](测试,_A)->+下一个A(测试,_B)->+[显示](,_B)
+测试->的(测试,_A)->+[下一个A](测试,_A)->+下一个A(测试,_B)->+[显示](,_A)
+
+测试=>的(测试,_A)=>+[下一个A](测试,_A)->+下一个A(测试,_B)->+[显示](,_B)->+[del](,+下一个A)
+
+测试=>的(测试,_A)=>+下一个A(测试,_B)->+[下一个A](测试,_A)->+[显示](,_B)->+[del](,+下一个A)
+
+
+测试=>的(测试,_A)=>[]{
+[]:->下一个A(测试,)->+下一个A(测试,_B)->_B->+[显示](,下一个A),
+->+[下一个A](测试,_A)->+[显示](,_A)}
+
+测试->+[下一个A](测试,C)=>的(测试,_A)=>[]{
+[]:->+[下一个A](测试,_A)->+下一个A(测试,_B)->_B->+[显示](,_B),
+->+[显示](,_A)}
+
+测试->+[下一个A](测试,C)=>的(测试,_A)=>[]:
+->下一个A(测试,)->+[下一个A](测试,_A)->+下一个A(测试,_B)->_B->+[显示](,_B),
+->+[下一个A](测试,_A)->+[显示](,_A)
+
+
+测试=>的(测试,_A)=>+[下一个A](测试,_A)...
+->+下一个A(测试,_B)->+[del](,+下一个A)->[]:
+->头部(测试,)->+[显示](,_A)->+[显示](,_B),
+->+头部(测试,_A)
+
+
+Nini, 打开结构语言Debug(文件)
+测试=>的(测试,下一个A)=>+[del](,下一个A)
+## end
+#125, 3:
+127
+## end
+### 结束

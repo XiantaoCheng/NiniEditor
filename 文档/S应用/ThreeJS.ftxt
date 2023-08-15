@@ -1,0 +1,3316 @@
+### 节点
+地址, 的, ThreeJS, 目录, 的, 的, 节点数目统计, 的, 测试代码, 保存, 测试cameraLookAt, 测试ctrl性质, 测试相机lookAt, 测试rotationWorld, 测试Matrix, 保存, 参考Matrix, 测试Eulers, 测试lookAt, 的, 的, 的, 的, 的, 的, 的, 的, 的, 测试, 例子, 的, 的, 的, J函数, ThreeJS, 的, 的, J函数, 的, 库, 的, 库, 的, OrbitControls, 库, 的, three, 库, 打开网页, 的, 测试extrude, 的, AddExtrude, 的, 角色控制, 的, 操作, 保存, H模板, 的, 的, 三维场景转ThreeJS_全局, 的, 组合体转ThreeJS, 的, P模板, M代码, 的, 的, 立方体, M代码, P模板, 的, 的, 多面体, P模板, M代码, 的, 的, 圆柱体, P模板, M代码, 的, 的, 平面, M代码, P模板, 的, 的, 球体, 的, 的, 的, 的, 的, 库, 的, 结构转ThreeJS, 的, 的, 笔记, 在, 在, 在, 在, 在, 的, 角色测试, 的, 角色控制, 打开网页, 的, 参考代码, 打开网页, H模板, 保存, 的, 的, 三维场景转ThreeJS, 的, 的, 组合体转ThreeJS, P模板, M代码, 的, 的, 球体, M代码, P模板, 的, 的, 平面, M代码, P模板, 的, 的, 圆柱体, P模板, M代码, 的, 的, 多面体, M代码, 的, 组合体, 的, 的, 的, 的, 的, 库, 的, 结构转ThreeJS, 的, 的, 保存, 的, 描述结构, 的, 保存, m_width, m_height, m_y, m_x, m_cursor, m_readPtr, P模板, M代码, 的, 的, 立方体, 的, 打开网页, 的, 三维场景转ThreeJS_模块, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, #, #, #, #, #, #, #, #, #, #, 28#10, 28#11, 28#12, 28#13, 28#14, 28#15, 28#16, 28#17, 28#18, #, #, 34#9, 34#28, 34#29, 34#, #, 8#34, 34#37, 34#, 34#39, #, 34#41, #, 34#43, #, 43#, 34#46, #, 46#, #46, 28#50, #, 28#52, #, 2#54, #, 2#56, #, #, #, 61#57, 61#58, #, 56#61, #, 56#63, #, #, 69#65, 69#66, #, #, #, 74#70, 74#71, #, #, #, 79#75, 79#76, #, #, #, 84#80, 84#81, #, #, #, 89#85, 89#86, #, 95#69, 95#74, 95#79, 95#84, 95#89, #, 97#95, #, 56#97, 2#100, #, #, #, #, #, #, 2#107, #, 107#109, #, #109, 107#112, #, #54, #, #, 118#114, 118#115, #, 56#118, 61#121, #, #, #, 126#122, 126#123, #, #, #, 131#127, 131#128, #, #, #, 136#132, 136#133, #, #, #, 141#137, 141#138, #, #, 144#142, #, 150#126, 150#131, 150#136, 150#141, 150#144, #, 152#150, #, 121#152, 126#155, #, 152#157, #, 152#159, #, #, #, #, #, #, #, #, #, 170#166, 170#167, #, 150#170, #54, 56#174, #, 174#121, 
+### 内容
+#0, 19:
+文档\S应用\ThreeJS.ftxt
+## end
+#2, 250:
++[返回目录](,ThreeJS)
+地址::文档\S应用\ThreeJS.ftxt
+
+
+操作:...
++[设置动词](,操作)
+
+Nini, 导入JS编译器的库
+
+Nini, 打开核心(文件)
+Nini, 打开JS编译器(文件)
+Nini, 打开Blender(文件)
+
+
+笔记:...
+测试代码:...
+角色测试:...
+角色控制::https://stemkoski.github.io/Three.js/Model-Animation-Control.html
++[打开网页](,角色控制)
+
+
+## end
+#3, 51:
+ThreeJS:...
+创建于 20230202
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 32:
++[粘贴](,测试代码)
+
+
+
+ThreeJS(J函数):...
+## end
+#9, 4058:
+/*
++[J函数](,ThreeJS)
+
+three(库)::https://stemkoski.github.io/Three.js/js/Three.js
+OrbitControls(库)::https://stemkoski.github.io/Three.js/js/OrbitControls.js
+three->库(three,)->+[del](,库)->+[del](,three)
+
+保存:
+*/
+
+
+// MAIN
+
+// standard global variables
+var container, scene, camera, renderer, controls, stats;
+var cube;
+
+class Scene3D {
+    constructor(ID='') {
+        this.m_ID=ID;
+        this.m_container='';
+        this.m_scene='';
+        this.m_camera='';
+        this.m_render='';
+        this.m_control='';
+    }
+
+    init(ID='') {
+        if(ID!=="") {
+            this.m_ID=ID;
+        }
+        try {
+            this.m_container = document.getElementById(this.m_ID);
+        } catch {
+            this.m_container=document.body;
+        }
+
+        // SCENE
+        this.m_scene = new THREE.Scene();
+    
+        // CAMERA
+        var SCREEN_WIDTH = window.innerWidth, SCREEN_HEIGHT = window.innerHeight;
+        var VIEW_ANGLE = 45, ASPECT = SCREEN_WIDTH / SCREEN_HEIGHT, NEAR = 0.1, FAR = 20000;
+        this.m_camera = new THREE.PerspectiveCamera( VIEW_ANGLE, ASPECT, NEAR, FAR);
+        this.m_scene.add(this.m_camera);
+        this.m_camera.position.set(0,150,400);
+        this.m_camera.lookAt(this.m_scene.position);
+    
+        //RENDER
+        this.m_renderer = new THREE.WebGLRenderer( {antialias:true} );
+        this.m_renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+        
+        var container;
+        try {
+            container = document.getElementById(this.m_ID);
+            container.appendChild( this.m_renderer.domElement );
+        } catch {
+            document.body.appendChild( this.m_renderer.domElement );
+        }
+    
+        // CONTROLS
+        this.m_controls = new THREE.OrbitControls( this.m_camera, this.m_renderer.domElement );
+        // LIGHT
+        var light = new THREE.PointLight(0xffffff);
+        light.position.set(0,150,100);
+        this.m_scene.add(light);
+    
+        // FLOOR
+        var floorTexture = new THREE.ImageUtils.loadTexture( 'https://stemkoski.github.io/Three.js/images/checkerboard.jpg' );
+        floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping; 
+        floorTexture.repeat.set( 10, 10 );
+        var floorMaterial = new THREE.MeshBasicMaterial( { map: floorTexture, side: THREE.DoubleSide } );
+    
+        var floorGeometry = new THREE.PlaneGeometry(1000, 1000, 10, 10);
+        var floor = new THREE.Mesh(floorGeometry, floorMaterial);
+        floor.position.y = -0.5;
+        floor.rotation.x = Math.PI / 2;
+        this.m_scene.add(floor);
+    
+        // SKYBOX/FOG
+        var skyBoxGeometry = new THREE.CubeGeometry( 10000, 10000, 10000 );
+        var skyBoxMaterial = new THREE.MeshBasicMaterial( { color: 0x9999ff, side: THREE.BackSide } );
+        var skyBox = new THREE.Mesh( skyBoxGeometry, skyBoxMaterial );
+        this.m_scene.add(skyBox);
+    }
+
+    update() {
+        this.m_renderer.render( this.m_scene, this.m_camera );
+        this.m_controls.update();
+    }
+
+    addBox(L,W,H,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var cubeGeometry = new THREE.CubeGeometry( L, W, H );
+        var cube = new THREE.Mesh( cubeGeometry, material );
+        cube.position.set(x, y, z);
+        this.m_scene.add( cube );
+        return cube;
+    }
+
+    addCylinder(R,H,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var geometry = new THREE.CylinderGeometry( R,R,H,80,4 );
+        var shape = new THREE.Mesh( geometry, material );
+        shape.position.set(x, y, z);
+        this.m_scene.add( shape );
+        return shape;
+    }
+
+    addSphere(R,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var geometry = new THREE.SphereGeometry( R,32,16 );
+        var shape = new THREE.Mesh( geometry, material );
+        shape.position.set(x, y, z);
+        this.m_scene.add( shape );
+        return shape;
+    }
+
+
+}
+
+var world_3D=new Scene3D();
+
+function animate_3D() {
+    requestAnimationFrame(animate_3D);
+    world_3D.update();
+}
+
+
+/*
+例子:...
+测试:...
++[新建阅读窗口](,例子)
++[J函数](,ThreeJS)
+*/
+## end
+#10, 599:
+/*
++[J函数](,测试)
+
+参考Matrix::https://threejs.org/docs/#api/en/math/Matrix4
+参考Vector::https://threejs.org/docs/#api/en/math/Vector3
+
+测试lookAt:...
+测试Eulers:...
+测试Matrix:...
+测试rotationWorld:...
+(applyMatrix恐怕是乘以矩阵的意思)
+测试相机lookAt:...
+(旋转机位固定看点是另外的东西)
+测试ctrl性质:...
+测试cameraLookAt:...
+
+保存:...
+
+*/
+
+
+world_3D.init();
+var shape0=world_3D.addBox(100,100,10,100,100/2,0);
+var shape1=world_3D.addCylinder(5,365,0,365/2,0);
+var shape2=world_3D.addSphere(10,0,365,0);
+var shape3=world_3D.m_camera;
+
+var ctrl=world_3D.m_controls;
+world_3D.cameraLookAt(shape0);
+
+
+
+animate_3D();
+world_3D.update();
+
+
+/*
++[J函数](,测试)
+*/
+## end
+#11, 597:
+/*
++[J函数](,测试)
+
+参考Matrix::https://threejs.org/docs/#api/en/math/Matrix4
+参考Vector::https://threejs.org/docs/#api/en/math/Vector3
+
+测试lookAt:...
+测试Eulers:...
+测试Matrix:...
+测试rotationWorld:...
+(applyMatrix恐怕是乘以矩阵的意思)
+测试相机lookAt:...
+(旋转机位固定看点是另外的东西)
+
+保存:...
+
+*/
+
+
+world_3D.init();
+var shape0=world_3D.addBox(100,100,10,100,10,0);
+var shape1=world_3D.addCylinder(5,500,0,365,0);
+var shape2=world_3D.addSphere(10,0,365,0);
+var shape3=world_3D.m_camera;
+
+var ctrl=world_3D.m_controls;
+
+for(var key in ctrl) {
+    print(key);
+}
+print(ctrl.center.z)
+
+
+//animate_3D();
+//world_3D.update();
+
+
+/*
++[J函数](,测试)
+*/
+## end
+#12, 685:
+/*
++[J函数](,测试)
+
+参考Matrix::https://threejs.org/docs/#api/en/math/Matrix4
+参考Vector::https://threejs.org/docs/#api/en/math/Vector3
+
+测试lookAt:...
+测试Eulers:...
+测试Matrix:...
+测试rotationWorld:...
+(applyMatrix恐怕是乘以矩阵的意思)
+
+保存:...
+
+*/
+
+
+world_3D.init();
+var shape0=world_3D.addBox(100,100,10,100,10,0);
+var shape1=world_3D.addCylinder(5,500,0,365,0);
+var shape2=world_3D.addSphere(10,0,365,0);
+var shape3=world_3D.m_camera;
+
+
+
+var angle=90;
+var pt=[100,0,0];
+world_3D.rotateInWorld(shape0,pt,angle,'Y');
+world_3D.lookAt(shape0,shape1);
+//shape3.position.set(100,10,1000);
+world_3D.lookAt(shape3,shape1);
+//world_3D.m_camera.lookAt(0,0,1000)
+
+//animate_3D();
+world_3D.update();
+
+
+/*
++[J函数](,测试)
+*/
+## end
+#13, 458:
+/*
++[J函数](,测试)
+
+参考Matrix::https://threejs.org/docs/#api/en/math/Matrix4
+
+测试lookAt:...
+测试Eulers:...
+测试Matrix:...
+测试rotationWorld:...
+(applyMatrix恐怕是乘以矩阵的意思)
+
+保存:...
+
+*/
+
+
+world_3D.init();
+var shape0=world_3D.addBox(100,100,10,100,10,0);
+var shape1=world_3D.addCylinder(5,500,0,65,0);
+var shape2=world_3D.addSphere(10,0,65,0);
+
+
+
+var angle=90;
+var pt=[100,0,0];
+world_3D.rotateInWorld(shape0,pt,angle,'Y');
+
+animate_3D();
+world_3D.update();
+
+
+/*
++[J函数](,测试)
+*/
+## end
+#14, 809:
+/*
++[J函数](,测试)
+
+参考Matrix::https://threejs.org/docs/#api/en/math/Matrix4
+
+测试lookAt:...
+测试Eulers:...
+保存:...
+
+applyMatrix恐怕是乘以矩阵的意思
+*/
+
+
+world_3D.init();
+var shape0=world_3D.addBox(100,100,10,100,10,0);
+var shape1=world_3D.addCylinder(5,500,0,65,0);
+var shape2=world_3D.addSphere(10,0,65,0);
+
+/*
++[J函数](,测试)
+*/
+
+var angle=45;
+//world_3D.setRotationByEuler(shape0,45,45,0)
+
+var pt=[100,0,0];
+var T=new THREE.Matrix4().identity();
+T=T.multiply(new THREE.Matrix4().makeTranslation(-pt[0],-pt[1],-pt[2]));
+T=T.multiply(new THREE.Matrix4().makeRotationY(angle/180*Math.PI));
+T=T.multiply(new THREE.Matrix4().makeTranslation(pt[0],pt[1],pt[2]));
+
+shape0.updateMatrix();
+printMatrix(T);
+printMatrix(shape0.matrix);
+shape0.applyMatrix(T);
+printMatrix(shape0.matrix);
+
+animate_3D();
+world_3D.update();
+
+
+/*
++[J函数](,测试)
+*/
+## end
+#15, 580:
+/*
++[J函数](,测试)
+
+参考Matrix::https://threejs.org/docs/#api/en/math/Matrix4
+参考Vector::https://threejs.org/docs/#api/en/math/Vector3
+
+测试lookAt:...
+测试Eulers:...
+测试Matrix:...
+测试rotationWorld:...
+(applyMatrix恐怕是乘以矩阵的意思)
+测试相机lookAt:...
+(旋转机位固定看点是另外的东西)
+测试ctrl性质:...
+测试cameraLookAt:...
+
+保存:...
+
+*/
+
+
+world_3D.init();
+var shape0=world_3D.addBox(100,100,10,100,10,0);
+var shape1=world_3D.addCylinder(5,500,0,65,0);
+var shape2=world_3D.addSphere(10,0,65,0);
+
+
+
+var angle=120;
+var pt=[100,0,0];
+world_3D.rotateInWorld(shape0,pt,angle,'Y');
+
+animate_3D();
+world_3D.update();
+
+
+
+/*
++[J函数](,测试)
+*/
+## end
+#16, 45:
+https://threejs.org/docs/#api/en/math/Matrix4
+## end
+#17, 480:
+/*
++[J函数](,测试)
+
+测试lookAt:...
+*/
+
+
+world_3D.init();
+var shape0=world_3D.addBox(100,100,10,100,10,0);
+var shape1=world_3D.addCylinder(5,500,0,10,0);
+var shape2=world_3D.addSphere(10,0,65,0);
+
+alpha=0;
+beta=0;
+gamma=0;
+//shape0.setRotationFromEuler(new THREE.Euler(alpha/180*Math.PI,beta/180*Math.PI,gamma/180*Math.PI,'XYZ'))
+shape0.rotateZ(alpha/180*Math.PI);
+shape0.rotateX(beta/180*Math.PI);
+shape0.rotateZ(gamma/180*Math.PI);
+
+
+animate_3D();
+world_3D.update();
+
+/*
++[J函数](,测试)
+*/
+## end
+#18, 267:
+/*
++[J函数](,测试)
+
+测试lookAt:
+*/
+
+
+world_3D.init();
+var shape0=world_3D.addBox(100,10,100,100,10,0);
+var shape1=world_3D.addCylinder(5,500,0,10,0);
+var shape2=world_3D.addSphere(10,0,65,0);
+
+shape0.lookAt(new THREE.Vector3(-100,20,-100))
+
+animate_3D();
+world_3D.update();
+## end
+#28, 736:
+/*
++[J函数](,测试)
+
+参考Matrix::https://threejs.org/docs/#api/en/math/Matrix4
+参考Vector::https://threejs.org/docs/#api/en/math/Vector3
+
+测试lookAt:...
+测试Eulers:...
+测试Matrix:...
+测试rotationWorld:...
+(applyMatrix恐怕是乘以矩阵的意思)
+测试相机lookAt:...
+(旋转机位固定看点是另外的东西)
+测试ctrl性质:...
+测试cameraLookAt:...
+测试extrude:...
+AddExtrude:...
+
+保存:...
+
+*/
+
+
+world_3D.init();
+var shx=[10,10,20,20,30,30,40,40];
+var shy=[0,10,10,20,20,30,30,0];
+
+var shape0=world_3D.addBox(100,100,10,100,10,0);
+var shape1=world_3D.addCylinder(5,500,0,65,0);
+var shape2=world_3D.addSphere(10,0,65,0);
+var shape3=world_3D.addExtrudePolygon(shx,shy,300,0,0,0)
+
+
+var angle=120;
+var pt=[100,0,0];
+//world_3D.rotateInWorld(shape0,pt,angle,'Y');
+
+animate_3D();
+world_3D.update();
+
+
+
+/*
++[J函数](,测试)
+*/
+## end
+#29, 3306:
+/*
++[J函数](,ThreeJS)
+
+three(库)::https://stemkoski.github.io/Three.js/js/Three.js
+OrbitControls(库)::https://stemkoski.github.io/Three.js/js/OrbitControls.js
+three->库(three,)->+[del](,库)->+[del](,three)
+
+*/
+
+
+// MAIN
+
+// standard global variables
+var container, scene, camera, renderer, controls, stats;
+var cube;
+
+init();
+
+// FUNCTIONS 		
+function init() 
+{
+	// SCENE
+	scene = new THREE.Scene();
+	// CAMERA
+	var SCREEN_WIDTH = window.innerWidth, SCREEN_HEIGHT = window.innerHeight;
+	var VIEW_ANGLE = 45, ASPECT = SCREEN_WIDTH / SCREEN_HEIGHT, NEAR = 0.1, FAR = 20000;
+	camera = new THREE.PerspectiveCamera( VIEW_ANGLE, ASPECT, NEAR, FAR);
+	scene.add(camera);
+	camera.position.set(0,150,400);
+	camera.lookAt(scene.position);	
+	// RENDERER
+	//if ( Detector.webgl )
+		renderer = new THREE.WebGLRenderer( {antialias:true} );
+	//else
+		//renderer = new THREE.CanvasRenderer(); 
+	renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+	//container = document.getElementById( 'ThreeJS' );
+	//container.appendChild( renderer.domElement );
+    document.body.appendChild( renderer.domElement );
+	// EVENTS
+	//THREEx.WindowResize(renderer, camera);
+	//THREEx.FullScreen.bindKey({ charCode : 'm'.charCodeAt(0) });
+	// CONTROLS
+	controls = new THREE.OrbitControls( camera, renderer.domElement );
+	// LIGHT
+	var light = new THREE.PointLight(0xffffff);
+	light.position.set(0,150,100);
+	scene.add(light);
+	// FLOOR
+	var floorTexture = new THREE.ImageUtils.loadTexture( 'https://stemkoski.github.io/Three.js/images/checkerboard.jpg' );
+	floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping; 
+	floorTexture.repeat.set( 10, 10 );
+	var floorMaterial = new THREE.MeshBasicMaterial( { map: floorTexture, side: THREE.DoubleSide } );
+
+	var floorGeometry = new THREE.PlaneGeometry(1000, 1000, 10, 10);
+	var floor = new THREE.Mesh(floorGeometry, floorMaterial);
+	floor.position.y = -0.5;
+	floor.rotation.x = Math.PI / 2;
+	scene.add(floor);
+	// SKYBOX/FOG
+	var skyBoxGeometry = new THREE.CubeGeometry( 10000, 10000, 10000 );
+	var skyBoxMaterial = new THREE.MeshBasicMaterial( { color: 0x9999ff, side: THREE.BackSide } );
+	var skyBox = new THREE.Mesh( skyBoxGeometry, skyBoxMaterial );
+	scene.add(skyBox);
+	
+	////////////
+	// CUSTOM //
+	////////////
+
+	var material = new THREE.MeshNormalMaterial();
+
+	var sphereGeometry = new THREE.SphereGeometry(50, 32, 16);
+	var sphere = new THREE.Mesh( sphereGeometry, material );
+	sphere.position.set(-60, 55, 0);
+	scene.add( sphere );		
+
+	var outlineMaterial1 = new THREE.MeshBasicMaterial( { color: 0xff0000, side: THREE.BackSide } );
+	var outlineMesh1 = new THREE.Mesh( sphereGeometry, outlineMaterial1 );
+	outlineMesh1.position = sphere.position;
+	outlineMesh1.scale.multiplyScalar(1.05);
+	scene.add( outlineMesh1 );
+	
+	var cubeGeometry = new THREE.CubeGeometry( 80, 80, 80 );
+	var cube = new THREE.Mesh( cubeGeometry, material );
+	cube.position.set(60, 60, 0);
+	scene.add( cube );		
+	
+
+	var geometry = new THREE.CylinderGeometry(30,30,80,20,4);
+	var shape = new THREE.Mesh( geometry, material );
+	shape.position.set(60, 60, 160);
+	scene.add( shape );		
+}
+
+function animate() {
+    //requestAnimationFrame(animate);
+    render();
+    update();
+}
+
+function update() {
+    controls.update();
+}
+
+function render() {
+    renderer.render( scene, camera );
+}
+
+animate();
+//render();
+//update();
+
+
+
+
+## end
+#34, 7019:
+/*
++[J函数](,ThreeJS)
++J函数(ThreeJS,)
+three(库)::https://stemkoski.github.io/Three.js/js/Three.js
+OrbitControls(库)::https://stemkoski.github.io/Three.js/js/OrbitControls.js
+three->库(three,)->+[del](,库)->+[del](,three)
+OrbitControls->库(OrbitControls,)->+[del](,库)->+[del](,OrbitControls)
++[打开网页](,three)
+
+有什么
+保存:...
++[J函数](,测试)
+*/
+
+
+// MAIN
+
+// standard global variables
+var container, scene, camera, renderer, controls, stats;
+var cube;
+
+class Scene3D {
+    constructor(ID='') {
+        this.m_ID=ID;
+        this.m_container='';
+        this.m_scene='';
+        this.m_camera='';
+        this.m_render='';
+        this.m_control='';
+    }
+
+    init(ID='') {
+        if(ID!=="") {
+            this.m_ID=ID;
+            this.m_container = document.getElementById(this.m_ID);
+        }
+        else {
+            this.m_container=document.body;
+        }
+        if(this.m_container===null) {
+            this.m_container=document.body;
+        }
+
+        // SCENE
+        this.m_scene = new THREE.Scene();
+    
+        // CAMERA
+        var SCREEN_WIDTH = this.m_container.offsetWidth; 
+        var SCREEN_HEIGHT = this.m_container.offsetHeight;
+        var VIEW_ANGLE = 45, ASPECT = SCREEN_WIDTH / SCREEN_HEIGHT, NEAR = 0.1, FAR = 20000;
+        this.m_camera = new THREE.PerspectiveCamera( VIEW_ANGLE, ASPECT, NEAR, FAR);
+        this.m_scene.add(this.m_camera);
+        this.m_camera.position.set(0,150,400);
+        this.m_camera.lookAt(this.m_scene.position);
+        //this.m_camera.lookAt(new THREE.Vector3(0,600,0));
+        //this.m_camera.lookAt(0,600,0);
+    
+        //RENDER
+        this.m_renderer = new THREE.WebGLRenderer( {antialias:true} );
+        this.m_renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+        
+        this.m_container.appendChild( this.m_renderer.domElement );
+    
+        // CONTROLS
+        this.m_controls = new THREE.OrbitControls( this.m_camera, this.m_renderer.domElement );
+        // LIGHT
+        var light = new THREE.PointLight(0xffffff);
+        light.position.set(0,150,100);
+        this.m_scene.add(light);
+    
+        // FLOOR
+        var floorTexture = new THREE.ImageUtils.loadTexture( 'https://stemkoski.github.io/Three.js/images/checkerboard.jpg' );
+        floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping; 
+        floorTexture.repeat.set( 10, 10 );
+        var floorMaterial = new THREE.MeshBasicMaterial( { map: floorTexture, side: THREE.DoubleSide } );
+    
+        var floorGeometry = new THREE.PlaneGeometry(1000, 1000, 10, 10);
+        var floor = new THREE.Mesh(floorGeometry, floorMaterial);
+        floor.position.y = -0.5;
+        floor.rotation.x = Math.PI / 2;
+        this.m_scene.add(floor);
+    
+        // SKYBOX/FOG
+        var skyBoxGeometry = new THREE.CubeGeometry( 10000, 10000, 10000 );
+        var skyBoxMaterial = new THREE.MeshBasicMaterial( { color: 0x9999ff, side: THREE.BackSide } );
+        var skyBox = new THREE.Mesh( skyBoxGeometry, skyBoxMaterial );
+        this.m_scene.add(skyBox);
+    }
+
+    update() {
+        this.m_renderer.render( this.m_scene, this.m_camera );
+        this.m_controls.update();
+    }
+
+    addBox(L,W,H,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var cubeGeometry = new THREE.CubeGeometry( 1, 1, 1 );
+        var cube = new THREE.Mesh( cubeGeometry, material );
+        cube.position.set(x,y,z);
+        cube.scale.x=L;
+        cube.scale.y=W;
+        cube.scale.z=H;
+        this.m_scene.add( cube );
+        return cube;
+    }
+
+    addCylinder(R,H,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var geometry = new THREE.CylinderGeometry( 1,1,1,80,4 );
+        var shape = new THREE.Mesh( geometry, material );
+        shape.position.set(x, y, z);
+        shape.scale.x=R;
+        shape.scale.y=H;
+        shape.scale.z=R;
+        this.m_scene.add( shape );
+        return shape;
+    }
+
+    addSphere(R,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var geometry = new THREE.SphereGeometry( 1,32,16 );
+        var shape = new THREE.Mesh( geometry, material );
+        shape.scale.x=R;
+        shape.scale.y=R;
+        shape.scale.z=R;
+        shape.position.set(x, y, z);
+        this.m_scene.add( shape );
+        return shape;
+    }
+
+    addExtrudePolygon(shx,shy,height,x,y,z) {
+        const shape = new THREE.Shape();
+        for (var i=0;i<shx.length;i++) {
+            if(i==0) {
+                shape.moveTo(shx[i],shy[i]);
+            }
+            else {
+                shape.lineTo(shx[i],shy[i]);
+            }
+        }
+        const extrudeSettings = {
+        	steps: 2,
+                amount: height,
+        	bevelEnabled: false,
+        };
+        
+        const geometry = new THREE.ExtrudeGeometry( shape, extrudeSettings );
+        const material = new THREE.MeshNormalMaterial();
+        const mesh = new THREE.Mesh( geometry, material ) ;
+        mesh.position.set(x,y,z);
+        this.m_scene.add(mesh);
+        
+        return mesh;
+    }
+
+    setRotationByEuler(shape,alpha,beta,gamma) {
+        shape.setRotationFromEuler(new THREE.Euler(0,0,0,'XYZ'));
+        shape.rotateZ(alpha/180*Math.PI);
+        shape.rotateX(beta/180*Math.PI);
+        shape.rotateZ(gamma/180*Math.PI);
+        return shape;
+    }
+
+    rotateInWorld(shape,pt,angle,axis='Z') {
+        var T=new THREE.Matrix4().identity();
+        T=T.multiply(new THREE.Matrix4().makeTranslation(pt[0],pt[1],pt[2]));
+        if(axis==='X') {
+            T=T.multiply(new THREE.Matrix4().makeRotationX(angle/180*Math.PI));
+        }
+        else if(axis==='Y') {
+            T=T.multiply(new THREE.Matrix4().makeRotationY(angle/180*Math.PI));
+        }
+        else if(axis==='Z') {
+            T=T.multiply(new THREE.Matrix4().makeRotationZ(angle/180*Math.PI));
+        }
+        T=T.multiply(new THREE.Matrix4().makeTranslation(-pt[0],-pt[1],-pt[2]));
+        
+        shape.updateMatrix();
+        shape.applyMatrix(T);
+        return shape;
+    }
+
+    lookAt_pt(shape,pt) {
+        shape.lookAt(new THREE.Vector3(pt[0],pt[1],pt[2]));
+        return shape;
+    }
+
+    lookAt(shape,shape0) {
+        shape.lookAt(shape0.position);
+        return shape;
+    }
+
+    cameraLookAt_pt(pt) {
+        this.lookAt_pt(this.m_camera,pt);
+        this.m_controls.center.x=pt[0];
+        this.m_controls.center.y=pt[1];
+        this.m_controls.center.z=pt[2];
+    }
+
+    cameraLookAt(shape) {
+        this.lookAt(this.m_camera,shape);
+        this.m_controls.center.x=shape.position.x;
+        this.m_controls.center.y=shape.position.y;
+        this.m_controls.center.z=shape.position.z;
+    }
+
+}
+
+var world_3D=new Scene3D();
+
+function animate_3D() {
+    requestAnimationFrame(animate_3D);
+    world_3D.update();
+}
+
+function printMatrix(matrix) {
+    var list_val=matrix.elements;
+    var str_line='';
+    for(var i=0;i<4;i++) {
+        for(var j=0;j<4;j++) {
+            str_line+=`${list_val[j+i*4]}, `;
+        }
+        print(str_line);
+        str_line='';
+    }
+    print();
+}
+
+
+/*
+例子:...
+测试:...
++[新建阅读窗口](,测试)
++[J函数](,ThreeJS)
+*/
+## end
+#43, 56:
+https://stemkoski.github.io/Three.js/js/OrbitControls.js
+## end
+#46, 48:
+https://stemkoski.github.io/Three.js/js/Three.js
+## end
+#50, 1233:
+/*
++[J函数](,测试)
+
+参考Matrix::https://threejs.org/docs/#api/en/math/Matrix4
+参考Vector::https://threejs.org/docs/#api/en/math/Vector3
+
+测试lookAt:...
+测试Eulers:...
+测试Matrix:...
+测试rotationWorld:...
+(applyMatrix恐怕是乘以矩阵的意思)
+测试相机lookAt:...
+(旋转机位固定看点是另外的东西)
+测试ctrl性质:...
+测试cameraLookAt:...
+测试extrude:...
+
+保存:...
+
+*/
+
+
+world_3D.init();
+var shape0=world_3D.addBox(100,100,10,100,10,0);
+var shape1=world_3D.addCylinder(5,500,0,65,0);
+var shape2=world_3D.addSphere(10,0,65,0);
+
+const length = 30, width = 30;
+
+const shape = new THREE.Shape();
+shape.moveTo( 0,0 );
+shape.lineTo( 0, width );
+shape.lineTo( length, width );
+shape.lineTo( length, 0 );
+shape.lineTo( 0, 0 );
+
+
+/*
++[J函数](,测试)
+*/
+const extrudeSettings = {
+	steps: 2,
+        amount: 10,
+	bevelEnabled: false,
+	bevelThickness: 10,
+	bevelSize: 3,
+	bevelOffset: 1,
+	bevelSegments: 10
+};
+
+const geometry = new THREE.ExtrudeGeometry( shape, extrudeSettings );
+const material = new THREE.MeshNormalMaterial();
+const mesh = new THREE.Mesh( geometry, material ) ;
+mesh.position.set(30,20,0);
+world_3D.m_scene.add( mesh );
+
+
+var angle=120;
+var pt=[100,0,0];
+world_3D.rotateInWorld(shape0,pt,angle,'Y');
+world_3D.rotateInWorld(mesh,pt,angle,'Y');
+
+animate_3D();
+world_3D.update();
+
+
+
+/*
++[J函数](,测试)
+*/
+## end
+#52, 785:
+/*
++[J函数](,测试)
+
+参考Matrix::https://threejs.org/docs/#api/en/math/Matrix4
+参考Vector::https://threejs.org/docs/#api/en/math/Vector3
+
+测试lookAt:...
+测试Eulers:...
+测试Matrix:...
+测试rotationWorld:...
+(applyMatrix恐怕是乘以矩阵的意思)
+测试相机lookAt:...
+(旋转机位固定看点是另外的东西)
+测试ctrl性质:...
+测试cameraLookAt:...
+测试extrude:...
+AddExtrude:...
+
+保存:...
+
+*/
+
+
+world_3D.init();
+var shape0=world_3D.addBox(100,100,10,100,10,0);
+var shape1=world_3D.addCylinder(5,500,0,65,0);
+var shape2=world_3D.addSphere(10,0,65,0);
+
+const length = 30, width = 30;
+
+
+/*
++[J函数](,测试)
+*/
+var shx=[10,10,20,20,30,30,40,40];
+var shy=[0,10,10,20,20,30,30,0];
+var shape3=world_3D.addExtrudePolygon(shx,shy,300,0,0,0)
+
+
+var angle=120;
+var pt=[100,0,0];
+world_3D.rotateInWorld(shape0,pt,angle,'Y');
+
+animate_3D();
+world_3D.update();
+
+
+
+/*
++[J函数](,测试)
+*/
+## end
+#54, 65:
+https://stemkoski.github.io/Three.js/Model-Animation-Control.html
+## end
+#56, 326:
++[粘贴](,操作)
+
+
+结构转ThreeJS:...
+组合体转ThreeJS:...
+三维场景转ThreeJS:...
+三维场景转ThreeJS_全局:...
++[新建阅读窗口](,三维场景转ThreeJS_全局)
+将'三维场景转ThreeJS'的"P模板"替换为"H模板"
+将条目"三维场景转ThreeJS"复制为条目"三维场景转ThreeJS_全局"
++[复制结构](,三维场景转ThreeJS_全局)
+
+
+三维场景转ThreeJS_模块:...
+将'三维场景转ThreeJS_模块'的"全局"替换为"模块"
+的(三维场景转ThreeJS_全局,组合体转ThreeJS)->+[有](三维场景转ThreeJS_模块,组合体转ThreeJS)
+
+
+
+## end
+#57, 610:
+import bpy, mathutils
+import numpy as np
+
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+pos=[0.0, 0.0, 0.0]
+bpy.ops.mesh.primitive_cylinder_add(radius=2.0,depth=10.0)
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,10.0/2)))
+A.location=(pos[0],pos[1],pos[2])
+A.rotation_euler=np.deg2rad(np.array([90,45,45]))
+
+pos=[0.0, 0.0, 0.0]
+bpy.ops.mesh.primitive_cube_add()
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,1)))
+A.location=(pos[0],pos[1],pos[2])
+A.scale=(1.0/2,1.0/2,10.0/2)
+A.rotation_euler=np.deg2rad(np.array([0,0,45]))
+
+
+## end
+#58, 7385:
+<!--
++[网页](web,%[标题])
+-->
+
+<head>
+<script>
+function print() {
+    document.getElementById("cmd_window").innerHTML+="<br>";
+    for (var i=0; i < arguments.length; i++) {
+        text=arguments[i];
+        document.getElementById("cmd_window").innerHTML+=" "+text;
+    }
+}
+</script>
+<script src="https://cdn.jsdelivr.net/npm/phaser@3.15.1/dist/phaser-arcade-physics.min.js">
+</script>
+<script src="https://stemkoski.github.io/Three.js/js/Three.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/OrbitControls.js"></script>
+
+</head>
+
+<html>
+
+<body>
+<p id="cmd_window">Hello world!</p>
+
+
+<script>
+
+
+
+// MAIN
+
+// standard global variables
+var container, scene, camera, renderer, controls, stats;
+var cube;
+
+class Scene3D {
+    constructor(ID='') {
+        this.m_ID=ID;
+        this.m_container='';
+        this.m_scene='';
+        this.m_camera='';
+        this.m_render='';
+        this.m_control='';
+    }
+
+    init(ID='') {
+        if(ID!=="") {
+            this.m_ID=ID;
+            this.m_container = document.getElementById(this.m_ID);
+        }
+        else {
+            this.m_container=document.body;
+        }
+        if(this.m_container===null) {
+            this.m_container=document.body;
+        }
+
+        // SCENE
+        this.m_scene = new THREE.Scene();
+    
+        // CAMERA
+        var SCREEN_WIDTH = this.m_container.offsetWidth; 
+        var SCREEN_HEIGHT = this.m_container.offsetHeight;
+        var VIEW_ANGLE = 45, ASPECT = SCREEN_WIDTH / SCREEN_HEIGHT, NEAR = 0.1, FAR = 20000;
+        this.m_camera = new THREE.PerspectiveCamera( VIEW_ANGLE, ASPECT, NEAR, FAR);
+        this.m_scene.add(this.m_camera);
+        this.m_camera.position.set(0,150,400);
+        this.m_camera.lookAt(this.m_scene.position);
+        //this.m_camera.lookAt(new THREE.Vector3(0,600,0));
+        //this.m_camera.lookAt(0,600,0);
+    
+        //RENDER
+        this.m_renderer = new THREE.WebGLRenderer( {antialias:true} );
+        this.m_renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+        
+        this.m_container.appendChild( this.m_renderer.domElement );
+    
+        // CONTROLS
+        this.m_controls = new THREE.OrbitControls( this.m_camera, this.m_renderer.domElement );
+        // LIGHT
+        var light = new THREE.PointLight(0xffffff);
+        light.position.set(0,150,100);
+        this.m_scene.add(light);
+    
+        // FLOOR
+        var floorTexture = new THREE.ImageUtils.loadTexture( 'https://stemkoski.github.io/Three.js/images/checkerboard.jpg' );
+        floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping; 
+        floorTexture.repeat.set( 10, 10 );
+        var floorMaterial = new THREE.MeshBasicMaterial( { map: floorTexture, side: THREE.DoubleSide } );
+    
+        var floorGeometry = new THREE.PlaneGeometry(1000, 1000, 10, 10);
+        var floor = new THREE.Mesh(floorGeometry, floorMaterial);
+        floor.position.y = -0.;
+        floor.rotation.x = Math.PI / 2;
+        this.m_scene.add(floor);
+    
+        // SKYBOX/FOG
+        var skyBoxGeometry = new THREE.CubeGeometry( 10000, 10000, 10000 );
+        var skyBoxMaterial = new THREE.MeshBasicMaterial( { color: 0x9999ff, side: THREE.BackSide } );
+        var skyBox = new THREE.Mesh( skyBoxGeometry, skyBoxMaterial );
+        this.m_scene.add(skyBox);
+    }
+
+    update() {
+        this.m_renderer.render( this.m_scene, this.m_camera );
+        this.m_controls.update();
+    }
+
+    addBox(L,W,H,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var cubeGeometry = new THREE.CubeGeometry( 1, 1, 1 );
+        var cube = new THREE.Mesh( cubeGeometry, material );
+        cube.position.set(x,y,z);
+        cube.scale.x=L;
+        cube.scale.y=W;
+        cube.scale.z=H;
+        this.m_scene.add( cube );
+        return cube;
+    }
+
+    addCylinder(R,H,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var geometry = new THREE.CylinderGeometry( 1,1,1,80,4 );
+        var shape = new THREE.Mesh( geometry, material );
+        shape.position.set(x, y, z);
+        shape.scale.x=R;
+        shape.scale.y=H;
+        shape.scale.z=R;
+        this.m_scene.add( shape );
+        return shape;
+    }
+
+    addSphere(R,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var geometry = new THREE.SphereGeometry( 1,32,16 );
+        var shape = new THREE.Mesh( geometry, material );
+        shape.scale.x=R;
+        shape.scale.y=R;
+        shape.scale.z=R;
+        shape.position.set(x, y, z);
+        this.m_scene.add( shape );
+        return shape;
+    }
+
+    addExtrudePolygon(shx,shy,height,x,y,z) {
+        const shape = new THREE.Shape();
+        for (var i=0;i<shx.length;i++) {
+            if(i==0) {
+                shape.moveTo(shx[i],shy[i]);
+            }
+            else {
+                shape.lineTo(shx[i],shy[i]);
+            }
+        }
+        const extrudeSettings = {
+        	steps: 2,
+                amount: height,
+        	bevelEnabled: false,
+        };
+        
+        const geometry = new THREE.ExtrudeGeometry( shape, extrudeSettings );
+        const material = new THREE.MeshNormalMaterial();
+        const mesh = new THREE.Mesh( geometry, material ) ;
+        mesh.position.set(x,y,z);
+        this.m_scene.add(mesh);
+        
+        return mesh;
+    }
+
+    setRotationByEuler(shape,alpha,beta,gamma) {
+        shape.setRotationFromEuler(new THREE.Euler(0,0,0,'XYZ'));
+        shape.rotateZ(alpha/180*Math.PI);
+        shape.rotateX(beta/180*Math.PI);
+        shape.rotateZ(gamma/180*Math.PI);
+        return shape;
+    }
+
+    rotateInWorld(shape,pt,angle,axis='Z') {
+        var T=new THREE.Matrix4().identity();
+        T=T.multiply(new THREE.Matrix4().makeTranslation(pt[0],pt[1],pt[2]));
+        if(axis==='X') {
+            T=T.multiply(new THREE.Matrix4().makeRotationX(angle/180*Math.PI));
+        }
+        else if(axis==='Y') {
+            T=T.multiply(new THREE.Matrix4().makeRotationY(angle/180*Math.PI));
+        }
+        else if(axis==='Z') {
+            T=T.multiply(new THREE.Matrix4().makeRotationZ(angle/180*Math.PI));
+        }
+        T=T.multiply(new THREE.Matrix4().makeTranslation(-pt[0],-pt[1],-pt[2]));
+        
+        shape.updateMatrix();
+        shape.applyMatrix(T);
+        return shape;
+    }
+
+    lookAt_pt(shape,pt) {
+        shape.lookAt(new THREE.Vector3(pt[0],pt[1],pt[2]));
+        return shape;
+    }
+
+    lookAt(shape,shape0) {
+        shape.lookAt(shape0.position);
+        return shape;
+    }
+
+    cameraLookAt_pt(pt) {
+        this.lookAt_pt(this.m_camera,pt);
+        this.m_controls.center.x=pt[0];
+        this.m_controls.center.y=pt[1];
+        this.m_controls.center.z=pt[2];
+    }
+
+    cameraLookAt(shape) {
+        this.lookAt(this.m_camera,shape);
+        this.m_controls.center.x=shape.position.x;
+        this.m_controls.center.y=shape.position.y;
+        this.m_controls.center.z=shape.position.z;
+    }
+
+}
+
+var world_3D=new Scene3D();
+
+function animate_3D() {
+    requestAnimationFrame(animate_3D);
+    world_3D.update();
+}
+
+function printMatrix(matrix) {
+    var list_val=matrix.elements;
+    var str_line='';
+    for(var i=0;i<4;i++) {
+        for(var j=0;j<4;j++) {
+            str_line+=`${list_val[j+i*4]}, `;
+        }
+        print(str_line);
+        str_line='';
+    }
+    print();
+}
+
+
+world_3D.init();
+var shape, pt, eulers;
+
+%场景
+
+animate_3D();
+world_3D.update();
+
+</script>
+
+</body>
+</html>
+
+<!--
++[网页](web,%[标题])
+-->
+## end
+#61, 349:
+"""
+组合体转ThreeJS:...
+
+H模板:...
++[修改标题]"H模板"(,H模板)
+Nini, 打开动词(库)
+保存:...
+
+"""
+
++三维场景转ThreeJS_全局(_场景,_输出)->+[del](,+三维场景转ThreeJS_全局)...
+->的(三维场景转ThreeJS_全局,H模板)...
+->的(三维场景转ThreeJS_全局,组合体转ThreeJS)...
+
+->+[做](_场景,+[临时文本])->+[code](+[做],组合体转ThreeJS)...
+->_输出->+[标题](_输出,)...
+    ->+[模板文本](H模板,_输出)...
+    ->+[.]"场景"(+[模板文本],+[临时文本])->+[.](+[模板文本],+[标题])
+
+
+
+## end
+#63, 243:
+"""
+
+
+"""
+
++组合体转ThreeJS(_结构体,_输出)->+[del](,+组合体转ThreeJS)...
+
+->+[临时文本]->[]{
+    []:->的(_结构体,类型)->+[结构转ThreeJS](_结构体,_输出),
+    =>的(_结构体,_结构)->的(_结构,类型#1)...
+        =>+[结构转ThreeJS](_结构,+[增加内容])->+[增加内容](,+[临时文本])
+}...
+
+->+[修改内容](+[临时文本],_输出)
+
+
+
+## end
+#65, 337:
+
+pt=[%空间点];
+eulers=[%方向];
+shape=world_3D.addBox(%宽度,%长度,%高度,pt[0],pt[1],pt[2]+%高度/2);
+world_3D.rotateInWorld(shape,[%空间点],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[%空间点],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[%空间点],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+## end
+#66, 73:
+%{
+
+%}
+
+
+W_out=scale*W;
+L_out=scale*L;
+H_out=scale*H;
+pt_out=scale*pt;
+
+
+
+## end
+#69, 737:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
++[新建阅读窗口](,P模板)
+
+"""
+
++立方体(_结构,_代码)->+[del](,+立方体)...
+->的(立方体,P模板)->的(立方体,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,长度)->的(_结构,宽度)->的(_结构,高度)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"L"(+[matlab],长度)->+[o]"L_out"(+[matlab],+长度)...
+    ->+[.](+[模板文本],+长度)->+[del](,+长度)...
+->+[.]"W"(+[matlab],宽度)->+[o]"W_out"(+[matlab],+宽度)...
+    ->+[.](+[模板文本],+宽度)->+[del](,+宽度)...
+->+[.]"H"(+[matlab],高度)->+[o]"H_out"(+[matlab],+高度)...
+    ->+[.](+[模板文本],+高度)->+[del](,+高度)...
+->+[.](+[模板文本],方向)
+
+
+
+
+## end
+#70, 73:
+%{
+
+%}
+
+
+x_out=scale*x;
+y_out=scale*y;
+H_out=scale*H;
+pt_out=scale*pt;
+
+
+
+## end
+#71, 216:
+
+pt=[%空间点];
+shape=world_3D.addExtrudePolygon([%x],[%y],%高度, pt[0], pt[1], pt[2]);
+world_3D.setRotationByEuler(shape,%方向);
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+## end
+#74, 727:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
++[新建阅读窗口](,P模板)
+
+"""
+
++多面体(_结构,_代码)->+[del](,+多面体)...
+->的(多面体,P模板)->的(多面体,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,x)->的(_结构,y)->的(_结构,高度)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"x"(+[matlab],x)->+[o]"x_out"(+[matlab],+x)...
+    ->+[.](+[模板文本],+x)->+[del](,+x)...
+->+[.]"y"(+[matlab],y)->+[o]"y_out"(+[matlab],+y)...
+    ->+[.](+[模板文本],+y)->+[del](,+y)...
+->+[.]"H"(+[matlab],高度)->+[o]"H_out"(+[matlab],+高度)...
+    ->+[.](+[模板文本],+高度)->+[del](,+高度)...
+->+[.](+[模板文本],方向)
+
+
+
+
+## end
+#75, 406:
+
+pt=[%空间点];
+pt1=[-pt[1],pt[2],-pt[0]];
+eulers=[%方向];
+shape=world_3D.addCylinder(%半径,%高度,pt[0],pt[1],pt[2]+%高度/2);
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+world_3D.setRotationByEuler(shape,0.0, 0.0, 0.0);
+world_3D.rotateInWorld(shape,pt1,eulers[2],'Y');
+world_3D.rotateInWorld(shape,pt1,-eulers[1],'Z');
+world_3D.rotateInWorld(shape,pt1,eulers[0],'Y');
+
+
+## end
+#76, 58:
+%{
+
+%}
+
+
+R_out=scale*R;
+H_out=scale*H;
+pt_out=scale*pt;
+
+
+
+## end
+#79, 614:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++圆柱体(_结构,_代码)->+[del](,+圆柱体)...
+->的(圆柱体,P模板)->的(圆柱体,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,半径)->的(_结构,高度)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"R"(+[matlab],半径)->+[o]"R_out"(+[matlab],+半径)...
+    ->+[.](+[模板文本],+半径)->+[del](,+半径)...
+->+[.]"H"(+[matlab],高度)->+[o]"H_out"(+[matlab],+高度)...
+    ->+[.](+[模板文本],+高度)->+[del](,+高度)...
+->+[.](+[模板文本],方向)
+
+
+
+
+## end
+#80, 348:
+pos=[%空间点]
+eulers=np.deg2rad(np.array([%方向]))
+bpy.ops.mesh.primitive_plane_add()
+A=bpy.context.selected_objects[0]
+A.location=(pos[0],pos[1],pos[2])
+A.scale=(%宽度/2,%长度/2,1)
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+A.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#81, 43:
+%{
+
+%}
+
+W=max(max(X))*2;
+L=max(max(Y))*2;
+
+
+## end
+#84, 682:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++平面(_结构,_代码)->+[del](,+平面)...
+->的(平面,P模板)->的(平面,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向):
+->的(_结构,长度)->的(_结构,宽度)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],长度)->+[.](+[模板文本],宽度),
+
+->的(_结构,X)->的(_结构,Y)->的(_结构,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.]"长度"(+[模板文本],+[临时文本]#L)->+[o]"L"(+[matlab],+[临时文本]#L)...
+    ->+[.]"宽度"(+[模板文本],+[临时文本]#W)->+[o]"W"(+[matlab],+[临时文本]#W)
+
+
+
+
+## end
+#85, 24:
+%{
+
+%}
+
+R=max(max(X));
+
+
+## end
+#86, 169:
+
+shape=world_3D.addSphere(%半径,%空间点);
+world_3D.setRotationByEuler(shape,%方向);
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+## end
+#89, 586:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++球体(_结构,_代码)->+[del](,+球体)...
+->的(球体,P模板)->的(球体,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向):
+->的(_结构,半径)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],半径),
+
+->的(_结构,X)->的(_结构,Y)->的(_结构,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.]"半径"(+[模板文本],+[临时文本]#R)->+[o]"R"(+[matlab],+[临时文本]#R)
+
+
+
+
+## end
+#95, 102:
+
+
+立方体:...
+圆柱体:...
+球体:...
+平面:...
+多面体:...
+将条目"立方体"复制为条目"多面体"
+在'选择区域'中, 将多面体的"宽度"替换为"y"
++[新建阅读窗口](,立方体)
+
+
+## end
+#97, 433:
+"""
+库:...
+
+->[==]"平面"(,类型)->的(库,平面)->+[做](_结构,_代码)->+[code](+[做],平面),
+
+"""
+
++结构转ThreeJS(_结构,_代码)->+[del](,+结构转ThreeJS)...
+->的(结构转ThreeJS,库)...
+
+->+[matlab]"scale=30;"(Matlab,)->的(_结构,类型):
+->[==]"立方体"(,类型)->的(库,立方体)->+[做](_结构,_代码)->+[code](+[做],立方体),
+->[==]"圆柱体"(,类型)->的(库,圆柱体)->+[做](_结构,_代码)->+[code](+[做],圆柱体),
+->[==]"球体"(,类型)->的(库,球体)->+[做](_结构,_代码)->+[code](+[做],球体),
+->[==]"多面体"(,类型)->的(库,多面体)->+[做](_结构,_代码)->+[code](+[做],多面体)
+
+
+## end
+#100, 199:
+
+
+好了, 然后解决一下scale和方向的问题
+方向问题这样处理. 首先three.js的代码中的坐标按three.js的习惯来. 就y对应z轮换一遍
+空间角在这里重新定义. y轴当z轴用
+在空间角含义换了以后, 我只要修改物体的初始位置就可以了. 在three.js中做一下旋转即可. 
+(z--90, y-90)
+额, 我暂时没有修改空间角的含义, 好像也可以
+(有调整, 不完全一样)
+
+
+
+
+## end
+#107, 18524:
+<!--
+角色控制::https://stemkoski.github.io/Three.js/Model-Animation-Control.html
++[打开网页](,角色控制)
+
++[网页](web,角色测试)
+
+参考代码:...
++[网页](web,参考代码)
+-->
+
+<head>
+<script>
+function print() {
+    document.getElementById("cmd_window").innerHTML+="<br>";
+    for (var i=0; i < arguments.length; i++) {
+        text=arguments[i];
+        document.getElementById("cmd_window").innerHTML+=" "+text;
+    }
+}
+</script>
+<script src="https://cdn.jsdelivr.net/npm/phaser@3.15.1/dist/phaser-arcade-physics.min.js">
+</script>
+<script src="https://stemkoski.github.io/Three.js/js/Three.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/OrbitControls.js"></script>
+
+</head>
+
+<html>
+
+<body>
+<p id="cmd_window">Hello world!</p>
+
+
+<script>
+
+
+
+// MAIN
+
+// standard global variables
+var container, scene, camera, renderer, controls, stats;
+var cube;
+
+class Scene3D {
+    constructor(ID='') {
+        this.m_ID=ID;
+        this.m_container='';
+        this.m_scene='';
+        this.m_camera='';
+        this.m_render='';
+        this.m_control='';
+    }
+
+    init(ID='') {
+        if(ID!=="") {
+            this.m_ID=ID;
+            this.m_container = document.getElementById(this.m_ID);
+        }
+        else {
+            this.m_container=document.body;
+        }
+        if(this.m_container===null) {
+            this.m_container=document.body;
+        }
+
+        // SCENE
+        this.m_scene = new THREE.Scene();
+    
+        // CAMERA
+        var SCREEN_WIDTH = this.m_container.offsetWidth; 
+        var SCREEN_HEIGHT = this.m_container.offsetHeight;
+        var VIEW_ANGLE = 45, ASPECT = SCREEN_WIDTH / SCREEN_HEIGHT, NEAR = 0.1, FAR = 20000;
+        this.m_camera = new THREE.PerspectiveCamera( VIEW_ANGLE, ASPECT, NEAR, FAR);
+        this.m_scene.add(this.m_camera);
+        this.m_camera.position.set(0,150,400);
+        this.m_camera.lookAt(this.m_scene.position);
+        //this.m_camera.lookAt(new THREE.Vector3(0,600,0));
+        //this.m_camera.lookAt(0,600,0);
+    
+        //RENDER
+        this.m_renderer = new THREE.WebGLRenderer( {antialias:true} );
+        this.m_renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+        
+        this.m_container.appendChild( this.m_renderer.domElement );
+    
+        // CONTROLS
+        this.m_controls = new THREE.OrbitControls( this.m_camera, this.m_renderer.domElement );
+        // LIGHT
+        var light = new THREE.PointLight(0xffffff);
+        light.position.set(0,150,100);
+        this.m_scene.add(light);
+    
+        // FLOOR
+        var floorTexture = new THREE.ImageUtils.loadTexture( 'https://stemkoski.github.io/Three.js/images/checkerboard.jpg' );
+        floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping; 
+        floorTexture.repeat.set( 10, 10 );
+        var floorMaterial = new THREE.MeshBasicMaterial( { map: floorTexture, side: THREE.DoubleSide } );
+    
+        var floorGeometry = new THREE.PlaneGeometry(1000, 1000, 10, 10);
+        var floor = new THREE.Mesh(floorGeometry, floorMaterial);
+        floor.position.y = -0.;
+        floor.rotation.x = Math.PI / 2;
+        this.m_scene.add(floor);
+    
+        // SKYBOX/FOG
+        var skyBoxGeometry = new THREE.CubeGeometry( 10000, 10000, 10000 );
+        var skyBoxMaterial = new THREE.MeshBasicMaterial( { color: 0x9999ff, side: THREE.BackSide } );
+        var skyBox = new THREE.Mesh( skyBoxGeometry, skyBoxMaterial );
+        this.m_scene.add(skyBox);
+    }
+
+    update() {
+        this.m_renderer.render( this.m_scene, this.m_camera );
+        this.m_controls.update();
+    }
+
+    addBox(L,W,H,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var cubeGeometry = new THREE.CubeGeometry( 1, 1, 1 );
+        var cube = new THREE.Mesh( cubeGeometry, material );
+        cube.position.set(x,y,z);
+        cube.scale.x=L;
+        cube.scale.y=W;
+        cube.scale.z=H;
+        this.m_scene.add( cube );
+        return cube;
+    }
+
+    addCylinder(R,H,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var geometry = new THREE.CylinderGeometry( 1,1,1,80,4 );
+        var shape = new THREE.Mesh( geometry, material );
+        shape.position.set(x, y, z);
+        shape.scale.x=R;
+        shape.scale.y=H;
+        shape.scale.z=R;
+        this.m_scene.add( shape );
+        return shape;
+    }
+
+    addSphere(R,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var geometry = new THREE.SphereGeometry( 1,32,16 );
+        var shape = new THREE.Mesh( geometry, material );
+        shape.scale.x=R;
+        shape.scale.y=R;
+        shape.scale.z=R;
+        shape.position.set(x, y, z);
+        this.m_scene.add( shape );
+        return shape;
+    }
+
+    addExtrudePolygon(shx,shy,height,x,y,z) {
+        const shape = new THREE.Shape();
+        for (var i=0;i<shx.length;i++) {
+            if(i==0) {
+                shape.moveTo(shx[i],shy[i]);
+            }
+            else {
+                shape.lineTo(shx[i],shy[i]);
+            }
+        }
+        const extrudeSettings = {
+        	steps: 2,
+                amount: height,
+        	bevelEnabled: false,
+        };
+        
+        const geometry = new THREE.ExtrudeGeometry( shape, extrudeSettings );
+        const material = new THREE.MeshNormalMaterial();
+        const mesh = new THREE.Mesh( geometry, material ) ;
+        mesh.position.set(x,y,z);
+        this.m_scene.add(mesh);
+        
+        return mesh;
+    }
+
+    setRotationByEuler(shape,alpha,beta,gamma) {
+        shape.setRotationFromEuler(new THREE.Euler(0,0,0,'XYZ'));
+        shape.rotateZ(alpha/180*Math.PI);
+        shape.rotateX(beta/180*Math.PI);
+        shape.rotateZ(gamma/180*Math.PI);
+        return shape;
+    }
+
+    rotateInWorld(shape,pt,angle,axis='Z') {
+        var T=new THREE.Matrix4().identity();
+        T=T.multiply(new THREE.Matrix4().makeTranslation(pt[0],pt[1],pt[2]));
+        if(axis==='X') {
+            T=T.multiply(new THREE.Matrix4().makeRotationX(angle/180*Math.PI));
+        }
+        else if(axis==='Y') {
+            T=T.multiply(new THREE.Matrix4().makeRotationY(angle/180*Math.PI));
+        }
+        else if(axis==='Z') {
+            T=T.multiply(new THREE.Matrix4().makeRotationZ(angle/180*Math.PI));
+        }
+        T=T.multiply(new THREE.Matrix4().makeTranslation(-pt[0],-pt[1],-pt[2]));
+        
+        shape.updateMatrix();
+        shape.applyMatrix(T);
+        return shape;
+    }
+
+    lookAt_pt(shape,pt) {
+        shape.lookAt(new THREE.Vector3(pt[0],pt[1],pt[2]));
+        return shape;
+    }
+
+    lookAt(shape,shape0) {
+        shape.lookAt(shape0.position);
+        return shape;
+    }
+
+    cameraLookAt_pt(pt) {
+        this.lookAt_pt(this.m_camera,pt);
+        this.m_controls.center.x=pt[0];
+        this.m_controls.center.y=pt[1];
+        this.m_controls.center.z=pt[2];
+    }
+
+    cameraLookAt(shape) {
+        this.lookAt(this.m_camera,shape);
+        this.m_controls.center.x=shape.position.x;
+        this.m_controls.center.y=shape.position.y;
+        this.m_controls.center.z=shape.position.z;
+    }
+
+}
+
+var world_3D=new Scene3D();
+
+function animate_3D() {
+    requestAnimationFrame(animate_3D);
+    world_3D.update();
+}
+
+function printMatrix(matrix) {
+    var list_val=matrix.elements;
+    var str_line='';
+    for(var i=0;i<4;i++) {
+        for(var j=0;j<4;j++) {
+            str_line+=`${list_val[j+i*4]}, `;
+        }
+        print(str_line);
+        str_line='';
+    }
+    print();
+}
+
+
+world_3D.init();
+var shape, pt, eulers;
+
+
+pt=[45.0, 6.0, 30.0];
+pt1=[pt[1],pt[2],pt[0]];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addCylinder(27.0,30.0,pt[0],pt[1],pt[2]+30.0/2);
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+world_3D.setRotationByEuler(shape,0.0, 0.0, 0.0);
+world_3D.rotateInWorld(shape,pt1,eulers[0],'Y');
+world_3D.rotateInWorld(shape,pt1,eulers[1],'Z');
+world_3D.rotateInWorld(shape,pt1,eulers[2],'Y');
+
+pt=[-2.999999999999998, 6.0, 30.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(18.0,36.0,18.0,pt[0],pt[1],pt[2]+18.0/2);
+world_3D.rotateInWorld(shape,[-2.999999999999998, 6.0, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-2.999999999999998, 6.0, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-2.999999999999998, 6.0, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-55.500000000000014, -11.999999999999998, 30.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(60.0,75.0,24.0,pt[0],pt[1],pt[2]+24.0/2);
+world_3D.rotateInWorld(shape,[-55.500000000000014, -11.999999999999998, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-55.500000000000014, -11.999999999999998, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-55.500000000000014, -11.999999999999998, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-115.50000000000001, 24.75, 30.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(60.0,4.5,6.0,pt[0],pt[1],pt[2]+6.0/2);
+world_3D.rotateInWorld(shape,[-115.50000000000001, 24.75, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-115.50000000000001, 24.75, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-115.50000000000001, 24.75, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-145.50000000000003, 3.000000000000001, 30.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(60.0,30.0,15.0,pt[0],pt[1],pt[2]+15.0/2);
+world_3D.rotateInWorld(shape,[-145.50000000000003, 3.000000000000001, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-145.50000000000003, 3.000000000000001, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-145.50000000000003, 3.000000000000001, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-184.5, 6.0, 30.0];
+eulers=[0.0, 0.0, 90.0];
+shape=world_3D.addBox(42.0,18.0,9.0,pt[0],pt[1],pt[2]+9.0/2);
+world_3D.rotateInWorld(shape,[-184.5, 6.0, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-184.5, 6.0, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-184.5, 6.0, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-160.50000000000003, 22.5, 30.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(30.0,9.0,9.0,pt[0],pt[1],pt[2]+9.0/2);
+world_3D.rotateInWorld(shape,[-160.50000000000003, 22.5, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-160.50000000000003, 22.5, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-160.50000000000003, 22.5, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-150.00000000000003, -19.499999999999996, 30.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(45.0,9.0,9.0,pt[0],pt[1],pt[2]+9.0/2);
+world_3D.rotateInWorld(shape,[-150.00000000000003, -19.499999999999996, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-150.00000000000003, -19.499999999999996, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-150.00000000000003, -19.499999999999996, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-217.5, 6.000000000000002, 30.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(45.0,9.0,9.0,pt[0],pt[1],pt[2]+9.0/2);
+world_3D.rotateInWorld(shape,[-217.5, 6.000000000000002, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-217.5, 6.000000000000002, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-217.5, 6.000000000000002, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-217.5, -5.999999999999998, 30.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(45.0,9.0,9.0,pt[0],pt[1],pt[2]+9.0/2);
+world_3D.rotateInWorld(shape,[-217.5, -5.999999999999998, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-217.5, -5.999999999999998, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-217.5, -5.999999999999998, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-210.0, -30.0, 30.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(60.0,30.0,30.0,pt[0],pt[1],pt[2]+30.0/2);
+world_3D.rotateInWorld(shape,[-210.0, -30.0, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-210.0, -30.0, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-210.0, -30.0, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-186.75, -114.00000000000003, 30.0];
+eulers=[0.0, 0.0, 90.0];
+shape=world_3D.addBox(90.0,13.5,24.0,pt[0],pt[1],pt[2]+24.0/2);
+world_3D.rotateInWorld(shape,[-186.75, -114.00000000000003, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-186.75, -114.00000000000003, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-186.75, -114.00000000000003, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-217.5, -124.50000000000001, 30.0];
+eulers=[0.0, 0.0, 90.0];
+shape=world_3D.addBox(75.0,45.0,9.0,pt[0],pt[1],pt[2]+9.0/2);
+world_3D.rotateInWorld(shape,[-217.5, -124.50000000000001, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-217.5, -124.50000000000001, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-217.5, -124.50000000000001, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-221.99999999999997, -60.0, 30.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(24.0,18.0,15.0,pt[0],pt[1],pt[2]+15.0/2);
+world_3D.rotateInWorld(shape,[-221.99999999999997, -60.0, 30.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-221.99999999999997, -60.0, 30.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-221.99999999999997, -60.0, 30.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[0.0, -48.0, 0.0];
+eulers=[0.0, 0.0, 90.0];
+shape=world_3D.addBox(36.0,60.0,30.0,pt[0],pt[1],pt[2]+30.0/2);
+world_3D.rotateInWorld(shape,[0.0, -48.0, 0.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[0.0, -48.0, 0.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[0.0, -48.0, 0.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-6.0, 97.5, 0.0];
+eulers=[0.0, 0.0, 90.0];
+shape=world_3D.addBox(135.0,60.0,30.0,pt[0],pt[1],pt[2]+30.0/2);
+world_3D.rotateInWorld(shape,[-6.0, 97.5, 0.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-6.0, 97.5, 0.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-6.0, 97.5, 0.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[22.5, 0.0, 0.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(135.0,60.0,30.0,pt[0],pt[1],pt[2]+30.0/2);
+world_3D.rotateInWorld(shape,[22.5, 0.0, 0.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[22.5, 0.0, 0.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[22.5, 0.0, 0.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-105.0, 97.5, 0.0];
+eulers=[0.0, 0.0, 90.0];
+shape=world_3D.addBox(135.0,60.0,30.0,pt[0],pt[1],pt[2]+30.0/2);
+world_3D.rotateInWorld(shape,[-105.0, 97.5, 0.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-105.0, 97.5, 0.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-105.0, 97.5, 0.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-105.0, -97.5, 0.0];
+eulers=[0.0, 0.0, 90.0];
+shape=world_3D.addBox(135.0,60.0,30.0,pt[0],pt[1],pt[2]+30.0/2);
+world_3D.rotateInWorld(shape,[-105.0, -97.5, 0.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-105.0, -97.5, 0.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-105.0, -97.5, 0.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-112.5, 0.0, 0.0];
+eulers=[0.0, 0.0, 0.0];
+shape=world_3D.addBox(135.0,60.0,30.0,pt[0],pt[1],pt[2]+30.0/2);
+world_3D.rotateInWorld(shape,[-112.5, 0.0, 0.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-112.5, 0.0, 0.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-112.5, 0.0, 0.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-210.0, 37.5, 0.0];
+eulers=[0.0, 0.0, 90.0];
+shape=world_3D.addBox(135.0,60.0,30.0,pt[0],pt[1],pt[2]+30.0/2);
+world_3D.rotateInWorld(shape,[-210.0, 37.5, 0.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-210.0, 37.5, 0.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-210.0, 37.5, 0.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-210.0, -97.5, 0.0];
+eulers=[0.0, 0.0, 90.0];
+shape=world_3D.addBox(135.0,60.0,30.0,pt[0],pt[1],pt[2]+30.0/2);
+world_3D.rotateInWorld(shape,[-210.0, -97.5, 0.0],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[-210.0, -97.5, 0.0],eulers[1],'Y');
+world_3D.rotateInWorld(shape,[-210.0, -97.5, 0.0],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+pt=[-60.444444444444464, 35.55555555555556, 0.0];
+shape=world_3D.addExtrudePolygon([90.44444444444447, 90.44444444444447, 150.44444444444449, 150.44444444444449, 270.44444444444446, 270.44444444444446, 30.444444444444464, 30.444444444444464, -209.55555555555551, -209.55555555555551, -239.55555555555551, -239.55555555555551, -248.55555555555554, -248.55555555555554, -218.55555555555554, -218.55555555555554, 39.444444444444464, 39.444444444444464, 279.44444444444446, 279.44444444444446, 159.44444444444446, 159.44444444444446, 99.44444444444447, 99.44444444444447, -248.55555555555554, -248.55555555555554, 90.44444444444447],[204.44444444444446, 174.44444444444446, 174.44444444444446, 84.44444444444444, 84.44444444444444, -185.55555555555554, -185.55555555555554, -245.55555555555554, -245.55555555555554, -185.55555555555554, -185.55555555555554, 204.44444444444446, 204.44444444444446, -194.55555555555554, -194.55555555555554, -254.55555555555551, -254.55555555555551, -194.55555555555554, -194.55555555555554, 93.44444444444444, 93.44444444444444, 183.44444444444443, 183.44444444444443, 213.44444444444446, 213.44444444444446, 204.44444444444446, 204.44444444444446],90.0, pt[0], pt[1], pt[2]);
+world_3D.setRotationByEuler(shape,0.0, 0.0, 0.0);
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+animate_3D();
+world_3D.update();
+
+</script>
+
+</body>
+</html>
+
+<!--
++[网页](web,H代码)
+-->
+## end
+#109, 65:
+https://stemkoski.github.io/Three.js/Model-Animation-Control.html
+## end
+#112, 7359:
+<!doctype html>
+<html lang="en">
+<head>
+	<title>Model Animation with Movement Controls (Three.js)</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<link rel=stylesheet href="css/base.css"/>
+</head>
+<body>
+
+<script src="https://stemkoski.github.io/Three.js/js/Three.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/Detector.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/Stats.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/OrbitControls.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/THREEx.KeyboardState.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/THREEx.FullScreen.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/THREEx.WindowResize.js"></script>
+
+<!-- Simplfied gamepad interaction (Chrome 22 patched) -->
+<script src="js/gamepad.js"></script>
+<!-- jQuery code to display an information button and box when clicked. -->
+<script src="js/jquery-1.9.1.js"></script>
+<script src="js/jquery-ui.js"></script>
+<link rel=stylesheet href="css/jquery-ui.css" />
+<link rel=stylesheet href="css/info.css"/>
+<script src="js/info.js"></script>
+<div id="infoButton"></div>
+<div id="infoBox" title="Demo Information">
+Controls:
+<ul>
+<li>Up arrow: forwards
+<li>Down arrow: backwards
+<li>Left arrow: turn left
+<li>Right arrow: turn right
+</ul>
+This three.js demo is part of a collection at
+<a href="http://stemkoski.github.io/Three.js/">http://stemkoski.github.io/Three.js/</a>
+</div>
+<!-- ------------------------------------------------------------ -->
+
+<div id="ThreeJS" style="position: absolute; left:0px; top:0px"></div>
+<script>
+/*
+	Three.js "tutorials by example"
+	Author: Lee Stemkoski
+	Date: July 2013 (three.js v59dev)
+*/
+
+// MAIN
+
+// standard global variables
+var container, scene, camera, renderer, controls, stats;
+var keyboard = new THREEx.KeyboardState();
+var clock = new THREE.Clock();
+
+// custom global variables
+var android;
+
+// the following code is from
+//    http://catchvar.com/threejs-animating-blender-models
+var animOffset       = 0,   // starting frame of animation
+	walking         = false,
+	duration        = 1000, // milliseconds to complete animation
+	keyframes       = 20,   // total number of animation frames
+	interpolation   = duration / keyframes, // milliseconds per frame
+	lastKeyframe    = 0,    // previous keyframe
+	currentKeyframe = 0;
+	
+init();
+animate();
+
+// FUNCTIONS 		
+function init() 
+{
+	// SCENE
+	scene = new THREE.Scene();
+	// CAMERA
+	var SCREEN_WIDTH = window.innerWidth, SCREEN_HEIGHT = window.innerHeight;
+	var VIEW_ANGLE = 45, ASPECT = SCREEN_WIDTH / SCREEN_HEIGHT, NEAR = 0.1, FAR = 20000;
+	camera = new THREE.PerspectiveCamera( VIEW_ANGLE, ASPECT, NEAR, FAR);
+	scene.add(camera);
+	camera.position.set(0,150,400);
+	camera.lookAt(scene.position);	
+	// RENDERER
+	if ( Detector.webgl )
+		renderer = new THREE.WebGLRenderer( {antialias:true} );
+	else
+		renderer = new THREE.CanvasRenderer(); 
+	renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+	container = document.getElementById( 'ThreeJS' );
+	container.appendChild( renderer.domElement );
+	// EVENTS
+	THREEx.WindowResize(renderer, camera);
+	THREEx.FullScreen.bindKey({ charCode : 'm'.charCodeAt(0) });
+	// CONTROLS
+	controls = new THREE.OrbitControls( camera, renderer.domElement );
+	// STATS
+	stats = new Stats();
+	stats.domElement.style.position = 'absolute';
+	stats.domElement.style.bottom = '0px';
+	stats.domElement.style.zIndex = 100;
+	container.appendChild( stats.domElement );
+	// LIGHT
+	var light = new THREE.PointLight(0xffffff);
+	light.position.set(-100,200,100);
+	scene.add(light);
+	// FLOOR
+	var floorTexture = new THREE.ImageUtils.loadTexture( 'images/checkerboard.jpg' );
+	floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping; 
+	floorTexture.repeat.set( 10, 10 );
+	var floorMaterial = new THREE.MeshBasicMaterial( { map: floorTexture, side: THREE.DoubleSide } );
+	var floorGeometry = new THREE.PlaneGeometry(1000, 1000, 10, 10);
+	var floor = new THREE.Mesh(floorGeometry, floorMaterial);
+	floor.position.y = -0.5;
+	floor.rotation.x = Math.PI / 2;
+	scene.add(floor);
+	// SKYBOX/FOG
+	var skyBoxGeometry = new THREE.CubeGeometry( 10000, 10000, 10000 );
+	var skyBoxMaterial = new THREE.MeshBasicMaterial( { color: 0x9999ff, side: THREE.BackSide } );
+	var skyBox = new THREE.Mesh( skyBoxGeometry, skyBoxMaterial );
+	// scene.add(skyBox);
+	scene.fog = new THREE.FogExp2( 0x9999ff, 0.00025 );
+	
+	////////////
+	// CUSTOM //
+	////////////
+	
+	var jsonLoader = new THREE.JSONLoader();
+	jsonLoader.load( "models/android-animations.js", addModelToScene );
+	// addModelToScene function is called back after model has loaded
+	
+	var ambientLight = new THREE.AmbientLight(0x111111);
+	scene.add(ambientLight);
+	
+}
+
+function addModelToScene( geometry, materials ) 
+{
+	// for preparing animation
+	for (var i = 0; i < materials.length; i++)
+		materials[i].morphTargets = true;
+		
+	var material = new THREE.MeshFaceMaterial( materials );
+	android = new THREE.Mesh( geometry, material );
+	android.scale.set(10,10,10);
+	scene.add( android );
+}
+
+function animate() 
+{
+    requestAnimationFrame( animate );
+	render();		
+	update();
+}
+
+function update()
+{
+	// delta = change in time since last call (seconds)
+	delta = clock.getDelta(); 
+	var moveDistance = 100 * delta;
+	walking = false;
+
+	if (Gamepad.supported) 
+	{
+		var pads = Gamepad.getStates();
+        var pad = pads[0]; // assume only 1 player.
+        if (pad) 
+		{
+			
+			// adjust for deadzone.
+			if (Math.abs(pad.leftStickX + pad.rightStickX) > 0.3)
+			{
+				android.rotation.y -= delta * (pad.leftStickX + pad.rightStickX);
+				walking = true;
+			}
+			if (Math.abs(pad.leftStickY + pad.rightStickY) > 0.2)
+			{
+				android.translateZ( -moveDistance * (pad.leftStickY + pad.rightStickY) );
+				walking = true;
+			}
+			if ( pad.faceButton0 || pad.faceButton1 || pad.faceButton2 || pad.faceButton3 || pad.select || pad.start )
+			{ 
+			    android.position.set(0,0,0);
+				android.rotation.set(0,0,0);
+			}
+			
+        }
+	}
+	
+	// move forwards / backwards
+	if ( keyboard.pressed("down") )
+		android.translateZ( -moveDistance );
+	if ( keyboard.pressed("up") )
+		android.translateZ(  moveDistance );
+	// rotate left/right
+	if ( keyboard.pressed("left") )
+		android.rotation.y += delta;
+	if ( keyboard.pressed("right") )
+		android.rotation.y -= delta;
+	
+	
+	var walkingKeys = ["up", "down", "left", "right"];
+	for (var i = 0; i < walkingKeys.length; i++)
+	{
+		if ( keyboard.pressed(walkingKeys[i]) )
+			walking = true;
+	}
+	
+	controls.update();
+	stats.update();
+}
+
+function render() 
+{
+	if ( android && walking ) // exists / is loaded 
+	{
+		// Alternate morph targets
+		time = new Date().getTime() % duration;
+		keyframe = Math.floor( time / interpolation ) + animOffset;
+		if ( keyframe != currentKeyframe ) 
+		{
+			android.morphTargetInfluences[ lastKeyframe ] = 0;
+			android.morphTargetInfluences[ currentKeyframe ] = 1;
+			android.morphTargetInfluences[ keyframe ] = 0;
+			lastKeyframe = currentKeyframe;
+			currentKeyframe = keyframe;
+		}
+		android.morphTargetInfluences[ keyframe ] = 
+			( time % interpolation ) / interpolation;
+		android.morphTargetInfluences[ lastKeyframe ] = 
+			1 - android.morphTargetInfluences[ keyframe ];
+	}
+	
+	renderer.render( scene, camera );
+}
+
+</script>
+
+</body>
+</html>
+
+## end
+#114, 7385:
+<!--
++[网页](web,%[标题])
+-->
+
+<head>
+<script>
+function print() {
+    document.getElementById("cmd_window").innerHTML+="<br>";
+    for (var i=0; i < arguments.length; i++) {
+        text=arguments[i];
+        document.getElementById("cmd_window").innerHTML+=" "+text;
+    }
+}
+</script>
+<script src="https://cdn.jsdelivr.net/npm/phaser@3.15.1/dist/phaser-arcade-physics.min.js">
+</script>
+<script src="https://stemkoski.github.io/Three.js/js/Three.js"></script>
+<script src="https://stemkoski.github.io/Three.js/js/OrbitControls.js"></script>
+
+</head>
+
+<html>
+
+<body>
+<p id="cmd_window">Hello world!</p>
+
+
+<script>
+
+
+
+// MAIN
+
+// standard global variables
+var container, scene, camera, renderer, controls, stats;
+var cube;
+
+class Scene3D {
+    constructor(ID='') {
+        this.m_ID=ID;
+        this.m_container='';
+        this.m_scene='';
+        this.m_camera='';
+        this.m_render='';
+        this.m_control='';
+    }
+
+    init(ID='') {
+        if(ID!=="") {
+            this.m_ID=ID;
+            this.m_container = document.getElementById(this.m_ID);
+        }
+        else {
+            this.m_container=document.body;
+        }
+        if(this.m_container===null) {
+            this.m_container=document.body;
+        }
+
+        // SCENE
+        this.m_scene = new THREE.Scene();
+    
+        // CAMERA
+        var SCREEN_WIDTH = this.m_container.offsetWidth; 
+        var SCREEN_HEIGHT = this.m_container.offsetHeight;
+        var VIEW_ANGLE = 45, ASPECT = SCREEN_WIDTH / SCREEN_HEIGHT, NEAR = 0.1, FAR = 20000;
+        this.m_camera = new THREE.PerspectiveCamera( VIEW_ANGLE, ASPECT, NEAR, FAR);
+        this.m_scene.add(this.m_camera);
+        this.m_camera.position.set(0,150,400);
+        this.m_camera.lookAt(this.m_scene.position);
+        //this.m_camera.lookAt(new THREE.Vector3(0,600,0));
+        //this.m_camera.lookAt(0,600,0);
+    
+        //RENDER
+        this.m_renderer = new THREE.WebGLRenderer( {antialias:true} );
+        this.m_renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+        
+        this.m_container.appendChild( this.m_renderer.domElement );
+    
+        // CONTROLS
+        this.m_controls = new THREE.OrbitControls( this.m_camera, this.m_renderer.domElement );
+        // LIGHT
+        var light = new THREE.PointLight(0xffffff);
+        light.position.set(0,150,100);
+        this.m_scene.add(light);
+    
+        // FLOOR
+        var floorTexture = new THREE.ImageUtils.loadTexture( 'https://stemkoski.github.io/Three.js/images/checkerboard.jpg' );
+        floorTexture.wrapS = floorTexture.wrapT = THREE.RepeatWrapping; 
+        floorTexture.repeat.set( 10, 10 );
+        var floorMaterial = new THREE.MeshBasicMaterial( { map: floorTexture, side: THREE.DoubleSide } );
+    
+        var floorGeometry = new THREE.PlaneGeometry(1000, 1000, 10, 10);
+        var floor = new THREE.Mesh(floorGeometry, floorMaterial);
+        floor.position.y = -0.;
+        floor.rotation.x = Math.PI / 2;
+        this.m_scene.add(floor);
+    
+        // SKYBOX/FOG
+        var skyBoxGeometry = new THREE.CubeGeometry( 10000, 10000, 10000 );
+        var skyBoxMaterial = new THREE.MeshBasicMaterial( { color: 0x9999ff, side: THREE.BackSide } );
+        var skyBox = new THREE.Mesh( skyBoxGeometry, skyBoxMaterial );
+        this.m_scene.add(skyBox);
+    }
+
+    update() {
+        this.m_renderer.render( this.m_scene, this.m_camera );
+        this.m_controls.update();
+    }
+
+    addBox(L,W,H,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var cubeGeometry = new THREE.CubeGeometry( 1, 1, 1 );
+        var cube = new THREE.Mesh( cubeGeometry, material );
+        cube.position.set(x,y,z);
+        cube.scale.x=L;
+        cube.scale.y=W;
+        cube.scale.z=H;
+        this.m_scene.add( cube );
+        return cube;
+    }
+
+    addCylinder(R,H,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var geometry = new THREE.CylinderGeometry( 1,1,1,80,4 );
+        var shape = new THREE.Mesh( geometry, material );
+        shape.position.set(x, y, z);
+        shape.scale.x=R;
+        shape.scale.y=H;
+        shape.scale.z=R;
+        this.m_scene.add( shape );
+        return shape;
+    }
+
+    addSphere(R,x,y,z) {
+        var material = new THREE.MeshNormalMaterial();
+        var geometry = new THREE.SphereGeometry( 1,32,16 );
+        var shape = new THREE.Mesh( geometry, material );
+        shape.scale.x=R;
+        shape.scale.y=R;
+        shape.scale.z=R;
+        shape.position.set(x, y, z);
+        this.m_scene.add( shape );
+        return shape;
+    }
+
+    addExtrudePolygon(shx,shy,height,x,y,z) {
+        const shape = new THREE.Shape();
+        for (var i=0;i<shx.length;i++) {
+            if(i==0) {
+                shape.moveTo(shx[i],shy[i]);
+            }
+            else {
+                shape.lineTo(shx[i],shy[i]);
+            }
+        }
+        const extrudeSettings = {
+        	steps: 2,
+                amount: height,
+        	bevelEnabled: false,
+        };
+        
+        const geometry = new THREE.ExtrudeGeometry( shape, extrudeSettings );
+        const material = new THREE.MeshNormalMaterial();
+        const mesh = new THREE.Mesh( geometry, material ) ;
+        mesh.position.set(x,y,z);
+        this.m_scene.add(mesh);
+        
+        return mesh;
+    }
+
+    setRotationByEuler(shape,alpha,beta,gamma) {
+        shape.setRotationFromEuler(new THREE.Euler(0,0,0,'XYZ'));
+        shape.rotateZ(alpha/180*Math.PI);
+        shape.rotateX(beta/180*Math.PI);
+        shape.rotateZ(gamma/180*Math.PI);
+        return shape;
+    }
+
+    rotateInWorld(shape,pt,angle,axis='Z') {
+        var T=new THREE.Matrix4().identity();
+        T=T.multiply(new THREE.Matrix4().makeTranslation(pt[0],pt[1],pt[2]));
+        if(axis==='X') {
+            T=T.multiply(new THREE.Matrix4().makeRotationX(angle/180*Math.PI));
+        }
+        else if(axis==='Y') {
+            T=T.multiply(new THREE.Matrix4().makeRotationY(angle/180*Math.PI));
+        }
+        else if(axis==='Z') {
+            T=T.multiply(new THREE.Matrix4().makeRotationZ(angle/180*Math.PI));
+        }
+        T=T.multiply(new THREE.Matrix4().makeTranslation(-pt[0],-pt[1],-pt[2]));
+        
+        shape.updateMatrix();
+        shape.applyMatrix(T);
+        return shape;
+    }
+
+    lookAt_pt(shape,pt) {
+        shape.lookAt(new THREE.Vector3(pt[0],pt[1],pt[2]));
+        return shape;
+    }
+
+    lookAt(shape,shape0) {
+        shape.lookAt(shape0.position);
+        return shape;
+    }
+
+    cameraLookAt_pt(pt) {
+        this.lookAt_pt(this.m_camera,pt);
+        this.m_controls.center.x=pt[0];
+        this.m_controls.center.y=pt[1];
+        this.m_controls.center.z=pt[2];
+    }
+
+    cameraLookAt(shape) {
+        this.lookAt(this.m_camera,shape);
+        this.m_controls.center.x=shape.position.x;
+        this.m_controls.center.y=shape.position.y;
+        this.m_controls.center.z=shape.position.z;
+    }
+
+}
+
+var world_3D=new Scene3D();
+
+function animate_3D() {
+    requestAnimationFrame(animate_3D);
+    world_3D.update();
+}
+
+function printMatrix(matrix) {
+    var list_val=matrix.elements;
+    var str_line='';
+    for(var i=0;i<4;i++) {
+        for(var j=0;j<4;j++) {
+            str_line+=`${list_val[j+i*4]}, `;
+        }
+        print(str_line);
+        str_line='';
+    }
+    print();
+}
+
+
+world_3D.init();
+var shape, pt, eulers;
+
+%场景
+
+animate_3D();
+world_3D.update();
+
+</script>
+
+</body>
+</html>
+
+<!--
++[网页](web,%[标题])
+-->
+## end
+#115, 610:
+import bpy, mathutils
+import numpy as np
+
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+pos=[0.0, 0.0, 0.0]
+bpy.ops.mesh.primitive_cylinder_add(radius=2.0,depth=10.0)
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,10.0/2)))
+A.location=(pos[0],pos[1],pos[2])
+A.rotation_euler=np.deg2rad(np.array([90,45,45]))
+
+pos=[0.0, 0.0, 0.0]
+bpy.ops.mesh.primitive_cube_add()
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,1)))
+A.location=(pos[0],pos[1],pos[2])
+A.scale=(1.0/2,1.0/2,10.0/2)
+A.rotation_euler=np.deg2rad(np.array([0,0,45]))
+
+
+## end
+#118, 290:
+"""
+H模板:...
++[修改标题]"H模板"(,H模板)
+Nini, 打开动词(库)
+保存:...
+
+"""
+
++三维场景转ThreeJS(_场景,_输出)->+[del](,+三维场景转ThreeJS)...
+->的(三维场景转ThreeJS,H模板)->的(三维场景转ThreeJS,保存)...
+
+->+[组合体转ThreeJS](_场景,+[临时文本])...
+->_输出->+[标题](_输出,)...
+    ->+[模板文本](H模板,_输出)...
+    ->+[.]"场景"(+[模板文本],+[临时文本])->+[.](+[模板文本],+[标题])
+
+
+
+## end
+#121, 528:
+"""
+结构转ThreeJS:...
+
+"""
+
++组合体转ThreeJS(_结构体,_输出)->+[del](,+组合体转ThreeJS)...
+->的(组合体转ThreeJS,结构转ThreeJS)...
+
+->+[临时文本]->[]{
+    []=>的(_结构体,_结构)->的(_结构,类型#1)...
+    =>+[做](_结构,+[增加内容])->+[code](+[做],结构转ThreeJS)...
+    ->[]{
+        []:->."空间点"(+组合体转ThreeJS,_空间点)->_空间点->+[.]"空间点"(+[做],_空间点)...
+            ->."方向"(+组合体转ThreeJS,_方向)->_方向->+[.]"方向"(+[做],_方向),
+        ->+[.]"空间点"(+[做],+[临时文本]#pt)->+[临时文本]#pt"0,0,0"...
+            ->+[.]"方向"(+[做],+[临时文本]#an)->+[临时文本]#an"0,0,0"
+    }->+[增加内容](,+[临时文本])
+}...
+
+->+[修改内容](+[临时文本],_输出)
+
+
+
+## end
+#122, 169:
+
+shape=world_3D.addSphere(%半径,%空间点);
+world_3D.setRotationByEuler(shape,%方向);
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+## end
+#123, 136:
+%{
+
+%}
+
+
+
+R_out=scale*R;
+pt_out=scale*pt;
+
+[pt_out,Eulers_out]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt_out,Eulers);
+
+
+## end
+#126, 701:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+保存:...
+
+"""
+
++球体(_结构,_代码)->+[del](,+球体)...
+->的(球体,P模板)->的(球体,M代码)...
+
+->."空间点"(+球体,_空间点)->."方向"(+球体,_方向)...
+
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,半径)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.]"pt0"(+[matlab],_空间点)->+[.]"Eulers0"(+[matlab],_方向)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"Eulers"(+[matlab],方向)->+[o]"Eulers_out"(+[matlab],+方向)...
+    ->+[.](+[模板文本],+方向)->+[del](,+方向)...
+->+[.]"R"(+[matlab],半径)->+[o]"R_out"(+[matlab],+半径)...
+    ->+[.](+[模板文本],+半径)->+[del](,+半径)
+
+
+## end
+#127, 43:
+%{
+
+%}
+
+W=max(max(X))*2;
+L=max(max(Y))*2;
+
+
+## end
+#128, 348:
+pos=[%空间点]
+eulers=np.deg2rad(np.array([%方向]))
+bpy.ops.mesh.primitive_plane_add()
+A=bpy.context.selected_objects[0]
+A.location=(pos[0],pos[1],pos[2])
+A.scale=(%宽度/2,%长度/2,1)
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+A.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#131, 682:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++平面(_结构,_代码)->+[del](,+平面)...
+->的(平面,P模板)->的(平面,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向):
+->的(_结构,长度)->的(_结构,宽度)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],长度)->+[.](+[模板文本],宽度),
+
+->的(_结构,X)->的(_结构,Y)->的(_结构,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.]"长度"(+[模板文本],+[临时文本]#L)->+[o]"L"(+[matlab],+[临时文本]#L)...
+    ->+[.]"宽度"(+[模板文本],+[临时文本]#W)->+[o]"W"(+[matlab],+[临时文本]#W)
+
+
+
+
+## end
+#132, 150:
+%{
+
+%}
+
+
+R_out=scale*R;
+H_out=scale*H;
+pt_out=scale*pt;
+
+[pt_out,Eulers_out]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt_out,Eulers);
+
+
+## end
+#133, 406:
+
+pt=[%空间点];
+pt1=[-pt[1],pt[2],-pt[0]];
+eulers=[%方向];
+shape=world_3D.addCylinder(%半径,%高度,pt[0],pt[1],pt[2]+%高度/2);
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+world_3D.setRotationByEuler(shape,0.0, 0.0, 0.0);
+world_3D.rotateInWorld(shape,pt1,eulers[2],'Y');
+world_3D.rotateInWorld(shape,pt1,-eulers[1],'Z');
+world_3D.rotateInWorld(shape,pt1,eulers[0],'Y');
+
+
+## end
+#136, 808:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++圆柱体(_结构,_代码)->+[del](,+圆柱体)...
+->的(圆柱体,P模板)->的(圆柱体,M代码)...
+
+->."空间点"(+圆柱体,_空间点)->."方向"(+圆柱体,_方向)...
+
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,半径)->的(_结构,高度)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.]"pt0"(+[matlab],_空间点)->+[.]"Eulers0"(+[matlab],_方向)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"Eulers"(+[matlab],方向)->+[o]"Eulers_out"(+[matlab],+方向)...
+    ->+[.](+[模板文本],+方向)->+[del](,+方向)...
+->+[.]"R"(+[matlab],半径)->+[o]"R_out"(+[matlab],+半径)...
+    ->+[.](+[模板文本],+半径)->+[del](,+半径)...
+->+[.]"H"(+[matlab],高度)->+[o]"H_out"(+[matlab],+高度)...
+    ->+[.](+[模板文本],+高度)->+[del](,+高度)
+
+
+
+
+## end
+#137, 216:
+
+pt=[%空间点];
+shape=world_3D.addExtrudePolygon([%x],[%y],%高度, pt[0], pt[1], pt[2]);
+world_3D.setRotationByEuler(shape,%方向);
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+## end
+#138, 165:
+%{
+
+%}
+
+
+x_out=scale*x;
+y_out=scale*y;
+H_out=scale*H;
+pt_out=scale*pt;
+
+[pt_out,Eulers_out]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt_out,Eulers);
+
+
+## end
+#141, 921:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
++[新建阅读窗口](,P模板)
+
+"""
+
++多面体(_结构,_代码)->+[del](,+多面体)...
+->的(多面体,P模板)->的(多面体,M代码)...
+
+->."空间点"(+多面体,_空间点)->."方向"(+多面体,_方向)...
+
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,x)->的(_结构,y)->的(_结构,高度)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.]"pt0"(+[matlab],_空间点)->+[.]"Eulers0"(+[matlab],_方向)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"Eulers"(+[matlab],方向)->+[o]"Eulers_out"(+[matlab],+方向)...
+    ->+[.](+[模板文本],+方向)->+[del](,+方向)...
+->+[.]"x"(+[matlab],x)->+[o]"x_out"(+[matlab],+x)...
+    ->+[.](+[模板文本],+x)->+[del](,+x)...
+->+[.]"y"(+[matlab],y)->+[o]"y_out"(+[matlab],+y)...
+    ->+[.](+[模板文本],+y)->+[del](,+y)...
+->+[.]"H"(+[matlab],高度)->+[o]"H_out"(+[matlab],+高度)...
+    ->+[.](+[模板文本],+高度)->+[del](,+高度)
+
+
+
+
+## end
+#142, 153:
+%{
+Nini, 打开三维场景的transform_3D_frame(节点)
+%}
+
+pt_out=scale*pt;
+[pt_out,Eulers_out]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt_out,Eulers);
+
+
+## end
+#144, 751:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+M代码:...
++[新建阅读窗口](,M代码)
+
+"""
+
++组合体(_结构,_代码)->+[del](,+组合体)...
+->的(组合体,M代码)...
+->的(库,组合体)->的(结构转ThreeJS,库)->的(组合体转ThreeJS,结构转ThreeJS)...
+
+->."空间点"(+组合体,_空间点)->."方向"(+组合体,_方向)...
+
+->[]{
+    []:->在(_结构,空间点)->空间点,->+在(_结构,+空间点)->+空间点"0,0,0"
+}...
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->_结构(,_组合体)...
+->在(_结构,空间点)->朝向(_结构,方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.]"pt0"(+[matlab],_空间点)->+[.]"Eulers0"(+[matlab],_方向)...
+->+[做](_组合体,_代码)->+[code](+[做],组合体转ThreeJS)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.]"空间点"(+[做],+空间点)->+[del](,+空间点)...
+->+[.]"Eulers"(+[matlab],方向)->+[o]"Eulers_out"(+[matlab],+方向)...
+    ->+[.]"方向"(+[做],+方向)->+[del](,+方向)
+
+
+
+## end
+#150, 106:
+有什么
+
+立方体:...
+圆柱体:...
+球体:...
+多面体:...
+组合体:...
+将条目"立方体"复制为条目"组合体"
+在'选择区域'中, 将多面体的"宽度"替换为"y"
++[新建阅读窗口](,立方体)
+
+
+## end
+#152, 411:
+"""
+描述结构:...
+库:...
++[新建阅读窗口](,描述结构)
+
+保存:...
+
+"""
+
++结构转ThreeJS(_结构,_代码)->+[del](,+结构转ThreeJS)...
+->的(结构转ThreeJS,库)->的(结构转ThreeJS,描述结构)...
+
+->."空间点"(+结构转ThreeJS,_空间点)->."方向"(+结构转ThreeJS,_方向)...
+
+->+[matlab]"scale=50;"(Matlab,)...
+
+->+[code]([想],描述结构)->[想](,_结构)->操作([想],)...
+->的(操作,_类型)->_类型->的(库,_条目)->_条目->[eq](_类型,_条目)...
+
+->+[做](_结构,_代码)->+[code](+[做],_条目)...
+    ->+[.]"空间点"(+[做],_空间点)->+[.]"方向"(+[做],_方向)
+
+
+
+## end
+#155, 629:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++球体(_结构,_代码)->+[del](,+球体)...
+->的(球体,P模板)->的(球体,M代码)...
+
+->."空间点"(+球体,_空间点)->."方向"(+球体,_方向)...
+
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向):
+->的(_结构,半径)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],半径),
+
+->的(_结构,X)->的(_结构,Y)->的(_结构,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.]"半径"(+[模板文本],+[临时文本]#R)->+[o]"R"(+[matlab],+[临时文本]#R)
+
+
+
+
+## end
+#157, 243:
+"""
+
+
+"""
++描述结构(,_结构)->+操作(+描述结构,)...
+
+->_结构(,_目标)->的(_结构,类型)...
+->[]{
+    []:->_目标->+的(+操作,+组合体),
+    ->[==]"立方体"(,类型)->+的(+操作,+立方体),
+    ->[==]"圆柱体"(,类型)->+的(+操作,+圆柱体),
+    ->[==]"球体"(,类型)->+的(+操作,+球体),
+    ->[==]"多面体"(,类型)->+的(+操作,+多面体)
+}
+
+
+## end
+#159, 690:
+"""
+描述结构:...
+库:...
+
+"""
+
++结构转ThreeJS(_结构,_代码)->+[del](,+结构转ThreeJS)...
+->的(结构转ThreeJS,库)->的(结构转ThreeJS,描述结构)...
+
+->."空间点"(+结构转ThreeJS,_空间点)->."方向"(+结构转ThreeJS,_方向)...
+
+->+[code]([想],描述结构)->[想](,_结构)
+
+->+[matlab]"scale=100;"(Matlab,)->的(_结构,类型):
+->[==]"立方体"(,类型)->的(库,立方体)->+[做](_结构,_代码)->+[code](+[做],立方体)...
+    ->+[.]"空间点"(+[做],_空间点)->+[.]"方向"(+[做],_方向),
+->[==]"圆柱体"(,类型)->的(库,圆柱体)->+[做](_结构,_代码)->+[code](+[做],圆柱体)...
+    ->+[.]"空间点"(+[做],_空间点)->+[.]"方向"(+[做],_方向),
+->[==]"球体"(,类型)->的(库,球体)->+[做](_结构,_代码)->+[code](+[做],球体)...
+    ->+[.]"空间点"(+[做],_空间点)->+[.]"方向"(+[做],_方向),
+->[==]"多面体"(,类型)->的(库,多面体)->+[做](_结构,_代码)->+[code](+[做],多面体)...
+    ->+[.]"空间点"(+[做],_空间点)->+[.]"方向"(+[做],_方向)
+
+
+## end
+#160, 3:
+958
+## end
+#161, 3:
+476
+## end
+#162, 3:
+553
+## end
+#163, 3:
+961
+## end
+#164, 5:
+82,82
+## end
+#166, 337:
+
+pt=[%空间点];
+eulers=[%方向];
+shape=world_3D.addBox(%宽度,%长度,%高度,pt[0],pt[1],pt[2]+%高度/2);
+world_3D.rotateInWorld(shape,[%空间点],eulers[2],'Z');
+world_3D.rotateInWorld(shape,[%空间点],eulers[1],'X');
+world_3D.rotateInWorld(shape,[%空间点],eulers[0],'Z');
+world_3D.rotateInWorld(shape,[0,0,0],-90,'X');
+world_3D.rotateInWorld(shape,[0,0,0],90,'Y');
+
+
+
+## end
+#167, 199:
+%{
+Nini, 打开三维场景的transform_3D_frame(节点)
+%}
+
+W_out=scale*W;
+L_out=scale*L;
+H_out=scale*H;
+pt_out=scale*pt;
+
+[pt_out,Eulers_out]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt_out,Eulers);
+
+
+## end
+#170, 931:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
++[新建阅读窗口](,P模板)
+
+"""
+
++立方体(_结构,_代码)->+[del](,+立方体)...
+->的(立方体,P模板)->的(立方体,M代码)...
+
+->."空间点"(+立方体,_空间点)->."方向"(+立方体,_方向)...
+
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,长度)->的(_结构,宽度)->的(_结构,高度)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.]"pt0"(+[matlab],_空间点)->+[.]"Eulers0"(+[matlab],_方向)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"Eulers"(+[matlab],方向)->+[o]"Eulers_out"(+[matlab],+方向)...
+    ->+[.](+[模板文本],+方向)->+[del](,+方向)...
+->+[.]"L"(+[matlab],长度)->+[o]"L_out"(+[matlab],+长度)...
+    ->+[.](+[模板文本],+长度)->+[del](,+长度)...
+->+[.]"W"(+[matlab],宽度)->+[o]"W_out"(+[matlab],+宽度)...
+    ->+[.](+[模板文本],+宽度)->+[del](,+宽度)...
+->+[.]"H"(+[matlab],高度)->+[o]"H_out"(+[matlab],+高度)...
+    ->+[.](+[模板文本],+高度)->+[del](,+高度)
+
+
+
+
+## end
+#174, 195:
+"""
+组合体转ThreeJS:...
+
+"""
+
++三维场景转ThreeJS_模块(_场景,_输出)->+[del](,+三维场景转ThreeJS_模块)...
+->的(三维场景转ThreeJS_模块,组合体转ThreeJS)...
+
+->+[做](_场景,+[临时文本])->+[code](+[做],组合体转ThreeJS)...
+->+[修改内容](+[临时文本],_输出)
+
+
+
+
+## end
+### 结束

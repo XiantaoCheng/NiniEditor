@@ -1,0 +1,113 @@
+### 节点
+地址, 的, NLP, 目录, 的, 的, 节点数目统计, 的, 笔记, 的, 项目1, 的, 项目2, 的, 项目3, 的, 参考, 的, 测试StanfordNLP, 的, 英文句子, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 8#12, #, 8#14, #, 8#16, #, 2#18, #, 18#20, #, 
+### 内容
+#0, 17:
+文档/计算机问题/NLP.ftxt
+## end
+#2, 79:
++[返回目录](,NLP)
+地址::文档/计算机问题/NLP.ftxt
+
+
+笔记:...
+测试StanfordNLP:...
+(还是得做本地server)
+
+
+## end
+#3, 47:
+NLP:...
+创建于 20230812
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 214:
+项目1::https://nlp.stanford.edu/software/lex-parser.shtml
+项目2::https://stanfordnlp.github.io/CoreNLP/
+项目3::https://github.com/smilli/py-corenlp
+
+参考::file:///media/xiantao/Elements/paper/NLP/Levy03.pdf
+(中文parser)
+
+
+
+
+
+## end
+#10, 50:
+https://nlp.stanford.edu/software/lex-parser.shtml
+## end
+#12, 38:
+https://stanfordnlp.github.io/CoreNLP/
+## end
+#14, 36:
+https://github.com/smilli/py-corenlp
+## end
+#16, 51:
+file:///media/xiantao/Elements/paper/NLP/Levy03.pdf
+## end
+#18, 516:
+"""
++[P函数](,测试StanfordNLP)
+记住"Python"
+
+英文句子:...
+
+"""
+
+from pycorenlp import StanfordCoreNLP
+import json
+
+nlp = StanfordCoreNLP('http://nlp.stanford.edu:8080')
+# nlp = StanfordCoreNLP('https://corenlp.run/')
+text_nlp="I test this link."
+# text_nlp="我吃下了毒苹果"
+
+output = nlp.annotate(text_nlp, properties={  'annotators': 'parse',  'outputFormat': 'json', 'language': 'Chinese'})
+output = json.loads(output)
+
+print(output['sentences'][0]['parse'])
+print(text_nlp)
+
+
+
+"""
+print(nlp.annotate())
++[P函数](,测试StanfordNLP)
+
+"""
+## end
+#20, 611:
+"""
++[P函数](,测试StanfordNLP)
+记住"Python"
+
+英文句子:...
+
+"""
+
+from pycorenlp import StanfordCoreNLP
+import json
+
+# nlp = StanfordCoreNLP('http://nlp.stanford.edu:8080')
+nlp = StanfordCoreNLP('https://corenlp.run/')
+text_nlp="I test this link."
+# text_nlp="我吃下了毒苹果"
+
+# output = nlp.annotate(text_nlp, properties={  'annotators': 'tokenize,ssplit,pos,depparse,parse',  'outputFormat': 'json'  })
+output = nlp.annotate(text_nlp, properties={  'annotators': 'parse',  'outputFormat': 'json'})
+output = json.loads(output)
+print(output['sentences'][0]['parse'])
+print(text_nlp)
+
+
+"""
+print(output)
++[P函数](,测试StanfordNLP)
+
+"""
+## end
+### 结束

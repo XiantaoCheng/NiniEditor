@@ -1,0 +1,151 @@
+### 节点
+地址, 的, 平面投影, 目录, 的, 的, 空间角, 的, 公式, html, 的, 局域坐标系, 公式, 的, 坐标位置, 公式, 的, 测试公式, M函数, 的, Local_coordinates, M函数, 的, 地址, 读取, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 8#, 8#11, #, 11#, 8#14, #, 14#, 8#17, #, 17#, 17#20, #, 20#, 20#23, #, del#8, 
+### 内容
+#0, 17:
+文档\数学问题\平面投影.ftxt
+## end
+#2, 146:
++[返回目录](,平面投影)
+地址::文档\数学问题\平面投影.ftxt
+
+
+空间角::文档\数学问题\空间角.ftxt
+Nini, 导入网页画板的库
+
+这是把三维空间中的坐标转换到平面上局域坐标的公式. 直接用空间角中的局域坐标的结论. 
+平面用欧拉角表示
+公式(html):...
+
+
+
+
+## end
+#3, 48:
+平面投影:...
+创建于 20211203
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 16:
+文档\数学问题\空间角.ftxt
+## end
+#8, 410:
+<!--
++[H函数](,公式)
+局域坐标系(公式):...
+坐标位置(公式):...
+-->
+
+<b><u>Local frame</u></b><br>
+If a plane is facing the direction \((\alpha,\beta,\gamma)\), then the three axes of the local frame are, 
+%局域坐标系
+<br>
+Let's assume the origin of the plane is at \(\vec{r}_0=(x_0,y_0,z_0)\), and a point is at \(\vec{p}=(x,y,z)\). <br>
+It's easy to see the local coordinates of a point are,
+%坐标位置
+
+<!--
+测试公式(M函数):...
++[H函数](,公式)
+-->
+## end
+#11, 342:
+\mathbf{X}=
+(-sin\gamma sin\alpha cos\beta + cos\gamma cos\alpha,
+sin\gamma cos\alpha cos\beta + cos\gamma sin\alpha,
+sin\gamma sin\beta)
+\\
+\mathbf{Y}=
+(-cos\gamma sin\alpha cos\beta - sin\gamma cos\alpha,
+cos\gamma cos\alpha cos\beta - sin\gamma sin\alpha,
+cos\gamma sin\beta)
+\\
+\mathbf{Z}=(sin\alpha sin\beta,-cos\alpha sin\beta,cos\beta)
+## end
+#14, 115:
+\begin{cases}
+x_1=(x-x_0)\cdot \mathbf{X}
+\\
+y_1=(y-y_0)\cdot \mathbf{Y}
+\\
+z_1=(z-z_0)\cdot \mathbf{Z}
+\end{cases}
+## end
+#17, 185:
+%{
++[M函数](,测试公式)
+Local_coordinates(M函数):...
+%}
+
+addpath('Matlab\space')
+
+Eulers=[0,90,0];
+x=0;
+y=0;
+z=1;
+pt=[0,0,0];
+
+[xo,yo,zo]=Local_coordinates(x,y,z,pt,Eulers);
+
+%{
++[M函数](,测试公式)
+%}
+## end
+#20, 970:
+%{
++[M函数](,Local_coordinates)
+地址::Matlab\space\Local_coordinates.m
++[保存M函数](,Local_coordinates)
+%}
+
+function [xo,yo,zo]=Local_coordinates(x,y,z,pt,Eulers)
+%Eulers=[0,90,0];
+%x=0;
+%y=0;
+%z=1;
+%pt=[0,0,0];
+
+x1=reshape(x,1,numel(x));
+y1=reshape(y,1,numel(y));
+z1=reshape(z,1,numel(z));
+
+alpha=Eulers(1);
+beta=Eulers(2);
+gamma=Eulers(3);
+
+vX=[
+-sind(gamma)*sind(alpha)*cosd(beta)+cosd(gamma)*cosd(alpha),
+sind(gamma)*cosd(alpha)*cosd(beta)+cosd(gamma)*sind(alpha),
+sind(gamma)*sind(beta)];
+
+vY=[
+-cosd(gamma)*sind(alpha)*cosd(beta)-sind(gamma)*cosd(alpha),
+cosd(gamma)*cosd(alpha)*cosd(beta)-sind(gamma)*sind(alpha),
+cosd(gamma)*sind(beta)];
+
+vZ=[
+sind(alpha)*sind(beta),
+-cosd(alpha)*sind(beta),
+cosd(beta)];
+
+x2=(x1-pt(1))*vX(1)+(y1-pt(2))*vX(2)+(z1-pt(3))*vX(3);
+y2=(x1-pt(1))*vY(1)+(y1-pt(2))*vY(2)+(z1-pt(3))*vY(3);
+z2=(x1-pt(1))*vZ(1)+(y1-pt(2))*vZ(2)+(z1-pt(3))*vZ(3);
+
+xo=reshape(x2,size(x));
+yo=reshape(y2,size(y));
+zo=reshape(z2,size(z));
+
+end
+
+%{
++[M函数](,测试公式)
+%}
+## end
+#23, 32:
+Matlab\space\Local_coordinates.m
+## end
+### 结束

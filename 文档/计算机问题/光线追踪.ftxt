@@ -1,0 +1,3653 @@
+### 节点
+地址, 的, 光线追踪, 目录, 的, 的, 节点数目统计, 的, 笔记, 的, 参考, 的, smallpt, 手, 的, 代码, 的, 参考, 的, 结构, 的, 代码保存, 的, 描述文本, 结构, 的, 的, 内部, 的, 条件, 模块, 的, 内容, 的, 模块, 的, 的, 内部, 的, 内部, 的, 条件, 模块, 的, 内容, 的, 模块, 的, 的, 内部, 的, 内部, 的, 条件, 模块, 的, 内容, 的, 模块, 的, 的, 内部, 的, 内部, 的, 条件, 模块, 的, 内容, 的, 模块, 的, 的, 内部, 内容, 的, 模块, 的, 的, 内部, 的, 内部, 的, 条件, 模块, 的, 内容, 的, 模块, 的, 的, 内部, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 函数, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 内部, 内容, 的, 模块, 的, 的, 内部, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 内部, 内容, 的, 模块, 的, 的, 内部, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 内部, 函数, 的, 模块, 的, 的, 顺序, 函数, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 顺序, 内容, 的, 模块, 的, 的, 输出代码, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 缩进, 文本, 的, 结构, 的, 内容, 的, 模块, 的, 的, 条件, 模块, 的, 的, 条件, 模块, 的, 的, 条件, 模块, 的, 的, 条件, 模块, 的, 的, 内容, 的, 模块, 的, 条件, 模块, 的, 的, 条件, 模块, 的, 内容, 的, 模块, 的, 的, 条件, 模块, 的, 运算, 节点, 的, 的, 顺序, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 运算, 节点, 的, 缩进, 的, 的, 插入, 运算, 节点, 的, 的, 顺序, 缩进, 的, 的, 插入, 运算, 节点, 的, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 运算, 节点, 的, 缩进, 的, 的, 插入, else, elif, 运算, 节点, 的, 的, 顺序, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 的, 的, 节点, 的, 运算, 节点, 的, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, else, elif, 运算, 节点, 的, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 的, 的, 节点, 的, else, elif, 运算, 节点, 的, 缩进, 的, 的, 插入, 运算, else, elif, 运算, 节点, 的, 的, 顺序, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 的, 的, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 的, 的, else, 运算, 节点, elif, 运算, 节点, 的, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 的, 的, 的, 顺序, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 的, 运算, 节点, 的, 缩进, 的, 的, 插入, 节点, 的, else, elif, 运算, 节点, 的, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 的, 的, 节点, 的, 运算, 节点, 的, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 节点, 的, 运算, 节点, 的, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 运算, 节点, 的, 缩进, 的, 的, 插入, 运算, 节点, 的, 的, 顺序, 缩进, 的, 的, 插入, 运算, 节点, 的, 的, 顺序, 缩进, 的, 的, 插入, 运算, 节点, 的, 的, 顺序, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 节点, 的, 节点, 的, 运算, 节点, 的, 缩进, 的, 的, 插入, 节点, 的, 的, 顺序, 的, 曲面交点, 节点数目统计, 曲面交点, 的, 参考2, 的, 参考3, 的, Diffusion, 的, 完整代码, 的, OpenMP用法, 的, 伪代码, 的, obj定义, 的, BRDF, 的, 算法小结, 的, 算法, 的, [1]., 表达式, 的, 公式, 的, [2]., 的, [3]., 的, [4]., 的, [5]., 的, [6]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, 验证公式, 的, 初步场景, 的, 场景相机, 的, 单条光线, 的, 单条光线_场景, 的, 多光线_场景, 的, 快速测试, 的, ray_tracing_stepOne, 的, 抖动测试, 的, 地址, 的, 测试, ray_tracing_stepOne, 的, 记忆, ray_tracing_stepOne, 的, 完整测试, 的, ray_tracing_diffusion, 的, 地址, ray_tracing_diffusion, 的, ray_tracing_diffusion, 的, 镜面测试, 的, 第一次场景, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 8#12, #, #8, 12#15, #, 12#17, #, 12#19, #, 12#21, #, 12#23, #, #, 23#24, 24#27, 30#34, 24#29, 30#, #, 24#30, 34#, 24#32, #, 24#34, 24#37, 136#30, 24#39, 42#46, 24#41, 42#, #, 24#42, 46#, 24#44, #, 24#46, 24#49, 124#42, 24#51, 54#58, 24#53, 54#, #, 24#54, 58#, 24#56, #, 24#58, 24#61, 118#54, 24#63, 66#70, 24#65, 66#, #, 24#66, 70#, 24#68, #, 24#70, 24#73, 118#66, 76#, 24#74, #, 24#76, 24#79, 112#76, 24#81, 84#88, 24#83, 84#, #, 24#84, 88#, 24#86, #, 24#88, 24#91, 100#84, 94#, 24#92, #, 24#94, 24#97, 100#94, 100#, 24#98, #, 24#100, 24#103, 106#100, 106#, 24#104, #, 24#106, 24#109, 112#106, 112#, 24#110, #, 24#112, 24#115, 118#112, 118#, 24#116, #, 24#118, 24#121, 124#118, 124#, 24#122, #, 24#124, 24#127, 130#124, 130#, 24#128, #, 24#130, 24#133, 136#130, 136#, 24#134, #, 24#136, 24#139, 142#136, 142#, 24#140, #, 24#142, 24#145, 208#142, 148#, 24#146, #, 24#148, 24#151, 154#148, 154#, 24#152, #, 24#154, 24#157, 160#154, 160#, 24#158, #, 24#160, 24#163, 184#160, 166#, 24#164, #, 24#166, 24#169, 172#166, 172#, 24#170, #, 24#172, 24#175, 178#172, 178#, 24#176, #, 24#178, 24#181, 184#178, 184#, 24#182, #, 24#184, 24#187, 190#184, 190#, 24#188, #, 24#190, 24#193, 196#190, 196#, 24#194, #, 24#196, 24#199, 202#196, 202#, 24#200, #, 24#202, 24#205, 208#202, 208#, 24#206, #, 24#208, 24#211, 214#208, 214#, 24#212, #, 24#214, 24#217, 220#214, 220#, 24#218, #, 24#220, 24#223, 226#220, 226#, 24#224, #, 24#226, 24#229, 232#226, 232#, 24#230, #, 24#232, 12#235, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, #, 235#256, #, 235#258, 262#, 258#260, #, 258#262, 258#265, 266#, #, 258#266, 258#269, 270#, #, 258#270, 258#273, 274#, #, 258#274, 258#277, 278#, #, 258#278, 258#281, 283#, 258#283, #, 258#285, 286#, #, 258#286, 258#289, 290#, #, 258#290, 294#, 258#292, #, 258#294, 258#297, 298#, #, 258#298, #, #314, 304#301, 256#304, 256#, 308#300, 308#300, 301#308, 301#, #, 312#309, 300#312, 300#, #, #330, 304#314, 319#313, 319#313, 314#319, 314#, #, #, 324#321, 313#324, 313#, 328#320, 328#320, 321#328, 321#, #, #367, 304#330, 335#329, 335#329, 330#335, 330#, #341, 339#336, 329#339, 329#, #, #364, 339#341, 346#340, 346#340, 341#346, 341#, #, #, #, #, 353#350, 340#353, 340#, 357#349, 357#349, 350#357, 350#, #, 361#358, 349#361, 349#, 357#348, 357#347, #, 339#364, #, #486, 304#367, 372#366, 372#366, 367#372, 367#, #380, 376#373, 366#376, 366#, #, #, #, #392, 376#380, 385#379, 385#379, 380#385, 380#, #, 389#386, 379#389, 379#, 385#378, 385#377, #397, 376#392, #, #, #, #436, 376#397, 402#396, 402#396, 397#402, 397#, #, #, #, #, #, 410#407, 396#410, 396#, 414#406, 414#406, 407#414, 407#, #, 418#415, 406#418, 406#, 414#405, 414#404, 424#403, 424#403, 404#424, 404#, #, 428#425, 403#428, 403#, 402#395, 402#394, #, #, #, #, #, #460, 376#436, 441#435, 441#435, 436#441, 436#, #, 445#442, 435#445, 435#, 441#434, 449#433, 434#449, 434#, 453#432, 453#432, 433#453, 433#, #, 457#454, 432#457, 432#, 441#431, #, #466, 376#460, 465#459, 465#459, 460#465, 460#, #471, 376#466, #, #, #, #483, 376#471, 476#470, 476#470, 471#476, 471#, #, 480#477, 470#480, 470#, 476#469, 476#468, #, 376#483, #, #, 304#486, 491#485, 491#485, 486#491, 486#, #496, 495#492, 485#495, 485#, #499, 495#496, #, #549, 495#499, 504#498, 504#498, 499#504, 499#, #510, 508#505, 498#508, 498#, #, #, 508#510, 515#509, 515#509, 510#515, 510#, #, #, 520#517, 509#520, 509#, 524#516, 524#516, 517#524, 517#, #, #, 529#526, 516#529, 516#, 533#525, 533#525, 526#533, 526#, #, #547, 538#535, 525#538, 525#, 542#534, 542#534, 535#542, 535#, #, 546#543, 534#546, 534#, #, 538#547, #552, 495#549, #, #, 495#552, 557#551, 557#551, 552#557, 552#, #, 561#558, 551#561, 551#, 2#563, #, #, #, 8#567, #, 8#569, #, 8#571, #, 8#573, #, 8#575, #, 8#577, #, 8#579, #, 8#581, #, 8#583, #, 2#585, #, 585#587, #, #, 587#588, 587#, 585#592, #, 585#594, #, 585#596, #, 585#598, #, 585#600, #, #, 592#601, 592#, #, 594#604, 594#, #, 596#607, 596#, #, 598#610, 598#, #, 600#613, 600#, 585#617, #, 617#619, #, 617#621, #, 617#623, #, 617#625, #, 617#627, #, 617#629, #, 617#631, #, 629#633, #, 631#635, #, 631#637, #, #631, 640#638, 3#, #, 617#643, #, 631#645, #, 645#647, #, #645, 640#648, #, 627#652, #, 617#654, #, 
+### 内容
+#0, 18:
+文档/计算机问题/光线追踪.ftxt
+## end
+#2, 204:
++[返回目录](,光线追踪)
+地址::文档/计算机问题/光线追踪.ftxt
+
+
+Nini, 打开反射问题(文件)
+Nini, 打开曲面交点(文件)
+Nini, 打开工程架构(文件)
+
+Nini, 打开直线交点的intersection_plane_3D(节点)
+Nini, 打开曲面交点的intersection_sphere_3D(节点)
+
+
+笔记:...
+算法:...
++[新建阅读窗口](,算法)
+
+
+
+## end
+#3, 48:
+光线追踪:...
+创建于 20230708
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 773:
+参考::http://www.kevinbeason.com/smallpt/
+参考2::file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf
+参考3::https://madebyevan.com/webgl-water/
++[打开网页](,参考)
+
+smallpt:...
++[新建阅读窗口](,smallpt)
+
+算法小结:...
+
+伪代码::file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf#page=16
+完整代码::file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf#page=19
++[打开网页](,完整代码)
+
+Diffusion::file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf#page=56
+OpenMP用法::file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf#page=42
++[打开网页](,Diffusion)
+
+obj定义::file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf#page=29
+obj.e和obj.c大概都是颜色(.e是发光的颜色)
+现在的关键问题是radiance输出的是什么
+
+
+BRDF::https://en.wikipedia.org/wiki/Bidirectional_reflectance_distribution_function
+(粗糙表面的性质)
+
+
+## end
+#10, 35:
+http://www.kevinbeason.com/smallpt/
+## end
+#12, 343:
+参考::http://www.kevinbeason.com/smallpt/
+Nini, 打开工程架构(文件)
+Nini, 打开编程语言parser(文件)
+
+代码保存:...
+代码:...
++[新建阅读窗口](,代码)
++[移除注释]"C"(代码保存,代码)
+结构::
++[删除结构](,结构)->+[分析程序结构](代码,结构)->+[显示星图](,结构)
++[显示星图](,结构)
+
+描述文本:...
++[删除结构](,描述文本)->+[召唤星辰]"代码结构转文本描述"(结构,描述文本)
+输出代码:...
++[删除结构](,输出代码)->+[召唤星辰]"代码结构转代码"(结构,输出代码)
+的(输出代码,结构)->+[显示星图](,结构)
++[新建阅读窗口](,输出代码)
+
+
+## end
+#15, 2933:
+
+double clamp(double x) { return x<0 ? 0 : x>1 ? 1 : x; } 
+
+int toInt(double x) { return int(pow(clamp(x),1/2.2)*255+.5); } 
+
+bool intersect(const Ray &r, double &t, int &id) { 
+  double n=sizeof(spheres)/sizeof(Sphere), d, inf=t=1e20; 
+  for(int i=int(n);i--;) if((d=spheres[i].intersect(r))&&d<t){t=d;id=i;} 
+  return t<inf; 
+} 
+
+Vec radiance(const Ray &r, int depth, unsigned short *Xi){ 
+  double t;
+  int id=0;
+  if (!intersect(r, t, id)) return Vec();
+  const Sphere &obj = spheres[id];
+  Vec x=r.o+r.d*t, n=(x-obj.p).norm(), nl=n.dot(r.d)<0?n:n*-1, f=obj.c; 
+  double p = f.x>f.y && f.x>f.z ? f.x : f.y>f.z ? f.y : f.z;
+  if (++depth>5) if (erand48(Xi)<p) f=f*(1/p); else return obj.e;
+  if (obj.refl == DIFF){
+    double r1=2*M_PI*erand48(Xi), r2=erand48(Xi), r2s=sqrt(r2); 
+    Vec w=nl, u=((fabs(w.x)>.1?Vec(0,1):Vec(1))%w).norm(), v=w%u; 
+    Vec d = (u*cos(r1)*r2s + v*sin(r1)*r2s + w*sqrt(1-r2)).norm(); 
+    return obj.e + f.mult(radiance(Ray(x,d),depth,Xi)); 
+  } else if (obj.refl == SPEC)
+    return obj.e + f.mult(radiance(Ray(x,r.d-n*2*n.dot(r.d)),depth,Xi)); 
+  Ray reflRay(x, r.d-n*2*n.dot(r.d));
+  bool into = n.dot(nl)>0;
+  double nc=1, nt=1.5, nnt=into?nc/nt:nt/nc, ddn=r.d.dot(nl), cos2t; 
+  if ((cos2t=1-nnt*nnt*(1-ddn*ddn))<0)
+    return obj.e + f.mult(radiance(reflRay,depth,Xi)); 
+  Vec tdir = (r.d*nnt - n*((into?1:-1)*(ddn*nnt+sqrt(cos2t)))).norm(); 
+  double a=nt-nc, b=nt+nc, R0=a*a/(b*b), c = 1-(into?-ddn:tdir.dot(n)); 
+  double Re=R0+(1-R0)*c*c*c*c*c,Tr=1-Re,P=.25+.5*Re,RP=Re/P,TP=Tr/(1-P); 
+  return obj.e + f.mult(depth>2 ? (erand48(Xi)<P ?
+    radiance(reflRay,depth,Xi)*RP:radiance(Ray(x,tdir),depth,Xi)*TP) : 
+    radiance(reflRay,depth,Xi)*Re+radiance(Ray(x,tdir),depth,Xi)*Tr); 
+} 
+
+
+int main(int argc, char *argv[]){ 
+  int w=1024, h=768, samps = argc==2 ? atoi(argv[1])/4 : 1;
+  Ray cam(Vec(50,52,295.6), Vec(0,-0.042612,-1).norm());
+  Vec cx=Vec(w*.5135/h), cy=(cx%cam.d).norm()*.5135, r, *c=new Vec[w*h]; 
+#pragma omp parallel for schedule(dynamic, 1) private(r)
+  for (int y=0; y<h; y++){
+    fprintf(stderr,"\rRendering (%d spp) %5.2f%%",samps*4,100.*y/(h-1)); 
+    for (unsigned short x=0, Xi[3]={0,0,y*y*y}; x<w; x++)
+      for (int sy=0, i=(h-y-1)*w+x; sy<2; sy++)
+        for (int sx=0; sx<2; sx++, r=Vec()){
+          for (int s=0; s<samps; s++){ 
+            double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+            double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+            Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+                    cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+            r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+          }
+          c[i] = c[i] + Vec(clamp(r.x),clamp(r.y),clamp(r.z))*.25; 
+        } 
+  } 
+  FILE *f = fopen("image.ppm", "w");
+  fprintf(f, "P3\n%d %d\n%d\n", w, h, 255); 
+  for (int i=0; i<w*h; i++) 
+    fprintf(f,"%d %d %d ", toInt(c[i].x), toInt(c[i].y), toInt(c[i].z)); 
+} 
+
+
+## end
+#17, 35:
+http://www.kevinbeason.com/smallpt/
+## end
+#19, 6266:
+name#0"double"(,)
+name#1"clamp"(,)
+cmd#2"double x"(,)
+normal#3"return x<0 ? 0 : x>1 ? 1 : x; "(,)
+块#4""(,normal#3)
+运算#5""(输入变量#6,块#4)
+输入变量#6""(函数#7,cmd#2)
+函数#7""(输出类型#8,name#1)
+输出类型#8""(,name#0)
+name#9"int"(,)
+name#10"toInt"(,)
+cmd#11"double x"(,)
+name#12"return"(,)
+name#13"int"(,)
+cmd#14"pow(clamp(x),1/2.2)*255+.5"(,)
+输入变量#15""(函数#16,cmd#14)
+函数#16""(输出类型#17,name#13)
+输出类型#17""(,name#12)
+块#18""(,输出类型#17)
+运算#19""(输入变量#20,块#18)
+输入变量#20""(函数#21,cmd#11)
+函数#21""(输出类型#22,name#10)
+输出类型#22""(,name#9)
+name#23"bool"(,)
+name#24"intersect"(,)
+cmd#25"const Ray &r, double &t, int &id"(,)
+normal#26"double n=sizeof(spheres)/sizeof(Sphere), d, inf=t=1e20; 
+"(,)
+cmd#27"int i=int(n)"(,)
+cmd#28"i--"(初始化#31,)
+循环运算#29""(,结束条件#30)
+结束条件#30""(,cmd#28)
+初始化#31""(,cmd#27)
+cmd#32"(d=spheres[i].intersect(r))&&d<t"(,)
+normal#33"t=d;id=i;"(,)
+块#34""(,normal#33)
+运算#35""(条件#36,块#34)
+条件#36""(如果#37,cmd#32)
+如果#37"if"(,)
+块#38""(,如果#37)
+运算#39""(条件#40,块#38)
+条件#40""(循环#41,初始化#31)
+循环#41"for"(,)
+normal#42"return t<inf; 
+"(,)
+块#43""(块#44,normal#42)
+块#44""(块#45,循环#41)
+块#45""(,normal#26)
+运算#46""(输入变量#47,块#45)
+输入变量#47""(函数#48,cmd#25)
+函数#48""(输出类型#49,name#24)
+输出类型#49""(,name#23)
+name#50"Vec"(,)
+name#51"radiance"(,)
+cmd#52"const Ray &r, int depth, unsigned short *Xi"(,)
+normal#53"double t;
+int id=0;
+"(,)
+cmd#54"!intersect(r, t, id)"(,)
+cmd#55"return Vec()"(,)
+块#56""(,cmd#55)
+运算#57""(条件#58,块#56)
+条件#58""(如果#59,cmd#54)
+如果#59"if"(,)
+normal#60"const Sphere &obj = spheres[id];
+Vec x=r.o+r.d*t, n=(x-obj.p).norm(), nl=n.dot(r.d)<0?n:n*-1, f=obj.c; 
+double p = f.x>f.y && f.x>f.z ? f.x : f.y>f.z ? f.y : f.z;
+"(,)
+cmd#61"++depth>5"(,)
+cmd#62"erand48(Xi)<p"(,)
+cmd#63"f=f*(1/p)"(,)
+块#64""(,cmd#63)
+运算#65""(条件#70,块#64)
+cmd#66"return obj.e"(,)
+块#67""(,cmd#66)
+运算#68""(否则#69,块#67)
+否则#69"else"(运算#65,)
+条件#70""(如果#71,cmd#62)
+如果#71"if"(,)
+块#72""(,如果#71)
+运算#73""(条件#74,块#72)
+条件#74""(如果#75,cmd#61)
+如果#75"if"(,)
+cmd#76"obj.refl == DIFF"(,)
+normal#77"double r1=2*M_PI*erand48(Xi), r2=erand48(Xi), r2s=sqrt(r2); 
+Vec w=nl, u=((fabs(w.x)>.1?Vec(0,1):Vec(1))%w).norm(), v=w%u; 
+Vec d = (u*cos(r1)*r2s + v*sin(r1)*r2s + w*sqrt(1-r2)).norm(); 
+return obj.e + f.mult(radiance(Ray(x,d),depth,Xi)); 
+"(,)
+块#78""(,normal#77)
+运算#79""(条件#86,块#78)
+cmd#80"obj.refl == SPEC"(,)
+cmd#81"return obj.e + f.mult(radiance(Ray(x,r.d-n*2*n.dot(r.d)),depth,Xi))"(,)
+块#82""(,cmd#81)
+运算#83""(条件#84,块#82)
+条件#84""(如果#85,cmd#80)
+如果#85"if"(运算#79,)
+条件#86""(如果#87,cmd#76)
+如果#87"if"(,)
+name#88"Ray"(,)
+name#89"reflRay"(,)
+cmd#90"x, r.d-n*2*n.dot(r.d)"(,)
+输入变量#91""(函数#92,cmd#90)
+函数#92""(输出类型#93,name#89)
+输出类型#93""(,name#88)
+normal#94"bool into = n.dot(nl)>0;
+double nc=1, nt=1.5, nnt=into?nc/nt:nt/nc, ddn=r.d.dot(nl), cos2t; 
+"(,)
+cmd#95"(cos2t=1-nnt*nnt*(1-ddn*ddn))<0"(,)
+cmd#96"return obj.e + f.mult(radiance(reflRay,depth,Xi))"(,)
+块#97""(,cmd#96)
+运算#98""(条件#99,块#97)
+条件#99""(如果#100,cmd#95)
+如果#100"if"(,)
+normal#101"Vec tdir = (r.d*nnt - n*((into?1:-1)*(ddn*nnt+sqrt(cos2t)))).norm(); 
+double a=nt-nc, b=nt+nc, R0=a*a/(b*b), c = 1-(into?-ddn:tdir.dot(n)); 
+double Re=R0+(1-R0)*c*c*c*c*c,Tr=1-Re,P=.25+.5*Re,RP=Re/P,TP=Tr/(1-P); 
+return obj.e + f.mult(depth>2 ? (erand48(Xi)<P ?
+radiance(reflRay,depth,Xi)*RP:radiance(Ray(x,tdir),depth,Xi)*TP) : 
+radiance(reflRay,depth,Xi)*Re+radiance(Ray(x,tdir),depth,Xi)*Tr); 
+"(,)
+块#102""(块#103,normal#101)
+块#103""(块#104,如果#100)
+块#104""(块#105,normal#94)
+块#105""(块#106,输出类型#93)
+块#106""(块#107,如果#87)
+块#107""(块#108,如果#75)
+块#108""(块#109,normal#60)
+块#109""(块#110,如果#59)
+块#110""(,normal#53)
+运算#111""(输入变量#112,块#110)
+输入变量#112""(函数#113,cmd#52)
+函数#113""(输出类型#114,name#51)
+输出类型#114""(,name#50)
+name#115"int"(,)
+name#116"main"(,)
+cmd#117"int argc, char *argv[]"(,)
+normal#118"int w=1024, h=768, samps = argc==2 ? atoi(argv[1])/4 : 1;
+Ray cam(Vec(50,52,295.6), Vec(0,-0.042612,-1).norm());
+Vec cx=Vec(w*.5135/h), cy=(cx%cam.d).norm()*.5135, r, *c=new Vec[w*h]; 
+"(,)
+define#119"#pragma omp parallel for schedule(dynamic, 1) private(r)
+"(,)
+cmd#120"int y=0"(,)
+cmd#121" y<h"(初始化#125,)
+cmd#122" y++"(结束条件#124,)
+循环运算#123""(,cmd#122)
+结束条件#124""(,cmd#121)
+初始化#125""(,cmd#120)
+normal#126"fprintf(stderr,\"\rRendering (%d spp) %5.2f%%\",samps*4,100.*y/(h-1)); 
+"(,)
+cmd#127"unsigned short x=0, Xi[3]={0,0,y*y*y}"(,)
+cmd#128" x<w"(初始化#132,)
+cmd#129" x++"(结束条件#131,)
+循环运算#130""(,cmd#129)
+结束条件#131""(,cmd#128)
+初始化#132""(,cmd#127)
+cmd#133"int sy=0, i=(h-y-1)*w+x"(,)
+cmd#134" sy<2"(初始化#138,)
+cmd#135" sy++"(结束条件#137,)
+循环运算#136""(,cmd#135)
+结束条件#137""(,cmd#134)
+初始化#138""(,cmd#133)
+cmd#139"int sx=0"(,)
+cmd#140" sx<2"(初始化#144,)
+cmd#141" sx++, r=Vec()"(结束条件#143,)
+循环运算#142""(,cmd#141)
+结束条件#143""(,cmd#140)
+初始化#144""(,cmd#139)
+cmd#145"int s=0"(,)
+cmd#146" s<samps"(初始化#150,)
+cmd#147" s++"(结束条件#149,)
+循环运算#148""(,cmd#147)
+结束条件#149""(,cmd#146)
+初始化#150""(,cmd#145)
+normal#151"double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+"(,)
+块#152""(,normal#151)
+运算#153""(条件#154,块#152)
+条件#154""(循环#155,初始化#150)
+循环#155"for"(,)
+normal#156"c[i] = c[i] + Vec(clamp(r.x),clamp(r.y),clamp(r.z))*.25; 
+"(,)
+块#157""(块#158,normal#156)
+块#158""(,循环#155)
+运算#159""(条件#160,块#158)
+条件#160""(循环#161,初始化#144)
+循环#161"for"(,)
+块#162""(,循环#161)
+运算#163""(条件#164,块#162)
+条件#164""(循环#165,初始化#138)
+循环#165"for"(,)
+块#166""(,循环#165)
+运算#167""(条件#168,块#166)
+条件#168""(循环#169,初始化#132)
+循环#169"for"(,)
+块#170""(块#171,循环#169)
+块#171""(,normal#126)
+运算#172""(条件#173,块#171)
+条件#173""(循环#174,初始化#125)
+循环#174"for"(,)
+normal#175"FILE *f = fopen(\"image.ppm\", \"w\");
+fprintf(f, \"P3\n%d %d\n%d\n\", w, h, 255); 
+"(,)
+cmd#176"int i=0"(,)
+cmd#177" i<w*h"(初始化#181,)
+cmd#178" i++"(结束条件#180,)
+循环运算#179""(,cmd#178)
+结束条件#180""(,cmd#177)
+初始化#181""(,cmd#176)
+cmd#182"fprintf(f,\"%d %d %d \", toInt(c[i].x), toInt(c[i].y), toInt(c[i].z))"(,)
+块#183""(,cmd#182)
+运算#184""(条件#185,块#183)
+条件#185""(循环#186,初始化#181)
+循环#186"for"(,)
+块#187""(块#188,循环#186)
+块#188""(块#189,normal#175)
+块#189""(块#190,循环#174)
+块#190""(块#191,define#119)
+块#191""(,normal#118)
+运算#192""(输入变量#193,块#191)
+输入变量#193""(函数#194,cmd#117)
+函数#194""(输出类型#195,name#116)
+输出类型#195""(,name#115)
+块#196""(块#197,输出类型#195)
+块#197""(块#198,输出类型#114)
+块#198""(块#199,输出类型#49)
+块#199""(块#200,输出类型#22)
+块#200""(,输出类型#8)
+起点#201""(,块#200)
+
+## end
+#21, 6046:
+/*
+.e
+*/
+
+#include <math.h>   // smallpt, a Path Tracer by Kevin Beason, 2008 
+#include <stdlib.h> // Make : g++ -O3 -fopenmp smallpt.cpp -o smallpt 
+#include <stdio.h>  //        Remove "-fopenmp" for g++ version < 4.2 
+
+
+struct Vec {        // Usage: time ./smallpt 5000 && xv image.ppm 
+  double x, y, z;                  // position, also color (r,g,b) 
+  Vec(double x_=0, double y_=0, double z_=0){ x=x_; y=y_; z=z_; } 
+  Vec operator+(const Vec &b) const { return Vec(x+b.x,y+b.y,z+b.z); } 
+  Vec operator-(const Vec &b) const { return Vec(x-b.x,y-b.y,z-b.z); } 
+  Vec operator*(double b) const { return Vec(x*b,y*b,z*b); } 
+  Vec mult(const Vec &b) const { return Vec(x*b.x,y*b.y,z*b.z); } 
+  Vec& norm(){ return *this = *this * (1/sqrt(x*x+y*y+z*z)); } 
+  double dot(const Vec &b) const { return x*b.x+y*b.y+z*b.z; } // cross: 
+  Vec operator%(Vec&b){return Vec(y*b.z-z*b.y,z*b.x-x*b.z,x*b.y-y*b.x);} 
+}; 
+
+
+struct Ray { Vec o, d; Ray(Vec o_, Vec d_) : o(o_), d(d_) {} }; 
+
+enum Refl_t { DIFF, SPEC, REFR };  // material types, used in radiance() 
+
+struct Sphere { 
+  double rad;       // radius 
+  Vec p, e, c;      // position, emission, color 
+  Refl_t refl;      // reflection type (DIFFuse, SPECular, REFRactive) 
+  Sphere(double rad_, Vec p_, Vec e_, Vec c_, Refl_t refl_): 
+    rad(rad_), p(p_), e(e_), c(c_), refl(refl_) {} 
+  double intersect(const Ray &r) const { // returns distance, 0 if nohit 
+    Vec op = p-r.o; // Solve t^2*d.d + 2*t*(o-p).d + (o-p).(o-p)-R^2 = 0 
+    double t, eps=1e-4, b=op.dot(r.d), det=b*b-op.dot(op)+rad*rad; 
+    if (det<0) return 0; else det=sqrt(det); 
+    return (t=b-det)>eps ? t : ((t=b+det)>eps ? t : 0); 
+  } 
+}; 
+
+
+Sphere spheres[] = {//Scene: radius, position, emission, color, material 
+  Sphere(1e5, Vec( 1e5+1,40.8,81.6), Vec(),Vec(.75,.25,.25),DIFF),//Left 
+  Sphere(1e5, Vec(-1e5+99,40.8,81.6),Vec(),Vec(.25,.25,.75),DIFF),//Rght 
+  Sphere(1e5, Vec(50,40.8, 1e5),     Vec(),Vec(.75,.75,.75),DIFF),//Back 
+  Sphere(1e5, Vec(50,40.8,-1e5+170), Vec(),Vec(),           DIFF),//Frnt 
+  Sphere(1e5, Vec(50, 1e5, 81.6),    Vec(),Vec(.75,.75,.75),DIFF),//Botm 
+  Sphere(1e5, Vec(50,-1e5+81.6,81.6),Vec(),Vec(.75,.75,.75),DIFF),//Top 
+  Sphere(16.5,Vec(27,16.5,47),       Vec(),Vec(1,1,1)*.999, SPEC),//Mirr 
+  Sphere(16.5,Vec(73,16.5,78),       Vec(),Vec(1,1,1)*.999, REFR),//Glas 
+  Sphere(600, Vec(50,681.6-.27,81.6),Vec(12,12,12),  Vec(), DIFF) //Lite 
+}; 
+
+inline double clamp(double x){ return x<0 ? 0 : x>1 ? 1 : x; } 
+
+inline int toInt(double x){ return int(pow(clamp(x),1/2.2)*255+.5); } 
+
+inline bool intersect(const Ray &r, double &t, int &id){ 
+  double n=sizeof(spheres)/sizeof(Sphere), d, inf=t=1e20; 
+  for(int i=int(n);i--;) if((d=spheres[i].intersect(r))&&d<t){t=d;id=i;} 
+  return t<inf; 
+} 
+
+Vec radiance(const Ray &r, int depth, unsigned short *Xi){ 
+  double t;                               // distance to intersection 
+  int id=0;                               // id of intersected object 
+  if (!intersect(r, t, id)) return Vec(); // if miss, return black 
+  const Sphere &obj = spheres[id];        // the hit object 
+  Vec x=r.o+r.d*t, n=(x-obj.p).norm(), nl=n.dot(r.d)<0?n:n*-1, f=obj.c; 
+  double p = f.x>f.y && f.x>f.z ? f.x : f.y>f.z ? f.y : f.z; // max refl 
+  if (++depth>5) if (erand48(Xi)<p) f=f*(1/p); else return obj.e; //R.R. 
+  if (obj.refl == DIFF){                  // Ideal DIFFUSE reflection 
+    double r1=2*M_PI*erand48(Xi), r2=erand48(Xi), r2s=sqrt(r2); 
+    Vec w=nl, u=((fabs(w.x)>.1?Vec(0,1):Vec(1))%w).norm(), v=w%u; 
+    Vec d = (u*cos(r1)*r2s + v*sin(r1)*r2s + w*sqrt(1-r2)).norm(); 
+    return obj.e + f.mult(radiance(Ray(x,d),depth,Xi)); 
+  } else if (obj.refl == SPEC)            // Ideal SPECULAR reflection 
+    return obj.e + f.mult(radiance(Ray(x,r.d-n*2*n.dot(r.d)),depth,Xi)); 
+  Ray reflRay(x, r.d-n*2*n.dot(r.d));     // Ideal dielectric REFRACTION 
+  bool into = n.dot(nl)>0;                // Ray from outside going in? 
+  double nc=1, nt=1.5, nnt=into?nc/nt:nt/nc, ddn=r.d.dot(nl), cos2t; 
+  if ((cos2t=1-nnt*nnt*(1-ddn*ddn))<0)    // Total internal reflection 
+    return obj.e + f.mult(radiance(reflRay,depth,Xi)); 
+  Vec tdir = (r.d*nnt - n*((into?1:-1)*(ddn*nnt+sqrt(cos2t)))).norm(); 
+  double a=nt-nc, b=nt+nc, R0=a*a/(b*b), c = 1-(into?-ddn:tdir.dot(n)); 
+  double Re=R0+(1-R0)*c*c*c*c*c,Tr=1-Re,P=.25+.5*Re,RP=Re/P,TP=Tr/(1-P); 
+  return obj.e + f.mult(depth>2 ? (erand48(Xi)<P ?   // Russian roulette 
+    radiance(reflRay,depth,Xi)*RP:radiance(Ray(x,tdir),depth,Xi)*TP) : 
+    radiance(reflRay,depth,Xi)*Re+radiance(Ray(x,tdir),depth,Xi)*Tr); 
+} 
+
+
+int main(int argc, char *argv[]){ 
+  int w=1024, h=768, samps = argc==2 ? atoi(argv[1])/4 : 1; // # samples 
+  Ray cam(Vec(50,52,295.6), Vec(0,-0.042612,-1).norm()); // cam pos, dir 
+  Vec cx=Vec(w*.5135/h), cy=(cx%cam.d).norm()*.5135, r, *c=new Vec[w*h]; 
+#pragma omp parallel for schedule(dynamic, 1) private(r)       // OpenMP 
+  for (int y=0; y<h; y++){                       // Loop over image rows 
+    fprintf(stderr,"\rRendering (%d spp) %5.2f%%",samps*4,100.*y/(h-1)); 
+    for (unsigned short x=0, Xi[3]={0,0,y*y*y}; x<w; x++)   // Loop cols 
+      for (int sy=0, i=(h-y-1)*w+x; sy<2; sy++)     // 2x2 subpixel rows 
+        for (int sx=0; sx<2; sx++, r=Vec()){        // 2x2 subpixel cols 
+          for (int s=0; s<samps; s++){ 
+            double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+            double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+            Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+                    cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+            r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+          } // Camera rays are pushed ^^^^^ forward to start in interior 
+          c[i] = c[i] + Vec(clamp(r.x),clamp(r.y),clamp(r.z))*.25; 
+        } 
+  } 
+  FILE *f = fopen("image.ppm", "w");         // Write image to PPM file. 
+  fprintf(f, "P3\n%d %d\n%d\n", w, h, 255); 
+  for (int i=0; i<w*h; i++) 
+    fprintf(f,"%d %d %d ", toInt(c[i].x), toInt(c[i].y), toInt(c[i].z)); 
+} 
+
+
+## end
+#23, 319:
+code
+code
+code
+code
+radiance
+├code
+├if
+|└!intersect(r, t, id)
+| └code
+├code
+├if
+|└++depth>5
+| └code
+├if
+|└obj.refl─==─DIFF────obj.refl == SPEC
+| └code               └code           
+├reflRay
+|└code
+├code
+├if
+|└(cos2t=1-nnt*nnt*(1-ddn*ddn))<0
+| └code
+└code
+main
+├code
+├code
+├loop
+|├code
+|└loop
+| └code
+├code
+└loop
+ └code
+## end
+#29, 20:
+!intersect(r, t, id)
+## end
+#30, 5:
+1,1,1
+## end
+#32, 4:
+code
+## end
+#34, 11:
+4, 1.0, 1.0
+## end
+#41, 9:
+++depth>5
+## end
+#42, 5:
+1,1,1
+## end
+#44, 4:
+code
+## end
+#46, 11:
+4, 1.0, 1.0
+## end
+#53, 16:
+obj.refl == DIFF
+## end
+#54, 5:
+1,1,1
+## end
+#56, 4:
+code
+## end
+#58, 11:
+4, 1.0, 1.0
+## end
+#65, 16:
+obj.refl == SPEC
+## end
+#66, 5:
+1,1,1
+## end
+#68, 4:
+code
+## end
+#70, 11:
+4, 1.0, 1.0
+## end
+#74, 4:
+code
+## end
+#76, 11:
+4, 1.0, 1.0
+## end
+#83, 31:
+(cos2t=1-nnt*nnt*(1-ddn*ddn))<0
+## end
+#84, 5:
+1,1,1
+## end
+#86, 4:
+code
+## end
+#88, 11:
+4, 1.0, 1.0
+## end
+#92, 4:
+code
+## end
+#94, 11:
+4, 1.0, 1.0
+## end
+#98, 2:
+if
+## end
+#100, 13:
+3.0, 1.0, 3.0
+## end
+#104, 4:
+code
+## end
+#106, 13:
+4.0, 1.0, 5.0
+## end
+#110, 7:
+reflRay
+## end
+#112, 13:
+8.0, 1.0, 7.0
+## end
+#116, 2:
+if
+## end
+#118, 13:
+4.0, 1.0, 9.0
+## end
+#122, 2:
+if
+## end
+#124, 14:
+3.0, 1.0, 11.0
+## end
+#128, 4:
+code
+## end
+#130, 14:
+4.0, 1.0, 13.0
+## end
+#134, 2:
+if
+## end
+#136, 14:
+3.0, 1.0, 15.0
+## end
+#140, 4:
+code
+## end
+#142, 14:
+4.0, 1.0, 17.0
+## end
+#146, 4:
+code
+## end
+#148, 11:
+4, 1.0, 1.0
+## end
+#152, 4:
+loop
+## end
+#154, 13:
+5.0, 1.0, 1.0
+## end
+#158, 4:
+code
+## end
+#160, 13:
+4.0, 1.0, 3.0
+## end
+#164, 4:
+code
+## end
+#166, 11:
+4, 1.0, 1.0
+## end
+#170, 4:
+loop
+## end
+#172, 13:
+5.0, 1.0, 1.0
+## end
+#176, 4:
+code
+## end
+#178, 13:
+4.0, 1.0, 3.0
+## end
+#182, 4:
+loop
+## end
+#184, 13:
+5.0, 3.0, 7.0
+## end
+#188, 4:
+code
+## end
+#190, 13:
+4.0, 1.0, 9.0
+## end
+#194, 4:
+code
+## end
+#196, 14:
+4.0, 1.0, 11.0
+## end
+#200, 4:
+main
+## end
+#202, 15:
+5.0, 11.0, 11.0
+## end
+#206, 8:
+radiance
+## end
+#208, 15:
+9.0, 17.0, 29.0
+## end
+#212, 4:
+code
+## end
+#214, 14:
+4.0, 1.0, 31.0
+## end
+#218, 4:
+code
+## end
+#220, 14:
+4.0, 1.0, 33.0
+## end
+#224, 4:
+code
+## end
+#226, 14:
+4.0, 1.0, 35.0
+## end
+#230, 4:
+code
+## end
+#232, 14:
+4.0, 1.0, 37.0
+## end
+#235, 3074:
+%{
+obj.e
+%}
+
+function clamp
+    return x<0 ? 0 : x>1 ? 1 : x; 
+end
+
+function toInt
+    function int
+        
+    end
+end
+
+function intersect
+    double n=sizeof(spheres)/sizeof(Sphere), d, inf=t=1e20; 
+    for int i=int(n)
+        if (d=spheres[i].intersect(r))&&d<t
+            t=d;id=i;
+        end
+    end
+    return t<inf; 
+end
+
+
+function radiance
+    double t;
+    int id=0;
+    if !intersect(r, t, id)
+        return Vec()
+    end
+    const Sphere &obj = spheres[id];
+    Vec x=r.o+r.d*t, n=(x-obj.p).norm(), nl=n.dot(r.d)<0?n:n*-1, f=obj.c; 
+    double p = f.x>f.y && f.x>f.z ? f.x : f.y>f.z ? f.y : f.z;
+    if ++depth>5
+        if erand48(Xi)<p
+            f=f*(1/p)
+        else
+            return obj.e
+        end
+    end
+    if obj.refl == DIFF
+        double r1=2*M_PI*erand48(Xi), r2=erand48(Xi), r2s=sqrt(r2); 
+        Vec w=nl, u=((fabs(w.x)>.1?Vec(0,1):Vec(1))%w).norm(), v=w%u; 
+        Vec d = (u*cos(r1)*r2s + v*sin(r1)*r2s + w*sqrt(1-r2)).norm(); 
+        return obj.e + f.mult(radiance(Ray(x,d),depth,Xi)); 
+    elseif obj.refl == SPEC
+        return obj.e + f.mult(radiance(Ray(x,r.d-n*2*n.dot(r.d)),depth,Xi))
+    end
+    function reflRay
+        
+    end
+    bool into = n.dot(nl)>0;
+    double nc=1, nt=1.5, nnt=into?nc/nt:nt/nc, ddn=r.d.dot(nl), cos2t; 
+    if (cos2t=1-nnt*nnt*(1-ddn*ddn))<0
+        return obj.e + f.mult(radiance(reflRay,depth,Xi))
+    end
+    Vec tdir = (r.d*nnt - n*((into?1:-1)*(ddn*nnt+sqrt(cos2t)))).norm(); 
+    double a=nt-nc, b=nt+nc, R0=a*a/(b*b), c = 1-(into?-ddn:tdir.dot(n)); 
+    double Re=R0+(1-R0)*c*c*c*c*c,Tr=1-Re,P=.25+.5*Re,RP=Re/P,TP=Tr/(1-P); 
+    return obj.e + f.mult(depth>2 ? (erand48(Xi)<P ?
+    radiance(reflRay,depth,Xi)*RP:radiance(Ray(x,tdir),depth,Xi)*TP) : 
+    radiance(reflRay,depth,Xi)*Re+radiance(Ray(x,tdir),depth,Xi)*Tr); 
+end
+
+function main
+    int w=1024, h=768, samps = argc==2 ? atoi(argv[1])/4 : 1;
+    Ray cam(Vec(50,52,295.6), Vec(0,-0.042612,-1).norm());
+    Vec cx=Vec(w*.5135/h), cy=(cx%cam.d).norm()*.5135, r, *c=new Vec[w*h]; 
+    #pragma omp parallel for schedule(dynamic, 1) private(r)
+    for int y=0
+        fprintf(stderr,"\rRendering (%d spp) %5.2f%%",samps*4,100.*y/(h-1)); 
+        for unsigned short x=0, Xi[3]={0,0,y*y*y}
+            for int sy=0, i=(h-y-1)*w+x
+                for int sx=0
+                    for int s=0
+                        double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+                        double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+                        Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+                        cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+                        r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+                    end
+                    c[i] = c[i] + Vec(clamp(r.x),clamp(r.y),clamp(r.z))*.25; 
+                end
+            end
+        end
+    end
+    FILE *f = fopen("image.ppm", "w");
+    fprintf(f, "P3\n%d %d\n%d\n", w, h, 255); 
+    for int i=0
+        fprintf(f,"%d %d %d ", toInt(c[i].x), toInt(c[i].y), toInt(c[i].z))
+    end
+end
+## end
+#236, 4:
+    
+## end
+#237, 4:
+    
+## end
+#238, 4:
+    
+## end
+#239, 4:
+    
+## end
+#240, 4:
+    
+## end
+#241, 4:
+    
+## end
+#242, 4:
+    
+## end
+#243, 4:
+    
+## end
+#244, 4:
+    
+## end
+#245, 4:
+    
+## end
+#246, 4:
+    
+## end
+#247, 4:
+    
+## end
+#248, 4:
+    
+## end
+#249, 4:
+    
+## end
+#250, 4:
+    
+## end
+#251, 4:
+    
+## end
+#252, 4:
+    
+## end
+#253, 4:
+    
+## end
+#254, 4:
+    
+## end
+#255, 4:
+    
+## end
+#260, 4:
+code
+## end
+#262, 5:
+1,1,1
+## end
+#265, 32:
+(d=spheres[i].intersect(r))&&d<t
+## end
+#266, 5:
+1,1,1
+## end
+#269, 20:
+!intersect(r, t, id)
+## end
+#270, 5:
+1,1,1
+## end
+#273, 9:
+++depth>5
+## end
+#274, 5:
+1,1,1
+## end
+#277, 13:
+erand48(Xi)<p
+## end
+#278, 5:
+1,1,1
+## end
+#281, 4:
+else
+## end
+#283, 5:
+1,1,1
+## end
+#285, 16:
+obj.refl == DIFF
+## end
+#286, 5:
+1,1,1
+## end
+#289, 16:
+obj.refl == SPEC
+## end
+#290, 5:
+1,1,1
+## end
+#292, 4:
+code
+## end
+#294, 5:
+1,1,1
+## end
+#297, 31:
+(cos2t=1-nnt*nnt*(1-ddn*ddn))<0
+## end
+#298, 5:
+1,1,1
+## end
+#300, 30:
+return x<0 ? 0 : x>1 ? 1 : x; 
+## end
+#301, 22:
+function clamp
+%运算
+end
+## end
+#304, 1:
+
+
+## end
+#305, 4:
+    
+## end
+#309, 30:
+return x<0 ? 0 : x>1 ? 1 : x; 
+## end
+#312, 1:
+
+
+## end
+#313, 21:
+function int
+    
+end
+## end
+#314, 22:
+function toInt
+%运算
+end
+## end
+#316, 4:
+    
+## end
+#321, 20:
+function int
+%运算
+end
+## end
+#324, 1:
+
+
+## end
+#325, 4:
+    
+## end
+#329, 158:
+double n=sizeof(spheres)/sizeof(Sphere), d, inf=t=1e20; 
+for int i=int(n)
+    if (d=spheres[i].intersect(r))&&d<t
+        t=d;id=i;
+    end
+end
+return t<inf; 
+## end
+#330, 26:
+function intersect
+%运算
+end
+## end
+#332, 4:
+    
+## end
+#336, 56:
+double n=sizeof(spheres)/sizeof(Sphere), d, inf=t=1e20; 
+## end
+#339, 1:
+
+
+## end
+#340, 53:
+if (d=spheres[i].intersect(r))&&d<t
+    t=d;id=i;
+end
+## end
+#341, 24:
+for int i=int(n)
+%运算
+end
+## end
+#343, 4:
+    
+## end
+#349, 9:
+t=d;id=i;
+## end
+#350, 53:
+if (d=spheres[i].intersect(r))&&d<t
+%运算%elif%else
+end
+## end
+#353, 1:
+
+
+## end
+#354, 4:
+    
+## end
+#358, 9:
+t=d;id=i;
+## end
+#361, 1:
+
+
+## end
+#364, 14:
+return t<inf; 
+## end
+#366, 1307:
+double t;
+int id=0;
+if !intersect(r, t, id)
+    return Vec()
+end
+const Sphere &obj = spheres[id];
+Vec x=r.o+r.d*t, n=(x-obj.p).norm(), nl=n.dot(r.d)<0?n:n*-1, f=obj.c; 
+double p = f.x>f.y && f.x>f.z ? f.x : f.y>f.z ? f.y : f.z;
+if ++depth>5
+    if erand48(Xi)<p
+        f=f*(1/p)
+    else
+        return obj.e
+    end
+end
+if obj.refl == DIFF
+    double r1=2*M_PI*erand48(Xi), r2=erand48(Xi), r2s=sqrt(r2); 
+    Vec w=nl, u=((fabs(w.x)>.1?Vec(0,1):Vec(1))%w).norm(), v=w%u; 
+    Vec d = (u*cos(r1)*r2s + v*sin(r1)*r2s + w*sqrt(1-r2)).norm(); 
+    return obj.e + f.mult(radiance(Ray(x,d),depth,Xi)); 
+elseif obj.refl == SPEC
+    return obj.e + f.mult(radiance(Ray(x,r.d-n*2*n.dot(r.d)),depth,Xi))
+end
+function reflRay
+    
+end
+bool into = n.dot(nl)>0;
+double nc=1, nt=1.5, nnt=into?nc/nt:nt/nc, ddn=r.d.dot(nl), cos2t; 
+if (cos2t=1-nnt*nnt*(1-ddn*ddn))<0
+    return obj.e + f.mult(radiance(reflRay,depth,Xi))
+end
+Vec tdir = (r.d*nnt - n*((into?1:-1)*(ddn*nnt+sqrt(cos2t)))).norm(); 
+double a=nt-nc, b=nt+nc, R0=a*a/(b*b), c = 1-(into?-ddn:tdir.dot(n)); 
+double Re=R0+(1-R0)*c*c*c*c*c,Tr=1-Re,P=.25+.5*Re,RP=Re/P,TP=Tr/(1-P); 
+return obj.e + f.mult(depth>2 ? (erand48(Xi)<P ?
+radiance(reflRay,depth,Xi)*RP:radiance(Ray(x,tdir),depth,Xi)*TP) : 
+radiance(reflRay,depth,Xi)*Re+radiance(Ray(x,tdir),depth,Xi)*Tr); 
+## end
+#367, 25:
+function radiance
+%运算
+end
+## end
+#369, 4:
+    
+## end
+#373, 19:
+double t;
+int id=0;
+## end
+#376, 1:
+
+
+## end
+#379, 12:
+return Vec()
+## end
+#380, 41:
+if !intersect(r, t, id)
+%运算%elif%else
+end
+## end
+#382, 4:
+    
+## end
+#386, 12:
+return Vec()
+## end
+#389, 1:
+
+
+## end
+#392, 162:
+const Sphere &obj = spheres[id];
+Vec x=r.o+r.d*t, n=(x-obj.p).norm(), nl=n.dot(r.d)<0?n:n*-1, f=obj.c; 
+double p = f.x>f.y && f.x>f.z ? f.x : f.y>f.z ? f.y : f.z;
+## end
+#396, 56:
+if erand48(Xi)<p
+    f=f*(1/p)
+else
+    return obj.e
+end
+## end
+#397, 30:
+if ++depth>5
+%运算%elif%else
+end
+## end
+#399, 4:
+    
+## end
+#403, 12:
+return obj.e
+## end
+#404, 22:
+
+else
+    return obj.e
+## end
+#406, 9:
+f=f*(1/p)
+## end
+#407, 34:
+if erand48(Xi)<p
+%运算%elif%else
+end
+## end
+#410, 1:
+
+
+## end
+#411, 4:
+    
+## end
+#415, 9:
+f=f*(1/p)
+## end
+#418, 1:
+
+
+## end
+#421, 4:
+    
+## end
+#425, 12:
+return obj.e
+## end
+#428, 1:
+
+
+## end
+#432, 67:
+return obj.e + f.mult(radiance(Ray(x,r.d-n*2*n.dot(r.d)),depth,Xi))
+## end
+#433, 28:
+
+elseif obj.refl == SPEC
+%运算
+## end
+#434, 96:
+
+elseif obj.refl == SPEC
+    return obj.e + f.mult(radiance(Ray(x,r.d-n*2*n.dot(r.d)),depth,Xi))
+## end
+#435, 240:
+double r1=2*M_PI*erand48(Xi), r2=erand48(Xi), r2s=sqrt(r2); 
+Vec w=nl, u=((fabs(w.x)>.1?Vec(0,1):Vec(1))%w).norm(), v=w%u; 
+Vec d = (u*cos(r1)*r2s + v*sin(r1)*r2s + w*sqrt(1-r2)).norm(); 
+return obj.e + f.mult(radiance(Ray(x,d),depth,Xi)); 
+## end
+#436, 37:
+if obj.refl == DIFF
+%运算%elif%else
+end
+## end
+#438, 4:
+    
+## end
+#442, 240:
+double r1=2*M_PI*erand48(Xi), r2=erand48(Xi), r2s=sqrt(r2); 
+Vec w=nl, u=((fabs(w.x)>.1?Vec(0,1):Vec(1))%w).norm(), v=w%u; 
+Vec d = (u*cos(r1)*r2s + v*sin(r1)*r2s + w*sqrt(1-r2)).norm(); 
+return obj.e + f.mult(radiance(Ray(x,d),depth,Xi)); 
+## end
+#445, 1:
+
+
+## end
+#450, 4:
+    
+## end
+#454, 67:
+return obj.e + f.mult(radiance(Ray(x,r.d-n*2*n.dot(r.d)),depth,Xi))
+## end
+#457, 1:
+
+
+## end
+#460, 24:
+function reflRay
+%运算
+end
+## end
+#462, 4:
+    
+## end
+#466, 92:
+bool into = n.dot(nl)>0;
+double nc=1, nt=1.5, nnt=into?nc/nt:nt/nc, ddn=r.d.dot(nl), cos2t; 
+## end
+#470, 49:
+return obj.e + f.mult(radiance(reflRay,depth,Xi))
+## end
+#471, 52:
+if (cos2t=1-nnt*nnt*(1-ddn*ddn))<0
+%运算%elif%else
+end
+## end
+#473, 4:
+    
+## end
+#477, 49:
+return obj.e + f.mult(radiance(reflRay,depth,Xi))
+## end
+#480, 1:
+
+
+## end
+#483, 396:
+Vec tdir = (r.d*nnt - n*((into?1:-1)*(ddn*nnt+sqrt(cos2t)))).norm(); 
+double a=nt-nc, b=nt+nc, R0=a*a/(b*b), c = 1-(into?-ddn:tdir.dot(n)); 
+double Re=R0+(1-R0)*c*c*c*c*c,Tr=1-Re,P=.25+.5*Re,RP=Re/P,TP=Tr/(1-P); 
+return obj.e + f.mult(depth>2 ? (erand48(Xi)<P ?
+radiance(reflRay,depth,Xi)*RP:radiance(Ray(x,tdir),depth,Xi)*TP) : 
+radiance(reflRay,depth,Xi)*Re+radiance(Ray(x,tdir),depth,Xi)*Tr); 
+## end
+#485, 1139:
+int w=1024, h=768, samps = argc==2 ? atoi(argv[1])/4 : 1;
+Ray cam(Vec(50,52,295.6), Vec(0,-0.042612,-1).norm());
+Vec cx=Vec(w*.5135/h), cy=(cx%cam.d).norm()*.5135, r, *c=new Vec[w*h]; 
+#pragma omp parallel for schedule(dynamic, 1) private(r)
+for int y=0
+    fprintf(stderr,"\rRendering (%d spp) %5.2f%%",samps*4,100.*y/(h-1)); 
+    for unsigned short x=0, Xi[3]={0,0,y*y*y}
+        for int sy=0, i=(h-y-1)*w+x
+            for int sx=0
+                for int s=0
+                    double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+                    double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+                    Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+                    cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+                    r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+                end
+                c[i] = c[i] + Vec(clamp(r.x),clamp(r.y),clamp(r.z))*.25; 
+            end
+        end
+    end
+end
+FILE *f = fopen("image.ppm", "w");
+fprintf(f, "P3\n%d %d\n%d\n", w, h, 255); 
+for int i=0
+    fprintf(f,"%d %d %d ", toInt(c[i].x), toInt(c[i].y), toInt(c[i].z))
+end
+## end
+#486, 21:
+function main
+%运算
+end
+## end
+#488, 4:
+    
+## end
+#492, 184:
+int w=1024, h=768, samps = argc==2 ? atoi(argv[1])/4 : 1;
+Ray cam(Vec(50,52,295.6), Vec(0,-0.042612,-1).norm());
+Vec cx=Vec(w*.5135/h), cy=(cx%cam.d).norm()*.5135, r, *c=new Vec[w*h]; 
+## end
+#495, 1:
+
+
+## end
+#496, 56:
+#pragma omp parallel for schedule(dynamic, 1) private(r)
+## end
+#498, 655:
+fprintf(stderr,"\rRendering (%d spp) %5.2f%%",samps*4,100.*y/(h-1)); 
+for unsigned short x=0, Xi[3]={0,0,y*y*y}
+    for int sy=0, i=(h-y-1)*w+x
+        for int sx=0
+            for int s=0
+                double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+                double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+                Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+                cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+                r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+            end
+            c[i] = c[i] + Vec(clamp(r.x),clamp(r.y),clamp(r.z))*.25; 
+        end
+    end
+end
+## end
+#499, 19:
+for int y=0
+%运算
+end
+## end
+#501, 4:
+    
+## end
+#505, 69:
+fprintf(stderr,"\rRendering (%d spp) %5.2f%%",samps*4,100.*y/(h-1)); 
+## end
+#508, 1:
+
+
+## end
+#509, 491:
+for int sy=0, i=(h-y-1)*w+x
+    for int sx=0
+        for int s=0
+            double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+            double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+            Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+            cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+            r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+        end
+        c[i] = c[i] + Vec(clamp(r.x),clamp(r.y),clamp(r.z))*.25; 
+    end
+end
+## end
+#510, 49:
+for unsigned short x=0, Xi[3]={0,0,y*y*y}
+%运算
+end
+## end
+#512, 4:
+    
+## end
+#516, 419:
+for int sx=0
+    for int s=0
+        double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+        double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+        Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+        cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+        r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+    end
+    c[i] = c[i] + Vec(clamp(r.x),clamp(r.y),clamp(r.z))*.25; 
+end
+## end
+#517, 35:
+for int sy=0, i=(h-y-1)*w+x
+%运算
+end
+## end
+#520, 1:
+
+
+## end
+#521, 4:
+    
+## end
+#525, 370:
+for int s=0
+    double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+    double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+    Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+    cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+    r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+end
+c[i] = c[i] + Vec(clamp(r.x),clamp(r.y),clamp(r.z))*.25; 
+## end
+#526, 20:
+for int sx=0
+%运算
+end
+## end
+#529, 1:
+
+
+## end
+#530, 4:
+    
+## end
+#534, 276:
+double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+## end
+#535, 19:
+for int s=0
+%运算
+end
+## end
+#538, 1:
+
+
+## end
+#539, 4:
+    
+## end
+#543, 276:
+double r1=2*erand48(Xi), dx=r1<1 ? sqrt(r1)-1: 1-sqrt(2-r1); 
+double r2=2*erand48(Xi), dy=r2<1 ? sqrt(r2)-1: 1-sqrt(2-r2); 
+Vec d = cx*( ( (sx+.5 + dx)/2 + x)/w - .5) + 
+cy*( ( (sy+.5 + dy)/2 + y)/h - .5) + cam.d; 
+r = r + radiance(Ray(cam.o+d*140,d.norm()),0,Xi)*(1./samps); 
+## end
+#546, 1:
+
+
+## end
+#547, 57:
+c[i] = c[i] + Vec(clamp(r.x),clamp(r.y),clamp(r.z))*.25; 
+## end
+#549, 77:
+FILE *f = fopen("image.ppm", "w");
+fprintf(f, "P3\n%d %d\n%d\n", w, h, 255); 
+## end
+#551, 67:
+fprintf(f,"%d %d %d ", toInt(c[i].x), toInt(c[i].y), toInt(c[i].z))
+## end
+#552, 19:
+for int i=0
+%运算
+end
+## end
+#554, 4:
+    
+## end
+#558, 67:
+fprintf(f,"%d %d %d ", toInt(c[i].x), toInt(c[i].y), toInt(c[i].z))
+## end
+#561, 1:
+
+
+## end
+#563, 17:
+文档/数学问题/曲面交点.ftxt
+## end
+#565, 17:
+文档/数学问题/曲面交点.ftxt
+## end
+#567, 60:
+file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf
+## end
+#569, 35:
+https://madebyevan.com/webgl-water/
+## end
+#571, 68:
+file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf#page=56
+## end
+#573, 68:
+file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf#page=19
+## end
+#575, 68:
+file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf#page=42
+## end
+#577, 68:
+file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf#page=16
+## end
+#579, 68:
+file:///media/xiantao/Elements/paper/RayTracing/smallPT1.pdf#page=29
+## end
+#581, 77:
+https://en.wikipedia.org/wiki/Bidirectional_reflectance_distribution_function
+## end
+#583, 361:
+
+算法非常简单. 就是从镜头随机发射光线. 如果最终连到了光源, 就根据光源和材料表面的性质确定光线的颜色. 如果没有就放弃这条光线(所以效率低)
+
+有三种表面. 镜面(只有反射)和玻璃面(反射和折射)的光线方向都不是随机的
+散射面是漫反射, 出射光的方向是随机的. 随机分布的性质会决定材质
+
+有一种提高效率的方法(explict). 就是散射面会主动找与光源的连线(shadow ray). 如果连线没有被遮挡, 那么这条连线有效(注意到这个行为会影响整体的权重). 如果遮挡了, 那么继续随机追溯
+
+这个看起来有很大的优化空间
+
+行, 最后确定一下染色的规则, 就可以动手了
+
+颜色非常简单. 就是把光线现有的颜色乘以材料对各个通道的反射率, 然后加上材料本身的发光系数即可
+再确定一下入口的随机是怎么弄的吧
+
+
+
+
+## end
+#585, 529:
+<!--
++[H函数](,算法)
+-->
+
+<h2>Reflection and refraction</h2>
+The local frame of a reflection plane is,
+%[1].
+%[2].
+
+If incident direction is \(\vec{v}\), then reflected direction \(\vec{v_1}\) is
+%[3].
+
+The Snell's law is,
+%[4].
+%[5].
+
+The refracted direction \(\vec{v_2}\) is,
+%[6].
+(There is a problem in this formula. )
+
+
+<!--
+[6].:
+将"\vec{v_2}=(\vec{v}\cdot \hat{x})*\hat{x}+\sqrt{(n_2/n_1)^{2}*\vec{v}^{2}-(\vec{v}\cdot \hat{x})^{2}}*\hat{y}"记作为式(6)
+
+
+验证公式:...
+在选择区域中, 将'验证公式'的"sj"替换为"j_min(sj)"
++[新建阅读窗口](,验证公式)
++[H函数](,算法)
+-->
+## end
+#587, 44:
+\hat{y}=\vec{f_{i}}/\left|\vec{f_{i}}\right|
+## end
+#588, 29:
+\hat{y}=\vec{f_i}/[\vec{f_i}]
+## end
+#592, 128:
+\hat{x}=\frac{\vec{v}-\left(\vec{v}\cdot \hat{y}\right) \hat{y}}{\left|\vec{v}-\left(\vec{v}\cdot \hat{y}\right) \hat{y}\right|}
+## end
+#594, 95:
+\vec{v_{1}}=\left(\vec{v}\cdot \hat{x}\right) \hat{x}-\left(\vec{v}\cdot \hat{y}\right) \hat{y}
+## end
+#596, 71:
+n_{1} sin \left( \theta_{1} \right)=n_{2} sin \left( \theta_{2} \right)
+## end
+#598, 137:
+tan \left( \theta_{2} \right)=\frac{sin \left( \theta_{1} \right)}{\sqrt{\left(n_{2}/n_{1}\right)^{2}-sin \left( \theta_{1} \right)^{2}}}
+## end
+#600, 147:
+\vec{v_{2}}=\left(\vec{v}\cdot \hat{x}\right) \hat{x}+\sqrt{\left(n_{2}/n_{1}\right)^{2} \vec{v}^{2}-\left(\vec{v}\cdot \hat{x}\right)^{2}} \hat{y}
+## end
+#601, 95:
+\hat{x}=\frac{\vec{v}-(\vec{v}\cdot \hat{y})*\hat{y}}{[\vec{v}-(\vec{v}\cdot \hat{y})*\hat{y}]}
+## end
+#604, 71:
+\vec{v_1}=(\vec{v}\cdot \hat{x})*\hat{x}-(\vec{v}\cdot \hat{y})*\hat{y}
+## end
+#607, 35:
+n_1*sin(\theta_1)=n_2*sin(\theta_2)
+## end
+#610, 74:
+tan(\theta_2)=\frac{sin(\theta_1)}{\sqrt{(n_2/n_1)^{2}-sin(\theta_1)^{2}}}
+## end
+#613, 108:
+\vec{v_2}=(\vec{v}\cdot \hat{x})*\hat{x}+\sqrt{(n_2/n_1)^{2}*\vec{v}^{2}-(\vec{v}\cdot \hat{x})^{2}}*\hat{y}
+## end
+#617, 1938:
+%{
++[M函数](,验证公式)
+Nini, 打开三维场景(文件)
+Nini, 打开直线交点(文件)
+
+初步场景:...
+场景相机:...
++[新建阅读窗口](,场景相机)
+单条光线:...
+(反射方向有问题)
+单条光线_场景:...
+多光线_场景:...
++[新建阅读窗口](,多光线_场景)
+
+快速测试:...
+完整测试:...
+第一次场景:...
+
+ray_tracing_stepOne(M函数):...
++[新建阅读窗口](,ray_tracing_stepOne)
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+addpath('Matlab/optics');
+addpath('Matlab/tmp');
+
+n_1=1;
+n_2=1;
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+% 1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+
+
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.15,0.15,0.5,0.1];
+type_s=[1,1,1,1];
+r_ratio=[0.9,0.9,0.9,0.9];
+emission=[0,0,0,1];
+
+
+% Set camera
+alpha=-10;
+beta=5;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+% L=max(axis_)-min(axis_);
+L=4.4;
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,验证公式)
+pic_map
+%}
+
+dx=0.2/300;
+cx=linspace(-0.1,0.1,300);
+cy=linspace(-0.1,0.1,300);
+[CX0,CY0]=meshgrid(cx,cy);
+CZ0=0.3*ones(size(CX0));
+
+pic_map=zeros(size(CX0));
+
+for i=1:100
+CX1=CX0+(rand(300,300)-1/2)*dx;
+CY1=CY0+(rand(300,300)-1/2)*dx;
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX1,CY1,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+pic_color=ones(size(x_1));
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+
+pic_color=ray_tracing_stepOne(x_1,y_1,z_1,v_x,v_y,v_z,xs,ys,zs,Rs,n_2,r_ratio,emission,xb,yb,zb,faces,8);
+
+pic_map=pic_map+reshape(pic_color,size(CX));
+end
+
+clf
+image(pic_map/max(max(pic_map))*4055)
+axis equal
+colormap("gray")
+set(gca,'YDir','normal')
+
+%{
+get(gca)
+plot(pic_map)
+faces
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#619, 2143:
+%{
++[M函数](,验证公式)
+Nini, 打开三维场景(文件)
+
+初步场景:...
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.5,0.5,0.5,0.1];
+type_s=[1,1,1,1];
+
+% Set camera
+alpha=45;
+beta=45;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+L=max(axis_)-min(axis_);
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,验证公式)
+%}
+
+cx=linspace(-0.1,0.1,2)/4;
+cy=linspace(-0.1,0.1,2)/4;
+[CX0,CY0]=meshgrid(cx,cy);
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+x_0=xs(1);
+y_0=ys(1);
+z_0=zs(1);
+R=Rs(1);
+
+[t_3,t_2]=intersection_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,x_0,y_0,z_0,R);
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,t_2,x_0,y_0,z_0,R,n_1,n_2);
+
+[t_3,t_2]=intersection_sphere_3D(x_2,y_2,z_2,v_2_x,v_2_y,v_2_z,x_0,y_0,z_0,R);
+[x_3,y_3,z_3,v_21_x,v_21_y,v_21_z,v_22_x,v_22_y,v_22_z]=reflect_refract_sphere_3D(x_2,y_2,z_2,v_2_x,v_2_y,v_2_z,t_3,x_0,y_0,z_0,R,n_2,n_1);
+
+
+x_21=x_2+v_1_x;
+y_21=y_2+v_1_y;
+z_21=z_2+v_1_z;
+
+x_31=x_3+v_21_x;
+y_31=y_3+v_21_y;
+z_31=z_3+v_21_z;
+
+x_32=x_3+v_22_x;
+y_32=y_3+v_22_y;
+z_32=z_3+v_22_z;
+
+
+
+
+
+clf
+hold on
+plot3(pt(1),pt(2),pt(3),'r*',CX,CY,CZ,'bo')
+plot3([x_1;x_2],[y_1;y_2],[z_1;z_2],"r*-")
+% plot3([x_21;x_2],[y_21;y_2],[z_21;z_2],"b*-")
+% plot3([x_31;x_3],[y_31;y_3],[z_31;z_3],"b*-")
+
+
+for i=1:length(xs)
+draw_sphere_fill([xs(i),ys(i),zs(i)],Rs(i));
+end
+
+for i=1:size(faces,1)
+    fs=faces(i,:);
+    patch(xb(fs),yb(fs),zb(fs),[1,1,1],'FaceAlpha',0.3)
+end
+
+axis equal
+view([alpha,beta])
+xlabel("X")
+ylabel("Y")
+zlabel("Z")
+
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#621, 2151:
+%{
++[M函数](,场景相机)
+Nini, 打开三维场景(文件)
++[打开文件夹]"Matlab"
+
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.5,0.5,0.5,0.1];
+type_s=[1,1,1,1];
+
+% Set camera
+alpha=45;
+beta=45;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+L=max(axis_)-min(axis_);
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,验证公式)
+%}
+
+cx=linspace(-0.1,0.1,2)/4;
+cy=linspace(-0.1,0.1,2)/4;
+[CX0,CY0]=meshgrid(cx,cy);
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+x_0=xs(1);
+y_0=ys(1);
+z_0=zs(1);
+R=Rs(1);
+
+[t_3,t_2]=intersection_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,x_0,y_0,z_0,R);
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,t_2,x_0,y_0,z_0,R,n_1,n_2);
+
+[t_3,t_2]=intersection_sphere_3D(x_2,y_2,z_2,v_2_x,v_2_y,v_2_z,x_0,y_0,z_0,R);
+[x_3,y_3,z_3,v_21_x,v_21_y,v_21_z,v_22_x,v_22_y,v_22_z]=reflect_refract_sphere_3D(x_2,y_2,z_2,v_2_x,v_2_y,v_2_z,t_3,x_0,y_0,z_0,R,n_2,n_1);
+
+
+x_21=x_2+v_1_x;
+y_21=y_2+v_1_y;
+z_21=z_2+v_1_z;
+
+x_31=x_3+v_21_x;
+y_31=y_3+v_21_y;
+z_31=z_3+v_21_z;
+
+x_32=x_3+v_22_x;
+y_32=y_3+v_22_y;
+z_32=z_3+v_22_z;
+
+
+
+
+
+clf
+hold on
+plot3(pt(1),pt(2),pt(3),'r*',CX,CY,CZ,'bo')
+plot3([x_1;x_2],[y_1;y_2],[z_1;z_2],"r*-")
+% plot3([x_21;x_2],[y_21;y_2],[z_21;z_2],"b*-")
+% plot3([x_31;x_3],[y_31;y_3],[z_31;z_3],"b*-")
+
+
+for i=1:length(xs)
+draw_sphere_fill([xs(i),ys(i),zs(i)],Rs(i));
+end
+
+for i=1:size(faces,1)
+    fs=faces(i,:);
+    patch(xb(fs),yb(fs),zb(fs),[1,1,1],'FaceAlpha',0.3)
+end
+
+axis equal
+view([alpha,beta])
+xlabel("X")
+ylabel("Y")
+zlabel("Z")
+
+
+
+
+%{
++[M函数](,场景相机)
+%}
+## end
+#623, 2040:
+%{
++[M函数](,验证公式)
+Nini, 打开三维场景(文件)
+Nini, 打开直线交点(文件)
+
+初步场景:...
+场景相机:...
+单条光线:...
++[新建阅读窗口](,场景相机)
+
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+
+n_1=1;
+n_2=1.5;
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.5,0.5,0.5,0.1];
+type_s=[1,1,1,1];
+
+% Set camera
+alpha=45;
+beta=45;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+L=max(axis_)-min(axis_);
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,验证公式)
+%}
+
+cx=linspace(-0.1,0.1,2)/4;
+cy=linspace(-0.1,0.1,2)/4;
+[CX0,CY0]=meshgrid(cx,cy);
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+xs_ray=x_1;
+ys_ray=y_1;
+zs_ray=z_1;
+
+for n=1:10
+i_min=zeros(size(xs))+1;
+t_min=inf*ones(size(xs));
+
+for i=1:length(xs)
+    [t_2,t_3]=intersection_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,xs(i),ys(i),zs(i),Rs(i));
+    t_0=min([t_2;t_3]);
+    it=imag(t_2)==0 & t_min>t_0 & t_0>0;
+    t_min(it)=t_0(it);
+    i_min(it)=i;
+end
+
+j_min=zeros(size(xs));
+for i=1:size(faces,1)
+    fs=faces(i,:);
+    t_0=intersection_plane_3D(x_1,y_1,z_1,v_x,v_y,v_z,xb(fs),yb(fs),zb(fs));
+    it=t_min>t_0 & t_0>0;
+    t_min(it)=t_0(it);
+    j_min(it)=i;
+end
+
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,t_min,xs(i_min),ys(i_min),zs(i_min),Rs(i_min),n_1,n_2);
+
+x_1=x_2;
+y_1=y_2;
+z_1=z_2;
+v_x=v_1_x;
+v_y=v_1_y;
+v_z=v_1_z;
+
+xs_ray(end+1,:)=x_1;
+ys_ray(end+1,:)=y_1;
+zs_ray(end+1,:)=z_1;
+end
+
+plot3(xs_ray,ys_ray,zs_ray)
+axis equal
+
+
+
+
+%{
+x_0(i_min)
+Rs(i_min)
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#625, 3242:
+%{
++[M函数](,验证公式)
+Nini, 打开三维场景(文件)
+Nini, 打开直线交点(文件)
+
+初步场景:...
+场景相机:...
+单条光线:...
+(反射方向有问题)
+单条光线_场景:...
++[新建阅读窗口](,场景相机)
+
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+
+n_1=1;
+n_2=1;
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.5,0.5,0.5,0.1];
+type_s=[1,1,1,1];
+
+% Set camera
+alpha=45;
+beta=45;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+% L=max(axis_)-min(axis_);
+L=0.4;
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,验证公式)
+%}
+
+cx=linspace(-0.1,0.1,2)/4;
+cy=linspace(-0.1,0.1,2)/4;
+[CX0,CY0]=meshgrid(cx,cy);
+CX0=0.;
+CY0=0.;
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+xs_ray=x_1;
+ys_ray=y_1;
+zs_ray=z_1;
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+
+for n=1:10
+i_min=zeros(size(x_1));
+t_min=inf*ones(size(x_1));
+
+for i=1:length(xs)
+    [t_2,t_3]=intersection_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,xs(i),ys(i),zs(i),Rs(i));
+    t_0=min([t_2;t_3]);
+    it=imag(t_2)==0 & t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    i_min(it)=i;
+end
+
+j_min=zeros(size(x_1));
+for i=1:size(faces,1)
+    fs=faces(i,:);
+
+    t_0=intersection_plane_3D(x_1,y_1,z_1,v_x,v_y,v_z,xb(fs),yb(fs),zb(fs));
+    it=t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    j_min(it)=i;
+end
+
+% si=i_min~=0;
+% sj=i_min==0;
+si=j_min==0;
+sj=j_min~=0;
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_sphere_3D(x_1(si),y_1(si),z_1(si),v_x(si),v_y(si),v_z(si),t_min(si),xs(i_min(si)),ys(i_min(si)),zs(i_min(si)),Rs(i_min(si)),n_1,n_2);
+
+x_1(si)=x_2;
+y_1(si)=y_2;
+z_1(si)=z_2;
+v_x(si)=v_1_x;
+v_y(si)=v_1_y;
+v_z(si)=v_1_z;
+
+Dx1=xb(faces(j_min(sj),1))-xb(faces(j_min(sj),2));
+Dx2=xb(faces(j_min(sj),2))-xb(faces(j_min(sj),3));
+Dy1=yb(faces(j_min(sj),1))-yb(faces(j_min(sj),2));
+Dy2=yb(faces(j_min(sj),2))-yb(faces(j_min(sj),3));
+Dz1=zb(faces(j_min(sj),1))-zb(faces(j_min(sj),2));
+Dz2=zb(faces(j_min(sj),2))-zb(faces(j_min(sj),3));
+
+y_x=Dy1.*Dz2-Dy2.*Dz1;
+y_y=Dz1.*Dx2-Dz2.*Dx1;
+y_z=Dx1.*Dy2-Dx2.*Dy1;
+% y_x,y_y,y_z
+
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_plane_3D(x_1(sj),y_1(sj),z_1(sj),v_x(sj),v_y(sj),v_z(sj),t_min(sj),y_x,y_y,y_z,n_1,n_2);
+
+
+x_1(sj)=x_2;
+y_1(sj)=y_2;
+z_1(sj)=z_2;
+v_x(sj)=v_1_x;
+v_y(sj)=v_1_y;
+v_z(sj)=v_1_z;
+
+xs_ray(end+1,:)=x_1;
+ys_ray(end+1,:)=y_1;
+zs_ray(end+1,:)=z_1;
+end
+
+
+
+clf
+hold on
+plot3(xs_ray,ys_ray,zs_ray,'o-')
+plot3(pt(1),pt(2),pt(3),'r*',CX,CY,CZ,'bo')
+
+for i=1:length(xs)
+draw_sphere_fill([xs(i),ys(i),zs(i)],Rs(i));
+end
+
+for i=1:size(faces,1)
+    fs=faces(i,:);
+    patch(xb(fs),yb(fs),zb(fs),[1,1,1],'FaceAlpha',0.3)
+end
+
+axis equal
+% view([alpha,beta])
+xlabel("X")
+ylabel("Y")
+zlabel("Z")
+
+
+%{
+j_min
+i_min
+x_0(i_min)
+Rs(i_min)
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#627, 3277:
+%{
++[M函数](,多光线_场景)
+
+镜面测试:...
+
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+addpath('Matlab/optics');
+addpath('Matlab/tmp');
+
+n_1=1;
+n_2=1;
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+% 1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+%{
+figure
++[M函数](,多光线_场景)
+%}
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.15,0.15,0.5,0.1];
+type_s=[1,1,1,1];
+
+% Set camera
+alpha=1;
+beta=10;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+% L=max(axis_)-min(axis_);
+L=4.4;
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,多光线_场景)
+%}
+
+cx=linspace(-0.1,0.1,2);
+cy=linspace(-0.1,0.1,2);
+[CX0,CY0]=meshgrid(cx,cy);
+% CX0=0.;
+% CY0=0.;
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+xs_ray=x_1;
+ys_ray=y_1;
+zs_ray=z_1;
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,多光线_场景)
+%}
+
+for n=1:3
+i_min=zeros(size(x_1));
+t_min=inf*ones(size(x_1));
+
+for i=1:length(xs)
+    [t_2,t_3]=intersection_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,xs(i),ys(i),zs(i),Rs(i));
+    t_0=min([t_2;t_3]);
+    it=imag(t_2)==0 & t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    i_min(it)=i;
+end
+
+j_min=zeros(size(x_1));
+for i=1:size(faces,1)
+    fs=faces(i,:);
+
+    t_0=intersection_plane_3D(x_1,y_1,z_1,v_x,v_y,v_z,xb(fs),yb(fs),zb(fs));
+    it=t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    j_min(it)=i;
+end
+
+% si=i_min~=0;
+% sj=i_min==0;
+si=j_min==0;
+sj=j_min~=0;
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_sphere_3D(x_1(si),y_1(si),z_1(si),v_x(si),v_y(si),v_z(si),t_min(si),xs(i_min(si)),ys(i_min(si)),zs(i_min(si)),Rs(i_min(si)),n_1,n_2);
+
+x_1(si)=x_2;
+y_1(si)=y_2;
+z_1(si)=z_2;
+v_x(si)=v_1_x;
+v_y(si)=v_1_y;
+v_z(si)=v_1_z;
+
+Dx1=xb(faces(j_min(sj),1))-xb(faces(j_min(sj),2));
+Dx2=xb(faces(j_min(sj),2))-xb(faces(j_min(sj),3));
+Dy1=yb(faces(j_min(sj),1))-yb(faces(j_min(sj),2));
+Dy2=yb(faces(j_min(sj),2))-yb(faces(j_min(sj),3));
+Dz1=zb(faces(j_min(sj),1))-zb(faces(j_min(sj),2));
+Dz2=zb(faces(j_min(sj),2))-zb(faces(j_min(sj),3));
+
+y_x=Dy1.*Dz2-Dy2.*Dz1;
+y_y=Dz1.*Dx2-Dz2.*Dx1;
+y_z=Dx1.*Dy2-Dx2.*Dy1;
+% y_x,y_y,y_z
+
+% [x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_plane_3D(x_1(sj),y_1(sj),z_1(sj),v_x(sj),v_y(sj),v_z(sj),t_min(sj),y_x,y_y,y_z,n_1,n_2);
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z]=ray_tracing_diffusion(x_1(sj),y_1(sj),z_1(sj),v_x(sj),v_y(sj),v_z(sj),t_min(sj),y_x,y_y,y_z);
+
+x_1(sj)=x_2;
+y_1(sj)=y_2;
+z_1(sj)=z_2;
+v_x(sj)=v_1_x;
+v_y(sj)=v_1_y;
+v_z(sj)=v_1_z;
+
+xs_ray(end+1,:)=x_1;
+ys_ray(end+1,:)=y_1;
+zs_ray(end+1,:)=z_1;
+end
+
+
+
+clf
+hold on
+plot3(xs_ray,ys_ray,zs_ray,'o-')
+plot3(pt(1),pt(2),pt(3),'r*',CX,CY,CZ,'bo')
+
+for i=1:length(xs)
+draw_sphere_fill([xs(i),ys(i),zs(i)],Rs(i));
+end
+
+for i=1:size(faces,1)
+    fs=faces(i,:);
+    patch(xb(fs),yb(fs),zb(fs),[1,1,0],'FaceAlpha',0.3)
+end
+
+axis equal
+% view([alpha,beta])
+xlabel("X")
+ylabel("Y")
+zlabel("Z")
+
+
+%{
++[M函数](,多光线_场景)
+%}
+## end
+#629, 2968:
+%{
++[M函数](,快速测试)
+
+抖动测试:...
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+addpath('Matlab/optics');
+addpath('Matlab/tmp');
+
+n_1=1;
+n_2=1;
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,快速测试)
+%}
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.5,0.15,0.5,0.1];
+type_s=[1,1,1,1];
+
+r_ratio=0.9;
+emission=1.;
+
+% Set camera
+alpha=45;
+beta=45;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+% L=max(axis_)-min(axis_);
+L=0.4;
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,验证公式)
+%}
+
+cx=linspace(-0.1,0.1,300);
+cy=linspace(-0.1,0.1,300);
+[CX0,CY0]=meshgrid(cx,cy);
+% CX0=0.;
+% CY0=0.;
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+pic_color=ones(size(x_1));
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+
+for n=1:8
+i_min=zeros(size(x_1));
+t_min=inf*ones(size(x_1));
+
+for i=1:length(xs)
+    [t_2,t_3]=intersection_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,xs(i),ys(i),zs(i),Rs(i));
+    t_0=min([t_2;t_3]);
+    it=imag(t_2)==0 & t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    i_min(it)=i;
+end
+
+j_min=zeros(size(x_1));
+for i=1:size(faces,1)
+    fs=faces(i,:);
+
+    t_0=intersection_plane_3D(x_1,y_1,z_1,v_x,v_y,v_z,xb(fs),yb(fs),zb(fs));
+    it=t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    j_min(it)=i;
+end
+
+% si=i_min~=0;
+% sj=i_min==0;
+si=j_min==0;
+sj=j_min~=0;
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_sphere_3D(x_1(si),y_1(si),z_1(si),v_x(si),v_y(si),v_z(si),t_min(si),xs(i_min(si)),ys(i_min(si)),zs(i_min(si)),Rs(i_min(si)),n_1,n_2);
+
+x_1(si)=x_2;
+y_1(si)=y_2;
+z_1(si)=z_2;
+v_x(si)=v_1_x;
+v_y(si)=v_1_y;
+v_z(si)=v_1_z;
+
+Dx1=xb(faces(j_min(sj),1))-xb(faces(j_min(sj),2));
+Dx2=xb(faces(j_min(sj),2))-xb(faces(j_min(sj),3));
+Dy1=yb(faces(j_min(sj),1))-yb(faces(j_min(sj),2));
+Dy2=yb(faces(j_min(sj),2))-yb(faces(j_min(sj),3));
+Dz1=zb(faces(j_min(sj),1))-zb(faces(j_min(sj),2));
+Dz2=zb(faces(j_min(sj),2))-zb(faces(j_min(sj),3));
+
+y_x=Dy1.*Dz2-Dy2.*Dz1;
+y_y=Dz1.*Dx2-Dz2.*Dx1;
+y_z=Dx1.*Dy2-Dx2.*Dy1;
+% y_x,y_y,y_z
+
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_plane_3D(x_1(sj),y_1(sj),z_1(sj),v_x(sj),v_y(sj),v_z(sj),t_min(sj),y_x,y_y,y_z,n_1,n_2);
+
+
+x_1(sj)=x_2;
+y_1(sj)=y_2;
+z_1(sj)=z_2;
+v_x(sj)=v_1_x;
+v_y(sj)=v_1_y;
+v_z(sj)=v_1_z;
+
+pic_color(si)=pic_color(si)*r_ratio;
+pic_color(sj)=pic_color(sj)*emission;
+
+end
+
+pic_map=reshape(pic_color,size(CX));
+% z_1=reshape(CZ,1,numel(CX));
+
+image(pic_map*255)
+axis equal
+
+%{
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#631, 2324:
+%{
+地址::Matlab/tmp/ray_tracing_stepOne.m
++[保存M函数](,ray_tracing_stepOne)
+
+ray_tracing_diffusion:...
++[新建阅读窗口](,ray_tracing_diffusion)
+测试:...
+%}
+
+function pic_color=ray_tracing_stepOne(x_1,y_1,z_1,v_x,v_y,v_z,xs,ys,zs,Rs,n_2,r_ratio,emission,xb,yb,zb,faces,n)
+
+addpath('Matlab/optics');
+
+i_min=zeros(size(x_1));
+t_min=inf*ones(size(x_1));
+
+for i=1:length(xs)
+    [t_2,t_3]=intersection_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,xs(i),ys(i),zs(i),Rs(i));
+    t_0=min([t_2;t_3]);
+    it=imag(t_2)==0 & t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    i_min(it)=i;
+end
+
+j_min=zeros(size(x_1));
+for i=1:size(faces,1)
+    fs=faces(i,:);
+
+    t_0=intersection_plane_3D(x_1,y_1,z_1,v_x,v_y,v_z,xb(fs),yb(fs),zb(fs));
+    it=t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    j_min(it)=i;
+end
+
+% si=i_min~=0;
+% sj=i_min==0;
+si=j_min==0;
+sj=j_min~=0;
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_sphere_3D(x_1(si),y_1(si),z_1(si),v_x(si),v_y(si),v_z(si),t_min(si),xs(i_min(si)),ys(i_min(si)),zs(i_min(si)),Rs(i_min(si)),1,n_2);
+
+x_1(si)=x_2;
+y_1(si)=y_2;
+z_1(si)=z_2;
+v_x(si)=v_1_x;
+v_y(si)=v_1_y;
+v_z(si)=v_1_z;
+
+Dx1=xb(faces(j_min(sj),1))-xb(faces(j_min(sj),2));
+Dx2=xb(faces(j_min(sj),2))-xb(faces(j_min(sj),3));
+Dy1=yb(faces(j_min(sj),1))-yb(faces(j_min(sj),2));
+Dy2=yb(faces(j_min(sj),2))-yb(faces(j_min(sj),3));
+Dz1=zb(faces(j_min(sj),1))-zb(faces(j_min(sj),2));
+Dz2=zb(faces(j_min(sj),2))-zb(faces(j_min(sj),3));
+
+y_x=Dy1.*Dz2-Dy2.*Dz1;
+y_y=Dz1.*Dx2-Dz2.*Dx1;
+y_z=Dx1.*Dy2-Dx2.*Dy1;
+% y_x,y_y,y_z
+
+% [x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_plane_3D(x_1(sj),y_1(sj),z_1(sj),v_x(sj),v_y(sj),v_z(sj),t_min(sj),y_x,y_y,y_z,1,n_2);
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z]=ray_tracing_diffusion(x_1(sj),y_1(sj),z_1(sj),v_x(sj),v_y(sj),v_z(sj),t_min(sj),y_x,y_y,y_z);
+
+
+
+x_1(sj)=x_2;
+y_1(sj)=y_2;
+z_1(sj)=z_2;
+v_x(sj)=v_1_x;
+v_y(sj)=v_1_y;
+v_z(sj)=v_1_z;
+
+if n>0
+    pic_color=ray_tracing_stepOne(x_1,y_1,z_1,v_x,v_y,v_z,xs,ys,zs,Rs,n_2,r_ratio,emission,xb,yb,zb,faces,n-1);
+else
+    pic_color=zeros(size(x_1));
+end
+
+% pic_color(sj)=pic_color(sj)+emission;
+% pic_color(si)=pic_color(si)*r_ratio;
+
+pic_color(si)=pic_color(si).*r_ratio(i_min(si));
+pic_color(si)=pic_color(si)+emission(i_min(si));
+pic_color(sj)=pic_color(sj)*0.9;
+% pic_color(sj)=pic_color(sj)+0.3;
+
+
+end
+
+
+%{
++[保存M函数](,ray_tracing_stepOne)
+%}
+## end
+#633, 3028:
+%{
++[M函数](,抖动测试)
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+addpath('Matlab/optics');
+addpath('Matlab/tmp');
+
+n_1=1;
+n_2=1;
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,抖动测试)
+%}
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.5,0.15,0.5,0.1];
+type_s=[1,1,1,1];
+
+r_ratio=0.9;
+emission=1.;
+
+% Set camera
+alpha=45;
+beta=45;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+% L=max(axis_)-min(axis_);
+L=0.4;
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,验证公式)
+%}
+
+cx=linspace(-0.1,0.1,300);
+cy=linspace(-0.1,0.1,300);
+[CX0,CY0]=meshgrid(cx,cy);
+% CX0=0.;
+% CY0=0.;
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+%{
++[M函数](,抖动测试)
+%}
+
+t=linspace(0,2*pi,40);
+xs0=xs(3)
+
+for ti=1:length(t)
+xs(3)=xs0-0.1*cos(t(ti));
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+pic_color=ones(size(x_1));
+
+for n=1:8
+i_min=zeros(size(x_1));
+t_min=inf*ones(size(x_1));
+
+for i=1:length(xs)
+    [t_2,t_3]=intersection_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,xs(i),ys(i),zs(i),Rs(i));
+    t_0=min([t_2;t_3]);
+    it=imag(t_2)==0 & t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    i_min(it)=i;
+end
+
+j_min=zeros(size(x_1));
+for i=1:size(faces,1)
+    fs=faces(i,:);
+
+    t_0=intersection_plane_3D(x_1,y_1,z_1,v_x,v_y,v_z,xb(fs),yb(fs),zb(fs));
+    it=t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    j_min(it)=i;
+end
+
+% si=i_min~=0;
+% sj=i_min==0;
+si=j_min==0;
+sj=j_min~=0;
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_sphere_3D(x_1(si),y_1(si),z_1(si),v_x(si),v_y(si),v_z(si),t_min(si),xs(i_min(si)),ys(i_min(si)),zs(i_min(si)),Rs(i_min(si)),n_1,n_2);
+
+x_1(si)=x_2;
+y_1(si)=y_2;
+z_1(si)=z_2;
+v_x(si)=v_1_x;
+v_y(si)=v_1_y;
+v_z(si)=v_1_z;
+
+Dx1=xb(faces(j_min(sj),1))-xb(faces(j_min(sj),2));
+Dx2=xb(faces(j_min(sj),2))-xb(faces(j_min(sj),3));
+Dy1=yb(faces(j_min(sj),1))-yb(faces(j_min(sj),2));
+Dy2=yb(faces(j_min(sj),2))-yb(faces(j_min(sj),3));
+Dz1=zb(faces(j_min(sj),1))-zb(faces(j_min(sj),2));
+Dz2=zb(faces(j_min(sj),2))-zb(faces(j_min(sj),3));
+
+y_x=Dy1.*Dz2-Dy2.*Dz1;
+y_y=Dz1.*Dx2-Dz2.*Dx1;
+y_z=Dx1.*Dy2-Dx2.*Dy1;
+% y_x,y_y,y_z
+
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_plane_3D(x_1(sj),y_1(sj),z_1(sj),v_x(sj),v_y(sj),v_z(sj),t_min(sj),y_x,y_y,y_z,n_1,n_2);
+
+
+x_1(sj)=x_2;
+y_1(sj)=y_2;
+z_1(sj)=z_2;
+v_x(sj)=v_1_x;
+v_y(sj)=v_1_y;
+v_z(sj)=v_1_z;
+
+pic_color(si)=pic_color(si)*r_ratio;
+pic_color(sj)=pic_color(sj)*emission;
+
+end
+
+pic_map=reshape(pic_color,size(CX));
+% z_1=reshape(CZ,1,numel(CX));
+
+image(pic_map*255)
+axis equal
+pause(0.01)
+end
+
+%{
+记住"Matlab"
++[M函数](,抖动测试)
+%}
+## end
+#635, 32:
+Matlab/tmp/ray_tracing_stepOne.m
+## end
+#637, 3146:
+%{
++[M函数](,验证公式)
+Nini, 打开三维场景(文件)
+Nini, 打开直线交点(文件)
+
+初步场景:...
+场景相机:...
+单条光线:...
+(反射方向有问题)
+单条光线_场景:...
+多光线_场景:...
++[新建阅读窗口](,多光线_场景)
+
+快速测试:...
+
+
+ray_tracing_stepOne(M函数):...
++[新建阅读窗口](,ray_tracing_stepOne)
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+addpath('Matlab/optics');
+addpath('Matlab/tmp');
+
+n_1=1;
+n_2=1;
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.15,0.15,0.5,0.1];
+type_s=[1,1,1,1];
+
+r_ratio=0.9;
+emission=1.;
+
+% Set camera
+alpha=45;
+beta=45;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+% L=max(axis_)-min(axis_);
+L=0.4;
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,验证公式)
+%}
+
+cx=linspace(-0.1,0.1,300);
+cy=linspace(-0.1,0.1,300);
+[CX0,CY0]=meshgrid(cx,cy);
+% CX0=0.;
+% CY0=0.;
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+pic_color=ones(size(x_1));
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+
+for n=1:8
+i_min=zeros(size(x_1));
+t_min=inf*ones(size(x_1));
+
+for i=1:length(xs)
+    [t_2,t_3]=intersection_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,xs(i),ys(i),zs(i),Rs(i));
+    t_0=min([t_2;t_3]);
+    it=imag(t_2)==0 & t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    i_min(it)=i;
+end
+
+j_min=zeros(size(x_1));
+for i=1:size(faces,1)
+    fs=faces(i,:);
+
+    t_0=intersection_plane_3D(x_1,y_1,z_1,v_x,v_y,v_z,xb(fs),yb(fs),zb(fs));
+    it=t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    j_min(it)=i;
+end
+
+% si=i_min~=0;
+% sj=i_min==0;
+si=j_min==0;
+sj=j_min~=0;
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_sphere_3D(x_1(si),y_1(si),z_1(si),v_x(si),v_y(si),v_z(si),t_min(si),xs(i_min(si)),ys(i_min(si)),zs(i_min(si)),Rs(i_min(si)),n_1,n_2);
+
+x_1(si)=x_2;
+y_1(si)=y_2;
+z_1(si)=z_2;
+v_x(si)=v_1_x;
+v_y(si)=v_1_y;
+v_z(si)=v_1_z;
+
+Dx1=xb(faces(j_min(sj),1))-xb(faces(j_min(sj),2));
+Dx2=xb(faces(j_min(sj),2))-xb(faces(j_min(sj),3));
+Dy1=yb(faces(j_min(sj),1))-yb(faces(j_min(sj),2));
+Dy2=yb(faces(j_min(sj),2))-yb(faces(j_min(sj),3));
+Dz1=zb(faces(j_min(sj),1))-zb(faces(j_min(sj),2));
+Dz2=zb(faces(j_min(sj),2))-zb(faces(j_min(sj),3));
+
+y_x=Dy1.*Dz2-Dy2.*Dz1;
+y_y=Dz1.*Dx2-Dz2.*Dx1;
+y_z=Dx1.*Dy2-Dx2.*Dy1;
+% y_x,y_y,y_z
+
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_plane_3D(x_1(sj),y_1(sj),z_1(sj),v_x(sj),v_y(sj),v_z(sj),t_min(sj),y_x,y_y,y_z,n_1,n_2);
+
+
+x_1(sj)=x_2;
+y_1(sj)=y_2;
+z_1(sj)=z_2;
+v_x(sj)=v_1_x;
+v_y(sj)=v_1_y;
+v_z(sj)=v_1_z;
+
+pic_color(si)=pic_color(si)*r_ratio;
+pic_color(sj)=pic_color(sj)*emission;
+
+end
+
+pic_map=reshape(pic_color,size(CX));
+% z_1=reshape(CZ,1,numel(CX));
+
+image(pic_map*255)
+axis equal
+
+%{
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#643, 1769:
+%{
++[M函数](,验证公式)
+Nini, 打开三维场景(文件)
+Nini, 打开直线交点(文件)
+
+初步场景:...
+场景相机:...
+单条光线:...
+(反射方向有问题)
+单条光线_场景:...
+多光线_场景:...
++[新建阅读窗口](,多光线_场景)
+
+快速测试:...
+完整测试:...
+
+
+ray_tracing_stepOne(M函数):...
++[新建阅读窗口](,ray_tracing_stepOne)
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+addpath('Matlab/optics');
+addpath('Matlab/tmp');
+
+n_1=1;
+n_2=1;
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+
+
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.15,0.15,0.5,0.1];
+type_s=[1,1,1,1];
+r_ratio=[0.9,0.9,0.9,0.9];
+emission=[1,1,1,0];
+
+
+% Set camera
+alpha=45;
+beta=45;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+% L=max(axis_)-min(axis_);
+L=0.4;
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,验证公式)
+%}
+
+cx=linspace(-0.1,0.1,300);
+cy=linspace(-0.1,0.1,300);
+[CX0,CY0]=meshgrid(cx,cy);
+% CX0=0.;
+% CY0=0.;
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+pic_color=ones(size(x_1));
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+
+pic_color=ray_tracing_stepOne(x_1,y_1,z_1,v_x,v_y,v_z,xs,ys,zs,Rs,n_2,r_ratio,emission,xb,yb,zb,faces,8);
+
+pic_map=reshape(pic_color,size(CX));
+% z_1=reshape(CZ,1,numel(CX));
+
+image(pic_map/max(max(pic_map))*255)
+axis equal
+
+%{
+plot(pic_map)
+faces
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#645, 950:
+%{
+地址::Matlab/tmp/ray_tracing_diffusion.m
++[保存M函数](,ray_tracing_diffusion)
+
+Nini, 打开直线交点的reflect_refract_plane_3D(节点)
+%}
+
+function [x_2,y_2,z_2,v_1_x,v_1_y,v_1_z]=ray_tracing_diffusion(x_1,y_1,z_1,v_x,v_y,v_z,t_2,y_x,y_y,y_z)
+
+
+x_2=x_1+t_2.*v_x;
+y_2=y_1+t_2.*v_y;
+z_2=z_1+t_2.*v_z;
+
+
+v2=v_x.^2+v_y.^2+v_z.^2;
+yy=-sqrt(y_x.^2+y_y.^2+y_z.^2).*sign(v_x.*y_x+v_y.*y_y+v_z.*y_z);
+y_x=y_x./yy;
+y_y=y_y./yy;
+y_z=y_z./yy;
+
+v_tm_y=(v_x.*y_x+v_y.*y_y+v_z.*y_z);
+x_x=v_x-(v_tm_y.*y_x);
+x_y=v_y-(v_tm_y.*y_y);
+x_z=v_z-(v_tm_y.*y_z);
+xx=sqrt(x_x.^2+x_y.^2+x_z.^2);
+x_x=x_x./xx;
+x_y=x_y./xx;
+x_z=x_z./xx;
+
+z_x=x_y.*y_z-x_z.*y_y;
+z_y=x_z.*y_x-x_x.*y_z;
+z_z=x_x.*y_y-x_y.*y_x;
+
+theta=rand(size(x_1))*pi/2;
+phi=rand(size(x_1))*2*pi;
+
+v_1_x=cos(theta).*y_x+sin(theta).*cos(phi).*x_x+sin(theta).*sin(phi).*z_x;
+v_1_y=cos(theta).*y_y+sin(theta).*cos(phi).*x_y+sin(theta).*sin(phi).*z_y;
+v_1_z=cos(theta).*y_z+sin(theta).*cos(phi).*x_z+sin(theta).*sin(phi).*z_z;
+
+end
+
+
+
+
+## end
+#647, 34:
+Matlab/tmp/ray_tracing_diffusion.m
+## end
+#652, 3207:
+%{
++[M函数](,多光线_场景)
+
+镜面测试:...
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+addpath('Matlab/optics');
+addpath('Matlab/tmp');
+
+n_1=1;
+n_2=1;
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.5,0.5,0.5,0.1];
+type_s=[1,1,1,1];
+
+% Set camera
+alpha=45;
+beta=45;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+% L=max(axis_)-min(axis_);
+L=0.4;
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,多光线_场景)
+%}
+
+cx=linspace(-0.1,0.1,2)/4;
+cy=linspace(-0.1,0.1,2)/4;
+[CX0,CY0]=meshgrid(cx,cy);
+% CX0=0.;
+% CY0=0.;
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+xs_ray=x_1;
+ys_ray=y_1;
+zs_ray=z_1;
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+
+for n=1:10
+i_min=zeros(size(x_1));
+t_min=inf*ones(size(x_1));
+
+for i=1:length(xs)
+    [t_2,t_3]=intersection_sphere_3D(x_1,y_1,z_1,v_x,v_y,v_z,xs(i),ys(i),zs(i),Rs(i));
+    t_0=min([t_2;t_3]);
+    it=imag(t_2)==0 & t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    i_min(it)=i;
+end
+
+j_min=zeros(size(x_1));
+for i=1:size(faces,1)
+    fs=faces(i,:);
+
+    t_0=intersection_plane_3D(x_1,y_1,z_1,v_x,v_y,v_z,xb(fs),yb(fs),zb(fs));
+    it=t_min>t_0 & t_0>1e-8;
+    t_min(it)=t_0(it);
+    j_min(it)=i;
+end
+
+% si=i_min~=0;
+% sj=i_min==0;
+si=j_min==0;
+sj=j_min~=0;
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_sphere_3D(x_1(si),y_1(si),z_1(si),v_x(si),v_y(si),v_z(si),t_min(si),xs(i_min(si)),ys(i_min(si)),zs(i_min(si)),Rs(i_min(si)),n_1,n_2);
+
+x_1(si)=x_2;
+y_1(si)=y_2;
+z_1(si)=z_2;
+v_x(si)=v_1_x;
+v_y(si)=v_1_y;
+v_z(si)=v_1_z;
+
+Dx1=xb(faces(j_min(sj),1))-xb(faces(j_min(sj),2));
+Dx2=xb(faces(j_min(sj),2))-xb(faces(j_min(sj),3));
+Dy1=yb(faces(j_min(sj),1))-yb(faces(j_min(sj),2));
+Dy2=yb(faces(j_min(sj),2))-yb(faces(j_min(sj),3));
+Dz1=zb(faces(j_min(sj),1))-zb(faces(j_min(sj),2));
+Dz2=zb(faces(j_min(sj),2))-zb(faces(j_min(sj),3));
+
+y_x=Dy1.*Dz2-Dy2.*Dz1;
+y_y=Dz1.*Dx2-Dz2.*Dx1;
+y_z=Dx1.*Dy2-Dx2.*Dy1;
+% y_x,y_y,y_z
+
+[x_2,y_2,z_2,v_1_x,v_1_y,v_1_z,v_2_x,v_2_y,v_2_z]=reflect_refract_plane_3D(x_1(sj),y_1(sj),z_1(sj),v_x(sj),v_y(sj),v_z(sj),t_min(sj),y_x,y_y,y_z,n_1,n_2);
+
+
+x_1(sj)=x_2;
+y_1(sj)=y_2;
+z_1(sj)=z_2;
+v_x(sj)=v_1_x;
+v_y(sj)=v_1_y;
+v_z(sj)=v_1_z;
+
+xs_ray(end+1,:)=x_1;
+ys_ray(end+1,:)=y_1;
+zs_ray(end+1,:)=z_1;
+end
+
+
+
+clf
+hold on
+plot3(xs_ray,ys_ray,zs_ray,'o-')
+plot3(pt(1),pt(2),pt(3),'r*',CX,CY,CZ,'bo')
+
+for i=1:length(xs)
+draw_sphere_fill([xs(i),ys(i),zs(i)],Rs(i));
+end
+
+for i=1:size(faces,1)
+    fs=faces(i,:);
+    patch(xb(fs),yb(fs),zb(fs),[1,1,1],'FaceAlpha',0.3)
+end
+
+axis equal
+% view([alpha,beta])
+xlabel("X")
+ylabel("Y")
+zlabel("Z")
+
+
+%{
+j_min
+i_min
+x_0(i_min)
+Rs(i_min)
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+#654, 1789:
+%{
++[M函数](,验证公式)
+Nini, 打开三维场景(文件)
+Nini, 打开直线交点(文件)
+
+初步场景:...
+场景相机:...
+单条光线:...
+(反射方向有问题)
+单条光线_场景:...
+多光线_场景:...
++[新建阅读窗口](,多光线_场景)
+
+快速测试:...
+完整测试:...
+
+
+ray_tracing_stepOne(M函数):...
++[新建阅读窗口](,ray_tracing_stepOne)
+%}
+
+
+addpath('Matlab/space');
+addpath('Matlab/draw');
+addpath('Matlab/optics');
+addpath('Matlab/tmp');
+
+n_1=1;
+n_2=1;
+H=2;
+W=2.5;
+L=2.5;
+pt0=[0.5,0.5,-0.6];
+
+% boundary
+xb=[0,0,1,1,0,0,1,1]-1/2;
+yb=[0,1,1,0,0,1,1,0]-1/2;
+zb=[0,0,0,0,1,1,1,1];
+
+xb=xb*W+pt0(1);
+yb=yb*L+pt0(2);
+zb=zb*H+pt0(3);
+
+faces=[1,2,3,4;
+5,6,7,8;
+1,2,6,5;
+% 1,4,8,5;
+4,3,7,8;
+2,3,7,6];
+
+
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+
+
+% spheres
+xs=[0,0.5,1,0.5];
+ys=[0,1,0,0.4];
+zs=[0,0,0,1];
+Rs=[0.15,0.15,0.5,0.1];
+type_s=[1,1,1,1];
+r_ratio=[0.9,0.9,0.9,0.9];
+emission=[0,1,1,1];
+
+
+% Set camera
+alpha=1;
+beta=10;
+Z=[sind(alpha)*cosd(beta),-cosd(alpha)*cosd(beta),sind(beta)];
+
+axis_=[-0.7679, 1.7679, -0.5000, 1.5000, -0.5000, 1.1000];
+% L=max(axis_)-min(axis_);
+L=4.4;
+pt0=[mean(axis_(1:2)),mean(axis_(3:4)),mean(axis_(5:6))];
+
+pt=Z*L+pt0;
+eulers=camera_lookat(pt,pt0,0);
+
+%{
++[M函数](,验证公式)
+%}
+
+cx=linspace(-0.1,0.1,1000);
+cy=linspace(-0.1,0.1,1000);
+[CX0,CY0]=meshgrid(cx,cy);
+% CX0=0.;
+% CY0=0.;
+CZ0=0.3*ones(size(CX0));
+
+[CX,CY,CZ]=transform_3D(pt,eulers(1),eulers(2),eulers(3),CX0,CY0,CZ0);
+
+% Rays
+x_1=reshape(CX,1,numel(CX));
+y_1=reshape(CY,1,numel(CX));
+z_1=reshape(CZ,1,numel(CX));
+v_x=x_1-pt(1);
+v_y=y_1-pt(2);
+v_z=z_1-pt(3);
+
+pic_color=ones(size(x_1));
+
+%{
+view([0,0])
+view([0,90])
++[M函数](,验证公式)
+%}
+
+pic_color=ray_tracing_stepOne(x_1,y_1,z_1,v_x,v_y,v_z,xs,ys,zs,Rs,n_2,r_ratio,emission,xb,yb,zb,faces,8);
+
+pic_map=reshape(pic_color,size(CX));
+% z_1=reshape(CZ,1,numel(CX));
+
+image(pic_map/max(max(pic_map))*255)
+axis equal
+colormap("gray")
+
+%{
+plot(pic_map)
+faces
+记住"Matlab"
++[M函数](,验证公式)
+%}
+## end
+### 结束

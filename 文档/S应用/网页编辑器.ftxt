@@ -1,0 +1,176 @@
+### 节点
+地址, 的, 网页编辑器, 目录, 的, 的, 测试模板, 的, 参考1, 打开网页, 的, 简单版本, 的, 参考2_innerHTML, 的, 参考3_math, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 6#8, #, #8, 6#11, #, 6#13, #, 6#15, #, 
+### 内容
+#0, 17:
+文档\S应用\网页编辑器.ftxt
+## end
+#2, 154:
++[返回目录](,网页编辑器)
+地址::文档\S应用\网页编辑器.ftxt
+
+
+Nini, 导入网页画板的库
+Nini, 打开核心(文件)
+Nini, 打开网页画板(文件)
+Nini, 打开博客生成器(文件)
+
+(20220604, 不需要这个S应用, 全部移到核心.ftxt中了)
+
+测试模板:...
+
+
+
+## end
+#3, 49:
+网页编辑器:...
+创建于 20220522
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 1632:
+<!--
+Nini, 打开网页画板(文件)
++[H函数](,测试模板)
+参考1::https://www.w3schools.com/tags/tag_textarea.asp
+参考2_innerHTML::https://www.w3schools.com/js/js_htmldom_html.asp
+参考3_math::https://stackoverflow.com/questions/32239378/using-mathjax-in-an-updating-sequence-in-javascript
++[打开网页](,参考1)
+
+Nini, 打开核心(文件)
+
+简单版本:...
++[新建阅读窗口](,简单版本)
+-->
+
+<textarea id='edit_box' rows=20 cols=50>
++A"
+<br>
+1234
+<br>
+\(x^2=1\)
+<SVG>
+<rect width=50 height=50 x=100 y=70 fill=#ffffff stroke=#000000></rect>
+</SVG>
+"
+</textarea>
+
+<br>
+<button onclick="onRunBtn()">run</button>
+<br>
+
+<p id='show_box'>
+$$x^2=1$$
+
+</p>
+
+<p id="cmd_window">Hellow world!</p>
+
+<script>
+var list_pt=[];
+var parser=new Parser();
+
+var pt_core=new NetP('核心');
+var pt_mm=new NetP('记忆');
+var pt_edit=new NetP('编辑框');
+var pt_show=new NetP('显示屏');
+
+pt_mm.con(pt_core,0);
+pt_edit.con(pt_core,pt_mm);
+pt_show.con(pt_core,0);
+list_pt.push(pt_core);
+list_pt.push(pt_mm);
+list_pt.push(pt_edit);
+list_pt.push(pt_show);
+
+var edit_box=document.getElementById("edit_box");
+var show_box=document.getElementById("show_box");
+function runCode() {
+    code=edit_box.value;
+    run_code(code,list_pt,parser);
+    operation(list_pt);
+    pt_show.m_text=info_PtList(list_pt);
+}
+
+function updatePts() {
+    pt_edit.m_db[1].m_text=edit_box.value;
+}
+
+function updateBox() {
+    edit_box.value=pt_edit.m_db[1].m_text;
+    // show_box.textContent=pt_show.m_text;
+    show_box.innerHTML=pt_edit.m_db[1].m_text;
+    // show_box.innerHTML="$$x^3=1$$";
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, 'show_box']);
+}
+
+function onRunBtn() {
+    updatePts();
+    runCode();
+    updateBox();
+}
+</script>
+
+
+<!--
++[H函数](,测试模板)
+-->
+## end
+#8, 47:
+https://www.w3schools.com/tags/tag_textarea.asp
+## end
+#11, 873:
+<!--
+Nini, 打开网页画板(文件)
++[H函数](,测试模板)
+参考1::https://www.w3schools.com/tags/tag_textarea.asp
++[打开网页](,参考1)
+
+Nini, 打开核心(文件)
+
+简单版本:...
+-->
+
+<textarea id='code_box' rows=20 cols=50>
++蟑螂->+正义(+蟑螂,)->+蟑螂->+正义(+蟑螂,)->+蟑螂->+正义(+蟑螂,);
++蟑螂->+邪恶(+蟑螂,)->+蟑螂->+邪恶(+蟑螂,)->+蟑螂->+邪恶(+蟑螂,);
+[]=>蟑螂=>[]:->正义(蟑螂,)->+[消息窗口]"Hello world!",
+    ->邪恶(蟑螂,)->+[消息窗口]"Hello SB!"
+</textarea>
+<textarea id='pt_box' rows=20 cols=50>
+[]
+</textarea>
+<br>
+<button onclick="runCode()">run</button>
+<br>
+<p id="cmd_window">Hellow world!</p>
+
+<script>
+var list_pt=[];
+var a=new NetP('A');
+var km=new Karma(a);
+var parser=new Parser();
+var code_box=document.getElementById("code_box");
+var pt_box=document.getElementById("pt_box");
+function runCode() {
+    code=code_box.value;
+    run_code(code,list_pt,parser);
+    operation(list_pt);
+    pt_box.value=info_PtList(list_pt);
+}
+</script>
+
+
+<!--
++[H函数](,测试模板)
+-->
+## end
+#13, 48:
+https://www.w3schools.com/js/js_htmldom_html.asp
+## end
+#15, 96:
+https://stackoverflow.com/questions/32239378/using-mathjax-in-an-updating-sequence-in-javascript
+## end
+### 结束

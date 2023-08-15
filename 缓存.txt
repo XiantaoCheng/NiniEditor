@@ -1,0 +1,370 @@
+文本#0"Nini, 打开pySEM (文件)"(,)
+诞生地#1""(,)
+的#2""(文本#0,配置文件#3)
+配置文件#3"配置文件_new.txt"(,)
+的#4""(文本#0,日记#5)
+日记#5"文档\日记.ftxt"(,)
+的#6""(文本#0,词典#7)
+词典#7"文档\词典.txt"(,)
+的#8""(文本#0,物理问题#9)
+物理问题#9"文档\物理问题.txt"(,)
+的#10""(文本#0,任务栏#11)
+任务栏#11"文档\任务栏.txt"(,)
+的#12""(文本#0,镜片#13)
+镜片#13"文档\镜片.txt"(,)
+的#14""(文本#0,车间#15)
+车间#15"文档\车间.txt"(,)
+的#16""(文本#0,结构语言#17)
+结构语言#17"文档\结构语言.txt"(,)
+的#18""(文本#0,Smilei#19)
+Smilei#19"文档\Smilei.txt"(,)
+的#20""(文本#0,FDH#21)
+FDH#21"文档\FDH.txt"(,)
+的#22""(文本#0,笔记#23)
+笔记#23"文档\笔记.txt"(,)
+的#24""(文本#0,测试图片#25)
+测试图片#25"文档\测试.png"(,)
+的#26""(文本#0,爬虫#27)
+爬虫#27"文档\爬虫.txt"(,)
+的#28""(文本#0,内容#29)
+内容#29"+[返回目录]
+test"(,)
+的#30""(文本#0,MidIR#31)
+MidIR#31"文档\MidIR.txt"(,)
+的#32""(文本#0,知识#33)
+知识#33"+[返回目录]
++[matlabStart](,Matlab)
+
+
+LaTeX网页:...
+三维旋转:...
+画横波:...
+张量运算:..."(,)
+的#34""(知识#33,三维旋转#35)
+三维旋转#35"%{
++[返回目录]
++[matlabStart](,Matlab)
++[matlab](Matlab,)->+[code](+[matlab],三维旋转)
+
+说明:...
++[matlab](Matlab,)->+[code](+[matlab],说明)
+%}
+
+
+
+alpha=70;
+beta=45;
+gamma=00;
+
+
+M=@(alpha,beta,gamma)[cosd(gamma) -sind(gamma) 0;
+   sind(gamma)  cosd(gamma) 0;
+          0           0     1]*[cosd(beta) 0 -sind(beta);
+         0      1     0;
+     sind(beta) 0  cosd(beta)]*[cosd(alpha)  sind(alpha) 0;
+    -sind(alpha)  cosd(alpha) 0;
+            0           0     1];
+
+
+A=[0,0,1];
+B=A*M(alpha,beta,gamma);
+
+hold on;
+plot3([0,A(1)],[0,A(2)],[0,A(3)])
+plot3([0,B(1)],[0,B(2)],[0,B(3)])
+grid on
+xlabel('X');
+ylabel('Y');
+zlabel('Z');"(,)
+的#36""(知识#33,LaTeX网页#37)
+LaTeX网页#37"<!--
++[返回目录]
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>
+  </head>
+  <body>
+    <p><mathjax style=\"font-size:1.em\">
+    </mathjax></p>
+  </body>
+</html>
+"(,)
+的#38""(三维旋转#35,说明#39)
+说明#39"%{
++[返回目录]
++[matlab](Matlab,)->+[code](+[matlab],说明)
+%}
+
+
+A=[0,0,1];
+
+T1=M(0,beta,0);
+T2=M(alpha,beta,0);
+
+A1=A*T1;
+A2=A*T2;
+
+clf
+hold on
+plot3([0,A(1)],[0,A(2)],[0,A(3)])
+plot3([0,A1(1)],[0,A1(2)],[0,A1(3)],'--')
+plot3([0,A1(1)],[0,A1(2)],[0,0],'k--')
+plot3([A1(1),A1(1)],[A1(2),A1(2)],[0,A1(3)],'k--')
+plot3([0,A2(1)],[0,A2(2)],[0,A2(3)],'')
+plot3([0,A2(1)],[0,A2(2)],[0,0],'k')
+plot3([A2(1),A2(1)],[A2(2),A2(2)],[0,A2(3)],'k--')
+
+grid on
+xlabel('X')
+ylabel('Y')
+zlabel('Z')
+
+R=0.1;
+theta=linspace(0,beta,20);
+z=R*cosd(theta);
+x=R*sind(theta);
+plot3(x,zeros(size(x)),z,'k')
+x_a=R*sind(beta/2-5)*1.1;
+z_a=R*cosd(beta/2-5)*1.1;
+text(x_a,0,z_a,sprintf('%d',beta))
+
+theta=linspace(0,alpha,20);
+x=R*cosd(theta);
+y=R*sind(theta);
+plot3(x,y,zeros(size(x)),'k')
+y_b=R*sind(alpha/2-5)*1.1;
+x_b=R*cosd(alpha/2-5)*1.1;
+text(x_b,y_b,0,sprintf('%d',alpha))
+
+axis equal"(,)
+的#40""(知识#33,画横波#41)
+画横波#41"%{
++[返回目录]
+
++[matlab](Matlab,)->+[code](+[matlab],画横波)
+是([知识],_知识)->的(_知识,三维旋转)->+[matlab](Matlab,)->+[code](+[matlab],三维旋转)
+%}
+
+
+clf
+r0=[0,0,0]';
+E0=[1,0,0]';
+k0=[1,0,0]';
+k0=k0/norm(k0)
+
+beta=acosd(k0(3));
+if k0(1)==0
+    alpha=0;
+end
+alpha=acosd(k0(1)/sind(beta));
+% 三维旋转
+T=M(alpha,beta,0);
+E0=T*E0
+
+L=1.5;
+A=0.2;
+lambda_0=0.3;
+phi0=pi/2;
+
+N1=100;
+N2=40;
+
+waveDiagram(r0,E0,k0,L,A,lambda_0,phi0,N1,N2);
+"(,)
+的#42""(知识#33,张量运算#43)
+张量运算#43"%{
++[返回目录]
+
+张量乘法:...
+%}
+
+"(,)
+的#44""(张量运算#43,张量乘法#45)
+张量乘法#45"%{
++[返回目录]
+
+地址::C:\Users\cheng\Documents\MATLAB\tensor_m.m
++[保存文本](,张量乘法)
+%}
+
+function C=tensor_m(A,B,pairs)
+
+end"(,)
+的#46""(张量乘法#45,地址#47)
+地址#47"C:\Users\cheng\Dropbox\Struct\Structure1.2\Nini"(,)
+的#48""(文本#0,报告#49)
+报告#49"文档\报告.txt"(,)
+的#50""(文本#0,画图#51)
+画图#51"文档\画图.txt"(,)
+的#52""(文本#0,解释器#53)
+解释器#53"文档\解释器.txt"(,)
+的#54""(文本#0,iFAST#55)
+iFAST#55"文档\iFAST.txt"(,)
+的#56""(文本#0,地址#57)
+地址#57""(,)
+的#58""(文本#0,场景#59)
+场景#59"+[返回目录]
++[删除结构](,场景)
+
+模板::%模板是什么
++[模板文本](模板,+[显示])...
+->+[.](+[模板文本],模板)
+
+
+"(,)
+是#60""(,)
+是#61""(,)
+的#62""(文本#0,测试#63)
+测试#63"地址::Matlab\test.m
++[保存M函数](,测试)
++[设置结构](,测试)
++[删除结构](,测试)
+
+
+想想:...
++[code]([想],想想)->[想]->是
+
+"(,)
+test#64"11.0"(,)
+test#65"3.0"(,)
+test#66"3.0"(,)
+test#67"3.0"(,)
+的#68""(文本#0,TOPAS#69)
+TOPAS#69"文档\设计文档\TOPAS光路.ftxt"(,)
+P函数#70""(,)
+的#71""(文本#0,电子能谱#72)
+电子能谱#72"文档\S应用\电子能谱设计.ftxt"(,)
+的#73""(场景#59,模板#74)
+模板#74"%模板是什么"(,)
+的#75""(文本#0,debug#76)
+debug#76"文档\S应用\结构语言Debug.ftxt"(,)
+命令模板2#77"这xCxxUsersxchengxDownloadsxxxxxxxPSLxDataxtiffxxxCxxUsersxchengxDropboxStructxStructure1x2x1xNinixx%地址"(,)
+.#78""(模板文本#80,名称#83)
+.#79"[地址]"(模板文本#80,X射线#84)
+模板文本#80""(,)
+P代码#81"\"\"\"
++[P函数](,P代码)
+
+
+\"\"\"
+print(var,text)
+ans=code.replace('%'+var,text)
+print('over!')
+# print('中间过程:',ans,var)"(,)
+的#82""(电子信息#85,名称#83)
+名称#83""(,)
+X射线#84"inpu_txspectrometerxdataXxtiff"(,)
+电子信息#85" https://utexas.app.box.com/folder/144557785426"(,)
+命令模板#86"xC:\Users\cheng\Downloads\%名称 - PSL Data.tiffx xC:\Users\cheng\Dropbo\Struct\Structure1.2.1\Nini\%[地址]x"(,)
+的#87""(bug样本2#97,命令模板2#77)
+的#88""(bug样本2#97,.#78)
+的#89""(bug样本2#97,.#79)
+的#90""(bug样本2#97,模板文本#80)
+的#91""(bug样本2#97,P代码#81)
+的#92""(bug样本2#97,的#82)
+的#93""(bug样本2#97,名称#83)
+的#94""(bug样本2#97,X射线#84)
+的#95""(bug样本2#97,电子信息#85)
+的#96""(bug样本2#97,命令模板#86)
+bug样本2#97"+[返回目录]
+
+命令模板::xC:\Users\cheng\Downloads\%名称 - PSL Data.tiffx xC:\Users\cheng\Dropbo\Struct\Structure1.2.1\Nini\%[地址]x
+
+命令模板2::xCxxUsersxchengxDownloadsxxxxxxxxx - PSL Data.tiffx xCxxUsersxchengxDropboxStructxStructure1.2.1xNinix%地址x
+
+命令模板2::这xCxxUsersxchengxDownloadsxxxxxxxPSLxDataxtiffxxxCxxUsersxchengxDropboxStructxStructure1x2x1xNinixx%地址
+
+
+命令模板3::xCxxUsersxchen这gxDownloadsxxxxxxxPSLxDataxtiffxxxCxxUsersxchengxDropboxStructxStructure1x2x1xNinixxinpuxtxspectrometerxdataxxxxx
+
+a::_
+
++[模板文本](命令模板3,+[临时文本])...
+->+[.](+[模板文本],名称)->+[.](+[模板文本],a)
+
+
+
+
+move \"C:\Users\cheng\Downloads\%名称 - PSL Data.tiff\" \"C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\%[地址]\"
+
+X射线::inputxspectrometerxdata_X.tiff
+电子信息:: https://utexas.app.box.com/folder/144557785426
+名称::
+13945 SR 1 13 PMT500
++的(电子信息,名称)
+
++[移动电子数据](电子信息,X射线)
+
++[模板文本](命令模板,+[显示])...
+->+[.](+[模板文本],名称)->+[.]\"[地址]\"(+[模板文本],X射线)
+
+
+A
++[显示](,命令模板)
++[修改内容](命令模板,+[临时文本])
+[说]\"?????\"
+
+
+模板文本::
+P代码:...
++.(模板文本,名称)->+.\"[地址]\"(模板文本,X射线)
+
+模板文本->+[临时文本]->+[修改内容](命令模板2,+[临时文本])...
+->[]{
+	[]=>.(模板文本,_输入)->_输入(,)...
+        =>+[标题](_输入,)->+[显示](,_输入)->+[python](Python,+[临时文本])...
+        ->+[code](+[python],P代码)...
+	->+[s]\"code\"(+[python],+[临时文本])->+[s]\"text\"(+[python],_输入):
+            ->[==](,.)->+[.]\"var\"(+[python],+[标题]),
+            ->+[.]\"var\"(+[python],.)
+}->+[修改内容](+[临时文本],+[显示])
+
+
++[修改内容](命令模板,+[临时文本])
+[说]\"?????\"
+
+...
+->+[标题](名称,)->+[临时文本]#1\"[地址]\"...
+->[]{
+    +[python](Python,+[临时文本])->+[code](+[python],P代码)...
+    ->+[s]\"code\"(+[python],+[临时文本])->+[s]\"text\"(+[python],名称)...
+    ->+[.]\"var\"(+[python],+[标题])
+}->[]{
+    +[python](Python,+[临时文本])->+[code](+[python],P代码)...
+    ->+[s]\"code\"(+[python],+[临时文本])->+[s]\"text\"(+[python],X射线)...
+    ->+[.]\"var\"(+[python],+[临时文本]#1)
+}->+[显示](,+[临时文本])
+
+"(,)
+的#98""(文本#0,bug样本2#97)
+的#99""(bug样本2#97,命令模板3#100)
+命令模板3#100"xCxxUsersxchen这gxDownloadsxxxxxxxPSLxDataxtiffxxxCxxUsersxchengxDropboxStructxStructure1x2x1xNinixxinpuxtxspectrometerxdataxxxxx"(,)
+的#101""(bug样本2#97,a#102)
+a#102"_"(,)
+的#103""(文本#0,bug样本#104)
+bug样本#104""(,)
+配置文件#105"配置文件_new.txt"(,)
+日记#106"文档\日记.ftxt"(,)
+的#107""(测试#63,想想#108)
+想想#108"\"\"\"
+A::
+B::
+
+\"\"\"
+
++想想(,)...
+->的(想想,_)->[说](,_)
+
+
+"(,)
+的#109""(想想#108,A#110)
+A#110""(,)
+的#111""(想想#108,B#112)
+B#112""(,)
+正在读取#113""(记忆,文本#0)
+手#114""(,文本#0)
+的#115""(Nini,手#114)

@@ -1,0 +1,226 @@
+### 节点
+地址, 的, 语音相关, 目录, 的, 的, 节点数目统计, 的, 操作, 的, 朗读论文, 的, P代码, 的, 测试获取pdf, 的, 参考, P代码, 的, 朗读文本, 的, 的, 测试, 的, 测试tika, 的, 参考, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 10#12, #, 2#14, #, 14#16, #, #, 19#17, #, 8#19, 12#22, #, 12#24, #, 24#26, #, 
+### 内容
+#0, 16:
+文档/S应用/语音相关.ftxt
+## end
+#2, 106:
++[返回目录](,语音相关)
+地址::文档/S应用/语音相关.ftxt
+
+操作:...
++[设置动词](,操作)
++[新建阅读窗口](,操作)
+
+Nini, 打开语音识别(文件)
+
+测试获取pdf:...
+
+
+
+
+## end
+#3, 48:
+语音相关:...
+创建于 20230808
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 42:
+
+
+朗读文本:...
+朗读论文:...
+将条目"朗读文本"复制为条目"朗读论文"
+
+
+## end
+#10, 264:
+"""
+P代码:...
+
+->+[朗读文本](,+[临时文本])...
+
+"""
+
++朗读论文(,_文本)->+[del](,+朗读论文)...
+->的(朗读论文,P代码)...
+
+->+[python](Python,+[临时文本])->+[code](+[python],P代码)...
+->[]:
+    ->_文本->+[s]"filename"(+[python],_文本),
+    ->+[s]"filename"(+[python],+[临时文本]#2)->[m_text](+朗读论文,+[临时文本]#2)
+
+
+## end
+#12, 657:
+"""
++[P函数](,测试获取pdf)
+记住"Python"
+
+参考::https://www.geeksforgeeks.org/extract-text-from-pdf-file-using-python/
+测试:...
+测试tika:...
+
+"""
+
+from PyPDF2 import PdfReader
+import re
+
+ans=""
+text=""
+# print(filename)
+result=re.match("(.+)#page=(.+)",filename)
+if result!=None:
+    filename=result.group(1)
+    index=int(result.group(2))
+else:
+    index=-1
+
+# creating a pdf reader object
+reader = PdfReader(filename)
+
+# print(len(reader.pages))
+
+if index!=-1:
+    page = reader.pages[index]
+    text = page.extract_text()
+else:
+    for page in reader.pages:
+        text += page.extract_text()
+
+# print(text)
+ans=text
+
+print(text)
+print(reader.pages[1].extract_text())
+
+## end
+#14, 425:
+"""
+参考::https://www.geeksforgeeks.org/extract-text-from-pdf-file-using-python/
++[P函数](,测试获取pdf)
+
+"""
+
+from PyPDF2 import PdfReader
+  
+# creating a pdf reader object
+reader = PdfReader('/home/xiantao/Downloads/test.pdf')
+
+# printing number of pages in pdf file
+print(len(reader.pages))
+  
+# getting a specific page from the pdf file
+page = reader.pages[1]
+  
+# extracting text from page
+text = page.extract_text()
+print(text)
+
+## end
+#16, 70:
+https://www.geeksforgeeks.org/extract-text-from-pdf-file-using-python/
+## end
+#17, 549:
+"""
++[P函数](,gTTS例子)
+记住"Python"
+
+# 汉字字符段
+'\u4e00' <= _char <= '\u9fa5'
+
+"""
+
+from gtts import gTTS
+import subprocess as sp
+import os
+
+  
+# Language in which you want to convert
+# language = 'en'
+# language = 'zh-cn'
+
+_char=mytext[0]
+if '\u4e00' <= _char <= '\u9fa5':
+    language = 'zh-cn'
+else:
+    language = 'en'
+
+myobj = gTTS(text=mytext, lang=language, slow=False)
+
+myobj.save("test.mp3")
+  
+# Playing the converted file
+os.system("cp test.mp3 /home/xiantao/Dropbox/ubuntu/test.mp3")
+
+# t_code="mpg321 test.mp3".split(' ')
+# p=sp.Popen(t_code)
+
+
+## end
+#19, 229:
+"""
+P代码:...
+
+"""
+
++朗读文本(,_文本)->+[del](,+朗读文本)...
+->的(朗读文本,P代码)...
+
+->+[python](Python,)->+[code](+[python],P代码)...
+->[]:
+    ->_文本->+[s]"mytext"(+[python],_文本),
+    ->+[s]"mytext"(+[python],+[临时文本]#2)->[m_text](+朗读文本,+[临时文本]#2)
+
+
+## end
+#22, 432:
+"""
+参考::https://www.geeksforgeeks.org/extract-text-from-pdf-file-using-python/
++[P函数](,测试获取pdf)
+测试:...
+
+"""
+
+from PyPDF2 import PdfReader
+  
+# creating a pdf reader object
+reader = PdfReader('/home/xiantao/Downloads/test.pdf')
+
+# printing number of pages in pdf file
+print(len(reader.pages))
+  
+# getting a specific page from the pdf file
+page = reader.pages[1]
+  
+# extracting text from page
+text = page.extract_text()
+print(text)
+
+## end
+#24, 390:
+"""
+参考::https://stackoverflow.com/questions/50985619/how-to-read-pdf-files-which-are-in-asian-languages-chinese-japanese-thai-etc
++[P函数](,测试tika)
++[python](Python,+[记住])
+
+"""
+
+import tika,re
+tika.initVM()
+from tika import parser
+parsed = parser.from_file('/home/xiantao/Downloads/test.pdf')
+print(parsed["metadata"])
+print(parsed["content"])
+ans=parsed["content"]
+ans=re.sub("\s+"," ",ans)
+
+## end
+#26, 121:
+https://stackoverflow.com/questions/50985619/how-to-read-pdf-files-which-are-in-asian-languages-chinese-japanese-thai-etc
+## end
+### 结束

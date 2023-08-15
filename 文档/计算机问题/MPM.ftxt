@@ -1,0 +1,315 @@
+### 节点
+地址, 的, MPM, 目录, 的, 的, 节点数目统计, 20221007, 的, 的, 算法, 打开网页, 的, snow算法, 的, 笔记, 的, 算法, 的, snow算法, 的, 水, 打开网页, 打开网页, 的, 初步液体模拟, 的, 参考2, 的, 参考1, 打开网页, 打开网页, 的, 算法1, 的, 参考1, 的, 验证算法, M函数, 的, 初步测试, 打开网页, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, #, 6#7, 2#10, #, #10, 2#13, #, 2#15, #, 15#17, #, 15#19, #, 2#21, #, #21, #21, 15#25, #, 25#27, #, 25#29, #, #27, #29, 2#33, #, 33#35, #, 33#37, #, 37#, 37#40, #, #29, 
+### 内容
+#0, 17:
+文档\计算机问题\MPM.ftxt
+## end
+#2, 271:
++[返回目录](,MPM)
+地址::文档\计算机问题\MPM.ftxt
+
+
+Nini, 导入网页画板的库
+
+水::file:///C:/Users/cheng/Desktop/paper/MPM/Dan13.pdf
+算法::file:///C:/Users/cheng/Desktop/paper/MPM/Jiang15.pdf#page=27
+snow算法::file:///C:/Users/cheng/Desktop/paper/MPM/Stom13.pdf#page=3
++[打开网页](,水)
+
+笔记:...
+算法1:...
+
+
+
+
+## end
+#3, 47:
+MPM:...
+创建于 20221005
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#7, 2:
+20
+## end
+#10, 60:
+file:///C:/Users/cheng/Desktop/paper/MPM/Jiang15.pdf#page=27
+## end
+#13, 58:
+file:///C:/Users/cheng/Desktop/paper/MPM/Stom13.pdf#page=3
+## end
+#15, 470:
+算法::file:///C:/Users/cheng/Desktop/paper/MPM/Jiang15.pdf#page=27
+snow算法::file:///C:/Users/cheng/Desktop/paper/MPM/Stom13.pdf#page=3
++[打开网页](,算法)
+
+所以, MPM确实就是一种PIC
+首先网格是固定的空间网格. 网格之间的连接关系不会发生改变
+然后粒子的速度, 质量和张量(估计是形变张量)会更新到网格的格点上
+PIC中用Maxwell方程组来计算场分布以及粒子受力, MPM里面用的应该是连续体方程, 用速度和质量分布计算受力张量. 然后更新格点上的这些物理量分布
+然后格点上的物理量会被更新到粒子上
+
+所以, PIC和MPM有可能就只是场方程不同
+
+但是值得注意的是, 格点上的速度分布是怎么更新到粒子上面的呀. 还有粒子的体积在计算过程中有什么作用? 
+(应该和plasma的PIC相同. 格点上面的速度只是用来解方程的, 计算了场分布以后把力作用到粒子上而已)
+
+初步液体模拟:...
+
+
+
+## end
+#17, 60:
+file:///C:/Users/cheng/Desktop/paper/MPM/Jiang15.pdf#page=27
+## end
+#19, 58:
+file:///C:/Users/cheng/Desktop/paper/MPM/Stom13.pdf#page=3
+## end
+#21, 50:
+file:///C:/Users/cheng/Desktop/paper/MPM/Dan13.pdf
+## end
+#25, 340:
+参考1::file:///C:/Users/cheng/Desktop/paper/MPM/Clav05.pdf
+参考2::file:///C:/Users/cheng/Desktop/paper/MPM/Dan13.pdf#page=19
+
+这个算法里面是用物质点来代表液体. 没有计算场分布. 是直接根据点以及临近点间的关系计算作用力的
+这个算法的要点在于如何模拟流体的一致性和不可压缩性. 这个方法中是通过一种力来实现的. 力是通过一个粒子与其周围粒子的距离计算的. 目标是保持局部密度相同
+
+参考2中提供了一种搜索临近粒子的方法. 方案很直接, 就是用网格搜索
+这个方法不是PIC方法, 但是部署好了以后, 可以轻易地改成PIC方法
+
++[打开网页](,参考1)
+
+
+
+
+
+## end
+#27, 58:
+file:///C:/Users/cheng/Desktop/paper/MPM/Dan13.pdf#page=19
+## end
+#29, 51:
+file:///C:/Users/cheng/Desktop/paper/MPM/Clav05.pdf
+## end
+#33, 139:
+<!--
+参考1::file:///C:/Users/cheng/Desktop/paper/MPM/Clav05.pdf
+
++[H函数](,算法1)
+-->
+
+
+
+
+
+
+<!--
+验证算法(M函数):...
++[新建阅读窗口](,验证算法)
+
++[H函数](,算法1)
+-->
+## end
+#35, 51:
+file:///C:/Users/cheng/Desktop/paper/MPM/Clav05.pdf
+## end
+#37, 1465:
+%{
++[M函数](,验证算法)
+
+初步测试:...
+
+%}
+
+N=100;
+dt=0.1;
+
+% h=0.4;
+% k=1;
+% k_n=2;
+% rho_0=8;
+
+h=0.4;
+k=0.1;
+k_n=1;
+rho_0=8;
+
+x=rand(1,N);
+y=rand(1,N)-0.5;
+v_x=0.1*(rand(1,N)-0.5);
+v_y=0.1*(rand(1,N)-0.5);
+
+rho=zeros(1,N);
+rho_n=zeros(1,N);
+D=zeros(1,N);
+
+% map
+x_grid=linspace(-1,2,100);
+y_grid=linspace(-1,2,100);
+[X,Y]=meshgrid(x_grid,y_grid);
+In_0=zeros(size(X));
+
+clf
+hold on
+h_gph=plot(x,y,'r.');
+h_map=image(x_grid,y_grid,In_0);
+axis equal
+axis([-1.5,2.5,-1.5,2.5])
+rectangle("Position",[-1,-1,3,3])
+
+
+
+for i=1:1000
+In=In_0;
+x=x+v_x*dt;
+y=y+v_y*dt;
+
+for j=1:length(x)
+% for j=1
+r=sqrt((x-x(j)).^2+(y-y(j)).^2);
+q=r/h;
+rho=(1-q).^2;
+rho_n=(1-q).^3;
+
+P=k*(sum(rho(q<1))-rho_0);
+P_n=k_n*sum(rho_n(q<1));
+
+D_x=dt^2*(P*(1-q)+P_n*(1-q).^2).*(x-x(j))./r;
+D_y=dt^2*(P*(1-q)+P_n*(1-q).^2).*(y-y(j))./r;
+D_x(isnan(D_x))=0;
+D_y(isnan(D_y))=0;
+
+x(q<1)=x(q<1)+D_x(q<1)/2;
+y(q<1)=y(q<1)+D_y(q<1)/2;
+x(j)=x(j)-sum(D_x(q<1)/2);
+y(j)=y(j)-sum(D_y(q<1)/2);
+
+In=In+exp(-((X-x(j)).^2+(Y-y(j)).^2)./2/h^2);
+% In=In+(1-sqrt((X-x(j)).^2+(Y-y(j)).^2)/h);
+
+end
+
+v_y=v_y-0.01*dt;
+
+v_x(x<-1 & v_x<0)=-v_x(x<-1 & v_x<0);
+v_x(x>2 & v_x>0)=-v_x(x>2 & v_x>0);
+v_y(y<-1 & v_y<0)=-0.3*v_y(y<-1 & v_y<0);
+v_y(y>2 & v_y>0)=-v_y(y>2 & v_y>0);
+
+x(x<-1)=-1;
+x(x>2)=2;
+y(y<-1)=-1;
+y(y>2)=2;
+
+h_gph.XData=x;
+h_gph.YData=y;
+
+In=In/(max(max(In)))*255;
+In_s=In>100;
+h_map.CData=In_s*255;
+% h_map.CData=In;
+pause(0.01)
+end
+
+
+%{
+plot(r)
+plot(isnan(P))
+plot(isnan(D_y))
+sum(isnan(x))
+sum(isnan(y))
++[M函数](,验证算法)
+%}
+## end
+#40, 1122:
+%{
++[M函数](,验证算法)
+
+初步测试:...
+%}
+
+N=100;
+dt=0.1;
+
+% h=0.4;
+% k=1;
+% k_n=2;
+% rho_0=8;
+
+h=0.4;
+k=0.5;
+k_n=2;
+rho_0=8;
+
+x=rand(1,N);
+y=rand(1,N)-0.5;
+v_x=0.1*(rand(1,N)-0.5);
+v_y=0.1*(rand(1,N)-0.5);
+
+rho=zeros(1,N);
+rho_n=zeros(1,N);
+D=zeros(1,N);
+
+h_gph=plot(x,y,'.');
+axis equal
+axis([-1.5,2.5,-1.5,2.5])
+rectangle("Position",[-1,-1,3,3])
+
+for i=1:400
+x=x+v_x*dt;
+y=y+v_y*dt;
+
+for j=1:length(x)
+% for j=1
+r=sqrt((x-x(j)).^2+(y-y(j)).^2);
+q=r/h;
+rho=(1-q).^2;
+rho_n=(1-q).^3;
+
+P=k*(sum(rho(q<1))-rho_0);
+P_n=k_n*sum(rho_n(q<1));
+
+D_x=dt^2*(P*(1-q)+P_n*(1-q).^2).*(x-x(j))./r;
+D_y=dt^2*(P*(1-q)+P_n*(1-q).^2).*(y-y(j))./r;
+D_x(isnan(D_x))=0;
+D_y(isnan(D_y))=0;
+
+x(q<1)=x(q<1)+D_x(q<1)/2;
+y(q<1)=y(q<1)+D_y(q<1)/2;
+x(j)=x(j)-sum(D_x(q<1)/2);
+y(j)=y(j)-sum(D_y(q<1)/2);
+
+end
+
+
+v_y=v_y-0.01*dt;
+
+v_x(x<-1 & v_x<0)=-v_x(x<-1 & v_x<0);
+v_x(x>2 & v_x>0)=-v_x(x>2 & v_x>0);
+v_y(y<-1 & v_y<0)=-0.3*v_y(y<-1 & v_y<0);
+v_y(y>2 & v_y>0)=-v_y(y>2 & v_y>0);
+
+x(x<-1)=-1;
+x(x>2)=2;
+y(y<-1)=-1;
+y(y>2)=2;
+
+h_gph.XData=x;
+h_gph.YData=y;
+pause(0.01)
+end
+
+
+%{
+plot(r)
+plot(isnan(P))
+plot(isnan(D_y))
+sum(isnan(x))
+sum(isnan(y))
++[M函数](,验证算法)
+%}
+## end
+### 结束

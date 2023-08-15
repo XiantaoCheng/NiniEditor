@@ -1,0 +1,47 @@
+### 节点
+地址, 的, GPU编程, 目录, 的, 的, 节点数目统计, 的, 笔记, 的, CUDA, 的, CUDA入门, 打开网页, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 8#12, #, #12, 
+### 内容
+#0, 19:
+文档\计算机问题\GPU编程.ftxt
+## end
+#2, 53:
++[返回目录](,GPU编程)
+地址::文档\计算机问题\GPU编程.ftxt
+
+
+
+笔记:...
+
+
+
+
+## end
+#3, 49:
+GPU编程:...
+创建于 20230122
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 249:
+CUDA::https://www.cherryservers.com/blog/introduction-to-gpu-programming-with-cuda-and-python
+CUDA入门::https://developer.nvidia.com/blog/even-easier-introduction-cuda/
++[打开网页](,CUDA入门)
+
+CUDA估计是一个C的库, 有一堆API
+对的
+C里面的编程似乎是可以分配某个计算在哪个block的哪个thread中做
+
+
+
+
+## end
+#10, 87:
+https://www.cherryservers.com/blog/introduction-to-gpu-programming-with-cuda-and-python
+## end
+#12, 64:
+https://developer.nvidia.com/blog/even-easier-introduction-cuda/
+## end
+### 结束

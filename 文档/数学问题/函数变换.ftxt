@@ -1,0 +1,201 @@
+### 节点
+地址, 的, 函数变换, 目录, 的, 的, 节点数目统计, 的, 拉普拉斯变换, 的, 参考, 的, [1]., 的, 验证公式, 表达式, 的, 公式, 的, 的, 表格, 的, [2]., 的, [3]., 的, [4]., 表达式, 的, 公式, 的, 表达式, 的, 公式, 的, 表达式, 的, 公式, 的, 的, 例子_exp, 的, 例子_tn, 的, 目标问题, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 8#12, #, 8#14, #, #, 12#15, 12#, 15#del, 8#20, #, 8#22, #, 8#24, #, 8#26, #, #, 22#27, 22#, 27#del, #, 24#31, 24#, 31#del, #, 26#35, 26#, 35#del, 14#40, #, 14#42, #, 2#44, #, 
+### 内容
+#0, 17:
+文档/数学问题/函数变换.ftxt
+## end
+#2, 155:
++[返回目录](,函数变换)
+地址::文档/数学问题/函数变换.ftxt
+
+Nini, 打开ShadowSpectrometer(文件)
+
+目标问题::file:///media/xiantao/Elements/paper/LWFA/Blackmore09.pdf
+(式[3])
+
+
+拉普拉斯变换:...
+
+
+## end
+#3, 48:
+函数变换:...
+创建于 20230723
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 362:
+<!--
+参考::https://en.wikipedia.org/wiki/Laplace_transform
+表格::https://tutorial.math.lamar.edu/classes/de/laplace_table.aspx
++[打开网页](,参考)
++[打开网页](,表格)
++[H函数](,拉普拉斯变换)
+-->
+<h2>Laplace transform</h2>
+
+Definition,
+%[1].
+
+Examples,
+%[2].
+%[3].
+%[4].
+
+
+<!--
+[4].:
+将"\eqs{f(t)=t^n;
+F(p)=\frac{\Gamma(n+1)}{p^{n+1}}}"记作为式(4)
+
+验证公式:...
++[新建阅读窗口](,验证公式)
++[H函数](,拉普拉斯变换)
+-->
+## end
+#10, 47:
+https://en.wikipedia.org/wiki/Laplace_transform
+## end
+#12, 85:
+F \left( p \right)=\int_{0}^{\infty}{dt }{f \left( t \right) exp \left( -p t \right)}
+## end
+#14, 320:
+%{
++[M函数](,验证公式)
+
+例子_exp:...
+例子_tn:...
+%}
+
+n=2;
+t=linspace(0,10,1000);
+p=linspace(0,100,1000);
+
+f=t.^n;
+F=zeros(size(p));
+F_t=factorial(n)./(p.^(n+1));
+
+for i=1:length(p)
+int_f=f.*exp(-p(i)*t);
+F(i)=trapz(t,int_f);
+end
+
+subplot(2,1,1)
+plot(t,f)
+subplot(2,1,2)
+plot(p,F,p,F_t,'--')
+axis([0,100,0,1])
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#15, 41:
+F(p)=\int_{0}^{\infty}{t}{f(t)*exp(-p*t)}
+## end
+#20, 61:
+https://tutorial.math.lamar.edu/classes/de/laplace_table.aspx
+## end
+#22, 81:
+\begin{cases}
+f \left( t \right)=1\\ F \left( p \right)=\frac{1}{p}
+\end{cases}
+
+
+## end
+#24, 89:
+\begin{cases}
+f \left( t \right)=e^{a t}\\ F \left( p \right)=\frac{1}{p-a}
+\end{cases}
+
+
+## end
+#26, 115:
+\begin{cases}
+f \left( t \right)=t^{n}\\ F \left( p \right)=\frac{\Gamma \left( n+1 \right)}{p^{n+1}}
+\end{cases}
+
+
+## end
+#27, 30:
+\eqs{f(t)=1;
+F(p)=\frac{1}{p}}
+## end
+#31, 38:
+\eqs{f(t)=e^{a*t};
+F(p)=\frac{1}{p-a}}
+## end
+#35, 48:
+\eqs{f(t)=t^n;
+F(p)=\frac{\Gamma(n+1)}{p^{n+1}}}
+## end
+#40, 281:
+%{
++[M函数](,验证公式)
+
+例子_exp:...
+%}
+
+a=-2;
+t=linspace(0,10,1000);
+p=linspace(0,100,1000);
+
+f=exp(t*a);
+F=zeros(size(p));
+F_t=1./(p-a);
+
+for i=1:length(p)
+int_f=f.*exp(-p(i)*t);
+F(i)=trapz(t,int_f);
+end
+
+subplot(2,1,1)
+plot(t,f)
+subplot(2,1,2)
+plot(p,F,p,F_t,'--')
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#42, 321:
+%{
++[M函数](,验证公式)
+
+例子_exp:...
+例子_tn:...
+%}
+
+n=0;
+t=linspace(0,10,1000);
+p=linspace(0,100,1000);
+
+f=t.^n;
+F=zeros(size(p));
+F_t=factorial(4)./(p.^(n+1));
+
+for i=1:length(p)
+int_f=f.*exp(-p(i)*t);
+F(i)=trapz(t,int_f);
+end
+
+subplot(2,1,1)
+plot(t,f)
+subplot(2,1,2)
+plot(p,F,p,F_t,'--')
+axis([0,100,0,10])
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#44, 57:
+file:///media/xiantao/Elements/paper/LWFA/Blackmore09.pdf
+## end
+### 结束

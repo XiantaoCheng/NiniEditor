@@ -1,0 +1,149 @@
+### 节点
+地址, 的, 网页聊天框, 目录, 的, 的, 节点数目统计, 的, 20220619, 的, 的, 测试模板, html, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#del, #, 6#8, 2#11, #, 11#, 
+### 内容
+#0, 17:
+文档\S应用\网页聊天框.ftxt
+## end
+#2, 110:
++[返回目录](,网页聊天框)
+地址::文档\S应用\网页聊天框.ftxt
+
+
+Nini, 打开核心(文件)
+Nini, 打开网页画板(文件)
+Nini, 打开博客生成器(文件)
+
+
+测试模板(html):...
+
+
+
+
+## end
+#3, 49:
+网页聊天框:...
+创建于 20220619
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 2:
+15
+## end
+#11, 1520:
+<!--
++[H函数](,测试模板)
+-->
+
+<style>
+.window {
+  position: relative;
+  width: 90%;
+  #overflow: hidden;
+  overflow: auto;
+  # padding-top: 20%;
+  left: 5%;
+  border: 2px solid #888888;
+}
+
+.window.history {
+  height: 60%;
+  background-color: lightgrey;
+}
+
+.window.me {
+  background-color: white;
+}
+
+.chat-bubble {
+    margin: 10px;
+    display: inline-block;
+    position: relative;
+    width: auto;
+    height: auto;
+}
+
+.chat-bubble.Nini {
+    float: left;
+    clear: both;
+    background-color: lightyellow;
+}
+
+.chat-bubble.me {
+    float: right;
+    clear: both;
+    background-color: lightgreen;
+}
+
+.talktext{
+    padding: 1em;
+    text-align: left;
+    line-height: 1.5em;
+}
+
+</style>
+
+<!--
++[H函数](,测试模板)
+-->
+
+<h1>Nini</h1>
+
+<div id="chat_history" class="window history">
+
+<div class="chat-bubble Nini">
+    <div class="talktext">
+你好!
+    </div>
+</div>
+
+</div>
+
+<br>
+
+<textarea class="window me" id='edit_box' rows=4>
++A->+B->+C
+</textarea>
+
+<p id='cmd_window'></p>
+
+<script>
+
+edit_box.addEventListener("keydown", function (event) {
+    if(event.key==='Enter') {
+        var code=edit_box.value;
+        edit_box.value='';
+        event.preventDefault();
+        updateChatHistory(code);
+        runCode_Nini(code);
+    }
+});
+
+function updateChatHistory(code) {
+    chat_history.innerHTML+=`
+<div class="chat-bubble me">
+    <div class="talktext">
+${code}
+    </div>
+</div>
+`;
+
+chat_history.scrollTop = chat_history.scrollHeight;
+
+}
+
+function runCode_Nini(code) {
+    Nini.do(code);
+}
+
+
+</script>
+
+
+<!--
++[H函数](,测试模板)
+-->
+## end
+### 结束

@@ -1,0 +1,89 @@
+### 节点
+地址, 的, 神经网络, 目录, 的, 的, 节点数目统计, 的, pytorch, 的, 参考, 的, classification, 20220826, 的, 打开网页, 的, 测试, 20220828, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 8#12, #, #, 6#13, #10, 12#17, #, #, 6#18, 
+### 内容
+#0, 18:
+文档\计算机问题\神经网络.ftxt
+## end
+#2, 55:
++[返回目录](,神经网络)
+地址::文档\计算机问题\神经网络.ftxt
+
+
+pytorch:...
+
+
+
+
+## end
+#3, 48:
+神经网络:...
+创建于 20220826
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 87:
+参考::https://pytorch.org/vision/stable/models.html
++[打开网页](,参考)
+
+classification:...
+
+
+
+
+
+## end
+#10, 45:
+https://pytorch.org/vision/stable/models.html
+## end
+#12, 818:
+"""
++[P函数](,classification)
+测试:...
+
+"""
+
+
+from torchvision.io import read_image
+from torchvision.models.quantization import resnet50, ResNet50_QuantizedWeights
+
+img = read_image("文档\计算机问题\神经网络\dog.jpg")
+
+# Step 1: Initialize model with the best available weights
+weights = ResNet50_QuantizedWeights.DEFAULT
+model = resnet50(weights=weights, quantize=True)
+model.eval()
+
+# Step 2: Initialize the inference transforms
+preprocess = weights.transforms()
+
+# Step 3: Apply inference preprocessing transforms
+batch = preprocess(img).unsqueeze(0)
+
+# Step 4: Use the model and print the predicted category
+prediction = model(batch).squeeze(0).softmax(0)
+class_id = prediction.argmax().item()
+score = prediction[class_id].item()
+category_name = weights.meta["categories"][class_id]
+print(f"{category_name}: {100 * score}%")
+
+
+
+
+
+## end
+#13, 2:
+18
+## end
+#17, 9:
+"""
+
+
+"""
+## end
+#18, 2:
+20
+## end
+### 结束

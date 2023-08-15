@@ -1,0 +1,3357 @@
+### 节点
+地址, 的, FDTD, 目录, 的, 的, 测试算法, 的, 参考code, 的, FDTD算法, 的, 算法, 的, 正文, html, 的, 网页画板, 的, 几何画板, 的, 节点数目统计, 20210416, 的, 的, FDTD程序, M函数, 的, 稳定性问题, html, 20210418, 的, 的, 虚数修正, html, 的, 场景, 的, 坐标系, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 选中区域, 的, 的, 输出, HTML, 的, 的, 输出, 输入, 的, 的, 的, 的, 的, 的, 起点, 尺寸, 类型, 原点, x坐标, y坐标, 可选, 的, 圆形, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 类型, 选中区域, 的, 的, 输出, 输入, 的, 的, HTML, 的, 输入, 的, 的, 的, 的, 的, 的, 的, 中心, 半径, 角度, 面颜色, 线颜色, 线型, 线粗细, 的, 虚部, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 直线, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 线粗细, 线型, 线颜色, 终点, 起点, 的, 的, 的, 的, 的, 输入, 的, HTML, LaTeX数学记号, 的, 点线公式, 输出, 的, 的, 输入, 的, 的, 的, 选中区域, 类型, 选中框, 图形, 输出, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 的, 的, 的, 的, 的, 虚部, 的, 的, 画板, 比例, 的, 尺寸, 的, 原点, 的, 坐标系, 的, 龙格库塔方法, 20210423, 的, 的, 解决方案, html, 的, 参考, 的, 20210509, 的, 的, 入射波, M函数, 的, 入射条件, M函数, 的, 磁场与电场的关系, html, 的, 分析输出, M函数, 20210513, 的, 的, 等离子体方程, html, 20210514, 的, 的, 等离子体FDTD, M函数, 20210515, 的, 20210516, 的, 的, 等离子体折射率, html, 的, 检验模型, 的, 波矢检测, 的, 数值模型, M函数, 的, 地址, 的, 测量波长, M函数, 的, 地址, 的, 等离子体色散曲线, M函数, 的, 查看拟合曲线, M函数, 20210523, 的, 的, 笔记, 的, FDTD算法, 的, 参考code, 手, 表达式, 的, 的, 公式, [1]., 的, 的, 表达式, 的, 的, 公式, [2]., 的, 的, 表达式, 的, 的, 公式, [3]., 的, 的, 表达式, 的, 的, 公式, [3.1]., 的, 的, 表达式, 的, 的, 公式, [4]., 的, 的, 表达式, 的, 的, 公式, [5.1]., 的, 的, 表达式, 的, 的, 公式, [5.2]., 的, 的, 表达式, 的, 的, 公式, [5.3]., 的, 表达式, 的, 的, 公式, [5.4]., 的, 的, 的, 表达式, 的, 的, 公式, [6.1]., 的, 表达式, 的, 的, 公式, [6.2]., 的, 表达式, 的, 的, 公式, [6.3]., 的, 表达式, 的, 的, 公式, [6.4]., 的, 的, 的, 的, 表达式, 的, 的, 公式, [6]., 的, 表达式, 的, 的, 公式, [7]., 的, 的, 的, 的, 表达式, 的, 的, 公式, [8]., 的, 的, 的, 验证算法, 的, 一维场景, 的, 二维初次, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 2#10, #, 2#12, #, 12#14, #, 14#, 2#17, #, 2#19, #, 3#21, #, #, 21#22, 12#25, #, 25#, 14#28, #, 28#, #, 21#30, 28#33, #, 33#, 33#36, #, 36#38, #, 38#49, 38#57, 38#61, 38#72, 38#73, 38#74, 38#75, 38#76, 38#77, 38#78, #, 49#65, 49#54, 49#55, 49#56, #, #, #, #, 57#60, 57#65, #, #, 61#64, 61#65, #, #, 65#73, 65#72, 65#75, 65#76, 65#77, 65#78, #, #, #, #, #, #, #, 36#80, #, 80#118, 80#119, 80#92, 80#100, 80#120, 80#101, 80#121, 80#122, 80#123, 80#124, 80#108, #, 92#110, 92#97, 92#98, 92#99, #, #, #, #, #, 101#104, 101#105, #, #, 105#118, 105#119, #, 108#110, #, 110#118, 110#119, 110#120, 110#121, 110#122, 110#123, 110#124, #, #, #, #, #, #, #, 36#126, #, 126#164, 126#165, 126#136, 126#144, 126#145, 126#166, 126#167, 126#168, 126#156, #, 136#158, 136#141, 136#142, 136#143, #, #, #, #, #, 145#149, 145#152, 145#153, #, 149#164, 149#165, #, #, 153#155, #, #, 156#158, #, 158#164, 158#165, 158#166, 158#167, 158#168, #, #, #, #, #, #, 36#169, 169#208, 169#209, 169#180, 169#188, 169#189, 169#210, 169#211, 169#212, 169#200, #, 180#202, 180#185, 180#186, 180#187, #, #, #, #, #, 189#193, 189#196, 189#197, #, 193#208, 193#209, #, #, 197#199, #, #, 200#202, #, 202#208, 202#209, 202#210, 202#211, 202#212, #, #, #, #, #, #, #, #, #, #, 223#213, 223#214, 223#215, 223#216, 223#217, #, 225#223, #, #, 228#226, #, #, 232#216, 232#217, #, 236#228, 236#229, 236#232, #, #, #, #, #, 245#238, 245#239, 245#240, 245#223, #, 255#225, 255#213, 255#214, 255#215, 255#236, 255#237, 255#245, 255#216, 255#217, #, 36#255, 33#258, 36#, #, 265#259, #, 265#261, #, 265#263, 36#, 28#267, #, #, 21#268, 28#271, #, 271#, 271#274, #, 14#25, #, 21#276, 25#279, #, 279#, 279#282, #, 282#, 282#285, #, 285#, 279#288, #, 288#, #, 21#290, 12#293, #, 293#, #, 21#295, 293#298, #, 298#, #, 21#300, #, 21#302, 298#305, #, 305#, 298#308, #, 308#310, #, 310#312, #, 312#, 312#315, #, 310#317, #, 317#, 317#320, #, 310#322, #, 322#, 310#325, #, 325#, #, 21#327, 2#330, #, 330#332, #, 330#334, #, #14, #, 340#336, 340#339, 340#, #, 14#340, 336#del, #, 347#343, 347#346, 347#, #, 14#347, 343#del, #, 354#350, 354#353, 354#, #, 14#354, 350#del, #, 361#357, 361#360, 361#, #, 14#361, 357#del, #, 368#364, 368#367, 368#, #, 14#368, 364#del, #, 375#371, 375#374, 375#, #, 14#375, 371#del, #, 382#378, 382#381, 382#, #, 14#382, 378#del, #, 389#385, 389#388, 389#, #, 14#389, #, 395#391, 395#394, 395#, #, 14#395, 385#del, 391#del, #, 403#399, 403#402, 403#, #, 14#403, #, 409#405, 409#408, 409#, #, 14#409, #, 415#411, 415#414, 415#, #, 14#415, #, 421#417, 421#420, 421#, #, 14#421, 399#del, 411#del, 417#del, #, 430#426, 430#429, 430#, #, 14#430, #, 436#432, 436#435, 436#, #, 14#436, 432#del, 426#del, 405#del, #, 445#441, 445#444, 445#, #, 14#445, 441#del, 14#449, #, 449#451, #, 449#453, #, 
+### 内容
+#0, 17:
+文档\物理问题\FDTD.ftxt
+## end
+#2, 69:
++[返回目录](,FDTD)
+地址::文档\物理问题\FDTD.ftxt
+
+
+笔记:...
+算法:...
++[新建阅读窗口](,算法)
+
+
+## end
+#3, 48:
+FDTD:...
+创建于 20210412
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 60:
+file:///C:/Users/cheng/Desktop/paper/FDTD/Allen75.pdf#page=3
+## end
+#8, 67:
+https://www.mathworks.com/matlabcentral/fileexchange/28297-3-d-fdtd
+## end
+#10, 60:
+file:///C:/Users/cheng/Desktop/paper/FDTD/Allen75.pdf#page=3
+## end
+#12, 84:
+
+
+正文(html):...
+等离子体方程(html):...
++[新建阅读窗口](,正文)
+
+FDTD程序(M函数):...
++[新建阅读窗口](,FDTD程序)
+
+
+## end
+#14, 827:
+<!--
++[H函数](,正文)
+
+稳定性问题(html):...
+-->
+
+<h2>Basic formulas</h2>
+
+The Maxwell's equations are,
+%[1].
+%[2].
+
+To compute equations numerically, we can write them in this way,
+%[3].
+%[3.1].
+
+<h2>1D cases</h2>
+In the 1-D situation, all fields are uniform along x and y directions. <br>
+Then the equation becomes,
+
+%[4].
+
+In an 1-D lattice, the numerical differential equations can be written in the following way,
+%[5.1].
+%[5.2].
+%[5.3].
+%[5.4].
+
+Let's include the source term into equations,
+%[6].
+%[6.1].
+%[6.2].
+%[6.3].
+%[6.4].
+
+After discussing about the stabilization problem, I found out the above equations were instable. The equations belowing are stable, <br>
+%[7].
+
+<h2>2D cases</h2>
+Let's make z-axis a symmetric axis. Then,
+%[8].
+
+
+<!--
+式(6)转换为"表达式"
+在式(8), 方程组(1)的方程(2)转换为"表达式"
+
+
+验证算法:...
++[新建阅读窗口](,验证算法)
++[H函数](,正文)
+-->
+## end
+#17, 16:
+文档\S应用\网页画板.ftxt
+## end
+#19, 17:
+文档\S应用\几何样本库.ftxt
+## end
+#22, 2:
+33
+## end
+#25, 1040:
+%{
++[M函数](,FDTD程序)
+
+入射波(M函数):...
+%}
+
+physics_constant;
+dx=1;
+dt=1;
+n_r=1;
+c=1;
+mu=1;
+
+N=1000;
+T=1000;
+% Ex=zeros(1,N);
+% Ey=zeros(1,N);
+% Bx=zeros(1,N);
+% By=zeros(1,N);
+
+x=linspace(0,1,2*N-1);
+x_E=x(1:2:2*N-1);
+x_B=x(2:2:2*N-1);
+
+Ex=zeros(1,N);
+Ey=exp(-(x_E-1/2).^2*50);
+Bx=zeros(1,N-1);
+By=zeros(1,N-1);
+
+
+t=0;
+
+for n=1:T
+dEx=zeros(size(Ex));
+dEy=zeros(size(Ey));
+Ex(1)=Ex(2);
+Ey(1)=Ey(2);
+Ex(N)=Ex(N-1);
+Ey(N)=Ey(N-1);
+for i=2:N-1
+    dEx(i)=-(By(i)-By(i-1));
+    dEy(i)=Bx(i)-Bx(i-1);
+end
+Ex=Ex+dEx*dt/dx;
+Ey=Ey+dEy*dt/dx;
+
+
+dBx=zeros(size(Bx));
+dBy=zeros(size(By));
+for i=1:N-1
+    dBx(i)=Ey(i+1)-Ey(i);
+    dBy(i)=-(Ex(i+1)-Ex(i));
+end
+Bx=Bx+dBx*dt/dx;
+By=By+dBy*dt/dx;
+
+t=t+dt;
+
+if mod(n,15)==1
+    subplot(2,2,1)
+    plot(Ex);
+    axis([1,N,-1,1])
+    title('E_x')
+
+    subplot(2,2,2)
+    plot(Ey);
+    axis([1,N,-1,1])
+    title('E_y')
+
+    subplot(2,2,3)
+    plot(Bx);
+    axis([1,N-1,-1,1])
+    title('B_x')
+
+    subplot(2,2,4)
+    plot(By);
+    axis([1,N-1,-1,1])
+    title('B_y')
+    pause(0.01)
+end
+end
+
+
+%{
++[M函数](,FDTD程序)
+%}
+## end
+#28, 2448:
+<!--
++[返回目录](,稳定性问题)
+
++[H函数](,稳定性问题)
+-->
+The equations in a free space are, 
+$$
+\begin{cases}
+
+\frac{E_x(i,j,k;n+1)}{\delta t}
+=\frac{E_x(i,j,k;n)}{\delta t}
+-\frac{B_y(i,j,k;n)-B_y(i,j,k-1;n)}{n(x,y,z)c \delta}
+\\
+\frac{E_y(i,j,k;n+1)}{\delta t}
+=\frac{E_y(i,j,k;n)}{\delta t}
++\frac{B_x(i,j,k;n)-B_x(i,j,k-1;n)}{n(x,y,z)c \delta}
+\\
+\frac{B_x(i,j,k;n+1)}{\delta t}
+=\frac{B_x(i,j,k;n)}{\delta t}
++\frac{E_y(i,j,k+1;n)-E_y(i,j,k;n)}{\delta}
+\\
+\frac{B_y(i,j,k;n+1)}{\delta t}
+=\frac{B_y(i,j,k;n)}{\delta t}
+-\frac{E_x(i,j,k+1;n)-E_x(i,j,k;n)}{\delta}
+
+\end{cases}
+$$
+
+I want to combine equations to get pure \(\vec{E}\) or \(\vec{B}\) equations. Let's start with \(E_x\),
+$$
+\frac{E_x(i,j,k;n+1)}{\delta t}
+=\frac{E_x(i,j,k;n)}{\delta t}
+-\frac{B_y(i,j,k;n)-B_y(i,j,k-1;n)}{n(x,y,z)c \delta}
+\\
+\frac{E_x(i,j,k;n)}{\delta t}
+=\frac{E_x(i,j,k;n-1)}{\delta t}
+-\frac{B_y(i,j,k;n-1)-B_y(i,j,k-1;n-1)}{n(x,y,z)c \delta}
+$$
+$$
+\Rightarrow
+\frac{E_x(i,j,k;n+1)}{\delta t}
+-2\frac{E_x(i,j,k;n)}{\delta t}
++\frac{E_x(i,j,k;n-1)}{\delta t}
+\\
+=
+-\frac{B_y(i,j,k;n)-B_y(i,j,k-1;n)}{n(x,y,z)c \delta}
++\frac{B_y(i,j,k;n-1)-B_y(i,j,k-1;n-1)}{n(x,y,z)c \delta}
+$$$$
+=
+-\frac{1}{n(x,y,z)c \delta}
+\left[(B_y(i,j,k;n)-B_y(i,j,k;n-1))
+\\
+-(B_y(i,j,k-1;n)-B_y(i,j,k-1;n-1))\right]
+$$$$
+=
+\frac{\delta t}{(n(x,y,z)c \delta)^2}
+\left[(E_x(i,j,k+1;n-1)-E_x(i,j,k;n-1))
+\\
+-(E_x(i,j,k;n-1)-E_x(i,j,k-1;n-1))\right]
+$$
+As a result, we have a wave equation for \(E_x\),
+$$
+\left[E_x(i;n+1)
+-2 E_x(i;n)+E_x(i;n-1)\right]
+\\
+=
+\frac{\delta t^2}{(n c \delta)^2}
+\left[E_x(i+1;n-1)-2 E_x(i;n-1)
++E_x(i-1;n-1)\right]
+$$
+Assume that,
+$$
+E_x(i;n)=E_{kx}(n)e^{-j k\delta i}
+$$
+Put it into the wave equation, we will have,
+$$
+\left[E_{kx}(n+1)
+-2 E_{kx}(n)+E_{kx}(n-1)\right]
+\\
+=
+\frac{\delta t^2}{(n c \delta)^2}
+\left[E_{kx}(n-1)e^{-j k\delta}-2 E_{kx}(n-1)
++E_{kx}(n-1)e^{j k\delta}\right]
+\\
+=
+\frac{2\delta t^2 [cos(-k\delta)-1]}{(n c \delta)^2}
+E_{kx}(n-1)
+\equiv
+A_k E_{kx}(n-1)
+$$
+We can study it as a recurrence relation,
+$$
+E_{kx}(n+1)
+=2 E_{kx}(n)+(A_k-1)E_{kx}(n-1)
+$$$$
+a^2-2 a -(A_k-1)=0
+$$$$
+a_1=\frac{2+\sqrt{4+4(A_k-1)}}{2}=1+\sqrt{A_k}
+,\ 
+a_2=1-\sqrt{A_k}
+$$
+Obviously, the stable condition is,
+$$
+\|a_{1,2}\|\leq 1
+$$
+As a result, we have, 
+$$
+\left|1 \pm \frac{\delta t}{n c \delta} \sqrt{2[cos(k\delta)-1]}\right|
+\leq 1
+$$
+
+<!--
++[H函数](,稳定性问题)
+
+如果我们考虑一下用虚数对\(A_k\)进行修正, 
+虚数修正(html):...
+解决方案(html):...
+
+龙格库塔方法::文档\数学问题\龙格库塔方法.ftxt
++[打开文件](+新窗口,龙格库塔方法)
+
+-->
+## end
+#30, 3:
+277
+## end
+#33, 1071:
+<!--
++[H函数](,虚数修正)
+场景(画板):...
++画板(场景,)
+画板(场景,)->+[del](,画板)
++[画板](+新画板,场景)
+-->
+%场景<br>
+
+Let's talk about how to modify the \(A_k\) to make \(|1\pm \sqrt{A_k}|=1\).<br>
+First of all, let's assume \(A_k\leq 0\), then,
+$$
+1\pm \sqrt{A_k}\equiv 1\pm i a_k
+,\ 
+a_k=\frac{\delta t}{n c \delta} \sqrt{2[1-cos(k\delta)]}
+$$
+The modulus of the number is,
+$$
+\|1\pm i a_k\|^2=1+a_k^2=1+\frac{2 \delta t^2}{(n c \delta)^2} [1-cos(k\delta)]
+$$
+Then, the modified number with modulus 1 is,
+$$
+\frac{1\pm i a_k}{\sqrt{1+a_k^2}}
+=1+\frac{1-\sqrt{1+a_k^2}\pm i a_k}{\sqrt{1+a_k^2}}
+\equiv 1+b_k
+$$
+So the way to do the modification is, 
+$$
+{A'}_k=M_k A_k
+\\
+M_k\equiv \frac{b_k^2}{A_k}
+=-\frac{(1-\sqrt{1+a_k^2}\pm i a_k)^2}{a_k^2 (1+a_k^2)}
+$$
+In the equation,
+$$
+\left(1-\sqrt{1+a_k^2}\pm i a_k\right)^2
+=1-a_k^2+1+a_k^2-2(1\pm i a_k)\sqrt{1+a_k^2}
+\\
+=2-2(1\pm i a_k)\sqrt{1+a_k^2}
+$$
+Then,
+$$
+M_k
+=\frac{2(1\pm i a_k)\sqrt{1+a_k^2}-2}{a_k^2 (1+a_k^2)}
+=\frac{2(1\pm i a_k)}{a_k^2 \sqrt{1+a_k^2}}
+-\frac{2}{a_k^2 (1+a_k^2)}
+$$
+OK, I don't think it's helpful. 
+
+
+<!--
++[H函数](,虚数修正)
+-->
+## end
+#36, 83:
++[返回目录](,场景)
+
+坐标系:...
+圆形:...
+虚部:...
++[创建单向箭头](,虚部)
+
+[选中](场景,_物体)->+[阅读节点](场景,_物体)
+
+
+## end
+#38, 148:
++[返回目录](,坐标系)
++[设置结构](,坐标系)
+
+起点::-200,100
+尺寸::100,100
+类型::矩形
+
+原点::0.5,0.5
+x坐标::Re(z)
+y坐标::Im(z)
+
+可选::NO
+
+画图:...
+选中区域:...
+HTML:...
+
++[创建输入](可选,画图)
+
+
+
+## end
+#49, 1487:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+def drawArrow(qp,pt1,pt2):
+    angle=30
+    l=30
+    D=0
+    d=10
+    
+    lineWidth=2
+    
+    edgeColor=[0,0,0]
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+    
+    r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+    if r!=0:
+        theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+    dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+    dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+    
+    pt10=[0,0]
+    pt20=[0,0]
+    pt10[0]=pt1[0]
+    pt10[1]=pt1[1]
+    pt20[0]=pt2[0]
+    pt20[1]=pt2[1]
+    
+    
+    path2=QPainterPath()
+    path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+    path2.lineTo(pt20[0],pt20[1])
+    path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+    
+    qp.drawPath(path2)
+    
+    
+    qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+    
+    qp.setBrush(QBrush())
+    qp.setPen(QPen())
+
+
+pt=起点
+size=尺寸
+orig=[pt[0]+size[0]*原点[0],pt[1]+size[1]*原点[1]]
+
+qp.setFont(QFont("Decorative",15))
+
+pt1=[pt[0],orig[1]]
+pt2=[pt[0]+size[0],orig[1]]
+qp.drawText(pt2[0],pt2[1],100,30,Qt.AlignLeft|Qt.AlignVCenter,x坐标)
+drawArrow(qp,pt1,pt2)
+
+pt1=[orig[0],pt[1]]
+pt2=[orig[0],pt[1]+size[1]]
+qp.drawText(pt2[0],pt2[1]-30,100,30,Qt.AlignLeft|Qt.AlignVCenter,y坐标)
+drawArrow(qp,pt1,pt2)
+
+
+qp.drawText(orig[0],orig[1],30,30,Qt.AlignHCenter|Qt.AlignVCenter,'O')
+qp.setFont(QFont())
+
+
+## end
+#55, 677:
+"""
++[返回目录](,选中框)
+
+"""
+
+
+X=[pt[0],pt[0]+size[0]/2,pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]/2,pt[1]+size[1]]
+R=6
+
+qp.setBrush(QBrush())
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[0]-R,2*R,2*R)
+
+if size[0]>30 or size[0]<-30:
+    qp.drawEllipse(X[1]-R,Y[0]-R,2*R,2*R)
+    qp.drawEllipse(X[1]-R,Y[2]-R,2*R,2*R)
+
+if size[1]>30 or size[1]<-30:
+    qp.drawEllipse(X[0]-R,Y[1]-R,2*R,2*R)
+    qp.drawEllipse(X[2]-R,Y[1]-R,2*R,2*R)
+
+
+qp.drawEllipse(X[0]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+## end
+#56, 1487:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+def drawArrow(qp,pt1,pt2):
+    angle=30
+    l=30
+    D=0
+    d=10
+    
+    lineWidth=2
+    
+    edgeColor=[0,0,0]
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+    
+    r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+    if r!=0:
+        theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+    dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+    dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+    
+    pt10=[0,0]
+    pt20=[0,0]
+    pt10[0]=pt1[0]
+    pt10[1]=pt1[1]
+    pt20[0]=pt2[0]
+    pt20[1]=pt2[1]
+    
+    
+    path2=QPainterPath()
+    path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+    path2.lineTo(pt20[0],pt20[1])
+    path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+    
+    qp.drawPath(path2)
+    
+    
+    qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+    
+    qp.setBrush(QBrush())
+    qp.setPen(QPen())
+
+
+pt=起点
+size=尺寸
+orig=[pt[0]+size[0]*原点[0],pt[1]+size[1]*原点[1]]
+
+qp.setFont(QFont("Decorative",15))
+
+pt1=[pt[0],orig[1]]
+pt2=[pt[0]+size[0],orig[1]]
+qp.drawText(pt2[0],pt2[1],100,30,Qt.AlignLeft|Qt.AlignVCenter,x坐标)
+drawArrow(qp,pt1,pt2)
+
+pt1=[orig[0],pt[1]]
+pt2=[orig[0],pt[1]+size[1]]
+qp.drawText(pt2[0],pt2[1]-30,100,30,Qt.AlignLeft|Qt.AlignVCenter,y坐标)
+drawArrow(qp,pt1,pt2)
+
+
+qp.drawText(orig[0],orig[1],30,30,Qt.AlignHCenter|Qt.AlignVCenter,'O')
+qp.setFont(QFont())
+
+
+## end
+#57, 263:
+"""
++[返回目录](,选中区域)
+输入:...
++[设置结构](,输入)
+
+"""
+
+pt=起点
+pt0=mouse_pos
+size=尺寸
+
+X=[pt[0],pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]]
+
+if (pt0[0]-X[0])*(pt0[0]-X[1])<=0 and (pt0[1]-Y[0])*(pt0[1]-Y[1])<=0:
+    state=True
+else:
+    state=False
+
+
+if 可选=='NO':
+    state=False
+
+
+
+## end
+#60, 14:
++[返回目录]
++[内容]
+
+## end
+#61, 1637:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+
+function drawArrow(pt1,pt2,ctx) {
+    //arrows
+    var angle=30/180*Math.PI;
+    var l=20;
+    var d=10;
+    
+    r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+    if (r!=0) {
+        theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+    }
+    
+    dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+    dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+    
+    pt10=[0,0];
+    pt20=[0,0];
+    pt10[0]=pt1[0];
+    pt10[1]=pt1[1];
+    pt20[0]=pt2[0];
+    pt20[1]=pt2[1];
+    
+    
+    ctx.strokeStyle='rgb(0,0,0)';
+    ctx.lineWidth=2;
+    ctx.fillStyle='rgb(0,0,0,0)';
+    
+    
+    ctx.beginPath();
+    
+    
+    //ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+    //ctx.lineTo(pt10[0],pt10[1]);
+    //ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+    
+    ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+    ctx.lineTo(pt20[0],pt20[1]);
+    ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+    
+    
+    ctx.moveTo(pt10[0],pt10[1]);
+    ctx.lineTo(pt20[0],pt20[1]);
+    
+    ctx.stroke()
+    ctx.fill()
+}
+
+
+var pt=[%起点]
+var size=[%尺寸]
+var ratio=[%原点]
+var orig=[pt[0]+size[0]*ratio[0],pt[1]+size[1]*ratio[1]]
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='left'
+ctx.textBaseline='top'
+ctx.font=30+'px serif'
+
+pt1=[pt[0],orig[1]]
+pt2=[pt[0]+size[0],orig[1]]
+drawArrow(pt1,pt2,ctx)
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.fillText('%x坐标',pt2[0],pt2[1])
+
+pt1=[orig[0],pt[1]]
+pt2=[orig[0],pt[1]+size[1]]
+drawArrow(pt1,pt2,ctx)
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.fillText('%y坐标',pt2[0],pt2[1])
+
+ctx.fillText('O',orig[0],orig[1])
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#64, 14:
++[返回目录]
++[内容]
+
+## end
+#65, 137:
++[返回目录](,输入)
+
+面颜色::255,255,255
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+文字::测试
+字体::20
+尺寸::100,100
+起点::-200,100
+坐标范围::-1,1-1,1
+x坐标::x
+y坐标::y
+可选::NO
+
+## end
+#72, 24:
+-233.03125, 184.91015625
+## end
+#73, 22:
+492.0625, -377.8203125
+## end
+#74, 2:
+矩形
+## end
+#75, 7:
+0.5,0.5
+## end
+#76, 5:
+Re(z)
+## end
+#77, 5:
+Im(z)
+## end
+#78, 2:
+NO
+## end
+#80, 144:
++[返回目录](,圆形)
+
+中心::200,100
+半径::100
+类型::圆形
+角度::0
+
+
+面颜色::255,255,0
+线颜色::None
+线型::DashLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+## end
+#92, 540:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#98, 493:
+"""
++[返回目录](,选中框)
+
+"""
+
+X=[pt[0],pt[0]+r*np.cos(theta),pt[0]+r]
+Y=[pt[1],pt[1]-r*np.sin(theta),pt[1]]
+R=6
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+
+qp.setPen(QPen(Qt.black,1,Qt.DashLine))
+qp.drawLine(X[0],Y[0],X[1],Y[1])
+qp.setPen(QPen(Qt.black,1,Qt.SolidLine))
+qp.drawLine(X[0],Y[0],X[2],Y[2])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+
+
+## end
+#99, 540:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#100, 2:
+圆形
+## end
+#101, 164:
+"""
++[返回目录](,选中区域)
+输入:...
+
+"""
+
+pt=中心
+r=半径[0]
+pt0=mouse_pos
+
+Dx=pt[0]-pt0[0]
+Dy=pt[1]-pt0[1]
+Dr=np.sqrt(Dx**2+Dy**2)
+
+if Dr<=r:
+    state=True
+else:
+    state=False
+## end
+#104, 14:
++[返回目录]
++[内容]
+
+## end
+#105, 39:
++[返回目录](,输入)
++[内容]
+中心::200,100
+半径::100
+
+## end
+#108, 422:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.beginPath();
+ctx.arc(%中心,%半径,0,2*Math.PI)
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fill();
+}
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(0,0,0)';
+} else {
+        ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        ctx.stroke();
+}
+
+
+
+//ctx.stroke()
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#110, 66:
++[返回目录](,输入)
+
+角度::0
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#118, 10:
+13.0, -5.0
+## end
+#119, 17:
+114.0175425099138
+## end
+#120, 17:
+-93.3664606634298
+## end
+#121, 4:
+None
+## end
+#122, 5:
+0,0,0
+## end
+#123, 8:
+DashLine
+## end
+#124, 1:
+2
+## end
+#126, 105:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#136, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#142, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#143, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#144, 2:
+直线
+## end
+#145, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#149, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#152, 14:
++[返回目录]
++[内容]
+
+## end
+#153, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#155, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#156, 950:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+var pt1=[%起点];
+var pt2=[%终点];
+
+
+//arrows
+var angle=30/180*Math.PI;
+var l=20;
+var d=10;
+
+r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+if (r!=0) {
+    theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+}
+
+dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+
+pt10=[0,0];
+pt20=[0,0];
+pt10[0]=pt1[0];
+pt10[1]=pt1[1];
+pt20[0]=pt2[0];
+pt20[1]=pt2[1];
+
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+ctx.fillStyle='rgb(0,0,0,0)';
+
+
+ctx.beginPath();
+
+
+//ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+//ctx.lineTo(pt10[0],pt10[1]);
+//ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+
+ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+
+
+ctx.moveTo(pt10[0],pt10[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+
+ctx.stroke()
+ctx.fill()
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#158, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#164, 38:
+127.56174818974989, -4.108503301749977
+## end
+#165, 12:
+128.0, -95.0
+## end
+#166, 5:
+0,0,0
+## end
+#167, 8:
+DashLine
+## end
+#168, 1:
+1
+## end
+#169, 129:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+## end
+#180, 450:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#186, 450:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#187, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#188, 2:
+直线
+## end
+#189, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#193, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#196, 14:
++[返回目录]
++[内容]
+
+## end
+#197, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#199, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#200, 273:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+if('%线型'==='DashLine') {
+    ctx.setLineDash([5,5])
+}
+
+ctx.beginPath();
+ctx.moveTo(%起点);
+ctx.lineTo(%终点)
+ctx.stroke();
+ctx.setLineDash([])
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#202, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#208, 12:
+127.5, -94.0
+## end
+#209, 10:
+12.5, -2.0
+## end
+#210, 5:
+0,0,0
+## end
+#211, 8:
+DashLine
+## end
+#212, 1:
+1
+## end
+#213, 1:
+1
+## end
+#214, 8:
+DashLine
+## end
+#215, 5:
+0,0,0
+## end
+#216, 12:
+102.0, -73.0
+## end
+#217, 38:
+127.56174818974989, -4.108503301749977
+## end
+#223, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#225, 950:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+var pt1=[%起点];
+var pt2=[%终点];
+
+
+//arrows
+var angle=30/180*Math.PI;
+var l=20;
+var d=10;
+
+r=Math.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2);
+if (r!=0) {
+    theta=Math.sign(pt1[1]-pt2[1])*Math.acos((pt2[0]-pt1[0])/r);
+}
+
+dp21=[l*Math.cos(theta-angle/2),-l*Math.sin(theta-angle/2)];
+dp22=[l*Math.cos(theta+angle/2),-l*Math.sin(theta+angle/2)];
+
+pt10=[0,0];
+pt20=[0,0];
+pt10[0]=pt1[0];
+pt10[1]=pt1[1];
+pt20[0]=pt2[0];
+pt20[1]=pt2[1];
+
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+ctx.fillStyle='rgb(0,0,0,0)';
+
+
+ctx.beginPath();
+
+
+//ctx.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1]);
+//ctx.lineTo(pt10[0],pt10[1]);
+//ctx.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1]);
+
+ctx.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+ctx.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1]);
+
+
+ctx.moveTo(pt10[0],pt10[1]);
+ctx.lineTo(pt20[0],pt20[1]);
+
+ctx.stroke()
+ctx.fill()
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#226, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#228, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#229, 14:
++[返回目录]
++[内容]
+
+## end
+#232, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#236, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#237, 2:
+直线
+## end
+#238, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#239, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#245, 1161:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+angle=30
+l=30
+D=0
+d=10
+
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+    qp.setBrush(QBrush())
+
+r=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+if r!=0:
+    theta=np.rad2deg(np.sign(pt1[1]-pt2[1])*np.arccos((pt2[0]-pt1[0])/r))
+dp21=[l*np.cos(np.deg2rad(theta-angle/2)),-l*np.sin(np.deg2rad(theta-angle/2))]
+dp22=[l*np.cos(np.deg2rad(theta+angle/2)),-l*np.sin(np.deg2rad(theta+angle/2))]
+
+pt10=[0,0]
+pt20=[0,0]
+pt10[0]=pt1[0]
+pt10[1]=pt1[1]
+pt20[0]=pt2[0]
+pt20[1]=pt2[1]
+
+#path1=QPainterPath()
+#path1.moveTo(pt10[0],pt10[1])
+#path1.moveTo(pt10[0]+dp21[0],pt10[1]+dp21[1])
+#path1.lineTo(pt10[0],pt10[1])
+#path1.lineTo(pt10[0]+dp22[0],pt10[1]+dp22[1])
+
+path2=QPainterPath()
+#path2.moveTo(pt20[0],pt20[1])
+path2.moveTo(pt20[0]-dp21[0],pt20[1]-dp21[1])
+path2.lineTo(pt20[0],pt20[1])
+path2.lineTo(pt20[0]-dp22[0],pt20[1]-dp22[1])
+
+#qp.drawPath(path1)
+qp.drawPath(path2)
+
+
+qp.drawLine(pt10[0],pt10[1],pt20[0],pt20[1])
+
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#255, 105:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#259, 1:
+1
+## end
+#261, 8:
+600, 400
+## end
+#263, 10:
+0.0, -50.0
+## end
+#267, 19:
+文档\数学问题\龙格库塔方法.ftxt
+## end
+#268, 3:
+282
+## end
+#271, 3791:
+<!--
++[返回目录](,解决方案)
++[H函数](,解决方案)
+
+参考::file:////media/xiantao/Elements/paper/FDTD/script0910.pdf#page=83
++[打开网页](,参考)
+-->
+<b><u>总体思想</u></b><br>
+首先是数值方法处理微分方程的根本问题是, 无法获得某点处的微分而只能用其它位置的微分来代替. 用不同位置的微分会造成不同的偏差, 这样的话, 不同数值方法的效果就有好有坏了. <br>
+<br>
+而时间上的微分和空间上的微分是有很大不同的, 主要是可以使用的条件不同. <br>
+因为, 任意时刻, 空间上各个位置处的分布都是已知的. 而当计算某一时刻的分布时, 未来任意时刻的分布自然都是未知的. 所以, 时间上有些位置的的分布并不能直接使用. 根据使用了什么时刻的分布进行数值计算, 我们可以把计算方法分为 <b>Explicit</b> 和 <b>Implicit</b> 两类. 其中, <br>
+Explicit 的方法是只用过去的分布计算目标分布. <br>
+Implicit 则会联立未来的分布构成一个代数方程从而通过求解方程来获得目标分布. <br>
+<br>
+由于计算空间微分时, 我们可以随意选取任意格点的分布, 所以, 空间上的微分时可以直接通过泰勒展开, 来获得任意阶精度的差分表达式的. <br>
+而计算时间微分时, 我们可以使用的格点是受限制的. 那这时, 我们是用
+<a href="https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods">龙格库塔方法</a>
+来进行任意阶精度的差分. <br>
+<br>
+观察方程, 
+$$
+\left[E_x(i;n+1)
+-2 E_x(i;n)+E_x(i;n-1)\right]
+\\
+=
+\frac{\delta t^2}{(n c \delta)^2}
+\left[E_x(i+1;n-1)-2 E_x(i;n-1)
++E_x(i-1;n-1)\right]
+$$
+问题显然出在时间微分上. 在这里, 我们使用了\(n-1\)时刻的空间分布来计算\(n\)时刻的二阶导. 这样的计算结果明显有很大的偏差. <br>
+<br>
+<b><u>解决方案</u></b><br>
+我们有两套简单的解决方案, <br>
+Explicit:
+$$
+\left[E_x(i;n+1)
+-2 E_x(i;n)+E_x(i;n-1)\right]
+\\
+=
+\frac{\delta t^2}{(n c \delta)^2}
+\left[E_x(i+1;n)-2 E_x(i;n)
++E_x(i-1;n)\right]
+$$
+Implicit:
+$$
+\left[E_x(i;n+1)
+-2 E_x(i;n)+E_x(i;n-1)\right]
+\\
+=
+\frac{\delta t^2}{2(n c \delta)^2}
+\left[
+E_x(i+1;n+1)-2 E_x(i;n+1)+E_x(i-1;n+1)
+\right]
+\\
++
+\frac{\delta t^2}{2(n c \delta)^2}
+\left[
+E_x(i+1;n-1)-2 E_x(i;n-1)+E_x(i-1;n-1)
+\right]
+$$
+<br>
+<b><u>稳定性分析::Explicit</u></b><br>
+
+Assume that,
+$$
+E_x(i;n)=E_{kx}(n)e^{-j ki \delta}
+$$
+Put it into the wave equation, we will have,
+$$
+\left[E_{kx}(n+1)
+-2 E_{kx}(n)+E_{kx}(n-1)\right]
+\\
+=
+\frac{\delta t^2}{(n c \delta)^2}
+\left[E_{kx}(n)e^{-j k\delta}-2 E_{kx}(n)
++E_{kx}(n)e^{j k\delta}\right]
+\\
+=
+\frac{2\delta t^2 [cos(-k\delta)-1]}{(n c \delta)^2}
+E_{kx}(n)
+\equiv
+A_k E_{kx}(n)
+$$
+We can study it as a recurrence relation,
+$$
+E_{kx}(n+1)
+=2 E_{kx}(n)-E_{kx}(n-1)+A_k E_{kx}(n)
+$$$$
+a^2-(2+A_k) a +1=0
+$$$$
+a_1=\frac{(2+A_k)+\sqrt{(2+A_k)^2-4}}{2}
+=(1+A_k/2)+\sqrt{(1+A_k/2)^2-1}
+\\
+a_2=(1+A_k/2)-\sqrt{(1+A_k/2)^2-1}
+$$
+Obviously, the stable condition is,
+$$
+\|a_{1,2}\|\leq 1
+$$
+If \((1+A_k/2)^2-1\leq 0\), Then, 
+$$
+\|a_{1,2}\|
+=
+(1+A_k/2)^2-(1+A_k/2)^2+1=1
+$$
+which is stable. <br>
+To make the condition true, then we need,
+$$
+-1\leq 1+A_k/2 \leq 1
+\\
+\Rightarrow
+-1\leq 1+\frac{\delta t^2}{(n c \delta)^2}[cos(-k\delta)-1] \leq 1
+\\
+\Rightarrow
+-2\leq \frac{\delta t^2}{(n c \delta)^2}[cos(-k\delta)-1] \leq 0
+\Rightarrow
+\frac{\delta t^2}{(n c \delta)^2} \leq 1
+$$
+It is the stable condition. 
+<br><br>
+
+
+
+<b><u>稳定性分析::Implicit</u></b><br>
+
+Assume that,
+$$
+E_x(i;n)=E_{kx}(n)e^{-j ki \delta}
+$$
+Put it into the wave equation, we will have,
+$$
+\left[E_{kx}(n+1)
+-2 E_{kx}(n)+E_{kx}(n-1)\right]
+\\
+=
+\frac{\delta t^2}{2(n c \delta)^2}
+\left[
+E_{kx}(n+1)e^{-j k\delta}-2 E_{kx}(n+1)+E_{kx}(n+1)e^{j k\delta}
+\right]
+\\
++
+\frac{\delta t^2}{2(n c \delta)^2}
+\left[
+E_{kx}(n-1)e^{-j k\delta}-2 E_{kx}(n-1)+E_{kx}(n-1)e^{j k\delta}
+\right]
+\\
+=\frac{\delta t^2 [cos(-k\delta)-1]}{(n c \delta)^2}
+\left[
+E_{kx}(n+1)+E_{kx}(n-1)
+\right]
+\equiv
+\frac{A_k}{2}[E_{kx}(n+1)+E_{kx}(n-1)]
+$$
+<!--
++[H函数](,解决方案)
+-->
+
+
+We can study it as a recurrence relation,
+$$
+E_{kx}(n+1)
+=2 E_{kx}(n)-E_{kx}(n-1)+\frac{A_k}{2}[E_{kx}(n+1)+E_{kx}(n-1)]
+$$$$
+\left(1-\frac{A_k}{2}\right)a^2-2a +\left(1-\frac{A_k}{2}\right)=0
+$$$$
+a_1=\frac{1+\sqrt{1-(1-A_k/2)^2}}{1-A_k/2}
+\equiv
+\beta+\sqrt{\beta^2-1}
+\\
+a_2=\beta-\sqrt{\beta^2-1}
+$$
+
+
+Obviously, the stable condition is,
+$$
+\|a_{1,2}\|\leq 1
+$$
+With the property,
+$$
+A_k=\frac{\delta t^2 [cos(-k\delta)-1]}{(n c \delta)^2}\leq 0,
+\ 
+\beta=\frac{1}{1-A_k/2}\leq 1
+$$
+Then,
+$$
+\|a_{1,2}\|= 1
+$$
+It is always true. <br>
+<br>
+好了, 那么接下来的问题就是, Explicit 和 Implicit 的这两套方案, 在FDTD的方程上分别应该如何实现? 
+
+
+
+
+<!--
++[H函数](,解决方案)
++[新建阅读窗口](,解决方案)
+-->
+## end
+#274, 65:
+file:////media/xiantao/Elements/paper/FDTD/script0910.pdf#page=83
+## end
+#276, 3:
+297
+## end
+#279, 1719:
+%{
++[M函数](,入射波)
+
+入射条件(M函数):...
++[M函数](,入射条件)
+%}
+
+physics_constant;
+dx=50e-9;
+dt=dx/c;
+n_r=1;
+mu=1;
+
+N=1000;
+T=2000;
+
+lm0=500e-9;
+A=[1,1i];
+fx=@(t)A(1)*exp(-1i*2*pi*t*c/lm0);
+fy=@(t)A(2)*exp(-1i*2*pi*t*c/lm0);
+
+t1=(1:T)*dt;
+t2=(1:T)*dt+dt/2;
+Ex_in=real(fx(t1));
+Ey_in=real(fy(t1));
+Bx_in=-real(fy(t2))/c;
+By_in=real(fx(t2))/c;
+
+
+x=(1:2*N-1)*dx/2;
+x_E=x(1:2:2*N-1);
+x_B=x(2:2:2*N-1);
+
+Ex=zeros(1,N);
+Ey=zeros(1,N);
+Bx=zeros(1,N-1);
+By=zeros(1,N-1);
+
+t=0;
+
+Ex_out=zeros(1,T);
+Ey_out=zeros(1,T);
+Bx_out=zeros(1,T);
+By_out=zeros(1,T);
+
+for n=1:T
+    dEx=zeros(size(Ex));
+    dEy=zeros(size(Ey));
+    Ex(1)=Ex_in(n);
+    Ey(1)=Ey_in(n);
+    Bx(1)=Bx_in(n);
+    By(1)=By_in(n);
+    
+    Ex(N)=Ex(N-1);
+    Ey(N)=Ey(N-1);
+    for i=2:N-1
+        dEx(i)=-(By(i)-By(i-1))*c^2*n_r^2/dx;
+        dEy(i)=(Bx(i)-Bx(i-1))*c^2*n_r^2/dx;
+    end
+    Ex=Ex+dEx*dt;
+    Ey=Ey+dEy*dt;
+    
+    
+    dBx=zeros(size(Bx));
+    dBy=zeros(size(By));
+    for i=1:N-1
+        dBx(i)=(Ey(i+1)-Ey(i))/dx;
+        dBy(i)=-(Ex(i+1)-Ex(i))/dx;
+    end
+    Bx=Bx+dBx*dt;
+    By=By+dBy*dt;
+    
+    t=t+dt;
+    
+    
+    %{
+    if mod(n,15)==1
+        subplot(2,2,1)
+        plot(x_E/1e-6,Ex);
+        xlabel('x [um]')
+        title('E_x')
+    
+        subplot(2,2,2)
+        plot(x_E/1e-6,Ey);
+        xlabel('x [um]')
+        title('E_y')
+    
+        subplot(2,2,3)
+        plot(x_B/1e-6,Bx);
+        xlabel('x [um]')
+        title('B_x')
+    
+        subplot(2,2,4)
+        plot(x_B/1e-6,By);
+        xlabel('x [um]')
+        title('B_y')
+        pause(0.01)
+    end
+    %}
+    
+    Ex_out(n)=Ex(end);
+    Ey_out(n)=Ey(end);
+    Bx_out(n)=Bx(end);
+    By_out(n)=By(end);
+
+end
+
+%{
++[M函数](,入射波)
+
+分析输出(M函数):...
++[M函数](,分析输出)
+(计算相速度. 通过计算相速度来分析能谱. )
+%}
+
+## end
+#282, 596:
+%{
++[M函数](,入射条件)
+
+磁场与电场的关系(html):...
++[H函数](,磁场与电场的关系)
+%}
+clf
+
+physics_constant;
+
+lm0=500e-9;
+A=[1,1i];
+fx=@(t)A(1)*exp(-1i*2*pi*t*c/lm0);
+fy=@(t)A(2)*exp(-1i*2*pi*t*c/lm0);
+
+t1=(1:T)*dt;
+t2=(1:T)*dt+dt/2;
+Ex_in=real(fx(t1));
+Ey_in=real(fy(t1));
+Bx_in=-real(fy(t2))/c;
+By_in=real(fx(t2))/c;
+
+subplot(2,2,1)
+plot(t1/1e-15,Ex_in);
+xlabel('t [fs]')
+title('E_x(t)')
+
+subplot(2,2,2)
+plot(t1/1e-15,Ey_in);
+xlabel('t [fs]')
+title('E_y(t)')
+
+subplot(2,2,3)
+plot(t2/1e-15,Bx_in);
+xlabel('t [fs]')
+title('B_x(t)')
+
+subplot(2,2,4)
+plot(t2/1e-15,By_in);
+xlabel('t [fs]')
+title('B_y(t)')
+
+
+%{
++[M函数](,入射条件)
+%}
+## end
+#285, 313:
+<!--
++[返回目录](,磁场与电场的关系)
+
++[H函数](,磁场与电场的关系)
+-->
+
+$$
+\nabla\times \vec{E}=-\frac{\partial \vec{B}}{\partial t}
+$$$$
+i\vec{k}\times \vec{E}=i\omega \vec{B}
+$$$$
+\vec{B}=\frac{\hat{k}\times \vec{E}}{c}
+$$
+
+Since \(\hat{k}=(0,0,1)\), then we have,
+$$
+(B_x,B_y,0)=\frac{1}{c}(-E_y,E_x,0)
+$$
+
+
+<!--
++[H函数](,磁场与电场的关系)
+-->
+## end
+#288, 152:
+%{
++[M函数](,分析输出)
+%}
+
+physics_constant;
+t1=(1:T)*dt;
+t2=(1:T)*dt+dt/2;
+
+Dx=max(x)-min(x);
+Dt=min(t1(Ex_out>0.1));
+v_ph=Dx/Dt/c
+plot(t1,Ex_in,t1,Ex_out)
+
+
+## end
+#290, 3:
+299
+## end
+#293, 3205:
+<!--
++[H函数](,等离子体方程)
+
++[新建阅读窗口](,等离子体方程)
+-->
+
+
+
+By combining FDTD and cold flow equations, we have, 
+$$
+\begin{cases}
+\nabla\times \vec{E}=-\frac{\partial \vec{B}}{\partial t}
+\\
+\nabla\times \vec{B}=\mu_0\epsilon_0\frac{\partial \vec{E}}{\partial t}
++\mu_0\vec{J}
+\\
+\nabla\cdot \vec{J}=-\frac{\partial \rho}{\partial t}
+\\
+\nabla\cdot (\vec{v}n\vec{p})=-\frac{\partial}{\partial t}(n\vec{p})+\vec{F}
+\\
+\vec{F}=\rho(\vec{E}+\vec{v}\times\vec{B})
+\end{cases}
+$$
+
+We can prove in a cold flow, the momentum conservation and the energy conservation are same, 
+$$
+\nabla\cdot (\frac{\vec{v}\vec{v}^2}{2}n m_e)=-\frac{\partial }{\partial t}(\frac{n m_e \vec{v}^2}{2})+\vec{v}\cdot \vec{F}
+$$
+The equation can be divided by terms,
+$$
+\nabla\cdot (\frac{\vec{v}\vec{v}^2}{2}n)
+=
+\frac{\vec{v}^2}{2}\nabla\cdot (\vec{v} n)
++
+(\vec{v} n) \cdot\nabla \frac{\vec{v}^2}{2}
+$$$$
+\frac{\partial }{\partial t}(\frac{n \vec{v}^2}{2})
+=
+(\frac{\vec{v}^2}{2})\frac{\partial n}{\partial t}
++
+n \frac{\partial }{\partial t}(\frac{\vec{v}^2}{2})
+$$
+The energy conservation equation becomes,
+$$
+(\vec{v} n m_e) \cdot\nabla \frac{\vec{v}^2}{2}
+=
+-n m_e \frac{\partial }{\partial t}(\frac{\vec{v}^2}{2})
++
+\vec{v}\cdot \vec{F}
+$$
+Similarly, the momentum conservation looks like, 
+$$
+(\vec{v} n m_e)\cdot\nabla \vec{v}
+=
+-n m_e\frac{\partial \vec{v}}{\partial t}
++\vec{F}
+$$
+Obviously, they are same. <br>
+<br>
+
+
+<b><u>1D flow equations</u></b><br>
+In 1D situation, \(\frac{\partial}{\partial x}=0, \frac{\partial}{\partial y}=0\), then we have, 
+$$
+\nabla\cdot(n \vec{v})=\frac{\partial (n v_z)}{\partial z}
+=-\frac{\partial n}{\partial t}
+$$$$
+(\vec{v}n m_e)\cdot \nabla v_i
+=
+(n m_e v_z)\frac{\partial}{\partial z} v_i
+=
+-n m_e \frac{\partial v_i}{\partial t}+F_i
+$$
+Or,
+$$
+\begin{cases}
+\frac{\partial }{\partial z}(n v_z)
+=-\frac{\partial n}{\partial t}
+\\
+(n m_e v_z)\frac{\partial v_i}{\partial z}
+=
+-n m_e \frac{\partial v_i}{\partial t}+F_i
+\end{cases}
+$$
+It's easy to see that, if the density is uniform over the space, then the flow equations are just a single particle dynamic equation. <br>
+<br>
+
+
+
+<b><u>Numerical equations</u></b><br>
+The easiest form of 1D numerical equations are, 
+$$
+\begin{cases}
+\frac{1}{\delta t}[n(k;n+1)-n(k;n)]
+=
+-\frac{1}{2\delta}[n(k+1;n) v_z(k+1;n)-n(k-1;n) v_z(k-1;n)]
+\\
+F_x(k;n)=-e E_x(k;n) - e[v_y(k;n) B_z(k;n)-v_z(k;n) B_y(k;n)]
+\\
+F_y(k;n)=-e E_y(k;n) - e[v_z(k;n) B_x(k;n)-v_x(k;n) B_z(k;n)]
+\\
+F_z(k;n)=-e E_z(k;n) - e[v_x(k;n) B_y(k;n)-v_y(k;n) B_x(k;n)]
+
+\\
+\frac{1}{\delta t}\left[
+v_i(k;n+1)-v_i(k;n)
+\right]
+=-\frac{v_z(k;n) }{2\delta}\left[
+v_i(k+1;n)-v_i(k-1;n)
+\right]
++\frac{1}{m_e}F_i(k;n)
+
+\end{cases}
+$$
+And the FDTD equations are, 
+$$
+\begin{cases}
+
+\frac{E_x(k;n+1)}{\delta t}
+=\frac{E_x(k;n)}{\delta t}
+-\frac{B_y(k;n)-B_y(k-1;n)}{\delta}n(k;n)^2 c^2-\mu_0 J_x(k;n)
+\\
+\frac{E_y(k;n+1)}{\delta t}
+=\frac{E_y(k;n)}{\delta t}
++\frac{B_x(k;n)-B_x(k-1;n)}{\delta}n(k;n)^2 c^2-\mu_0 J_y(k;n)
+\\
+\frac{B_x(k;n+1)}{\delta t}
+=\frac{B_x(k;n)}{\delta t}
++\frac{E_y(k+1;n+1)-E_y(k;n+1)}{\delta}
+\\
+\frac{B_y(k;n+1)}{\delta t}
+=\frac{B_y(k;n)}{\delta t}
+-\frac{E_x(k+1;n+1)-E_x(k;n+1)}{\delta}
+\end{cases}
+$$
+
+<!--
++[H函数](,等离子体方程)
+
+等离子体FDTD(M函数):...
++[M函数](,等离子体FDTD)
+-->
+
+## end
+#295, 3:
+304
+## end
+#298, 2701:
+%{
++[返回目录](,等离子体FDTD)
++[新建阅读窗口](,等离子体FDTD)
++[M函数](,等离子体FDTD)
+%}
+
+physics_constant;
+dx=50e-9;
+dt=dx/c;
+n_r=1;
+mu=1;
+
+N=1000;
+T=1000;
+
+lm0=500e-9;
+A=[1,1i];
+E0=1e10;
+fx=@(t)A(1)*exp(-1i*2*pi*t*c/lm0);
+fy=@(t)A(2)*exp(-1i*2*pi*t*c/lm0);
+
+t1=(1:T)*dt;
+t2=(1:T)*dt+dt/2;
+Ex_in=E0*real(fx(t1));
+Ey_in=E0*real(fy(t1));
+Bx_in=-E0/c*real(fy(t2));
+By_in=E0/c*real(fx(t2));
+
+
+x=(1:2*N-1)*dx/2;
+x_E=x(1:2:2*N-1);
+x_B=x(2:2:2*N-1);
+
+Ex=zeros(1,N);
+Ey=zeros(1,N);
+Bx=zeros(1,N-1);
+By=zeros(1,N-1);
+
+Ex_out=zeros(1,T);
+Ey_out=zeros(1,T);
+Bx_out=zeros(1,T);
+By_out=zeros(1,T);
+
+n=zeros(1,2*N-1)+1e44;
+vx=zeros(1,2*N-1);
+vy=zeros(1,2*N-1);
+vz=zeros(1,2*N-1);
+
+for t=1:T
+    dEx=zeros(size(Ex));
+    dEy=zeros(size(Ey));
+    Ex(1)=Ex_in(t);
+    Ey(1)=Ey_in(t);
+    Bx(1)=Bx_in(t);
+    By(1)=By_in(t);
+
+    Ex(N)=Ex(N-1);
+    Ey(N)=Ey(N-1);
+    for i=2:N-1
+        dEx(i)=-(By(i)-By(i-1))*c^2*n_r^2/dx;
+        dEy(i)=(Bx(i)-Bx(i-1))*c^2*n_r^2/dx;
+    end
+    dEx=dEx+mu0*e*n(1:2:end).*vx(1:2:end);
+    dEy=dEy+mu0*e*n(1:2:end).*vy(1:2:end);
+    Ex=Ex+dEx*dt;
+    Ey=Ey+dEy*dt;
+
+
+    dBx=zeros(size(Bx));
+    dBy=zeros(size(By));
+    for i=1:N-1
+        dBx(i)=(Ey(i+1)-Ey(i))/dx;
+        dBy(i)=-(Ex(i+1)-Ex(i))/dx;
+    end
+    Bx=Bx+dBx*dt;
+    By=By+dBy*dt;
+
+    % flow
+    ex=interp1(x_E,Ex,x);
+    ey=interp1(x_E,Ey,x);
+    %ez=interp1(x_E,Ez,x);
+    ez=zeros(1,2*N-1);
+
+    bx=interp1(x_B,Bx,x);
+    by=interp1(x_B,By,x);
+    %bz=interp1(x_B,Bz,x);
+    bz=zeros(1,2*N-1);
+
+    fx=-e*ex-e*(vy.*bz-vz.*by);
+    fy=-e*ey-e*(vz.*bx-vx.*bz);
+    fz=-e*ez-e*(vx.*by-vy.*bx);
+
+    dn=zeros(1,2*N-1);
+    dvx=zeros(1,2*N-1);
+    dvy=zeros(1,2*N-1);
+    dvz=zeros(1,2*N-1);
+
+    n(1)=n(2);
+    n(N)=n(N-1);
+    vx(1)=vx(2);
+    vx(N)=vx(N-1);
+    vy(1)=vy(2);
+    vy(N)=vy(N-1);
+    vz(1)=vz(2);
+    vz(N)=vz(N-1);
+    for k=2:2*N-2
+        dn(k)=-(n(k+1)*vz(k+1)-n(k-1)*vz(k-1));
+        dvx(k)=-vz(k)*(vx(k+1)-vx(k-1))+fx(k)/me;
+        dvy(k)=-vz(k)*(vy(k+1)-vy(k-1))+fy(k)/me;
+    %    dvz(k)=-vz(k)*(vz(k+1)-vz(k-1))+fz(k)/me;
+    end
+
+    n=n+dn/dx*dt;
+    vx=vx+dvx/dx*dt;
+    vy=vy+dvy/dx*dt;
+    vz=vz+dvz/dx*dt;
+    
+
+    if mod(t,15)==1
+        subplot(2,2,1)
+        plot(x_E/1e-6,Ex);
+        xlabel('x [um]')
+        title('E_x')
+
+        subplot(2,2,2)
+        plot(x/1e-6,vx);
+        xlabel('x [um]')
+        title('v_x')
+
+        subplot(2,2,3)
+        plot(x/1e-6,n);
+        xlabel('x [um]')
+        title('n')
+
+        subplot(2,2,4)
+        plot(x/1e-6,vz);
+        xlabel('x [um]')
+        title('v_z')
+        pause(0.01)
+    end
+
+
+    Ex_out(t)=Ex(end);
+    Ey_out(t)=Ey(end);
+    Bx_out(t)=Bx(end);
+    By_out(t)=By(end);
+
+end
+
+
+%{
++[M函数](,等离子体FDTD)
+等离子体折射率(html):...
++[H函数](,等离子体折射率)
+检验模型:...
+%}
+
+## end
+#300, 3:
+306
+## end
+#302, 3:
+331
+## end
+#305, 1347:
+<!--
++[H函数](,等离子体折射率)
+-->
+
+Let us calculate some properties of lights propagating in the plasma. <br>
+<br>
+<b><u>Refractive index of plasma</u></b><br>
+For an electron in a oscillating field, the dynamic equation is,
+$$
+\vec{F}=-e \vec{E}=m_e\dot{\vec{v}}
+$$
+Since it is an oscillating field,
+$$
+\vec{E}(t)=\vec{E} e^{-i \omega t}
+$$
+Then we have,
+$$
+\vec{E}=i\omega\frac{m_e}{e}\vec{v}
+=-\frac{m_e\omega^2}{e^2}(-e\vec{r})
+=-\frac{m_e\omega^2}{n_e e^2}\vec{P}
+$$
+The density of electrons is \(n_e\), and the \(\vec{P}\) is the polarization density. As a result, the electric susceptibility of the plasma is, 
+$$
+\vec{P}=\chi\epsilon_0 \vec{E}
+=-\frac{n_e e^2}{m_e \omega^2}\vec{E}
+$$$$
+\chi=-\frac{n_e e^2}{m_e\epsilon_0 \omega^2}
+$$
+And we have the refractive index, 
+$$
+n=\frac{\sqrt{\epsilon\mu}}{\sqrt{\epsilon_0\mu_0}}
+=\sqrt{(1+\chi)}
+=\sqrt{1-\frac{n_e e^2}{m_e\epsilon_0 \omega^2}}
+\equiv \sqrt{1-\frac{\omega_p^2}{\omega^2}}
+$$$$
+\omega_p=\sqrt{\frac{n_e e^2}{m_e\epsilon_0}}
+$$
+And,
+$$
+k=\frac{n\omega}{c}=\frac{\omega}{c}\sqrt{1-\frac{\omega_p^2}{\omega^2}}
+=\frac{1}{c}\sqrt{{\omega^2}-{\omega_p^2}}
+$$
+The group velocity is, 
+$$
+dk=\frac{1}{c}d(\sqrt{{\omega^2}-{\omega_p^2}})
+=\frac{\omega d \omega}{c\sqrt{\omega^2-\omega_p^2}}
+$$$$
+v_g=\frac{d\omega}{dk}=\frac{c\sqrt{\omega^2-\omega_p^2}}{\omega}=nc
+$$
+
+<!--
++[H函数](,等离子体折射率)
+-->
+## end
+#308, 97:
++[返回目录](,检验模型)
+
+接下来我想通过比较模拟得到的等离子体折射率与理论计算到的等离子体折射率, 来确定误差大小. 
+还是需要做成函数的... 
+先是比较波矢. 
+
+波矢检测:...
+
+
+## end
+#310, 591:
+%{
++[返回目录](,波矢检测)
++[M函数](,波矢检测)
++[新建阅读窗口](,波矢检测)
+
+数值模型(M函数):...
+测量波长(M函数):...
+等离子体色散曲线(M函数):...
++[修改标题]"测量波长"(,测量波矢)
+%}
+
+addpath('C:\Users\cheng\Dropbox\Struct\Structure1.2\Nini\Matlab\FDTD');
+physics_constant;
+dx=50e-9;
+dt=dx/c;
+mu=1;
+
+N=1000;
+T=1000;
+
+A=[1,1i];
+E0=1e10;
+n_e=2e33;
+
+lm1=500e-9;
+lm2=50e-6;
+lm_x=linspace(lm1,lm2,10);
+n_r=ones(size(lm_x));
+
+for i=1:length(lm_x)
+    lm0=lm_x(i);
+    [x_E,Ex,Ey,x_B,Bx,By]=model(dx,dt,N,T,lm0,A,E0,n_e);
+    [lm,nlModel]=measure_wavelength(x_E,Ex,lm0);
+    n_r(i)=lm0/lm;
+end
+plot(lm_x,n_r)
+
+%{
++[M函数](,波矢检测)
+查看拟合曲线(M函数):...
++[M函数](,查看拟合曲线)
+%}
+## end
+#312, 2329:
+%{
++[返回目录](,数值模型)
++[M函数](,数值模型)
+地址::Matlab\FDTD\model.m
++[保存文本](,数值模型)
+
+%}
+
+function [x_E,Ex,Ey,x_B,Bx,By]=model(dx,dt,N,T,lm0,A,E0,n_e)
+physics_constant;
+
+%dx=50e-9;
+%dt=dx/c;
+
+%N=1000;
+%T=1000;
+
+%lm0=500e-9;
+%A=[1,1i];
+%E0=1e10;
+
+
+fx=@(t)A(1)*exp(-1i*2*pi*t*c/lm0);
+fy=@(t)A(2)*exp(-1i*2*pi*t*c/lm0);
+
+t1=(1:T)*dt;
+t2=(1:T)*dt+dt/2;
+Ex_in=E0*real(fx(t1));
+Ey_in=E0*real(fy(t1));
+Bx_in=-E0/c*real(fy(t2));
+By_in=E0/c*real(fx(t2));
+
+
+x=(1:2*N-1)*dx/2;
+x_E=x(1:2:2*N-1);
+x_B=x(2:2:2*N-1);
+
+Ex=zeros(1,N);
+Ey=zeros(1,N);
+Bx=zeros(1,N-1);
+By=zeros(1,N-1);
+
+Ex_out=zeros(1,T);
+Ey_out=zeros(1,T);
+Bx_out=zeros(1,T);
+By_out=zeros(1,T);
+
+n=zeros(1,2*N-1)+n_e;
+vx=zeros(1,2*N-1);
+vy=zeros(1,2*N-1);
+vz=zeros(1,2*N-1);
+
+for t=1:T
+    dEx=zeros(size(Ex));
+    dEy=zeros(size(Ey));
+    Ex(1)=Ex_in(t);
+    Ey(1)=Ey_in(t);
+    Bx(1)=Bx_in(t);
+    By(1)=By_in(t);
+
+    Ex(N)=Ex(N-1);
+    Ey(N)=Ey(N-1);
+    for i=2:N-1
+        dEx(i)=-(By(i)-By(i-1))*c^2/dx;
+        dEy(i)=(Bx(i)-Bx(i-1))*c^2/dx;
+    end
+    dEx=dEx+mu0*e*n(1:2:end).*vx(1:2:end);
+    dEy=dEy+mu0*e*n(1:2:end).*vy(1:2:end);
+    Ex=Ex+dEx*dt;
+    Ey=Ey+dEy*dt;
+
+
+    dBx=zeros(size(Bx));
+    dBy=zeros(size(By));
+    for i=1:N-1
+        dBx(i)=(Ey(i+1)-Ey(i))/dx;
+        dBy(i)=-(Ex(i+1)-Ex(i))/dx;
+    end
+    Bx=Bx+dBx*dt;
+    By=By+dBy*dt;
+
+    % flow
+    ex=interp1(x_E,Ex,x);
+    ey=interp1(x_E,Ey,x);
+    %ez=interp1(x_E,Ez,x);
+    ez=zeros(1,2*N-1);
+
+    bx=interp1(x_B,Bx,x);
+    by=interp1(x_B,By,x);
+    %bz=interp1(x_B,Bz,x);
+    bz=zeros(1,2*N-1);
+
+    fx=-e*ex-e*(vy.*bz-vz.*by);
+    fy=-e*ey-e*(vz.*bx-vx.*bz);
+    fz=-e*ez-e*(vx.*by-vy.*bx);
+
+    dn=zeros(1,2*N-1);
+    dvx=zeros(1,2*N-1);
+    dvy=zeros(1,2*N-1);
+    dvz=zeros(1,2*N-1);
+
+    n(1)=n(2);
+    n(N)=n(N-1);
+    vx(1)=vx(2);
+    vx(N)=vx(N-1);
+    vy(1)=vy(2);
+    vy(N)=vy(N-1);
+    vz(1)=vz(2);
+    vz(N)=vz(N-1);
+    for k=2:2*N-2
+        dn(k)=-(n(k+1)*vz(k+1)-n(k-1)*vz(k-1));
+        dvx(k)=-vz(k)*(vx(k+1)-vx(k-1))+fx(k)/me;
+        dvy(k)=-vz(k)*(vy(k+1)-vy(k-1))+fy(k)/me;
+    %    dvz(k)=-vz(k)*(vz(k+1)-vz(k-1))+fz(k)/me;
+    end
+
+    n=n+dn/dx*dt;
+    vx=vx+dvx/dx*dt;
+    vy=vy+dvy/dx*dt;
+    vz=vz+dvz/dx*dt;
+    
+
+    Ex_out(t)=Ex(end);
+    Ey_out(t)=Ey(end);
+    Bx_out(t)=Bx(end);
+    By_out(t)=By(end);
+
+end
+
+
+%{
++[M函数](,等离子体FDTD)
+等离子体折射率(html):...
++[H函数](,等离子体折射率)
+检验模型:...
+%}
+
+## end
+#315, 19:
+Matlab\FDTD\model.m
+## end
+#317, 458:
+%{
++[返回目录](,测量波长)
++[M函数](,测量波长)
+
+地址::Matlab\FDTD\measure_wavelength.m
++[保存文本](,测量波长)
+%}
+
+function [lm,nlModel]=measure_wavelength(x,y0,lm0)
+
+physics_constant;
+% y0=Ex(3:end);
+% x=x_E(3:end);
+
+p0=zeros(1,3);
+p0(1)=max(y0);
+p0(2)=2*pi/lm0;
+p0(3)=acos(y0(1)/p0(1));
+modelFun = @(p,x) p(1)*cos(p(2)*x+p(3));
+nlModel=fitnlm(x,y0,modelFun,p0);
+p=nlModel.Coefficients.Estimate;
+
+% plot(x_E,Ex,x_E',predict(nlModel,x_E'),'--')
+lm=2*pi/p(2);
+
+end
+
+%{
++[M函数](,测量波长)
+%}
+## end
+#320, 32:
+Matlab\FDTD\measure_wavelength.m
+## end
+#322, 206:
+%{
++[M函数](,等离子体色散曲线)
+%}
+
+physics_constant;
+n_e=1e24;
+
+omega_p=sqrt(n_e*e^2/me/epsilon0);
+lm_p=2*pi*c/omega_p
+
+lm=linspace(400e-9,33e-6,1000);
+omega=2*pi*c./lm;
+n_r=sqrt(1-omega_p^2./omega.^2);
+plot(lm,n_r)
+
+## end
+#325, 69:
+%{
++[M函数](,查看拟合曲线)
+%}
+
+
+
+plot(x_E,Ex,x_E',predict(nlModel,x_E'),'--')
+## end
+#327, 3:
+332
+## end
+#330, 386:
+FDTD算法::file:////media/xiantao/Elements/paper/FDTD/Allen75.pdf#page=3
+参考code::https://www.mathworks.com/matlabcentral/fileexchange/28297-3-d-fdtd
++[打开网页](,FDTD算法)
++[打开网页](,参考code)
+
+关于偏微分方程, 简要说几点: 
+1.偏微分方程是说, 所有内部点都满足这个方程描述的规律; 
+2.边界条件是说, 所有边界上面的点都满足另一个规律; 
+3.描述空间的网格结构是比较难以构造的. 但是, 我们没必要自己构造. 直接用数列表示方形网格就行了; 
+4.在确定了网格的描述方法后, for循环就表示了全部; 
+5.偏微分方程只是描述了规则. 但是把方程写成什么等于什么的时候, 就是确定了用法. 
+
+
+## end
+#332, 61:
+file:////media/xiantao/Elements/paper/FDTD/Allen75.pdf#page=3
+## end
+#334, 67:
+https://www.mathworks.com/matlabcentral/fileexchange/28297-3-d-fdtd
+## end
+#336, 42:
+\vec{\nabla}\times \vec{E}=-\p{t}{\vec{B}}
+## end
+#340, 75:
+\vec{\nabla}\times \vec{E}=-\frac{\partial}{\partial t}\left(\vec{B}\right)
+## end
+#343, 66:
+\vec{\nabla}\times \vec{B}=\mu*\vec{J}+\mu*\epsilon*\p{t}{\vec{E}}
+## end
+#347, 99:
+\vec{\nabla}\times \vec{B}=\mu \vec{J}+\mu \epsilon \frac{\partial}{\partial t}\left(\vec{E}\right)
+## end
+#350, 122:
+\vec{\nabla}\times \vec{E}=\hat{x}*(\p{y}{E_z}-\p{z}{E_y})+\hat{y}*(\p{z}{E_x}-\p{x}{E_z})+\hat{z}*(\p{x}{E_y}-\p{y}{E_x})
+## end
+#354, 293:
+\vec{\nabla}\times \vec{E}=\hat{x} \left(\frac{\partial E_{z}}{\partial y}-\frac{\partial E_{y}}{\partial z}\right)+\hat{y} \left(\frac{\partial E_{x}}{\partial z}-\frac{\partial E_{z}}{\partial x}\right)+\hat{z} \left(\frac{\partial E_{y}}{\partial x}-\frac{\partial E_{x}}{\partial y}\right)
+## end
+#357, 320:
+\vec{\nabla}\times \vec{E}=\hat{x}*(\frac{E_z(x,y+\delta,z)-E_z(x,y,z)}{\delta}-\frac{E_y(x,y,z+\delta)-E_y(x,y,z)}{\delta})+\hat{y}*(\frac{E_x(x,y,z+\delta)-E_x(x,y,z)}{\delta}-\frac{E_z(x+\delta,y,z)-E_z(x,y,z)}{\delta})+\hat{z}*(\frac{E_y(x+\delta,y,z)-E_y(x,y,z)}{\delta}-\frac{E_x(x,y+\delta,z)-E_x(x,y,z)}{\delta})
+## end
+#361, 545:
+\vec{\nabla}\times \vec{E}=\hat{x} \left(\frac{E_{z} \left( x,y+\delta,z \right)-E_{z} \left( x,y,z \right)}{\delta}-\frac{E_{y} \left( x,y,z+\delta \right)-E_{y} \left( x,y,z \right)}{\delta}\right)+\hat{y} \left(\frac{E_{x} \left( x,y,z+\delta \right)-E_{x} \left( x,y,z \right)}{\delta}-\frac{E_{z} \left( x+\delta,y,z \right)-E_{z} \left( x,y,z \right)}{\delta}\right)+\hat{z} \left(\frac{E_{y} \left( x+\delta,y,z \right)-E_{y} \left( x,y,z \right)}{\delta}-\frac{E_{x} \left( x,y+\delta,z \right)-E_{x} \left( x,y,z \right)}{\delta}\right)
+## end
+#364, 135:
+\vec{\nabla}\times \vec{E}=\hat{x}*(-\frac{E_y(x,y,z+\delta)-E_y(x,y,z)}{\delta})+\hat{y}*(\frac{E_x(x,y,z+\delta)-E_x(x,y,z)}{\delta})
+## end
+#368, 221:
+\vec{\nabla}\times \vec{E}=\hat{x} \left(-\frac{E_{y} \left( x,y,z+\delta \right)-E_{y} \left( x,y,z \right)}{\delta}\right)+\hat{y} \left(\frac{E_{x} \left( x,y,z+\delta \right)-E_{x} \left( x,y,z \right)}{\delta}\right)
+## end
+#371, 103:
+\frac{E_x(i,j,k,n+1)-E_x(i,j,k,n)}{\delta t}=-\frac{B_y(i,j,k,n)-B_y(i,j,k-1,n)}{\delta}*n(x,y,z)^2*c^2
+## end
+#375, 185:
+\frac{E_{x} \left( i,j,k,n+1 \right)-E_{x} \left( i,j,k,n \right)}{\delta t}=-\frac{B_{y} \left( i,j,k,n \right)-B_{y} \left( i,j,k-1,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}
+## end
+#378, 102:
+\frac{E_y(i,j,k,n+1)-E_y(i,j,k,n)}{\delta t}=\frac{B_z(i,j,k,n)-B_z(i,j,k-1,n)}{\delta}*n(x,y,z)^2*c^2
+## end
+#382, 184:
+\frac{E_{y} \left( i,j,k,n+1 \right)-E_{y} \left( i,j,k,n \right)}{\delta t}=\frac{B_{z} \left( i,j,k,n \right)-B_{z} \left( i,j,k-1,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}
+## end
+#385, 87:
+\frac{B_x(i,j,k,n+1)-B_x(i,j,k,n)}{\delta t}=\frac{E_y(i,j,k+1,n)-E_y(i,j,k,n)}{\delta}
+## end
+#389, 151:
+\frac{B_{x} \left( i,j,k,n+1 \right)-B_{x} \left( i,j,k,n \right)}{\delta t}=\frac{E_{y} \left( i,j,k+1,n \right)-E_{y} \left( i,j,k,n \right)}{\delta}
+## end
+#391, 88:
+\frac{B_y(i,j,k,n+1)-B_y(i,j,k,n)}{\delta t}=-\frac{E_x(i,j,k+1,n)-E_x(i,j,k,n)}{\delta}
+## end
+#395, 152:
+\frac{B_{y} \left( i,j,k,n+1 \right)-B_{y} \left( i,j,k,n \right)}{\delta t}=-\frac{E_{x} \left( i,j,k+1,n \right)-E_{x} \left( i,j,k,n \right)}{\delta}
+## end
+#399, 141:
+\frac{E_x(i,j,k,n+1)}{\delta t}=\frac{E_x(i,j,k,n)}{\delta t}-\frac{B_y(i,j,k,n)-B_y(i,j,k-1,n)}{\delta}*n(x,y,z)^2*c^2-\mu(x,y,z)*J_x(x,y,z)
+## end
+#403, 253:
+\frac{E_{x} \left( i,j,k,n+1 \right)}{\delta t}=\frac{E_{x} \left( i,j,k,n \right)}{\delta t}-\frac{B_{y} \left( i,j,k,n \right)-B_{y} \left( i,j,k-1,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}-\mu \left( x,y,z \right) J_{x} \left( x,y,z \right)
+## end
+#405, 145:
+\frac{E_y(i,j,k,n+1)}{\delta t}=\frac{E_y(i,j,k,n)}{\delta t}+\frac{B_x(i,j,k,n)-B_x(i,j,k-1,n)}{\delta}*n(x,y,z)^{2}*c^{2}-\mu(x,y,z)*J_y(x,y,z)
+## end
+#409, 253:
+\frac{E_{y} \left( i,j,k,n+1 \right)}{\delta t}=\frac{E_{y} \left( i,j,k,n \right)}{\delta t}+\frac{B_{x} \left( i,j,k,n \right)-B_{x} \left( i,j,k-1,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}-\mu \left( x,y,z \right) J_{y} \left( x,y,z \right)
+## end
+#411, 104:
+\frac{B_x(i,j,k,n+1)}{\delta t}=\frac{B_x(i,j,k,n)}{\delta t}+\frac{E_y(i,j,k+1,n)-E_y(i,j,k,n)}{\delta}
+## end
+#415, 168:
+\frac{B_{x} \left( i,j,k,n+1 \right)}{\delta t}=\frac{B_{x} \left( i,j,k,n \right)}{\delta t}+\frac{E_{y} \left( i,j,k+1,n \right)-E_{y} \left( i,j,k,n \right)}{\delta}
+## end
+#417, 104:
+\frac{B_y(i,j,k,n+1)}{\delta t}=\frac{B_y(i,j,k,n)}{\delta t}-\frac{E_x(i,j,k+1,n)-E_x(i,j,k,n)}{\delta}
+## end
+#421, 168:
+\frac{B_{y} \left( i,j,k,n+1 \right)}{\delta t}=\frac{B_{y} \left( i,j,k,n \right)}{\delta t}-\frac{E_{x} \left( i,j,k+1,n \right)-E_{x} \left( i,j,k,n \right)}{\delta}
+## end
+#426, 510:
+\eqs{\frac{E_x(i,j,k,n+1)}{\delta t}=\frac{E_x(i,j,k,n)}{\delta t}-\frac{B_y(i,j,k,n)-B_y(i,j,k-1,n)}{\delta}*n(x,y,z)^{2}*c^{2}-\mu(x,y,z)*J_x(x,y,z);
+\frac{E_y(i,j,k,n+1)}{\delta t}=\frac{E_y(i,j,k,n)}{\delta t}+\frac{B_x(i,j,k,n)-B_x(i,j,k-1,n)}{\delta}*n(x,y,z)^{2}*c^{2}-\mu(x,y,z)*J_y(x,y,z);
+\frac{B_x(i,j,k,n+1)}{\delta t}=\frac{B_x(i,j,k,n)}{\delta t}+\frac{E_y(i,j,k+1,n)-E_y(i,j,k,n)}{\delta};
+\frac{B_y(i,j,k,n+1)}{\delta t}=\frac{B_y(i,j,k,n)}{\delta t}-\frac{E_x(i,j,k+1,n)-E_x(i,j,k,n)}{\delta}}
+## end
+#430, 879:
+\begin{cases}
+\frac{E_{x} \left( i,j,k,n+1 \right)}{\delta t}=\frac{E_{x} \left( i,j,k,n \right)}{\delta t}-\frac{B_{y} \left( i,j,k,n \right)-B_{y} \left( i,j,k-1,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}-\mu \left( x,y,z \right) J_{x} \left( x,y,z \right)\\ \frac{E_{y} \left( i,j,k,n+1 \right)}{\delta t}=\frac{E_{y} \left( i,j,k,n \right)}{\delta t}+\frac{B_{x} \left( i,j,k,n \right)-B_{x} \left( i,j,k-1,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}-\mu \left( x,y,z \right) J_{y} \left( x,y,z \right)\\ \frac{B_{x} \left( i,j,k,n+1 \right)}{\delta t}=\frac{B_{x} \left( i,j,k,n \right)}{\delta t}+\frac{E_{y} \left( i,j,k+1,n \right)-E_{y} \left( i,j,k,n \right)}{\delta}\\ \frac{B_{y} \left( i,j,k,n+1 \right)}{\delta t}=\frac{B_{y} \left( i,j,k,n \right)}{\delta t}-\frac{E_{x} \left( i,j,k+1,n \right)-E_{x} \left( i,j,k,n \right)}{\delta}
+\end{cases}
+
+
+## end
+#432, 518:
+\eqs{\frac{E_x(i,j,k,n+1)}{\delta t}=\frac{E_x(i,j,k,n)}{\delta t}-\frac{B_y(i,j,k,n)-B_y(i,j,k-1,n)}{\delta}*n(x,y,z)^{2}*c^{2}-\mu(x,y,z)*J_x(x,y,z);
+\frac{E_y(i,j,k,n+1)}{\delta t}=\frac{E_y(i,j,k,n)}{\delta t}+\frac{B_x(i,j,k,n)-B_x(i,j,k-1,n)}{\delta}*n(x,y,z)^{2}*c^{2}-\mu(x,y,z)*J_y(x,y,z);
+\frac{B_x(i,j,k,n+1)}{\delta t}=\frac{B_x(i,j,k,n)}{\delta t}+\frac{E_y(i,j,k+1,n+1)-E_y(i,j,k,n+1)}{\delta};
+\frac{B_y(i,j,k,n+1)}{\delta t}=\frac{B_y(i,j,k,n)}{\delta t}-\frac{E_x(i,j,k+1,n+1)-E_x(i,j,k,n+1)}{\delta}}
+## end
+#436, 887:
+\begin{cases}
+\frac{E_{x} \left( i,j,k,n+1 \right)}{\delta t}=\frac{E_{x} \left( i,j,k,n \right)}{\delta t}-\frac{B_{y} \left( i,j,k,n \right)-B_{y} \left( i,j,k-1,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}-\mu \left( x,y,z \right) J_{x} \left( x,y,z \right)\\ \frac{E_{y} \left( i,j,k,n+1 \right)}{\delta t}=\frac{E_{y} \left( i,j,k,n \right)}{\delta t}+\frac{B_{x} \left( i,j,k,n \right)-B_{x} \left( i,j,k-1,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}-\mu \left( x,y,z \right) J_{y} \left( x,y,z \right)\\ \frac{B_{x} \left( i,j,k,n+1 \right)}{\delta t}=\frac{B_{x} \left( i,j,k,n \right)}{\delta t}+\frac{E_{y} \left( i,j,k+1,n+1 \right)-E_{y} \left( i,j,k,n+1 \right)}{\delta}\\ \frac{B_{y} \left( i,j,k,n+1 \right)}{\delta t}=\frac{B_{y} \left( i,j,k,n \right)}{\delta t}-\frac{E_{x} \left( i,j,k+1,n+1 \right)-E_{x} \left( i,j,k,n+1 \right)}{\delta}
+\end{cases}
+
+
+## end
+#441, 889:
+\eqs{\frac{E_x(i,j,k,n+1)}{\delta t}=\frac{E_x(i,j,k,n)}{\delta t}+\frac{B_z(i,j,k,n)-B_z(i,j-1,k,n)}{\delta}*n(x,y,z)^{2}*c^{2}-\mu(x,y,z)*J_x(x,y,z);
+
+\frac{E_y(i,j,k,n+1)}{\delta t}=\frac{E_y(i,j,k,n)}{\delta t}-\frac{B_z(i,j,k,n)-B_z(i-1,j,k,n)}{\delta}*n(x,y,z)^{2}*c^{2}-\mu(x,y,z)*J_y(x,y,z);
+
+\frac{E_z(i,j,k,n+1)}{\delta t}=\frac{E_z(i,j,k,n)}{\delta t}-\frac{B_x(i,j,k,n)-B_x(i,j-1,k,n)}{\delta}*n(x,y,z)^{2}*c^{2}+\frac{B_y(i,j,k,n)-B_y(i-1,j,k,n)}{\delta}*n(x,y,z)^{2}*c^{2}-\mu(x,y,z)*J_z(x,y,z);
+
+\frac{B_x(i,j,k,n+1)}{\delta t}=\frac{B_x(i,j,k,n)}{\delta t}-\frac{E_z(i,j+1,k,n+1)-E_z(i,j,k,n+1)}{\delta};
+
+\frac{B_y(i,j,k,n+1)}{\delta t}=\frac{B_y(i,j,k,n)}{\delta t}+\frac{E_z(i+1,j,k,n+1)-E_z(i,j,k,n+1)}{\delta};
+
+\frac{B_z(i,j,k,n+1)}{\delta t}=\frac{B_z(i,j,k,n)}{\delta t}+\frac{E_x(i,j+1,k,n+1)-E_x(i,j,k,n+1)}{\delta}-\frac{E_y(i+1,j,k,n+1)-E_y(i,j,k,n+1)}{\delta}}
+## end
+#445, 1505:
+\begin{cases}
+\frac{E_{x} \left( i,j,k,n+1 \right)}{\delta t}=\frac{E_{x} \left( i,j,k,n \right)}{\delta t}+\frac{B_{z} \left( i,j,k,n \right)-B_{z} \left( i,j-1,k,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}-\mu \left( x,y,z \right) J_{x} \left( x,y,z \right)\\ \frac{E_{y} \left( i,j,k,n+1 \right)}{\delta t}=\frac{E_{y} \left( i,j,k,n \right)}{\delta t}-\frac{B_{z} \left( i,j,k,n \right)-B_{z} \left( i-1,j,k,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}-\mu \left( x,y,z \right) J_{y} \left( x,y,z \right)\\ \frac{E_{z} \left( i,j,k,n+1 \right)}{\delta t}=\frac{E_{z} \left( i,j,k,n \right)}{\delta t}-\frac{B_{x} \left( i,j,k,n \right)-B_{x} \left( i,j-1,k,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}+\frac{B_{y} \left( i,j,k,n \right)-B_{y} \left( i-1,j,k,n \right)}{\delta} n \left( x,y,z \right)^{2} c^{2}-\mu \left( x,y,z \right) J_{z} \left( x,y,z \right)\\ \frac{B_{x} \left( i,j,k,n+1 \right)}{\delta t}=\frac{B_{x} \left( i,j,k,n \right)}{\delta t}-\frac{E_{z} \left( i,j+1,k,n+1 \right)-E_{z} \left( i,j,k,n+1 \right)}{\delta}\\ \frac{B_{y} \left( i,j,k,n+1 \right)}{\delta t}=\frac{B_{y} \left( i,j,k,n \right)}{\delta t}+\frac{E_{z} \left( i+1,j,k,n+1 \right)-E_{z} \left( i,j,k,n+1 \right)}{\delta}\\ \frac{B_{z} \left( i,j,k,n+1 \right)}{\delta t}=\frac{B_{z} \left( i,j,k,n \right)}{\delta t}+\frac{E_{x} \left( i,j+1,k,n+1 \right)-E_{x} \left( i,j,k,n+1 \right)}{\delta}-\frac{E_{y} \left( i+1,j,k,n+1 \right)-E_{y} \left( i,j,k,n+1 \right)}{\delta}
+\end{cases}
+
+
+## end
+#449, 1449:
+%{
++[M函数](,验证算法)
+记住"Matlab"
+
+一维场景:...
+二维初次:...
+%}
+
+physics_constant;
+dx=1;
+dt=0.2;
+n_r=1;
+c=1;
+mu=1;
+
+R=0.4;
+N=100;
+T=1000;
+
+x=linspace(-1,1,2*N-1);
+y=linspace(-1,1,2*N-1);
+x_E=x(1:2:end);
+x_B=x(2:2:end);
+y_E=y(1:2:end);
+y_B=y(2:2:end);
+
+[XE,YE]=meshgrid(x_E,y_E);
+[XB,YB]=meshgrid(x_B,y_B);
+
+Ex=zeros(size(XE));
+Ey=zeros(size(XE));
+% Ez=zeros(size(XE));
+Ez=exp(-XE.^2/R^2-YE.^2/R^2);
+% Ez=exp(-XE.^2/R^2);
+
+Bx=zeros(size(XB));
+By=zeros(size(XB));
+Bz=zeros(size(XB));
+
+t=0;
+
+for n=1:T
+dEx=zeros(size(Ex));
+dEy=zeros(size(Ey));
+dEz=zeros(size(Ez));
+
+Ex([1,end],:)=Ex([2,end-1],:)*0;
+Ey([1,end],:)=Ey([2,end-1],:)*0;
+Ez([1,end],:)=Ez([2,end-1],:)*0;
+
+Ex(:,[1,end])=Ex(:,[2,end-1])*0;
+Ey(:,[1,end])=Ey(:,[2,end-1])*0;
+Ez(:,[1,end])=Ez(:,[2,end-1])*0;
+
+dEx(2:end-1,1:end-1)=(Bz(2:end,:)-Bz(1:end-1,:));
+dEy(1:end-1,2:end-1)=-(Bz(:,2:end)-Bz(:,1:end-1));
+dEz(1:end-1,2:end-1)=(By(:,2:end)-By(:,1:end-1));
+dEz(2:end-1,1:end-1)=dEz(2:end-1,1:end-1)-(Bx(2:end,:)-Bx(1:end-1,:));
+
+Ex=Ex+dEx*dt/dx;
+Ey=Ey+dEy*dt/dx;
+Ez=Ez+dEz*dt/dx;
+
+
+dBx=zeros(size(Bx));
+dBy=zeros(size(By));
+dBz=zeros(size(Bz));
+
+dBx=-(Ez(2:end,1:end-1)-Ez(1:end-1,1:end-1));
+dBy=(Ez(1:end-1,2:end)-Ez(1:end-1,1:end-1));
+dBz=-(Ey(1:end-1,2:end)-Ey(1:end-1,1:end-1));
+dBz=dBz+(Ex(2:end,1:end-1)-Ex(1:end-1,1:end-1));
+
+
+Bx=Bx+dBx*dt/dx;
+By=By+dBy*dt/dx;
+Bz=Bz+dBz*dt/dx;
+
+t=t+dt;
+
+surf(XE,YE,Ez);
+axis equal
+shading interp
+view([0,90])
+
+% plot(max(Ez))
+pause(0.01)
+
+
+end
+
+
+%{
++[M函数](,验证算法)
+%}
+## end
+#451, 1015:
+%{
++[M函数](,验证算法)
+%}
+
+physics_constant;
+dx=1;
+dt=1;
+n_r=1;
+c=1;
+mu=1;
+
+N=1000;
+T=1000;
+% Ex=zeros(1,N);
+% Ey=zeros(1,N);
+% Bx=zeros(1,N);
+% By=zeros(1,N);
+
+x=linspace(0,1,2*N-1);
+x_E=x(1:2:2*N-1);
+x_B=x(2:2:2*N-1);
+
+Ex=zeros(1,N);
+Ey=exp(-(x_E-1/2).^2*50);
+Bx=zeros(1,N-1);
+By=zeros(1,N-1);
+
+
+t=0;
+
+for n=1:T
+dEx=zeros(size(Ex));
+dEy=zeros(size(Ey));
+Ex(1)=Ex(2);
+Ey(1)=Ey(2);
+Ex(N)=Ex(N-1);
+Ey(N)=Ey(N-1);
+dEx(2:end-1)=-(By(2:end)-By(1:end-1));
+dEy(2:end-1)=Bx(2:end)-Bx(1:end-1);
+
+Ex=Ex+dEx*dt/dx;
+Ey=Ey+dEy*dt/dx;
+
+
+dBx=zeros(size(Bx));
+dBy=zeros(size(By));
+
+dBx=Ey(2:end)-Ey(1:end-1);
+dBy=-(Ex(2:end)-Ex(1:end-1));
+
+Bx=Bx+dBx*dt/dx;
+By=By+dBy*dt/dx;
+
+t=t+dt;
+
+if mod(n,15)==1
+    subplot(2,2,1)
+    plot(Ex);
+    axis([1,N,-1,1])
+    title('E_x')
+
+    subplot(2,2,2)
+    plot(Ey);
+    axis([1,N,-1,1])
+    title('E_y')
+
+    subplot(2,2,3)
+    plot(Bx);
+    axis([1,N-1,-1,1])
+    title('B_x')
+
+    subplot(2,2,4)
+    plot(By);
+    axis([1,N-1,-1,1])
+    title('B_y')
+    pause(0.01)
+end
+end
+
+
+%{
++[M函数](,验证算法)
+%}
+## end
+#453, 1355:
+%{
++[M函数](,验证算法)
+记住"Matlab"
+
+一维场景:...
+二维初次:...
+%}
+
+physics_constant;
+dx=1;
+dt=1;
+n_r=1;
+c=1;
+mu=1;
+
+N=1000;
+T=10;
+
+x=linspace(-1,1,2*N-1);
+y=linspace(-1,1,2*N-1);
+x_E=x(1:2:end);
+x_B=x(2:2:end);
+y_E=y(1:2:end);
+y_B=y(2:2:end);
+
+[XE,YE]=meshgrid(x_E,y_E);
+[XB,YB]=meshgrid(x_B,y_B);
+
+Ex=zeros(size(XE));
+Ey=zeros(size(XE));
+Ez=zeros(size(XE));
+
+Bx=zeros(size(XB));
+By=zeros(size(XB));
+Bz=zeros(size(XB));
+
+t=0;
+
+for n=1:T
+dEx=zeros(size(Ex));
+dEy=zeros(size(Ey));
+dEz=zeros(size(Ez));
+
+Ex([1,end],:)=Ex([2,end-1],:);
+Ey([1,end],:)=Ey([2,end-1],:);
+Ez([1,end],:)=Ez([2,end-1],:);
+
+Ex(:,[1,end])=Ex(:,[2,end-1]);
+Ey(:,[1,end])=Ey(:,[2,end-1]);
+Ez(:,[1,end])=Ez(:,[2,end-1]);
+
+dEx(2:end-1,1:end-1)=(Bz(2:end,:)-Bz(1:end-1,:));
+dEy(1:end-1,2:end-1)=-(Bz(:,2:end)-Bz(:,1:end-1));
+dEz(1:end-1,2:end-1)=(By(:,2:end)-By(:,1:end-1));
+dEz(2:end-1,1:end-1)=dEz(2:end-1,1:end-1)-(Bx(2:end,:)-Bx(1:end-1,:));
+
+Ex=Ex+dEx*dt/dx;
+Ey=Ey+dEy*dt/dx;
+Ez=Ez+dEz*dt/dx;
+
+
+dBx=zeros(size(Bx));
+dBy=zeros(size(By));
+dBz=zeros(size(Bz));
+
+dBx=-(Ez(2:end,1:end-1)-Ez(1:end-1,1:end-1));
+dBy=(Ez(1:end-1,2:end)-Ez(1:end-1,1:end-1));
+dBz=-(Ey(1:end-1,2:end)-Ey(1:end-1,1:end-1));
+dBz=dBz+(Ex(2:end,1:end-1)-Ex(1:end-1,1:end-1));
+
+
+Bx=Bx+dBx*dt/dx;
+By=By+dBy*dt/dx;
+Bz=Bz+dBz*dt/dx;
+
+t=t+dt;
+
+surf(XE,YE,Ex);
+axis equal
+shading interp
+view([0,90])
+pause(0.01)
+
+end
+
+
+%{
++[M函数](,验证算法)
+%}
+## end
+### 结束

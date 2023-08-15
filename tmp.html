@@ -1,0 +1,316 @@
+<<<<<<< HEAD
+<!--
++[返回目录]
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head>
+<!--code-->
+<link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/default.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+%[结构语言核心JS]
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+/* Style the content */
+.content {
+  background-color: #fff;
+  padding: 10px;
+}
+
+/*
++[网页](web,实验室日历模板)
+*/
+
+/* Style the footer */
+.footer {
+  background-color: #333;
+  padding: 10px;
+  margin-top: 20px
+}
+
+.footer p {
+  color: #ddd
+}
+
+</style>
+
+
+  </head>
+
+
+<body>
+<div class="topnav">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+</div>
+
+
+<div class="content">
+    <p><mathjax style=\"font-size:1.5em\">
+<!--
++[H函数](,微分运算)
+-->
+
+$$\left(\frac{sin(x)}{x}\right)^{g(f(x))}=0\tag{1}$$
+$$\left(\frac{sin(x)}{x}\right)^{g(f(x))}\ \frac{d}{dx}\left(g(f(x))\ log(\frac{sin(x)}{x})\right)=0\tag{2}$$
+$$\left(\frac{sin(x)}{x}\right)^{g(f(x))}\ \left(\frac{dg(f(x))}{dx}\ log(\frac{sin(x)}{x})+\frac{dlog(\frac{sin(x)}{x})}{dx}\ g(f(x))\right)=0\tag{3}$$
+$$\left(\frac{sin(x)}{x}\right)^{g(f(x))}\ \left(g'(f(x))\ f'(x)\ log(\frac{sin(x)}{x})+\frac{1}{\frac{sin(x)}{x}}\ \frac{cos(x)\ x-sin(x)\ \frac{dx}{dx}}{x^{2}}\ g(f(x))\right)=0\tag{4}$$
+$$x+1=0\tag{5}$$
+$$\frac{d\sin \left( x^{2} \right)}{dx}\tag{6}$$
+%[7].
+
+
+<!--
+[7].:
+
+将"x+1=0"记作为式(5)
+
+将"\d{\sin(x^2)}_{x}"记作为式(6)
+
+计算式(6)的'微分'
+
+更新式(6)
+
+式(6)转换为"LaTeX"
+
+np.cos(x**2)*x*2
+
+cos(x.^(2)).*x.*2
+
+cos \left( x^{2} \right) x\times 2
+
+\frac{d\sin \left( x^{2} \right)}{dx}
+
+将"x=0"记作为式(1)
++微分([1].,+x)
+微分([1].,x)->+[del](,微分)->+[del](,x)
+的([1].,表达式)->+[投影虚构操作](表达式,微分)
+
+式(1)加上变量"x"
+式(1)乘以变量"a"
+式(1)除以变量"b"
+交换式(1)的两边
+以变量"x", 对式(1)积分
+以变量"x", 对式(1)微分
+以"x"为变量, 对式(1)微分
+将"x^n*x+f(g(x))=0"记作为式(1)
+
+
+将"\d{x^n*g(f(x))}_{x}=0"记作为式(2)
+将"\d{\frac{f(x)}{g(x)}}_{x}=0"记作为式(2)
+的([2].,表达式)->的(表达式,微分)->+展开(,微分)
++[del](,展开)
+展开
+的([2].,表达式)->+[投影虚构操作](表达式,展开)
+
+将"\d{x^n*g(f(x))}_{x}=0"记作为式(2)
+计算式(2)的'微分'
+更新式(2)
+
+式(3)转换为"表达式"
+将"\frac{e^x}{x*cos(a*x)}=0"记作为式(1)
+将"\d{g(x)^{a*x}}_{x}"记作为式(1)
+将"\d{x*e^x*x^a}_{x}=0"记作为式(3)
+计算式(3)的'微分'
+更新式(3)
+以变量"x", 对式(3)微分
+
+将"(\frac{sin(x)}{x})^g(f(x))=0"记作为式(1)
+将式(1)记作为式(2)
+以变量"x", 对式(2)微分
+更新式(2)
+
+将式(2)记作为式(3)
+计算式(3)的'微分'
+更新式(3)
+
+将式(3)记作为式(4)
+计算式(4)的'微分'
+更新式(4)
+
+将式(4)记作为式(5)
+计算式(4)的'微分'
+更新式(4)
+
+
+的([3].,表达式)->+[显示星图](,表达式)
+的([3].,表达式)->的(表达式,微分)->+[显示](,微分)
++[H函数](,微分运算)
+-->
+    </mathjax></p>
+</div>
+
+
+
+<div class="footer">
+  <p>Footer</p>
+</div>
+
+</body>
+=======
+<!--
++[返回目录]
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head>
+<!--code-->
+<link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/default.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+%[结构语言核心JS]
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+/* Style the content */
+.content {
+  background-color: #fff;
+  padding: 10px;
+}
+
+/*
++[网页](web,实验室日历模板)
+*/
+
+/* Style the footer */
+.footer {
+  background-color: #333;
+  padding: 10px;
+  margin-top: 20px
+}
+
+.footer p {
+  color: #ddd
+}
+
+</style>
+
+
+  </head>
+
+
+<body>
+<div class="topnav">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+</div>
+
+
+<div class="content">
+    <p><mathjax style=\"font-size:1.5em\">
+<!--
++[H函数](,按键页面)
+-->
+
+<form method="POST">
+    <button name="mouse" value="play">play</button>
+    <button name="mouse" value="jump">jump</button>
+    <button name="mouse" value="screen">screen</button>
+    <button name="mouse" value="back">back</button>
+    <button name="mouse" value="forward">forward</button>
+</form>
+
+
+<!--
++[H函数](,按键页面)
+-->
+    </mathjax></p>
+</div>
+
+
+
+<div class="footer">
+  <p>Footer</p>
+</div>
+
+</body>
+>>>>>>> 107b5575c75a534ca46de7517f57aa00af727a45
+</html>

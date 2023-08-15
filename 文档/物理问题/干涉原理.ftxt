@@ -1,0 +1,780 @@
+### 节点
+地址, 的, 干涉原理, 目录, 的, 的, 网页画板, 的, 平面波干涉, 的, 高斯光束, 的, 高斯光束干涉, 的, 高斯光束, 的, 任意方向高斯光束, M函数, 的, 坐标变换, M函数, 的, GaussianBeam_3D, M函数, 的, 地址, 的, 测试, M函数, 的, 气阀样本, html, 的, 参考, 的, 公式, 超链接, 的, 折射率数据, 超链接, 的, alpha数据, 的, 数据, 表格, 的, 计算气体折射率, M函数, 的, 气体折射率, 的, 气阀, 的, 气阀相位位移, M函数, 的, 显示分布截面, M函数, 的, 相位分布, M函数, 的, 高斯光束, 的, Heat capacity ratio, 的, 干涉分布, 公式, 的, 空间波长_推导, 公式, 公式, 的, 空间波长_结果, 公式, 的, 空间波长_结果2, 公式, 的, 验算公式, M函数, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 8#10, #, 2#12, #, 12#14, #, 12#16, #, 16#, 16#19, #, 19#, 16#22, #, 22#, 22#25, #, 22#27, #, 27#, 12#30, #, 30#, 30#33, #, 30#35, #, 35#, 30#38, #, 38#, 30#41, #, 30#43, #, 43#, 30#46, #, 46#, 2#49, #, 2#51, #, 30#53, #, 53#, 53#56, #, 56#, 53#59, #, 59#, 22#62, #, 53#64, #, 8#66, #, 66#, 8#69, #, 69#, #, 8#73, #, 73#, 8#76, #, 76#, 8#79, #, 79#, 
+### 内容
+#0, 17:
+文档\物理问题\干涉原理.ftxt
+## end
+#2, 200:
++[返回目录](,干涉原理)
+地址::文档\物理问题\干涉原理.ftxt
+
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+气体折射率::文档\物理问题\气体折射率.ftxt
++[打开文件](+新窗口,气体折射率)
+气阀::文档\物理问题\De_Laval_nozzle.ftxt
++[打开文件](+新窗口,气阀)
+
+
+平面波干涉:...
+高斯光束干涉:...
+
+
+## end
+#3, 48:
+干涉原理:...
+创建于 20210801
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 16:
+文档\S应用\网页画板.ftxt
+## end
+#8, 3067:
+<!--
++[H函数](,平面波干涉)
+-->
+
+The plane wave function is,
+$$
+\mathbf{E}(\vec{r},t)
+=\mathbf{E}_0 exp(-i \vec{k}\cdot \vec{r}) exp(i \omega t)
+$$
+If there are two plane waves, then,
+$$
+\mathbf{E}_1(\vec{r},t)
+=\mathbf{E}_{10} exp(-i \vec{k}_1\cdot \vec{r}) exp(i \omega_1 t)
+$$
+$$
+\mathbf{E}_2(\vec{r},t)
+=\mathbf{E}_{20} exp(-i \vec{k}_2\cdot \vec{r}) exp(i \omega_2 t)
+$$
+$$
+\mathbf{E}(\vec{r},t)
+=\mathbf{E}_1(\vec{r},t)+\mathbf{E}_2(\vec{r},t)
+\\
+
+=\mathbf{E}_{10} exp(-i \vec{k}_1\cdot \vec{r}) exp(i \omega_1 t)
++\mathbf{E}_{20} exp(-i \vec{k}_2\cdot \vec{r}) exp(i \omega_2 t)
+$$
+The intensity distribution is,
+$$
+I =
+\|\mathbf{E}(\vec{r},t)\|^2
+\\
+
+=[\mathbf{E}_{10} exp(-i \vec{k}_1\cdot \vec{r}) exp(i \omega_1 t)
++\mathbf{E}_{20} exp(-i \vec{k}_2\cdot \vec{r}) exp(i \omega_2 t)]
+\\\cdot
+[\mathbf{E}_{10} exp(-i \vec{k}_1\cdot \vec{r}) exp(i \omega_1 t)
++\mathbf{E}_{20} exp(-i \vec{k}_2\cdot \vec{r}) exp(i \omega_2 t)]^*
+\\
+
+=[\mathbf{E}_{10} exp(-i \vec{k}_1\cdot \vec{r}) exp(i \omega_1 t)
++\mathbf{E}_{20} exp(-i \vec{k}_2\cdot \vec{r}) exp(i \omega_2 t)]
+\\\cdot
+[\mathbf{E}_{10}^* exp(i \vec{k}_1\cdot \vec{r}) exp(-i \omega_1 t)
++\mathbf{E}_{20}^* exp(i \vec{k}_2\cdot \vec{r}) exp(-i \omega_2 t)]
+\\
+
+=\|\mathbf{E}_{10}\|^2
++\|\mathbf{E}_{20}\|^2
+\\
+
++\mathbf{E}_{10}\cdot \mathbf{E}_{20}^* 
+exp(-i (\vec{k}_1-\vec{k}_2)\cdot \vec{r}) exp(i (\omega_1-\omega_2) t)
+\\
+
++\mathbf{E}_{10}^*\cdot \mathbf{E}_{20} 
+exp(i (\vec{k}_1-\vec{k}_2)\cdot \vec{r}) exp(-i (\omega_1-\omega_2) t)
+
+$$
+Assuming the initial phase different between two waves are \(\Delta \phi=\phi_2-\phi_1\), then the intensity distribution is,
+$$
+I=\|\mathbf{E}_{10}\|^2
++\|\mathbf{E}_{20}\|^2
+\\
+
++\|\mathbf{E}_{10}\|\cdot \|\mathbf{E}_{20}\|
+exp(i (\phi_1-\phi_2))
+exp(-i (\vec{k}_1-\vec{k}_2)\cdot \vec{r}) exp(i (\omega_1-\omega_2) t)
+\\
+
++\|\mathbf{E}_{10}\|\cdot \|\mathbf{E}_{20}\|
+exp(-i (\phi_1-\phi_2)) 
+exp(i (\vec{k}_1-\vec{k}_2)\cdot \vec{r}) exp(-i (\omega_1-\omega_2) t)
+
+\\
+\equiv
+\|\mathbf{E}_{10}\|^2
++\|\mathbf{E}_{20}\|^2
+\\
+
++\|\mathbf{E}_{10}\|\cdot \|\mathbf{E}_{20}\|
+exp(-i \Delta\phi)
+exp(i \Delta\vec{k}\cdot \vec{r}) exp(-i \Delta\omega t)
+\\
+
++\|\mathbf{E}_{10}\|\cdot \|\mathbf{E}_{20}\|
+exp(i \Delta\phi)
+exp(-i \Delta\vec{k}\cdot \vec{r}) exp(i \Delta\omega t)
+
+\\
+=
+\|\mathbf{E}_{10}\|^2
++\|\mathbf{E}_{20}\|^2
+
++2\|\mathbf{E}_{10}\|\cdot \|\mathbf{E}_{20}\|
+cos(-\Delta\phi + \Delta\vec{k}\cdot \vec{r} -\Delta\omega t)
+$$
+<br><br>
+
+
+<b><u>Example</u></b><br>
+If two beams have the same intensity and the same wavelength, then the result interference pattern is,
+%干涉分布
+Let's assume one of two beams propagates perpendicularly into the observing plane, and the other one propagates with an angle \(\theta\) to the first beam. Then the space wavelength \(\Lambda\) of the pattern should be, 
+%空间波长_推导
+As a result, the space wavelength should be, 
+%空间波长_结果
+Or, equivalently,
+%空间波长_结果2
+
+
+
+<br><br><br><br>
+
+<!--
+空间波长_结果2(公式):
+空间波长_结果(公式):
+空间波长_推导(公式):
+干涉分布(公式):
++[新建阅读窗口](,干涉分布)
+
++[H函数](,平面波干涉)
+
+验算公式(M函数):...
+高斯光束::文档\物理问题\高斯光束.ftxt
++[打开文件](+新窗口,高斯光束)
+-->
+## end
+#10, 17:
+文档\物理问题\高斯光束.ftxt
+## end
+#12, 113:
++[返回目录](,高斯光束干涉)
+
+高斯光束::文档\物理问题\高斯光束.ftxt
++[打开文件](+新窗口,高斯光束)
+
+任意方向高斯光束(M函数):...
+气阀样本(html):...
+
++[复制结构](,气阀样本)
+
+
+
+## end
+#14, 17:
+文档\物理问题\高斯光束.ftxt
+## end
+#16, 704:
+%{
++[返回目录](,任意方向高斯光束)
++[M函数](,任意方向高斯光束)
+
+坐标变换(M函数):...
+GaussianBeam_3D(M函数):...
++[复制结构](,GaussianBeam_3D)
++[新建阅读窗口](,GaussianBeam_3D)
++[M函数](,坐标变换)
+%}
+
+clf
+
+addpath('Matlab\optics');
+lm=400e-9;
+w0=2e-2;
+E0=1;
+n=1;
+
+orig=[0.7,0.6,0];
+k1=[0.00,0,30];
+k2=[0,0.0025,30];
+
+Nx=10;
+Ny=1000;
+Dx=10e-2;
+Dy=4e-2;
+x0=linspace(orig(1)-Dx/2,orig(1)+Dx/2,Nx);
+y0=linspace(orig(2)-Dy/2,orig(2)+Dy/2,Ny);
+[Y0,X0]=meshgrid(y0,x0);
+Z0=zeros(size(X0));
+
+E1=GaussianBeam_3D(X0,Y0,Z0,orig,k1,lm,w0,E0,n);
+E2=GaussianBeam_3D(X0,Y0,Z0,orig,k2,lm,w0,E0,n);
+
+E=E1+E2;
+I=abs(E).^2;
+
+surf(X0/1e-2,Y0/1e-2,I)
+view([0,90])
+shading interp
+
+axis([min(x0)/1e-2,max(x0)/1e-2,min(y0)/1e-2,max(y0)/1e-2])
+axis equal
+%{
++[M函数](,任意方向高斯光束)
+%}
+## end
+#19, 486:
+%{
++[返回目录](,任意方向高斯光束)
++[M函数](,任意方向高斯光束)
+
+坐标变换(M函数):
+%}
+
+
+orig=[0.7,0.6,0];
+k_0=[1,0,0];
+lm=400e-9;
+w0=2e-2;
+E0=1;
+n=1;
+
+x0=linspace(0,1,10);
+y0=linspace(0,1,10);
+[X0,Y0]=meshgrid(x0,y0);
+Z0=zeros(size(X0));
+
+DX0=X0-orig(1);
+DY0=Y0-orig(2);
+DZ0=Z0-orig(3);
+
+k=k_0/norm(k_0);
+Z=k(1)*DX0+k(2)*DY0+k(3)*DZ0;
+DX=DX0-Z*k(1);
+DY=DY0-Z*k(2);
+DZ=DZ0-Z*k(3);
+R=sqrt(DX.^2+DY.^2+DZ.^2)
+
+subplot(1,2,1)
+surf(Y0,X0,Z)
+view([90,90])
+subplot(1,2,2)
+surf(Y0,X0,R)
+view([90,90])
+
+%{
++[M函数](,任意方向高斯光束)
+%}
+## end
+#22, 644:
+%{
++[返回目录](,GaussianBeam_3D)
++[M函数](,GaussianBeam_3D)
+地址::Matlab\optics\GaussianBeam_3D.m
++[保存文本](,GaussianBeam_3D)
+
+高斯光束::文档\物理问题\高斯光束.ftxt
++[打开文件](+新窗口,高斯光束)
+
+测试(M函数):...
+%}
+
+function E=GaussianBeam_3D(X0,Y0,Z0,orig,k_0,lm,w0,E0,n)
+
+% orig=[0.7,0.6,0];
+% k_0=[1,4,0];
+% lm=400e-9;
+% w0=20e-2;
+% E0=1;
+% n=1;
+% N=100;
+
+% x0=linspace(0,1,N);
+% y0=linspace(0,1,N);
+% [X0,Y0]=meshgrid(x0,y0);
+% Z0=zeros(size(X0));
+
+DX0=X0-orig(1);
+DY0=Y0-orig(2);
+DZ0=Z0-orig(3);
+
+k=k_0/norm(k_0);
+Z=k(1)*DX0+k(2)*DY0+k(3)*DZ0;
+DX=DX0-Z*k(1);
+DY=DY0-Z*k(2);
+DZ=DZ0-Z*k(3);
+R=sqrt(DX.^2+DY.^2+DZ.^2);
+
+E=GaussianBeam(Z,R,lm,w0,E0,n);
+
+end
+
+%{
++[M函数](,任意方向高斯光束)
+%}
+## end
+#25, 31:
+Matlab\optics\GaussianBeam_3D.m
+## end
+#27, 312:
+%{
++[M函数](,测试)
+%}
+
+clf
+addpath('Matlab\optics');
+
+orig=[0.7,0.6,0];
+k_0=[1,0.3,30];
+lm=400e-9;
+w0=20e-2;
+E0=1;
+n=1;
+N=100;
+
+x0=linspace(0,1,N);
+y0=linspace(0,1,N);
+[X0,Y0]=meshgrid(x0,y0);
+Z0=zeros(size(X0));
+
+E=GaussianBeam_3D(X0,Y0,Z0,orig,k_0,lm,w0,E0,n);
+
+
+surf(Y0,X0,abs(E).^2)
+view([90,90])
+shading interp
+
+## end
+#30, 1883:
+<!--
++[返回目录](,气阀样本)
++[H函数](,气阀样本)
+参考::文档\物理问题\气体折射率.ftxt
++[打开文件](+新窗口,参考)
+公式(超链接)::https://en.wikipedia.org/wiki/Clausius%E2%80%93Mossotti_relation#Lorentz%E2%80%93Lorenz_equation
+折射率数据(超链接)::https://refractiveindex.info/?shelf=main&book=N2&page=Peck-0C
++[打开网页](,公式)
+alpha数据::file:///C:/Users/cheng/Desktop/paper/Refractive_index/2016_Couperus_et_al.pdf#page=4
++[打开网页](,alpha数据)
+-->
+
+<b><u>Refractive index</u></b><br>
+I'm going to use Clausius-Mossotti relation to calculate the refractive index(%公式), 
+$$
+\frac{\epsilon_r-1}{\epsilon_r+2}
+=\frac{N\alpha}{3\epsilon_0}
+$$
+Here \(\epsilon_r = n^2\) for most of gases (non-magnetic materials). \(N\) is the number density, and \(\alpha\) is the molecular polarizability. <br>
+Here I believe the \(\alpha\) should be a function of wavelength, and there should be a theory to calculate it. But now I will simply use data from refractiveIndex.info(%折射率数据), and from the referred paper. 
+
+<!--
+数据(表格)::Gas He Ar \(H_2\) \(N_2\);
+\(\alpha(10^{-41}F{\cdot}m^2)\) 2.300 18.52 9.143 19.62
+-->
+%数据<br>
+<br>
+We have,
+$$
+\frac{n^2-1}{n^2+2}
+=\frac{N\alpha}{3\epsilon_0}
+$$
+The \(\alpha\) can be calculated by this, 
+$$
+\alpha=
+\frac{n^2-1}{n^2+2}
+\frac{3\epsilon_0}{N}
+=
+3\epsilon_0
+\frac{n^2-1}{n^2+2}
+\frac{k_B T}{p}
+$$
+And the refractive index is, 
+$$
+\frac{n^2-1}{n^2+2}
+=
+1-\frac{3}{n^2+2}
+=
+\frac{N\alpha}{3\epsilon_0}
+$$$$
+\frac{3}{n^2+2}
+=
+1-\frac{N\alpha}{3\epsilon_0}
+$$$$
+n^2+2
+=
+\frac{9\epsilon_0}{3\epsilon_0-N\alpha}
+$$$$
+n^2
+=
+\frac{9\epsilon_0-6\epsilon_0+2N\alpha}{3\epsilon_0-N\alpha}
+=
+\frac{3\epsilon_0+2N\alpha}{3\epsilon_0-N\alpha}
+$$$$
+n
+=\sqrt{
+\frac{3\epsilon_0+2N\alpha}{3\epsilon_0-N\alpha}
+}
+$$
+<br>
+<b><u>Phase shift</u></b><br>
+The phase shift over the nozzle gas is,
+$$
+\phi(x,y)=\int^{\infty}_{-\infty} n(x,y,z) k dz
+$$
+
+
+<!--
++[H函数](,气阀样本)
+
+计算气体折射率(M函数):...
+气阀相位位移(M函数):...
++[M函数](,气阀相位位移)
++[新建阅读窗口](,气阀相位位移)
+-->
+## end
+#33, 18:
+文档\物理问题\气体折射率.ftxt
+## end
+#35, 96:
+https://en.wikipedia.org/wiki/Clausius%E2%80%93Mossotti_relation#Lorentz%E2%80%93Lorenz_equation
+## end
+#38, 61:
+https://refractiveindex.info/?shelf=main&book=N2&page=Peck-0C
+## end
+#41, 84:
+file:///C:/Users/cheng/Desktop/paper/Refractive_index/2016_Couperus_et_al.pdf#page=4
+## end
+#43, 82:
+Gas He Ar \(H_2\) \(N_2\);
+\(\alpha(10^{-41}F{\cdot}m^2)\) 2.300 18.52 9.143 19.62
+## end
+#46, 359:
+%{
++[返回目录](,计算气体折射率)
++[M函数](,计算气体折射率)
+%}
+
+physics_constant;
+alpha=19.62e-41;
+p0=1e5;
+T0=273;
+N0=p0/kB/T0; 
+
+n=sqrt((3*epsilon0+2*N0*alpha)./(3*epsilon0-N0*alpha));
+
+disp(sprintf('Pressure: %.2e Pa',p0))
+disp(sprintf('Temperature: %.1f K',T0))
+disp(sprintf('Number density: %.2e cm^-3',N0/1e6))
+disp(sprintf('Refractive index: %.7f',n))
+
+%{
++[M函数](,计算气体折射率)
+%}
+## end
+#49, 18:
+文档\物理问题\气体折射率.ftxt
+## end
+#51, 28:
+文档\物理问题\De_Laval_nozzle.ftxt
+## end
+#53, 1601:
+%{
++[M函数](,气阀相位位移)
+
+显示分布截面(M函数):...
+相位分布(M函数):...
++[M函数](,显示分布截面)
+
+Heat capacity ratio::https://en.wikipedia.org/wiki/Heat_capacity_ratio
++[打开网页](,Heat capacity ratio)
+
+mp
++[M函数](,气阀相位位移)
+%}
+
+clf
+physics_constant;
+addpath('Matlab/nozzle')
+addpath('Matlab/optics');
+
+% laser input
+lm=400e-9;
+w0=1e-2;
+E0=1;
+n=1;
+
+orig=[2,5,0]*1e-3;
+k1=[0,0,30];
+k2=[0.,0.001,30];
+k=2*pi/lm;
+
+%{
++[M函数](,气阀相位位移)
+%}
+
+% gas input N2
+gamma=1.404;
+m=14.007*mp;
+alpha=19.62e-41;
+T0=300;
+P0=150;
+P0=P0*0.0689476e5;
+%100 psi
+
+P=3;
+
+% nozzle inputs
+L1=1e-3;
+enter_d=1e-3;
+L2=3e-3;
+throat_d=0.77e-3;
+exit_d=2.40e-3;
+L=L1+L2;
+
+% space setting
+Nx=100;
+Ny=400;
+Nz=50;
+Dx=4e-2;
+Dy=2e-2;
+x0=linspace(-Dx/2,Dx/2,Nx);
+y0=linspace(0,Dy,Ny);
+[X,Y]=meshgrid(x0,y0);
+
+z0=linspace(-20e-3,0,Nz);
+dz=z0(2)-z0(1);
+
+phi=zeros(size(X));
+
+for i=1:length(z0)
+Z=z0(i)*ones(size(X));
+N=Nozzle_output(Z,X,Y,L1,L2,enter_d,throat_d,exit_d,gamma,m,T0,P0,P);
+n=sqrt((3*epsilon0+2*N*alpha)./(3*epsilon0-N*alpha));
+phi=phi+k*n*dz;
+end
+
+phi=phi*2;
+
+% interferometer
+
+E1=GaussianBeam_3D(X,Y,Z,orig,k1,lm,w0,E0,1);
+E2=GaussianBeam_3D(X,Y,Z,orig,k2,lm,w0,E0,1);
+
+E=E1.*exp(-1i*phi)+E2;
+I=abs(E).^2;
+
+
+
+subplot(2,1,2)
+surf(X/1e-3,Y/1e-3,I)
+view([0,90])
+shading interp
+axis equal
+title('Interferometer pattern')
+xlabel('X [mm]')
+ylabel('Y [mm]')
+
+subplot(2,2,1)
+surf(X/1e-3,Y/1e-3,phi-max(max(phi))+pi)
+view([-90,0])
+shading interp
+axis equal
+title('Phase shift')
+xlabel('X [mm]')
+ylabel('Y [mm]')
+
+subplot(2,2,2)
+surf(X/1e-3,Y/1e-3,N/1e6)
+view([0,90])
+shading interp
+title('Density distribution')
+colorbar
+xlabel('X [mm]')
+ylabel('Y [mm]')
+
+%{
++[M函数](,气阀相位位移)
+%}
+## end
+#56, 781:
+%{
++[M函数](,气阀相位位移)
+%}
+
+clf
+physics_constant;
+addpath('Matlab\nozzle')
+
+P=3;
+% gas input
+gamma=5/3;
+m=4*mp;
+T0=300;
+P0=40e5;
+alpha=19.62e-41;
+
+% nozzle inputs
+L1=1e-3;
+enter_d=1e-3;
+L2=3e-3;
+throat_d=0.5e-3;
+exit_d=4e-3;
+L=L1+L2;
+
+% location
+x0=linspace(-10e-3,10e-3,200);
+y0=linspace(0e-3,10e-3,200);
+[X,Y]=meshgrid(x0,y0);
+
+z0=linspace(-20e-3,20e-3,50);
+
+for i=1:length(z0)
+Z=z0(i)*ones(size(X));
+N=Nozzle_output(Z,X,Y,L1,L2,enter_d,throat_d,exit_d,gamma,m,T0,P0,P);
+n=sqrt((3*epsilon0+2*N*alpha)./(3*epsilon0-N*alpha));
+
+subplot(1,2,1)
+surf(X/1e-3,Y/1e-3,N/1e6);
+colorbar
+shading interp
+xlabel('X [mm]')
+ylabel('Y [mm]')
+view(0,90)
+
+subplot(1,2,2)
+surf(X/1e-3,Y/1e-3,n);
+colorbar
+shading interp
+xlabel('X [mm]')
+ylabel('Y [mm]')
+view(0,90)
+pause(0.01)
+end
+
+
+%{
++[M函数](,气阀相位位移)
+%}
+## end
+#59, 812:
+%{
++[M函数](,气阀相位位移)
+
+显示分布截面(M函数):...
+相位分布(M函数):...
++[M函数](,显示分布截面)
+%}
+
+clf
+physics_constant;
+addpath('Matlab\nozzle')
+
+P=3;
+% laser input
+lm=400e-9;
+k=2*pi/lm;
+
+% gas input
+gamma=5/3;
+m=4*mp;
+T0=300;
+P0=40e5;
+alpha=19.62e-41;
+
+% nozzle inputs
+L1=1e-3;
+enter_d=1e-3;
+L2=3e-3;
+throat_d=0.5e-3;
+exit_d=4e-3;
+L=L1+L2;
+
+% location
+x0=linspace(-10e-3,10e-3,200);
+y0=linspace(0e-3,10e-3,200);
+[X,Y]=meshgrid(x0,y0);
+
+z0=linspace(-20e-3,20e-3,50);
+dz=z0(2)-z0(1);
+
+phi=zeros(size(X));
+
+for i=1:length(z0)
+Z=z0(i)*ones(size(X));
+N=Nozzle_output(Z,X,Y,L1,L2,enter_d,throat_d,exit_d,gamma,m,T0,P0,P);
+n=sqrt((3*epsilon0+2*N*alpha)./(3*epsilon0-N*alpha));
+phi=phi+k*n*dz;
+end
+
+surf(X/1e-3,Y/1e-3,phi);
+colorbar
+shading interp
+xlabel('X [mm]')
+ylabel('Y [mm]')
+title('\phi(X,Y)')
+view(0,90)
+pause(0.01)
+
+
+%{
++[M函数](,气阀相位位移)
+%}
+## end
+#62, 17:
+文档\物理问题\高斯光束.ftxt
+## end
+#64, 49:
+https://en.wikipedia.org/wiki/Heat_capacity_ratio
+## end
+#66, 94:
+I=
+2\|\mathbf{E}_{10}\|^2
+
++2\|\mathbf{E}_{10}\|^2
+cos(\Delta\vec{k}\cdot \vec{r} -\Delta\phi)
+## end
+#69, 170:
+\Delta \Phi
+=\Delta\vec{k}\cdot \Delta \vec{r}
+=\Delta y\ k_0\ sin\ \theta
+\\\Rightarrow
+\Lambda\ k_0\ sin\ \theta
+=\Lambda\ \frac{2\pi}{\lambda_0}\ sin\ \theta
+=2 \pi
+
+
+
+## end
+#73, 31:
+\Lambda\
+=\lambda_0/sin\ \theta
+## end
+#76, 30:
+sin\ \theta
+=\lambda_0/\Lambda
+## end
+#79, 95:
+%{
++[M函数](,验算公式)
+%}
+
+physics_constant;
+
+lm0=1064e-9;
+Lm=0.1e-3;
+
+theta=lm0/Lm;
+theta/pi*180
+
+
+
+
+## end
+### 结束

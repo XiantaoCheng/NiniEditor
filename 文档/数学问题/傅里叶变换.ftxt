@@ -1,0 +1,761 @@
+### 节点
+地址, 的, 傅里叶变换, 目录, 的, 的, 20210722 Debug, M函数, 的, 计算相位, M函数, 的, 空间相位, M函数, 的, spatial_phase, M函数, 的, 地址, spatial_phase, 的, 记忆, spatial_phase, 的, 测试, 的, 保存, 的, 一维分布, 的, 一维测试, 的, 二维分布, 的, 测试fft, html, 的, [1]., 表达式, 的, 公式, 的, [2]., 的, [3]., 的, [4]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [5]., 的, [6]., 的, [7]., 的, [8]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [9]., 的, [10]., 的, [11]., 的, [12]., 的, [13]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, 验证公式, M函数, 的, 常数情况, 的, fft_x, M函数, 的, 地址, fft_x, 的, fft_x, 的, 测试, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 6#, 2#9, #, 9#, 9#12, #, 12#, 12#15, #, 15#, 15#18, #, #15, 21#19, 3#, #, 15#24, #, 9#26, #, 9#28, #, 24#30, #, 9#32, #, 2#34, #, 34#, 34#37, #, #, 37#38, 37#, 34#42, #, 34#44, #, 34#46, #, #, 42#47, 42#, #, 44#50, 44#, 34#54, #, 34#56, #, 34#58, #, 34#60, #, #, 46#61, 46#, #, 54#64, 54#, #, 56#67, 56#, #, 58#70, 58#, #, 60#73, 60#, 34#77, #, 34#79, #, 34#81, #, 34#83, #, 34#85, #, #, 77#86, 77#, #, 79#89, 79#, #, 81#92, 81#, #, 83#95, 83#, #, 85#98, 85#, 34#102, #, 102#, 102#105, #, 102#107, #, 107#, 107#110, #, #107, 21#111, #, 107#115, #, 
+### 内容
+#0, 18:
+文档\数学问题\傅里叶变换.ftxt
+## end
+#2, 300:
++[返回目录](,傅里叶变换)
+地址::文档\数学问题\傅里叶变换.ftxt
+
+关于matlab中fft的问题. 
+FDH::文档\物理问题\FDH.ftxt
++[打开文件](+新窗口,FDH)
+的(FDH,测试fft含义)->+[显示](,测试fft含义)
+fft_x::C:\Users\cheng\Documents\MATLAB
++[打开](,fft_x)
+
+
+测试fft(html):...
+20210722 Debug(M函数): fft_x的自变量需要是均匀的...
+计算相位(M函数):...
++[新建阅读窗口](,计算相位)
++[新建阅读窗口](,20210722 Debug)
+
+
+## end
+#3, 49:
+傅里叶变换:...
+创建于 20210722
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 902:
+%{
++[M函数](,色散曲线)
+%}
+
+physics_constant;
+
+D=0.67;
+theta=47.28;
+G=1480;
+d=1e-3/G;
+
+lm_0=800e-9;
+dtau=65e-15;
+
+dw=2/dtau;
+% dlm=lm_0^2/2/pi/c*dw;
+n=-1;
+
+w_0=2*pi*c./lm_0;
+w=linspace(w_0-5*dw,w_0+5*dw,100);
+lm=2*pi*c./w;
+
+t0=-100e-15;
+
+for i=1:length(lm)
+% S=exp(-(w-w_0).^2/dw^2).*exp(-1i*t0*w);
+S=zeros(size(w));
+% S(fix((1+end)/2))=1;
+S(i)=1;
+[t,f]=ifft_k(w,S);
+f0=exp(-1i*t*w(i));
+[w1,S1]=fft_x(t,f);
+lm1=2*pi*c./w1;
+
+beta=asind(sind(theta)+n*lm/d);
+subplot(2,2,1)
+plot(lm/1e-9,abs(S));
+xlabel('\lambda [nm]')
+
+subplot(2,2,3)
+% plot(lm1/1e-9,abs(S1));
+% plot(lm/1e-9,abs(fft(ifft(S))));
+% xlabel('\lambda [nm]')
+plot(w/1e-9,w1/1e-9,'o');
+xlabel('\lambda [nm]')
+ylabel('\lambda [nm]')
+
+subplot(2,2,2)
+plot(t/1e-15,real(f0),t/1e-15,imag(f0));
+xlabel('t [fs]')
+title('function');
+
+subplot(2,2,4)
+plot(t/1e-15,real(f),t/1e-15,imag(f));
+xlabel('t [fs]')
+title('ifft');
+
+pause(0.01)
+
+end
+
+
+%{
++[M函数](,色散曲线)
+%}
+## end
+#9, 1539:
+%{
++[M函数](,计算相位)
+
+空间相位(M函数):...
++[新建阅读窗口](,空间相位)
+保存:...
+一维分布:...
+二维分布:...
+%}
+
+physics_constant;
+addpath('Matlab\fft')
+
+ne=2e25;
+gamma=2;
+lmbd=800e-9;
+
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_p_1mm.mat';
+result=load(fileName);
+a_y=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_0.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_0_1mm.mat';
+result=load(fileName);
+b_y=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p_1mm.mat';
+result=load(fileName);
+a_z=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Rho_p_1mm.mat';
+result=load(fileName);
+p_r=result.result;
+
+% j=25;
+N_x=size(a_y,2);
+N_y=size(a_y,3);
+x=linspace(0,100e-6,N_x);
+y=linspace(0,80e-6,N_y);
+
+i=35;
+field_y0=reshape(b_y(i,:,:),size(b_y,2),size(b_y,3));
+field_y=reshape(a_y(i,:,:),size(a_y,2),size(a_y,3));
+field_z=-reshape(a_z(i,:,:),size(a_z,2),size(a_z,3));
+
+field_y=field_y-mean(field_y);
+field_y0=field_y0-mean(field_y0);
+field_y=field_y-field_y0;
+
+[Ey_phase,Ey_x]=spatial_phase(field_y);
+[Ez_phase,Ez_x]=spatial_phase(field_z);
+Dph=sin(Ey_phase-Ez_phase);
+
+% plot(x,Ey_phase,x,Ez_phase)
+% plot(x,sin(Ey_phase-Ez_phase))
+% plot(x,Ey_phase(40,:))
+
+% surf(Ey_phase)
+surf(Dph(200:5500,5:37))
+shading interp
+view([90,90])
+
+figure
+surf(-field_y0(200:4000,5:37))
+shading interp
+view([90,90])
+
+%{
+clf
+记住"Matlab"
++[M函数](,计算相位)
+%}
+## end
+#12, 246:
+%{
++[M函数](,空间相位)
+
+spatial_phase(M函数):...
+%}
+
+addpath('Matlab\fft');
+% [Ey_ph,Ey_x]=spatial_phase(field_y);
+[Ey_ph,Ey_x]=spatial_phase(field_z);
+
+subplot(2,1,1)
+plot(x,real(Ey_x)*2,x,field_y,'--')
+subplot(2,1,2)
+plot(x,Ey_ph)
+
+
+%{
++[M函数](,空间相位)
+%}
+## end
+#15, 466:
+%{
++[保存M函数](,spatial_phase)
+地址::Matlab\fft\spatial_phase.m
+测试:...
+%}
+
+function [Ey_ph,Ey_x]=spatial_phase(field_y)
+
+Ey_w=fft(field_y);
+N=length(Ey_w);
+x=1:N;
+
+if size(field_y,1)==1
+    Ey_w(x<=N/2)=0;
+elseif size(field_y,2)==1
+    Ey_w(x<=N/2)=0;
+else
+    Ey_w(x<=N/2,:)=0;
+end
+
+Ey_x=ifft(Ey_w);
+
+Ey_ph=sign_1(imag(Ey_x)).*acos(real(Ey_x)./abs(Ey_x));
+
+% subplot(2,1,1)
+% plot(x,real(Ey_x)*2,x,field_y,'--')
+% subplot(2,1,2)
+% plot(x,Ey_ph)
+
+end
+
+%{
++[M函数](,空间相位)
+%}
+## end
+#18, 26:
+Matlab\fft\spatial_phase.m
+## end
+#24, 489:
+%{
++[M函数](,测试)
+一维测试:...
+%}
+
+addpath('Matlab\fft');
+Ey_w=fft(field_y);
+N=length(Ey_w);
+x=1:N;
+if length(size(field_y))==1
+    Ey_w(x<=N/2)=0;
+else
+    Ey_w(x<=N/2,:)=0;
+end
+Ey_x=ifft(Ey_w);
+
+Ey_ph=sign_1(imag(Ey_x)).*acos(real(Ey_x)./abs(Ey_x));
+
+% subplot(2,1,1)
+% plot(x,real(Ey_x)*2,x,field_y,'--')
+% subplot(2,1,2)
+% plot(x,Ey_ph)
+
+% clf
+%subplot(1,2,1)
+%plot(real(Ey_w))
+
+%subplot(1,2,2)
+% surf(real(Ey_x))
+surf(Ey_ph)
+shading interp
+view([90,90])
+
+
+%{
+plot(Ey_ph(:,25))
++[M函数](,测试)
+%}
+## end
+#26, 1231:
+%{
++[M函数](,计算相位)
+
+空间相位(M函数):...
++[新建阅读窗口](,空间相位)
+%}
+
+physics_constant;
+ne=2e25;
+gamma=2;
+lmbd=800e-9;
+
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_p_1mm.mat';
+result=load(fileName);
+a_y=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_0.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_0_1mm.mat';
+result=load(fileName);
+b_y=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p_1mm.mat';
+result=load(fileName);
+a_z=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Rho_p_1mm.mat';
+result=load(fileName);
+p_r=result.result;
+
+j=25;
+N_x=size(a_y,2);
+N_y=size(a_y,3);
+x=linspace(0,100e-6,N_x);
+y=linspace(0,80e-6,N_y);
+
+i=50;
+field_y0=reshape(b_y(i,:,j),1,size(b_y,2));
+field_y=reshape(a_y(i,:,j),1,size(a_y,2));
+field_z=-reshape(a_z(i,:,j),1,size(a_z,2));
+
+field_y=field_y-mean(field_y);
+field_y0=field_y0-mean(field_y0);
+field_y=field_y-field_y0;
+
+
+field_p=-reshape(p_r(i,:,:),size(a_z,2),size(a_z,3));
+dt_s=0.12375;
+T_r=lmbd/c/2/pi;
+L=i*c*dt_s*T_r*200;
+
+
+
+
+%{
+clf
+记住"Matlab"
++[M函数](,计算相位)
+%}
+## end
+#28, 1288:
+%{
++[M函数](,一维分布)
+%}
+
+physics_constant;
+addpath('Matlab\fft')
+
+ne=2e25;
+gamma=2;
+lmbd=800e-9;
+
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_p_1mm.mat';
+result=load(fileName);
+a_y=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_0.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_0_1mm.mat';
+result=load(fileName);
+b_y=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p_1mm.mat';
+result=load(fileName);
+a_z=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Rho_p_1mm.mat';
+result=load(fileName);
+p_r=result.result;
+
+j=25;
+N_x=size(a_y,2);
+N_y=size(a_y,3);
+x=linspace(0,100e-6,N_x);
+y=linspace(0,80e-6,N_y);
+
+i=60;
+field_y0=reshape(b_y(i,:,j),1,size(b_y,2));
+field_y=reshape(a_y(i,:,j),1,size(a_y,2));
+field_z=-reshape(a_z(i,:,j),1,size(a_z,2));
+
+field_y=field_y-mean(field_y);
+field_y0=field_y0-mean(field_y0);
+field_y=field_y-field_y0;
+
+[Ey_phase,Ey_x]=spatial_phase(field_y);
+[Ez_phase,Ez_x]=spatial_phase(field_z);
+
+% plot(x,Ey_phase,x,Ez_phase)
+plot(x,sin(Ey_phase-Ez_phase),x,-field_y0*70)
+axis([min(x),max(x),-0.4,0.4])
+
+
+
+%{
++[M函数](,一维分布)
+%}
+## end
+#30, 283:
+%{
++[M函数](,测试)
+一维测试:...
+%}
+
+addpath('Matlab\fft');
+Ey_w=fft(field_y);
+N=length(Ey_w);
+x=1:N;
+Ey_w(x<=N/2)=0;
+Ey_x=ifft(Ey_w);
+
+Ey_ph=sign_1(imag(Ey_x)).*acos(real(Ey_x)./abs(Ey_x));
+subplot(2,1,1)
+plot(x,real(Ey_x)*2,x,field_y,'--')
+subplot(2,1,2)
+plot(x,Ey_ph)
+
+
+%{
++[M函数](,空间相位)
+%}
+## end
+#32, 1539:
+%{
++[M函数](,计算相位)
+
+空间相位(M函数):...
++[新建阅读窗口](,空间相位)
+保存:...
+一维分布:...
+二维分布:...
+%}
+
+physics_constant;
+addpath('Matlab\fft')
+
+ne=2e25;
+gamma=2;
+lmbd=800e-9;
+
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_p_1mm.mat';
+result=load(fileName);
+a_y=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_0.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ey_0_1mm.mat';
+result=load(fileName);
+b_y=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p_1mm.mat';
+result=load(fileName);
+a_z=result.result;
+
+% fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Ez_p.mat';
+fileName='文档\\模拟\\report\\20221002\\res\\LWFA\\Rho_p_1mm.mat';
+result=load(fileName);
+p_r=result.result;
+
+% j=25;
+N_x=size(a_y,2);
+N_y=size(a_y,3);
+x=linspace(0,100e-6,N_x);
+y=linspace(0,80e-6,N_y);
+
+i=35;
+field_y0=reshape(b_y(i,:,:),size(b_y,2),size(b_y,3));
+field_y=reshape(a_y(i,:,:),size(a_y,2),size(a_y,3));
+field_z=-reshape(a_z(i,:,:),size(a_z,2),size(a_z,3));
+
+field_y=field_y-mean(field_y);
+field_y0=field_y0-mean(field_y0);
+field_y=field_y-field_y0;
+
+[Ey_phase,Ey_x]=spatial_phase(field_y);
+[Ez_phase,Ez_x]=spatial_phase(field_z);
+Dph=sin(Ey_phase-Ez_phase);
+
+% plot(x,Ey_phase,x,Ez_phase)
+% plot(x,sin(Ey_phase-Ez_phase))
+% plot(x,Ey_phase(40,:))
+
+% surf(Ey_phase)
+surf(Dph(200:5500,5:37))
+shading interp
+view([90,90])
+
+figure
+surf(-field_y0(200:4000,5:37))
+shading interp
+view([90,90])
+
+%{
+clf
+记住"Matlab"
++[M函数](,计算相位)
+%}
+## end
+#34, 812:
+<!--
++[H函数](,测试fft)
+-->
+
+<h2>Fourier transform</h2>
+If the steps of the one-dimension \(L\)-length grid are,
+%[1].
+
+The function on the grid is,
+%[2].
+
+The Fuorier transformed function is, 
+%[3].
+
+Because the function is in a finite range \([0,L]\), the \(k_n\) should be,
+%[4].
+We want to find the \(\Delta k\) and \(M\). 
+%[5].
+
+The periodic condition is, 
+%[6].
+%[7].
+%[8].
+As a result,
+%[9].
+
+The function exits only on separate steps, so two different functions can be same, for example,
+%[10].
+We can make \(x[m]=m\Delta x+A_0\) and \(A_0=0\). If \(A_0\ne 0\), we just need to add different phases to different components. 
+%[11].
+%[12].
+The minimum \(K\) can make all \(m\) satisfy eqn.[12]. is,
+%[13].
+
+
+<!--
+[13].:
+将"K=\frac{2*\pi}{\Delta x}"记作为式(13)
+Nini, 打开公式分析器(文件)
+
+验证公式(M函数):...
+
++[H函数](,测试fft)
+-->
+## end
+#37, 19:
+x\ _{i}=i\ \Delta x
+## end
+#38, 15:
+x[i]=i*\Delta x
+## end
+#42, 18:
+y\ _{i}=f(x\ _{i})
+## end
+#44, 58:
+Y\ _{n}=\sum_{m=1}^{M}{y\ _{m}\ exp(-i\ k\ _{n}\ x\ _{m})}
+## end
+#46, 19:
+k\ _{n}=n\ \Delta k
+## end
+#47, 12:
+y[i]=f(x[i])
+## end
+#50, 44:
+Y[n]=\sum_{1}^{M}{m}{y[m]*exp(-i*k[n]*x[m])}
+## end
+#54, 29:
+\phi\ _{n,m}=k\ _{n}\ x\ _{m}
+## end
+#56, 11:
+f(x)=f(x+L)
+## end
+#58, 24:
+k\ x=k\ \left(x+L\right)
+## end
+#60, 14:
+k\ L=2\ n\ \pi
+## end
+#61, 15:
+k[n]=n*\Delta k
+## end
+#64, 19:
+\phi[n,m]=k[n]*x[m]
+## end
+#67, 11:
+f(x)=f(x+L)
+## end
+#70, 11:
+k*x=k*(x+L)
+## end
+#73, 11:
+k*L=2*n*\pi
+## end
+#77, 19:
+k\ _{n}=2\ n\ \pi/L
+## end
+#79, 54:
+exp(-i\ k\ x\ _{m})=exp(-i\ \left(k+K\right)\ x\ _{m})
+## end
+#81, 44:
+k\ m\ \Delta x=\left(k+K\right)\ m\ \Delta x
+## end
+#83, 24:
+K\ m\ \Delta x=2\ n\ \pi
+## end
+#85, 25:
+K=\frac{2\ \pi}{\Delta x}
+## end
+#86, 14:
+k[n]=2*n*\pi/L
+## end
+#89, 33:
+exp(-i*k*x[m])=exp(-i*(k+K)*x[m])
+## end
+#92, 29:
+k*m*\Delta x=(k+K)*m*\Delta x
+## end
+#95, 20:
+K*m*\Delta x=2*n*\pi
+## end
+#98, 24:
+K=\frac{2*\pi}{\Delta x}
+## end
+#102, 222:
+%{
++[M函数](,验证公式)
+
+常数情况:...
+fft_x(M函数):...
+%}
+
+physics_constant;
+
+dx=0.1;
+N=98;
+x=(1:N)*dx;
+L=N*dx;
+
+D=0.2;
+% f=exp(-(x-L/2).^2/D^2)*0+1;
+f=exp(-(x-L/2).^2/D^2);
+
+[k,F]=fft_x(x,f);
+plot(k,abs(F),'.-')
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#105, 255:
+%{
++[M函数](,验证公式)
+%}
+
+physics_constant;
+
+dx=0.1;
+N=98;
+x=(1:N)*dx;
+L=N*dx;
+
+D=0.2;
+f=exp(-(x-L/2).^2/D^2)*0+1;
+% f=exp(-(x-L/2).^2/D^2);
+
+dk=2*pi/L;
+K=2*pi/dx;
+
+F0=fft(f);
+F=fftshift(F0);
+k0=((0:N-1)-fix(N/2))*dk;
+
+plot(k0,abs(F),'.-')
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#107, 315:
+%{
+地址::/home/xiantao/Documents/MATLAB/fft_x.m
++[保存M函数](,fft_x)
+
+测试:...
+%}
+
+function [k,F]=fft_x(x,f)
+physics_constant;
+
+dx=x(2)-x(1);
+N=length(x);
+
+L=N*dx;
+
+dk=2*pi/L;
+K=2*pi/dx;
+
+F0=fft(f);
+F0=fftshift(F0);
+k=((0:N-1)-fix(N/2))*dk;
+
+% trapz(abs(F0))
+F=F0/trapz(k,abs(F0))*trapz(x,abs(f));
+
+end
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#110, 38:
+/home/xiantao/Documents/MATLAB/fft_x.m
+## end
+#115, 331:
+%{
++[M函数](,验证公式)
+
+常数情况:...
+fft_x(M函数):...
+%}
+
+physics_constant;
+
+dx=0.1;
+N=98;
+x=(1:N)*dx;
+L=N*dx;
+
+D=0.2;
+% f=exp(-(x-L/2).^2/D^2)*0+1;
+f=exp(-(x-L/2).^2/D^2);
+
+dk=2*pi/L;
+K=2*pi/dx;
+
+F0=fft(f);
+F=fftshift(F0);
+k0=((0:N-1)-fix(N/2))*dk;
+
+plot(k0,abs(F),'.-')
+
+% trapz(abs(F0))
+% trapz(k0,abs(F0))/trapz(x,f)
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+### 结束

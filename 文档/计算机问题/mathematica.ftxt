@@ -1,0 +1,104 @@
+### 节点
+地址, 的, mathematica, 目录, 的, 的, 参考5, 的, 参考4, 的, 参考3, 的, Grobner, 的, 参考2, 的, 参考1, 的, Entscheidungsproblem, 的, Church_Turing, 的, Church1, 的, Church2, 的, wiki, 打开网页, 打开网页, 打开网页, 的, 符号积分, 的, wiki, 打开网页, 的, FORM, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 2#10, #, 2#12, #, 2#14, #, 2#16, #, 2#18, #, 18#20, #, 18#22, #, 18#24, #, 18#26, #, #6, #6, #26, 2#31, #, 31#33, #, #33, 2#36, #, 
+### 内容
+#0, 25:
+文档\计算机问题\mathematica.ftxt
+## end
+#2, 705:
++[返回目录](,mathematica)
+地址::文档\计算机问题\mathematica.ftxt
+
+我想看一下mathematica的算法
+参考1::https://community.wolfram.com/groups/-/m/t/489020
+参考2::https://dl.acm.org/topic/ccs2012/10010147.10010148?ContentGroupKey=10.1145%2F2465506&expand=all
+Grobner::https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis
+参考3::https://dl.acm.org/doi/pdf/10.1145/1089411.1089412
+参考4::https://zh.wikipedia.org/wiki/%CE%9B%E6%BC%94%E7%AE%97
+(lambda演算的判定性问题)
+参考5::https://reference.wolfram.com/language/tutorial/SomeNotesOnInternalImplementation.html
+(mathematica使用的算法)
++[打开网页](,参考5)
+
+FORM::https://github.com/vermaseren/form
+(高能物理常用的大型公式推导的工具. 甚至比mathematica快)
++[打开网页](,FORM)
+
+我会感兴趣的关键词: 
+pattern matching
+
+Entscheidungsproblem:...
+符号积分:...
+
+
+
+## end
+#3, 55:
+mathematica:...
+创建于 20211222
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 86:
+https://reference.wolfram.com/language/tutorial/SomeNotesOnInternalImplementation.html
+## end
+#8, 54:
+https://zh.wikipedia.org/wiki/%CE%9B%E6%BC%94%E7%AE%97
+## end
+#10, 50:
+https://dl.acm.org/doi/pdf/10.1145/1089411.1089412
+## end
+#12, 48:
+https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis
+## end
+#14, 95:
+https://dl.acm.org/topic/ccs2012/10010147.10010148?ContentGroupKey=10.1145%2F2465506&expand=all
+## end
+#16, 49:
+https://community.wolfram.com/groups/-/m/t/489020
+## end
+#18, 288:
+
+wiki::https://en.wikipedia.org/wiki/Entscheidungsproblem
++[打开网页](,wiki)
+
+Church_Turing::https://plato.stanford.edu/entries/church-turing/
+Church1::https://people.csail.mit.edu/brooks/idocs/church_ent.pdf
+Church2::https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf
+
+
+
+
+
+## end
+#20, 49:
+https://plato.stanford.edu/entries/church-turing/
+## end
+#22, 56:
+https://people.csail.mit.edu/brooks/idocs/church_ent.pdf
+## end
+#24, 69:
+https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf
+## end
+#26, 50:
+https://en.wikipedia.org/wiki/Entscheidungsproblem
+## end
+#31, 120:
+
+wiki::https://en.wikipedia.org/wiki/Symbolic_integration
++[打开网页](,wiki)
+
+这个问题的处理方法可能是, 微分运算和函数构成了一个field. 然后用余数定理来找解
+
+
+
+## end
+#33, 50:
+https://en.wikipedia.org/wiki/Symbolic_integration
+## end
+#36, 34:
+https://github.com/vermaseren/form
+## end
+### 结束

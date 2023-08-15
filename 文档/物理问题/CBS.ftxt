@@ -1,0 +1,7762 @@
+### 节点
+地址, 的, CBS, 目录, 的, 的, 资料1, 的, 论文, 打开网页, 的, 论文笔记, 的, Bremsstrahlung, 的, 蒙卡模拟, 的, CBSMonteCarlo, 的, 测试运行, 的, possDistribution, 的, CBSScatterPosDistribution, 的, labDistribution, 的, 公式, html, 的, [1]., 的, [2]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [3]., 表达式, 的, 公式, 的, [4]., 的, [5]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [6]., 手, 表达式, 的, 公式, 的, [7]., 的, [8]., 的, [9]., 表达式, 的, 公式, 手, 表达式, 的, 公式, 表达式, 的, 公式, 的, [10]., 的, [11]., 的, [12]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [13]., 表达式, 的, 公式, 的, [14]., 手, 表达式, 的, 公式, 的, [15]., 的, [16]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [17]., 表达式, 的, 公式, 的, [18]., 的, [19]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [20]., 的, [21]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [22]., 的, [23]., 表达式, 的, 公式, 的, 示意图1, electron, 的, photon, 的, 水平线, 的, p_2, 的, k_1, 的, k_2, 的, 空间点, 在, 空间点, 在, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, 样式, 箭头宽度, 的, 箭头长度, 的, 类型, 的, y, 的, x, 的, 空间点, 在, 长度, 的, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, y, 的, x, 的, 空间点, 在, 长度, 的, 类型, 的, 样式, 箭头宽度, 的, 箭头长度, 的, 样式, 箭头宽度, 的, 箭头长度, 的, 方向, 朝向, 方向, 朝向, 方向, 朝向, 的, [24]., 的, [25]., 表达式, 的, 公式, 表达式, 的, 公式, 的, test, 表达式, 的, 公式, 表达式, 的, 公式, 的, [26]., 表达式, 的, 公式, 的, [27]., 的, [28]., 表达式, 的, 公式, 表达式, 的, 公式, 的, 图1, 章, 的, 测试公式, M函数, 的, 参考1, 的, Lorentz_T, M函数, 的, 地址, Lorentz_T, 的, 记忆, Lorentz_T, 的, 测试, 的, 时空图, 的, Lorentz_T2, M函数, 的, 地址, Lorentz_T2, 的, Lorentz_T2, 的, CBS碰撞, 的, 参考函数, 的, ComptonScatter, M函数, 的, 测试, 的, 地址, ComptonScatter, 的, ComptonScatter, 的, 康普顿散射, 的, 参考程序, 的, ComptonBackScatter, M函数, 的, 地址, 的, 测试, 的, 保存, ComptonBackScatter, 的, ComptonBackScatter, 打开网页, 的, 文件夹, 的, 文件夹2, 的, KN公式, 的, QFT, 打开网页, 的, QFT公式, 打开网页, 的, [29]., 的, [30]., 的, [31]., 手, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, 蒙卡模拟, M函数, 的, [32]., 表达式, 的, 公式, 的, KN公式验证, 的, 参考, 的, ComptonCrossSection_KN, M函数, 的, 地址, 的, 测试, ComptonCrossSection_KN, 的, ComptonCrossSection_KN, 的, ComptonCrossSection_KN_total, M函数, 的, 地址, ComptonCrossSection_KN_total, 的, ComptonCrossSection_KN_total, 的, 单次散射, 的, 总散射截面, 的, 随机角分布, 的, 位置突变, 的, 保存, 的, 多次散射, 的, 能量守恒, 的, 能动量守恒, 的, 能量守恒, 的, [33]., 的, [34]., 手, 表达式, 的, 公式, 的, [35]., 表达式, 的, 公式, 的, [36]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [37]., 表达式, 的, 公式, 的, CBSCrossSection_KN_total, M函数, 的, CBS_rate, M函数, 的, 地址, CBS_rate, 的, CBS_rate, 的, 碰撞次数, 的, 保存, 的, CBS_event, M函数, 的, 地址, CBS_event, 的, CBS_event, 的, 概率碰撞, 的, 高斯光束反射, html, 的, [1]., 表达式, 的, 公式, 的, [2]., 表达式, 的, 公式, 的, [3]., 表达式, 的, 公式, 的, [4]., 的, [5]., 表达式, 的, 公式, 表达式, 的, 公式, 的, 公式验证, M函数, 的, 示意图, 的, 场分布, 的, 传播动画, 的, 场分布_inv, 的, 传播动画_inv, 的, 光场碰撞, 的, PM场景, 手, 光源, 的, 电子, 的, PM, 的, y, 的, x, 的, 空间点, 在, 宽度, 的, 长度, 的, 样式, 类型, 的, 方向, 朝向, 空间点, 在, 空间点, 在, y, 的, x, 的, 长度, 的, 类型, 的, y, 的, x, 的, 长度, 的, 类型, 的, 样式, 箭头宽度, 的, 箭头长度, 的, 样式, 箭头宽度, 的, 箭头长度, 的, 波长, 的, 腰宽, 的, 能量, 的, 的, 工具库, 的, 动画预览图, 的, 召唤规则, 的, 降临规则, 的, 光束代码, 的, 整理代码, 电子代码, 的, 手, PM代码, 的, 的, M代码, 的, M模板, 召唤规则, 的, 场景示意图, 的, 示意图代码, 方向, 朝向, 的, 画电子, 的, M代码, 的, 保存, 展宽, 的, m_width, m_height, m_y, m_x, m_cursor, m_readPtr, M代码, 的, 画电子, PM代码, 电子代码, 保存, 的, M模板, M代码, 的, 的, 整理代码, 光束代码, 的, 的, 的, 的, 的, 降临规则, 召唤规则, 的, 的, 光场预览图, 的, 召唤规则, 的, 动画预览图, 召唤规则, 光束代码, M代码, 保存, 的, M模板, 的, 的, 整理代码, 电子代码, PM代码, m_readPtr, m_cursor, m_x, m_y, m_height, m_width, M代码, 的, 画电子, 的, 的, 的, 的, 的, 降临规则, 的, 的, 场景示意图, 的, 的, 可动光源, 的, 光场检测, 的, 光场动画, 的, Gaussian_mirror_field, M函数, 的, 地址, 的, 测试, Gaussian_mirror_field, 的, Gaussian_mirror_field, 召唤规则, 的, 蒙卡模拟代码, 的, 模拟代码, 召唤规则, 光束代码, M代码, 保存, 的, M模板, 的, 的, 整理代码, 电子代码, PM代码, m_readPtr, m_cursor, m_x, m_y, m_height, m_width, M代码, 的, 画电子, 的, 的, 的, 的, 的, 降临规则, 的, 的, 蒙卡模拟代码, 的, 召唤规则, 的, 光场预览图, 手, 手, 手, 的, 读取, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, #8, 2#11, #, 2#13, #, 2#15, #, 15#17, #, 17#19, #, 17#21, #, 17#23, #, 17#25, #, 2#27, #, 27#, 27#30, #, 27#32, #, #, 30#33, 30#, #, 32#36, 32#, 27#40, #, #, 40#41, 40#, 27#45, #, 27#47, #, #, 45#48, 45#, #, 47#51, 47#, 27#55, #, #27, #, 55#57, 55#, 27#61, #, 27#63, #, 27#65, #, #, 61#66, 61#, #27, #, 63#70, 63#, #, 65#73, 65#, 27#77, #, 27#79, #, 27#81, #, #, 77#82, 77#, #, 79#85, 79#, #, 81#88, 81#, 27#92, #, #, 92#93, 92#, 27#97, #, #27, #, 97#99, 97#, 27#103, #, 27#105, #, #, 103#106, 103#, #, 105#109, 105#, 27#113, #, #, 113#114, 113#, 27#118, #, 27#120, #, #, 118#121, 118#, #, 120#124, 120#, 27#128, #, 27#130, #, #, 128#131, 128#, #, 130#134, 130#, 27#138, #, 27#140, #, #, 138#141, 138#, 27#145, #, #, 145#146, #, 145#148, #, 145#150, #, 145#152, #, 145#154, #, 145#156, #, 146#158, #, 148#160, #, 150#162, #, 150#164, #, 150#166, #, 150#168, #, 150#170, 152#, #, 152#173, #, 152#175, #, 152#177, #, 152#179, #, 152#181, #, 152#183, #, 152#185, #, 154#187, #, 154#189, #, 154#191, #, 154#193, #, 154#195, #, 156#197, #, 156#199, #, 156#201, #, 156#203, #, 156#205, 154#, #, 154#208, #, 154#210, 156#, #, 156#213, #, 156#215, #, 152#217, #, 154#219, #, 156#221, 27#224, #, 27#226, #, #, 140#227, 140#, #, 224#230, 224#, 27#234, #, #, 234#235, 234#, #, 226#238, 226#, 27#242, #, #, 242#243, 242#, 27#247, #, 27#249, #, #, 247#250, 247#, #, 249#253, 249#, 27#257, #, 257#, 27#260, #, 260#, 27#263, #, 260#265, #, 265#, 265#268, #, #265, 271#269, 3#, #, 265#274, #, 260#276, #, 260#278, #, 278#, 278#281, #, #278, 271#282, #, 260#286, #, 15#288, #, 260#290, #, 290#, 290#293, #, 290#295, #, #290, 271#296, #, 260#300, #, 260#302, #, 260#304, #, 304#, 304#307, #, 304#309, #, 304#311, #, #304, 271#312, #, #8, 11#317, #, 11#319, #, 11#321, #, 11#323, #, #323, 11#326, #, #326, 27#329, #, 27#331, #, 27#333, #, #27, #, 329#335, 329#, #, 331#338, 331#, #, 333#341, 333#, 27#345, #, 345#, 27#348, #, #, 348#349, 348#, 345#353, #, 353#355, #, 345#357, #, 357#, 357#360, #, 357#362, #, #357, 271#363, #, 345#367, #, 367#, 367#370, #, #367, 271#371, #, 345#375, #, 345#377, #, 345#379, #, 345#381, #, 345#383, #, 345#385, #, 304#387, #, 260#389, #, 345#391, #, 27#393, #, 27#395, #, #345, #, 393#397, 393#, 27#401, #, #, 395#402, 395#, 27#406, #, #, 401#407, 401#, #, 406#410, 406#, 27#414, #, #, 414#415, 414#, 345#419, #, 419#, 345#422, #, 422#, 422#425, #, #422, 271#426, #, 345#430, #, 430#432, #, 345#434, #, 434#, 434#437, #, #434, 271#438, #, 345#442, #, 2#444, #, 444#, 444#447, #, #, 447#448, 447#, 444#452, #, #, 452#453, 452#, 444#457, #, #, 457#458, 457#, 444#462, #, 444#464, #, #, 462#465, 462#, #, 464#468, 464#, 444#472, #, 472#, 472#475, #, 472#477, #, 472#479, #, 472#481, #, 472#483, #, 345#485, #, 2#487, #, #553, #, 487#489, #, 487#491, #, 487#493, #, 493#495, #, 493#497, #, 493#499, #, 493#501, #, 493#503, 493#, #, 493#506, #, 493#508, #, 489#510, #, 491#512, #, 489#514, #, 489#516, #, 489#518, #, 489#520, #, 491#522, #, 491#524, #, 491#526, #, 491#528, 489#, #, 489#531, #, 489#533, 491#, #, 491#536, #, 491#538, #, 489#540, #, 489#542, #, 491#544, 2#547, #, 547#549, #, 549#551, #, 549#553, #, 553#555, #, 553#557, #, #, 553#558, #547, #, 553#561, 557#564, #, 557#566, #, #, 569#567, #, 487#571, #, #, 489#572, 553#575, #, 575#577, #, 566#579, #, #, 489#580, #, #, #, #, #, #, #, 590#588, #, #, #, #, 595#593, #, #, 599#595, 599#596, #, #, 606#590, 606#591, 606#592, 606#599, 606#600, #, #, 610#606, 610#607, #, 547#610, #, 614#612, #, #, #, #, #, 620#618, #, 623#617, 623#620, #, #, #, #, #, #, #, #, #, #, 634#632, #, 640#616, 640#623, 640#624, 640#625, 640#634, #, 643#615, 643#640, #, 547#643, 472#646, #, 345#648, #, 345#650, #, 345#652, #, 652#, 652#655, #, 652#657, #, #652, 271#658, #, #, 663#661, #, 487#665, #, #, #, #, #, 671#669, #, 674#668, 674#671, #, #, #, #, #, #, #, #, #, #, 685#683, #, 691#667, 691#674, 691#675, 691#676, 691#685, #, 694#666, 694#691, #, 547#694, #, 698#696, #, #487, #487, #547, 2#del, del#27, 
+### 内容
+#0, 16:
+文档\物理问题\CBS.ftxt
+## end
+#2, 413:
++[返回目录](,CBS)
+地址::文档\物理问题\CBS.ftxt
+
+
+
+Nini, 导入网页画板的库
+
+Nini, 打开动画制作(文件)
+
+
+资料1::C:\Users\cheng\Desktop\Laser\PhysicsProblems\CBS
+论文::file:///C:/Users/cheng/Desktop/paper/radiation/Corde13.pdf
+Bremsstrahlung::file:///C:/Users/cheng/Desktop/paper/Books/Jackson.pdf#page=733
++[打开网页](,论文)
++[打开](,资料1)
+
+公式(html):...
+高斯光束反射(html):...
++[新建阅读窗口](,公式)
+
+工具库:...
+PM场景:...
++[新建阅读窗口](,PM场景)
++[新建阅读窗口](,工具库)
+
+论文笔记:...
+蒙卡模拟:...
+
+
+
+## end
+#3, 47:
+CBS:...
+创建于 20220403
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 48:
+C:\Users\cheng\Desktop\Laser\PhysicsProblems\CBS
+## end
+#8, 58:
+file:///C:/Users/cheng/Desktop/paper/radiation/Corde13.pdf
+## end
+#11, 494:
+文件夹::file:///C:/Users/cheng/Desktop/paper/radiation
+文件夹2::C:\Users\cheng\Desktop\paper\CBS
+论文::file:///C:/Users/cheng/Desktop/paper/radiation/Corde13.pdf
+
+
++[打开网页](,论文)
++[打开](,文件夹)
+
+
+Klein-Nishina
+KN公式::https://en.wikipedia.org/wiki/Klein%E2%80%93Nishina_formula
+QFT::file:///C:/Users/cheng/Desktop/paper/CBS/Weinberg_QFT.pdf#page=392
++[打开](,KN公式)
++[打开网页](,QFT)
+
+我的公式中, e应该是高斯单位制的e. 可以对比温伯格的书和wiki的KN公式
+QFT公式::file:///C:/Users/cheng/Desktop/paper/CBS/Weinberg_QFT.pdf#page=395
++[打开网页](,QFT公式)
+
+
+## end
+#13, 63:
+file:///C:/Users/cheng/Desktop/paper/Books/Jackson.pdf#page=733
+## end
+#15, 115:
+参考函数::C:\Users\cheng\Desktop\Laser\PhysicsProblems\CBS\programs\scatterMomentum
++[打开](,参考函数)
+
+CBSMonteCarlo:...
+
+
+
+
+## end
+#17, 2022:
+%{
+
+测试运行:...
+
+possDistribution:...
+CBSScatterPosDistribution:...
+labDistribution:...
+%}
+
+function [space_col,k2_col,p2_col]=CBSMonteCarlo(laser,electron,t_end)
+physics_constant;
+% omega_laser=2*pi*c/800e-9;
+% tau=100e-15;
+% sigma=20e-6;
+% E_laser=10;
+% N_laser=E_laser/omega_laser/hbar;
+% A=N_laser/tau/c/sigma^2/(sqrt(2*pi))^3;
+% 
+% f=@(x,y,z)A*exp(-z.^2/2/(tau*c)^2-(x.^2+y.^2)/2/sigma^2);
+% laser.m_shape=f;
+% laser.m_pos=[0,0,4]*20e-6;
+% laser.m_direction=[0,0,-1];
+% laser.m_velocity=1;
+% laser.m_polar=[0;1;0];
+% 
+% electron.m_direction=[0;0;1];
+% electron.m_pos=[0;0;-5]*10e-6;
+% electron.m_energy=1e9*e;
+
+
+v=electron.m_direction;
+pos0=electron.m_pos;
+E_electron=electron.m_energy;
+ap=laser.m_polar;
+
+
+dir_laser=laser.m_direction';
+dir_laser=dir_laser/norm(dir_laser);
+omega_laser=laser.m_omega;
+
+t0=0;
+theta0=acos(v'*dir_laser);
+sec_total=CBSScatterPosDistribution(E_electron,omega_laser,theta0,ap);
+% space_col=[t0;pos0];
+space_col=[];
+k2_col=[];
+p2_col=[];
+for i=1:100000
+    mfp=1/(labDistribution(laser,pos0(1),pos0(2),pos0(3),t0)*sec_total);
+    if mfp>1e-6
+        mfp=1e-6;
+    end
+    dt=mfp/c/100;
+    t=t0+(0:100)*dt;
+    pos=pos0+v*t*c;
+
+    f0=labDistribution(laser,pos(1,:),pos(2,:),pos(3,:),t)*sec_total*dt*(v'*(v-dir_laser))*c;
+    P_leave=exp(-cumsum(f0));
+    P_col=[-diff(P_leave),1-(P_leave(1)-P_leave(end))];
+    t_col=possDistribution(P_col,t,1);
+
+    pos0=pos0+c*(t_col-t0)*v;
+    t0=t_col;
+    if t_col~=t(end)
+        theta0=acos(v'*dir_laser);
+        [sec_total,P_scatter,k2,p2]=CBSScatterPosDistribution(E_electron,omega_laser,theta0,ap);
+        i_scatter=possDistribution(P_scatter,1:length(P_scatter),1);
+        p2_scatter=p2(:,i_scatter);
+        k2_scatter=k2(:,i_scatter);
+        E_electron=p2_scatter(1)*c;
+        v=p2_scatter(2:4);
+        v=v/norm(v);
+        
+        space_col=[space_col,[t_col;pos0]];
+        k2_col=[k2_col,k2_scatter];
+        p2_col=[p2_col,p2_scatter];
+    end
+    if t_col>t_end
+        break
+    end
+end
+
+% space_col=[space_col,[t_col;pos0]];
+end
+
+
+
+## end
+#19, 1027:
+physics_constant;
+
+omega_laser=2*pi*c/800e-9;
+tau=100e-15;
+sigma=20e-6;
+E_laser=1000;
+N_laser=E_laser/omega_laser/hbar;
+A=N_laser/tau/c/sigma^2/(sqrt(2*pi))^3;
+ap=[0;1;0];
+
+f=@(x,y,z)A*exp(-z.^2/2/(tau*c)^2-(x.^2+y.^2)/2/sigma^2);
+laser.m_shape=f;
+laser.m_pos=[4,0,4]*20e-6;
+laser.m_direction=[-1,0,-1];
+laser.m_velocity=c;
+laser.m_omega=omega_laser;
+laser.m_polar=[0;1;0];
+
+v=[0;0;1];
+pos0=[0;0;-20]*10e-6;
+E_electron=1e9*e;
+
+electron.m_pos=pos0;
+electron.m_direction=v;
+electron.m_velocity=c;
+electron.m_energy=E_electron;
+
+t_end=1000e-15;
+% drawCollision(laser,electron,t_end,100);
+
+if ~exist('k2','var') || ~exist('p2','var') || ~exist('space','var')
+    k2=cell(0,0);
+    p2=cell(0,0);
+    space=cell(0,0);
+end
+N=100;
+for i=1:N
+[space_col,k2_col,p2_col]=CBSMonteCarlo(laser,electron,t_end);
+k2{end+1}=k2_col;
+p2{end+1}=p2_col;
+space{end+1}=space_col;
+end
+
+sec_total=CBSCrossSecTotal(E_electron,omega_laser,0,ap);
+% A0=laserA0(E_laser,c/omega_laser*2*pi,tau,sigma);
+N_col=size(k2_col,2);
+N_col_estimated=A*tau*c*sec_total;
+
+## end
+#21, 298:
+
+
+function x_rand=possDistribution(P,x,N)
+% f=@(x)exp(-x.^2);
+% x=-10:0.01:10;
+% P=f(x);
+% N=100000;
+
+dist=cumsum(P);
+x_rand=zeros(1,N);
+for i=1:N
+    seed=max(dist)*rand();
+    x_rand(i)=min(x(dist>seed));
+end
+end
+% histogram(x_rand,-10:0.1:10)
+% hold on
+% histogram(y_rand)
+% histogram(z_rand)
+
+
+
+## end
+#23, 915:
+
+
+function [sec_total,p_scatter,k2,p2,theta2_k,phi2_k]=CBSScatterPosDistribution(E_electron,omega_photon,theta0,ap)
+% physics_constant;
+% E_electron=1e8*e+me*c^2;
+% omega_photon=1e0*e/hbar;
+% theta0=30;
+% theta0=(180-theta0)/180*pi;
+% ap=[0;1;0];
+
+theta2_S=1:179;
+phi2_S=0:360;
+
+theta2_S=theta2_S/180*pi;
+phi2_S=phi2_S/180*pi;
+
+[Theta2_S,Phi2_S]=meshgrid(theta2_S,phi2_S);
+Theta2_S=reshape(Theta2_S,1,numel(Theta2_S));
+Phi2_S=reshape(Phi2_S,1,numel(Phi2_S));
+
+
+[dsigma,k2,p2]=CBSCrossSec(E_electron,omega_photon,theta0,ap,Theta2_S,Phi2_S);
+[theta2_k,phi2_k]=scatterParameters([0;0;1],k2(2:4,:));
+Dsigma=reshape(dsigma,length(phi2_S),length(theta2_S));
+Theta2_k=reshape(theta2_k,length(phi2_S),length(theta2_S));
+Phi2_k=reshape(phi2_k,length(phi2_S),length(theta2_S));
+
+A=trapz(Theta2_k(60,:),Dsigma.*sin(Theta2_k),2);
+sec_total=abs(trapz(sort(Phi2_k(:,10)),A));
+
+p_scatter=dsigma.*sin(theta2_k)/sec_total;
+end
+
+
+
+
+
+
+## end
+#25, 734:
+%{
+
+%}
+
+function F0=labDistribution(pulse,X,Y,Z,t)
+physics_constant;
+% f=@(x,y,z)exp(-(z.^2/5+x.^2+y.^2));
+% pulse.m_shape=f;
+% pulse.m_pos=[4,4,0];
+% pulse.m_direction=[0,1,0];
+% pulse.m_velocity=1;
+% 
+% x=-10:0.1:10;
+% y=0;
+% z=-10:0.1:10;
+% [X,Z]=meshgrid(x,z);
+% Y=y*ones(size(X));
+% t=1;
+
+pulse.m_direction=pulse.m_direction/norm(pulse.m_direction);
+
+pos=pulse.m_pos';
+v=pulse.m_velocity*pulse.m_direction';
+f=pulse.m_shape;
+pos=pos+v*t;
+
+[x_local,y_local,z_local]=localFrame(v);
+
+X0=(X-pos(1,:))*x_local(1)+(Y-pos(2,:))*x_local(2)+(Z-pos(3,:))*x_local(3);
+Y0=(X-pos(1,:))*y_local(1)+(Y-pos(2,:))*y_local(2)+(Z-pos(3,:))*y_local(3);
+Z0=(X-pos(1,:))*z_local(1)+(Y-pos(2,:))*z_local(2)+(Z-pos(3,:))*z_local(3);
+F0=f(X0,Y0,Z0);
+
+end
+## end
+#27, 2346:
+<!--
++[H函数](,公式)
+Nini, 打开公式分析器(文件)
+参考1::https://en.wikipedia.org/wiki/Lorentz_transformation
+-->
+
+<h2>Conservation laws</h2>
+The differential cross section of Compton scattering is, 
+%[1].
+%[2].
+
+Here \(\vec{p_1}\) and \(\vec{p_2}\) are momentum of the electron. The \(\vec{k_1}\) and \(\vec{k_2}\) are momentum of the photon. According to energy and momentum conservation, we have,
+%[3].
+%[4].
+%[5].
+
+Or write it in tensor, 
+%[6].
+We have,
+%[7].
+%[8].
+%[9].
+
+Or,
+%[10].
+%[11].
+%[12].
+%[13].
+
+If the electron is static initially, the formula is,
+%[14].
+%[15].
+%[16].
+%[17].
+
+<h2>Compton scattering</h2>
+The \(\omega_2\) is,
+%[18].
+%[19].
+
+The output energy, \(E_2\), is,
+%[20].
+%[21].
+%[22].
+
+The perpendicular wave vector is,
+%[23].
+
+The angle of electron output direction and photon input direction, \(\theta_\perp\) is, 
+%[24].
+%[25].
+
+%图1
+
+<h2>Lorentz transform</h2>
+The transform matrix is,
+%[26].
+The Lorentz transform for momentum and wave vector are,
+%[27].
+%[28].
+
+<h2>Klein-Nishina formula and Monte-Carlo method</h2>
+Here we relay on Lorentz transformation to calculate the scattering process. The 4-vector of a photon flow is \(J_{\alpha}=(n c,J_x,J_y,J_z)\). In the electron rest frame, it is a Compton scattering. The differential cross section is, 
+%[29].
+%[30].
+%[31].
+If, within a given time step, the scattered photon number is more than 1, then one event happens and we change the time step to smaller value. Or, there is a random seed to determine whether an event happens or not. Now we don't consider the laser polarization. <br>
+The total cross section is, 
+%[32].
+
+<h2>Photon flow</h2>
+The number density and flow density of a photon field should be,
+%[33].
+The wave vector is,
+%[34].
+Since the flow 4-vector and the wave 4-vector share a same form, there should be,
+%[35].
+%[36].
+
+The time difference in the electron static frame (frame 2) is,
+%[37].
+
+(在模拟中, 我用了光子图像来计算了坐标变换后的碰撞事件数. 但是我建议用电磁场的视角走一遍, 就是用电磁张量计算洛伦兹变换后的电磁场, 然后计算光子密度)
+
+<!--
+[37].:
+式(29)转换为"表达式"
+将"n_\gamma2=n_\gamma1*\omega_2/\omega_1"记作为式(36)
+将"dt_2=dt_1/\gamma"记作为式(37)
+
+
+
+示意图1:...
+图1(章):...
++[生成示意图_html](示意图1,图1)
++[新建阅读窗口](,示意图1)
+的([32].,表达式)->+[显示星图](,表达式)
+
+测试公式(M函数):...
+蒙卡模拟(M函数):...
+(完成了单电子的一次pass through. 用静止电子的散射截面来判定是否发生了一次碰撞)
+(这个做法是有问题的)
+(接下来要做坐标变换来判断是否发生碰撞)
++[新建阅读窗口](,蒙卡模拟)
++[新建阅读窗口](,测试公式)
+
+
+Nini, 打开网页画板(文件)
+Nini, 打开公式分析器(文件)
++[H函数](,公式)
+-->
+## end
+#30, 200:
+\frac{d}{d\Omega}\left(\sigma\right)=\left(2\ \pi\right)^{4}\ \frac{E_{1}\ \omega_{1}}{\vec{p_1}\cdot \vec{k_1}}\ \frac{E_{2}\ \omega_{2}}{\vec{p_2}\cdot \vec{k_2}}\ \left|M\right|^{2}\ \omega_{2}^{2}
+## end
+#32, 299:
+\left|M\right|^{2}=\frac{e^{4}}{64\ \left(2\ \pi\right)^{6}\ \omega_{1}\ \omega_{2}\ E_{1}\ E_{2}}\ \left(32-32\ \left(\vec{\epsilon_1}\cdot \vec{k_2}\right)^{2}+\frac{16\ \left(\vec{k_1}\cdot \vec{k_2}\right)^{2}}{\left(\vec{p_1}\cdot \vec{k_1}\right)\ \left(\vec{p_1}\cdot \vec{k_2}\right)}\right)
+## end
+#33, 138:
+\d{\sigma}_{\Omega}=(2*\pi)^4*\frac{E_1*\omega_1}{\vec{p_1}\cdot \vec{k_1}}*\frac{E_2*\omega_2}{\vec{p_2}\cdot \vec{k_2}}*[M]^2*\omega_2^2
+## end
+#36, 194:
+[M]^2=\frac{e^4}{64*(2*\pi)^6*\omega_1*\omega_2*E_1*E_2}*(32-32*(\vec{\epsilon_1}\cdot \vec{k_2})^2+\frac{16*(\vec{k_1}\cdot \vec{k_2})^2}{(\vec{p_1}\cdot \vec{k_1})*(\vec{p_1}\cdot \vec{k_2})})
+## end
+#40, 41:
+p_{1x}+\hbar\ k_{1x}=p_{2x}+\hbar\ k_{2x}
+## end
+#41, 31:
+p_1x+\hbar*k_1x=p_2x+\hbar*k_2x
+## end
+#45, 41:
+p_{1y}+\hbar\ k_{1y}=p_{2y}+\hbar\ k_{2y}
+## end
+#47, 47:
+E_{1}+\hbar\ \omega_{1}=E_{2}+\hbar\ \omega_{2}
+## end
+#48, 31:
+p_1y+\hbar*k_1y=p_2y+\hbar*k_2y
+## end
+#51, 37:
+E_1+\hbar*\omega_1=E_2+\hbar*\omega_2
+## end
+#55, 67:
+P_{1}\ _{\alpha}+K_{1}\ _{\alpha}=P_{2}\ _{\alpha}+K_{2}\ _{\alpha}
+## end
+#57, 47:
+P_1[\alpha]+K_1[\alpha]=P_2[\alpha]+K_2[\alpha]
+## end
+#61, 101:
+\left(P_{1}\ _{\alpha}+K_{1}\ _{\alpha}\right)^{2}=\left(P_{2}\ _{\alpha}+K_{2}\ _{\alpha}\right)^{2}
+## end
+#63, 187:
+P_{1}\ _{\alpha}\ P_{1}\ _{\alpha}+K_{1}\ _{\alpha}\ K_{1}\ _{\alpha}+2\ P_{1}\ _{\alpha}\ K_{1}\ _{\alpha}=P_{2}\ _{\alpha}^{2}+K_{2}\ _{\alpha}^{2}+2\ P_{2}\ _{\alpha}\ K_{2}\ _{\alpha}
+## end
+#65, 97:
+\vec{k_1}\cdot \vec{p_1}-\omega_{1}\ E_{1}/c^{2}=\vec{k_2}\cdot \vec{p_2}-\omega_{2}\ E_{2}/c^{2}
+## end
+#66, 55:
+(P_1[\alpha]+K_1[\alpha])^2=(P_2[\alpha]+K_2[\alpha])^2
+## end
+#70, 127:
+P_1[\alpha]*P_1[\alpha]+K_1[\alpha]*K_1[\alpha]+2*P_1[\alpha]*K_1[\alpha]=P_2[\alpha]^2+K_2[\alpha]^2+2*P_2[\alpha]*K_2[\alpha]
+## end
+#73, 83:
+\vec{k_1}\cdot \vec{p_1}-\omega_1*E_1/c^2=\vec{k_2}\cdot \vec{p_2}-\omega_2*E_2/c^2
+## end
+#77, 101:
+\left(P_{1}\ _{\alpha}-P_{2}\ _{\alpha}\right)^{2}=\left(K_{2}\ _{\alpha}-K_{1}\ _{\alpha}\right)^{2}
+## end
+#79, 86:
+P_{1}\ _{\alpha}\ P_{2}\ _{\alpha}+m_{e}^{2}\ c^{2}=K_{1}\ _{\alpha}\ K_{2}\ _{\alpha}
+## end
+#81, 136:
+\vec{p_1}\cdot \vec{p_2}-E_{1}\ E_{2}/c^{2}+m_{e}^{2}\ c^{2}=\hbar^{2}\ \vec{k_1}\cdot \vec{k_2}-\hbar^{2}\ \omega_{1}\ \omega_{2}/c^{2}
+## end
+#82, 55:
+(P_1[\alpha]-P_2[\alpha])^2=(K_2[\alpha]-K_1[\alpha])^2
+## end
+#85, 61:
+P_1[\alpha]*P_2[\alpha]+m_e^{2}*c^{2}=K_1[\alpha]*K_2[\alpha]
+## end
+#88, 121:
+\vec{p_1}\cdot \vec{p_2}-E_1*E_2/c^{2}+m_e^{2}*c^{2}=\hbar^{2}*\vec{k_1}\cdot \vec{k_2}-\hbar^{2}*\omega_1*\omega_2/c^{2}
+## end
+#92, 116:
+\vec{p_1}\cdot \vec{p_2}-E_{1}\ E_{2}/c^{2}+m_{e}^{2}\ c^{2}=\hbar^{2}\ k_{1}\ k_{2}\ \left(cos(\theta_{p})-1\right)
+## end
+#93, 88:
+\vec{p_1}\cdot \vec{p_2}-E_1*E_2/c^{2}+m_e^{2}*c^{2}=\hbar^{2}*k_1*k_2*(cos(\theta_p)-1)
+## end
+#97, 91:
+E_{1}\ E_{2}/c^{2}-m_{e}^{2}\ c^{2}=\hbar^{2}\ k_{1}\ k_{2}\ \left(1-cos(\theta_{p})\right)
+## end
+#99, 63:
+E_1*E_2/c^{2}-m_e^{2}*c^{2}=\hbar^{2}*k_1*k_2*(1-cos(\theta_p))
+## end
+#103, 101:
+m_{e}\ c^{2}\ \left(\Delta E\right)=\hbar^{2}\ \omega_{1}\ \omega_{2}\ \left(1-cos(\theta_{p})\right)
+## end
+#105, 129:
+\left(\omega_{1}-\omega_{2}\right)/\left(\omega_{1}\ \omega_{2}\right)=\frac{\hbar}{m_{e}\ c^{2}}\ \left(1-cos(\theta_{p})\right)
+## end
+#106, 66:
+m_e*c^{2}*(\Delta E)=\hbar^{2}*\omega_1*\omega_2*(1-cos(\theta_p))
+## end
+#109, 81:
+(\omega_1-\omega_2)/(\omega_1*\omega_2)=\frac{\hbar}{m_e*c^{2}}*(1-cos(\theta_p))
+## end
+#113, 74:
+\lambda_{2}-\lambda_{1}=\frac{h}{m_{e}\ c}\ \left(1-cos(\theta_{p})\right)
+## end
+#114, 53:
+\lambda_2-\lambda_1=\frac{h}{m_e*c}*(1-cos(\theta_p))
+## end
+#118, 100:
+\frac{1}{\omega_{2}}=\frac{1}{\omega_{1}}+\frac{\hbar}{m_{e}\ c^{2}}\ \left(1-cos(\theta_{p})\right)
+## end
+#120, 106:
+\omega_{2}=\frac{\omega_{1}\ m_{e}\ c^{2}}{m_{e}\ c^{2}+\hbar\ \omega_{1}\ \left(1-cos(\theta_{p})\right)}
+## end
+#121, 79:
+\frac{1}{\omega_2}=\frac{1}{\omega_1}+\frac{\hbar}{m_e*c^{2}}*(1-cos(\theta_p))
+## end
+#124, 78:
+\omega_2=\frac{\omega_1*m_e*c^{2}}{m_e*c^{2}+\hbar*\omega_1*(1-cos(\theta_p))}
+## end
+#128, 47:
+E_{2}=E_{1}+\hbar\ \omega_{1}-\hbar\ \omega_{2}
+## end
+#130, 132:
+E_{2}=E_{1}+\hbar\ \omega_{1}-\hbar\ \frac{\omega_{1}\ m_{e}\ c^{2}}{m_{e}\ c^{2}+\hbar\ \omega_{1}\ \left(1-cos(\theta_{p})\right)}
+## end
+#131, 37:
+E_2=E_1+\hbar*\omega_1-\hbar*\omega_2
+## end
+#134, 98:
+E_2=E_1+\hbar*\omega_1-\hbar*\frac{\omega_1*m_e*c^{2}}{m_e*c^{2}+\hbar*\omega_1*(1-cos(\theta_p))}
+## end
+#138, 147:
+E_{2}=m_{e}\ c^{2}+\frac{\hbar^{2}\ \omega_{1}^{2}\ \left(1-cos(\theta_{p})\right)}{m_{e}\ c^{2}+\hbar\ \omega_{1}\ \left(1-cos(\theta_{p})\right)}
+## end
+#140, 154:
+p_{2p}=-\hbar\ k_{2}\ sin(\theta_{p})=-\frac{\hbar\ \omega_{1}\ m_{e}\ c\ sin(\theta_{p})}{m_{e}\ c^{2}+\hbar\ \omega_{1}\ \left(1-cos(\theta_{p})\right)}
+## end
+#141, 97:
+E_2=m_e*c^2+\frac{\hbar^2*\omega_1^2*(1-cos(\theta_p))}{m_e*c^2+\hbar*\omega_1*(1-cos(\theta_p))}
+## end
+#145, 350:
+
+
+有electron, photon
+有水平线
+有p_2, k_1和k_2
+
+
+electron在(0,0)
+photon距离electron为(0.7,-0.7)
+
+水平线是线段(3)
+水平线距离electron为(-0.8,0)
+p_2, k_1和k_2都是线段(0.8)
+p_2, k_1和k_2都是箭头(0.05,0.05)
+
+p_2距离electron为(-0.08,0.02)
+k_2距离electron为(-0.02,0.07)
+p_2和k_2都背向electron
+k_1距离photon为(-0.05,0.05)
+k_1朝向electron
+
+k_2是线段(0.4)
+k_2是箭头(0.05,0.05)
+
++[显示图形名称](,示意图1)
++[显示PPT场景]"1"(,示意图1)
+## end
+#158, 3:
+0,0
+## end
+#160, 9:
+0.7, -0.7
+## end
+#162, 8:
+0.0, 0.0
+## end
+#164, 8:
+0.0, 2.0
+## end
+#166, 9:
+-0.8, 0.0
+## end
+#168, 3:
+2.0
+## end
+#170, 2:
+线段
+## end
+#172, 2:
+曲线
+## end
+#173, 4:
+0.05
+## end
+#175, 4:
+0.05
+## end
+#177, 2:
+箭头
+## end
+#179, 33:
+0.0, 0.0, nan, -0.025, 0.0, 0.025
+## end
+#181, 30:
+0.0, 0.8, nan, 0.75, 0.8, 0.75
+## end
+#183, 11:
+-0.08, 0.02
+## end
+#185, 3:
+0.8
+## end
+#187, 33:
+0.0, 0.0, nan, -0.025, 0.0, 0.025
+## end
+#189, 30:
+0.0, 0.8, nan, 0.75, 0.8, 0.75
+## end
+#191, 39:
+0.6499999999999999, -0.6499999999999999
+## end
+#193, 3:
+0.8
+## end
+#195, 2:
+箭头
+## end
+#197, 33:
+0.0, 0.0, nan, -0.025, 0.0, 0.025
+## end
+#199, 60:
+0.0, 0.4, nan, 0.35000000000000003, 0.4, 0.35000000000000003
+## end
+#201, 11:
+-0.02, 0.07
+## end
+#203, 3:
+0.4
+## end
+#205, 2:
+箭头
+## end
+#207, 2:
+曲线
+## end
+#208, 4:
+0.05
+## end
+#210, 4:
+0.05
+## end
+#212, 2:
+曲线
+## end
+#213, 4:
+0.05
+## end
+#215, 4:
+0.05
+## end
+#217, 17:
+165.9637565320735
+## end
+#219, 5:
+135.0
+## end
+#221, 18:
+105.94539590092286
+## end
+#224, 41:
+p_{2}=\sqrt{E_{2}^{2}-m_{e}^{2}\ c^{4}}/c
+## end
+#226, 32:
+sin(\theta_{\perp})=p_{2\perp}/p
+## end
+#227, 116:
+p_2p=-\hbar*k_2*sin(\theta_p)=-\frac{\hbar*\omega_1*m_e*c*sin(\theta_p)}{m_e*c^{2}+\hbar*\omega_1*(1-cos(\theta_p))}
+## end
+#230, 28:
+p_2=\sqrt{E_2^2-m_e^2*c^4}/c
+## end
+#234, 9:
+a_{\perp}
+## end
+#235, 7:
+a_\perp
+## end
+#238, 28:
+sin(\theta_\perp)=p_2\perp/p
+## end
+#242, 604:
+\mathbf{T}=\begin{pmatrix}
+\gamma&-\gamma\ v_{x}/c&-\gamma\ v_{y}/c&-\gamma\ v_{z}/c\\ -\gamma\ v_{x}/c&1+\left(\gamma-1\right)\ \frac{v_{x}^{2}}{v^{2}}&\left(\gamma-1\right)\ \frac{v_{x}\ v_{y}}{v^{2}}&\left(\gamma-1\right)\ \frac{v_{x}\ v_{z}}{v^{2}}\\ -\gamma\ v_{y}/c&\left(\gamma-1\right)\ \frac{v_{y}\ v_{x}}{v^{2}}&1+\left(\gamma-1\right)\ \frac{v_{y}^{2}}{v^{2}}&\left(\gamma-1\right)\ \frac{v_{y}\ v_{z}}{v^{2}}\\ -\gamma\ v_{z}/c&\left(\gamma-1\right)\ \frac{v_{z}\ v_{x}}{v^{2}}&\left(\gamma-1\right)\ \frac{v_{z}\ v_{y}}{v^{2}}&1+\left(\gamma-1\right)\ \frac{v_{z}^{2}}{v^{2}}
+\end{pmatrix}
+
+
+## end
+#243, 386:
+\mat{T}=\mat{\gamma,-\gamma*v_x/c,-\gamma*v_y/c,-\gamma*v_z/c;
+-\gamma*v_x/c,1+(\gamma-1)*\frac{v_x^2}{v^2},(\gamma-1)*\frac{v_x*v_y}{v^2},(\gamma-1)*\frac{v_x*v_z}{v^2};
+-\gamma*v_y/c,(\gamma-1)*\frac{v_y*v_x}{v^2},1+(\gamma-1)*\frac{v_y^2}{v^2},(\gamma-1)*\frac{v_y*v_z}{v^2};
+-\gamma*v_z/c,(\gamma-1)*\frac{v_z*v_x}{v^2},(\gamma-1)*\frac{v_z*v_y}{v^2},1+(\gamma-1)*\frac{v_z^2}{v^2}}
+## end
+#247, 129:
+\begin{cases}
+p_{2x}=\gamma\ \left(p_{1x}-\beta\ E_{1}/c\right)\\ E_{2}=\gamma\ \left(E_{1}-\beta\ p_{1x}\ c\right)
+\end{cases}
+
+
+## end
+#249, 144:
+\begin{cases}
+k_{2x}=\gamma\ \left(k_{1x}-\beta\ \omega_{1}/c\right)\\ \omega_{2}=\gamma\ \left(\omega_{1}-\beta\ k_{1x}\ c\right)
+\end{cases}
+
+
+## end
+#250, 67:
+\eqs{p_2x=\gamma*(p_1x-\beta*E_1/c);
+E_2=\gamma*(E_1-\beta*p_1x*c)}
+## end
+#253, 82:
+\eqs{k_2x=\gamma*(k_1x-\beta*\omega_1/c);
+\omega_2=\gamma*(\omega_1-\beta*k_1x*c)}
+## end
+#257, 593:
+
+<svg viewBox="0 0 1000 450.2217741935484" width=500 style="overflow: hidden;border: 2px solid #888888;"> 
+<polyline points="121,177 900,177 " style="fill:none;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polyline points="401,169 99,93 120,89 99,93 115,107 " style="fill:none;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polyline points="686,430 465,210 486,217 465,210 472,230 " style="fill:none;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polyline points="425,149 382,0 397,16 382,0 378,21 " style="fill:none;stroke:black;stroke-width:5;fill-rule:evenodd;" />
+
+</svg>
+
+
+## end
+#260, 1045:
+%{
+记住"Matlab"
++[M函数](,测试公式)
+参考程序::C:\Users\cheng\Desktop\Laser\PhysicsProblems\CBS
++[打开](,参考程序)
+
+Lorentz_T(M函数):...
+Lorentz_T2(M函数):...
+ComptonScatter(M函数):...
+ComptonBackScatter(M函数):...
+将Lorentz_T2的"Lorentz_T"替换为"Lorentz_T2"
++[新建阅读窗口](,ComptonBackScatter)
+时空图:...
+康普顿散射:...
+CBS碰撞:...
++[新建阅读窗口](,时空图)
+
+能动量守恒:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS')
+
+beta0=0.1;
+beta_r=[1,0,0];
+
+lmbd_0=900e-9;
+E_0=1e9;
+angle_c=45;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+omega_1=2*pi*c/lmbd_0;
+K_1=[1,k_1r,0]*omega_1/c;
+
+[P_2,K_2,P_12,K_12,P_22,K_22]=ComptonBackScatter(P_1,K_1,angle_c);
+
+
+% energy
+DE_e=(P_1(1)-P_2(1))*c/e;
+DE_g=(K_1(1)-K_2(1))*c*hbar/e;
+
+DE_e2=(P_12(1)-P_22(1))*c/e;
+DE_g2=(K_12(1)-K_22(1))*c*hbar/e;
+
+% momentum
+Dp_e=(P_1(2:3)-P_2(2:3));
+Dp_g=(K_1(2:3)-K_2(2:3))*hbar;
+
+Dp_e2=(P_12(2:3)-P_22(2:3));
+Dp_g2=(K_12(2:3)-K_22(2:3))*hbar;
+
+
+
+
+%{
+lmbd_2=2*pi*c/omega_2;
+lmbd_2-lmbd_0
+DE/e
++[M函数](,测试公式)
+%}
+## end
+#263, 52:
+https://en.wikipedia.org/wiki/Lorentz_transformation
+## end
+#265, 878:
+%{
++[保存M函数](,Lorentz_T)
+地址::Matlab\CBS\Lorentz_T.m
+
+测试:...
+%}
+
+function [Ft2,Fx2,Fy2,Fz2,T]=Lorentz_T(Ft,Fx,Fy,Fz,beta0,beta_r)
+physics_constant;
+
+% beta0=0.9;
+% beta_r=[1,1,0];
+beta=beta0*beta_r/norm(beta_r);
+gamma=1/sqrt(1-beta0^2);
+
+v=beta0*c;
+v_x=beta(1)*c;
+v_y=beta(2)*c;
+v_z=beta(3)*c;
+
+T=[gamma,-gamma.*v_x./c,-gamma.*v_y./c,-gamma.*v_z./c;-gamma.*v_x./c,1+(gamma-1).*(v_x.^(2))./(v.^(2)),(gamma-1).*(v_x.*v_y)./(v.^(2)),(gamma-1).*(v_x.*v_z)./(v.^(2));-gamma.*v_y./c,(gamma-1).*(v_y.*v_x)./(v.^(2)),1+(gamma-1).*(v_y.^(2))./(v.^(2)),(gamma-1).*(v_y.*v_z)./(v.^(2));-gamma.*v_z./c,(gamma-1).*(v_z.*v_x)./(v.^(2)),(gamma-1).*(v_z.*v_y)./(v.^(2)),1+(gamma-1).*(v_z.^(2))./(v.^(2))];
+
+Ft2=T(1,1)*Ft+T(1,2)*Fx+T(1,3)*Fy+T(1,4)*Fz;
+Fx2=T(2,1)*Ft+T(2,2)*Fx+T(2,3)*Fy+T(2,4)*Fz;
+Fy2=T(3,1)*Ft+T(3,2)*Fx+T(3,3)*Fy+T(3,4)*Fz;
+Fz2=T(4,1)*Ft+T(4,2)*Fx+T(4,3)*Fy+T(4,4)*Fz;
+
+
+end
+
+
+
+
+## end
+#268, 22:
+Matlab\CBS\Lorentz_T.m
+## end
+#274, 736:
+physics_constant;
+
+beta0=0.9;
+beta_r=[1,1,0];
+beta=beta0*beta_r/norm(beta_r);
+gamma=1/sqrt(1-beta0^2);
+
+v=beta0*c;
+v_x=beta(1)*c;
+v_y=beta(2)*c;
+v_z=beta(3)*c;
+
+T=[gamma,-gamma.*v_x./c,-gamma.*v_y./c,-gamma.*v_z./c;-gamma.*v_x./c,1+(gamma-1).*(v_x.^(2))./(v.^(2)),(gamma-1).*(v_x.*v_y)./(v.^(2)),(gamma-1).*(v_x.*v_z)./(v.^(2));-gamma.*v_y./c,(gamma-1).*(v_y.*v_x)./(v.^(2)),1+(gamma-1).*(v_y.^(2))./(v.^(2)),(gamma-1).*(v_y.*v_z)./(v.^(2));-gamma.*v_z./c,(gamma-1).*(v_z.*v_x)./(v.^(2)),(gamma-1).*(v_z.*v_y)./(v.^(2)),1+(gamma-1).*(v_z.^(2))./(v.^(2))];
+
+Ft2=T(1,1)*Ft+T(1,2)*Fx+T(1,3)*Fy+T(1,4)*Fz;
+Fx2=T(2,1)*Ft+T(2,2)*Fx+T(2,3)*Fy+T(2,4)*Fz;
+Fy2=T(3,1)*Ft+T(3,2)*Fx+T(3,3)*Fy+T(3,4)*Fz;
+Fz2=T(4,1)*Ft+T(4,2)*Fx+T(4,3)*Fy+T(4,4)*Fz;
+## end
+#276, 382:
+%{
+记住"Matlab"
++[M函数](,测试公式)
+
+Lorentz_T(M函数):...
+时空图:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS')
+
+beta0=0.1;
+beta_r=[1,0,0];
+
+t=linspace(-10,10,10);
+x=linspace(-10,10,10);
+[T,X]=meshgrid(t,x);
+[T2,X2,~,~]=Lorentz_T(T,X,0,0,beta0,beta_r);
+
+plot(T,X,'k--',T',X','k--',T2,X2,'r',T2',X2','r')
+axis equal
+xlabel('X')
+ylabel('T*c')
+title(sprintf('v=%.2f c',beta0))
+
+%{
++[M函数](,测试公式)
+%}
+## end
+#278, 933:
+%{
++[保存M函数](,Lorentz_T2)
+地址::Matlab\CBS\Lorentz_T2.m
+%}
+
+function [F2,T]=Lorentz_T2(F,beta0,beta_r)
+physics_constant;
+
+% beta0=0.9;
+% beta_r=[1,1,0];
+beta=beta0*beta_r/norm(beta_r);
+gamma=1/sqrt(1-beta0^2);
+
+Ft=F(1);
+Fx=F(2);
+Fy=F(3);
+Fz=F(4);
+
+v=beta0*c;
+v_x=beta(1)*c;
+v_y=beta(2)*c;
+v_z=beta(3)*c;
+
+T=[gamma,-gamma.*v_x./c,-gamma.*v_y./c,-gamma.*v_z./c;-gamma.*v_x./c,1+(gamma-1).*(v_x.^(2))./(v.^(2)),(gamma-1).*(v_x.*v_y)./(v.^(2)),(gamma-1).*(v_x.*v_z)./(v.^(2));-gamma.*v_y./c,(gamma-1).*(v_y.*v_x)./(v.^(2)),1+(gamma-1).*(v_y.^(2))./(v.^(2)),(gamma-1).*(v_y.*v_z)./(v.^(2));-gamma.*v_z./c,(gamma-1).*(v_z.*v_x)./(v.^(2)),(gamma-1).*(v_z.*v_y)./(v.^(2)),1+(gamma-1).*(v_z.^(2))./(v.^(2))];
+
+Ft2=T(1,1)*Ft+T(1,2)*Fx+T(1,3)*Fy+T(1,4)*Fz;
+Fx2=T(2,1)*Ft+T(2,2)*Fx+T(2,3)*Fy+T(2,4)*Fz;
+Fy2=T(3,1)*Ft+T(3,2)*Fx+T(3,3)*Fy+T(3,4)*Fz;
+Fz2=T(4,1)*Ft+T(4,2)*Fx+T(4,3)*Fy+T(4,4)*Fz;
+
+F2=[Ft2,Fx2,Fy2,Fz2];
+F2=reshape(F2,size(F));
+
+end
+
+
+
+
+## end
+#281, 23:
+Matlab\CBS\Lorentz_T2.m
+## end
+#286, 1316:
+%{
+记住"Matlab"
++[M函数](,测试公式)
+参考程序::C:\Users\cheng\Desktop\Laser\PhysicsProblems\CBS
++[打开](,参考程序)
+
+Lorentz_T(M函数):...
+Lorentz_T2(M函数):...
+ComptonScatter(M函数):...
+ComptonBackScatter(M函数):...
+将Lorentz_T2的"Lorentz_T"替换为"Lorentz_T2"
++[新建阅读窗口](,ComptonScatter)
+时空图:...
+康普顿散射:...
+CBS碰撞:...
++[新建阅读窗口](,时空图)
+%}
+
+physics_constant;
+addpath('Matlab\CBS')
+
+beta0=0.1;
+beta_r=[1,0,0];
+
+lmbd_0=900e-9;
+E_0=1e3;
+angle_c=45;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+omega_1=2*pi*c/lmbd_0;
+K_1=[1,k_1r,0]*omega_1/c;
+
+[P_2,K_2,P_12,K_12,P_22,K_22]=ComptonBackScatter(P_1,K_1,angle_c);
+
+
+subplot(1,2,1)
+plot([P_1(2),0]/m_e/c,[P_1(3),0]/m_e/c,hbar*[-K_1(2),0]/m_e/c,hbar*[-K_1(3),0]/m_e/c,...
+[P_2(2),0]/m_e/c,[P_2(3),0]/m_e/c,hbar*[K_2(2),0]/m_e/c,hbar*[K_2(3),0]/m_e/c)
+% axis equal
+legend('p_1','k_1','p_2','k_2')
+xlabel('p_x [m_e c]')
+ylabel('p_y [m_e c]')
+title('Lab frame')
+
+subplot(1,2,2)
+plot(hbar*[-K_12(2),0]/m_e/c,hbar*[-K_12(3),0]/m_e/c,...
+[P_22(2),0]/m_e/c,[P_22(3),0]/m_e/c,hbar*[K_22(2),0]/m_e/c,hbar*[K_22(3),0]/m_e/c)
+axis equal
+legend('k_1','p_2','k_2')
+xlabel('p_x [m_e c]')
+ylabel('p_y [m_e c]')
+title('Electron frame')
+
+%{
+lmbd_2=2*pi*c/omega_2;
+lmbd_2-lmbd_0
+DE/e
++[M函数](,测试公式)
+%}
+## end
+#288, 73:
+C:\Users\cheng\Desktop\Laser\PhysicsProblems\CBS\programs\scatterMomentum
+## end
+#290, 796:
+%{
++[保存M函数](,ComptonScatter)
+地址::Matlab\CBS\ComptonScatter.m
+
+测试:...
+%}
+
+function [P_2,K_2]=ComptonScatter(K_1,angle_c)
+physics_constant;
+
+% beta0=0.1;
+% beta_r=[1,0,0];
+
+% lmbd_1=900e-9;
+% angle_c=-95;
+
+% p_1r=[1,0.1];
+% k_1r=[-2,-0.3];
+% p_1r=p_1r/norm(p_1r);
+% k_1r=k_1r/norm(k_1r);
+
+% omega_1=2*pi*c/lmbd_1;
+% k_1=k_1r*omega_1/c;
+
+omega_1=K_1(1)*c;
+k_1=K_1(2:end);
+k_1r=k_1/norm(k_1);
+
+k_2r=zeros(size(k_1r));
+k_2r(1)=k_1r(1)*cosd(angle_c)+k_1r(2)*sind(angle_c);
+k_2r(2)=k_1r(2)*cosd(angle_c)-k_1r(1)*sind(angle_c);
+
+omega_2=(omega_1.*m_e.*c.^(2))./(m_e.*c.^(2)+hbar.*omega_1.*(1-cosd(angle_c)));
+k_2=k_2r*omega_2/c;
+DE=hbar*omega_1-hbar*omega_2;
+E_2=m_e*c^2+DE;
+p_2=hbar*k_1-hbar*k_2;
+
+K_2=[omega_2/c,k_2];
+P_2=[E_2/c,p_2];
+
+end
+
+%{
+lmbd_2=2*pi*c/omega_2;
+lmbd_2-lmbd_0
+DE/e
++[M函数](,测试公式)
+%}
+## end
+#293, 715:
+%{
++[M函数](,测试公式)
+测试:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS')
+
+beta0=0.1;
+beta_r=[1,0,0];
+
+lmbd_1=900e-9;
+angle_c=-95;
+
+p_1r=[1,0.1];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+omega_1=2*pi*c/lmbd_1;
+k_1=k_1r*omega_1/c;
+
+k_2r=zeros(size(k_1r));
+k_2r(1)=k_1r(1)*cosd(angle_c)+k_1r(2)*sind(angle_c);
+k_2r(2)=k_1r(2)*cosd(angle_c)-k_1r(1)*sind(angle_c);
+
+omega_2=(omega_1.*m_e.*c.^(2))./(m_e.*c.^(2)+hbar.*omega_1.*(1-cosd(angle_c)));
+k_2=k_2r*omega_2/c;
+DE=hbar*omega_1-hbar*omega_2;
+E_2=m_e*c^2+DE;
+p_2=hbar*k_1-hbar*k_2;
+
+
+plot(hbar*[-k_1(1),0],hbar*[-k_1(2),0],hbar*[k_2(1),0],hbar*[k_2(2),0],[p_2(1),0],[p_2(2),0])
+axis equal
+
+
+%{
+lmbd_2=2*pi*c/omega_2;
+lmbd_2-lmbd_0
+DE/e
++[M函数](,测试公式)
+%}
+## end
+#295, 27:
+Matlab\CBS\ComptonScatter.m
+## end
+#300, 959:
+%{
+记住"Matlab"
++[M函数](,测试公式)
+
+Lorentz_T(M函数):...
+Lorentz_T2(M函数):...
+ComptonScatter(M函数):...
+将Lorentz_T2的"Lorentz_T"替换为"Lorentz_T2"
++[新建阅读窗口](,ComptonScatter)
+时空图:...
+康普顿散射:...
+CBS碰撞:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS')
+
+beta0=0.1;
+beta_r=[1,0,0];
+
+lmbd_1=900e-9;
+angle_c=-5;
+
+p_1r=[1,0.1];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+omega_1=2*pi*c/lmbd_1;
+k_1=k_1r*omega_1/c;
+K_1=[omega_1/c,k_1,0];
+
+[P_2,K_2]=ComptonScatter(K_1,angle_c);
+
+k_2r=zeros(size(k_1r));
+k_2r(1)=k_1r(1)*cosd(angle_c)+k_1r(2)*sind(angle_c);
+k_2r(2)=k_1r(2)*cosd(angle_c)-k_1r(1)*sind(angle_c);
+
+E_2=P_2(1)*c;
+p_2=P_2(2:3);
+omega_2=K_2(1)*c;
+k_2=K_2(2:3);
+
+plot(hbar*[-k_1(1),0],hbar*[-k_1(2),0],hbar*[k_2(1),0],hbar*[k_2(2),0],[p_2(1),0],[p_2(2),0])
+axis equal
+title(sprintf('\\Delta E_p=%.2e eV, \\Delta E=%.2e eV',hbar*(omega_1-omega_2)/e,(E_2-m_e*c^2)/e))
+legend('k_{1}','k_{2}','p_{2}')
+
+
+%{
+lmbd_2=2*pi*c/omega_2;
+lmbd_2-lmbd_0
+DE/e
++[M函数](,测试公式)
+%}
+## end
+#302, 48:
+C:\Users\cheng\Desktop\Laser\PhysicsProblems\CBS
+## end
+#304, 547:
+%{
+记住"Matlab"
++[保存M函数](,ComptonBackScatter)
+地址::Matlab\CBS\ComptonBackScatter.m
+
+测试:...
+保存:...
+能量守恒:...
+%}
+
+function [P_2,K_2,P_12,K_12,P_22,K_22]=ComptonBackScatter(P_1,K_1,angle_c)
+physics_constant;
+
+beta_r=P_1(2:end);
+beta_r=beta_r/norm(beta_r);
+gamma=P_1(1)/m_e/c;
+beta0=sqrt(1-1/gamma^2);
+
+P_12=Lorentz_T2(P_1,beta0,beta_r);
+K_12=Lorentz_T2(K_1,beta0,beta_r);
+
+[P_22,K_22]=ComptonScatter(K_12,angle_c);
+P_2=Lorentz_T2(P_22,beta0,-beta_r);
+K_2=Lorentz_T2(K_22,beta0,-beta_r);
+
+end
+
+%{
+lmbd_2=2*pi*c/omega_2;
+lmbd_2-lmbd_0
+DE/e
++[M函数](,测试公式)
+%}
+## end
+#307, 31:
+Matlab\CBS\ComptonBackScatter.m
+## end
+#309, 1283:
+%{
+记住"Matlab"
++[保存M函数](,ComptonBackScatter)
+地址::Matlab\CBS\ComptonBackScatter.m
+%}
+
+function ComptonBackScatter(P_1,K_1,angle_c)
+physics_constant;
+addpath('Matlab\CBS')
+
+beta0=0.1;
+beta_r=[1,0,0];
+
+lmbd_0=900e-9;
+E_0=1e3;
+angle_c=45;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+omega_1=2*pi*c/lmbd_0;
+K_1=[1,k_1r,0]*omega_1/c;
+
+beta_r=[p_1r,0];
+P_12=Lorentz_T2(P_1,beta0,beta_r);
+K_12=Lorentz_T2(K_1,beta0,beta_r);
+
+[P_22,K_22]=ComptonScatter(K_12,angle_c);
+P_2=Lorentz_T2(P_22,beta0,-beta_r);
+K_2=Lorentz_T2(K_22,beta0,-beta_r);
+
+
+subplot(1,2,1)
+plot([P_1(2),0]/m_e/c,[P_1(3),0]/m_e/c,hbar*[-K_1(2),0]/m_e/c,hbar*[-K_1(3),0]/m_e/c,...
+[P_2(2),0]/m_e/c,[P_2(3),0]/m_e/c,hbar*[K_2(2),0]/m_e/c,hbar*[K_2(3),0]/m_e/c)
+% axis equal
+legend('p_1','k_1','p_2','k_2')
+xlabel('p_x [m_e c]')
+ylabel('p_y [m_e c]')
+title('Lab frame')
+
+subplot(1,2,2)
+plot(hbar*[-K_12(2),0]/m_e/c,hbar*[-K_12(3),0]/m_e/c,...
+[P_22(2),0]/m_e/c,[P_22(3),0]/m_e/c,hbar*[K_22(2),0]/m_e/c,hbar*[K_22(3),0]/m_e/c)
+axis equal
+legend('k_1','p_2','k_2')
+xlabel('p_x [m_e c]')
+ylabel('p_y [m_e c]')
+title('Electron frame')
+
+end
+
+%{
+lmbd_2=2*pi*c/omega_2;
+lmbd_2-lmbd_0
+DE/e
++[M函数](,测试公式)
+%}
+## end
+#311, 720:
+%{
+记住"Matlab"
++[保存M函数](,ComptonBackScatter)
+地址::Matlab\CBS\ComptonBackScatter.m
+
+测试:...
+保存:...
+%}
+
+function ComptonBackScatter(P_1,K_1,angle_c)
+physics_constant;
+addpath('Matlab\CBS')
+
+beta0=0.1;
+beta_r=[1,0,0];
+
+angle_c=45;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+omega_1=2*pi*c/lmbd_0;
+K_1=[1,k_1r,0]*omega_1/c;
+
+beta_r=[p_1r,0];
+P_12=Lorentz_T2(P_1,beta0,beta_r);
+K_12=Lorentz_T2(K_1,beta0,beta_r);
+
+[P_22,K_22]=ComptonScatter(K_12,angle_c);
+P_2=Lorentz_T2(P_22,beta0,-beta_r);
+K_2=Lorentz_T2(K_22,beta0,-beta_r);
+
+end
+
+%{
+lmbd_2=2*pi*c/omega_2;
+lmbd_2-lmbd_0
+DE/e
++[M函数](,测试公式)
+%}
+## end
+#317, 46:
+file:///C:/Users/cheng/Desktop/paper/radiation
+## end
+#319, 32:
+C:\Users\cheng\Desktop\paper\CBS
+## end
+#321, 59:
+https://en.wikipedia.org/wiki/Klein%E2%80%93Nishina_formula
+## end
+#323, 66:
+file:///C:/Users/cheng/Desktop/paper/CBS/Weinberg_QFT.pdf#page=392
+## end
+#326, 66:
+file:///C:/Users/cheng/Desktop/paper/CBS/Weinberg_QFT.pdf#page=395
+## end
+#329, 201:
+\frac{d}{d\Omega}\left(\sigma\right)=\frac{1}{2}\ r_{e}^{2}\ \left(\frac{\omega_{2}}{\omega_{1}}\right)^{2}\ \left(\frac{\omega_{2}}{\omega_{1}}+\frac{\omega_{1}}{\omega_{2}}-sin(\theta_{p})^{2}\right)
+## end
+#331, 36:
+r_{e}=\frac{\alpha\ \hbar}{m_{e}\ c}
+## end
+#333, 42:
+\alpha=\frac{e^{2}}{2\ \epsilon_{0}\ h\ c}
+## end
+#335, 143:
+\d{\sigma}_{\Omega}=\frac{1}{2}*r_e^{2}*(\frac{\omega_2}{\omega_1})^{2}*(\frac{\omega_2}{\omega_1}+\frac{\omega_1}{\omega_2}-sin(\theta_p)^{2})
+## end
+#338, 30:
+r_e=\frac{\alpha*\hbar}{m_e*c}
+## end
+#341, 35:
+\alpha=\frac{e^2}{2*\epsilon_0*h*c}
+## end
+#345, 2340:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
+CBS_rate(M函数):...
+CBS_event(M函数):...
++[新建阅读窗口](,CBS_event)
+将CBS_event的"CBS_rate"替换为"CBS_event"
+
+KN公式验证:...
+总散射截面:...
+随机角分布:...
++[新建阅读窗口](,总散射截面)
++[M函数](,总散射截面)
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+碰撞次数:...
+概率碰撞:...
++[新建阅读窗口](,碰撞次数)
+
+光场碰撞:...
+光场检测:...
+光场动画:...
+(光场检测是单一时刻的场, 光场动画是动画)
++[新建阅读窗口](,光场碰撞)
+
+Gaussian_mirror_field(M函数):...
++[新建阅读窗口](,Gaussian_mirror_field)
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_e=1000e6;
+pt_e=[-40e-6,0];
+angle_e=0;
+
+%{
+E_0
++[M函数](,蒙卡模拟)
+%}
+
+E_pulse=100;
+pt_p=[0,0];
+angle_p=2;
+w_0=10e-6;
+Dtau=100e-15;
+dt=25e-15/4;
+lmbd_1=1000e-9;
+
+pt_0=[0.3e-3,0];
+angle_0=-170;
+% angle=-150;
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+[k_x1,k_y1]=transform_2D_reflection(k_1r(1),k_1r(2),angle_0,0,0);
+K_1=[1,k_x1,k_y1,0]*omega_1/c;
+
+
+E_1=E_e*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
+Xs=[];
+Ys=[];
+E_es=[];
+E_gamma=[];
++[M函数](,蒙卡模拟)
+%}
+
+t_s=0.96e-12;
+t_e=1.2e-12;
+t=t_s:dt:t_e;
+
+v_0=beta*c;
+for j=1
+    pt=pt_e+t(1)*v_0;
+    xs=[pt(1)];
+    ys=[pt(2)];
+    P=P_1;
+    for i=1:length(t)
+        % [x_1,y_1,x_2,y_2]=transform_2D_reflection_inv(pt(1),pt(2),angle,x_0,y_0);
+        % In=I(y_2,x_2,t_i);
+        [~,~,In]=Gaussian_mirror_field(pt(1),pt(2),t(i),...
+            E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+        n_p=In/omega_1/hbar/c;
+
+        [P_2,K_2,rate]=CBS_event(P,K_1,n_p,dt);
+
+%{
++[M函数](,蒙卡模拟)
+%}
+
+        E_gamma(end+1)=K_2(1)*c*hbar;
+        P=P_2;
+        E=P_2(1)*c;
+        gamma=E/m_e/c^2;
+        beta=P_2(2:3)/gamma/m_e/c;
+    
+        pt=pt+beta*dt*c;
+        
+        xs(end+1)=pt(1);
+        ys(end+1)=pt(2);
+    end
+
+    Xs(end+1,:)=xs;
+    Ys(end+1,:)=ys;
+    E_es(end+1)=E;
+end
+
+E_gamma(E_gamma==0)=[];
+theta_out=(Ys(:,end)-Ys(:,end-1))./(Xs(:,end)-Xs(:,end-1));
+
+subplot(2,2,1)
+plot(Xs'/c/1e-15,Ys')
+xlabel('t [fs]')
+
+subplot(2,2,2)
+hist(theta_out/1e-3)
+xlabel('\theta [mrad]')
+
+subplot(2,2,3)
+hist(E_gamma/e/1e6,80)
+xlabel('E_\gamma [MeV]')
+
+subplot(2,2,4)
+hist(E_es/e/1e6)
+xlabel('E_e [MeV]')
+
+
+
+%{
+dt
+rate
+In=E_pulse/w_0^2/pi*4/Dtau
+plot(xs,ys,'.-')
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#348, 60:
+\sigma=\iint_{}^{}{d\phi\ d\theta\ }{f(\theta)\ sin(\theta)}
+## end
+#349, 47:
+\sigma=\int{\theta,\phi}{f(\theta)*sin(\theta)}
+## end
+#353, 756:
+%{
++[M函数](,蒙卡模拟)
+
+参考::https://en.wikipedia.org/wiki/Klein%E2%80%93Nishina_formula
++[打开](,参考)
+KN公式验证:...
+%}
+
+physics_constant;
+E_ps=10;
+d=30e-6;
+Dtau=100e-15;
+lmbd_1=800e-9;
+theta_p=linspace(0,pi,200);
+
+omega_1=2*pi*c/lmbd_1;
+In=E_ps/d^2/pi*4/Dtau;
+n_p=In/omega_1/hbar;
+
+omega_2=(omega_1.*m_e.*c.^(2))./(m_e.*c.^(2)+hbar.*omega_1.*(1-cos(theta_p)));
+alpha=(e.^(2))./(2.*epsilon_0.*h.*c);
+r_e=(alpha.*hbar)./(m_e.*c);
+dsigma=(1)./(2).*r_e.^(2).*((omega_2)./(omega_1)).^(2).*((omega_2)./(omega_1)+(omega_1)./(omega_2)-sin(theta_p).^(2));
+dsigma_1=(1)./(2).*r_e.^(2).*(2-sin(theta_p).^(2));
+
+trapz(theta_p,dsigma.*sin(theta_p)*2*pi)
+trapz(theta_p,dsigma_1.*sin(theta_p)*2*pi)
+8/3*pi*r_e^2
+
+
+% plot(angle_c,dsigma,360-angle_c,dsigma,'--')
+
+
+
+%{
++[M函数](,蒙卡模拟)
+%}
+## end
+#355, 59:
+https://en.wikipedia.org/wiki/Klein%E2%80%93Nishina_formula
+## end
+#357, 455:
+%{
++[保存M函数](,ComptonCrossSection_KN)
+地址::Matlab\CBS\ComptonCrossSection_KN.m
+
+测试:...
+%}
+
+function dsigma=ComptonCrossSection_KN(omega_1,theta_p)
+
+physics_constant;
+
+omega_2=(omega_1.*m_e.*c.^(2))./(m_e.*c.^(2)+hbar.*omega_1.*(1-cos(theta_p)));
+alpha=(e.^(2))./(2.*epsilon_0.*h.*c);
+r_e=(alpha.*hbar)./(m_e.*c);
+dsigma=(1)./(2).*r_e.^(2).*((omega_2)./(omega_1)).^(2).*((omega_2)./(omega_1)+(omega_1)./(omega_2)-sin(theta_p).^(2));
+
+end
+
+%{
++[M函数](,蒙卡模拟)
+%}
+## end
+#360, 35:
+Matlab\CBS\ComptonCrossSection_KN.m
+## end
+#362, 733:
+%{
++[保存M函数](,ComptonCrossSection_KN)
+地址::Matlab\CBS\ComptonCrossSection_KN.m
+%}
+
+function ComptonCrossSection_KN(omega_1,theta_p)
+physics_constant;
+E_ps=10;
+d=0.01e-3;
+Dtau=100e-15;
+dt=Dtau/40; 
+lmbd_1=800e-9;
+theta_p=linspace(0,pi,200);
+angle_c=theta_p*180/pi;
+
+omega_1=2*pi*c/lmbd_1;
+In=E_ps/d^2/pi*4/Dtau;
+n_p=In/omega_1/hbar/c;
+
+omega_2=(omega_1.*m_e.*c.^(2))./(m_e.*c.^(2)+hbar.*omega_1.*(1-cos(theta_p)));
+alpha=(e.^(2))./(2.*epsilon_0.*h.*c);
+r_e=(alpha.*hbar)./(m_e.*c);
+dsigma=(1)./(2).*r_e.^(2).*((omega_2)./(omega_1)).^(2).*((omega_2)./(omega_1)+(omega_1)./(omega_2)-sin(theta_p).^(2));
+
+sigma=trapz(theta_p,dsigma.*sin(theta_p)*2*pi);
+n_p*sigma*dt*c
+
+
+% plot(angle_c,dsigma,360-angle_c,dsigma,'--')
+
+
+
+%{
++[M函数](,蒙卡模拟)
+%}
+## end
+#367, 543:
+%{
++[保存M函数](,ComptonCrossSection_KN_total)
+地址::Matlab\CBS\ComptonCrossSection_KN_total.m
+
+测试:...
+%}
+
+function sigma=ComptonCrossSection_KN_total(omega_1)
+
+physics_constant;
+
+theta_p=linspace(0,pi,300);
+
+omega_2=(omega_1.*m_e.*c.^(2))./(m_e.*c.^(2)+hbar.*omega_1.*(1-cos(theta_p)));
+alpha=(e.^(2))./(2.*epsilon_0.*h.*c);
+r_e=(alpha.*hbar)./(m_e.*c);
+dsigma=(1)./(2).*r_e.^(2).*((omega_2)./(omega_1)).^(2).*((omega_2)./(omega_1)+(omega_1)./(omega_2)-sin(theta_p).^(2));
+
+sigma=trapz(theta_p,dsigma.*sin(theta_p)*2*pi);
+
+
+end
+
+%{
++[M函数](,蒙卡模拟)
+%}
+## end
+#370, 41:
+Matlab\CBS\ComptonCrossSection_KN_total.m
+## end
+#375, 1338:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
++[新建阅读窗口](,ComptonCrossSection_KN_total)
+KN公式验证:...
+总散射截面:...
+随机角分布:...
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+lmbd_0=900e-9;
+E_0=1000e6;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_ps=10;
+d=0.01e-3;
+Dtau=100e-15;
+dt=Dtau/40; 
+lmbd_1=800e-9;
+
+theta_p=linspace(0,2*pi,200);
+
+omega_1=2*pi*c/lmbd_1;
+In=E_ps/d^2/pi*4/Dtau;
+n_p=In/omega_1/hbar/c;
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+sigma=ComptonCrossSection_KN_total(omega_1);
+rate=n_p*sigma*dt*c;
+
+P=P_1;
+beta=p_1r*beta0;
+E_gamma=[];
+
+%{
++[M函数](,蒙卡模拟)
+%}
+
+pt=[0,0];
+xs=[0];
+ys=[0];
+P=P_1;
+for i=1:30
+dsigma=ComptonCrossSection_KN(omega_1,theta_p);
+theta_r=random_func_1D(1,1,theta_p,dsigma);
+angle_r=theta_r/pi*180;
+
+if rand()<rate
+    [P_2,K_2]=ComptonBackScatter(P,K_1,angle_r);
+    E_gamma(end+1)=K_2(1)*c*hbar;
+    P=P_2;
+    E=P_2(1)*c;
+    gamma=E/m_e/c^2;
+    beta=P_2(2:3)/gamma/m_e/c;
+end
+pt=pt+beta*dt*c;
+
+xs(end+1)=pt(1);
+ys(end+1)=pt(2);
+end
+
+
+plot(xs'/c/1e-15,ys')
+xlabel('t [fs]')
+
+
+%{
+size(E_e)
+size(E_gamma)
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#377, 616:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
++[新建阅读窗口](,ComptonCrossSection_KN_total)
+KN公式验证:...
+
+单次散射:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+
+E_ph=[linspace(1,100,30),linspace(1e3,1e5,300),linspace(1e5,1e8,300)]*e;
+omega_1=E_ph/hbar;
+
+sigma=zeros(size(omega_1));
+for i=1:length(omega_1)
+sigma(i)=ComptonCrossSection_KN_total(omega_1(i));
+end
+
+plot(E_ph/e,sigma/1e-30)
+% plot(angle_c,dsigma,360-angle_c,dsigma,'--')
+set(gca,'XScale','log')
+xlabel('Photon energy [eV]')
+ylabel('Cross section [fm^2]')
+title('Compton scattering cross section')
+
+
+%{
++[M函数](,蒙卡模拟)
+%}
+## end
+#379, 704:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
++[新建阅读窗口](,ComptonCrossSection_KN_total)
+KN公式验证:...
+总散射截面:...
+随机角分布:...
+
+单次散射:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_ps=10;
+d=0.01e-3;
+Dtau=100e-15;
+dt=Dtau/40; 
+lmbd_1=800e-9;
+theta_p=linspace(0,pi,200);
+angle_c=theta_p*180/pi;
+
+omega_1=2*pi*c/lmbd_1;
+In=E_ps/d^2/pi*4/Dtau;
+n_p=In/omega_1/hbar/c;
+N=1000000;
+
+dsigma=ComptonCrossSection_KN(omega_1,theta_p);
+theta_rand=random_func_1D(1,N,theta_p,dsigma);
+
+clf
+hist(theta_rand)
+hold on
+plot(theta_p,dsigma/trapz(theta_p,dsigma)*N*pi/10,'r','lineWidth',2)
+axis([0,max(theta_p),0,N/6])
+
+
+
+%{
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#381, 1598:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
++[新建阅读窗口](,ComptonCrossSection_KN_total)
+KN公式验证:...
+总散射截面:...
+随机角分布:...
+
+单次散射:...
+
+E_e
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+lmbd_0=900e-9;
+E_0=1000e6;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_ps=10;
+d=0.01e-3;
+Dtau=100e-15;
+dt=Dtau/40; 
+lmbd_1=800e-9;
+
+theta_p=linspace(0,2*pi,200);
+
+omega_1=2*pi*c/lmbd_1;
+In=E_ps/d^2/pi*4/Dtau;
+n_p=In/omega_1/hbar/c;
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+sigma=ComptonCrossSection_KN_total(omega_1);
+rate=n_p*sigma*dt*c;
+
+P=P_1;
+beta=beta0;
+
+E_gamma=[];
+Xs=[];
+Ys=[];
+xs=[0];
+ys=[0];
+E_e=[];
+% pt=[0,0];
+
+for j=1:1
+    pt=[0,0];
+    for i=1:40
+    dsigma=ComptonCrossSection_KN(omega_1,theta_p);
+    theta_r=random_func_1D(1,1,theta_p,dsigma);
+    angle_r=theta_r/pi*180;
+    
+    if rand()<rate
+        [P_2,K_2]=ComptonBackScatter(P,K_1,angle_r);
+        E_gamma(end+1)=K_2(1)*c*hbar;
+        P=P_2;
+        E=P_2(1)*c;
+        gamma=E/m_e/c^2;
+        beta=P_2(2:3)/gamma/m_e/c;
+    end
+    
+    pt=pt+beta*dt*c;
+    
+    xs(end+1)=pt(1);
+    ys(end+1)=pt(2);
+    end
+
+    xs(end+1:end+2)=[nan,0];
+    ys(end+1:end+2)=[nan,0];
+    E_e(end+1)=E;
+end
+
+subplot(2,2,1)
+plot(xs/c/1e-15,ys)
+xlabel('t [fs]')
+
+%subplot(2,2,2)
+%plot([xs,xs(end)+beta(1)],[ys,ys(end)+beta(2)])
+
+subplot(2,1,2)
+hist(E_gamma/1e6/e)
+xlabel('E_{\gamma} [MeV]')
+
+
+
+%{
+hist(E_e/e)
+find(ys==max(ys))
+ys(2)
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#383, 2387:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
+CBS_rate(M函数):...
+CBS_event(M函数):...
++[新建阅读窗口](,CBS_event)
+将CBS_event的"CBS_rate"替换为"CBS_event"
+
+KN公式验证:...
+总散射截面:...
+随机角分布:...
++[新建阅读窗口](,总散射截面)
++[M函数](,总散射截面)
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+碰撞次数:...
+概率碰撞:...
++[新建阅读窗口](,碰撞次数)
+
+光场碰撞:...
+光场检测:...
+光场动画:...
+(光场检测是单一时刻的场, 光场动画是动画)
++[新建阅读窗口](,光场碰撞)
+
+Gaussian_mirror_field(M函数):...
++[新建阅读窗口](,Gaussian_mirror_field)
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_e=1000e6;
+pt_e=[-40e-6,0];
+angle_e=0;
+
+%{
+E_0
++[M函数](,蒙卡模拟)
+%}
+
+E_pulse=100;
+pt_p=[0,0];
+angle_p=2;
+w_0=10e-6;
+Dtau=100e-15;
+dt=25e-15/4;
+lmbd_1=1000e-9;
+
+pt_0=[0.3e-3,0];
+angle_0=-170;
+% angle=-150;
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+[k_x1,k_y1]=transform_2D_reflection(k_1r(1),k_1r(2),angle,0,0);
+K_1=[1,k_x1,k_y1,0]*omega_1/c;
+
+
+E_1=E_e*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
+Xs=[];
+Ys=[];
+E_es=[];
+E_gamma=[];
++[M函数](,蒙卡模拟)
+%}
+
+t_s=0.96e-12;
+t_e=1.2e-12;
+t=t_s:dt:t_e;
+
+v_0=beta*c;
+for j=1
+    pt=pt_e+t(1)*v_0;
+    xs=[pt(1)];
+    ys=[pt(2)];
+    P=P_1;
+    for i=1:length(t)
+        % [x_1,y_1,x_2,y_2]=transform_2D_reflection_inv(pt(1),pt(2),angle,x_0,y_0);
+        % In=I(y_2,x_2,t_i);
+        [~,~,In]=Gaussian_mirror_field(pt(1),pt(2),t(i),...
+            E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+In=E_pulse/w_0^2/pi*4/Dtau;
+        n_p=In/omega_1/hbar/c;
+
+        [P_2,K_2,rate]=CBS_event(P,K_1,n_p,dt);
+
+%{
+
+%}
+
+if rate~=0
+rate
+n_p
+In
+dt
+K_1
+end
+        E_gamma(end+1)=K_2(1)*c*hbar;
+        P=P_2;
+        E=P_2(1)*c;
+        gamma=E/m_e/c^2;
+        beta=P_2(2:3)/gamma/m_e/c;
+    
+        pt=pt+beta*dt*c;
+        
+        xs(end+1)=pt(1);
+        ys(end+1)=pt(2);
+    end
+
+    Xs(end+1,:)=xs;
+    Ys(end+1,:)=ys;
+    E_es(end+1)=E;
+end
+
+E_gamma(E_gamma==0)=[];
+theta_out=(Ys(:,end)-Ys(:,end-1))./(Xs(:,end)-Xs(:,end-1));
+
+subplot(2,2,1)
+plot(Xs'/c/1e-15,Ys')
+xlabel('t [fs]')
+
+subplot(2,2,2)
+hist(theta_out/1e-3)
+xlabel('\theta [mrad]')
+
+subplot(2,2,3)
+hist(E_gamma/e/1e6,80)
+xlabel('E_\gamma [MeV]')
+
+subplot(2,2,4)
+hist(E_es/e/1e6)
+xlabel('E_e [MeV]')
+
+
+
+%{
+dt
+rate
+In=E_pulse/w_0^2/pi*4/Dtau
+plot(xs,ys,'.-')
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#385, 1773:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
++[新建阅读窗口](,ComptonCrossSection_KN_total)
+KN公式验证:...
+总散射截面:...
+随机角分布:...
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+lmbd_0=900e-9;
+E_0=1000e6;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_ps=10;
+d=0.01e-3;
+Dtau=100e-15;
+dt=Dtau/40; 
+lmbd_1=800e-9;
+
+theta_p=linspace(0,2*pi,200);
+
+omega_1=2*pi*c/lmbd_1;
+In=E_ps/d^2/pi*4/Dtau;
+n_p=In/omega_1/hbar/c;
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+sigma=ComptonCrossSection_KN_total(omega_1);
+rate=n_p*sigma*dt*c;
+
+P=P_1;
+beta=p_1r*beta0;
+
+E_gamma=[];
+%{
+Xs=[];
+Ys=[];
+E_e=[];
++[M函数](,多次散射)
+%}
+
+for j=1:100
+    pt=[0,0];
+    xs=[0];
+    ys=[0];
+    P=P_1;
+    for i=1:30
+    dsigma=ComptonCrossSection_KN(omega_1,theta_p);
+    theta_r=random_func_1D(1,1,theta_p,dsigma);
+    angle_r=theta_r/pi*180;
+    
+    if rand()<rate
+        [P_2,K_2]=ComptonBackScatter(P,K_1,angle_r);
+        E_gamma(end+1)=K_2(1)*c*hbar;
+        P=P_2;
+        E=P_2(1)*c;
+        gamma=E/m_e/c^2;
+        beta=P_2(2:3)/gamma/m_e/c;
+    end
+    pt=pt+beta*dt*c;
+    
+    xs(end+1)=pt(1);
+    ys(end+1)=pt(2);
+    end
+
+    Xs(end+1,:)=xs;
+    Ys(end+1,:)=ys;
+    E_e(end+1)=E;
+end
+
+theta_out=(Ys(:,end)-Ys(:,end-1))./(Xs(:,end)-Xs(:,end-1));
+
+subplot(2,2,1)
+plot(Xs'/c/1e-15,Ys')
+xlabel('t [fs]')
+
+subplot(2,2,2)
+hist(theta_out/1e-3)
+xlabel('\theta [mrad]')
+
+subplot(2,2,3)
+hist(E_gamma/e/1e6)
+xlabel('E_\gamma [MeV]')
+
+subplot(2,2,4)
+hist(E_e/e/1e6)
+xlabel('E_e [MeV]')
+
+
+
+%{
+size(E_e)
+size(E_gamma)
+Nini, 打开GEANT4文件(文件)
++[M函数](,多次散射)
+%}
+## end
+#387, 745:
+%{
++[M函数](,能量守恒)
+%}
+
+physics_constant;
+addpath('Matlab\CBS')
+
+beta0=0.1;
+beta_r=[1,0,0];
+
+lmbd_0=900e-9;
+E_0=1e4;
+angle_c=45;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+omega_1=2*pi*c/lmbd_0;
+K_1=[1,k_1r,0]*omega_1/c;
+
+[P_2,K_2,P_12,K_12,P_22,K_22]=ComptonBackScatter(P_1,K_1,angle_c);
+
+
+% energy
+DE_e=(P_1(1)-P_2(1))*c/e
+DE_g=(K_1(1)-K_2(1))*c*hbar/e
+
+DE_e2=(P_12(1)-P_22(1))*c/e
+DE_g2=(K_12(1)-K_22(1))*c*hbar/e
+
+% momentum
+Dp_e=(P_1(2:3)-P_2(2:3));
+Dp_g=(K_1(2:3)-K_2(2:3))*hbar;
+
+Dp_e2=(P_12(2:3)-P_22(2:3));
+Dp_g2=(K_12(2:3)-K_22(2:3))*hbar;
+
+
+
+
+%{
+lmbd_2=2*pi*c/omega_2;
+lmbd_2-lmbd_0
+DE/e
++[M函数](,测试公式)
+%}
+## end
+#389, 1033:
+%{
+记住"Matlab"
++[M函数](,测试公式)
+参考程序::C:\Users\cheng\Desktop\Laser\PhysicsProblems\CBS
++[打开](,参考程序)
+
+Lorentz_T(M函数):...
+Lorentz_T2(M函数):...
+ComptonScatter(M函数):...
+ComptonBackScatter(M函数):...
+将Lorentz_T2的"Lorentz_T"替换为"Lorentz_T2"
++[新建阅读窗口](,ComptonBackScatter)
+时空图:...
+康普顿散射:...
+CBS碰撞:...
++[新建阅读窗口](,时空图)
+%}
+
+physics_constant;
+addpath('Matlab\CBS')
+
+beta0=0.1;
+beta_r=[1,0,0];
+
+lmbd_0=900e-9;
+E_0=1e9;
+angle_c=5;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+omega_1=2*pi*c/lmbd_0;
+K_1=[1,k_1r,0]*omega_1/c;
+
+[P_2,K_2,P_12,K_12,P_22,K_22]=ComptonBackScatter(P_1,K_1,angle_c);
+
+
+% energy
+DE_e=(P_1(1)-P_2(1))*c/e;
+DE_g=(K_1(1)-K_2(1))*c*hbar/e;
+
+DE_e2=(P_12(1)-P_22(1))*c/e;
+DE_g2=(K_12(1)-K_22(1))*c*hbar/e;
+
+% momentum
+Dp_e=(P_1(2:3)-P_2(2:3));
+Dp_g=(K_1(2:3)-K_2(2:3))*hbar;
+
+Dp_e2=(P_12(2:3)-P_22(2:3));
+Dp_g2=(K_12(2:3)-K_22(2:3))*hbar;
+
+
+
+
+%{
+lmbd_2=2*pi*c/omega_2;
+lmbd_2-lmbd_0
+DE/e
++[M函数](,测试公式)
+%}
+## end
+#391, 1711:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
++[新建阅读窗口](,ComptonCrossSection_KN_total)
+KN公式验证:...
+总散射截面:...
+随机角分布:...
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+lmbd_0=900e-9;
+E_0=1000e6;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_ps=10;
+d=0.01e-3;
+Dtau=100e-15;
+dt=Dtau/40; 
+lmbd_1=800e-9;
+
+theta_p=linspace(0,2*pi,200);
+
+omega_1=2*pi*c/lmbd_1;
+In=E_ps/d^2/pi*4/Dtau;
+n_p=In/omega_1/hbar/c;
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+sigma=ComptonCrossSection_KN_total(omega_1);
+rate=n_p*sigma*dt*c;
+
+P=P_1;
+beta=p_1r*beta0;
+
+E_gamma=[];
+Xs=[];
+Ys=[];
+E_e=[];
+
+E_e1=[];
+E_e2=[];
+E_g1=[];
+E_g2=[];
+%{
++[M函数](,蒙卡模拟)
+%}
+
+for j=1:100
+    pt=[0,0];
+    xs=[0];
+    ys=[0];
+    P=P_1;
+    for i=1:1
+    dsigma=ComptonCrossSection_KN(omega_1,theta_p);
+    theta_r=random_func_1D(1,1,theta_p,dsigma);
+    angle_r=theta_r/pi*180;
+    
+    if rand()<rate
+        [P_2,K_2]=ComptonBackScatter(P,K_1,angle_r);
+        E_gamma(end+1)=K_2(1)*c*hbar;
+        P=P_2;
+        E=P_2(1)*c;
+        gamma=E/m_e/c^2;
+        beta=P_2(2:3)/gamma/m_e/c;
+    else
+        E_gamma(end+1)=0;
+    end
+    pt=pt+beta*dt*c;
+    
+    xs(end+1)=pt(1);
+    ys(end+1)=pt(2);
+    end
+
+    E_e1(end+1)=P_1(1)*c/e;
+    E_e2(end+1)=P_2(1)*c/e;
+    E_g1(end+1)=K_1(1)*c*hbar/e;
+    E_g2(end+1)=K_2(1)*c*hbar/e;
+
+end
+
+
+subplot(1,2,1)
+plot(1:100,E_e1,1:100,E_e2,1:100,E_g1,1:100,E_g2)
+subplot(1,2,2)
+plot(1:100,E_e1,1:100,E_e2+E_g2-E_g1)
+
+
+%{
+size(E_e)
+size(E_gamma)
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#393, 70:
+J_{\alpha}=\begin{pmatrix}
+k,&\vec{k}
+\end{pmatrix}
+
+\ n_{\gamma}\ c/k
+## end
+#395, 53:
+k_{\alpha}=\begin{pmatrix}
+k,&\vec{k}
+\end{pmatrix}
+
+
+## end
+#397, 37:
+J_\alpha=\vec{k,\vec{k}}*n_\gamma*c/k
+## end
+#401, 49:
+J_{01}/k_{01}=J_{02}/k_{02}=n_{\gamma1}\ c/k_{01}
+## end
+#402, 24:
+k_\alpha=\vec{k,\vec{k}}
+## end
+#406, 46:
+n_{\gamma2}=n_{\gamma1}\ \omega_{2}/\omega_{1}
+## end
+#407, 36:
+J_01/k_01=J_02/k_02=n_\gamma1*c/k_01
+## end
+#410, 37:
+n_\gamma2=n_\gamma1*\omega_2/\omega_1
+## end
+#414, 20:
+dt_{2}=dt_{1}/\gamma
+## end
+#415, 16:
+dt_2=dt_1/\gamma
+## end
+#422, 409:
+%{
+地址::Matlab\CBS\CBS_rate.m
++[保存M函数](,CBS_rate)
+%}
+
+function rate=CBS_rate(P_1,K_1,n_p,dt)
+physics_constant;
+
+beta_r=P_1(2:end);
+beta_r=beta_r/norm(beta_r);
+gamma=P_1(1)/m_e/c;
+beta0=sqrt(1-1/gamma^2);
+
+P_12=Lorentz_T2(P_1,beta0,beta_r);
+K_12=Lorentz_T2(K_1,beta0,beta_r);
+
+omega_12=K_12(1)*c;
+n_p2=n_p*K_12(1)/K_1(1);
+dt2=dt/gamma;
+sigma=ComptonCrossSection_KN_total(omega_12);
+rate=n_p2*sigma*dt2*c;
+
+end
+
+
+## end
+#425, 21:
+Matlab\CBS\CBS_rate.m
+## end
+#430, 1391:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
+CBS_rate(M函数):...
++[新建阅读窗口](,CBS_rate)
+KN公式验证:...
+总散射截面:...
+随机角分布:...
++[新建阅读窗口](,总散射截面)
++[M函数](,总散射截面)
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+碰撞次数:...
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+lmbd_0=1000e-9;
+E_0=1000e6;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_ps=10;
+d=0.01e-3;
+Dtau=100e-15;
+dt=Dtau/80; 
+lmbd_1=1000e-9;
+
+omega_1=2*pi*c/lmbd_1;
+In=E_ps/d^2/pi*4/Dtau;
+n_p=In/omega_1/hbar/c;
+K_1=[1,k_1r,0]*omega_1/c;
+
+
+E_0=[linspace(1,1e3,30),linspace(1e3,1e5,300),linspace(1e5,1e7,300),linspace(1e7,1e9,300)];
+rate=zeros(size(E_0));
+
+for i=1:length(E_0)
+E_1=E_0(i)*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+P=P_1;
+beta=p_1r*beta0;
+
+P=P_1;
+rate(i)=CBS_rate(P_1,K_1,n_p,dt);
+end
+
+plot(E_0,rate);
+xlabel('E_e [eV]')
+set(gca,'XScale','log');
+
+
+%{
++[M函数](,总散射截面)
+In=1.27e24
+n_p=1.71e34
+dt=1.25e-15
+P
+P_1=[5.34642761457432e-19 5.34642691716274e-19 0 0];
+K_1=[7853981.63397448 -7767087.95259732 -1165063.1928896 0];
+clipboard('copy',P_1)
+
+
+
+n_p_record=n_p;
+dt_record=dt;
+P_1_record=P_1;
+K_1_record=K_1;
+CBS_rate(P_1_record,K_1_record,n_p_record,dt_record)
+
+
+
+
+omega_12*hbar/e
+K_1(1)*c*hbar/e
+K_2(1)*c*hbar/e
+Nini, 打开GEANT4文件(文件)
++[M函数](,碰撞次数)
+%}
+## end
+#434, 954:
+%{
+地址::Matlab\CBS\CBS_event.m
++[保存M函数](,CBS_event)
+%}
+
+function [P_2,K_2,rate]=CBS_event(P_1,K_1,n_p,dt)
+physics_constant;
+addpath('Matlab\random');
+
+theta_p=linspace(0,2*pi,200);
+
+beta_r=P_1(2:end);
+beta_r=beta_r/norm(beta_r);
+gamma=P_1(1)/m_e/c;
+beta0=sqrt(1-1/gamma^2);
+
+P_12=Lorentz_T2(P_1,beta0,beta_r);
+K_12=Lorentz_T2(K_1,beta0,beta_r);
+
+omega_12=K_12(1)*c;
+n_p2=n_p*K_12(1)/K_1(1);
+dt2=dt/gamma;
+sigma=ComptonCrossSection_KN_total(omega_12);
+rate=n_p2*sigma*dt2*c;
+
+if rand()<rate
+    dsigma=ComptonCrossSection_KN(omega_12,theta_p);
+    theta_r=random_func_1D(1,1,theta_p,dsigma);
+    angle_r=theta_r/pi*180;
+    
+    omega_12=K_12(1)*c;
+    dsigma=ComptonCrossSection_KN(omega_12,theta_p);
+    theta_r=random_func_1D(1,1,theta_p,dsigma);
+    angle_r=theta_r/pi*180;
+    [P_22,K_22]=ComptonScatter(K_12,angle_r);
+    
+    P_2=Lorentz_T2(P_22,beta0,-beta_r);
+    K_2=Lorentz_T2(K_22,beta0,-beta_r);
+else
+    P_2=P_1;
+    K_2=[0,0,0,0];
+end
+
+end
+
+
+## end
+#437, 22:
+Matlab\CBS\CBS_event.m
+## end
+#442, 1064:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
+CBS_rate(M函数):...
+CBS_event(M函数):...
++[新建阅读窗口](,CBS_rate)
+将CBS_event的"CBS_rate"替换为"CBS_event"
+
+KN公式验证:...
+总散射截面:...
+随机角分布:...
++[新建阅读窗口](,总散射截面)
++[M函数](,总散射截面)
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+碰撞次数:...
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+lmbd_0=900e-9;
+E_0=1000e6;
+
+p_1r=[1,0];
+k_1r=[-2,-0.3];
+p_1r=p_1r/norm(p_1r);
+k_1r=k_1r/norm(k_1r);
+
+E_ps=10;
+d=0.01e-3;
+Dtau=100e-15;
+dt=Dtau/80; 
+lmbd_1=800e-9;
+
+theta_p=linspace(0,2*pi,200);
+
+omega_1=2*pi*c/lmbd_1;
+In=E_ps/d^2/pi*4/Dtau;
+n_p=In/omega_1/hbar/c;
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+sigma=ComptonCrossSection_KN_total(omega_1);
+rate=n_p*sigma*dt*c;
+
+P=P_1;
+beta=p_1r*beta0;
+
+
+P=P_1;
+[P_2,K_2]=CBS_event(P_1,K_1,n_p,dt);
+P_2(1)*c/e/1e6
+
+
+
+%{
++[M函数](,总散射截面)
+
+omega_12*hbar/e
+K_1(1)*c*hbar/e
+K_2(1)*c*hbar/e
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#444, 510:
+<!--
++[H函数](,高斯光束反射)
+
+Nini, 打开反射问题(文件)
+Nini, 打开高斯光束(文件)
+Nini, 打开激光a0(文件)
+-->
+
+<h2>Gaussian beam lineout</h2>
+The waist of a Gaussian beam satisfied the following function, 
+%[1].
+The field function is,
+%[2].
+
+The peak intensity can be calculated by the equation,
+%[3].
+
+<h2>Plane reflection</h2>
+The mirror is at the point \((x_0,y_0)\) and facing the direction \(\theta\). The coordinate transformation is,
+%[4].
+%[5].
+
+<!--
+[5].:
+式(3)转换为"Matlab"
+
+公式验证(M函数):...
++[新建阅读窗口](,公式验证)
+将'公式验证'的
+
+
++[H函数](,高斯光束反射)
+-->
+## end
+#447, 101:
+\begin{cases}
+z_{R}=w_{0}^{2}\ \pi/\lambda\\ w=w_{0}\ \sqrt{1+\left(z/z_{R}\right)^{2}}
+\end{cases}
+
+
+## end
+#448, 53:
+\eqs{z_R=w_0^2*\pi/\lambda;
+w=w_0*\sqrt{1+(z/z_R)^2}}
+## end
+#452, 116:
+I(r,z,t)=I_{0}\ \frac{w_{0}^{2}}{w^{2}}\ exp(-\frac{2\ r^{2}}{w^{2}})\ exp(-\frac{\left(t-z/c\right)^{2}}{\tau^{2}})
+## end
+#453, 85:
+I(r,z,t)=I_0*\frac{w_0^2}{w^2}*exp(-\frac{2*r^2}{w^2})*exp(-\frac{(t-z/c)^2}{\tau^2})
+## end
+#457, 59:
+I_{0}=\frac{2\ E_{pulse}}{\sqrt{\pi}\ \pi\ w_{0}^{2}\ \tau}
+## end
+#458, 47:
+I_0=\frac{2*E_pulse}{\sqrt{\pi}*\pi*w_0^2*\tau}
+## end
+#462, 212:
+x_{2}(x,y)=\begin{cases}
+-\left(x-x_{0}\right)\ cos(2\ \theta)-\left(y-y_{0}\right)\ sin(2\ \theta)+x_{0}, & \left(x-x_{0}\right)\ cos(\theta)+\left(y-y_{0}\right)\ sin(\theta)\le 0\\ x, & otherwise
+\end{cases}
+
+
+## end
+#464, 212:
+y_{2}(x,y)=\begin{cases}
+-\left(x-x_{0}\right)\ sin(2\ \theta)+\left(y-y_{0}\right)\ cos(2\ \theta)+y_{0}, & \left(x-x_{0}\right)\ cos(\theta)+\left(y-y_{0}\right)\ sin(\theta)\le 0\\ y, & otherwise
+\end{cases}
+
+
+## end
+#465, 127:
+x_2(x,y)=\eqs{-(x-x_0)*cos(2*\theta)-(y-y_0)*sin(2*\theta)+x_0,   (x-x_0)*cos(\theta)+(y-y_0)*sin(\theta)\le 0;
+x,   otherwise}
+## end
+#468, 127:
+y_2(x,y)=\eqs{-(x-x_0)*sin(2*\theta)+(y-y_0)*cos(2*\theta)+y_0,   (x-x_0)*cos(\theta)+(y-y_0)*sin(\theta)\le 0;
+y,   otherwise}
+## end
+#472, 964:
+%{
++[M函数](,公式验证)
+
+示意图:...
+场分布:...
+传播动画:...
+场分布_inv:...
+传播动画_inv:...
+
+可动光源:...
++[新建阅读窗口](,场分布_inv)
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=5e-6;
+tau=500e-15;
+E_pulse=10;
+
+x_0=0.3e-3;
+y_0=0;
+angle=-174;
+% angle=-150;
+
+z=linspace(-0.7,1,1000)*1e-3;
+r=linspace(-4,1,100)*0.1e-3;
+
+z_R=w_0.^(2).*pi./lmbd;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*tau);
+
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(tau.^(2)));
+
+t_0=linspace(-0.2,0.8,200)*2.7e-12;
+[X,Y]=meshgrid(z,r);
+[X_1,Y_1,X_2,Y_2]=transform_2D_reflection_inv(X,Y,angle,x_0,y_0);
+
+for i=1:length(t_0)
+
+I_f1=I(Y_1,X_1,t_0(i));
+I_f2=I(Y_2,X_2,t_0(i));
+I_f=I_f1+I_f2;
+
+
+surf(X,Y,I_f/I_0*0.2e-3)
+view([0,90])
+% view([10,20])
+shading interp
+axis equal
+axis([min(z),max(z),min(r),max(r),0,0.2e-3])
+%}
+%{
+contourf(X,Y,I_f/I_0*0.2e-3)
+axis([min(z),max(z),min(r),max(r)])
+%}
+
+pause(0.01)
+
+end
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#475, 413:
+%{
++[M函数](,公式验证)
+
+示意图:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=10e-6;
+
+x_0=1e-3;
+y_0=0;
+angle=-174;
+
+z=linspace(-1,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+[x_2,y_2]=transform_2D_reflection(x,y,angle,x_0,y_0);
+
+clf
+patch(x,y,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+axis equal
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#477, 635:
+%{
++[M函数](,公式验证)
+
+示意图:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=10e-6;
+tau=100e-15;
+E_pulse=10;
+
+x_0=0.3e-3;
+y_0=0;
+angle=-174;
+
+z=linspace(-1,1,1000)*1e-3;
+r=linspace(-1,1,100)*0.1e-3;
+
+z_R=w_0.^(2).*pi./lmbd;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*tau);
+
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(tau.^(2)));
+
+t_0=0.7e-12;
+[X,Y]=meshgrid(z,r);
+I_f=I(Y,X,t_0);
+
+[X_2,Y_2]=transform_2D_reflection(X,Y,angle,x_0,y_0);
+
+surf(X_2,Y_2,I_f/max(max(I_f))*1e-4)
+view([0,90])
+shading interp
+axis equal
+
+
+
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#479, 713:
+%{
++[M函数](,公式验证)
+
+示意图:...
+场分布:...
+传播动画:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=5e-6;
+tau=100e-15;
+E_pulse=10;
+
+x_0=0.3e-3;
+y_0=0;
+% angle=-174;
+angle=-150;
+
+z=linspace(-1,1,1000)*1e-3;
+r=linspace(-1,1,100)*0.1e-3;
+
+z_R=w_0.^(2).*pi./lmbd;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*tau);
+
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(tau.^(2)));
+
+t_0=linspace(-1,1,200)*2.7e-12;
+[X,Y]=meshgrid(z,r);
+[X_2,Y_2]=transform_2D_reflection(X,Y,angle,x_0,y_0);
+
+for i=1:length(t_0)
+
+I_f=I(Y,X,t_0(i));
+surf(X_2,Y_2,I_f/I_0*1e-3)
+view([20,20])
+shading interp
+axis equal
+pause(0.01)
+
+end
+
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#481, 683:
+%{
++[M函数](,公式验证)
+
+示意图:...
+场分布:...
+传播动画:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=10e-6;
+tau=100e-15;
+E_pulse=10;
+
+x_0=0.3e-3;
+y_0=0;
+angle=-174;
+
+z=linspace(-1,1,1000)*1e-3;
+r=linspace(-1,1,100)*0.1e-3;
+
+z_R=w_0.^(2).*pi./lmbd;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*tau);
+
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(tau.^(2)));
+
+t_0=1.2e-12;
+[X,Y]=meshgrid(z,r);
+[X_1,Y_1,X_2,Y_2]=transform_2D_reflection_inv(X,Y,angle,x_0,y_0);
+
+I_f1=I(Y_1,X_1,t_0);
+I_f2=I(Y_2,X_2,t_0);
+
+surf(X,Y,(I_f1+I_f2)/I_0*1e-4)
+view([0,90])
+shading interp
+axis equal
+
+
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#483, 833:
+%{
++[M函数](,公式验证)
+
+示意图:...
+场分布:...
+传播动画:...
+场分布_inv:...
+传播动画_inv:...
++[新建阅读窗口](,场分布_inv)
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=5e-6;
+tau=100e-15;
+E_pulse=10;
+
+x_0=0.3e-3;
+y_0=0;
+% angle=-174;
+angle=-150;
+
+z=linspace(-0.2,1,1000)*1e-3;
+r=linspace(-4,1,100)*0.1e-3;
+
+z_R=w_0.^(2).*pi./lmbd;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*tau);
+
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(tau.^(2)));
+
+t_0=linspace(-0.2,0.8,200)*2.7e-12;
+[X,Y]=meshgrid(z,r);
+[X_1,Y_1,X_2,Y_2]=transform_2D_reflection_inv(X,Y,angle,x_0,y_0);
+
+for i=1:length(t_0)
+
+I_f1=I(Y_1,X_1,t_0(i));
+I_f2=I(Y_2,X_2,t_0(i));
+I_f=I_f1+I_f2;
+
+surf(X,Y,I_f/I_0*0.2e-3)
+% view([0,90])
+view([10,20])
+shading interp
+axis equal
+pause(0.01)
+
+end
+
+%{
++[M函数](,公式验证)
+%}
+## end
+#485, 2258:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
+CBS_rate(M函数):...
+CBS_event(M函数):...
++[新建阅读窗口](,CBS_rate)
+将CBS_event的"CBS_rate"替换为"CBS_event"
+
+KN公式验证:...
+总散射截面:...
+随机角分布:...
++[新建阅读窗口](,总散射截面)
++[M函数](,总散射截面)
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+碰撞次数:...
+概率碰撞:...
+
+光场碰撞:...
+光场检测:...
+光场动画:...
+(光场检测是单一时刻的场, 光场动画是动画)
++[新建阅读窗口](,光场碰撞)
+
+Gaussian_mirror_field(M函数):...
++[新建阅读窗口](,Gaussian_mirror_field)
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_e=1000e6;
+pt_e=[-40e-6,0];
+angle_e=0;
+
+%{
++[M函数](,蒙卡模拟)
+%}
+
+E_pulse=100;
+pt_p=[0,0];
+angle_p=2;
+w_0=10e-6;
+Dtau=100e-15;
+dt=25e-15/4;
+lmbd_1=1000e-9;
+
+pt_0=[0.3e-3,0];
+angle_0=-170;
+% angle=-150;
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+[k_x1,k_y1]=transform_2D_reflection(k_1r(1),k_1r(2),angle,0,0);
+K_1=[1,k_x1,k_y1,0]*omega_1/c;
+
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
+length(t)
+Xs=[];
+Ys=[];
+E_es=[];
++[M函数](,蒙卡模拟)
+%}
+
+t_s=0.96e-12;
+t_e=1.2e-12;
+t=t_s:dt:t_e;
+
+v_0=beta*c;
+for j=1:30
+    pt=pt_e+t(1)*v_0;
+    xs=[pt(1)];
+    ys=[pt(2)];
+    P=P_1;
+    for i=1:length(t)
+        % [x_1,y_1,x_2,y_2]=transform_2D_reflection_inv(pt(1),pt(2),angle,x_0,y_0);
+        % In=I(y_2,x_2,t_i);
+        In=Gaussian_mirror_field(pt(1),pt(2),t(i),...
+            E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+        n_p=In/omega_1/hbar/c;
+
+        [P_2,K_2]=CBS_event(P,K_1,n_p,dt);
+        E_gamma(end+1)=K_2(1)*c*hbar;
+        P=P_2;
+        E=P_2(1)*c;
+        gamma=E/m_e/c^2;
+        beta=P_2(2:3)/gamma/m_e/c;
+    
+        pt=pt+beta*dt*c;
+        
+        xs(end+1)=pt(1);
+        ys(end+1)=pt(2);
+    end
+
+    Xs(end+1,:)=xs([1:4:40,40]);
+    Ys(end+1,:)=ys([1:4:40,40]);
+    E_es(end+1)=E;
+end
+
+E_gamma(E_gamma==0)=[];
+theta_out=(Ys(:,end)-Ys(:,end-1))./(Xs(:,end)-Xs(:,end-1));
+
+subplot(2,2,1)
+plot(Xs'/c/1e-15,Ys')
+xlabel('t [fs]')
+
+subplot(2,2,2)
+hist(theta_out/1e-3)
+xlabel('\theta [mrad]')
+
+subplot(2,2,3)
+hist(E_gamma/e/1e6,80)
+xlabel('E_\gamma [MeV]')
+
+subplot(2,2,4)
+hist(E_es/e/1e6)
+xlabel('E_e [MeV]')
+
+
+
+%{
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#487, 457:
++[显示PPT场景]"2"(,PM场景)
+
+有光源, 电子和PM
+PM是长方形(0.1e-3,2e-3)
+
+光源在(0,0)
+电子在(-80e-6,0)
+PM在(1e-3,0)
+
+光源和电子都朝向PM
+光源和电子都是线段(0.5e-3)
+光源和电子都是箭头(0.1e-3,0.1e-3)
+
+PM朝向"-174"
+
+光源有展宽
+光源有波长和腰宽
+电子有能量
+光源的波长是"1000e-9"
+光源的腰宽是"10e-6"
+光源的腰宽是"50e-6"
+光源的展宽是"100e-15"
+
+光源朝向(30)
+光源朝向(1)
+示意图代码:...
++[召唤星辰]"CBS示意图"(PM场景,示意图代码)
++[召唤星辰]"CBS动画"(PM场景,示意图代码)
++[召唤星辰]"CBS光场"(PM场景,示意图代码)
++[M函数](,示意图代码)
++[新建阅读窗口](,示意图代码)
+模拟代码:...
++[召唤星辰]"CBS蒙卡模拟"(PM场景,模拟代码)
+
+
++[显示图形名称](,PM场景)
++[显示PPT场景]"2"(,PM场景)
+## end
+#493, 3:
+多边形
+## end
+#495, 28:
+-0.001, 0.001, 0.001, -0.001
+## end
+#497, 24:
+0.0, 0.0, 0.0001, 0.0001
+## end
+#499, 10:
+0.001, 0.0
+## end
+#501, 6:
+0.0001
+## end
+#503, 5:
+0.002
+## end
+#505, 3:
+多边形
+## end
+#506, 3:
+长方形
+## end
+#508, 4:
+-174
+## end
+#510, 8:
+0.0, 0.0
+## end
+#512, 8:
+-80e-6,0
+## end
+#514, 33:
+0.0, 0.0, nan, -5e-05, 0.0, 5e-05
+## end
+#516, 40:
+0.0, 0.0005, nan, 0.0004, 0.0005, 0.0004
+## end
+#518, 6:
+0.0005
+## end
+#520, 2:
+箭头
+## end
+#522, 33:
+0.0, 0.0, nan, -5e-05, 0.0, 5e-05
+## end
+#524, 40:
+0.0, 0.0005, nan, 0.0004, 0.0005, 0.0004
+## end
+#526, 6:
+0.0005
+## end
+#528, 2:
+箭头
+## end
+#530, 2:
+曲线
+## end
+#531, 6:
+0.0001
+## end
+#533, 6:
+0.0001
+## end
+#535, 2:
+曲线
+## end
+#536, 6:
+0.0001
+## end
+#538, 6:
+0.0001
+## end
+#540, 7:
+1000e-9
+## end
+#542, 5:
+10e-6
+## end
+#547, 180:
+Nini, 打开GEANT4文件(文件)
+Nini, 打开天书(文件)
+
+
+场景示意图:...
+动画预览图:...
+光场预览图:...
+蒙卡模拟代码:...
+将条目"蒙卡模拟代码"复制为条目"光场预览图"
+封印'场景示意图'
+封印'蒙卡模拟代码'
++[新建阅读窗口](,光场预览图)
++[新建阅读窗口](,蒙卡模拟代码)
++[新建阅读窗口](,动画预览图)
+
+
+## end
+#549, 23:
+
+
+召唤规则:...
+降临规则:...
+
+
+
+
+## end
+#551, 383:
+"""
+Nini, 打开LWFA数据分析(文件)
+
+"""
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]"CBS动画"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+
+## end
+#553, 145:
+有什么
+
+光束代码:...
+电子代码:...
+PM代码:...
++[新建阅读窗口](,电子代码)
+将电子代码的"PM"替换为"电子"
+将条目"PM代码"复制为条目"电子代码"
+
+画电子:...
+整理代码:...
+将'画电子'的"整理代码"替换为"画电子"
++[新建阅读窗口](,整理代码)
+
+## end
+#555, 521:
+"""
+
+
+"""
+
++光束代码(_光束,_凭依)->+[del](,+光束代码)...
+
+->[]{
+    []:->的(_凭依,光束)->光束,->+的(_凭依,+光束)
+}->的(_凭依,光束)...
+
+->+的"光束_位置"(光束,+位置)->+的"光束_方向"(光束,+方向)...
+->+的"光束_波长"(光束,+波长)->+的"光束_腰宽"(光束,+腰宽)...
+->+的"光束_展宽"(光束,+展宽)...
+
+->的(_光束,波长)->[m_text](波长,+波长)...
+->的(_光束,腰宽)->[m_text](腰宽,+腰宽)...
+
+->[]{
+    []:->在(_光束,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]"位置"(,+位置)
+}...
+->[]{
+    []:->朝向(_光束,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]"0"(,+方向)
+}...
+->[]{
+    []:->的(_光束,展宽)->展宽->[m_text](展宽,+展宽),
+    ->[m_text]"300e-15"(,+展宽)
+}
+
+
+## end
+#557, 282:
+"""
+Nini, 打开LWFA数据分析(文件)
+M模板:...
+M代码:...
+
+"""
+
++整理代码(,_代码)->+[del](,+整理代码)...
+->的(整理代码,M模板)...
+
+->+[标题](_代码,)...
+->+[模板文本](M模板,_代码)...
+
+->+[.](+[模板文本],+[标题])->[]{
+    []=>的(_代码,_变量)->_变量->的(_变量,_性质)...
+    =>+[.](+[模板文本],_性质)->[m_text](的,+[.])
+}...
+
+->+[删除结构](,_代码)->+[M函数](,_代码)
+
+
+
+## end
+#558, 307:
+"""
+
+
+"""
+
++电子代码(_电子,_凭依)->+[del](,+电子代码)...
+
+->[]{
+    []:->的(_凭依,电子)->电子,->+的(_凭依,+电子)
+}->的(_凭依,电子)...
+
+->+的"电子_位置"(电子,+位置)->+的"电子_方向"(电子,+方向)...
+
+->[]{
+    []:->在(_电子,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]"0,0"(,+位置)
+}...
+->[]{
+    []:->朝向(_电子,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]"0"(,+方向)
+}
+
+
+## end
+#561, 275:
+"""
+
+
+"""
+
++PM代码(_PM,_凭依)->+[del](,+PM代码)...
+
+->[]{
+    []:->的(_凭依,PM)->PM,->+的(_凭依,+PM)
+}->的(_凭依,PM)...
+
+->+的"PM_位置"(PM,+位置)->+的"PM_方向"(PM,+方向)...
+
+->[]{
+    []:->在(_PM,空间点)->空间点->[m_text](空间点,+位置),
+    ->[]
+}...
+->[]{
+    []:->朝向(_PM,方向)->方向->[m_text](方向,+方向),
+    ->[]
+}
+
+
+## end
+#564, 1303:
+%{
++[M函数](,M代码)
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=10e-6;
+pt_1=[0.0, 0.0];
+angle_1=0;
+Dtau_1=600e-15;
+
+pt_2=[-2e-05, 0.0];
+angle_2=[0];
+pt_es=[0.00098, 0.0];
+pt_ee=[0.001, 0.0];
+v_e=[1.0, 0.0];
+t_s=3.3356409519815207e-12;
+t_e=3.9356409519815206e-12;
+
+pt_0=[0.001, 0.0];
+angle_0=-160;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+axis([pt_es(1)-0.3e-3,pt_es(1)+0.3e-3,pt_es(2)-0.1e-3,pt_es(2)+0.1e-3]);
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),"b*");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+for i=1:length(t)
+h_e.XData=v_e(1)*t(i)*c+pt_2(1);
+h_e.YData=v_e(2)*t(i)*c+pt_2(2);
+
+g_i=find(z<t(i)*c&z>t(i)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+h_g.XData=x_gm;
+h_g.YData=y_gm;
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,%[标题])
+%}
+## end
+#566, 1398:
+%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+Dtau_1=%光束_展宽;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+
+clf
+hold on
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+plot([pt_0(1)-cosd(angle_0+90),pt_0(1)+cosd(angle_0+90)],[pt_0(2)-sind(angle_0+90),pt_0(2)+sind(angle_0+90)],'k')
+
+axis equal
+axis([pt_es(1)-0.3e-3,pt_es(1)+0.3e-3,pt_es(2)-0.1e-3,pt_es(2)+0.1e-3]);
+
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),"b*");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+for i=1:length(t)
+h_e.XData=v_e(1)*t(i)*c+pt_2(1);
+h_e.YData=v_e(2)*t(i)*c+pt_2(2);
+
+g_i=find(z<t(i)*c&z>t(i)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+h_g.XData=x_gm;
+h_g.YData=y_gm;
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#567, 384:
+"""
+Nini, 打开LWFA数据分析(文件)
+
+"""
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]"CBS示意图"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+
+## end
+#569, 7270:
+场景示意图#0"
+
+召唤规则:...
+降临规则:...
+
+
+
+"(,)
+的#1""(场景示意图#0,降临规则#2)
+降临规则#2"有什么
+
+光束代码:...
+电子代码:...
+PM代码:...
++[新建阅读窗口](,电子代码)
+将电子代码的\"PM\"替换为\"电子\"
+将条目\"PM代码\"复制为条目\"电子代码\"
+
+画电子:...
+整理代码:...
+将'画电子'的\"整理代码\"替换为\"画电子\"
++[新建阅读窗口](,整理代码)
+"(,)
+的#3""(降临规则#2,画电子#4)
+画电子#4"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+M代码:...
++[新建阅读窗口](,M代码)
+
+\"\"\"
+
++画电子(,_代码)->+[del](,+画电子)...
+->的(画电子,M代码)...
+
+->的(_代码,电子)->的(电子,位置#1)->的(电子,方向#1)...
+->的(_代码,光束)->的(光束,位置#2)->的(光束,方向#2)...
+    ->的(光束,展宽#2)...
+->的(_代码,PM)->的(PM,位置#3)->的(PM,方向#3)...
+
+->+的\"起点\"(电子,+起点)->+的\"终点\"(电子,+终点)...
+->+的\"起点时间\"(电子,+起点时间)->+的\"终点时间\"(电子,+终点时间)...
+->+的\"速度方向\"(电子,+速度方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]\"pt1\"(+[matlab],位置#1)->+[.]\"an1\"(+[matlab],方向#1)...
+->+[.]\"pt2\"(+[matlab],位置#2)->+[.]\"an2\"(+[matlab],方向#2)...
+->+[.]\"Dtau2\"(+[matlab],展宽#2)...
+->+[.]\"pt3\"(+[matlab],位置#3)->+[.]\"an3\"(+[matlab],方向#3)...
+
+->+[o]\"t_s\"(+[matlab],+起点时间)->+[o]\"t_e\"(+[matlab],+终点时间)...
+->+[o]\"pt_es\"(+[matlab],+起点)->+[o]\"pt_ee\"(+[matlab],+终点)...
+->+[o]\"v_e\"(+[matlab],+速度方向)
+
+
+
+"(,)
+的#5""(画电子#4,M代码#6)
+M代码#6"%{
++[M函数](,M代码)
+Nini, 打开直线交点(文件)
+Nini, 打开直线交点的intersection_lines_dir_pt(节点)
+%}
+
+physics_constant;
+addpath('Matlab\space')
+
+theta1=an1/180*pi;
+theta2=an2/180*pi;
+theta3=(an3+90)/180*pi;
+[x13,y13]=intersection_lines_dir_pt(pt1,theta1,pt3,theta3);
+[x23,y23]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+
+% [x23,y23,X1,Y1,X2,Y2]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+% plot([x23,X1,X2],[y23,Y1,Y2],'r*')
+% plot(pt2(1),pt2(2),'bo')
+% plot(pt3(1),pt3(2),'ro')
+
+Ls=sqrt((x23-pt2(1))^2+(y23-pt2(2))^2);
+Le=sqrt((x13-pt1(1))^2+(y13-pt1(2))^2);
+
+v_e=pt13-pt1;
+v_e=v_e/norm(v_e);
+
+pt_es=pt1+Ls*v_e;
+pt_ee=[x13,y13];
+
+t_s=Ls/c;
+t_e=max(Le/c,t_s+Dtau2);
+
+
+%{
++[M函数](,M代码)
+%}"(,)
+的#7""(M代码#6,新窗口#8)
+新窗口#8""(直线交点,)
+的#9""(新窗口#8,m_width#10)
+m_width#10"958"(,)
+的#11""(新窗口#8,m_height#12)
+m_height#12"476"(,)
+的#13""(新窗口#8,m_y#14)
+m_y#14"38"(,)
+的#15""(新窗口#8,m_x#16)
+m_x#16"1"(,)
+的#17""(新窗口#8,m_cursor#18)
+m_cursor#18"0,0"(,)
+的#19""(新窗口#8,m_readPtr#20)
+m_readPtr#20""(,)
+的#21""(新窗口#8,m_event#22)
+m_event#22""(,event)
+的#23""(新窗口#8,m_port#24)
+m_port#24""(,端口)
+的#25""(新窗口#8,m_compiler#26)
+m_compiler#26""(,compiler)
+的#27""(降临规则#2,PM代码#28)
+PM代码#28"\"\"\"
+
+
+\"\"\"
+
++PM代码(_PM,_凭依)->+[del](,+PM代码)...
+
+->[]{
+    []:->的(_凭依,PM)->PM,->+的(_凭依,+PM)
+}->的(_凭依,PM)...
+
+->+的\"PM_位置\"(PM,+位置)->+的\"PM_方向\"(PM,+方向)...
+
+->[]{
+    []:->在(_PM,空间点)->空间点->[m_text](空间点,+位置),
+    ->[]
+}...
+->[]{
+    []:->朝向(_PM,方向)->方向->[m_text](方向,+方向),
+    ->[]
+}
+
+"(,)
+的#29""(降临规则#2,电子代码#30)
+电子代码#30"\"\"\"
+
+
+\"\"\"
+
++电子代码(_电子,_凭依)->+[del](,+电子代码)...
+
+->[]{
+    []:->的(_凭依,电子)->电子,->+的(_凭依,+电子)
+}->的(_凭依,电子)...
+
+->+的\"电子_位置\"(电子,+位置)->+的\"电子_方向\"(电子,+方向)...
+
+->[]{
+    []:->在(_电子,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]\"0,0\"(,+位置)
+}...
+->[]{
+    []:->朝向(_电子,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]\"0\"(,+方向)
+}
+
+"(,)
+的#31""(降临规则#2,整理代码#32)
+整理代码#32"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+M模板:...
+M代码:...
+
+\"\"\"
+
++整理代码(,_代码)->+[del](,+整理代码)...
+->的(整理代码,M模板)...
+
+->+[标题](_代码,)...
+->+[模板文本](M模板,_代码)...
+
+->+[.](+[模板文本],+[标题])->[]{
+    []=>的(_代码,_变量)->_变量->的(_变量,_性质)...
+    =>+[.](+[模板文本],_性质)->[m_text](的,+[.])
+}...
+
+->+[删除结构](,_代码)->+[M函数](,_代码)
+
+
+"(,)
+的#33""(整理代码#32,M模板#34)
+M模板#34"%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+Dtau_1=%光束_展宽;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),\"b*\");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+
+
+%{
++[M函数](,M代码)
+%}"(,)
+的#35""(M模板#34,保存#36)
+保存#36"%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+
+%{
++[M函数](,M代码)
+%}"(,)
+的#37""(整理代码#32,M代码#38)
+M代码#38"%{
++[M函数](,M代码)
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=10e-6;
+pt_1=[0.0, 0.0];
+angle_1=0;
+Dtau_1=600e-15;
+
+pt_2=[-2e-05, 0.0];
+angle_2=[0];
+pt_es=[0.00098, 0.0];
+pt_ee=[0.001, 0.0];
+v_e=[1.0, 0.0];
+t_s=3.3356409519815207e-12;
+t_e=3.9356409519815206e-12;
+
+pt_0=[0.001, 0.0];
+angle_0=-160;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+axis([pt_es(1)-0.3e-3,pt_es(1)+0.3e-3,pt_es(2)-0.1e-3,pt_es(2)+0.1e-3]);
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),\"b*\");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+for i=1:length(t)
+h_e.XData=v_e(1)*t(i)*c+pt_2(1);
+h_e.YData=v_e(2)*t(i)*c+pt_2(2);
+
+g_i=find(z<t(i)*c&z>t(i)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+h_g.XData=x_gm;
+h_g.YData=y_gm;
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,%[标题])
+%}"(,)
+的#39""(降临规则#2,光束代码#40)
+光束代码#40"\"\"\"
+
+
+\"\"\"
+
++光束代码(_光束,_凭依)->+[del](,+光束代码)...
+
+->[]{
+    []:->的(_凭依,光束)->光束,->+的(_凭依,+光束)
+}->的(_凭依,光束)...
+
+->+的\"光束_位置\"(光束,+位置)->+的\"光束_方向\"(光束,+方向)...
+->+的\"光束_波长\"(光束,+波长)->+的\"光束_腰宽\"(光束,+腰宽)...
+->+的\"光束_展宽\"(光束,+展宽)...
+
+->的(_光束,波长)->[m_text](波长,+波长)...
+->的(_光束,腰宽)->[m_text](腰宽,+腰宽)...
+
+->[]{
+    []:->在(_光束,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]\"位置\"(,+位置)
+}...
+->[]{
+    []:->朝向(_光束,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]\"0\"(,+方向)
+}...
+->[]{
+    []:->的(_光束,展宽)->展宽->[m_text](展宽,+展宽),
+    ->[m_text]\"300e-15\"(,+展宽)
+}
+
+"(,)
+的#41""(场景示意图#0,召唤规则#42)
+召唤规则#42"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+
+\"\"\"
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]\"CBS示意图\"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+"(,)
+
+## end
+#571, 1462:
+%{
++[M函数](,示意图代码)
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=1000e-9;
+w_0=10e-6;
+pt_1=[0.0, 0.0];
+angle_1=1;
+Dtau_1=100e-15;
+
+pt_2=[-80e-6,0];
+angle_2=[0];
+pt_es=[0.0009183208074418823, 0.0];
+pt_ee=[0.001, 0.0];
+v_e=[1.0, 0.0];
+t_s=3.3300397685184002e-12;
+t_e=3.6024922281400422e-12;
+
+pt_0=[0.001, 0.0];
+angle_0=-174;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+
+clf
+hold on
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+plot([pt_0(1)-cosd(angle_0+90),pt_0(1)+cosd(angle_0+90)],[pt_0(2)-sind(angle_0+90),pt_0(2)+sind(angle_0+90)],'k')
+
+axis equal
+axis([pt_es(1)-0.3e-3,pt_es(1)+0.3e-3,pt_es(2)-0.1e-3,pt_es(2)+0.1e-3]);
+
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),"b*");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+for i=1:length(t)
+h_e.XData=v_e(1)*t(i)*c+pt_2(1);
+h_e.YData=v_e(2)*t(i)*c+pt_2(2);
+
+g_i=find(z<t(i)*c&z>t(i)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+h_g.XData=x_gm;
+h_g.YData=y_gm;
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#572, 1:
+1
+## end
+#575, 752:
+"""
+Nini, 打开LWFA数据分析(文件)
+M代码:...
++[新建阅读窗口](,M代码)
+
+"""
+
++画电子(,_代码)->+[del](,+画电子)...
+->的(画电子,M代码)...
+
+->的(_代码,电子)->的(电子,位置#1)->的(电子,方向#1)...
+->的(_代码,光束)->的(光束,位置#2)->的(光束,方向#2)...
+    ->的(光束,展宽#2)...
+->的(_代码,PM)->的(PM,位置#3)->的(PM,方向#3)...
+
+->+的"起点"(电子,+起点)->+的"终点"(电子,+终点)...
+->+的"起点时间"(电子,+起点时间)->+的"终点时间"(电子,+终点时间)...
+->+的"速度方向"(电子,+速度方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"pt1"(+[matlab],位置#1)->+[.]"an1"(+[matlab],方向#1)...
+->+[.]"pt2"(+[matlab],位置#2)->+[.]"an2"(+[matlab],方向#2)...
+->+[.]"Dtau2"(+[matlab],展宽#2)...
+->+[.]"pt3"(+[matlab],位置#3)->+[.]"an3"(+[matlab],方向#3)...
+
+->+[o]"t_s"(+[matlab],+起点时间)->+[o]"t_e"(+[matlab],+终点时间)...
+->+[o]"pt_es"(+[matlab],+起点)->+[o]"pt_ee"(+[matlab],+终点)...
+->+[o]"v_e"(+[matlab],+速度方向)
+
+
+
+
+## end
+#577, 711:
+%{
++[M函数](,M代码)
+Nini, 打开直线交点(文件)
+Nini, 打开直线交点的intersection_lines_dir_pt(节点)
+%}
+
+physics_constant;
+addpath('Matlab\space')
+
+theta1=an1/180*pi;
+theta2=an2/180*pi;
+theta3=(an3+90)/180*pi;
+[x13,y13]=intersection_lines_dir_pt(pt1,theta1,pt3,theta3);
+[x23,y23]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+
+pt13=[x13,y13];
+pt23=[x23,y23];
+
+% [x23,y23,X1,Y1,X2,Y2]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+% plot([x23,X1,X2],[y23,Y1,Y2],'r*')
+% plot(pt2(1),pt2(2),'bo')
+% plot(pt3(1),pt3(2),'ro')
+
+Ls=sqrt((x23-pt2(1))^2+(y23-pt2(2))^2);
+Le=sqrt((x13-pt1(1))^2+(y13-pt1(2))^2);
+
+v_e=pt13-pt1;
+v_e=v_e/norm(v_e);
+
+pt_es=pt1+Ls*v_e;
+pt_ee=[x13,y13];
+
+t_s=Ls/c;
+t_e=max(Le/c,t_s+Dtau2);
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#579, 720:
+%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#580, 7:
+100e-15
+## end
+#582, 3:
+958
+## end
+#583, 3:
+476
+## end
+#584, 2:
+38
+## end
+#585, 1:
+1
+## end
+#586, 3:
+0,0
+## end
+#588, 728:
+%{
++[M函数](,M代码)
+Nini, 打开直线交点(文件)
+Nini, 打开直线交点的intersection_lines_dir_pt(节点)
+pt13
+%}
+
+physics_constant;
+addpath('Matlab\space')
+
+theta1=an1/180*pi;
+theta2=an2/180*pi;
+theta3=(an3+90)/180*pi;
+[x13,y13]=intersection_lines_dir_pt(pt1,theta1,pt3,theta3);
+[x23,y23]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+
+pt13=[x13,y13];
+pt23=[x23,y23];
+
+% [x23,y23,X1,Y1,X2,Y2]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+% plot([x23,X1,X2],[y23,Y1,Y2],'r*')
+% plot(pt2(1),pt2(2),'bo')
+% plot(pt3(1),pt3(2),'ro')
+
+Ls=sqrt((x23-pt2(1))^2+(y23-pt2(2))^2);
+Le=sqrt((x13-pt1(1))^2+(y13-pt1(2))^2);
+
+v_e=pt13-pt1;
+v_e=v_e/norm(v_e);
+
+pt_es=pt1+Ls*v_e;
+pt_ee=[x13,y13];
+
+t_s=Ls/c-Dtau2/2*2;
+t_e=max(Le/c,t_s+Dtau2*2);
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#590, 752:
+"""
+Nini, 打开LWFA数据分析(文件)
+M代码:...
++[新建阅读窗口](,M代码)
+
+"""
+
++画电子(,_代码)->+[del](,+画电子)...
+->的(画电子,M代码)...
+
+->的(_代码,电子)->的(电子,位置#1)->的(电子,方向#1)...
+->的(_代码,光束)->的(光束,位置#2)->的(光束,方向#2)...
+    ->的(光束,展宽#2)...
+->的(_代码,PM)->的(PM,位置#3)->的(PM,方向#3)...
+
+->+的"起点"(电子,+起点)->+的"终点"(电子,+终点)...
+->+的"起点时间"(电子,+起点时间)->+的"终点时间"(电子,+终点时间)...
+->+的"速度方向"(电子,+速度方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"pt1"(+[matlab],位置#1)->+[.]"an1"(+[matlab],方向#1)...
+->+[.]"pt2"(+[matlab],位置#2)->+[.]"an2"(+[matlab],方向#2)...
+->+[.]"Dtau2"(+[matlab],展宽#2)...
+->+[.]"pt3"(+[matlab],位置#3)->+[.]"an3"(+[matlab],方向#3)...
+
+->+[o]"t_s"(+[matlab],+起点时间)->+[o]"t_e"(+[matlab],+终点时间)...
+->+[o]"pt_es"(+[matlab],+起点)->+[o]"pt_ee"(+[matlab],+终点)...
+->+[o]"v_e"(+[matlab],+速度方向)
+
+
+
+
+## end
+#591, 275:
+"""
+
+
+"""
+
++PM代码(_PM,_凭依)->+[del](,+PM代码)...
+
+->[]{
+    []:->的(_凭依,PM)->PM,->+的(_凭依,+PM)
+}->的(_凭依,PM)...
+
+->+的"PM_位置"(PM,+位置)->+的"PM_方向"(PM,+方向)...
+
+->[]{
+    []:->在(_PM,空间点)->空间点->[m_text](空间点,+位置),
+    ->[]
+}...
+->[]{
+    []:->朝向(_PM,方向)->方向->[m_text](方向,+方向),
+    ->[]
+}
+
+
+## end
+#592, 307:
+"""
+
+
+"""
+
++电子代码(_电子,_凭依)->+[del](,+电子代码)...
+
+->[]{
+    []:->的(_凭依,电子)->电子,->+的(_凭依,+电子)
+}->的(_凭依,电子)...
+
+->+的"电子_位置"(电子,+位置)->+的"电子_方向"(电子,+方向)...
+
+->[]{
+    []:->在(_电子,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]"0,0"(,+位置)
+}...
+->[]{
+    []:->朝向(_电子,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]"0"(,+方向)
+}
+
+
+## end
+#593, 720:
+%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#595, 1388:
+%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_e=1000e6;
+pt_e=[%电子_位置];
+angle_e=%电子_方向;
+
+%{
++[M函数](,%[标题])
+%}
+
+E_pulse=10;
+pt_p=[%光束_位置];
+angle_p=%光束_方向;
+w_0=%光束_腰宽;
+Dtau=%光束_展宽;
+lmbd_1=%光束_波长;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+
+
+% Gaussian beam
+z_R=w_0.^(2).*pi./lmbd_1;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*Dtau);
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(Dtau.^(2)));
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_e*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
++[M函数](,%[标题])
+%}
+
+t=linspace(%起点时间,%终点时间,10);
+x=linspace(0,1.5,300)*1e-3;
+y=linspace(-1,1,300)*0.1e-3;
+[X,Y]=meshgrid(x,y);
+In=Gaussian_mirror_field(X,Y,t(1),E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+pt=pt_e+t(1)*beta*c;
+clf
+hold on
+[~,h_c]=contourf(X,Y,In/I_0*1e-3);
+h_e=plot([pt_e(1),pt(1)],[pt_e(2),pt(2)],'r*-','LineWidth',2);
+axis equal
+
+for i=1:length(t)
+In=Gaussian_mirror_field(X,Y,t(i),E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+% In=I(Y_12,X_12,t(i))+I(Y_22,X_22,t(i));
+pt=pt_e+t(i)*beta*c;
+
+h_e.XData=[pt_e(1),pt(1)];
+h_e.YData=[pt_e(2),pt(2)];
+h_c.ZData=In;
+pause(0.01)
+end
+
+
+%{
++[M函数](,%[标题])
+%}
+## end
+#596, 1414:
+%{
++[M函数](,M代码)
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_e=1000e6;
+pt_e=[-2e-05, 0.0];
+angle_e=0;
+
+%{
++[M函数](,示意图代码)
+%}
+
+E_pulse=10;
+pt_p=[0.0, 0.0];
+angle_p=0;
+w_0=10e-6;
+Dtau=600e-15;
+lmbd_1=800e-9;
+
+pt_0=[0.001, 0.0];
+angle_0=-174;
+
+
+% Gaussian beam
+z_R=w_0.^(2).*pi./lmbd_1;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*Dtau);
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(Dtau.^(2)));
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_e*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
++[M函数](,示意图代码)
+%}
+
+t=linspace(3.0356409519815208e-12,3.6356409519815206e-12,10);
+x=linspace(0,0.35,1000)*1e-3;
+y=linspace(-1,1,1000)*0.1e-3;
+[X,Y]=meshgrid(x,y);
+In=Gaussian_mirror_field(X,Y,t(1),E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+pt=pt_e+t(1)*beta*c;
+clf
+hold on
+[~,h_c]=contourf(X,Y,In/I_0*1e-3);
+h_e=plot([pt_e(1),pt(1)],[pt_e(2),pt(2)],'r*-','LineWidth',2);
+axis equal
+
+for i=1:length(t)
+In=Gaussian_mirror_field(X,Y,t(i),E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+% In=I(Y_12,X_12,t(i))+I(Y_22,X_22,t(i));
+pt=pt_e+t(i)*beta*c;
+
+h_e.XData=[pt_e(1),pt(1)];
+h_e.YData=[pt_e(2),pt(2)];
+h_c.ZData=In;
+pause(0.01)
+end
+
+
+%{
++[M函数](,%[标题])
+%}
+## end
+#599, 298:
+"""
+Nini, 打开LWFA数据分析(文件)
+M模板:...
+M代码:...
++[新建阅读窗口](,M模板)
+
+"""
+
++整理代码(,_代码)->+[del](,+整理代码)...
+->的(整理代码,M模板)...
+
+->+[标题](_代码,)...
+->+[模板文本](M模板,_代码)...
+
+->+[.](+[模板文本],+[标题])->[]{
+    []=>的(_代码,_变量)->_变量->的(_变量,_性质)...
+    =>+[.](+[模板文本],_性质)->[m_text](的,+[.])
+}...
+
+->+[删除结构](,_代码)->+[M函数](,_代码)
+
+
+
+## end
+#600, 521:
+"""
+
+
+"""
+
++光束代码(_光束,_凭依)->+[del](,+光束代码)...
+
+->[]{
+    []:->的(_凭依,光束)->光束,->+的(_凭依,+光束)
+}->的(_凭依,光束)...
+
+->+的"光束_位置"(光束,+位置)->+的"光束_方向"(光束,+方向)...
+->+的"光束_波长"(光束,+波长)->+的"光束_腰宽"(光束,+腰宽)...
+->+的"光束_展宽"(光束,+展宽)...
+
+->的(_光束,波长)->[m_text](波长,+波长)...
+->的(_光束,腰宽)->[m_text](腰宽,+腰宽)...
+
+->[]{
+    []:->在(_光束,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]"位置"(,+位置)
+}...
+->[]{
+    []:->朝向(_光束,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]"0"(,+方向)
+}...
+->[]{
+    []:->的(_光束,展宽)->展宽->[m_text](展宽,+展宽),
+    ->[m_text]"300e-15"(,+展宽)
+}
+
+
+## end
+#606, 145:
+有什么
+
+光束代码:...
+电子代码:...
+PM代码:...
++[新建阅读窗口](,电子代码)
+将电子代码的"PM"替换为"电子"
+将条目"PM代码"复制为条目"电子代码"
+
+画电子:...
+整理代码:...
+将'画电子'的"整理代码"替换为"画电子"
++[新建阅读窗口](,整理代码)
+
+## end
+#607, 383:
+"""
+Nini, 打开LWFA数据分析(文件)
+
+"""
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]"CBS光场"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+
+## end
+#610, 23:
+
+
+召唤规则:...
+降临规则:...
+
+
+
+
+## end
+#612, 383:
+"""
+Nini, 打开LWFA数据分析(文件)
+
+"""
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]"CBS动画"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+
+## end
+#614, 7728:
+动画预览图#0"
+
+召唤规则:...
+降临规则:...
+
+
+
+"(,)
+的#1""(动画预览图#0,召唤规则#2)
+召唤规则#2"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+
+\"\"\"
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]\"CBS动画\"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+"(,)
+的#3""(动画预览图#0,降临规则#4)
+降临规则#4"有什么
+
+光束代码:...
+电子代码:...
+PM代码:...
++[新建阅读窗口](,电子代码)
+将电子代码的\"PM\"替换为\"电子\"
+将条目\"PM代码\"复制为条目\"电子代码\"
+
+画电子:...
+整理代码:...
+将'画电子'的\"整理代码\"替换为\"画电子\"
++[新建阅读窗口](,整理代码)
+"(,)
+的#5""(降临规则#4,光束代码#6)
+光束代码#6"\"\"\"
+
+
+\"\"\"
+
++光束代码(_光束,_凭依)->+[del](,+光束代码)...
+
+->[]{
+    []:->的(_凭依,光束)->光束,->+的(_凭依,+光束)
+}->的(_凭依,光束)...
+
+->+的\"光束_位置\"(光束,+位置)->+的\"光束_方向\"(光束,+方向)...
+->+的\"光束_波长\"(光束,+波长)->+的\"光束_腰宽\"(光束,+腰宽)...
+->+的\"光束_展宽\"(光束,+展宽)...
+
+->的(_光束,波长)->[m_text](波长,+波长)...
+->的(_光束,腰宽)->[m_text](腰宽,+腰宽)...
+
+->[]{
+    []:->在(_光束,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]\"位置\"(,+位置)
+}...
+->[]{
+    []:->朝向(_光束,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]\"0\"(,+方向)
+}...
+->[]{
+    []:->的(_光束,展宽)->展宽->[m_text](展宽,+展宽),
+    ->[m_text]\"300e-15\"(,+展宽)
+}
+
+"(,)
+的#7""(降临规则#4,整理代码#8)
+整理代码#8"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+M模板:...
+M代码:...
+
+\"\"\"
+
++整理代码(,_代码)->+[del](,+整理代码)...
+->的(整理代码,M模板)...
+
+->+[标题](_代码,)...
+->+[模板文本](M模板,_代码)...
+
+->+[.](+[模板文本],+[标题])->[]{
+    []=>的(_代码,_变量)->_变量->的(_变量,_性质)...
+    =>+[.](+[模板文本],_性质)->[m_text](的,+[.])
+}...
+
+->+[删除结构](,_代码)->+[M函数](,_代码)
+
+
+"(,)
+的#9""(整理代码#8,M代码#10)
+M代码#10"%{
++[M函数](,M代码)
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=10e-6;
+pt_1=[0.0, 0.0];
+angle_1=0;
+Dtau_1=600e-15;
+
+pt_2=[-2e-05, 0.0];
+angle_2=[0];
+pt_es=[0.00098, 0.0];
+pt_ee=[0.001, 0.0];
+v_e=[1.0, 0.0];
+t_s=3.3356409519815207e-12;
+t_e=3.9356409519815206e-12;
+
+pt_0=[0.001, 0.0];
+angle_0=-160;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+axis([pt_es(1)-0.3e-3,pt_es(1)+0.3e-3,pt_es(2)-0.1e-3,pt_es(2)+0.1e-3]);
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),\"b*\");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+for i=1:length(t)
+h_e.XData=v_e(1)*t(i)*c+pt_2(1);
+h_e.YData=v_e(2)*t(i)*c+pt_2(2);
+
+g_i=find(z<t(i)*c&z>t(i)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+h_g.XData=x_gm;
+h_g.YData=y_gm;
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,%[标题])
+%}"(,)
+的#11""(整理代码#8,M模板#12)
+M模板#12"%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+Dtau_1=%光束_展宽;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+
+clf
+hold on
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+plot([pt_0(1)-cosd(angle_0+90),pt_0(1)+cosd(angle_0+90)],[pt_0(2)-sind(angle_0+90),pt_0(2)+sind(angle_0+90)],'k')
+
+axis equal
+axis([pt_es(1)-0.3e-3,pt_es(1)+0.3e-3,pt_es(2)-0.1e-3,pt_es(2)+0.1e-3]);
+
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),\"b*\");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+for i=1:length(t)
+h_e.XData=v_e(1)*t(i)*c+pt_2(1);
+h_e.YData=v_e(2)*t(i)*c+pt_2(2);
+
+g_i=find(z<t(i)*c&z>t(i)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+h_g.XData=x_gm;
+h_g.YData=y_gm;
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,M代码)
+%}"(,)
+的#13""(M模板#12,保存#14)
+保存#14"%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+
+%{
++[M函数](,M代码)
+%}"(,)
+的#15""(降临规则#4,电子代码#16)
+电子代码#16"\"\"\"
+
+
+\"\"\"
+
++电子代码(_电子,_凭依)->+[del](,+电子代码)...
+
+->[]{
+    []:->的(_凭依,电子)->电子,->+的(_凭依,+电子)
+}->的(_凭依,电子)...
+
+->+的\"电子_位置\"(电子,+位置)->+的\"电子_方向\"(电子,+方向)...
+
+->[]{
+    []:->在(_电子,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]\"0,0\"(,+位置)
+}...
+->[]{
+    []:->朝向(_电子,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]\"0\"(,+方向)
+}
+
+"(,)
+的#17""(降临规则#4,PM代码#18)
+PM代码#18"\"\"\"
+
+
+\"\"\"
+
++PM代码(_PM,_凭依)->+[del](,+PM代码)...
+
+->[]{
+    []:->的(_凭依,PM)->PM,->+的(_凭依,+PM)
+}->的(_凭依,PM)...
+
+->+的\"PM_位置\"(PM,+位置)->+的\"PM_方向\"(PM,+方向)...
+
+->[]{
+    []:->在(_PM,空间点)->空间点->[m_text](空间点,+位置),
+    ->[]
+}...
+->[]{
+    []:->朝向(_PM,方向)->方向->[m_text](方向,+方向),
+    ->[]
+}
+
+"(,)
+的#19""(降临规则#4,画电子#20)
+画电子#20"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+M代码:...
++[新建阅读窗口](,M代码)
+
+\"\"\"
+
++画电子(,_代码)->+[del](,+画电子)...
+->的(画电子,M代码)...
+
+->的(_代码,电子)->的(电子,位置#1)->的(电子,方向#1)...
+->的(_代码,光束)->的(光束,位置#2)->的(光束,方向#2)...
+    ->的(光束,展宽#2)...
+->的(_代码,PM)->的(PM,位置#3)->的(PM,方向#3)...
+
+->+的\"起点\"(电子,+起点)->+的\"终点\"(电子,+终点)...
+->+的\"起点时间\"(电子,+起点时间)->+的\"终点时间\"(电子,+终点时间)...
+->+的\"速度方向\"(电子,+速度方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]\"pt1\"(+[matlab],位置#1)->+[.]\"an1\"(+[matlab],方向#1)...
+->+[.]\"pt2\"(+[matlab],位置#2)->+[.]\"an2\"(+[matlab],方向#2)...
+->+[.]\"Dtau2\"(+[matlab],展宽#2)...
+->+[.]\"pt3\"(+[matlab],位置#3)->+[.]\"an3\"(+[matlab],方向#3)...
+
+->+[o]\"t_s\"(+[matlab],+起点时间)->+[o]\"t_e\"(+[matlab],+终点时间)...
+->+[o]\"pt_es\"(+[matlab],+起点)->+[o]\"pt_ee\"(+[matlab],+终点)...
+->+[o]\"v_e\"(+[matlab],+速度方向)
+
+
+
+"(,)
+的#21""(画电子#20,M代码#22)
+M代码#22"%{
++[M函数](,M代码)
+Nini, 打开直线交点(文件)
+Nini, 打开直线交点的intersection_lines_dir_pt(节点)
+%}
+
+physics_constant;
+addpath('Matlab\space')
+
+theta1=an1/180*pi;
+theta2=an2/180*pi;
+theta3=(an3+90)/180*pi;
+[x13,y13]=intersection_lines_dir_pt(pt1,theta1,pt3,theta3);
+[x23,y23]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+
+% [x23,y23,X1,Y1,X2,Y2]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+% plot([x23,X1,X2],[y23,Y1,Y2],'r*')
+% plot(pt2(1),pt2(2),'bo')
+% plot(pt3(1),pt3(2),'ro')
+
+Ls=sqrt((x23-pt2(1))^2+(y23-pt2(2))^2);
+Le=sqrt((x13-pt1(1))^2+(y13-pt1(2))^2);
+
+v_e=pt13-pt1;
+v_e=v_e/norm(v_e);
+
+pt_es=pt1+Ls*v_e;
+pt_ee=[x13,y13];
+
+t_s=Ls/c;
+t_e=max(Le/c,t_s+Dtau2);
+
+
+%{
++[M函数](,M代码)
+%}"(,)
+的#23""(M代码#22,新窗口#24)
+新窗口#24""(直线交点,)
+的#25""(新窗口#24,m_compiler#26)
+m_compiler#26""(,compiler)
+的#27""(新窗口#24,m_port#28)
+m_port#28""(,端口)
+的#29""(新窗口#24,m_event#30)
+m_event#30""(,event)
+的#31""(新窗口#24,m_readPtr#32)
+m_readPtr#32""(,)
+的#33""(新窗口#24,m_cursor#34)
+m_cursor#34"0,0"(,)
+的#35""(新窗口#24,m_x#36)
+m_x#36"1"(,)
+的#37""(新窗口#24,m_y#38)
+m_y#38"38"(,)
+的#39""(新窗口#24,m_height#40)
+m_height#40"476"(,)
+的#41""(新窗口#24,m_width#42)
+m_width#42"958"(,)
+
+## end
+#615, 384:
+"""
+Nini, 打开LWFA数据分析(文件)
+
+"""
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]"CBS示意图"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+
+## end
+#616, 521:
+"""
+
+
+"""
+
++光束代码(_光束,_凭依)->+[del](,+光束代码)...
+
+->[]{
+    []:->的(_凭依,光束)->光束,->+的(_凭依,+光束)
+}->的(_凭依,光束)...
+
+->+的"光束_位置"(光束,+位置)->+的"光束_方向"(光束,+方向)...
+->+的"光束_波长"(光束,+波长)->+的"光束_腰宽"(光束,+腰宽)...
+->+的"光束_展宽"(光束,+展宽)...
+
+->的(_光束,波长)->[m_text](波长,+波长)...
+->的(_光束,腰宽)->[m_text](腰宽,+腰宽)...
+
+->[]{
+    []:->在(_光束,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]"位置"(,+位置)
+}...
+->[]{
+    []:->朝向(_光束,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]"0"(,+方向)
+}...
+->[]{
+    []:->的(_光束,展宽)->展宽->[m_text](展宽,+展宽),
+    ->[m_text]"300e-15"(,+展宽)
+}
+
+
+## end
+#617, 1303:
+%{
++[M函数](,M代码)
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=10e-6;
+pt_1=[0.0, 0.0];
+angle_1=0;
+Dtau_1=600e-15;
+
+pt_2=[-2e-05, 0.0];
+angle_2=[0];
+pt_es=[0.00098, 0.0];
+pt_ee=[0.001, 0.0];
+v_e=[1.0, 0.0];
+t_s=3.3356409519815207e-12;
+t_e=3.9356409519815206e-12;
+
+pt_0=[0.001, 0.0];
+angle_0=-160;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+axis([pt_es(1)-0.3e-3,pt_es(1)+0.3e-3,pt_es(2)-0.1e-3,pt_es(2)+0.1e-3]);
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),"b*");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+for i=1:length(t)
+h_e.XData=v_e(1)*t(i)*c+pt_2(1);
+h_e.YData=v_e(2)*t(i)*c+pt_2(2);
+
+g_i=find(z<t(i)*c&z>t(i)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+h_g.XData=x_gm;
+h_g.YData=y_gm;
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,%[标题])
+%}
+## end
+#618, 720:
+%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#620, 948:
+%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+Dtau_1=%光束_展宽;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),"b*");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#623, 282:
+"""
+Nini, 打开LWFA数据分析(文件)
+M模板:...
+M代码:...
+
+"""
+
++整理代码(,_代码)->+[del](,+整理代码)...
+->的(整理代码,M模板)...
+
+->+[标题](_代码,)...
+->+[模板文本](M模板,_代码)...
+
+->+[.](+[模板文本],+[标题])->[]{
+    []=>的(_代码,_变量)->_变量->的(_变量,_性质)...
+    =>+[.](+[模板文本],_性质)->[m_text](的,+[.])
+}...
+
+->+[删除结构](,_代码)->+[M函数](,_代码)
+
+
+
+## end
+#624, 307:
+"""
+
+
+"""
+
++电子代码(_电子,_凭依)->+[del](,+电子代码)...
+
+->[]{
+    []:->的(_凭依,电子)->电子,->+的(_凭依,+电子)
+}->的(_凭依,电子)...
+
+->+的"电子_位置"(电子,+位置)->+的"电子_方向"(电子,+方向)...
+
+->[]{
+    []:->在(_电子,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]"0,0"(,+位置)
+}...
+->[]{
+    []:->朝向(_电子,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]"0"(,+方向)
+}
+
+
+## end
+#625, 275:
+"""
+
+
+"""
+
++PM代码(_PM,_凭依)->+[del](,+PM代码)...
+
+->[]{
+    []:->的(_凭依,PM)->PM,->+的(_凭依,+PM)
+}->的(_凭依,PM)...
+
+->+的"PM_位置"(PM,+位置)->+的"PM_方向"(PM,+方向)...
+
+->[]{
+    []:->在(_PM,空间点)->空间点->[m_text](空间点,+位置),
+    ->[]
+}...
+->[]{
+    []:->朝向(_PM,方向)->方向->[m_text](方向,+方向),
+    ->[]
+}
+
+
+## end
+#627, 3:
+0,0
+## end
+#628, 1:
+1
+## end
+#629, 2:
+38
+## end
+#630, 3:
+476
+## end
+#631, 3:
+958
+## end
+#632, 711:
+%{
++[M函数](,M代码)
+Nini, 打开直线交点(文件)
+Nini, 打开直线交点的intersection_lines_dir_pt(节点)
+%}
+
+physics_constant;
+addpath('Matlab\space')
+
+theta1=an1/180*pi;
+theta2=an2/180*pi;
+theta3=(an3+90)/180*pi;
+[x13,y13]=intersection_lines_dir_pt(pt1,theta1,pt3,theta3);
+[x23,y23]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+
+pt13=[x13,y13];
+pt23=[x23,y23];
+
+% [x23,y23,X1,Y1,X2,Y2]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+% plot([x23,X1,X2],[y23,Y1,Y2],'r*')
+% plot(pt2(1),pt2(2),'bo')
+% plot(pt3(1),pt3(2),'ro')
+
+Ls=sqrt((x23-pt2(1))^2+(y23-pt2(2))^2);
+Le=sqrt((x13-pt1(1))^2+(y13-pt1(2))^2);
+
+v_e=pt13-pt1;
+v_e=v_e/norm(v_e);
+
+pt_es=pt1+Ls*v_e;
+pt_ee=[x13,y13];
+
+t_s=Ls/c;
+t_e=max(Le/c,t_s+Dtau2);
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#634, 752:
+"""
+Nini, 打开LWFA数据分析(文件)
+M代码:...
++[新建阅读窗口](,M代码)
+
+"""
+
++画电子(,_代码)->+[del](,+画电子)...
+->的(画电子,M代码)...
+
+->的(_代码,电子)->的(电子,位置#1)->的(电子,方向#1)...
+->的(_代码,光束)->的(光束,位置#2)->的(光束,方向#2)...
+    ->的(光束,展宽#2)...
+->的(_代码,PM)->的(PM,位置#3)->的(PM,方向#3)...
+
+->+的"起点"(电子,+起点)->+的"终点"(电子,+终点)...
+->+的"起点时间"(电子,+起点时间)->+的"终点时间"(电子,+终点时间)...
+->+的"速度方向"(电子,+速度方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"pt1"(+[matlab],位置#1)->+[.]"an1"(+[matlab],方向#1)...
+->+[.]"pt2"(+[matlab],位置#2)->+[.]"an2"(+[matlab],方向#2)...
+->+[.]"Dtau2"(+[matlab],展宽#2)...
+->+[.]"pt3"(+[matlab],位置#3)->+[.]"an3"(+[matlab],方向#3)...
+
+->+[o]"t_s"(+[matlab],+起点时间)->+[o]"t_e"(+[matlab],+终点时间)...
+->+[o]"pt_es"(+[matlab],+起点)->+[o]"pt_ee"(+[matlab],+终点)...
+->+[o]"v_e"(+[matlab],+速度方向)
+
+
+
+
+## end
+#640, 145:
+有什么
+
+光束代码:...
+电子代码:...
+PM代码:...
++[新建阅读窗口](,电子代码)
+将电子代码的"PM"替换为"电子"
+将条目"PM代码"复制为条目"电子代码"
+
+画电子:...
+整理代码:...
+将'画电子'的"整理代码"替换为"画电子"
++[新建阅读窗口](,整理代码)
+
+## end
+#643, 23:
+
+
+召唤规则:...
+降临规则:...
+
+
+
+
+## end
+#646, 1558:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
+CBS_rate(M函数):...
+CBS_event(M函数):...
++[新建阅读窗口](,CBS_rate)
+将CBS_event的"CBS_rate"替换为"CBS_event"
+
+KN公式验证:...
+总散射截面:...
+随机角分布:...
++[新建阅读窗口](,总散射截面)
++[M函数](,总散射截面)
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+碰撞次数:...
+概率碰撞:...
+
+光场碰撞:...
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_e=1000e6;
+pt_e=[0,0];
+angle_e=0;
+
+%{
++[M函数](,蒙卡模拟)
+%}
+
+E_pulse=10;
+pt_p=[0,0];
+angle_p=8;
+w_0=10e-6;
+Dtau=1000e-15;
+lmbd_1=1000e-9;
+
+x_0=0.3e-3;
+y_0=0;
+angle_0=-154;
+% angle=-150;
+
+
+% Gaussian beam
+z_R=w_0.^(2).*pi./lmbd_1;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*Dtau);
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(Dtau.^(2)));
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+
+t=800e-15;
+x=linspace(0,1,1000)*1e-3;
+y=linspace(-1,1,1000)*0.1e-3;
+[X,Y]=meshgrid(x,y);
+
+[X_1,Y_1,X_2,Y_2]=transform_2D_reflection_inv(X,Y,angle_0,x_0,y_0);
+X_12=X_1*cosd(angle_p)+Y_1*sind(angle_p);
+Y_12=Y_1*cosd(angle_p)-X_1*sind(angle_p);
+X_22=X_2*cosd(angle_p)+Y_2*sind(angle_p);
+Y_22=Y_2*cosd(angle_p)-X_2*sind(angle_p);
+
+In=I(Y_12,X_12,t)+I(Y_22,X_22,t);
+
+
+surf(X,Y,In/I_0*1e-3)
+view([0,90])
+shading interp
+axis equal
+
+
+%{
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#648, 1677:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
+CBS_rate(M函数):...
+CBS_event(M函数):...
++[新建阅读窗口](,CBS_rate)
+将CBS_event的"CBS_rate"替换为"CBS_event"
+
+KN公式验证:...
+总散射截面:...
+随机角分布:...
++[新建阅读窗口](,总散射截面)
++[M函数](,总散射截面)
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+碰撞次数:...
+概率碰撞:...
+
+光场碰撞:...
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_e=1000e6;
+pt_e=[-40e-6,0];
+angle_e=0;
+
+%{
++[M函数](,蒙卡模拟)
+%}
+
+E_pulse=10;
+pt_p=[0,0];
+angle_p=2;
+w_0=10e-6;
+Dtau=100e-15;
+lmbd_1=1000e-9;
+
+x_0=0.3e-3;
+y_0=0;
+angle_0=-170;
+% angle=-150;
+
+
+% Gaussian beam
+z_R=w_0.^(2).*pi./lmbd_1;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*Dtau);
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(Dtau.^(2)));
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
++[M函数](,蒙卡模拟)
+%}
+
+t=900e-15;
+x=linspace(0,0.35,1000)*1e-3;
+y=linspace(-1,1,1000)*0.1e-3;
+[X,Y]=meshgrid(x,y);
+[X_1,Y_1,X_2,Y_2]=transform_2D_reflection_inv(X,Y,angle_0,x_0,y_0);
+X_12=X_1*cosd(angle_p)+Y_1*sind(angle_p);
+Y_12=Y_1*cosd(angle_p)-X_1*sind(angle_p);
+X_22=X_2*cosd(angle_p)+Y_2*sind(angle_p);
+Y_22=Y_2*cosd(angle_p)-X_2*sind(angle_p);
+In=I(Y_12,X_12,t)+I(Y_22,X_22,t);
+
+pt=pt_e+t*beta*c;
+
+clf
+hold on
+contourf(X,Y,In/I_0*1e-3)
+plot([pt_e(1),pt(1)],[pt_e(2),pt(2)],'r*-','LineWidth',2)
+axis equal
+
+
+%{
+clf
+contourf(X,Y,In/I_0*1e-3)
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#650, 1912:
+%{
++[M函数](,光场动画)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
+CBS_rate(M函数):...
+CBS_event(M函数):...
++[新建阅读窗口](,CBS_rate)
+将CBS_event的"CBS_rate"替换为"CBS_event"
+
+KN公式验证:...
+总散射截面:...
+随机角分布:...
++[新建阅读窗口](,总散射截面)
++[M函数](,总散射截面)
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+碰撞次数:...
+概率碰撞:...
+
+光场碰撞:...
+光场检测:...
+光场动画:...
+(光场检测是单一时刻的场, 光场动画是动画)
+Gaussian_mirror_field(M函数):...
++[新建阅读窗口](,Gaussian_mirror_field)
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_e=1000e6;
+pt_e=[-40e-6,0];
+angle_e=5;
+
+%{
++[M函数](,蒙卡模拟)
+%}
+
+E_pulse=10;
+pt_p=[0,0];
+angle_p=2;
+w_0=10e-6;
+Dtau=100e-15;
+lmbd_1=1000e-9;
+
+pt_0=[0.3e-3,0];
+angle_0=-170;
+% angle=-150;
+
+
+% Gaussian beam
+z_R=w_0.^(2).*pi./lmbd_1;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*Dtau);
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(Dtau.^(2)));
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
++[M函数](,光场动画)
+%}
+
+t=linspace(0.5,1,10)*1200e-15;
+x=linspace(0,0.35,1000)*1e-3;
+y=linspace(-1,1,1000)*0.1e-3;
+[X,Y]=meshgrid(x,y);
+In=Gaussian_mirror_field(X,Y,t(1),E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+pt=pt_e+t(1)*beta*c;
+clf
+hold on
+[~,h_c]=contourf(X,Y,In/I_0*1e-3);
+h_e=plot([pt_e(1),pt(1)],[pt_e(2),pt(2)],'r*-','LineWidth',2);
+axis equal
+
+for i=1:length(t)
+In=Gaussian_mirror_field(X,Y,t(i),E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+% In=I(Y_12,X_12,t(i))+I(Y_22,X_22,t(i));
+pt=pt_e+t(i)*beta*c;
+
+h_e.XData=[pt_e(1),pt(1)];
+h_e.YData=[pt_e(2),pt(2)];
+h_c.ZData=In;
+pause(0.01)
+end
+
+
+%{
+sum(sum(In))
+plot(max(In))
+clf
+contourf(X,Y,In/I_0*1e-3)
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#652, 813:
+%{
+地址::Matlab\CBS\Gaussian_mirror_field.m
++[保存M函数](,Gaussian_mirror_field)
+
+测试:...
+%}
+
+function [In,In_1,In_2,X_12,Y_12,X_22,Y_22,I]=Gaussian_mirror_field(X,Y,t,E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0)
+
+physics_constant;
+
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+% Gaussian beam
+z_R=w_0.^(2).*pi./lmbd_1;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*Dtau);
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(Dtau.^(2)));
+
+[X_1,Y_1,X_2,Y_2]=transform_2D_reflection_inv(X,Y,angle_0,x_0,y_0);
+X_12=X_1*cosd(angle_p)+Y_1*sind(angle_p);
+Y_12=Y_1*cosd(angle_p)-X_1*sind(angle_p);
+X_22=X_2*cosd(angle_p)+Y_2*sind(angle_p);
+Y_22=Y_2*cosd(angle_p)-X_2*sind(angle_p);
+
+In_1=I(Y_12,X_12,t);
+In_2=I(Y_22,X_22,t);
+In=In_1+In_2;
+
+In_2(isnan(In_2))=0;
+
+end
+## end
+#655, 34:
+Matlab\CBS\Gaussian_mirror_field.m
+## end
+#657, 1990:
+%{
++[M函数](,蒙卡模拟)
+
+ComptonCrossSection_KN(M函数):...
+ComptonCrossSection_KN_total(M函数):...
+CBS_rate(M函数):...
+CBS_event(M函数):...
++[新建阅读窗口](,CBS_rate)
+将CBS_event的"CBS_rate"替换为"CBS_event"
+
+KN公式验证:...
+总散射截面:...
+随机角分布:...
++[新建阅读窗口](,总散射截面)
++[M函数](,总散射截面)
+
+单次散射:...
+位置突变:...
+(bug的原因是初始的beta是标量)
+多次散射:...
+能量守恒:...
+(一开始的问题来自于我没有复位P)
+
+碰撞次数:...
+概率碰撞:...
+
+光场碰撞:...
+光场检测:...
+光场动画:...
+(光场检测是单一时刻的场, 光场动画是动画)
+Gaussian_mirror_field(M函数):...
++[新建阅读窗口](,Gaussian_mirror_field)
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_e=1000e6;
+pt_e=[-40e-6,0];
+angle_e=5;
+
+%{
++[M函数](,蒙卡模拟)
+%}
+
+E_pulse=10;
+pt_p=[0,0];
+angle_p=2;
+w_0=10e-6;
+Dtau=100e-15;
+lmbd_1=1000e-9;
+
+x_0=0.3e-3;
+y_0=0;
+angle_0=-170;
+% angle=-150;
+
+
+% Gaussian beam
+z_R=w_0.^(2).*pi./lmbd_1;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*Dtau);
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(Dtau.^(2)));
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
++[M函数](,蒙卡模拟)
+%}
+
+t=linspace(0.8,1,10)*1200e-15;
+x=linspace(0,0.35,1000)*1e-3;
+y=linspace(-1,1,1000)*0.1e-3;
+[X,Y]=meshgrid(x,y);
+[X_1,Y_1,X_2,Y_2]=transform_2D_reflection_inv(X,Y,angle_0,x_0,y_0);
+X_12=X_1*cosd(angle_p)+Y_1*sind(angle_p);
+Y_12=Y_1*cosd(angle_p)-X_1*sind(angle_p);
+X_22=X_2*cosd(angle_p)+Y_2*sind(angle_p);
+Y_22=Y_2*cosd(angle_p)-X_2*sind(angle_p);
+
+In=I(Y_12,X_12,t(1))+I(Y_22,X_22,t(1));
+pt=pt_e+t(1)*beta*c;
+clf
+hold on
+[~,h_c]=contourf(X,Y,In/I_0*1e-3);
+h_e=plot([pt_e(1),pt(1)],[pt_e(2),pt(2)],'r*-','LineWidth',2);
+axis equal
+
+for i=1:length(t)
+In=I(Y_12,X_12,t(i))+I(Y_22,X_22,t(i));
+pt=pt_e+t(i)*beta*c;
+
+h_e.XData=[pt_e(1),pt(1)];
+h_e.YData=[pt_e(2),pt(2)];
+h_c.ZData=In;
+pause(0.01)
+end
+
+
+%{
+clf
+contourf(X,Y,In/I_0*1e-3)
+Nini, 打开GEANT4文件(文件)
++[M函数](,蒙卡模拟)
+%}
+## end
+#661, 385:
+"""
+Nini, 打开LWFA数据分析(文件)
+
+"""
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]"CBS蒙卡模拟"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+
+## end
+#663, 8100:
+蒙卡模拟代码#0"
+
+召唤规则:...
+降临规则:...
+
+
+
+"(,)
+的#1""(蒙卡模拟代码#0,召唤规则#2)
+召唤规则#2"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+
+\"\"\"
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]\"CBS蒙卡模拟\"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+"(,)
+的#3""(蒙卡模拟代码#0,降临规则#4)
+降临规则#4"有什么
+
+光束代码:...
+电子代码:...
+PM代码:...
++[新建阅读窗口](,电子代码)
+将电子代码的\"PM\"替换为\"电子\"
+将条目\"PM代码\"复制为条目\"电子代码\"
+
+画电子:...
+整理代码:...
+将'画电子'的\"整理代码\"替换为\"画电子\"
++[新建阅读窗口](,整理代码)
+"(,)
+的#5""(降临规则#4,光束代码#6)
+光束代码#6"\"\"\"
+
+
+\"\"\"
+
++光束代码(_光束,_凭依)->+[del](,+光束代码)...
+
+->[]{
+    []:->的(_凭依,光束)->光束,->+的(_凭依,+光束)
+}->的(_凭依,光束)...
+
+->+的\"光束_位置\"(光束,+位置)->+的\"光束_方向\"(光束,+方向)...
+->+的\"光束_波长\"(光束,+波长)->+的\"光束_腰宽\"(光束,+腰宽)...
+->+的\"光束_展宽\"(光束,+展宽)...
+
+->的(_光束,波长)->[m_text](波长,+波长)...
+->的(_光束,腰宽)->[m_text](腰宽,+腰宽)...
+
+->[]{
+    []:->在(_光束,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]\"位置\"(,+位置)
+}...
+->[]{
+    []:->朝向(_光束,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]\"0\"(,+方向)
+}...
+->[]{
+    []:->的(_光束,展宽)->展宽->[m_text](展宽,+展宽),
+    ->[m_text]\"300e-15\"(,+展宽)
+}
+
+"(,)
+的#7""(降临规则#4,整理代码#8)
+整理代码#8"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+M模板:...
+M代码:...
++[新建阅读窗口](,M模板)
+
+\"\"\"
+
++整理代码(,_代码)->+[del](,+整理代码)...
+->的(整理代码,M模板)...
+
+->+[标题](_代码,)...
+->+[模板文本](M模板,_代码)...
+
+->+[.](+[模板文本],+[标题])->[]{
+    []=>的(_代码,_变量)->_变量->的(_变量,_性质)...
+    =>+[.](+[模板文本],_性质)->[m_text](的,+[.])
+}...
+
+->+[删除结构](,_代码)
+
+
+"(,)
+的#9""(整理代码#8,M代码#10)
+M代码#10"%{
++[M函数](,M代码)
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=10e-6;
+pt_1=[0.0, 0.0];
+angle_1=0;
+Dtau_1=600e-15;
+
+pt_2=[-2e-05, 0.0];
+angle_2=[0];
+pt_es=[0.00098, 0.0];
+pt_ee=[0.001, 0.0];
+v_e=[1.0, 0.0];
+t_s=3.3356409519815207e-12;
+t_e=3.9356409519815206e-12;
+
+pt_0=[0.001, 0.0];
+angle_0=-160;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+axis([pt_es(1)-0.3e-3,pt_es(1)+0.3e-3,pt_es(2)-0.1e-3,pt_es(2)+0.1e-3]);
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),\"b*\");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+for i=1:length(t)
+h_e.XData=v_e(1)*t(i)*c+pt_2(1);
+h_e.YData=v_e(2)*t(i)*c+pt_2(2);
+
+g_i=find(z<t(i)*c&z>t(i)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+h_g.XData=x_gm;
+h_g.YData=y_gm;
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,%[标题])
+%}"(,)
+的#11""(整理代码#8,M模板#12)
+M模板#12"%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+N=100;
+
+E_e=1000e6;
+pt_e=[%电子_位置];
+angle_e=%电子_方向;
+
+%{
++[M函数](,蒙卡模拟)
+%}
+
+E_pulse=20;
+pt_p=[%光束_位置];
+angle_p=%光束_方向;
+w_0=%光束_腰宽;
+Dtau=%光束_展宽;
+dt=25e-15/4;
+lmbd_1=%光束_波长;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+[k_x1,k_y1]=transform_2D_reflection(k_1r(1),k_1r(2),angle,0,0);
+K_1=[1,k_x1,k_y1,0]*omega_1/c;
+
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
+Xs=[];
+Ys=[];
+E_es=[];
+E_gamma=[];
++[M函数](,蒙卡模拟)
+%}
+
+t_s=%起点时间;
+t_e=%终点时间;
+t=t_s:dt:t_e;
+
+v_0=beta*c;
+for j=1:N
+    pt=pt_e+t(1)*v_0;
+    xs=[pt(1)];
+    ys=[pt(2)];
+    P=P_1;
+    for i=1:length(t)
+        % [x_1,y_1,x_2,y_2]=transform_2D_reflection_inv(pt(1),pt(2),angle,x_0,y_0);
+        % In=I(y_2,x_2,t_i);
+        [~,~,In]=Gaussian_mirror_field(pt(1),pt(2),t(i),...
+            E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+        n_p=In/omega_1/hbar/c;
+
+        [P_2,K_2,rate]=CBS_event(P,K_1,n_p,dt);
+        E_gamma(end+1)=K_2(1)*c*hbar;
+        P=P_2;
+        E=P_2(1)*c;
+        gamma=E/m_e/c^2;
+        beta=P_2(2:3)/gamma/m_e/c;
+    
+        pt=pt+beta*dt*c;
+        
+        xs(end+1)=pt(1);
+        ys(end+1)=pt(2);
+    end
+
+    Xs(end+1,:)=xs;
+    Ys(end+1,:)=ys;
+    E_es(end+1)=E;
+end
+
+E_gamma(E_gamma==0)=[];
+theta_out=(Ys(:,end)-Ys(:,end-1))./(Xs(:,end)-Xs(:,end-1));
+
+subplot(2,2,1)
+plot(Xs'/c/1e-15,Ys')
+xlabel('t [fs]')
+
+subplot(2,2,2)
+hist(theta_out/1e-3)
+xlabel('\theta [mrad]')
+
+subplot(2,2,3)
+hist(E_gamma/e/1e6,80)
+xlabel('E_\gamma [MeV]')
+
+subplot(2,2,4)
+hist(E_es/e/1e6)
+xlabel('E_e [MeV]')
+
+
+
+%{
++[M函数](,%[标题])
+%}"(,)
+的#13""(M模板#12,保存#14)
+保存#14"%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+
+%{
++[M函数](,M代码)
+%}"(,)
+的#15""(降临规则#4,电子代码#16)
+电子代码#16"\"\"\"
+
+
+\"\"\"
+
++电子代码(_电子,_凭依)->+[del](,+电子代码)...
+
+->[]{
+    []:->的(_凭依,电子)->电子,->+的(_凭依,+电子)
+}->的(_凭依,电子)...
+
+->+的\"电子_位置\"(电子,+位置)->+的\"电子_方向\"(电子,+方向)...
+
+->[]{
+    []:->在(_电子,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]\"0,0\"(,+位置)
+}...
+->[]{
+    []:->朝向(_电子,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]\"0\"(,+方向)
+}
+
+"(,)
+的#17""(降临规则#4,PM代码#18)
+PM代码#18"\"\"\"
+
+
+\"\"\"
+
++PM代码(_PM,_凭依)->+[del](,+PM代码)...
+
+->[]{
+    []:->的(_凭依,PM)->PM,->+的(_凭依,+PM)
+}->的(_凭依,PM)...
+
+->+的\"PM_位置\"(PM,+位置)->+的\"PM_方向\"(PM,+方向)...
+
+->[]{
+    []:->在(_PM,空间点)->空间点->[m_text](空间点,+位置),
+    ->[]
+}...
+->[]{
+    []:->朝向(_PM,方向)->方向->[m_text](方向,+方向),
+    ->[]
+}
+
+"(,)
+的#19""(降临规则#4,画电子#20)
+画电子#20"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+M代码:...
++[新建阅读窗口](,M代码)
+
+\"\"\"
+
++画电子(,_代码)->+[del](,+画电子)...
+->的(画电子,M代码)...
+
+->的(_代码,电子)->的(电子,位置#1)->的(电子,方向#1)...
+->的(_代码,光束)->的(光束,位置#2)->的(光束,方向#2)...
+    ->的(光束,展宽#2)...
+->的(_代码,PM)->的(PM,位置#3)->的(PM,方向#3)...
+
+->+的\"起点\"(电子,+起点)->+的\"终点\"(电子,+终点)...
+->+的\"起点时间\"(电子,+起点时间)->+的\"终点时间\"(电子,+终点时间)...
+->+的\"速度方向\"(电子,+速度方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]\"pt1\"(+[matlab],位置#1)->+[.]\"an1\"(+[matlab],方向#1)...
+->+[.]\"pt2\"(+[matlab],位置#2)->+[.]\"an2\"(+[matlab],方向#2)...
+->+[.]\"Dtau2\"(+[matlab],展宽#2)...
+->+[.]\"pt3\"(+[matlab],位置#3)->+[.]\"an3\"(+[matlab],方向#3)...
+
+->+[o]\"t_s\"(+[matlab],+起点时间)->+[o]\"t_e\"(+[matlab],+终点时间)...
+->+[o]\"pt_es\"(+[matlab],+起点)->+[o]\"pt_ee\"(+[matlab],+终点)...
+->+[o]\"v_e\"(+[matlab],+速度方向)
+
+
+
+"(,)
+的#21""(画电子#20,M代码#22)
+M代码#22"%{
++[M函数](,M代码)
+Nini, 打开直线交点(文件)
+Nini, 打开直线交点的intersection_lines_dir_pt(节点)
+%}
+
+physics_constant;
+addpath('Matlab\space')
+
+theta1=an1/180*pi;
+theta2=an2/180*pi;
+theta3=(an3+90)/180*pi;
+[x13,y13]=intersection_lines_dir_pt(pt1,theta1,pt3,theta3);
+[x23,y23]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+
+% [x23,y23,X1,Y1,X2,Y2]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+% plot([x23,X1,X2],[y23,Y1,Y2],'r*')
+% plot(pt2(1),pt2(2),'bo')
+% plot(pt3(1),pt3(2),'ro')
+
+Ls=sqrt((x23-pt2(1))^2+(y23-pt2(2))^2);
+Le=sqrt((x13-pt1(1))^2+(y13-pt1(2))^2);
+
+v_e=pt13-pt1;
+v_e=v_e/norm(v_e);
+
+pt_es=pt1+Ls*v_e;
+pt_ee=[x13,y13];
+
+t_s=Ls/c;
+t_e=max(Le/c,t_s+Dtau2);
+
+
+%{
++[M函数](,M代码)
+%}"(,)
+的#23""(M代码#22,新窗口#24)
+新窗口#24""(直线交点,)
+的#25""(新窗口#24,m_compiler#26)
+m_compiler#26""(,compiler)
+的#27""(新窗口#24,m_port#28)
+m_port#28""(,端口)
+的#29""(新窗口#24,m_event#30)
+m_event#30""(,event)
+的#31""(新窗口#24,m_readPtr#32)
+m_readPtr#32""(,)
+的#33""(新窗口#24,m_cursor#34)
+m_cursor#34"0,0"(,)
+的#35""(新窗口#24,m_x#36)
+m_x#36"1"(,)
+的#37""(新窗口#24,m_y#38)
+m_y#38"38"(,)
+的#39""(新窗口#24,m_height#40)
+m_height#40"476"(,)
+的#41""(新窗口#24,m_width#42)
+m_width#42"958"(,)
+
+## end
+#665, 1796:
+%{
++[M函数](,模拟代码)
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+N=800;
+
+E_e=1000e6;
+pt_e=[-80e-6,0];
+angle_e=0;
+
+%{
++[M函数](,模拟代码)
+%}
+
+E_pulse=20;
+pt_p=[0.0, 0.0];
+angle_p=1;
+w_0=10e-6;
+Dtau=100e-15;
+dt=25e-15/4;
+lmbd_1=1000e-9;
+
+pt_0=[0.001, 0.0];
+angle_0=-174;
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+[k_x1,k_y1]=transform_2D_reflection(k_1r(1),k_1r(2),angle_0,0,0);
+K_1=[1,k_x1,k_y1,0]*omega_1/c;
+
+
+E_1=E_e*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
+Xs=[];
+Ys=[];
+E_es=[];
+E_gamma=[];
++[M函数](,模拟代码)
+%}
+
+t_s=3.2300397685184002e-12;
+t_e=3.6024922281400422e-12;
+t=t_s:dt:t_e;
+
+v_0=beta*c;
+for j=1:N
+    pt=pt_e+t(1)*v_0;
+    xs=[pt(1)];
+    ys=[pt(2)];
+    P=P_1;
+    for i=1:length(t)
+        % [x_1,y_1,x_2,y_2]=transform_2D_reflection_inv(pt(1),pt(2),angle,x_0,y_0);
+        % In=I(y_2,x_2,t_i);
+        [~,~,In]=Gaussian_mirror_field(pt(1),pt(2),t(i),...
+            E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+        n_p=In/omega_1/hbar/c;
+
+        [P_2,K_2,rate]=CBS_event(P,K_1,n_p,dt);
+        E_gamma(end+1)=K_2(1)*c*hbar;
+        P=P_2;
+        E=P_2(1)*c;
+        gamma=E/m_e/c^2;
+        beta=P_2(2:3)/gamma/m_e/c;
+    
+        pt=pt+beta*dt*c;
+        
+        xs(end+1)=pt(1);
+        ys(end+1)=pt(2);
+    end
+
+    Xs(end+1,:)=xs;
+    Ys(end+1,:)=ys;
+    E_es(end+1)=E;
+end
+
+E_gamma(E_gamma==0)=[];
+theta_out=(Ys(:,end)-Ys(:,end-1))./(Xs(:,end)-Xs(:,end-1));
+
+subplot(2,2,1)
+plot(Xs'/c/1e-15,Ys')
+xlabel('t [fs]')
+
+subplot(2,2,2)
+hist(theta_out/1e-3)
+xlabel('\theta [mrad]')
+
+subplot(2,2,3)
+hist(E_gamma/e/1e6,80)
+xlabel('E_\gamma [MeV]')
+
+subplot(2,2,4)
+hist(E_es/e/1e6)
+xlabel('E_e [MeV]')
+
+
+
+%{
++[M函数](,模拟代码)
+%}
+## end
+#666, 385:
+"""
+Nini, 打开LWFA数据分析(文件)
+
+"""
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]"CBS蒙卡模拟"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+
+## end
+#667, 521:
+"""
+
+
+"""
+
++光束代码(_光束,_凭依)->+[del](,+光束代码)...
+
+->[]{
+    []:->的(_凭依,光束)->光束,->+的(_凭依,+光束)
+}->的(_凭依,光束)...
+
+->+的"光束_位置"(光束,+位置)->+的"光束_方向"(光束,+方向)...
+->+的"光束_波长"(光束,+波长)->+的"光束_腰宽"(光束,+腰宽)...
+->+的"光束_展宽"(光束,+展宽)...
+
+->的(_光束,波长)->[m_text](波长,+波长)...
+->的(_光束,腰宽)->[m_text](腰宽,+腰宽)...
+
+->[]{
+    []:->在(_光束,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]"位置"(,+位置)
+}...
+->[]{
+    []:->朝向(_光束,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]"0"(,+方向)
+}...
+->[]{
+    []:->的(_光束,展宽)->展宽->[m_text](展宽,+展宽),
+    ->[m_text]"300e-15"(,+展宽)
+}
+
+
+## end
+#668, 1303:
+%{
++[M函数](,M代码)
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=10e-6;
+pt_1=[0.0, 0.0];
+angle_1=0;
+Dtau_1=600e-15;
+
+pt_2=[-2e-05, 0.0];
+angle_2=[0];
+pt_es=[0.00098, 0.0];
+pt_ee=[0.001, 0.0];
+v_e=[1.0, 0.0];
+t_s=3.3356409519815207e-12;
+t_e=3.9356409519815206e-12;
+
+pt_0=[0.001, 0.0];
+angle_0=-160;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+axis([pt_es(1)-0.3e-3,pt_es(1)+0.3e-3,pt_es(2)-0.1e-3,pt_es(2)+0.1e-3]);
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),"b*");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+for i=1:length(t)
+h_e.XData=v_e(1)*t(i)*c+pt_2(1);
+h_e.YData=v_e(2)*t(i)*c+pt_2(2);
+
+g_i=find(z<t(i)*c&z>t(i)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+h_g.XData=x_gm;
+h_g.YData=y_gm;
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,%[标题])
+%}
+## end
+#669, 720:
+%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#671, 1769:
+%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+N=100;
+
+E_e=1000e6;
+pt_e=[%电子_位置];
+angle_e=%电子_方向;
+
+%{
++[M函数](,%[标题])
+%}
+
+E_pulse=20;
+pt_p=[%光束_位置];
+angle_p=%光束_方向;
+w_0=%光束_腰宽;
+Dtau=%光束_展宽;
+dt=25e-15/4;
+lmbd_1=%光束_波长;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+[k_x1,k_y1]=transform_2D_reflection(k_1r(1),k_1r(2),angle_0,0,0);
+K_1=[1,k_x1,k_y1,0]*omega_1/c;
+
+
+E_1=E_e*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
+Xs=[];
+Ys=[];
+E_es=[];
+E_gamma=[];
++[M函数](,%[标题])
+%}
+
+t_s=%起点时间;
+t_e=%终点时间;
+t=t_s:dt:t_e;
+
+v_0=beta*c;
+for j=1:N
+    pt=pt_e+t(1)*v_0;
+    xs=[pt(1)];
+    ys=[pt(2)];
+    P=P_1;
+    for i=1:length(t)
+        % [x_1,y_1,x_2,y_2]=transform_2D_reflection_inv(pt(1),pt(2),angle,x_0,y_0);
+        % In=I(y_2,x_2,t_i);
+        [~,~,In]=Gaussian_mirror_field(pt(1),pt(2),t(i),...
+            E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+        n_p=In/omega_1/hbar/c;
+
+        [P_2,K_2,rate]=CBS_event(P,K_1,n_p,dt);
+        E_gamma(end+1)=K_2(1)*c*hbar;
+        P=P_2;
+        E=P_2(1)*c;
+        gamma=E/m_e/c^2;
+        beta=P_2(2:3)/gamma/m_e/c;
+    
+        pt=pt+beta*dt*c;
+        
+        xs(end+1)=pt(1);
+        ys(end+1)=pt(2);
+    end
+
+    Xs(end+1,:)=xs;
+    Ys(end+1,:)=ys;
+    E_es(end+1)=E;
+end
+
+E_gamma(E_gamma==0)=[];
+theta_out=(Ys(:,end)-Ys(:,end-1))./(Xs(:,end)-Xs(:,end-1));
+
+subplot(2,2,1)
+plot(Xs'/c/1e-15,Ys')
+xlabel('t [fs]')
+
+subplot(2,2,2)
+hist(theta_out/1e-3)
+xlabel('\theta [mrad]')
+
+subplot(2,2,3)
+hist(E_gamma/e/1e6,80)
+xlabel('E_\gamma [MeV]')
+
+subplot(2,2,4)
+hist(E_es/e/1e6)
+xlabel('E_e [MeV]')
+
+
+
+%{
++[M函数](,%[标题])
+%}
+## end
+#674, 284:
+"""
+Nini, 打开LWFA数据分析(文件)
+M模板:...
+M代码:...
++[新建阅读窗口](,M模板)
+
+"""
+
++整理代码(,_代码)->+[del](,+整理代码)...
+->的(整理代码,M模板)...
+
+->+[标题](_代码,)...
+->+[模板文本](M模板,_代码)...
+
+->+[.](+[模板文本],+[标题])->[]{
+    []=>的(_代码,_变量)->_变量->的(_变量,_性质)...
+    =>+[.](+[模板文本],_性质)->[m_text](的,+[.])
+}...
+
+->+[删除结构](,_代码)
+
+
+
+## end
+#675, 307:
+"""
+
+
+"""
+
++电子代码(_电子,_凭依)->+[del](,+电子代码)...
+
+->[]{
+    []:->的(_凭依,电子)->电子,->+的(_凭依,+电子)
+}->的(_凭依,电子)...
+
+->+的"电子_位置"(电子,+位置)->+的"电子_方向"(电子,+方向)...
+
+->[]{
+    []:->在(_电子,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]"0,0"(,+位置)
+}...
+->[]{
+    []:->朝向(_电子,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]"0"(,+方向)
+}
+
+
+## end
+#676, 275:
+"""
+
+
+"""
+
++PM代码(_PM,_凭依)->+[del](,+PM代码)...
+
+->[]{
+    []:->的(_凭依,PM)->PM,->+的(_凭依,+PM)
+}->的(_凭依,PM)...
+
+->+的"PM_位置"(PM,+位置)->+的"PM_方向"(PM,+方向)...
+
+->[]{
+    []:->在(_PM,空间点)->空间点->[m_text](空间点,+位置),
+    ->[]
+}...
+->[]{
+    []:->朝向(_PM,方向)->方向->[m_text](方向,+方向),
+    ->[]
+}
+
+
+## end
+#678, 3:
+0,0
+## end
+#679, 1:
+1
+## end
+#680, 2:
+38
+## end
+#681, 3:
+476
+## end
+#682, 3:
+958
+## end
+#683, 723:
+%{
++[M函数](,M代码)
+Nini, 打开直线交点(文件)
+Nini, 打开直线交点的intersection_lines_dir_pt(节点)
+%}
+
+physics_constant;
+addpath('Matlab\space')
+
+theta1=an1/180*pi;
+theta2=an2/180*pi;
+theta3=(an3+90)/180*pi;
+[x13,y13]=intersection_lines_dir_pt(pt1,theta1,pt3,theta3);
+[x23,y23]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+
+pt13=[x13,y13];
+pt23=[x23,y23];
+
+% [x23,y23,X1,Y1,X2,Y2]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+% plot([x23,X1,X2],[y23,Y1,Y2],'r*')
+% plot(pt2(1),pt2(2),'bo')
+% plot(pt3(1),pt3(2),'ro')
+
+Ls=sqrt((x23-pt2(1))^2+(y23-pt2(2))^2);
+Le=sqrt((x13-pt1(1))^2+(y13-pt1(2))^2);
+
+v_e=pt13-pt1;
+v_e=v_e/norm(v_e);
+
+pt_es=pt1+Ls*v_e;
+pt_ee=[x13,y13];
+
+t_s=Ls/c-Dtau2/2*2;
+t_e=max(Le/c,t_s+Dtau2*2);
+
+
+%{
++[M函数](,M代码)
+%}
+## end
+#685, 752:
+"""
+Nini, 打开LWFA数据分析(文件)
+M代码:...
++[新建阅读窗口](,M代码)
+
+"""
+
++画电子(,_代码)->+[del](,+画电子)...
+->的(画电子,M代码)...
+
+->的(_代码,电子)->的(电子,位置#1)->的(电子,方向#1)...
+->的(_代码,光束)->的(光束,位置#2)->的(光束,方向#2)...
+    ->的(光束,展宽#2)...
+->的(_代码,PM)->的(PM,位置#3)->的(PM,方向#3)...
+
+->+的"起点"(电子,+起点)->+的"终点"(电子,+终点)...
+->+的"起点时间"(电子,+起点时间)->+的"终点时间"(电子,+终点时间)...
+->+的"速度方向"(电子,+速度方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]"pt1"(+[matlab],位置#1)->+[.]"an1"(+[matlab],方向#1)...
+->+[.]"pt2"(+[matlab],位置#2)->+[.]"an2"(+[matlab],方向#2)...
+->+[.]"Dtau2"(+[matlab],展宽#2)...
+->+[.]"pt3"(+[matlab],位置#3)->+[.]"an3"(+[matlab],方向#3)...
+
+->+[o]"t_s"(+[matlab],+起点时间)->+[o]"t_e"(+[matlab],+终点时间)...
+->+[o]"pt_es"(+[matlab],+起点)->+[o]"pt_ee"(+[matlab],+终点)...
+->+[o]"v_e"(+[matlab],+速度方向)
+
+
+
+
+## end
+#691, 145:
+有什么
+
+光束代码:...
+电子代码:...
+PM代码:...
++[新建阅读窗口](,电子代码)
+将电子代码的"PM"替换为"电子"
+将条目"PM代码"复制为条目"电子代码"
+
+画电子:...
+整理代码:...
+将'画电子'的"整理代码"替换为"画电子"
++[新建阅读窗口](,整理代码)
+
+## end
+#694, 23:
+
+
+召唤规则:...
+降临规则:...
+
+
+
+
+## end
+#696, 383:
+"""
+Nini, 打开LWFA数据分析(文件)
+
+"""
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]"CBS光场"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+
+## end
+#698, 7726:
+光场预览图#0"
+
+召唤规则:...
+降临规则:...
+
+
+
+"(,)
+的#1""(光场预览图#0,降临规则#2)
+降临规则#2"有什么
+
+光束代码:...
+电子代码:...
+PM代码:...
++[新建阅读窗口](,电子代码)
+将电子代码的\"PM\"替换为\"电子\"
+将条目\"PM代码\"复制为条目\"电子代码\"
+
+画电子:...
+整理代码:...
+将'画电子'的\"整理代码\"替换为\"画电子\"
++[新建阅读窗口](,整理代码)
+"(,)
+的#3""(降临规则#2,画电子#4)
+画电子#4"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+M代码:...
++[新建阅读窗口](,M代码)
+
+\"\"\"
+
++画电子(,_代码)->+[del](,+画电子)...
+->的(画电子,M代码)...
+
+->的(_代码,电子)->的(电子,位置#1)->的(电子,方向#1)...
+->的(_代码,光束)->的(光束,位置#2)->的(光束,方向#2)...
+    ->的(光束,展宽#2)...
+->的(_代码,PM)->的(PM,位置#3)->的(PM,方向#3)...
+
+->+的\"起点\"(电子,+起点)->+的\"终点\"(电子,+终点)...
+->+的\"起点时间\"(电子,+起点时间)->+的\"终点时间\"(电子,+终点时间)...
+->+的\"速度方向\"(电子,+速度方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+->+[.]\"pt1\"(+[matlab],位置#1)->+[.]\"an1\"(+[matlab],方向#1)...
+->+[.]\"pt2\"(+[matlab],位置#2)->+[.]\"an2\"(+[matlab],方向#2)...
+->+[.]\"Dtau2\"(+[matlab],展宽#2)...
+->+[.]\"pt3\"(+[matlab],位置#3)->+[.]\"an3\"(+[matlab],方向#3)...
+
+->+[o]\"t_s\"(+[matlab],+起点时间)->+[o]\"t_e\"(+[matlab],+终点时间)...
+->+[o]\"pt_es\"(+[matlab],+起点)->+[o]\"pt_ee\"(+[matlab],+终点)...
+->+[o]\"v_e\"(+[matlab],+速度方向)
+
+
+
+"(,)
+的#5""(画电子#4,M代码#6)
+M代码#6"%{
++[M函数](,M代码)
+Nini, 打开直线交点(文件)
+Nini, 打开直线交点的intersection_lines_dir_pt(节点)
+%}
+
+physics_constant;
+addpath('Matlab\space')
+
+theta1=an1/180*pi;
+theta2=an2/180*pi;
+theta3=(an3+90)/180*pi;
+[x13,y13]=intersection_lines_dir_pt(pt1,theta1,pt3,theta3);
+[x23,y23]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+
+% [x23,y23,X1,Y1,X2,Y2]=intersection_lines_dir_pt(pt2,theta2,pt3,theta3);
+% plot([x23,X1,X2],[y23,Y1,Y2],'r*')
+% plot(pt2(1),pt2(2),'bo')
+% plot(pt3(1),pt3(2),'ro')
+
+Ls=sqrt((x23-pt2(1))^2+(y23-pt2(2))^2);
+Le=sqrt((x13-pt1(1))^2+(y13-pt1(2))^2);
+
+v_e=pt13-pt1;
+v_e=v_e/norm(v_e);
+
+pt_es=pt1+Ls*v_e;
+pt_ee=[x13,y13];
+
+t_s=Ls/c;
+t_e=max(Le/c,t_s+Dtau2);
+
+
+%{
++[M函数](,M代码)
+%}"(,)
+的#7""(M代码#6,新窗口#8)
+新窗口#8""(直线交点,)
+的#9""(新窗口#8,m_width#10)
+m_width#10"958"(,)
+的#11""(新窗口#8,m_height#12)
+m_height#12"476"(,)
+的#13""(新窗口#8,m_y#14)
+m_y#14"38"(,)
+的#15""(新窗口#8,m_x#16)
+m_x#16"1"(,)
+的#17""(新窗口#8,m_cursor#18)
+m_cursor#18"0,0"(,)
+的#19""(新窗口#8,m_readPtr#20)
+m_readPtr#20""(,)
+的#21""(新窗口#8,m_event#22)
+m_event#22""(,event)
+的#23""(新窗口#8,m_port#24)
+m_port#24""(,端口)
+的#25""(新窗口#8,m_compiler#26)
+m_compiler#26""(,compiler)
+的#27""(降临规则#2,PM代码#28)
+PM代码#28"\"\"\"
+
+
+\"\"\"
+
++PM代码(_PM,_凭依)->+[del](,+PM代码)...
+
+->[]{
+    []:->的(_凭依,PM)->PM,->+的(_凭依,+PM)
+}->的(_凭依,PM)...
+
+->+的\"PM_位置\"(PM,+位置)->+的\"PM_方向\"(PM,+方向)...
+
+->[]{
+    []:->在(_PM,空间点)->空间点->[m_text](空间点,+位置),
+    ->[]
+}...
+->[]{
+    []:->朝向(_PM,方向)->方向->[m_text](方向,+方向),
+    ->[]
+}
+
+"(,)
+的#29""(降临规则#2,电子代码#30)
+电子代码#30"\"\"\"
+
+
+\"\"\"
+
++电子代码(_电子,_凭依)->+[del](,+电子代码)...
+
+->[]{
+    []:->的(_凭依,电子)->电子,->+的(_凭依,+电子)
+}->的(_凭依,电子)...
+
+->+的\"电子_位置\"(电子,+位置)->+的\"电子_方向\"(电子,+方向)...
+
+->[]{
+    []:->在(_电子,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]\"0,0\"(,+位置)
+}...
+->[]{
+    []:->朝向(_电子,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]\"0\"(,+方向)
+}
+
+"(,)
+的#31""(降临规则#2,整理代码#32)
+整理代码#32"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+M模板:...
+M代码:...
++[新建阅读窗口](,M模板)
+
+\"\"\"
+
++整理代码(,_代码)->+[del](,+整理代码)...
+->的(整理代码,M模板)...
+
+->+[标题](_代码,)...
+->+[模板文本](M模板,_代码)...
+
+->+[.](+[模板文本],+[标题])->[]{
+    []=>的(_代码,_变量)->_变量->的(_变量,_性质)...
+    =>+[.](+[模板文本],_性质)->[m_text](的,+[.])
+}...
+
+->+[删除结构](,_代码)->+[M函数](,_代码)
+
+
+"(,)
+的#33""(整理代码#32,M模板#34)
+M模板#34"%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\CBS');
+addpath('Matlab\random');
+
+E_e=1000e6;
+pt_e=[%电子_位置];
+angle_e=%电子_方向;
+
+%{
++[M函数](,%[标题])
+%}
+
+E_pulse=10;
+pt_p=[%光束_位置];
+angle_p=%光束_方向;
+w_0=%光束_腰宽;
+Dtau=%光束_展宽;
+lmbd_1=%光束_波长;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+
+
+% Gaussian beam
+z_R=w_0.^(2).*pi./lmbd_1;
+I_0=(2.*E_pulse)./(sqrt(pi).*pi.*w_0.^(2).*Dtau);
+w=@(z)w_0.*sqrt(1+(z./z_R).^(2));
+I=@(r,z,t)I_0.*(w_0.^(2))./(w(z).^(2)).*exp(-(2.*r.^(2))./(w(z).^(2))).*exp(-((t-z./c).^(2))./(Dtau.^(2)));
+
+omega_1=2*pi*c/lmbd_1;
+k_1r=[cosd(angle_p),sind(angle_p)];
+K_1=[1,k_1r,0]*omega_1/c;
+
+E_1=E_0*e+m_e*c^2;
+gamma=E_1/m_e/c^2;
+beta0=sqrt(1-1/gamma^2);
+p_1r=[cosd(angle_e),sind(angle_e)];
+beta=p_1r*beta0;
+P_1=[E_1/c,p_1r*beta0*c*gamma*m_e,0];
+
+%{
++[M函数](,%[标题])
+%}
+
+t=linspace(%起点时间,%终点时间,10);
+x=linspace(0,0.35,1000)*1e-3;
+y=linspace(-1,1,1000)*0.1e-3;
+[X,Y]=meshgrid(x,y);
+In=Gaussian_mirror_field(X,Y,t(1),E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+pt=pt_e+t(1)*beta*c;
+clf
+hold on
+[~,h_c]=contourf(X,Y,In/I_0*1e-3);
+h_e=plot([pt_e(1),pt(1)],[pt_e(2),pt(2)],'r*-','LineWidth',2);
+axis equal
+
+for i=1:length(t)
+In=Gaussian_mirror_field(X,Y,t(i),E_pulse,lmbd_1,w_0,Dtau,pt_p,angle_p,pt_0,angle_0);
+% In=I(Y_12,X_12,t(i))+I(Y_22,X_22,t(i));
+pt=pt_e+t(i)*beta*c;
+
+h_e.XData=[pt_e(1),pt(1)];
+h_e.YData=[pt_e(2),pt(2)];
+h_c.ZData=In;
+pause(0.01)
+end
+
+
+%{
++[M函数](,%[标题])
+%}"(,)
+的#35""(M模板#34,保存#36)
+保存#36"%{
++[M函数](,%[标题])
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=%光束_波长;
+w_0=%光束_腰宽;
+pt_1=[%光束_位置];
+angle_1=%光束_方向;
+
+pt_2=[%电子_位置];
+angle_2=[%电子_方向];
+pt_es=[%起点];
+pt_ee=[%终点];
+v_e=[%速度方向];
+t_s=%起点时间;
+t_e=%终点时间;
+
+pt_0=[%PM_位置];
+angle_0=%PM_方向;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+
+%{
++[M函数](,M代码)
+%}"(,)
+的#37""(整理代码#32,M代码#38)
+M代码#38"%{
++[M函数](,M代码)
+%}
+
+physics_constant;
+addpath('Matlab\space');
+
+lmbd=800e-9;
+w_0=10e-6;
+pt_1=[0.0, 0.0];
+angle_1=0;
+Dtau_1=600e-15;
+
+pt_2=[-2e-05, 0.0];
+angle_2=[0];
+pt_es=[0.00098, 0.0];
+pt_ee=[0.001, 0.0];
+v_e=[1.0, 0.0];
+t_s=3.3356409519815207e-12;
+t_e=3.9356409519815206e-12;
+
+pt_0=[0.001, 0.0];
+angle_0=-160;
+x_0=pt_0(1);
+y_0=pt_0(2);
+
+z=linspace(0,1,10000)*3e-3;
+z_R=w_0.^(2).*pi./lmbd;
+w=w_0.*sqrt(1+(z./z_R).^(2));
+
+x=[z,fliplr(z)];
+y=[w,-fliplr(w)];
+x_1=x*cosd(angle_1)-y*sind(angle_1)+pt_1(1);
+y_1=y*cosd(angle_1)+x*sind(angle_1)+pt_1(2);
+[x_2,y_2]=transform_2D_reflection(x_1,y_1,angle_0,x_0,y_0);
+
+patch(x_1,y_1,[1,0,0],'faceAlpha',0.05)
+patch(x_2,y_2,[1,0,0],'faceAlpha',0.2)
+plot([pt_2(1),pt_es(1),pt_ee(1)],[pt_2(2),pt_es(2),pt_ee(2)],'bo-')
+
+axis([pt_es(1)-0.3e-3,pt_es(1)+0.3e-3,pt_es(2)-0.1e-3,pt_es(2)+0.1e-3]);
+
+t=linspace(t_s,t_e,100);
+g_i=find(z<t(1)*c&z>t(1)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+
+h_e=plot(pt_es(1),pt_es(2),\"b*\");
+h_g=patch(x_gm,y_gm,[1,0,0],'faceAlpha',0.5);
+
+for i=1:length(t)
+h_e.XData=v_e(1)*t(i)*c+pt_2(1);
+h_e.YData=v_e(2)*t(i)*c+pt_2(2);
+
+g_i=find(z<t(i)*c&z>t(i)*c-Dtau_1*c);
+x_gm=x_2([g_i,end-fliplr(g_i)]);
+y_gm=y_2([g_i,end-fliplr(g_i)]);
+h_g.XData=x_gm;
+h_g.YData=y_gm;
+
+pause(0.01)
+end
+
+
+%{
++[M函数](,%[标题])
+%}"(,)
+的#39""(降临规则#2,光束代码#40)
+光束代码#40"\"\"\"
+
+
+\"\"\"
+
++光束代码(_光束,_凭依)->+[del](,+光束代码)...
+
+->[]{
+    []:->的(_凭依,光束)->光束,->+的(_凭依,+光束)
+}->的(_凭依,光束)...
+
+->+的\"光束_位置\"(光束,+位置)->+的\"光束_方向\"(光束,+方向)...
+->+的\"光束_波长\"(光束,+波长)->+的\"光束_腰宽\"(光束,+腰宽)...
+->+的\"光束_展宽\"(光束,+展宽)...
+
+->的(_光束,波长)->[m_text](波长,+波长)...
+->的(_光束,腰宽)->[m_text](腰宽,+腰宽)...
+
+->[]{
+    []:->在(_光束,空间点)->空间点->[m_text](空间点,+位置),
+    ->[m_text]\"位置\"(,+位置)
+}...
+->[]{
+    []:->朝向(_光束,方向)->方向->[m_text](方向,+方向),
+    ->[m_text]\"0\"(,+方向)
+}...
+->[]{
+    []:->的(_光束,展宽)->展宽->[m_text](展宽,+展宽),
+    ->[m_text]\"300e-15\"(,+展宽)
+}
+
+"(,)
+的#41""(光场预览图#0,召唤规则#42)
+召唤规则#42"\"\"\"
+Nini, 打开LWFA数据分析(文件)
+
+\"\"\"
+
++召唤规则(_媒介,召唤星辰)->.(+召唤规则,操作)...
+->召唤星辰(,_凭依)...
+
+->[==]\"CBS光场\"(,召唤星辰)...
+->+整理代码(_凭依,_凭依)->+的(操作,+整理代码)...
+->+画电子(_凭依,_凭依)->+的(操作,+画电子)...
+
+->[]{
+    []=>的(_媒介,_物体)->_物体->在(_物体,)=>[]:
+        ->的(_物体,波长)->波长->+光束代码(_物体,_凭依)->+的(操作,+光束代码),
+        ->的(_物体,能量)->能量->+电子代码(_物体,_凭依)->+的(操作,+电子代码),
+        ->的(_物体,宽度)->宽度->+PM代码(_物体,_凭依)->+的(操作,+PM代码)
+}
+
+
+"(,)
+
+## end
+### 结束

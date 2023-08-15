@@ -1,0 +1,1700 @@
+### 节点
+地址, 的, FROG, 目录, 的, 的, 参考1, 的, 参考2, 的, 算法, html, 的, 参考1, 打开网页, 的, 的, 的, 的, 表达式, 的, [1]., 公式, 的, 的, 的, 的, 表达式, 的, [2]., 公式, 的, 验证公式, 的, FROG_In, M函数, 的, 地址, 的, 测试, FROG_In, 的, 记忆, FROG_In, 的, FROG_trace, M函数, 的, 测试, 的, 地址, FROG_trace, 的, FROG_trace, 的, 测试2, 的, 制备波包, 的, FROG_in, 的, 测试2光谱, 的, 插值光谱, 当前问题, 的, 当前问题, 的, pulse_shift, M函数, 的, 地址, pulse_shift, 的, pulse_shift, 的, 算法, H函数, 的, 的, 的, 的, 表达式, 的, [1]., 公式, 的, 的, 的, 的, 表达式, 的, [2]., 公式, 的, 的, 的, 的, 表达式, 的, [3]., 公式, 的, 测试, 的, 保存, 的, 扫描测试, 的, 旧算法, 的, 旧算法, 的, 测试FROG_In, 的, 单发, 的, 测试实验数据, 的, 测试FROG_trace, 的, 保存, 的, 测试2, 的, 空间色散, 的, 光栅FROG, 的, 光栅和空间色散, 的, 地址, 验证公式, 的, 验证公式, 的, 实验数据, 的, UT3, 的, 整理文件名, M函数, 的, 获取FROG图像, M函数, 的, 参数, 打开网页, 的, 获取反演图像, M函数, 的, 计算反演FROG, M函数, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 2#10, #, 10#, 10#13, #, #13, 10#19, 10#20, 10#21, 10#22, #, 21#19, #, 21#, 10#27, 10#28, 10#29, 10#30, #, 29#27, #, 29#, 10#32, #, 32#34, #, 34#, 34#37, #, 34#39, #, #34, 42#40, 3#, #, 32#45, #, 45#, 45#48, #, 45#50, #, #45, 42#51, #, 34#55, #, 55#57, #, 55#59, #, 55#61, #, 55#63, #, #63, 42#64, #, 32#68, #, 68#, 68#71, #, #68, 42#72, #, 68#76, #, 76#, 76#82, 76#83, 76#84, 76#85, #, 84#82, #, 84#, 76#90, 76#91, 76#92, 76#93, #, 92#90, #, 92#, 76#98, 76#99, 76#100, 76#101, #, 100#98, #, 100#, 68#103, #, 68#105, #, 68#107, #, 55#109, #, 34#111, #, 34#113, #, 113#115, #, 45#117, #, 32#119, #, 32#121, #, 45#123, #, 32#125, #, 32#127, #, 32#129, #, 32#131, #, #32, 42#132, #, 2#136, #, 136#138, #, 136#140, #, 140#, 136#143, #, 143#, 143#146, #, #146, 143#149, #, 149#, 149#152, #, 152#, 
+### 内容
+#0, 17:
+文档\物理问题\FROG.ftxt
+## end
+#2, 328:
++[返回目录](,FROG)
+地址::文档\物理问题\FROG.ftxt
+
+Nini, 打开词典的画FROG(节点)
+
+Nini, 导入网页画板的库
+Nini, 导入公式结构的库. Nini, 导入公式分析器的库
+
+参考1::file:///C:/Users/cheng/Desktop/paper/FROG/DeLong94.pdf
+参考2::file:///C:/Users/cheng/Desktop/paper/FROG/Liu21.pdf
+
+参考1有FROG的retrieval算法. FROG是用迭代做retrieval的
+参考2是TIPTOE. 所以TIPTOE的条纹就直接是waveform
+
+算法(html):...
+实验数据:...
+
+
+## end
+#3, 48:
+FROG:...
+创建于 20220420
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 54:
+file:///C:/Users/cheng/Desktop/paper/FROG/DeLong94.pdf
+## end
+#8, 51:
+file:///C:/Users/cheng/Desktop/paper/FROG/Liu21.pdf
+## end
+#10, 431:
+<!--
++[H函数](,算法)
+参考1::file:///C:/Users/cheng/Desktop/paper/FROG/DeLong94.pdf
++[打开网页](,参考1)
+-->
+
+<h2>SHG FROG</h2>
+The principle of SHG FROG is very simple. For two pulses with different delay \(\tau\), the SHG field is,
+%[1].
+Then the FROG trace, which is the intensity of the SHG field, is,
+%[2].
+
+
+<!--
+将"E_s(t,\tau)=E(t)*E(t-\tau)"记作(1)式
+将"I_s(\omega,\tau)=\int{t}{E_s(t,tau)*exp(i*omega*t)}"记作(2)式
+(先不导入了, 会炸的...)
+
+验证公式:...
+-->
+## end
+#13, 54:
+file:///C:/Users/cheng/Desktop/paper/FROG/DeLong94.pdf
+## end
+#19, 26:
+E_s(t,\tau)=E(t)*E(t-\tau)
+## end
+#21, 27:
+E_s(t,\tau)=E(t)\ E(t-\tau)
+## end
+#27, 29:
+I_s(\omega,\tau)=\int{t}{t^2}
+## end
+#29, 40:
+I_s(\omega,\tau)=\int_{}^{}{dt\ }{t^{2}}
+## end
+#32, 2044:
+%{
++[M函数](,验证公式)
+记住"Matlab"
+Nini, 打开词典的条目(节点)
+地址::Matlab\FROG_simulation.m
++[保存M函数](,验证公式)
+
+pulse_shift(M函数):...
+FROG_In(M函数):...
+FROG_trace(M函数):...
++[新建阅读窗口](,FROG_trace)
++[新建阅读窗口](,FROG_In)
++[新建阅读窗口](,pulse_shift)
+
+测试FROG_trace:...
+空间色散:...
+光栅FROG:...
+光栅和空间色散:...
+
+保存:...
+%}
+
+addpath('Matlab\FROG')
+addpath('Matlab\optics')
+
+physics_constant;
+Dt=40e-15;
+lm0=800e-9;
+Dlm=20e-9;
+lm_chirp=30e-9;
+
+% Grating pair
+angle_0=47.28;
+angle=47.28;
+D_0=0.67;
+D=0.670-1.5e-3;
+G=1450;
+
+%{
+20*Dt
++[M函数](,验证公式)
+%}
+
+% tau=linspace(-40*Dt,40*Dt,100);
+tau=linspace(-800e-15,800e-15,200);
+t0=linspace(-40*Dt,40*Dt,5000);
+lm=linspace(lm0-Dlm,lm0+Dlm,1000)/2;
+
+lms=linspace(-1,1,length(tau))*lm_chirp;
+
+% spectrum
+w0=2*pi*c/lm0;
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+[w0,f_E0]=fft_x(t0,E0);
+lm_x=2*pi*c./w0;
+I0_S=abs(f_E0).^2;
+
+% pulse shape
+w=linspace(max(w0)/length(w0),max(w0),length(w0));
+f_E=interp1(w0,f_E0,w);
+f_E(isnan(f_E))=0;
+phase_G=grating_compressor_phase(w,D,angle,D_0,angle_0,G);
+S=f_E.*exp(-1i*phase_G);
+[t1,f1]=ifft_k(w,S);
+E1=f1;
+I1=abs(f1).^2;
+t1=t1-t1(I1==max(I1));
+
+%{
+plot(lm_x/1e-9,real(phase_G),lm_x/1e-9,imag(phase_G))
+axis([700,900,-80,2000])
++[M函数](,验证公式)
+%}
+
+
+% FROG_trace
+FROG_tr=zeros(size(tau,2),size(lm,2));
+
+for i=1:length(tau)
+w0=2*pi*c/(lm0+lms(i));
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+[w0,f_E0]=fft_x(t0,E0);
+lm_x=2*pi*c./w0;
+
+% pulse shape
+w=linspace(max(w0)/length(w0),max(w0),length(w0));
+f_E=interp1(w0,f_E0,w);
+f_E(isnan(f_E))=0;
+phase_G=grating_compressor_phase(w,D,angle,D_0,angle_0,G);
+S=f_E.*exp(-1i*phase_G);
+[t1x,f1]=ifft_k(w,S);
+E1=f1;
+
+
+I_f=FROG_In(t1x,E1,tau(i),lm);
+FROG_tr(i,:)=I_f;
+end
+FROG_tr=FROG_tr';
+
+
+
+clf
+subplot(1,2,1)
+surf(tau/1e-15,lm/1e-9,FROG_tr)
+shading interp
+view([0,90])
+xlabel('Delay [fs]')
+ylabel('Wavelength [nm]')
+colormap('gray')
+axis([-500,500,390,410])
+
+subplot(2,2,2)
+plot(lm_x/1e-9,I0_S)
+axis([700,900,0,1.1*max(I0_S)])
+xlabel('Wavelength [nm]')
+
+subplot(2,2,4)
+plot(t1/1e-15,I1)
+axis([-500,500,0,1.2*max(I1)])
+xlabel('Delay [fs]')
+
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,验证公式)
+%}
+## end
+#34, 443:
+%{
++[M函数](,验证公式)
+地址::Matlab\FROG\FROG_In.m
++[保存M函数](,FROG_In)
+
+测试:...
+测试2:...
+
+旧算法:...
+(是错的, 用了插值改变了光谱)
+测试FROG_In:...
++[新建阅读窗口](,测试FROG_In)
+%}
+
+function [I_f,E1,E2,t]=FROG_In(t0,E0,tau,lm)
+physics_constant;
+
+[E1,w,t]=pulse_shift(t0,E0,0);
+[E2,w]=pulse_shift(t0,E0,tau);
+lm_x=2*pi*c./w;
+
+E_s=E1.*E2;
+% E_s=E1;
+f_E=fft(E_s);
+I_f0=abs(f_E).^2;
+
+I_f=interp1(lm_x,I_f0,lm,'spline');
+I_f(lm<min(lm_x)|lm>max(lm_x))=0;
+
+end
+
+
+%{
++[保存M函数](,FROG_In)
+%}
+## end
+#37, 21:
+Matlab\FROG\FROG_In.m
+## end
+#39, 698:
+%{
++[M函数](,测试)
+%}
+
+physics_constant;
+Dt=20e-15;
+lm0=800e-9;
+w0=2*pi*c/lm0;
+
+t0=linspace(-5*Dt,5*Dt,5000);
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+% plot(t0,real(E0));
+
+Dtau=Dt;
+
+tau=-1.5*Dt;
+t=linspace(-10*Dt,10*Dt,10000);
+Dw=1/(t(2)-t(1));
+dw=Dw/length(t);
+w=(dw:dw:Dw)*2*pi;
+lm_x=2*pi*c./w;
+
+E1=interp1(t0,E0,t,'spline');
+E1(t<min(t0)|t>max(t0))=0;
+
+E2=interp1(t0-tau,E0,t,'spline');
+E2(t<min(t0)|t>max(t0))=0;
+
+E_s=E1.*E2;
+f_E=fft(E_s);
+% f_E=fft(E1);
+I_f=abs(f_E).^2;
+
+subplot(1,2,1)
+plot(t/1e-15,real(E1),t/1e-15,real(E2),t/1e-15,real(E_s))
+xlabel('t [fs]')
+
+subplot(1,2,2)
+% plot(I_f)
+plot(lm_x/1e-9,I_f)
+axis([200,900,0,max(abs(I_f))*1.2])
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,验证公式)
+%}
+## end
+#45, 263:
+%{
+地址::Matlab\FROG\FROG_trace.m
++[保存M函数](,FROG_trace)
+测试:...
+测试实验数据:...
+测试2:...
+%}
+
+function FROG_tr=FROG_trace(t0,E0,lm,tau)
+
+
+FROG_tr=zeros(size(tau,2),size(lm,2));
+for i=1:length(tau)
+I_f=FROG_In(t0,E0,tau(i),lm);
+FROG_tr(i,:)=I_f;
+end
+FROG_tr=FROG_tr';
+
+
+end
+
+## end
+#48, 644:
+%{
++[M函数](,验证公式)
+
+FROG_In(M函数):...
+FROG_trace(M函数):...
+%}
+addpath('Matlab\FROG')
+
+physics_constant;
+Dt=15e-15;
+lm0=800e-9;
+w0=2*pi*c/lm0;
+
+t0=linspace(-5*Dt,5*Dt,5000);
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+% plot(t0,real(E0));
+
+
+t=linspace(-10*Dt,10*Dt,10000);
+
+lm=linspace(300e-9,500e-9,1000);
+tau=linspace(-50*Dt,50*Dt,100);
+
+FROG_tr=zeros(size(tau,2),size(lm,2));
+for i=1:length(tau)
+[I_f,I_f0,E_s,E1,E2]=FROG_In(t0,E0,tau(i),t,lm);
+FROG_tr(i,:)=I_f;
+end
+FROG_tr=FROG_tr';
+
+
+clf
+surf(tau/1e-15,lm/1e-9,FROG_tr)
+shading interp
+view([0,90])
+xlabel('Delay [fs]')
+ylabel('Wavelength [nm]')
+
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,验证公式)
+%}
+## end
+#50, 24:
+Matlab\FROG\FROG_trace.m
+## end
+#55, 769:
+%{
++[M函数](,测试2)
+记住"Matlab"
+
+制备波包:...
+FROG_in:...
+测试2光谱:...
+插值光谱:...
+(所以是插值改变了光谱)
++[新建阅读窗口](,插值光谱)
+
+旧算法:...
+(是错的, 用了插值改变了光谱)
+
+%}
+
+physics_constant;
+Dt=20e-15;
+lm0=800e-9;
+w0=2*pi*c/lm0;
+
+E01=E0/max(abs(E0));
+Dtau=Dt;
+
+%tau=-1.5*Dt;
+tau=0*Dt;
+%tau=1.5*Dt;
+t=linspace(-10*Dt,10*Dt,10000);
+Dw=1/(t(2)-t(1));
+dw=Dw/length(t);
+w=(dw:dw:Dw)*2*pi;
+lm_x=2*pi*c./w;
+
+E1=interp1(t0,E01,t,'spline');
+E1(t<min(t0)|t>max(t0))=0;
+
+E2=interp1(t0-tau,E01,t,'spline');
+E2(t<min(t0)|t>max(t0))=0;
+
+% E_s=E1.*E2;
+E_s=E1;
+f_E=fft(E_s);
+I_f=abs(f_E).^2;
+
+figure
+subplot(1,2,1)
+plot(t/1e-15,real(E1),t/1e-15,real(E2),t/1e-15,real(E_s))
+xlabel('t [fs]')
+
+subplot(1,2,2)
+% plot(I_f)
+plot(lm_x/1e-9,I_f)
+%axis([200,900,0,max(abs(I_f))*1.2])
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,测试2)
+%}
+## end
+#57, 156:
+
+A0::
+
+A0是"C:\\Users\\cheng\\Dropbox\\iFAST_log\\resources\\20220505\\FROG\\44\\Speck.dat"
+A0是反演的光谱. 显示A0的光谱
+计算光束0的波包. 显示光束0的波包. 从"300"显示光束0的FROG到"500"
+
+
+
+
+
+## end
+#59, 676:
+%{
++[M函数](,FROG_in)
+
+制备波包:...
+FROG_in:...
+%}
+
+physics_constant;
+Dt=20e-15;
+lm0=800e-9;
+w0=2*pi*c/lm0;
+
+E01=E0/max(abs(E0));
+Dtau=Dt;
+
+%tau=-1.5*Dt;
+tau=0*Dt;
+%tau=1.5*Dt;
+t=linspace(-10*Dt,10*Dt,10000);
+Dw=1/(t(2)-t(1));
+dw=Dw/length(t);
+w=(dw:dw:Dw)*2*pi;
+lm_x=2*pi*c./w;
+
+E1=interp1(t0,E01,t,'spline');
+E1(t<min(t0)|t>max(t0))=0;
+
+E2=interp1(t0-tau,E01,t,'spline');
+E2(t<min(t0)|t>max(t0))=0;
+
+E_s=E1.*E2;
+f_E=fft(E_s);
+I_f=abs(f_E).^2;
+
+figure
+subplot(1,2,1)
+plot(t/1e-15,real(E1),t/1e-15,real(E2),t/1e-15,real(E_s))
+xlabel('t [fs]')
+
+subplot(1,2,2)
+% plot(I_f)
+plot(lm_x/1e-9,I_f)
+%axis([200,900,0,max(abs(I_f))*1.2])
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,测试2)
+%}
+## end
+#61, 455:
+%{
++[M函数](,测试2)
+记住"Matlab"
+
+figure
+plot(t0)
+%}
+
+physics_constant;
+Dt=20e-15;
+lm0=800e-9;
+w0=2*pi*c/lm0;
+
+E01=E0/max(abs(E0));
+Dtau=Dt;
+
+%tau=-1.5*Dt;
+tau=0*Dt;
+%tau=1.5*Dt;
+Dw=1/(t0(2)-t0(1));
+dw=Dw/length(t0);
+w=(dw:dw:Dw)*2*pi;
+lm_x=2*pi*c./w;
+
+E_s=E0;
+f_E=fft(E_s);
+I_f=abs(f_E).^2;
+
+figure
+subplot(1,2,1)
+plot(t0/1e-15,real(E0))
+xlabel('t [fs]')
+
+subplot(1,2,2)
+% plot(I_f)
+plot(lm_x/1e-9,I_f)
+axis([600,900,0,max(abs(I_f))*1.2])
+
+%{
++[M函数](,测试2光谱)
+%}
+## end
+#63, 630:
+%{
++[M函数](,插值光谱)
+记住"Matlab"
+将插值光谱(节点)记作当前问题
+
+figure
+plot(t0)
+%}
+
+physics_constant;
+Dt=20e-15;
+lm0=800e-9;
+w0=2*pi*c/lm0;
+
+E01=E0/max(abs(E0));
+Dtau=Dt;
+
+%tau=-1.5*Dt;
+tau=0*Dt;
+%tau=1.5*Dt;
+t=linspace(-30*Dt,30*Dt,10000);
+Dw=1/(t(2)-t(1));
+dw=Dw/length(t);
+w=(dw:dw:Dw)*2*pi;
+lm_x=2*pi*c./w;
+
+E1=interp1(t0,E0,t,'spline');
+E1(t<min(t0)|t>max(t0))=0;
+
+E_s=E1;
+f_E=fft(E_s);
+I_f=abs(f_E).^2;
+
+% figure
+subplot(1,2,1)
+plot(t0/1e-15,real(E0),t/1e-15,real(E1))
+xlabel('t [fs]')
+
+subplot(1,2,2)
+% plot(I_f)
+plot(lm_x/1e-9,I_f)
+% plot(w,I_f)
+axis([36,14900,0,max(abs(I_f))*1e-7])
+%axis([36,36.3,0,max(abs(I_f))*1.2])
+
+%{
++[M函数](,插值光谱)
+%}
+## end
+#68, 448:
+%{
+地址::Matlab\FROG\pulse_shift.m
++[保存M函数](,pulse_shift)
+Nini, 打开词典的计算波包(节点)
+
++[M函数](,pulse_shift)
+算法(H函数):...
+
+测试:...
+扫描测试:...
++[M函数](,扫描测试)
+保存:...
+%}
+
+function [E1,w,t]=pulse_shift(t0,E0,Dt)
+% Dt=200e-15;
+
+E_s=E0;
+[w,f_E0]=fft_x(t0,E_s);
+w=linspace(min(w),4*max(w)+3*min(w),4*length(w));
+f_E=[f_E0,zeros(1,3*length(f_E0))];
+
+% shift
+S=f_E.*exp(-1i*w*Dt);
+
+[t,f1]=ifft_k(w,S);
+% E1=fftshift(f1);
+E1=f1;
+t=t-mean(t);
+
+end
+
+%{
++[M函数](,pulse_shift)
+%}
+## end
+#71, 25:
+Matlab\FROG\pulse_shift.m
+## end
+#76, 428:
+<!--
+Nini, 导入公式分析器的库. Nini, 导入公式结构的库
++[H函数](,算法)
+-->
+
+For a pulse, shifting it by \(\Delta\) means timing a phase \(\phi=\omega \Delta\) on the spectrum. It's easy to prove in the following way,
+%[1].
+%[2].
+%[3].
+
+
+<!--
++[H函数](,算法)
+[3].
+将"f(t)=\int{\omega}{F(\omega)*exp(-i*\omega*t)}"记作(1)式
+将"F(\omega)=F_1(\omega)*exp(-i*\omega*\Delta)"记作(2)式
+将"f(t)=\int{\omega}{F_1(\omega)*exp(-i*\omega*(t+\Delta))}=f_1(t+\Delta)"记作(3)式
+-->
+## end
+#82, 45:
+f(t)=\int{\omega}{F(\omega)*exp(-i*\omega*t)}
+## end
+#84, 57:
+f(t)=\int_{}^{}{d\omega\ }{F(\omega)\ exp(-i\ \omega\ t)}
+## end
+#90, 43:
+F(\omega)=F_1(\omega)*exp(-i*\omega*\Delta)
+## end
+#92, 46:
+F(\omega)=F_1(\omega)\ exp(-i\ \omega\ \Delta)
+## end
+#98, 70:
+f(t)=\int{\omega}{F_1(\omega)*exp(-i*\omega*(t+\Delta))}=f_1(t+\Delta)
+## end
+#100, 93:
+f(t)=\int_{}^{}{d\omega\ }{F_1(\omega)\ exp(-i\ \omega\ \left(t+\Delta\right))}=f_1(t+\Delta)
+## end
+#103, 442:
+%{
++[M函数](,测试)
+%}
+
+physics_constant;
+Dt=00e-15;
+
+E_s=E0;
+[w,f_E]=fft_x(t0,E_s);
+
+I_f=abs(f_E).^2;
+lm_x=2*pi*c./w;
+
+% shift
+S=f_E.*exp(-1i*w*Dt);
+
+[~,f1]=ifft_k(w,S);
+%E1=fftshift(f1);
+E1=f1;
+
+% figure
+subplot(1,2,1)
+plot(t/1e-15,real(E0),t/1e-15,real(E1),'--')
+xlabel('t [fs]')
+
+subplot(1,2,2)
+% plot(I_f)
+plot(lm_x/1e-9,I_f)
+% plot(w,I_f)
+axis([700,900,0,max(abs(I_f))*1.2])
+%axis([36,36.3,0,max(abs(I_f))*1.2])
+
+
+
+%{
++[M函数](,pulse_shift)
+%}
+## end
+#105, 540:
+%{
+地址::Matlab\FROG\pulse_shift.m
++[保存M函数](,pulse_shift)
+Nini, 打开词典的计算波包(节点)
+
++[M函数](,pulse_shift)
+
+算法(H函数):...
+测试:...
+保存:...
+%}
+
+physics_constant;
+Dt=200e-15;
+
+E_s=E0;
+[w,f_E]=fft_x(t0,E_s);
+
+I_f=abs(f_E).^2;
+lm_x=2*pi*c./w;
+
+% shift
+S=f_E.*exp(-1i*w*Dt);
+
+[~,f1]=ifft_k(w,S);
+E1=fftshift(f1);
+
+% figure
+subplot(1,2,1)
+plot(t/1e-15,real(E0),t/1e-15,real(E1))
+xlabel('t [fs]')
+
+subplot(1,2,2)
+% plot(I_f)
+plot(lm_x/1e-9,I_f)
+% plot(w,I_f)
+axis([700,900,0,max(abs(I_f))*1.2])
+%axis([36,36.3,0,max(abs(I_f))*1.2])
+
+
+
+%{
++[M函数](,pulse_shift)
+%}
+## end
+#107, 558:
+%{
++[M函数](,扫描测试)
+%}
+
+addpath('Matlab\FROG')
+physics_constant;
+Dts=linspace(-20e-15,20e-15,100);
+
+for i=1:length(Dts)
+Dt=Dts(i); 
+[E1,~,t]=pulse_shift(t0,E0,Dt);
+
+% E0 spectrum
+[w,f_E]=fft_x(t0,E0);
+I_f=abs(f_E).^2;
+lm_x=2*pi*c./w;
+
+% E1 spectrum
+[w,f_E]=fft_x(t0,E0);
+I_f1=abs(f_E).^2;
+
+
+% figure
+subplot(1,2,1)
+plot(t0/1e-15,real(E0),t/1e-15,real(E1),'--')
+xlabel('t [fs]')
+axis([-400,400,-2e13,2e13])
+
+subplot(1,2,2)
+plot(lm_x/1e-9,I_f,lm_x/1e-9,I_f1,'--')
+axis([700,900,0,max(abs(I_f))*1.2])
+xlabel('Wavelength [nm]')
+
+pause(0.1)
+end
+
+
+%{
++[M函数](,扫描测试)
+%}
+## end
+#109, 749:
+%{
++[M函数](,测试2)
+记住"Matlab"
+
+制备波包:...
+FROG_in:...
+测试2光谱:...
+插值光谱:...
+(所以是插值改变了光谱)
++[新建阅读窗口](,插值光谱)
+
+旧算法:
+
+%}
+
+physics_constant;
+Dt=20e-15;
+lm0=800e-9;
+w0=2*pi*c/lm0;
+
+E01=E0/max(abs(E0));
+Dtau=Dt;
+
+%tau=-1.5*Dt;
+tau=0*Dt;
+%tau=1.5*Dt;
+t=linspace(-10*Dt,10*Dt,10000);
+Dw=1/(t(2)-t(1));
+dw=Dw/length(t);
+w=(dw:dw:Dw)*2*pi;
+lm_x=2*pi*c./w;
+
+E1=interp1(t0,E01,t,'spline');
+E1(t<min(t0)|t>max(t0))=0;
+
+E2=interp1(t0-tau,E01,t,'spline');
+E2(t<min(t0)|t>max(t0))=0;
+
+% E_s=E1.*E2;
+E_s=E1;
+f_E=fft(E_s);
+I_f=abs(f_E).^2;
+
+figure
+subplot(1,2,1)
+plot(t/1e-15,real(E1),t/1e-15,real(E2),t/1e-15,real(E_s))
+xlabel('t [fs]')
+
+subplot(1,2,2)
+% plot(I_f)
+plot(lm_x/1e-9,I_f)
+%axis([200,900,0,max(abs(I_f))*1.2])
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,测试2)
+%}
+## end
+#111, 658:
+%{
++[M函数](,验证公式)
+地址::Matlab\FROG\FROG_In.m
++[保存M函数](,FROG_In)
+
+测试:...
+测试2:...
+
+旧算法:...
+(是错的, 用了插值改变了光谱)
+%}
+
+function [I_f,I_f0,E_s,E1,E2]=FROG_In(t0,E0,tau,t,lm)
+physics_constant;
+% Dt=20e-15;
+% lm0=800e-9;
+% w0=2*pi*c/lm0;
+
+% t0=linspace(-5*Dt,5*Dt,5000);
+% E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+
+% Dtau=Dt;
+% tau=-1.5*Dt;
+% t=linspace(-10*Dt,10*Dt,10000);
+
+
+Dw=1/(t(2)-t(1));
+dw=Dw/length(t);
+w=(dw:dw:Dw)*2*pi;
+lm_x=2*pi*c./w;
+
+E1=interp1(t0,E0,t,'spline');
+E1(t<min(t0)|t>max(t0))=0;
+
+E2=interp1(t0-tau,E0,t,'spline');
+E2(t<min(t0-tau)|t>max(t0-tau))=0;
+
+E_s=E1.*E2;
+f_E=fft(E_s);
+% f_E=fft(E1);
+I_f0=abs(f_E).^2;
+
+I_f=interp1(lm_x,I_f0,lm,'spline');
+
+end
+
+## end
+#113, 474:
+%{
++[M函数](,测试FROG_In)
+单发:...
+%}
+
+
+addpath('Matlab\FROG')
+physics_constant;
+lm=linspace(300,500,1000);
+lm=lm*1e-9;
+
+Dts=linspace(-200e-15,200e-15,100);
+
+for i=1:length(Dts)
+tau=Dts(i);
+[I_f,E1,E2,t]=FROG_In(t0,E0,tau,lm);
+
+subplot(1,2,1)
+plot(t/1e-15,E1/max(E1),t/1e-15,E2/max(E2),t/1e-15,E1/max(E1).*E2/max(E2))
+xlabel('t [fs]')
+
+subplot(1,2,2)
+plot(lm/1e-9,I_f)
+axis([350,450,0,3e56]);
+xlabel('Wavelength [nm]')
+title('FROG trace')
+
+pause(0.1)
+end
+
+%{
++[M函数](,测试FROG_In)
+%}
+## end
+#115, 238:
+%{
++[M函数](,测试FROG_In)
+单发:...
+%}
+
+
+addpath('Matlab\FROG')
+tau=40e-15;
+lm=linspace(300,500,1000);
+lm=lm*1e-9;
+I_f=FROG_In(t0,E0,tau,lm);
+
+plot(lm/1e-9,I_f)
+axis([350,450,0,max(I_f)*1.1]);
+
+
+%{
++[M函数](,测试FROG_In)
+
+记住"Matlab"
+min(w)
+max(w)
+%}
+## end
+#117, 327:
+%{
++[M函数](,测试实验数据)
+Nini, 打开词典的画FROG(节点)
+%}
+
+addpath('Matlab\FROG')
+physics_constant;
+lm=linspace(360,430,1000);
+lm=lm*1e-9;
+
+tau=linspace(-200e-15,200e-15,100);
+FROG_tr=FROG_trace(t0,E0,lm,tau);
+
+clf
+surf(tau/1e-15,lm/1e-9,FROG_tr);
+view([0,90]);
+shading interp
+axis([min(tau)/1e-15,max(tau)/1e-15,min(lm)/1e-9,max(lm)/1e-9])
+
+
+## end
+#119, 592:
+%{
++[M函数](,验证公式)
+
+pulse_shift(M函数):...
+FROG_In(M函数):...
+FROG_trace(M函数):...
++[新建阅读窗口](,FROG_trace)
++[新建阅读窗口](,FROG_In)
+%}
+addpath('Matlab\FROG')
+
+physics_constant;
+Dt=15e-15;
+lm0=800e-9;
+w0=2*pi*c/lm0;
+
+t0=linspace(-5*Dt,5*Dt,5000);
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+% plot(t0,real(E0));
+
+
+t=linspace(-10*Dt,10*Dt,10000);
+
+lm=linspace(300e-9,500e-9,1000);
+tau=linspace(-5*Dt,5*Dt,100);
+
+FROG_tr=FROG_trace(t0,E0,lm,tau);
+
+
+clf
+surf(tau/1e-15,lm/1e-9,FROG_tr)
+shading interp
+view([0,90])
+xlabel('Delay [fs]')
+ylabel('Wavelength [nm]')
+
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,验证公式)
+%}
+## end
+#121, 1534:
+%{
++[M函数](,验证公式)
+记住"Matlab"
+Nini, 打开词典的条目(节点)
+
+pulse_shift(M函数):...
+FROG_In(M函数):...
+FROG_trace(M函数):...
++[新建阅读窗口](,FROG_trace)
++[新建阅读窗口](,FROG_In)
++[新建阅读窗口](,pulse_shift)
+
+测试FROG_trace:...
+空间色散:...
+
+保存:...
+%}
+
+addpath('Matlab\FROG')
+addpath('Matlab\optics')
+
+physics_constant;
+Dt=40e-15;
+lm0=800e-9;
+Dlm=20e-9;
+lm_chirp=0e-9;
+
+% Grating pair
+angle_0=47.28;
+angle=47.28;
+D_0=0.67;
+D=0.670-2e-3;
+G=1450;
+
+%{
++[M函数](,验证公式)
+%}
+
+tau=linspace(-40*Dt,40*Dt,100);
+t0=linspace(-40*Dt,40*Dt,5000);
+lm=linspace(lm0-Dlm,lm0+Dlm,1000)/2;
+lms=linspace(-1,1,length(tau))*lm_chirp;
+
+
+
+% spectrum
+w0=2*pi*c/lm0;
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+[w0,f_E0]=fft_x(t0,E0);
+lm_x=2*pi*c./w0;
+
+% pulse shape
+w=linspace(max(w0)/length(w0),max(w0),length(w0));
+f_E=interp1(w0,f_E0,w);
+f_E(isnan(f_E))=0;
+phase_G=grating_compressor_phase(w,D,angle,D_0,angle_0,G);
+S=f_E.*exp(-1i*phase_G);
+[t1,f1]=ifft_k(w,S);
+E1=f1;
+t1=t1-mean(t1);
+
+%{
++[M函数](,验证公式)
+%}
+
+
+% FROG_trace
+FROG_tr=zeros(size(tau,2),size(lm,2));
+
+for i=1:length(tau)
+w0=2*pi*c/(lm0+lms(i));
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+I_f=FROG_In(t0,E0,tau(i),lm);
+FROG_tr(i,:)=I_f;
+end
+FROG_tr=FROG_tr';
+
+
+
+clf
+subplot(1,2,1)
+surf(tau/1e-15,lm/1e-9,FROG_tr)
+shading interp
+view([0,90])
+xlabel('Delay [fs]')
+ylabel('Wavelength [nm]')
+
+subplot(2,2,2)
+plot(lm_x/1e-9,abs(f_E0).^2)
+axis([700,900,0,1.1*max(abs(f_E0).^2)])
+xlabel('Wavelength [nm]')
+
+subplot(2,2,4)
+plot(t1/1e-15,abs(E1).^2)
+axis([-200,200,0,1.2*max(abs(E1).^2)])
+xlabel('Delay [fs]')
+
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,验证公式)
+%}
+## end
+#123, 712:
+%{
++[M函数](,验证公式)
+
+pulse_shift(M函数):...
+FROG_In(M函数):...
+FROG_trace(M函数):...
++[新建阅读窗口](,FROG_trace)
++[新建阅读窗口](,FROG_In)
+
+测试FROG_trace:...
+
+保存:...
+%}
+addpath('Matlab\FROG')
+
+physics_constant;
+Dt=40e-15;
+lm0=800e-9;
+Dlm=20e-9;
+w0=2*pi*c/lm0;
+
+t0=linspace(-40*Dt,40*Dt,5000);
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+
+% lm=linspace(350e-9,450e-9,1000);
+lm=linspace(lm0-Dlm,lm0+Dlm,1000)/2;
+tau=linspace(-40*Dt,40*Dt,100);
+
+FROG_tr=zeros(size(tau,2),size(lm,2));
+for i=1:length(tau)
+I_f=FROG_In(t0,E0,tau(i),lm);
+FROG_tr(i,:)=I_f;
+end
+FROG_tr=FROG_tr';
+
+
+clf
+surf(tau/1e-15,lm/1e-9,FROG_tr)
+shading interp
+view([0,90])
+xlabel('Delay [fs]')
+ylabel('Wavelength [nm]')
+
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,验证公式)
+%}
+## end
+#125, 1043:
+%{
++[M函数](,验证公式)
+记住"Matlab"
+Nini, 打开词典的条目(节点)
+
+pulse_shift(M函数):...
+FROG_In(M函数):...
+FROG_trace(M函数):...
++[新建阅读窗口](,FROG_trace)
++[新建阅读窗口](,FROG_In)
++[新建阅读窗口](,pulse_shift)
+
+测试FROG_trace:...
+空间色散:...
+
+保存:...
+%}
+
+addpath('Matlab\FROG')
+addpath('Matlab\optics');
+
+physics_constant;
+Dt=40e-15;
+lm0=800e-9;
+Dlm=20e-9;
+lm_chirp=0e-9;
+
+
+tau=linspace(-40*Dt,40*Dt,100);
+t0=linspace(-40*Dt,40*Dt,5000);
+lm=linspace(lm0-Dlm,lm0+Dlm,1000)/2;
+lms=linspace(-1,1,length(tau))*lm_chirp;
+
+
+% FROG_trace
+FROG_tr=zeros(size(tau,2),size(lm,2));
+
+for i=1:length(tau)
+w0=2*pi*c/(lm0+lms(i));
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+I_f=FROG_In(t0,E0,tau(i),lm);
+FROG_tr(i,:)=I_f;
+end
+FROG_tr=FROG_tr';
+
+
+% spectrum
+w0=2*pi*c/lm0;
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+[w,f_E0]=fft_x(t0,E0);
+lm_x=2*pi*c./w;
+
+clf
+subplot(1,2,1)
+surf(tau/1e-15,lm/1e-9,FROG_tr)
+shading interp
+view([0,90])
+xlabel('Delay [fs]')
+ylabel('Wavelength [nm]')
+
+subplot(1,2,2)
+plot(lm_x,abs(f_E0))
+axis([700e-9,900e-9,0,1.1*max(abs(f_E0))])
+
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,验证公式)
+%}
+## end
+#127, 1552:
+%{
++[M函数](,验证公式)
+记住"Matlab"
+Nini, 打开词典的条目(节点)
+
+pulse_shift(M函数):...
+FROG_In(M函数):...
+FROG_trace(M函数):...
++[新建阅读窗口](,FROG_trace)
++[新建阅读窗口](,FROG_In)
++[新建阅读窗口](,pulse_shift)
+
+测试FROG_trace:...
+空间色散:...
+光栅FROG:...
+
+保存:...
+%}
+
+addpath('Matlab\FROG')
+addpath('Matlab\optics')
+
+physics_constant;
+Dt=40e-15;
+lm0=800e-9;
+Dlm=20e-9;
+lm_chirp=0e-9;
+
+% Grating pair
+angle_0=47.28;
+angle=47.28;
+D_0=0.67;
+D=0.670-1.e-3;
+G=1450;
+
+%{
++[M函数](,验证公式)
+%}
+
+tau=linspace(-40*Dt,40*Dt,100);
+t0=linspace(-40*Dt,40*Dt,5000);
+lm=linspace(lm0-Dlm,lm0+Dlm,1000)/2;
+lms=linspace(-1,1,length(tau))*lm_chirp;
+
+
+
+% spectrum
+w0=2*pi*c/lm0;
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+[w0,f_E0]=fft_x(t0,E0);
+lm_x=2*pi*c./w0;
+
+% pulse shape
+w=linspace(max(w0)/length(w0),max(w0),length(w0));
+f_E=interp1(w0,f_E0,w);
+f_E(isnan(f_E))=0;
+phase_G=grating_compressor_phase(w,D,angle,D_0,angle_0,G);
+S=f_E.*exp(-1i*phase_G);
+[t1,f1]=ifft_k(w,S);
+E1=f1;
+I1=abs(f1).^2;
+t1=t1-t1(I1==max(I1));
+
+%{
++[M函数](,验证公式)
+%}
+
+
+% FROG_trace
+FROG_tr=zeros(size(tau,2),size(lm,2));
+
+for i=1:length(tau)
+w0=2*pi*c/(lm0+lms(i));
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+I_f=FROG_In(t1,E1,tau(i),lm);
+FROG_tr(i,:)=I_f;
+end
+FROG_tr=FROG_tr';
+
+
+
+clf
+subplot(1,2,1)
+surf(tau/1e-15,lm/1e-9,FROG_tr)
+shading interp
+view([0,90])
+xlabel('Delay [fs]')
+ylabel('Wavelength [nm]')
+
+subplot(2,2,2)
+plot(lm_x/1e-9,abs(f_E0).^2)
+axis([700,900,0,1.1*max(abs(f_E0).^2)])
+xlabel('Wavelength [nm]')
+
+subplot(2,2,4)
+plot(t1/1e-15,I1)
+axis([-500,500,0,1.2*max(I1)])
+xlabel('Delay [fs]')
+
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,验证公式)
+%}
+## end
+#129, 1853:
+%{
++[M函数](,验证公式)
+记住"Matlab"
+Nini, 打开词典的条目(节点)
+
+pulse_shift(M函数):...
+FROG_In(M函数):...
+FROG_trace(M函数):...
++[新建阅读窗口](,FROG_trace)
++[新建阅读窗口](,FROG_In)
++[新建阅读窗口](,pulse_shift)
+
+测试FROG_trace:...
+空间色散:...
+光栅FROG:...
+光栅和空间色散:...
+
+保存:...
+%}
+
+addpath('Matlab\FROG')
+addpath('Matlab\optics')
+
+physics_constant;
+Dt=40e-15;
+lm0=800e-9;
+Dlm=20e-9;
+lm_chirp=0e-9;
+
+% Grating pair
+angle_0=47.28;
+angle=47.28;
+D_0=0.67;
+D=0.670-2.5e-3;
+G=1450;
+
+%{
++[M函数](,验证公式)
+%}
+
+tau=linspace(-40*Dt,40*Dt,100);
+t0=linspace(-40*Dt,40*Dt,5000);
+lm=linspace(lm0-Dlm,lm0+Dlm,1000)/2;
+
+lms=linspace(-1,1,length(tau))*lm_chirp;
+
+
+
+
+% spectrum
+w0=2*pi*c/lm0;
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+[w0,f_E0]=fft_x(t0,E0);
+lm_x=2*pi*c./w0;
+I0_S=abs(f_E0).^2;
+
+% pulse shape
+w=linspace(max(w0)/length(w0),max(w0),length(w0));
+f_E=interp1(w0,f_E0,w);
+f_E(isnan(f_E))=0;
+phase_G=grating_compressor_phase(w,D,angle,D_0,angle_0,G);
+S=f_E.*exp(-1i*phase_G);
+[t1,f1]=ifft_k(w,S);
+E1=f1;
+I1=abs(f1).^2;
+t1=t1-t1(I1==max(I1));
+
+%{
++[M函数](,验证公式)
+%}
+
+
+% FROG_trace
+FROG_tr=zeros(size(tau,2),size(lm,2));
+
+for i=1:length(tau)
+w0=2*pi*c/(lm0+lms(i));
+E0=exp(-t0.^2/Dt^2).*exp(1i*w0*t0);
+[w0,f_E0]=fft_x(t0,E0);
+lm_x=2*pi*c./w0;
+
+% pulse shape
+w=linspace(max(w0)/length(w0),max(w0),length(w0));
+f_E=interp1(w0,f_E0,w);
+f_E(isnan(f_E))=0;
+phase_G=grating_compressor_phase(w,D,angle,D_0,angle_0,G);
+S=f_E.*exp(-1i*phase_G);
+[t1x,f1]=ifft_k(w,S);
+E1=f1;
+
+
+I_f=FROG_In(t1x,E1,tau(i),lm);
+FROG_tr(i,:)=I_f;
+end
+FROG_tr=FROG_tr';
+
+
+
+clf
+subplot(1,2,1)
+surf(tau/1e-15,lm/1e-9,FROG_tr)
+shading interp
+view([0,90])
+xlabel('Delay [fs]')
+ylabel('Wavelength [nm]')
+colormap('gray')
+
+subplot(2,2,2)
+plot(lm_x/1e-9,I0_S)
+axis([700,900,0,1.1*max(I0_S)])
+xlabel('Wavelength [nm]')
+
+subplot(2,2,4)
+plot(t1/1e-15,I1)
+axis([-500,500,0,1.2*max(I1)])
+xlabel('Delay [fs]')
+
+
+%{
+Nini, 打开透镜波前(文件)
+Nini, 打开光栅压缩器(文件)
++[M函数](,验证公式)
+%}
+## end
+#131, 24:
+Matlab\FROG_simulation.m
+## end
+#136, 179:
+Nini, 打开iFAST日志(文件)
+Nini, 打开iFAST日志2(文件)
++[打开]"C:\Users\cheng\Dropbox\iFAST_log\tools"
+
+整理文件名(M函数):...
+UT3::数据\UT3\resource\20230123\FROG
+获取FROG图像(M函数):...
++[新建阅读窗口](,获取FROG图像)
+
+
+
+## end
+#138, 29:
+数据\UT3\resource\20230123\FROG
+## end
+#140, 1160:
+%{
++[M函数](,整理文件名)
+%}
+
+folder_dir='C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\数据\UT3\resource\20230123\FROG';
+files=dir(folder_dir);
+
+names={};
+names_new={};
+map = containers.Map('KeyType','char','ValueType','double');
+move_flag=1;
+
+files=files(~[files.isdir]);
+[~,idx]=sort([files.datenum]);
+files=files(idx);
+
+for i=1:length(files)
+    if strcmp(files(i).name,'name_table.xlsx')
+        continue
+    elseif ~files(i).isdir
+        name=files(i).name;
+        names{end+1}=files(i).name;
+    else
+        continue;
+    end
+    
+    elements=split(name,'.');
+    if length(elements)>1
+        file_type=elements{end};
+    else
+        file_type='raw';
+    end
+    
+    if isKey(map,file_type)
+        map(file_type)=map(file_type)+1;
+    else
+        map(file_type)=0;
+    end
+    
+    new_name=sprintf('%d.%s',map(file_type),file_type);
+    names_new{end+1}=new_name;
+    
+    if strcmp(new_name,name)
+        move_flag=0;
+        break;
+    end
+end
+
+
+if move_flag
+    writecell({names{:};names_new{:}}',[folder_dir,'\name_table.xlsx']);
+    for i=1:length(names)
+        movefile([folder_dir,'\',names{i}],[folder_dir,'\',names_new{i}]);
+    end
+end
+
+
+
+## end
+#143, 1076:
+%{
++[M函数](,获取FROG图像)
+Nini, 打开iFAST日志2的列举FROG图像(节点)
+Nini, 打开iFAST日志2的read_FROG(节点)
+参数::https://mail.google.com/mail/u/0/#search/jason/FMfcgzGrcFdzDlrBSGwgqXTxhfTHJcpm
++[打开网页](,参数)
+在"output\FROG2.png"处, 保存当前图像
+
+获取反演图像(M函数):...
++[新建阅读窗口](,获取反演图像)
+%}
+
+n=2;
+file_pat='C:\\Users\\cheng\\Dropbox\\Struct\\Structure1.2.1\\Nini\\数据\\UT3\\resource\\20230123\\FROG\\%d.png';
+axis_=[250,700,385,415];
+
+A=[-0.02046,420.13706];
+B=0.64212;
+
+file_name=sprintf(file_pat,n);
+data0=imread(file_name);
+I0=data0;
+
+x=1:size(I0,2);
+y=1:size(I0,1);
+lm=A(1)*y+A(2);
+dt=B*x;
+
+if sum(abs(axis_))~=0
+    I0=I0(lm<axis_(4)&lm>axis_(3),dt<axis_(2)&dt>axis_(1));
+    lm=lm(lm<axis_(4)&lm>axis_(3));
+    dt=dt(dt<axis_(2)&dt>axis_(1));
+end
+
+
+clf
+subplot(1,2,1)
+surf(dt,lm,I0)
+shading interp
+view([0,90])
+xlabel('Delay time [fs]')
+ylabel('Wavelength [nm]')
+axis([min(dt),max(dt),min(lm),max(lm)])
+title('Measured FROG')
+
+%file_name_raw='数据\UT3\resource\20230123\FROG\FROG_retrieve\im.txt';
+%writematrix(num2str(I0),file_name_raw);
+
+
+%{
+clf
+创建"数据\UT3\resource\20230123\FROG\FROG_retrieve"
+
++[M函数](,获取FROG图像)
+%}
+## end
+#146, 79:
+https://mail.google.com/mail/u/0/#search/jason/FMfcgzGrcFdzDlrBSGwgqXTxhfTHJcpm
+## end
+#149, 584:
+%{
++[M函数](,获取反演图像)
+Nini, 打开词典的条目(节点)
+在"output\FROG1.png"处, 保存当前图像
++[打开]"output"
+
+计算反演FROG(M函数):...
+%}
+
+physics_constant;
+addpath('Matlab\FROG')
+
+clf
+file_name='文档\实验室问题\Dazzler优化\image\Speck.dat';
+[wavelength,intensity,phase,t,E]=read_FROG_retrieval(file_name,1);
+
+subplot(1,2,1)
+title('Retrieved spectrum and phase')
+subplot(1,2,2)
+title('Retrieved pulse shape')
+
+%{
+file_name_ref='文档\实验室问题\Dazzler优化\image\ref_FROG.xls';
+[I0,lm0]=read_vis_2(file_name_ref,[720,900],0);
+I=I0-min(I0);
+I=I/max(I);
+
+subplot(1,2,1)
+yyaxis left
+hold on
+plot(lm0,I,'r-')
+hold off
+%}
+
+%{
++[M函数](,获取反演图像)
+%}
+## end
+#152, 569:
+%{
++[M函数](,计算反演FROG)
+%}
+
+physics_constant;
+addpath('Matlab\FROG')
+
+file_name='文档\实验室问题\Dazzler优化\image\Speck.dat';
+[wavelength,intensity,phase,t0,E0]=read_FROG_retrieval(file_name,0);
+
+Dt=15e-15;
+lm1=385+5;
+lm2=415+5;
+
+
+t=t0;
+lm=linspace(lm1*1e-9,lm2*1e-9,1000);
+tau=linspace(-20*Dt,20*Dt,100);
+
+FROG_tr=FROG_trace(t0,E0,lm,tau);
+
+subplot(1,2,2)
+surf(tau/1e-15,lm/1e-9,FROG_tr)
+shading interp
+view([0,90])
+xlabel('Delay [fs]')
+ylabel('Wavelength [nm]')
+axis([min(tau)/1e-15,max(tau)/1e-15,min(lm)/1e-9,max(lm)/1e-9])
+title('Retrieved FROG')
+
+%{
+clf
++[M函数](,计算反演FROG)
+%}
+## end
+### 结束

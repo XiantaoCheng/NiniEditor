@@ -1,0 +1,41 @@
+### 节点
+地址, 的, Dazzler, 目录, 的, 的, paper1, 的, paper2, 的, principle, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 2#10, #, 
+### 内容
+#0, 20:
+文档\物理问题\DAZZLER.ftxt
+## end
+#2, 267:
++[返回目录](,Dazzler)
+地址::文档\物理问题\DAZZLER.ftxt
+
+
+paper1::file:///C:/Users/cheng/Desktop/paper/DAZZLER/Tour97.pdf
+paper2::file:///C:/Users/cheng/Desktop/paper/DAZZLER/Verluise00.pdf
+principle::file:///C:/Users/cheng/Desktop/paper/DAZZLER/Dixon67.pdf
+
++[打开网页](,paper2)
+
+
+
+
+
+## end
+#3, 51:
+Dazzler:...
+创建于 20210831
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 55:
+file:///C:/Users/cheng/Desktop/paper/DAZZLER/Tour97.pdf
+## end
+#8, 59:
+file:///C:/Users/cheng/Desktop/paper/DAZZLER/Verluise00.pdf
+## end
+#10, 56:
+file:///C:/Users/cheng/Desktop/paper/DAZZLER/Dixon67.pdf
+## end
+### 结束

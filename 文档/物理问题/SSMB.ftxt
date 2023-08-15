@@ -1,0 +1,40 @@
+### 节点
+地址, 的, SSMB, 目录, 的, 的, 文献1, 的, 笔记, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 
+### 内容
+#0, 17:
+文档\物理问题\SSMB.ftxt
+## end
+#2, 109:
++[返回目录](,SSMB)
+地址::文档\物理问题\SSMB.ftxt
+
+文献1::C:\Users\cheng\Desktop\paper\SSMB\Deng21.pdf
++[打开网页](,文献1)
+
+笔记:...
+## end
+#3, 48:
+SSMB:...
+创建于 20210426
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 44:
+C:\Users\cheng\Desktop\paper\SSMB\Deng21.pdf
+## end
+#8, 308:
++[返回目录](,笔记)
+
+激光参数::1064 nm, 10 ns, 50 mJ, 水平偏振
+电子束::250 MeV, 0.12 ps(第3页), 300 fC
+
+A typical laser modulator comprises a laser and an undulator; the undulator makes the electrons undergo transverse oscillations and the co-propagating laser exchanges energy with the electrons.
+所以, laser和undulator必须同时存在. 
+
+
+
+## end
+### 结束

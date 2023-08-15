@@ -1,0 +1,2173 @@
+### 节点
+地址, 的, Blender, 目录, 的, 的, 节点数目统计, 的, 测试场景, 的, 创建立方体, 的, 地址, 20220728, 的, 的, 创建圆柱, 的, 地址, 的, 创建球体, 的, 地址, 的, 操作, 的, 结构转Blender, 的, 库, 的, 球体, 的, 三维场景, 的, A1, Z, 的, Y, 的, X, 的, 空间点, 在, 高度, 的, 宽度, 的, 类型, 的, 的, P模板, 方向, 朝向, 的, A2, Z, 的, Y, 的, X, 的, 空间点, 在, 高度, 的, 半径, 的, 类型, 的, 的, M代码, M代码, P模板, 的, 的, 平面, 的, M代码, P模板, 的, 的, 圆柱体, 的, 方向, 朝向, 的, 设置原点, 的, 地址, 的, 组合体转Blender, 的, 三维场景转Blender, 的, P模板, 的, 保存, 的, 创建平面, 的, 地址, P模板, M代码, 的, 的, 多面体, 的, 的, 多边形, 的, Extrude, 的, fill, 的, curve, 的, extrude, 的, fill2, 的, 创建曲线, P代码, 的, 曲线管道, P代码, 的, 创建面, P代码, 打开网页, 的, 创建体, P代码, 的, 保存, 的, 尝试修改cube, 的, 参考, 的, 参考, 打开网页, 的, 复杂底面1, 的, 复杂底面2, 的, extrude_polygon_add, M代码, P模板, 的, 的, 立方体, 的, 保存, 描述结构, M代码, P模板, m_compiler, m_port, m_event, m_readPtr, m_cursor, m_x, m_y, m_height, m_width, 的, 的, 的, 的, 的, 的, 的, 的, 的, 新窗口, 的, 的, 的, 立方体, m_width, m_height, m_y, m_x, m_cursor, m_readPtr, m_event, m_port, m_compiler, 的, 的, 的, 的, 的, 的, 的, 的, 的, 新窗口, M代码, 的, 的, 组合体, M代码, P模板, 的, 的, 多面体, P模板, M代码, 的, 的, 圆柱体, P模板, M代码, 的, 的, 平面, 保存, M代码, P模板, 的, 的, 的, 球体, 的, 的, 的, 的, 的, 的, 库, 的, 的, 的, 结构转换, 的, 组合体转换, 模板, 保存, 的, 的, 的, 三维场景转Blender_全局, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 10#12, #, #, 6#13, 8#16, #, 16#18, #, 8#20, #, 20#22, #, 2#24, #, 24#26, #, 26#28, #, 28#30, #, 8#32, #, 32#34, #, #, 34#35, #, 34#37, #, 34#39, #, 34#41, #, 34#43, #, 34#45, #, 34#47, 30#50, #, #, 34#51, 32#54, #, #, 54#55, #, 54#57, #, 54#59, #, 54#61, #, 54#63, #, 54#65, #, 54#67, 30#70, #, #, #, 75#71, 75#72, #, 28#75, #, #, 81#77, 81#78, #, 28#81, #, 54#83, 8#86, #, 86#88, #, 24#90, #, 24#92, #, 92#94, #, 92#96, #, 8#98, #, 98#100, #, #, #, 105#101, 105#102, #, 28#105, 8#108, #, 108#110, #, 108#112, #, 108#114, #, 108#116, #, 108#118, #, 108#120, #, 120#, 108#123, #, 123#, 108#126, #, 126#, #116, 108#130, #, 130#, 126#133, #, 126#135, #, 126#137, #, 108#139, #, #139, 130#142, #, 130#144, #, 130#146, #, #, #, 151#147, 151#148, #, 28#151, #, #, #, #, #del, #del, #del, #, #, #, #, #, #, 175#157, 175#158, 175#159, 175#160, 175#161, 175#162, 175#163, 175#164, 175#165, del#, 179#155, 179#156, 179#175, #, #, #, #, #, #, #, #del, #del, #del, 198#180, 198#181, 198#182, 198#183, 198#184, 198#185, 198#186, 198#187, 198#188, del#, #, 202#198, 202#199, #, #, #, 207#203, 207#204, #, #, #, 212#208, 212#209, #, #, #, 217#213, 217#214, #, #, #, #, 224#218, 224#219, 224#220, #, 231#179, 231#202, 231#207, 231#212, 231#217, 231#224, #, 235#153, 235#154, 235#231, #, 237#235, #, #, #, 243#237, 243#238, 243#239, #, 24#243, 
+### 内容
+#0, 19:
+文档\S应用\Blender.ftxt
+## end
+#2, 147:
++[返回目录](,Blender)
+地址::文档\S应用\Blender.ftxt
+
+操作:...
++[设置动词](,操作)
+
+Nini, 打开三维建模(文件)
+Nini, 打开光路场景(文件)
+Nini, 打开光栅对场景(文件)
+
+
+测试场景:...
++[新建阅读窗口](,测试场景)
+
+
+
+
+## end
+#3, 51:
+Blender:...
+创建于 20220728
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 87:
+Nini, 打开光栅对场景(文件)
+
+创建平面:...
+创建立方体:...
+创建圆柱:...
+创建球体:...
+设置原点:...
+多边形:...
+
+
+三维场景:...
+
+
+
+
+## end
+#10, 626:
+"""
+地址::C:\Users\cheng\Documents\Blender\code\test.py
++[保存文本](,创建立方体)
+
+"""
+import bpy, mathutils
+import numpy as np
+
+pos=[0,0,0]
+Eulers=[-95,90,0]
+H=30
+L=10
+W=10
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+eulers=np.deg2rad(np.array(Eulers))
+bpy.ops.mesh.primitive_cube_add()
+C1=bpy.context.selected_objects[0]
+C1.name='C1'
+C1.data.transform(mathutils.Matrix.Translation((0,0,1)))
+C1.location=(pos[0],pos[1],pos[2])
+C1.scale=(W/2,L/2,H/2)
+C1.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+C1.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+C1.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#12, 45:
+C:\Users\cheng\Documents\Blender\code\test.py
+## end
+#13, 3:
+116
+## end
+#16, 453:
+"""
+地址::C:\Users\cheng\Documents\Blender\code\test.py
++[保存文本](,创建圆柱)
+
+"""
+import bpy, mathutils
+import numpy as np
+
+pos=[0,0,0]
+Eulers=[-45,45,0]
+H=10
+R=1
+
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+bpy.ops.mesh.primitive_cylinder_add(radius=R,depth=H)
+C1=bpy.context.selected_objects[0]
+C1.name='C1'
+C1.data.transform(mathutils.Matrix.Translation((0,0,H/2)))
+C1.location=(pos[0],pos[1],pos[2])
+C1.rotation_euler=np.deg2rad(np.array(Eulers))
+
+
+## end
+#18, 45:
+C:\Users\cheng\Documents\Blender\code\test.py
+## end
+#20, 330:
+"""
+地址::C:\Users\cheng\Documents\Blender\code\test.py
++[保存文本](,创建球体)
+
+"""
+import bpy
+import numpy as np
+
+pos=[0,0,10]
+Eulers=[-95,90,0]
+H=10
+R=1
+
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+bpy.ops.mesh.primitive_uv_sphere_add(radius=R)
+C1=bpy.context.selected_objects[0]
+C1.name='C1'
+C1.location=(pos[0],pos[1],pos[2])
+
+
+## end
+#22, 45:
+C:\Users\cheng\Documents\Blender\code\test.py
+## end
+#24, 190:
++[粘贴](,操作)
++[复制结构](,结构转Blender)
+
+结构转Blender:...
+组合体转Blender:...
+三维场景转Blender:...
+三维场景转Blender_全局:...
+将'三维场景转Blender_全局'的"三维场景转ThreeJS_全局"替换为"三维场景转Blender_全局"
++[新建阅读窗口](,三维场景转Blender)
+
+
+
+
+
+
+
+
+## end
+#26, 401:
+"""
+库:...
+
+"""
+
++结构转Blender(_结构,_代码)->+[del](,+结构转Blender)...
+->的(结构转Blender,库)...
+
+->的(_结构,类型):
+->[==]"平面"(,类型)->的(库,平面)->+[做](_结构,_代码)->+[code](+[做],平面),
+->[==]"立方体"(,类型)->的(库,立方体)->+[做](_结构,_代码)->+[code](+[做],立方体),
+->[==]"圆柱体"(,类型)->的(库,圆柱体)->+[做](_结构,_代码)->+[code](+[做],圆柱体),
+->[==]"球体"(,类型)->的(库,球体)->+[做](_结构,_代码)->+[code](+[做],球体),
+->[==]"多面体"(,类型)->的(库,多面体)->+[做](_结构,_代码)->+[code](+[做],多面体)
+
+
+## end
+#28, 61:
+
+
+立方体:...
+圆柱体:...
+球体:...
+平面:...
+多面体:...
+将条目"立方体"复制为条目"多面体"
+
+
+
+## end
+#30, 586:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++球体(_结构,_代码)->+[del](,+球体)...
+->的(球体,P模板)->的(球体,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向):
+->的(_结构,半径)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],半径),
+
+->的(_结构,X)->的(_结构,Y)->的(_结构,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.]"半径"(+[模板文本],+[临时文本]#R)->+[o]"R"(+[matlab],+[临时文本]#R)
+
+
+
+
+## end
+#32, 203:
+Nini, 导入Blender的库
+
+A1::
+A1是立方体"1,1,10"
++[设置结构](,A1)
++[结构转Blender](A2,+[临时文本])->+[复制内容](,+[临时文本])
+
+A2朝向方向(0,45,0)
+A2::
+A2是圆柱体"2,10"
+A1的长度是什么
+的(A1,长度)->+[del](,长度)
+
+
++[三维场景转Blender](三维场景,)
++[显示三维场景](,三维场景)
+## end
+#35, 53:
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0
+## end
+#37, 54:
+-0.5, -0.5;
+-0.5, -0.5;
+0.5, 0.5;
+0.5, 0.5;
+-0.5, -0.5
+## end
+#39, 54:
+-0.5, -0.5;
+0.5, 0.5;
+0.5, 0.5;
+-0.5, -0.5;
+-0.5, -0.5
+## end
+#41, 13:
+0.0, 0.0, 0.0
+## end
+#43, 4:
+10.0
+## end
+#45, 3:
+1.0
+## end
+#47, 3:
+立方体
+## end
+#50, 135:
+pos=[%空间点]
+bpy.ops.mesh.primitive_uv_sphere_add(radius=%半径)
+A=bpy.context.selected_objects[0]
+A.location=(pos[0],pos[1],pos[2]+%高度/2)
+
+
+## end
+#51, 6:
+0,0,45
+## end
+#55, 1098:
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0;
+0.0, 10.0
+## end
+#57, 3980:
+0.0, 0.0;
+0.126847839313129, 0.126847839313129;
+0.25318490714749853, 0.25318490714749853;
+0.3785024887208204, 0.3785024887208204;
+0.5022959743621584, 0.5022959743621584;
+0.6240668913969744, 0.6240668913969744;
+0.743324911320655, 0.743324911320655;
+0.8595898241783432, 0.8595898241783432;
+0.9723934722009374, 0.9723934722009374;
+1.081281634911195, 1.081281634911195;
+1.185815858109281, 1.185815858109281;
+1.2855752193730785, 1.2855752193730785;
+1.3801580229642239, 1.3801580229642239;
+1.4691834173150666, 1.4691834173150666;
+1.5522929285835136, 1.5522929285835136;
+1.6291519041006715, 1.6291519041006715;
+1.6994508598990288, 1.6994508598990288;
+1.7629067268951641, 1.7629067268951641;
+1.8192639907090367, 1.8192639907090367;
+1.8682957205302135, 1.8682957205302135;
+1.9098044828881477, 1.9098044828881477;
+1.9436231366470833, 1.9436231366470833;
+1.969615506024416, 1.969615506024416;
+1.9876769289225082, 1.9876769289225082;
+1.997734678366016, 1.997734678366016;
+1.9997482553477501, 1.9997482553477501;
+1.9937095519038848, 1.9937095519038848;
+1.9796428837618654, 1.9796428837618654;
+1.9576048924295575, 1.9576048924295575;
+1.927684317119884, 1.927684317119884;
+1.890001637429337, 1.890001637429337;
+1.8447085882091627, 1.8447085882091627;
+1.7919875485826717, 1.7919875485826717;
+1.7320508075688772, 1.7320508075688772;
+1.6651397092695426, 1.6651397092695426;
+1.5915236810616644, 1.5915236810616644;
+1.5114991487085168, 1.5114991487085168;
+1.425388342757726, 1.425388342757726;
+1.333538001032583, 1.333538001032583;
+1.2363179724412106, 1.2363179724412106;
+1.134119727725541, 1.134119727725541;
+1.0273547831468126, 1.0273547831468126;
+0.916453043454821, 0.916453043454821;
+0.801861070813227, 0.801861070813227;
+0.6840402866513374, 0.6840402866513374;
+0.5634651136828597, 0.5634651136828597;
+0.440621065573081, 0.440621065573081;
+0.3160027919466999, 0.3160027919466999;
+0.1901120866083658, 0.1901120866083658;
+0.06345586699613513, 0.06345586699613513;
+-0.06345586699613513, -0.06345586699613513;
+-0.1901120866083658, -0.1901120866083658;
+-0.3160027919466999, -0.3160027919466999;
+-0.440621065573081, -0.440621065573081;
+-0.5634651136828597, -0.5634651136828597;
+-0.6840402866513374, -0.6840402866513374;
+-0.801861070813227, -0.801861070813227;
+-0.916453043454821, -0.916453043454821;
+-1.0273547831468126, -1.0273547831468126;
+-1.134119727725541, -1.134119727725541;
+-1.2363179724412106, -1.2363179724412106;
+-1.333538001032583, -1.333538001032583;
+-1.425388342757726, -1.425388342757726;
+-1.5114991487085168, -1.5114991487085168;
+-1.591523681061664, -1.591523681061664;
+-1.665139709269543, -1.665139709269543;
+-1.7320508075688772, -1.7320508075688772;
+-1.7919875485826715, -1.7919875485826715;
+-1.844708588209163, -1.844708588209163;
+-1.890001637429337, -1.890001637429337;
+-1.927684317119884, -1.927684317119884;
+-1.9576048924295575, -1.9576048924295575;
+-1.9796428837618654, -1.9796428837618654;
+-1.9937095519038845, -1.9937095519038845;
+-1.9997482553477501, -1.9997482553477501;
+-1.997734678366016, -1.997734678366016;
+-1.9876769289225082, -1.9876769289225082;
+-1.969615506024416, -1.969615506024416;
+-1.9436231366470835, -1.9436231366470835;
+-1.909804482888148, -1.909804482888148;
+-1.868295720530213, -1.868295720530213;
+-1.8192639907090364, -1.8192639907090364;
+-1.762906726895164, -1.762906726895164;
+-1.6994508598990288, -1.6994508598990288;
+-1.6291519041006717, -1.6291519041006717;
+-1.552292928583514, -1.552292928583514;
+-1.469183417315066, -1.469183417315066;
+-1.3801580229642239, -1.3801580229642239;
+-1.2855752193730785, -1.2855752193730785;
+-1.1858158581092813, -1.1858158581092813;
+-1.0812816349111958, -1.0812816349111958;
+-0.9723934722009366, -0.9723934722009366;
+-0.8595898241783427, -0.8595898241783427;
+-0.7433249113206549, -0.7433249113206549;
+-0.6240668913969744, -0.6240668913969744;
+-0.5022959743621589, -0.5022959743621589;
+-0.3785024887208213, -0.3785024887208213;
+-0.2531849071474978, -0.2531849071474978;
+-0.12684783931312865, -0.12684783931312865;
+0.0, 0.0
+## end
+#59, 3968:
+2.0, 2.0;
+1.9959733529437689, 1.9959733529437689;
+1.9839096256615907, 1.9839096256615907;
+1.9638573945254134, 1.9638573945254134;
+1.9358974027927125, 1.9358974027927125;
+1.9001422354818907, 1.9001422354818907;
+1.8567358660321451, 1.8567358660321451;
+1.8058530765732426, 1.8058530765732426;
+1.7476987541395699, 1.7476987541395699;
+1.6825070656623624, 1.6825070656623624;
+1.610540515062117, 1.610540515062117;
+1.532088886237956, 1.532088886237956;
+1.4474680762101404, 1.4474680762101404;
+1.3570188231142644, 1.3570188231142644;
+1.261105334169045, 1.261105334169045;
+1.1601138191423963, 1.1601138191423963;
+1.054450935221005, 1.054450935221005;
+0.9445421495453653, 0.9445421495453653;
+0.8308300260037729, 0.8308300260037729;
+0.7137724431837436, 0.7137724431837436;
+0.5938407506565495, 0.5938407506565495;
+0.47151787101885456, 0.47151787101885456;
+0.34729635533386066, 0.34729635533386066;
+0.2216763998020219, 0.2216763998020219;
+0.09516383164748482, 0.09516383164748482;
+-0.031731927669615766, -0.031731927669615766;
+-0.15849991371357697, -0.15849991371357697;
+-0.28462967654657045, -0.28462967654657045;
+-0.4096133361303812, -0.4096133361303812;
+-0.53294762738007, -0.53294762738007;
+-0.6541359266348433, -0.6541359266348433;
+-0.7726902513862575, -0.7726902513862575;
+-0.8881332252115481, -0.8881332252115481;
+-1.0, -1.0;
+-1.1078401277322205, -1.1078401277322205;
+-1.2112193742753332, -1.2112193742753332;
+-1.30972146789057, -1.30972146789057;
+-1.4029497754126423, -1.4029497754126423;
+-1.4905288993515096, -1.4905288993515096;
+-1.5721061894855748, -1.5721061894855748;
+-1.6473531628596658, -1.6473531628596658;
+-1.7159668264699541, -1.7159668264699541;
+-1.7776708973098467, -1.7776708973098467;
+-1.8322169148641394, -1.8322169148641394;
+-1.8793852415718169, -1.8793852415718169;
+-1.9189859472289947, -1.9189859472289947;
+-1.950859573770814, -1.950859573770814;
+-1.9748777773527886, -1.9748777773527886;
+-1.9909438451461692, -1.9909438451461692;
+-1.9989930847663702, -1.9989930847663702;
+-1.9989930847663702, -1.9989930847663702;
+-1.9909438451461692, -1.9909438451461692;
+-1.9748777773527886, -1.9748777773527886;
+-1.950859573770814, -1.950859573770814;
+-1.9189859472289947, -1.9189859472289947;
+-1.8793852415718169, -1.8793852415718169;
+-1.8322169148641394, -1.8322169148641394;
+-1.7776708973098467, -1.7776708973098467;
+-1.7159668264699541, -1.7159668264699541;
+-1.6473531628596658, -1.6473531628596658;
+-1.5721061894855748, -1.5721061894855748;
+-1.4905288993515096, -1.4905288993515096;
+-1.4029497754126423, -1.4029497754126423;
+-1.30972146789057, -1.30972146789057;
+-1.2112193742753337, -1.2112193742753337;
+-1.1078401277322203, -1.1078401277322203;
+-1.0, -1.0;
+-0.8881332252115486, -0.8881332252115486;
+-0.772690251386257, -0.772690251386257;
+-0.6541359266348433, -0.6541359266348433;
+-0.5329476273800704, -0.5329476273800704;
+-0.4096133361303812, -0.4096133361303812;
+-0.28462967654657045, -0.28462967654657045;
+-0.15849991371357747, -0.15849991371357747;
+-0.03173192766961676, -0.03173192766961676;
+0.0951638316474853, 0.0951638316474853;
+0.2216763998020224, 0.2216763998020224;
+0.34729635533386066, 0.34729635533386066;
+0.4715178710188541, 0.4715178710188541;
+0.5938407506565491, 0.5938407506565491;
+0.7137724431837444, 0.7137724431837444;
+0.8308300260037733, 0.8308300260037733;
+0.9445421495453655, 0.9445421495453655;
+1.0544509352210047, 1.0544509352210047;
+1.1601138191423959, 1.1601138191423959;
+1.2611053341690444, 1.2611053341690444;
+1.3570188231142648, 1.3570188231142648;
+1.4474680762101406, 1.4474680762101406;
+1.532088886237956, 1.532088886237956;
+1.610540515062117, 1.610540515062117;
+1.682507065662362, 1.682507065662362;
+1.7476987541395703, 1.7476987541395703;
+1.8058530765732426, 1.8058530765732426;
+1.8567358660321454, 1.8567358660321454;
+1.9001422354818907, 1.9001422354818907;
+1.9358974027927125, 1.9358974027927125;
+1.9638573945254132, 1.9638573945254132;
+1.9839096256615907, 1.9839096256615907;
+1.9959733529437689, 1.9959733529437689;
+2.0, 2.0
+## end
+#61, 13:
+0.0, 0.0, 0.0
+## end
+#63, 4:
+10.0
+## end
+#65, 3:
+2.0
+## end
+#67, 3:
+圆柱体
+## end
+#70, 24:
+%{
+
+%}
+
+R=max(max(X));
+
+
+## end
+#71, 43:
+%{
+
+%}
+
+W=max(max(X))*2;
+L=max(max(Y))*2;
+
+
+## end
+#72, 348:
+pos=[%空间点]
+eulers=np.deg2rad(np.array([%方向]))
+bpy.ops.mesh.primitive_plane_add()
+A=bpy.context.selected_objects[0]
+A.location=(pos[0],pos[1],pos[2])
+A.scale=(%宽度/2,%长度/2,1)
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+A.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#75, 682:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++平面(_结构,_代码)->+[del](,+平面)...
+->的(平面,P模板)->的(平面,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向):
+->的(_结构,长度)->的(_结构,宽度)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],长度)->+[.](+[模板文本],宽度),
+
+->的(_结构,X)->的(_结构,Y)->的(_结构,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.]"长度"(+[模板文本],+[临时文本]#L)->+[o]"L"(+[matlab],+[临时文本]#L)...
+    ->+[.]"宽度"(+[模板文本],+[临时文本]#W)->+[o]"W"(+[matlab],+[临时文本]#W)
+
+
+
+
+## end
+#77, 39:
+%{
+
+%}
+
+R=max(max(X));
+H=max(max(Z));
+
+
+## end
+#78, 407:
+pos=[%空间点]
+eulers=np.deg2rad(np.array([%方向]))
+bpy.ops.mesh.primitive_cylinder_add(radius=%半径,depth=%高度)
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,%高度/2)))
+A.location=(pos[0],pos[1],pos[2])
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+A.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#81, 686:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++圆柱体(_结构,_代码)->+[del](,+圆柱体)...
+->的(圆柱体,P模板)->的(圆柱体,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向):
+->的(_结构,半径)->的(_结构,高度)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],半径)->+[.](+[模板文本],高度),
+
+->的(_结构,X)->的(_结构,Y)->的(_结构,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.]"半径"(+[模板文本],+[临时文本]#R)->+[o]"R"(+[matlab],+[临时文本]#R)...
+    ->+[.]"高度"(+[模板文本],+[临时文本]#H)->+[o]"H"(+[matlab],+[临时文本]#H)
+
+
+
+
+## end
+#83, 6:
+0,45,0
+## end
+#86, 493:
+"""
+地址::C:\Users\cheng\Documents\Blender\code\test.py
++[保存文本](,设置原点)
+
+"""
+
+import bpy, mathutils
+import numpy as np
+
+pos=[0,0,10]
+Eulers=[-95,90,0]
+H=10
+R=1
+
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+bpy.ops.mesh.primitive_uv_sphere_add(radius=R)
+C1=bpy.context.selected_objects[0]
+C1.name='C1'
+C1.location=(pos[0],pos[1],pos[2])
+
+C1.data.transform(mathutils.Matrix.Translation((-10,0,0)))
+
+C1.matrix_world.translation+=mathutils.Vector((1,1,1))
+print(C1.matrix_world.translation)
+
+
+## end
+#88, 45:
+C:\Users\cheng\Documents\Blender\code\test.py
+## end
+#90, 243:
+"""
+
+
+"""
+
++组合体转Blender(_结构体,_输出)->+[del](,+组合体转Blender)...
+
+->+[临时文本]->[]{
+    []:->的(_结构体,类型)->+[结构转Blender](_结构体,_输出),
+    =>的(_结构体,_结构)->的(_结构,类型#1)...
+        =>+[结构转Blender](_结构,+[增加内容])->+[增加内容](,+[临时文本])
+}...
+
+->+[修改内容](+[临时文本],_输出)
+
+
+
+## end
+#92, 405:
+"""
+P模板:...
+Nini, 打开动词(库)
+保存:...
+
+"""
+
++三维场景转Blender(_场景,_输出)->+[del](,+三维场景转Blender)...
+->的(三维场景转Blender,P模板)->的(三维场景转Blender,保存)...
+
+->+[组合体转Blender](_场景,+[临时文本]):
+->_输出(,)...
+    ->+[模板文本](P模板,_输出)->+[.]"场景"(+[模板文本],+[临时文本]),
+
+->+[临时文本]#1"C:\Users\cheng\Documents\Blender\code\test.py"...
+    ->+[模板文本](P模板,+[临时文本])->+[.]"场景"(+[模板文本],+[临时文本])...
+    ->+[保存文本](+[临时文本]#1,+[临时文本])->+[修改内容](+[临时文本],保存)
+
+
+
+## end
+#94, 1369:
+import bpy, mathutils, bmesh
+import numpy as np
+
+
+bpy.ops.object.delete()
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+
+def extrude_polygon_add(x,y,height):
+    verts=[]
+    edges=[]
+    faces=[]
+    for i in range(len(x)):
+        verts.append((x[i],y[i],0))
+    for i in range(len(verts)):
+        if i+1<len(verts):
+            edges.append((i,i+1))
+        else:
+            edges.append((i,0))
+    faces.append(range(len(verts)))
+    
+    bpy.ops.mesh.primitive_cube_add()
+    A=bpy.context.selected_objects[0]
+    
+    mesh = A.data
+    bm = bmesh.new()
+    
+    vs=[]
+    for v in verts:
+        vs.append(bm.verts.new(v))  # add a new vert
+    for e in edges:
+        e_gp=(vs[e[0]],vs[e[1]])
+        bm.edges.new(e_gp)
+    
+    # make the bmesh the object's mesh
+    bm.to_mesh(mesh)  
+    bm.free()  # always do this when finished
+    
+    # Go to edit mode, face selection mode and select all faces
+    bpy.ops.object.mode_set( mode   = 'EDIT'   )
+    bpy.ops.mesh.select_mode( type  = 'EDGE'   )
+    bpy.ops.mesh.select_all( action = 'SELECT' )
+    bpy.ops.mesh.fill()
+    
+    bpy.ops.mesh.select_mode( type  = 'FACE'   )
+    bpy.ops.mesh.select_all( action = 'SELECT' )
+    
+    bpy.ops.mesh.extrude_region_move(
+        TRANSFORM_OT_translate={"value":(0, 0, height)}
+    )
+    
+    bpy.ops.object.mode_set( mode = 'OBJECT' )
+    return A
+
+
+
+
+%场景
+## end
+#96, 610:
+import bpy, mathutils
+import numpy as np
+
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+pos=[0.0, 0.0, 0.0]
+bpy.ops.mesh.primitive_cylinder_add(radius=2.0,depth=10.0)
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,10.0/2)))
+A.location=(pos[0],pos[1],pos[2])
+A.rotation_euler=np.deg2rad(np.array([90,45,45]))
+
+pos=[0.0, 0.0, 0.0]
+bpy.ops.mesh.primitive_cube_add()
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,1)))
+A.location=(pos[0],pos[1],pos[2])
+A.scale=(1.0/2,1.0/2,10.0/2)
+A.rotation_euler=np.deg2rad(np.array([0,0,45]))
+
+
+## end
+#98, 396:
+"""
+地址::C:\Users\cheng\Documents\Blender\code\test.py
++[保存文本](,创建平面)
+
+"""
+import bpy, mathutils
+import numpy as np
+
+pos=[0,0,0]
+Eulers=[-95,90,0]
+L=10
+W=10
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+bpy.ops.mesh.primitive_plane_add()
+C1=bpy.context.selected_objects[0]
+C1.name='C1'
+C1.location=(pos[0],pos[1],pos[2])
+C1.scale=(W/2,L/2,1)
+C1.rotation_euler=np.deg2rad(np.array(Eulers))
+
+
+## end
+#100, 45:
+C:\Users\cheng\Documents\Blender\code\test.py
+## end
+#101, 292:
+pos=[%空间点]
+eulers=np.deg2rad(np.array([%方向]))
+A=extrude_polygon_add([%x],[%y],%高度)
+A.location=(pos[0],pos[1],pos[2])
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+A.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#102, 58:
+%{
+
+%}
+
+W=max(max(X))*2;
+L=max(max(Y))*2;
+H=max(max(Z));
+
+
+## end
+#105, 370:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
++[新建阅读窗口](,P模板)
+
+"""
+
++多面体(_结构,_代码)->+[del](,+多面体)...
+->的(多面体,P模板)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,x)->的(_结构,y)->的(_结构,高度)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],x)->+[.](+[模板文本],y)->+[.](+[模板文本],高度)
+
+
+
+
+## end
+#108, 608:
+fill::https://docs.blender.org/api/current/bpy.ops.mesh.html#bpy.ops.mesh.fill
+fill2::https://docs.blender.org/manual/en/latest/modeling/meshes/editing/face/fill.html#modeling-meshes-editing-fill
+
+curve::https://docs.blender.org/api/current/bpy.ops.curve.html#bpy.ops.curve.primitive_nurbs_path_add
+
+extrude::https://blender.stackexchange.com/questions/40247/extrude-a-mesh-by-region-using-python-script
++[打开网页](,extrude)
+
+
+创建曲线(P代码):...
+曲线管道(P代码):...
+创建面(P代码):...
+创建体(P代码):...
+
+参考::https://blender.stackexchange.com/questions/61879/create-mesh-then-add-vertices-to-it-in-python
+(怎么修改已经存在的mesh)
++[打开网页](,参考)
+
+## end
+#110, 72:
+https://docs.blender.org/api/current/bpy.ops.mesh.html#bpy.ops.mesh.fill
+## end
+#112, 72:
+https://docs.blender.org/api/current/bpy.ops.mesh.html#bpy.ops.mesh.fill
+## end
+#114, 94:
+https://docs.blender.org/api/current/bpy.ops.curve.html#bpy.ops.curve.primitive_nurbs_path_add
+## end
+#116, 94:
+https://blender.stackexchange.com/questions/40247/extrude-a-mesh-by-region-using-python-script
+## end
+#118, 109:
+https://docs.blender.org/manual/en/latest/modeling/meshes/editing/face/fill.html#modeling-meshes-editing-fill
+## end
+#120, 819:
+"""
++[新建阅读窗口](,函数曲线)
+地址::文档\输出\20210704\函数曲线.py
++[保存文本](,函数曲线)
+
+"""
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+N=200
+x=np.linspace(-2,2,N)
+y=(x)**3
+
+ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+# ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=N-2)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Curve"
+bez_points = curve.data.splines[0].bezier_points
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],0))
+    if i>0:
+        bez_points[i].handle_left_type='VECTOR'
+    if i<N-1:
+        bez_points[i].handle_right_type='VECTOR'
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='X'
+screw.angle=2*np.pi
+screw.render_steps=64
+screw.steps=64
+
+
+
+
+
+## end
+#123, 949:
+"""
++[返回目录](,函数曲线)
++[新建阅读窗口](,函数曲线)
+地址::文档\输出\20210704\函数曲线.py
++[保存文本](,函数曲线)
+
+"""
+
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+N=200
+x=np.linspace(-2,2,N)
+y=(x)**2
+
+ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+# ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=N-2)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Curve"
+bez_points = curve.data.splines[0].bezier_points
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],0))
+    if i>0:
+        bez_points[i].handle_left_type='VECTOR'
+    if i<N-1:
+        bez_points[i].handle_right_type='VECTOR'
+
+#curve.data.fill_mode='FULL'
+curve.data.resolution_u     = 24     # Preview U
+curve.data.fill_mode        = 'FULL' # Fill Mode ==> Full
+curve.data.bevel_depth      = 0.2   # Bevel Depth
+curve.data.bevel_resolution = 4      # Bevel Resolution
+
+
+## end
+#126, 746:
+"""
+保存:...
+尝试修改cube:...
+参考::https://blender.stackexchange.com/questions/61879/create-mesh-then-add-vertices-to-it-in-python
+
+"""
+
+import bpy
+ 
+# make mesh
+verts = [(0, 0, 0),(2, 0, 0),(4, 2, 0),]
+edges = [(0,1),(1,2),(2,0)]
+faces = [(0,1,2)]
+
+new_mesh = bpy.data.meshes.new('new_mesh')
+new_mesh.from_pydata(verts, edges, faces)
+new_mesh.update()
+# make object from mesh
+new_object = bpy.data.objects.new('new_object', new_mesh)
+# make collection
+# new_collection = bpy.data.collections.new('new_collection')
+new_collection = bpy.data.collections.get('Collection')
+# bpy.context.scene.collection.children.link(new_collection)
+# new_collection.children.link(new_collection)
+# add object to scene collection
+new_collection.objects.link(new_object)
+
+
+## end
+#130, 1190:
+"""
+复杂底面1:...
+(不行)
+复杂底面2:...
+(用了fill())
+extrude_polygon_add:...
+
+"""
+
+import bpy, mathutils, bmesh
+import numpy as np
+
+bpy.ops.object.delete()
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+
+verts = [(0, 0, 0),(2, 0, 0),(4, 2, 0),]
+edges = [(0,1),(1,2),(2,0)]
+faces = [(0,1,2)]
+
+bpy.ops.mesh.primitive_cube_add()
+A=bpy.context.selected_objects[0]
+
+mesh = A.data
+bm = bmesh.new()
+
+# convert the current mesh to a bmesh (must be in edit mode)
+#bpy.ops.object.mode_set(mode='EDIT')
+#bm.from_mesh(mesh)
+#bpy.ops.object.mode_set(mode='OBJECT')  # return to object mode
+#bm=bmesh.new()
+
+vs=[]
+es=[]
+for v in verts:
+    vs.append(bm.verts.new(v))  # add a new vert
+for f in faces:
+    v_gp=[]
+    for n in f:
+        v_gp.append(vs[edges[n][0]])
+    bm.faces.new(v_gp)
+
+# make the bmesh the object's mesh
+bm.to_mesh(mesh)  
+bm.free()  # always do this when finished
+
+
+# Go to edit mode, face selection mode and select all faces
+bpy.ops.object.mode_set( mode   = 'EDIT'   )
+bpy.ops.mesh.select_mode( type  = 'FACE'   )
+bpy.ops.mesh.select_all( action = 'SELECT' )
+
+bpy.ops.mesh.extrude_region_move(
+    TRANSFORM_OT_translate={"value":(0, 0, 3)}
+)
+
+bpy.ops.object.mode_set( mode = 'OBJECT' )
+
+## end
+#133, 1274:
+import bpy, mathutils
+import numpy as np
+
+
+# make mesh
+vertices = [(0, 0, 0),(2, 0, 0),(2, 2, 0),(0, 2, 0),]
+edges = [(0,1),(1,2),(2,3),(3,0)]
+faces = [(0,1,2,3)]
+
+
+new_mesh = bpy.data.meshes.new('new_mesh')
+new_mesh.from_pydata(vertices, edges, faces)
+new_mesh.update()
+# make object from mesh
+new_object = bpy.data.objects.new('new_object', new_mesh)
+# make collection
+# new_collection = bpy.data.collections.new('new_collection')
+new_collection = bpy.data.collections.get('Collection')
+# bpy.context.scene.collection.children.link(new_collection)
+# add object to scene collection
+new_collection.objects.link(new_object)
+# bpy.ops.outliner.item_activate(extend=False, deselect_all=True)
+
+
+bpy.data.objects["new_object"].select_set(True)
+# bpy.context.selected_objects.append(new_object)
+print(bpy.context.selected_objects)
+print(bpy.context.visible_objects)
+print(bpy.context.selectable_objects)
+print(bpy.context.editable_objects)
+
+
+# Go to edit mode, face selection mode and select all faces
+# bpy.ops.object.mode_set( mode   = 'EDIT'   )
+# bpy.ops.mesh.select_mode( type  = 'FACE'   )
+# bpy.ops.mesh.select_all( action = 'SELECT' )
+
+# bpy.ops.mesh.extrude_region_move(
+#     TRANSFORM_OT_translate={"value":(0, 0, 3)}
+# )
+
+# bpy.ops.object.mode_set( mode = 'OBJECT' )
+
+
+## end
+#135, 798:
+import bpy, mathutils
+import numpy as np
+
+
+# make mesh
+vertices = [(0, 0, 0),(2, 0, 0),(2, 2, 0),(0, 2, 0),]
+edges = [(0,1),(1,2),(2,3),(3,0)]
+faces = [(0,1,2,3)]
+
+
+bpy.ops.mesh.primitive_cube_add()
+A=bpy.context.selected_objects[0]
+print(A.data)
+A.data.from_pydata(vertices, edges, faces)
+A.data.update()
+
+
+new_mesh = bpy.data.meshes.new('new_mesh')
+new_mesh.from_pydata(vertices, edges, faces)
+new_mesh.update()
+# make object from mesh
+new_object = bpy.data.objects.new('new_object', new_mesh)
+# make collection
+# new_collection = bpy.data.collections.new('new_collection')
+new_collection = bpy.data.collections.get('Collection')
+# bpy.context.scene.collection.children.link(new_collection)
+# add object to scene collection
+new_collection.objects.link(new_object)
+
+
+
+print(A,new_object,new_mesh)
+
+## end
+#137, 95:
+https://blender.stackexchange.com/questions/61879/create-mesh-then-add-vertices-to-it-in-python
+## end
+#139, 95:
+https://blender.stackexchange.com/questions/61879/create-mesh-then-add-vertices-to-it-in-python
+## end
+#142, 1395:
+import bpy, mathutils, bmesh
+import numpy as np
+
+bpy.ops.object.delete()
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+
+verts = [(0, 0, 0),(2, 0, 0),(4, 2, 0),(4, -2, 0),(3, 1.5, 0),]
+#edges = [(0,1),(1,2),(2,3),(3,0)]
+#faces = [(0,1,2,3)]
+edges=[]
+faces=[]
+for i in range(len(verts)):
+    if i+1<len(verts):
+        edges.append((i,i+1))
+    else:
+        edges.append((i,0))
+faces.append(range(len(verts)))
+
+
+pos=[-7.0, -3.25, 0.0]
+eulers=np.deg2rad(np.array([0.0, 0.0, 90.0]))
+bpy.ops.mesh.primitive_cube_add()
+A=bpy.context.selected_objects[0]
+
+mesh = A.data
+bm = bmesh.new()
+
+# convert the current mesh to a bmesh (must be in edit mode)
+#bpy.ops.object.mode_set(mode='EDIT')
+#bm.from_mesh(mesh)
+#bpy.ops.object.mode_set(mode='OBJECT')  # return to object mode
+#bm=bmesh.new()
+
+vs=[]
+es=[]
+for v in verts:
+    vs.append(bm.verts.new(v))  # add a new vert
+for f in faces:
+    v_gp=[]
+    for n in f:
+        v_gp.append(vs[edges[n][0]])
+    bm.faces.new(v_gp)
+
+# make the bmesh the object's mesh
+bm.to_mesh(mesh)  
+bm.free()  # always do this when finished
+
+
+# Go to edit mode, face selection mode and select all faces
+bpy.ops.object.mode_set( mode   = 'EDIT'   )
+bpy.ops.mesh.select_mode( type  = 'FACE'   )
+bpy.ops.mesh.select_all( action = 'SELECT' )
+
+#bpy.ops.mesh.extrude_region_move(
+#    TRANSFORM_OT_translate={"value":(0, 0, 3)}
+#)
+
+bpy.ops.object.mode_set( mode = 'OBJECT' )
+
+## end
+#144, 1566:
+import bpy, mathutils, bmesh
+import numpy as np
+
+bpy.ops.object.delete()
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+
+verts = [(0, 0, 0),(2, 0, 0),(4, 2, 0),(4, -2, 0),(3, 1.5, 0),]
+#edges = [(0,1),(1,2),(2,3),(3,0)]
+#faces = [(0,1,2,3)]
+edges=[]
+faces=[]
+for i in range(len(verts)):
+    if i+1<len(verts):
+        edges.append((i,i+1))
+    else:
+        edges.append((i,0))
+faces.append(range(len(verts)))
+
+
+pos=[-7.0, -3.25, 0.0]
+eulers=np.deg2rad(np.array([0.0, 0.0, 90.0]))
+bpy.ops.mesh.primitive_cube_add()
+A=bpy.context.selected_objects[0]
+
+mesh = A.data
+bm = bmesh.new()
+
+# convert the current mesh to a bmesh (must be in edit mode)
+bpy.ops.object.mode_set(mode='EDIT')
+bm.from_mesh(mesh)
+bpy.ops.object.mode_set(mode='OBJECT')  # return to object mode
+bm=bmesh.new()
+
+vs=[]
+for v in verts:
+    vs.append(bm.verts.new(v))  # add a new vert
+for e in edges:
+    e_gp=(vs[e[0]],vs[e[1]])
+    bm.edges.new(e_gp)
+#for f in faces:
+#    v_gp=[]
+#    for n in f:
+#        v_gp.append(vs[edges[n][0]])
+#    bm.faces.new(v_gp)
+
+# make the bmesh the object's mesh
+bm.to_mesh(mesh)  
+bm.free()  # always do this when finished
+
+
+# Go to edit mode, face selection mode and select all faces
+bpy.ops.object.mode_set( mode   = 'EDIT'   )
+bpy.ops.mesh.select_mode( type  = 'EDGE'   )
+bpy.ops.mesh.select_all( action = 'SELECT' )
+bpy.ops.mesh.fill()
+
+bpy.ops.mesh.select_mode( type  = 'FACE'   )
+bpy.ops.mesh.select_all( action = 'SELECT' )
+
+bpy.ops.mesh.extrude_region_move(
+    TRANSFORM_OT_translate={"value":(0, 0, 3)}
+)
+
+bpy.ops.object.mode_set( mode = 'OBJECT' )
+
+## end
+#146, 1459:
+"""
+
+
+"""
+import bpy, mathutils, bmesh
+import numpy as np
+
+bpy.ops.object.delete()
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+
+def extrude_polygon_add(x,y,height):
+    verts=[]
+    edges=[]
+    faces=[]
+    for i in range(len(x)):
+        verts.append((x[i],y[i],0))
+    for i in range(len(verts)):
+        if i+1<len(verts):
+            edges.append((i,i+1))
+        else:
+            edges.append((i,0))
+    faces.append(range(len(verts)))
+    
+    bpy.ops.mesh.primitive_cube_add()
+    A=bpy.context.selected_objects[0]
+    
+    mesh = A.data
+    bm = bmesh.new()
+    
+    vs=[]
+    for v in verts:
+        vs.append(bm.verts.new(v))  # add a new vert
+    for e in edges:
+        e_gp=(vs[e[0]],vs[e[1]])
+        bm.edges.new(e_gp)
+    
+    # make the bmesh the object's mesh
+    bm.to_mesh(mesh)  
+    bm.free()  # always do this when finished
+    
+    # Go to edit mode, face selection mode and select all faces
+    bpy.ops.object.mode_set( mode   = 'EDIT'   )
+    bpy.ops.mesh.select_mode( type  = 'EDGE'   )
+    bpy.ops.mesh.select_all( action = 'SELECT' )
+    bpy.ops.mesh.fill()
+    
+    bpy.ops.mesh.select_mode( type  = 'FACE'   )
+    bpy.ops.mesh.select_all( action = 'SELECT' )
+    
+    bpy.ops.mesh.extrude_region_move(
+        TRANSFORM_OT_translate={"value":(0, 0, height)}
+    )
+    
+    bpy.ops.object.mode_set( mode = 'OBJECT' )
+    return A
+
+
+x=[0,0,1,1,2,2,3,3,4,4,5,5]
+y=[0,1,1,2,2,3,3,4,4,5,5,0]
+extrude_polygon_add(x,y,2)
+
+
+
+
+## end
+#147, 58:
+%{
+
+%}
+
+W=max(max(X))*2;
+L=max(max(Y))*2;
+H=max(max(Z));
+
+
+## end
+#148, 407:
+pos=[%空间点]
+eulers=np.deg2rad(np.array([%方向]))
+bpy.ops.mesh.primitive_cube_add()
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,1)))
+A.location=(pos[0],pos[1],pos[2])
+A.scale=(%宽度/2,%长度/2,%高度/2)
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+A.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#151, 798:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
++[新建阅读窗口](,P模板)
+
+"""
+
++立方体(_结构,_代码)->+[del](,+立方体)...
+->的(立方体,P模板)->的(立方体,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向):
+->的(_结构,长度)->的(_结构,宽度)->的(_结构,高度)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],长度)->+[.](+[模板文本],宽度)->+[.](+[模板文本],高度),
+
+->的(_结构,X)->的(_结构,Y)->的(_结构,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.]"长度"(+[模板文本],+[临时文本]#L)->+[o]"L"(+[matlab],+[临时文本]#L)...
+    ->+[.]"宽度"(+[模板文本],+[临时文本]#W)->+[o]"W"(+[matlab],+[临时文本]#W)...
+    ->+[.]"高度"(+[模板文本],+[临时文本]#H)->+[o]"H"(+[matlab],+[临时文本]#H)
+
+
+
+
+## end
+#153, 690:
+"""
+描述结构:...
+库:...
+
+"""
+
++结构转ThreeJS(_结构,_代码)->+[del](,+结构转ThreeJS)...
+->的(结构转ThreeJS,库)->的(结构转ThreeJS,描述结构)...
+
+->."空间点"(+结构转ThreeJS,_空间点)->."方向"(+结构转ThreeJS,_方向)...
+
+->+[code]([想],描述结构)->[想](,_结构)
+
+->+[matlab]"scale=100;"(Matlab,)->的(_结构,类型):
+->[==]"立方体"(,类型)->的(库,立方体)->+[做](_结构,_代码)->+[code](+[做],立方体)...
+    ->+[.]"空间点"(+[做],_空间点)->+[.]"方向"(+[做],_方向),
+->[==]"圆柱体"(,类型)->的(库,圆柱体)->+[做](_结构,_代码)->+[code](+[做],圆柱体)...
+    ->+[.]"空间点"(+[做],_空间点)->+[.]"方向"(+[做],_方向),
+->[==]"球体"(,类型)->的(库,球体)->+[做](_结构,_代码)->+[code](+[做],球体)...
+    ->+[.]"空间点"(+[做],_空间点)->+[.]"方向"(+[做],_方向),
+->[==]"多面体"(,类型)->的(库,多面体)->+[做](_结构,_代码)->+[code](+[做],多面体)...
+    ->+[.]"空间点"(+[做],_空间点)->+[.]"方向"(+[做],_方向)
+
+
+## end
+#154, 243:
+"""
+
+
+"""
++描述结构(,_结构)->+操作(+描述结构,)...
+
+->_结构(,_目标)->的(_结构,类型)...
+->[]{
+    []:->_目标->+的(+操作,+组合体),
+    ->[==]"立方体"(,类型)->+的(+操作,+立方体),
+    ->[==]"圆柱体"(,类型)->+的(+操作,+圆柱体),
+    ->[==]"球体"(,类型)->+的(+操作,+球体),
+    ->[==]"多面体"(,类型)->+的(+操作,+多面体)
+}
+
+
+## end
+#155, 199:
+%{
+Nini, 打开三维场景的transform_3D_frame(节点)
+%}
+
+W_out=scale*W;
+L_out=scale*L;
+H_out=scale*H;
+pt_out=scale*pt;
+
+[pt_out,Eulers_out]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt_out,Eulers);
+
+
+## end
+#156, 407:
+pos=[%空间点]
+eulers=np.deg2rad(np.array([%方向]))
+bpy.ops.mesh.primitive_cube_add()
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,1)))
+A.location=(pos[0],pos[1],pos[2])
+A.scale=(%宽度/2,%长度/2,%高度/2)
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+A.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#161, 5:
+82,82
+## end
+#162, 3:
+961
+## end
+#163, 3:
+553
+## end
+#164, 3:
+476
+## end
+#165, 3:
+958
+## end
+#179, 931:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
++[新建阅读窗口](,P模板)
+
+"""
+
++立方体(_结构,_代码)->+[del](,+立方体)...
+->的(立方体,P模板)->的(立方体,M代码)...
+
+->."空间点"(+立方体,_空间点)->."方向"(+立方体,_方向)...
+
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,长度)->的(_结构,宽度)->的(_结构,高度)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.]"pt0"(+[matlab],_空间点)->+[.]"Eulers0"(+[matlab],_方向)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"Eulers"(+[matlab],方向)->+[o]"Eulers_out"(+[matlab],+方向)...
+    ->+[.](+[模板文本],+方向)->+[del](,+方向)...
+->+[.]"L"(+[matlab],长度)->+[o]"L_out"(+[matlab],+长度)...
+    ->+[.](+[模板文本],+长度)->+[del](,+长度)...
+->+[.]"W"(+[matlab],宽度)->+[o]"W_out"(+[matlab],+宽度)...
+    ->+[.](+[模板文本],+宽度)->+[del](,+宽度)...
+->+[.]"H"(+[matlab],高度)->+[o]"H_out"(+[matlab],+高度)...
+    ->+[.](+[模板文本],+高度)->+[del](,+高度)
+
+
+
+
+## end
+#180, 3:
+958
+## end
+#181, 3:
+476
+## end
+#182, 3:
+553
+## end
+#183, 3:
+961
+## end
+#184, 5:
+82,82
+## end
+#199, 153:
+%{
+Nini, 打开三维场景的transform_3D_frame(节点)
+%}
+
+pt_out=scale*pt;
+[pt_out,Eulers_out]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt_out,Eulers);
+
+
+## end
+#202, 727:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+M代码:...
++[新建阅读窗口](,M代码)
+
+"""
+
++组合体(_结构,_代码)->+[del](,+组合体)...
+->的(组合体,M代码)...
+->的(库,组合体)->的(结构转换,库)->的(组合体转换,结构转换)...
+
+->."空间点"(+组合体,_空间点)->."方向"(+组合体,_方向)...
+
+->[]{
+    []:->在(_结构,空间点)->空间点,->+在(_结构,+空间点)->+空间点"0,0,0"
+}...
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->_结构(,_组合体)...
+->在(_结构,空间点)->朝向(_结构,方向)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.]"pt0"(+[matlab],_空间点)->+[.]"Eulers0"(+[matlab],_方向)...
+->+[做](_组合体,_代码)->+[code](+[做],组合体转换)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.]"空间点"(+[做],+空间点)->+[del](,+空间点)...
+->+[.]"Eulers"(+[matlab],方向)->+[o]"Eulers_out"(+[matlab],+方向)...
+    ->+[.]"方向"(+[做],+方向)->+[del](,+方向)
+
+
+
+## end
+#203, 165:
+%{
+
+%}
+
+
+x_out=scale*x;
+y_out=scale*y;
+H_out=scale*H;
+pt_out=scale*pt;
+
+[pt_out,Eulers_out]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt_out,Eulers);
+
+
+## end
+#204, 292:
+pos=[%空间点]
+eulers=np.deg2rad(np.array([%方向]))
+A=extrude_polygon_add([%x],[%y],%高度)
+A.location=(pos[0],pos[1],pos[2])
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+A.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#207, 921:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
++[新建阅读窗口](,P模板)
+
+"""
+
++多面体(_结构,_代码)->+[del](,+多面体)...
+->的(多面体,P模板)->的(多面体,M代码)...
+
+->."空间点"(+多面体,_空间点)->."方向"(+多面体,_方向)...
+
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,x)->的(_结构,y)->的(_结构,高度)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.]"pt0"(+[matlab],_空间点)->+[.]"Eulers0"(+[matlab],_方向)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"Eulers"(+[matlab],方向)->+[o]"Eulers_out"(+[matlab],+方向)...
+    ->+[.](+[模板文本],+方向)->+[del](,+方向)...
+->+[.]"x"(+[matlab],x)->+[o]"x_out"(+[matlab],+x)...
+    ->+[.](+[模板文本],+x)->+[del](,+x)...
+->+[.]"y"(+[matlab],y)->+[o]"y_out"(+[matlab],+y)...
+    ->+[.](+[模板文本],+y)->+[del](,+y)...
+->+[.]"H"(+[matlab],高度)->+[o]"H_out"(+[matlab],+高度)...
+    ->+[.](+[模板文本],+高度)->+[del](,+高度)
+
+
+
+
+## end
+#208, 407:
+pos=[%空间点]
+eulers=np.deg2rad(np.array([%方向]))
+bpy.ops.mesh.primitive_cylinder_add(radius=%半径,depth=%高度)
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,%高度/2)))
+A.location=(pos[0],pos[1],pos[2])
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+A.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#209, 150:
+%{
+
+%}
+
+
+R_out=scale*R;
+H_out=scale*H;
+pt_out=scale*pt;
+
+[pt_out,Eulers_out]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt_out,Eulers);
+
+
+## end
+#212, 808:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++圆柱体(_结构,_代码)->+[del](,+圆柱体)...
+->的(圆柱体,P模板)->的(圆柱体,M代码)...
+
+->."空间点"(+圆柱体,_空间点)->."方向"(+圆柱体,_方向)...
+
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,半径)->的(_结构,高度)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.]"pt0"(+[matlab],_空间点)->+[.]"Eulers0"(+[matlab],_方向)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"Eulers"(+[matlab],方向)->+[o]"Eulers_out"(+[matlab],+方向)...
+    ->+[.](+[模板文本],+方向)->+[del](,+方向)...
+->+[.]"R"(+[matlab],半径)->+[o]"R_out"(+[matlab],+半径)...
+    ->+[.](+[模板文本],+半径)->+[del](,+半径)...
+->+[.]"H"(+[matlab],高度)->+[o]"H_out"(+[matlab],+高度)...
+    ->+[.](+[模板文本],+高度)->+[del](,+高度)
+
+
+
+
+## end
+#213, 348:
+pos=[%空间点]
+eulers=np.deg2rad(np.array([%方向]))
+bpy.ops.mesh.primitive_plane_add()
+A=bpy.context.selected_objects[0]
+A.location=(pos[0],pos[1],pos[2])
+A.scale=(%宽度/2,%长度/2,1)
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[2]]))
+A.rotation_euler.rotate(mathutils.Euler([eulers[1],0,0]))
+A.rotation_euler.rotate(mathutils.Euler([0,0,eulers[0]]))
+
+
+## end
+#214, 43:
+%{
+
+%}
+
+W=max(max(X))*2;
+L=max(max(Y))*2;
+
+
+## end
+#217, 682:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++平面(_结构,_代码)->+[del](,+平面)...
+->的(平面,P模板)->的(平面,M代码)...
+
+->[]{
+[]:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向):
+->的(_结构,长度)->的(_结构,宽度)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],长度)->+[.](+[模板文本],宽度),
+
+->的(_结构,X)->的(_结构,Y)->的(_结构,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.]"长度"(+[模板文本],+[临时文本]#L)->+[o]"L"(+[matlab],+[临时文本]#L)...
+    ->+[.]"宽度"(+[模板文本],+[临时文本]#W)->+[o]"W"(+[matlab],+[临时文本]#W)
+
+
+
+
+## end
+#218, 629:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+"""
+
++球体(_结构,_代码)->+[del](,+球体)...
+->的(球体,P模板)->的(球体,M代码)...
+
+->."空间点"(+球体,_空间点)->."方向"(+球体,_方向)...
+
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向):
+->的(_结构,半径)...
+    ->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.](+[模板文本],半径),
+
+->的(_结构,X)->的(_结构,Y)->的(_结构,Z)...
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.](+[matlab],X)->+[.](+[matlab],Y)->+[.](+[matlab],Z)...
+->+[模板文本](P模板,_代码)...
+    ->+[.](+[模板文本],空间点)->+[.](+[模板文本],方向)...
+    ->+[.]"半径"(+[模板文本],+[临时文本]#R)->+[o]"R"(+[matlab],+[临时文本]#R)
+
+
+
+
+## end
+#219, 135:
+%{
+
+%}
+
+
+R_out=scale*R;
+pt_out=scale*pt;
+
+[pt_out,Eulers_out]=transform_3D_frame(pt0,Eulers0(1),Eulers0(2),Eulers0(3),pt_out,Eulers);
+
+
+## end
+#220, 135:
+pos=[%空间点]
+bpy.ops.mesh.primitive_uv_sphere_add(radius=%半径)
+A=bpy.context.selected_objects[0]
+A.location=(pos[0],pos[1],pos[2]+%高度/2)
+
+
+## end
+#224, 701:
+"""
++[修改天使]
+Nini, 打开词典的条目(节点)
+P模板:...
+M代码:...
+
+保存:...
+
+"""
+
++球体(_结构,_代码)->+[del](,+球体)...
+->的(球体,P模板)->的(球体,M代码)...
+
+->."空间点"(+球体,_空间点)->."方向"(+球体,_方向)...
+
+->[]{
+    []:->朝向(_结构,方向)->方向,->+朝向(_结构,+方向)->+方向"0,0,0"
+}...
+
+->在(_结构,空间点)->朝向(_结构,方向)...
+->的(_结构,半径)...
+
+->+[matlab](Matlab,)->+[code](+[matlab],M代码)...
+    ->+[.]"pt0"(+[matlab],_空间点)->+[.]"Eulers0"(+[matlab],_方向)...
+->+[模板文本](P模板,_代码)...
+
+->+[.]"pt"(+[matlab],空间点)->+[o]"pt_out"(+[matlab],+空间点)...
+    ->+[.](+[模板文本],+空间点)->+[del](,+空间点)...
+->+[.]"Eulers"(+[matlab],方向)->+[o]"Eulers_out"(+[matlab],+方向)...
+    ->+[.](+[模板文本],+方向)->+[del](,+方向)...
+->+[.]"R"(+[matlab],半径)->+[o]"R_out"(+[matlab],+半径)...
+    ->+[.](+[模板文本],+半径)->+[del](,+半径)
+
+
+## end
+#231, 126:
+
+
+立方体:...
+圆柱体:...
+球体:...
+多面体:...
+组合体:...
+将'组合体'的"ThreeJS"替换为"换"
+将条目"立方体"复制为条目"组合体"
+在'选择区域'中, 将多面体的"宽度"替换为"y"
++[新建阅读窗口](,立方体)
+
+
+## end
+#235, 374:
+"""
+描述结构:...
+库:...
++[新建阅读窗口](,描述结构)
+
+保存:...
+
+"""
+
++结构转换(_结构,_代码)->+[del](,+结构转换)...
+->的(结构转换,库)->的(结构转换,描述结构)...
+
+->."空间点"(+结构转换,_空间点)->."方向"(+结构转换,_方向)...
+
+->+[matlab]"scale=1;"(Matlab,)...
+
+->+[code]([想],描述结构)->[想](,_结构)->操作([想],)...
+->的(操作,_类型)->_类型->的(库,_条目)->_条目->[eq](_类型,_条目)...
+
+->+[做](_结构,_代码)->+[code](+[做],_条目)...
+    ->+[.]"空间点"(+[做],_空间点)->+[.]"方向"(+[做],_方向)
+
+
+
+## end
+#237, 547:
+"""
+结构转换:...
++[修改标题]"结构转换"(,结构转ThreeJS)
+将'结构转换'的"ThreeJS"替换为"换"
++[复制结构](,组合体转换)
+
+"""
+
++组合体转换(_结构体,_输出)->+[del](,+组合体转换)...
+->的(组合体转换,结构转换)...
+
+->+[临时文本]->[]{
+    []=>的(_结构体,_结构)->的(_结构,类型#1)...
+    =>+[做](_结构,+[增加内容])->+[code](+[做],结构转换)...
+    ->[]{
+        []:->."空间点"(+组合体转换,_空间点)->_空间点->+[.]"空间点"(+[做],_空间点)...
+            ->."方向"(+组合体转换,_方向)->_方向->+[.]"方向"(+[做],_方向),
+        ->+[.]"空间点"(+[做],+[临时文本]#pt)->+[临时文本]#pt"0,0,0"...
+            ->+[.]"方向"(+[做],+[临时文本]#an)->+[临时文本]#an"0,0,0"
+    }->+[增加内容](,+[临时文本])
+}...
+
+->+[修改内容](+[临时文本],_输出)
+
+
+
+## end
+#238, 1369:
+import bpy, mathutils, bmesh
+import numpy as np
+
+
+bpy.ops.object.delete()
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+
+def extrude_polygon_add(x,y,height):
+    verts=[]
+    edges=[]
+    faces=[]
+    for i in range(len(x)):
+        verts.append((x[i],y[i],0))
+    for i in range(len(verts)):
+        if i+1<len(verts):
+            edges.append((i,i+1))
+        else:
+            edges.append((i,0))
+    faces.append(range(len(verts)))
+    
+    bpy.ops.mesh.primitive_cube_add()
+    A=bpy.context.selected_objects[0]
+    
+    mesh = A.data
+    bm = bmesh.new()
+    
+    vs=[]
+    for v in verts:
+        vs.append(bm.verts.new(v))  # add a new vert
+    for e in edges:
+        e_gp=(vs[e[0]],vs[e[1]])
+        bm.edges.new(e_gp)
+    
+    # make the bmesh the object's mesh
+    bm.to_mesh(mesh)  
+    bm.free()  # always do this when finished
+    
+    # Go to edit mode, face selection mode and select all faces
+    bpy.ops.object.mode_set( mode   = 'EDIT'   )
+    bpy.ops.mesh.select_mode( type  = 'EDGE'   )
+    bpy.ops.mesh.select_all( action = 'SELECT' )
+    bpy.ops.mesh.fill()
+    
+    bpy.ops.mesh.select_mode( type  = 'FACE'   )
+    bpy.ops.mesh.select_all( action = 'SELECT' )
+    
+    bpy.ops.mesh.extrude_region_move(
+        TRANSFORM_OT_translate={"value":(0, 0, height)}
+    )
+    
+    bpy.ops.object.mode_set( mode = 'OBJECT' )
+    return A
+
+
+
+
+%场景
+## end
+#239, 610:
+import bpy, mathutils
+import numpy as np
+
+bpy.ops.object.select_all()
+bpy.ops.object.delete()
+
+pos=[0.0, 0.0, 0.0]
+bpy.ops.mesh.primitive_cylinder_add(radius=2.0,depth=10.0)
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,10.0/2)))
+A.location=(pos[0],pos[1],pos[2])
+A.rotation_euler=np.deg2rad(np.array([90,45,45]))
+
+pos=[0.0, 0.0, 0.0]
+bpy.ops.mesh.primitive_cube_add()
+A=bpy.context.selected_objects[0]
+A.data.transform(mathutils.Matrix.Translation((0,0,1)))
+A.location=(pos[0],pos[1],pos[2])
+A.scale=(1.0/2,1.0/2,10.0/2)
+A.rotation_euler=np.deg2rad(np.array([0,0,45]))
+
+
+## end
+#243, 363:
+"""
+组合体转换:...
+将'组合体转换'的"ThreeJS"替换为"换"
+
+模板:...
++[修改标题]"组合体转换"(,组合体转ThreeJS)
+Nini, 打开动词(库)
+保存:...
+
+"""
+
++三维场景转Blender_全局(_场景,_输出)->+[del](,+三维场景转Blender_全局)...
+->的(三维场景转Blender_全局,模板)...
+->的(三维场景转Blender_全局,组合体转换)...
+
+->+[做](_场景,+[临时文本])->+[code](+[做],组合体转换)...
+->_输出->+[标题](_输出,)...
+    ->+[模板文本](模板,_输出)...
+    ->+[.]"场景"(+[模板文本],+[临时文本])->+[.](+[模板文本],+[标题])
+
+
+
+## end
+### 结束

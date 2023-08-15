@@ -1,0 +1,393 @@
+### 节点
+地址, P函数, 自动填表, Selenium, P函数, 测试, 的, 的, 的, 的, 网页按键, 目录, 的, 的, 日志, 的, 20210512, 的, xpath, 的, Selenium, 的, 20210513, 的, 操作流程, 的, 进入网页, P函数, 的, 选票, P函数, 的, 输出函数, P函数, 的, 节点数目统计, 20210725, 的, 
+### 关联
+#, 2#, #, #, 5#, #, 10#0, 10#2, 10#3, 10#5, #, #, 11#10, 10#14, #, 14#16, #, 16#18, #, 16#20, #, 14#22, #, 10#24, #, 24#26, #, 26#, 24#29, #, 29#, 24#32, #, 32#, 11#35, #, #, 35#36, 
+### 内容
+#0, 16:
+文档\S应用\网页按键.ftxt
+## end
+#2, 1067:
+"""
++[新建阅读窗口](,自动填表)
++[返回目录](,自动填表)
++[P函数](,自动填表)
+
+"""
+
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import Select
+
+
+driver = webdriver.Chrome('C:/Users/cheng/Dropbox/tools/chromedriver/chromedriver')
+driver.get("http://ppt.mfa.gov.cn/appo/index.html")
+print(driver.title)
+button = driver.find_element_by_xpath("//span[text()='我已知晓']")
+button.click()
+button = driver.find_element_by_xpath("//span[text()='继续未完成的申请预约']")
+button.click()
+input=driver.find_element_by_xpath("//input[@id='recordNumberHuifu']")
+input.send_keys("202104130027246")
+sel=driver.find_element_by_xpath("//select[@id='questionIDHuifu']")
+Select(sel).select_by_visible_text("您父亲的姓名？")
+input=driver.find_element_by_xpath("//input[@id='answerHuifu']")
+input.send_keys("lijialin")
+button = driver.find_element_by_xpath("//span[text()='提交']")
+button.click()
+
+while True:
+    try:
+        button = driver.find_element_by_xpath("//input[@id='myButton']")
+        button.click()
+        break
+    except:
+        pass
+
+#driver.close()
+
+## end
+#3, 77:
+https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
+## end
+#5, 450:
+"""
++[返回目录](,测试)
++[P函数](,测试)
+
+"""
+
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+
+
+driver = webdriver.Chrome('C:/Users/cheng/Dropbox/tools/chromedriver/chromedriver')
+driver.get("https://www.python.org")
+print(driver.title)
+search_bar = driver.find_element_by_name("q")
+search_bar.clear()
+search_bar.send_keys("getting started with python")
+search_bar.send_keys(Keys.RETURN)
+print(driver.current_url)
+#driver.close()
+
+## end
+#10, 235:
++[返回目录](,网页按键)
+地址::文档\S应用\网页按键.ftxt
+Selenium::https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
++[打开网页](,Selenium)
+
+
+测试(P函数):...
+自动填表(P函数):...
+操作流程:...
+
+接下来我只需要做到两件事情:
+1.在指定的表单中输入内容; 
+2.刷新和检测网页状态. 
+
+日志:...
+
+
+## end
+#11, 48:
+网页按键:...
+创建于 20210512
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#14, 40:
++[返回目录](,日志)
+
+20210512:...
+20210513:...
+
+## end
+#16, 328:
++[返回目录](,20210512)
+
+xpath::https://www.w3schools.com/xml/xpath_syntax.asp
++[打开网页](,xpath)
+关于xpath. 
+怎么按照span的内容找到该span呢? 
+我想看一下selenium里面的element是怎么设计的. 
+用element.text可以看到字. 
+
+用这个, 
+//span[text()='我已知晓']
+可以搜索到所有内容是 我已知晓 的span元素. 
+
+接下来是输入表单和提交
+Selenium::https://selenium-python.readthedocs.io/
++[打开网页](,Selenium)
+很好, 接下来就是等待跳转. 
+
+## end
+#18, 46:
+https://www.w3schools.com/xml/xpath_syntax.asp
+## end
+#20, 39:
+https://selenium-python.readthedocs.io/
+## end
+#22, 258:
++[返回目录](,20210513)
+
+首先把进入选票页面后要做的事情弄完吧. 
+怎么刷新? 用refresh()是可以的. 
+然后是分析有空没空了. 
+用driver.find_elements_by_XX, 可以找到所有满足要求的elements. 
+暂时不做分析工具, 直接找到空位点进去. 
+好了, 先把切换窗口做掉吧. 
+
+用driver.current_window_handle获得当前句柄. 
+用driver.window_handles获得所有句柄. 
+
+好了, 最后做一个可以中断的刷新就行了.
+
+## end
+#24, 84:
++[返回目录](,操作流程)
+
+进入网页(P函数):...
+选票(P函数):...
++[P函数](,进入网页)
++[P函数](,选票)
+
+输出函数(P函数):...
+
+
+## end
+#26, 1223:
+"""
++[新建阅读窗口](,进入网页)
++[返回目录](,进入网页)
++[P函数](,进入网页)
+
+"""
+
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import Select
+
+
+driver = webdriver.Chrome('C:/Users/cheng/Dropbox/tools/chromedriver/chromedriver')
+driver.get("http://ppt.mfa.gov.cn/appo/index.html")
+print(driver.title)
+button = driver.find_element_by_xpath("//span[text()='我已知晓']")
+button.click()
+button = driver.find_element_by_xpath("//span[text()='继续未完成的申请预约']")
+button.click()
+input=driver.find_element_by_xpath("//input[@id='recordNumberHuifu']")
+#input.send_keys("202104130027246")
+input.send_keys("202104060018953")
+#input.send_keys("202104070046525")
+sel=driver.find_element_by_xpath("//select[@id='questionIDHuifu']")
+Select(sel).select_by_visible_text("您父亲的姓名？")
+input=driver.find_element_by_xpath("//input[@id='answerHuifu']")
+input.send_keys("lijialin")
+button = driver.find_element_by_xpath("//span[text()='提交']")
+button.click()
+
+while True:
+    try:
+        button = driver.find_element_by_xpath("//input[@id='myButton']")
+        button.click()
+        break
+    except:
+        pass
+
+main_page=driver.current_window_handle
+print("Window:",len(driver.window_handles))
+
+#driver.close()
+
+## end
+#29, 1430:
+"""
++[新建阅读窗口](,选票)
++[返回目录](,选票)
++[P函数](,选票)
+
+"""
+
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import Select
+
+driver.switch_to.window(main_page)
+finished=False
+while True:
+    driver.refresh()
+    while True:
+        button = driver.find_element_by_xpath("//span[text()='确认']")
+        try:
+            button.click()
+            break
+        except:
+            pass
+    
+    sel=driver.find_element_by_xpath("//select[@id='address']")
+    Select(sel).select_by_visible_text("美国不见面办理")
+    
+    buttons = driver.find_elements_by_xpath("//span[@class='fc-event-title']")
+    
+    for button in buttons:
+        nums=button.text.split('/')
+        if nums[0]<nums[1]:
+            button.click()
+            finished=True
+            break
+    if finished:
+        break
+
+n=0
+print(main_page)
+print(driver.window_handles)
+#for handle in driver.window_handles:
+#    if handle != main_page:
+#        pop_out_page=handle
+pop_out_page=driver.window_handles[-1]
+
+try:
+    driver.switch_to.window(pop_out_page)
+    buttons = driver.find_elements_by_xpath("//input[@value='点击预约']")
+    for button in buttons:
+        button.click()
+        print("Window:",len(driver.window_handles))
+        if len(driver.window_handles)==3:
+            pop_out_page2=driver.window_handles[-1]
+            break
+except:
+    print('failed! ')
+
+driver.switch_to.window(pop_out_page2)
+
+
+
+
+## end
+#32, 2524:
+"""
++[新建阅读窗口](,进入网页)
++[返回目录](,进入网页)
++[P函数](,进入网页)
+
+
+"""
+
+
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import Select
+
+
+
+driver = webdriver.Chrome('C:/Users/cheng/Dropbox/tools/chromedriver/chromedriver')
+driver.get("http://ppt.mfa.gov.cn/appo/index.html")
+print(driver.title)
+button = driver.find_element_by_xpath("//span[text()='我已知晓']")
+button.click()
+button = driver.find_element_by_xpath("//span[text()='继续未完成的申请预约']")
+button.click()
+input=driver.find_element_by_xpath("//input[@id='recordNumberHuifu']")
+
+
+# 档案号
+input.send_keys("202104130027246")
+#input.send_keys("202104070046525")
+sel=driver.find_element_by_xpath("//select[@id='questionIDHuifu']")
+
+
+# 选择问题
+Select(sel).select_by_visible_text("您父亲的姓名？")
+input=driver.find_element_by_xpath("//input[@id='answerHuifu']")
+
+
+# 问题答案
+input.send_keys("lijialin")
+button = driver.find_element_by_xpath("//span[text()='提交']")
+button.click()
+
+
+while True:
+    try:
+        # button = driver.find_element_by_xpath("//input[@id='myButton']")
+        button = driver.find_element_by_xpath("//input[@value='进入预约']")
+        button.click()
+        break
+    except:
+        pass
+
+
+main_page=driver.current_window_handle
+print("Window:",len(driver.window_handles))
+
+
+#driver.close()
+
+
+
+finished=False
+while True:
+    while True:
+        try:
+            button = driver.find_element_by_xpath("//span[text()='确认']")
+            button.click()
+            break
+        except:
+            pass
+    
+    sel=driver.find_element_by_xpath("//select[@id='address']")
+    Select(sel).select_by_visible_text("美国不见面办理")
+    
+    buttons = driver.find_elements_by_xpath("//span[@class='fc-event-title']")
+    
+    for button in buttons:
+        nums=button.text.split('/')
+        if nums[0]<nums[1]:
+            button.click()
+            finished=True
+            break
+    if finished:
+        break
+    driver.refresh()
+
+
+n=0
+print(main_page)
+print(driver.window_handles)
+#for handle in driver.window_handles:
+#    if handle != main_page:
+#        pop_out_page=handle
+pop_out_page=driver.window_handles[-1]
+
+
+try:
+    driver.switch_to.window(pop_out_page)
+    buttons = driver.find_elements_by_xpath("//input[@value='点击预约']")
+    for button in buttons:
+        button.click()
+        print("Window:",len(driver.window_handles))
+        if len(driver.window_handles)==3:
+            pop_out_page2=driver.window_handles[-1]
+            break
+except:
+    print('failed! ')
+
+
+driver.switch_to.window(pop_out_page2)
+
+
+
+
+
+
+
+
+
+## end
+#36, 2:
+38
+## end
+### 结束

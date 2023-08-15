@@ -1,0 +1,441 @@
+### 节点
+地址, 的, 衍射, 目录, 的, 的, 圆孔衍射, html, 的, 参考, 打开网页, 的, 的, 的, 的, 表达式, 的, [1]., 公式, 的, 验证公式, 的, J_1, 圆孔衍射, 的, 记忆, 圆孔衍射, 的, 零点位置, 的, func_peak, 的, 地址, func_peak, 的, func_peak, 的, 零点位置和系数关系, 的, 验证场景, 手, 的, 波前2, 的, 验证模拟, 的, [2]., 表达式, 的, 公式, 的, 起点, 的, 的, [3]., 表达式, 的, 公式, 起点, 的, 的, [4]., 表达式, 的, 公式, 起点, 的, 的, 验证公式2, 的, [5]., 表达式, 的, 公式, 起点, 的, 的, [6]., 表达式, 的, 公式, 起点, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 6#, 6#9, #, #9, 6#15, 6#16, 6#17, 6#18, #, 17#15, #, 17#, 6#20, #, 20#22, #, #6, 25#23, 3#, #, 20#28, #, 28#30, #, 30#32, #, #30, 25#33, #, 20#37, #, 6#39, #, #39, 39#42, #, 6#44, #, 6#46, #, #, 46#47, 46#, 6#del, #del, 47#51, 6#54, #, #, 54#55, 54#, #del, 55#58, 6#61, #, #, 61#62, 61#, #del, 62#65, 6#68, #, 6#70, #, #, 70#71, 70#, #del, 71#74, 6#77, #, #, 77#78, 77#, #del, 78#81, 
+### 内容
+#0, 15:
+文档\物理问题\衍射.ftxt
+## end
+#2, 122:
++[返回目录](,衍射)
+地址::文档\物理问题\衍射.ftxt
+
+
+
+Nini, 打开数据中心的截面分布(节点)
+
+Nini, 导入网页画板的库
+Nini, 导入公式分析器的库. Nini, 导入公式结构的库
+
+圆孔衍射(html):...
+
+## end
+#3, 46:
+衍射:...
+创建于 20220525
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 978:
+<!--
+记住圆孔衍射(节点)
++[H函数](,圆孔衍射)
+
+参考::https://en.wikipedia.org/wiki/Diffraction#Circular_aperture
++[打开网页](,参考)
+-->
+<h2>Circulat aperture</h2>
+The far-field diffraction of a plane wave incident on a circular aperture is,
+%[1].
+Here \(a\) is the radius of the circular aperture. 
+<br><br>
+The first zero point of \(J_1(z)\) is \(z=3.83170597020751\). If a dust had diameter \(a\), the shadow diameter, \(D\), could be estimated by,
+%[2].
+%[3].
+%[4].
+Which means the propagation distance \(L\) is proportional to the square of \(a\). To make \(D/a=1\), then we will have,
+%[5].
+%[6].
+
+For lab parameters, there are some estimations,
+$$
+\lambda=800\ nm,\ a=1.00\ mm,\ L=2.05\ m
+$$$$
+\lambda=800\ nm,\ a=5.00\ mm,\ L=51.24\ m
+$$
+
+
+<!--
+[6].:
+将"I(\theta)=I_0*(\frac{2*J_1(k*a*sin(\theta))}{k*a*sin(\theta)})^2"记作(1)式
+将"L=\frac{2*\pi*a^2}{z_0*\lambda}"记作为式(6)
+式(6)转换为"Matlab"
+
+Nini, 打开公式分析器(文件)
+
++[H函数](,圆孔衍射)
+验证公式:...
+验证公式2:...
+验证场景:...
+验证模拟:...
++[新建阅读窗口](,验证公式2)
+将(1)式写入验证公式(Matlab)
+-->
+## end
+#9, 59:
+https://en.wikipedia.org/wiki/Diffraction#Circular_aperture
+## end
+#15, 64:
+I(\theta)=I_0*(\frac{2*J_1(k*a*sin(\theta))}{k*a*sin(\theta)})^2
+## end
+#17, 83:
+I(\theta)=I_0\ \left(\frac{2\ J_1(k\ a\ sin(\theta))}{k\ a\ sin(\theta)}\right)^{2}
+## end
+#20, 950:
+%{
++[M函数](,验证公式)
+
+J_1::https://www.mathworks.com/help/matlab/ref/besselj.html
+零点位置:J_1的零点...
+零点位置和系数关系:...
++[新建阅读窗口](,零点位置和系数关系)
+%}
+
+physics_constant;
+
+I_0=1;
+a=1e-4;
+lm0=800e-9;
+L=0.5;
+J_1=@(z)besselj(1,z);
+
+J1_zeros=[3.83170597020751 7.01558666981562 10.1734681350627 13.3236919363142 16.4706300508776];
+
+x=linspace(-1e-2,1e-2,1000);
+y=linspace(-1e-2,1e-2,1000);
+
+k=2*pi/lm0;
+theta=atan(x/L);
+
+[Y,X]=meshgrid(y,x);
+R=sqrt(X.^2+Y.^2);
+Theta=atan(R/L);
+
+I=I_0.*((2.*J_1(k.*a.*sin(theta)))./(k.*a.*sin(theta))).^(2);
+II=I_0.*((2.*J_1(k.*a.*sin(Theta)))./(k.*a.*sin(Theta))).^(2);
+
+II1=II;
+II1(II1>0.02)=0.02;
+
+figure
+subplot(1,2,1)
+plot(x/1e-3,I);
+xlabel('x [mm]')
+axis([min(x)/1e-3,max(x)/1e-3,0,0.02])
+
+subplot(2,2,2)
+surf(X/1e-3,Y/1e-3,II);
+shading interp
+view([0,90])
+xlabel('X [mm]')
+ylabel('Y [mm]')
+axis equal
+
+subplot(2,2,4)
+surf(X/1e-3,Y/1e-3,II1);
+shading interp
+view([0,90])
+xlabel('X [mm]')
+ylabel('Y [mm]')
+axis equal
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#22, 54:
+https://www.mathworks.com/help/matlab/ref/besselj.html
+## end
+#28, 606:
+%{
++[M函数](,零点位置)
+
+J_1::https://www.mathworks.com/help/matlab/ref/besselj.html
+func_peak:...
+%}
+
+clf
+physics_constant;
+addpath('Matlab\funcs');
+
+Dx=200;
+dx=0.1;
+J_1=@(z)besselj(1,z);
+
+x=linspace(0,Dx,Dx/dx);
+y=J_1(x);
+
+range_x=func_peak(x,y);
+f_zeros=[];
+
+N=100;
+for i=1:length(range_x)-1
+x0=func_zero(J_1,range_x(i),range_x(i+1),N);
+f_zeros(end+1)=x0;
+end
+n=1:length(f_zeros);
+
+
+subplot(1,2,1)
+plot(x,J_1(x),f_zeros,J_1(f_zeros),'r*');
+subplot(2,2,2)
+plot(n,f_zeros)
+subplot(2,2,4)
+plot(diff(f_zeros),'b.-')
+axis([0,max(n),0,4])
+mean(diff(f_zeros))
+
+%{
+记住"Matlab"
+clipboard('copy',f_zeros)
++[M函数](,零点位置)
+%}
+## end
+#30, 243:
+%{
+地址::Matlab\funcs\func_peak.m
++[保存M函数](,func_peak)
+%}
+
+function range_x=func_peak(x,y)
+%x=linspace(-Dx,Dx,Dx/dx);
+%y=J_1(x);
+
+range_x=[];
+for i=2:length(x)-1
+    if (y(i)-y(i-1))*(y(i)-y(i+1))>0
+        range_x(end+1)=x(i);
+    end
+end
+
+end
+
+## end
+#32, 24:
+Matlab\funcs\func_peak.m
+## end
+#37, 373:
+%{
++[M函数](,零点位置和系数关系)
+%}
+
+physics_constant;
+
+A=40;
+B=1;
+J_1=@(z)besselj(1,z);
+I=@(t)((2.*J_1(A*sin(t)))./(A*sin(t))).^(2);
+
+x=linspace(0,pi/2,10000);
+y=I(x);
+
+
+
+range_x=func_peak(x,y);
+range_x=range_x(1:2:end)
+
+clf
+subplot(1,2,1)
+plot(x,y,range_x,I(range_x))
+set(gca,'yScale','log')
+subplot(2,2,2)
+plot(range_x)
+subplot(2,2,4)
+plot(diff(range_x))
+
+
+%{
++[M函数](,零点位置和系数关系)
+%}
+## end
+#39, 1125:
++[显示星图](,示意图场景)
++[显示PPT场景]"2"(,图形)
+记住示意图场景(节点)
+记住"自然语言"
+Nini, 打开PPT(文件)
+
+图形::
++[设置结构](,图形)
+图形有平面2
++[调用词典动词](+[做],+有)->+[做](图形#26,平面1#33)->[]->图形#26->[]->平面1#33
+
+平面1::
+平面2::
+光束0::
+波前1:...
+波前2:...
++[设置结构](,平面2)
++[matlab]"axis normal"(Matlab,)
++[matlab]"axis equal"(Matlab,)
+
+平面1是长方形"0.1e-2,1e-2"
+平面2是长方形"0.1e-2,1e-2"
+平面1在"0,0". 平面2距离平面1为"8,0"
+
+平面2旋转"-45"
+平面2绕平面1旋转"45"
+平面2绕"0.2,0"旋转"-45"
+平面2绕标记点"1"旋转"-45"
+平面2绕标记点"2"旋转"45"
+
+在屏幕中添加标记点
+平面2在标记点"2"
+
+
+光束0离开平面1
+光束0到达平面2
+当光束0离开平面1, 光束0的波前是波前1
+当光束0到达平面2, 光束0的波前是波前2
+光束0的波长是"800e-9"
+
+波前1:...
++[设置结构](,波前1)
+波前1是二维函数"D=0.5e-2;f=exp(-(x.^2+y.^2)/D^2);"
+波前1的x是采样点"-1e-2,1e-2,1000". 波前1的y是采样点"-1e-2,1e-2,1000"
+显示波前1的二维函数
+显示波前1的截面分布
+
+波前2:...
++[设置结构](,波前2)
+波前2是二维函数
+波前2的x是采样点"-1e-2,1e-2,100". 波前2的y是采样点"-1e-2,1e-2,100"
+计算波前2的波前
+分析波前2的波前
++[调用词典动词](+[做],+计算)->+[做](,+[波前]#25)->[]->[]->+[.](波前2#24,+[波前]#25)->+[波前]#25
+
+平面2距离平面1为"1,0". 分析波前2的波前
+计算波前2的波前. 显示波前2的二维函数
+
+显示波前2的二维函数
+显示波前2的截面分布
++[调用词典动词](+[做],+显示)->+[做](,+[截面分布]#25)->[]->[]->+[.](波前2#24,+[截面分布]#25)->+[截面分布]#25
+
+
+波前1是二维函数"D=0.5e-2;f=exp(-(x.^2+y.^2)/D^2);f(sqrt(x.^2+y.^2)<D*0.1)=0;"
+显示波前1的二维函数
+计算波前2的波前. 显示波前2的二维函数
+
+
+Nini, 打开动词(库)
+
+
+
+## end
+#44, 911:
+%{
++[M函数](,验证模拟)
+Nini, 打开词典的条目(节点)
+%}
+
+
+physics_constant;
+addpath('Matlab\optics');
+addpath('Matlab\space');
+
+lm0=800e-9;
+r0=0.3e-3;
+Dr0=0.5e-4;
+pt_0=[0.05,0.05]*1e-3;
+
+d0=1e-3;
+d1=1e-3;
+z1=0.5;
+z1=0.002;
+
+x0=linspace(-1,1,100)*d0/2;
+y0=linspace(-1,1,100)*d0/2;
+x1=linspace(-1,1,100)*d1/2;
+y1=linspace(-1,1,100)*d1/2;
+
+dx0=x0(2)-x0(1);
+dy0=y0(2)-y0(1);
+
+[Y0,X0]=meshgrid(y0,x0);
+Z0=0*ones(size(X0));
+f0=exp(-(X0.^2+Y0.^2)/r0^2);
+R=sqrt((X0-pt_0(1)).^2+(Y0-pt_0(2)).^2);
+f0(R<Dr0)=0;
+
+[Y1,X1]=meshgrid(y1,x1);
+Z1=z1*ones(size(X1));
+
+f1=WavefrontPropagation(X1,Y1,Z1,f0,X0,Y0,Z0,lm0,dx0,dy0);
+
+clf
+subplot(1,2,1)
+surf(X0/1e-3,Y0/1e-3,abs(f0).^2)
+view([0,90])
+shading interp
+axis equal
+xlabel('X [mm]')
+ylabel('Y [mm]')
+title('Z=0 cm')
+
+subplot(1,2,2)
+surf(X1/1e-3,Y1/1e-3,abs(f1).^2)
+view([0,90])
+shading interp
+axis equal
+xlabel('X [mm]')
+ylabel('Y [mm]')
+title(sprintf('Z=%.2f cm',z1/1e-2))
+
+%{
++[M函数](,验证模拟)
+%}
+## end
+#46, 21:
+k\ a\ sin(\theta)=z_0
+## end
+#47, 19:
+k*a*sin(\theta)=z_0
+## end
+#54, 35:
+\theta=\frac{D}{L}=\frac{z_0}{k\ a}
+## end
+#55, 34:
+\theta=\frac{D}{L}=\frac{z_0}{k*a}
+## end
+#61, 73:
+\frac{D}{a}=\frac{z_0\ L}{k\ a^{2}}=\frac{z_0\ L\ \lambda}{2\ \pi\ a^{2}}
+## end
+#62, 63:
+\frac{D}{a}=\frac{z_0*L}{k*a^2}=\frac{z_0*L*\lambda}{2*\pi*a^2}
+## end
+#68, 234:
+%{
++[M函数](,验证公式2)
+%}
+
+physics_constant;
+
+lm0=800e-9;
+
+a=5e-3;
+L=1;
+z_0=3.83170597020751;
+
+D=(z_0.*L.*lm0)./(2.*pi.*a);
+L=(2.*pi.*a.^(2))./(z_0.*lm0);
+
+disp(sprintf('D=%.3f mm,L=%.2f m,a=%.2f mm',D/1e-3,L,a/1e-3))
+
+%{
++[M函数](,验证公式2)
+%}
+## end
+#70, 39:
+\frac{z_0\ L\ \lambda}{2\ \pi\ a^{2}}=1
+## end
+#71, 33:
+\frac{z_0*L*\lambda}{2*\pi*a^2}=1
+## end
+#77, 36:
+L=\frac{2\ \pi\ a^{2}}{z_0\ \lambda}
+## end
+#78, 31:
+L=\frac{2*\pi*a^2}{z_0*\lambda}
+## end
+### 结束

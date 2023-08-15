@@ -1,0 +1,2409 @@
+### 节点
+地址, 的, 光路场景, 目录, 的, 的, 三维建模, 的, 镜子, html, 的, 画图程序, P函数, 的, 地址, 的, 透镜参数, 圆形, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, HTML, 的, 选中区域, 的, 的, 输入, 的, 的, 输出, 类型, 画图, 的, 的, 的, 的, 图形, 选中框, 输出, 输入, 的, 的, 的, 的, 的, 的, 的, 线粗细, 线型, 线颜色, 面颜色, 角度, 半径, 中心, 矩形, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 类型, 选中区域, 的, 的, 输出, HTML, 的, 的, 输出, 输入, 的, 的, 的, 的, 的, 的, 的, 的, 面颜色, 线颜色, 线型, 线粗细, 文字, 字体, 起点, 尺寸, 比例, 的, 尺寸, 的, 原点, 的, 坐标系, 中心, 半径, 角度, 面颜色, 线颜色, 线型, 线粗细, 的, 的, 的, 的, 的, 的, 的, 输入, 输出, 选中框, 图形, 的, 的, 的, 的, 画图, 类型, 输出, 的, 的, 输入, 的, 的, 选中区域, 的, HTML, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 圆形, 的, 直线, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线粗细, 线型, 线型, 线粗细, 线颜色, 终点, 起点, 的, 的, 的, 的, 的, 输入, 的, HTML, LaTeX数学记号, 的, 点线公式, 输出, 的, 的, 输入, 的, 的, 的, 选中区域, 类型, 选中框, 图形, 输出, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 的, 的, 的, 的, 的, 直线, 的, 的, 验证透镜, M函数, 的, 透镜焦距, 的, 验证柱面镜, M函数, 的, 画柱面镜, P函数, 的, 地址, 的, 网页画板, 的, 镜架, 的, 导出模型, 的, 导入模型, 的, 测试导入, P函数, 的, 地址, 的, 安装lens, P函数, 的, 地址, 的, 安装1'lens, P函数, 的, 的, 镜架模型, 的, 安装2'lens, P函数, 的, 的, 安装1'mirror, P函数, 的, 的, 安装2'mirror, P函数, 的, 的, 节点数目统计, 20210712, 的, 的, 函数库, P函数, 的, 地址, 的, 安装cylindrical_mirror, P函数, 的, 激光, 的, 光路, 的, 的, 地址, 的, 参考1, 的, 参考2_半径, 的, 设置材料1, 的, 设置材料2, 的, 设置材料3, 20210713, 的, 的, 圆柱和立方体, 的, 参考, 的, 测试, 的, 地址, 20220728, 的, 的, 测试代码, P函数, 的, 地址, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 8#, 8#11, #, 11#, 11#14, #, 8#16, #, #, 16#17, 17#30, 17#56, 17#57, 17#58, 17#59, 17#32, 17#60, 17#39, 17#40, 17#61, 17#62, #, 30#48, #, 32#35, 32#38, #, 35#61, 35#62, #, #, #, 40#45, 40#46, 40#47, 40#48, #, #, #, #, 48#56, 48#57, 48#58, 48#59, 48#60, 48#61, 48#62, #, #, #, #, #, #, #, #, 16#63, 63#77, 63#85, 63#107, 63#86, 63#103, 63#104, 63#105, 63#106, 63#108, 63#90, 63#109, 63#110, #, 77#94, 77#82, 77#83, 77#84, #, #, #, #, #, 86#89, 86#94, #, #, 90#93, 90#94, #, #, 94#103, 94#104, 94#105, 94#106, 94#107, 94#108, 94#110, 94#109, #, #, #, #, #, #, #, #, #, 117#111, #, 117#113, #, 117#115, 16#, #, #, #, #, #, #, #, 132#118, 132#119, 132#120, 132#121, 132#122, 132#123, 132#124, #, #, #, #, 140#132, 140#133, 140#134, 140#135, #, #, #, 145#118, 145#119, #, 148#142, 148#145, #, 150#132, #, 162#118, 162#119, 162#140, 162#141, 162#120, 162#148, 162#121, 162#122, 162#123, 162#124, 162#150, #, 16#162, #, 16#164, 164#203, 164#204, 164#175, 164#183, 164#184, 164#205, 164#206, 164#195, 164#207, #, 175#197, 175#180, 175#181, 175#182, #, #, #, #, #, 184#188, 184#191, 184#192, #, 188#203, 188#204, #, #, 192#194, #, #, 195#197, #, 197#203, 197#204, 197#205, 197#207, 197#206, #, #, #, #, #, #, #, #, #, #, 218#209, 218#208, 218#210, 218#211, 218#212, #, 220#218, #, #, 223#221, #, #, 227#211, 227#212, #, 231#223, 231#224, 231#227, #, #, #, #, #, 240#233, 240#234, 240#235, 240#218, #, 250#208, 250#220, 250#209, 250#210, 250#231, 250#232, 250#240, 250#211, 250#212, #, 16#250, 8#253, #, 253#, 8#256, #, 8#258, #, 258#, 8#261, #, 261#, 261#264, #, 2#266, #, 2#268, #, 268#270, #, 268#272, #, 268#274, #, 274#, 274#277, #, 268#279, #, 279#, 279#282, #, 279#284, #, 284#, 284#282, 268#288, #, 279#290, #, 290#, 290#282, 279#294, #, 294#, 294#282, 279#298, #, 298#, 298#282, 3#302, #, #, 302#303, 268#306, #, 306#, 306#309, #, 279#311, #, 311#, 2#314, #, 2#316, #, 2#306, 316#319, #, 316#321, #, 316#323, #, 316#325, #, 316#327, #, 316#329, #, #, 302#330, 306#333, #, 333#335, #, 333#337, #, 337#339, #, #, 302#340, 2#343, #, 343#, 343#346, #, 
+### 内容
+#0, 16:
+文档\S应用\光路场景.ftxt
+## end
+#2, 252:
++[返回目录](,光路场景)
+地址::文档\S应用\光路场景.ftxt
+
+三维建模::文档\S应用\三维建模.ftxt
++[打开文件](+新窗口,三维建模)
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+
+镜子(html):...
+镜架:...
+光路:...
+函数库:...
+测试代码(P函数):...
++[新建阅读窗口](,测试代码)
+
+激光::https://www.youtube.com/watch?v=4HhavlMLV6k
++[打开网页](,激光)
+
+
+
+## end
+#3, 48:
+光路场景:...
+创建于 20210708
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 16:
+文档\S应用\三维建模.ftxt
+## end
+#8, 823:
+<!--
++[H函数](,镜子)
+
+透镜焦距::文档\物理问题\透镜焦距.ftxt
++[打开文件](+新窗口,透镜焦距)
+
+透镜参数:...
++[画板](+新画板,透镜参数)
+-->
+
+需要弄4种元件: 方形镜子, 圆形镜子, 柱面镜, 透镜. <br>
+<br>
+方形镜子: 高, 宽, 厚度; <br>
+柱面镜: 高, 宽, 厚度, 焦距; <br>
+圆形镜子: 直径, 厚度; <br>
+透镜: 直径, 中心厚度, 前表面半径, 后表面半径. <br>
+<br>
+<b><u>透镜</u></b><br>
+圆弧的起始角度是, 
+$$
+sin(\theta_i)=\frac{D}{2 R_i}
+$$
+中心厚度和边缘厚度的关系是, 
+$$
+d_c=d_e+R_1(1-cos \theta_1)+R_2(1-cos \theta_2)
+$$$$
+d_e=d_c-R_1(1-cos \theta_1)-R_2(1-cos \theta_2)
+$$
+而后, 前后表面球心的高度分别是, 
+$$
+z_1=-R_1 cos \theta_1
+$$$$
+z_2=R_2 cos \theta_1-d_e
+$$
+<br>
+<b><u>柱面镜</u></b><br>
+假设柱面镜的高度是\(H\), 宽度是\(D\), 中心厚度是\(d_c\), 焦距是\(f\).<br>
+柱面镜的半径, \(R\) 是焦距的两倍. 曲面形状为圆形. 函数关系可以直接参考上面透镜的参数. <br>
+于是, 曲面的圆心高度和起止角度分别是, 
+$$
+sin\theta_0=\frac{D}{2 R}
+$$$$
+z_0=R 
+$$
+
+
+<!--
+验证透镜(M函数):...
+验证柱面镜(M函数):...
++[修改内容](验证透镜,验证柱面镜)
+画图程序(P函数):...
+画柱面镜(P函数):...
++[修改内容](画图程序,画柱面镜)
++[H函数](,镜子)
+-->
+## end
+#11, 1197:
+"""
++[返回目录](,画图程序)
+地址::文档\输出\20210708\drawing.py
++[保存文本](,画图程序)
++[新建阅读窗口](,画图程序)
+
+"""
+
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+D=1
+dc=0.1
+R1=10
+R2=-2
+N1=200
+N2=200
+N=N1+N2
+
+theta1=np.arcsin(D/2/R1)
+theta2=np.arcsin(D/2/R2)
+de=dc-R1*(1-np.cos(theta1))-R2*(1-np.cos(theta2))
+z01=-R1*np.cos(theta1)
+z02=R2*np.cos(theta2)-de
+
+t1=np.linspace(0,theta1,N1)
+t2=np.linspace(-theta2,0,N2)+np.pi
+
+x1=R1*np.sin(t1)
+z1=R1*np.cos(t1)+z01
+x2=R2*np.sin(t2)
+z2=R2*np.cos(t2)+z02
+
+x=np.concatenate((x1,x2))
+z=np.concatenate((z1,z2))
+y=0*z
+
+ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=N-2)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Curve"
+bez_points = curve.data.splines[0].bezier_points
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],z[i]))
+    if i>0:
+        bez_points[i].handle_left_type='VECTOR'
+    if i<N-1:
+        bez_points[i].handle_right_type='VECTOR'
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Z'
+screw.angle=2*np.pi
+screw.render_steps=64
+screw.steps=64
+
+
+
+
+
+## end
+#14, 25:
+文档\输出\20210708\drawing.py
+## end
+#17, 145:
++[返回目录](,圆形)
+
+中心::200,100
+半径::100
+类型::圆形
+角度::0
+
+
+面颜色::255,255,0
+线颜色::None
+线型::SolidLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+## end
+#30, 519:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.beginPath();
+ctx.arc(%中心,%半径,0,2*Math.PI)
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fill();
+}
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(0,0,0)';
+} else {
+        ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        if('%线型'==='DashLine') {
+            ctx.setLineDash([5,5])
+        }
+        ctx.stroke();
+}
+
+ctx.setLineDash([])
+
+//ctx.stroke()
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#32, 164:
+"""
++[返回目录](,选中区域)
+输入:...
+
+"""
+
+pt=中心
+r=半径[0]
+pt0=mouse_pos
+
+Dx=pt[0]-pt0[0]
+Dy=pt[1]-pt0[1]
+Dr=np.sqrt(Dx**2+Dy**2)
+
+if Dr<=r:
+    state=True
+else:
+    state=False
+## end
+#35, 39:
++[返回目录](,输入)
++[内容]
+中心::200,100
+半径::100
+
+## end
+#38, 14:
++[返回目录]
++[内容]
+
+## end
+#39, 2:
+圆形
+## end
+#40, 692:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen(QColor(0,0,0,0)))
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#45, 692:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen(QColor(0,0,0,0)))
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#46, 493:
+"""
++[返回目录](,选中框)
+
+"""
+
+X=[pt[0],pt[0]+r*np.cos(theta),pt[0]+r]
+Y=[pt[1],pt[1]-r*np.sin(theta),pt[1]]
+R=6
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+
+qp.setPen(QPen(Qt.black,1,Qt.DashLine))
+qp.drawLine(X[0],Y[0],X[1],Y[1])
+qp.setPen(QPen(Qt.black,1,Qt.SolidLine))
+qp.drawLine(X[0],Y[0],X[2],Y[2])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+
+
+## end
+#48, 66:
++[返回目录](,输入)
+
+角度::0
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#56, 1:
+2
+## end
+#57, 9:
+SolidLine
+## end
+#58, 5:
+0,0,0
+## end
+#59, 4:
+None
+## end
+#60, 17:
+-93.3664606634298
+## end
+#61, 17:
+75.23961722390672
+## end
+#62, 12:
+-38.0, -67.0
+## end
+#63, 149:
++[返回目录](,矩形)
++[设置结构](,矩形)
+
+起点::-200,100
+尺寸::100,100
+类型::矩形
+文字::
+字体::10
+
+面颜色::255,255,255
+线颜色::0,0,0
+线型::SolidLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+
+
+
+## end
+#77, 1007:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+pt=起点
+size=尺寸
+size_F=字体[0]
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen(QColor(0,0,0,0)))
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(pt[0],pt[1],size[0],size[1],Qt.AlignHCenter|Qt.AlignVCenter,文字)
+qp.setFont(QFont())
+
+#if isinstance(文字,str):
+#    qp.setFont(QFont("Decorative",size_F))
+#    dy=size_F*1.4
+#    dx=len(文字)*size_F*1.65
+#    qp.drawText(pt[0]-dx/2+size[0]/2,pt[1]+dy/2+size[1]/2,文字)
+#    qp.setFont(QFont())
+
+
+
+
+
+## end
+#83, 677:
+"""
++[返回目录](,选中框)
+
+"""
+
+
+X=[pt[0],pt[0]+size[0]/2,pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]/2,pt[1]+size[1]]
+R=6
+
+qp.setBrush(QBrush())
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[0]-R,2*R,2*R)
+
+if size[0]>30 or size[0]<-30:
+    qp.drawEllipse(X[1]-R,Y[0]-R,2*R,2*R)
+    qp.drawEllipse(X[1]-R,Y[2]-R,2*R,2*R)
+
+if size[1]>30 or size[1]<-30:
+    qp.drawEllipse(X[0]-R,Y[1]-R,2*R,2*R)
+    qp.drawEllipse(X[2]-R,Y[1]-R,2*R,2*R)
+
+
+qp.drawEllipse(X[0]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+## end
+#84, 1007:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+pt=起点
+size=尺寸
+size_F=字体[0]
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen(QColor(0,0,0,0)))
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(pt[0],pt[1],size[0],size[1],Qt.AlignHCenter|Qt.AlignVCenter,文字)
+qp.setFont(QFont())
+
+#if isinstance(文字,str):
+#    qp.setFont(QFont("Decorative",size_F))
+#    dy=size_F*1.4
+#    dx=len(文字)*size_F*1.65
+#    qp.drawText(pt[0]-dx/2+size[0]/2,pt[1]+dy/2+size[1]/2,文字)
+#    qp.setFont(QFont())
+
+
+
+
+
+## end
+#85, 2:
+矩形
+## end
+#86, 231:
+"""
++[返回目录](,选中区域)
+输入:...
++[设置结构](,输入)
+
+"""
+
+pt=起点
+pt0=mouse_pos
+size=尺寸
+
+X=[pt[0],pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]]
+
+if (pt0[0]-X[0])*(pt0[0]-X[1])<=0 and (pt0[1]-Y[0])*(pt0[1]-Y[1])<=0:
+    state=True
+else:
+    state=False
+
+
+## end
+#89, 14:
++[返回目录]
++[内容]
+
+## end
+#90, 754:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+
+var size=[%尺寸];
+var pos=[%起点];
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(255,255,255)';
+} else {
+	ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细
+        if('%线型'==='DashLine') {
+            ctx.setLineDash([5,5])
+        };
+        ctx.strokeRect(%起点,%尺寸);
+}
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fillRect(%起点,%尺寸);
+}
+
+ctx.setLineDash([])
+
+//ctx.strokeStyle='rgb(%线颜色)';
+//ctx.lineWidth=%线粗细;
+//ctx.strokeRect(%起点,%尺寸);
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font=%字体*2+'px serif'
+ctx.fillText('%文字',pos[0]+size[0]/2,pos[1]+size[1]/2);
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#93, 14:
++[返回目录]
++[内容]
+
+## end
+#94, 101:
++[返回目录](,输入)
+
+面颜色::255,255,255
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+文字::测试
+字体::20
+尺寸::100,100
+起点::-200,100
+
+## end
+#103, 11:
+255,255,255
+## end
+#104, 5:
+0,0,0
+## end
+#105, 9:
+SolidLine
+## end
+#106, 1:
+2
+## end
+#107, 1:
+ 
+## end
+#108, 2:
+10
+## end
+#109, 39:
+-97.88185000000001, -112.40253000000001
+## end
+#110, 12:
+119.0, 10.25
+## end
+#111, 18:
+0.7703019404190007
+## end
+#113, 8:
+958, 476
+## end
+#115, 14:
+-100.0, -100.0
+## end
+#118, 39:
+-38.51509702095004, -230.04177567634102
+## end
+#119, 18:
+142.38586469126193
+## end
+#120, 17:
+-93.3664606634298
+## end
+#121, 4:
+None
+## end
+#122, 5:
+0,0,0
+## end
+#123, 9:
+SolidLine
+## end
+#124, 1:
+2
+## end
+#132, 66:
++[返回目录](,输入)
+
+角度::0
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#134, 493:
+"""
++[返回目录](,选中框)
+
+"""
+
+X=[pt[0],pt[0]+r*np.cos(theta),pt[0]+r]
+Y=[pt[1],pt[1]-r*np.sin(theta),pt[1]]
+R=6
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+
+qp.setPen(QPen(Qt.black,1,Qt.DashLine))
+qp.drawLine(X[0],Y[0],X[1],Y[1])
+qp.setPen(QPen(Qt.black,1,Qt.SolidLine))
+qp.drawLine(X[0],Y[0],X[2],Y[2])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+
+
+## end
+#135, 692:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen(QColor(0,0,0,0)))
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#140, 692:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0 or 线颜色=='None':
+    qp.setPen(QPen(QColor(0,0,0,0)))
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#141, 2:
+圆形
+## end
+#142, 14:
++[返回目录]
++[内容]
+
+## end
+#145, 39:
++[返回目录](,输入)
++[内容]
+中心::200,100
+半径::100
+
+## end
+#148, 164:
+"""
++[返回目录](,选中区域)
+输入:...
+
+"""
+
+pt=中心
+r=半径[0]
+pt0=mouse_pos
+
+Dx=pt[0]-pt0[0]
+Dy=pt[1]-pt0[1]
+Dr=np.sqrt(Dx**2+Dy**2)
+
+if Dr<=r:
+    state=True
+else:
+    state=False
+## end
+#150, 519:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.beginPath();
+ctx.arc(%中心,%半径,0,2*Math.PI)
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fill();
+}
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(0,0,0)';
+} else {
+        ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        if('%线型'==='DashLine') {
+            ctx.setLineDash([5,5])
+        }
+        ctx.stroke();
+}
+
+ctx.setLineDash([])
+
+//ctx.stroke()
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#162, 145:
++[返回目录](,圆形)
+
+中心::200,100
+半径::100
+类型::圆形
+角度::0
+
+
+面颜色::255,255,0
+线颜色::None
+线型::SolidLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+## end
+#164, 130:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::SolidLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+## end
+#175, 450:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#181, 450:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#182, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#183, 2:
+直线
+## end
+#184, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#188, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#191, 14:
++[返回目录]
++[内容]
+
+## end
+#192, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#194, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#195, 546:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+if('%线型'==='DashLine') {
+    ctx.setLineDash([5,5])
+}
+
+ctx.beginPath();
+ctx.moveTo(%起点);
+ctx.lineTo(%终点)
+ctx.stroke();
+ctx.setLineDash([])
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*//*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+if('%线型'==='DashLine') {
+    ctx.setLineDash([5,5])
+}
+
+ctx.beginPath();
+ctx.moveTo(%起点);
+ctx.lineTo(%终点)
+ctx.stroke();
+ctx.setLineDash([])
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#197, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#203, 38:
+-39.91644864731795, -67.64731850240197
+## end
+#204, 35:
+-98.459396119162, -112.324831046704
+## end
+#205, 5:
+0,0,0
+## end
+#206, 1:
+1
+## end
+#207, 9:
+SolidLine
+## end
+#208, 9:
+SolidLine
+## end
+#209, 1:
+1
+## end
+#210, 5:
+0,0,0
+## end
+#211, 39:
+-38.37584476647994, -140.05570090178804
+## end
+#212, 38:
+-38.37584476647994, -66.87701656198297
+## end
+#218, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#220, 546:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+if('%线型'==='DashLine') {
+    ctx.setLineDash([5,5])
+}
+
+ctx.beginPath();
+ctx.moveTo(%起点);
+ctx.lineTo(%终点)
+ctx.stroke();
+ctx.setLineDash([])
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*//*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+if('%线型'==='DashLine') {
+    ctx.setLineDash([5,5])
+}
+
+ctx.beginPath();
+ctx.moveTo(%起点);
+ctx.lineTo(%终点)
+ctx.stroke();
+ctx.setLineDash([])
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#221, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#223, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#224, 14:
++[返回目录]
++[内容]
+
+## end
+#227, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#231, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#232, 2:
+直线
+## end
+#233, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#234, 450:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#240, 450:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    if lineType=="DashLine":
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth,Qt.DashLine))
+    else:
+        qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#250, 130:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::SolidLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+## end
+#253, 390:
+%{
++[M函数](,验证透镜)
+%}
+
+D=1;
+dc=0.1;
+R1=10;
+R2=-20;
+N=200;
+
+
+theta1=asind(D/2/R1);
+theta2=asind(D/2/R2);
+de=dc-R1*(1-cosd(theta1))-R2*(1-cosd(theta2));
+y01=-R1*cosd(theta1);
+y02=R2*cosd(theta2)-de;
+
+
+t1=linspace(-theta1,theta1,N);
+t2=linspace(-theta2,theta2,N)+180;
+
+x1=R1*sind(t1);
+y1=R1*cosd(t1)+y01;
+x2=R2*sind(t2);
+y2=R2*cosd(t2)+y02;
+
+plot([x1,x2],[y1,y2])
+axis equal
+
+%{
++[M函数](,验证透镜)
+%}
+## end
+#256, 17:
+文档\物理问题\透镜焦距.ftxt
+## end
+#258, 220:
+%{
++[M函数](,验证柱面镜)
+%}
+
+D=3;
+dc=0.1;
+f=1;
+N=200;
+
+R=2*f;
+
+theta0=asind(D/2/R);
+y0=R;
+
+
+t=linspace(-theta0,theta0,N);
+
+x=R*sind(t);
+y=-R*cosd(t)+y0;
+
+plot([x,D/2,-D/2,-D/2],[y,-dc,-dc,y(1)])
+axis equal
+
+%{
++[M函数](,验证柱面镜)
+%}
+## end
+#261, 1075:
+"""
++[返回目录](,画柱面镜)
+地址::文档\输出\20210708\drawing.py
++[保存文本](,画柱面镜)
++[新建阅读窗口](,画柱面镜)
+
+"""
+
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+D=1
+dc=0.1
+f=1
+H=0.5
+n=50
+N=4*n
+
+R=2*f
+
+theta0=np.arcsin(D/2/R)
+z0=R
+
+t=np.linspace(-theta0,theta0,N-2)
+
+x1=R*np.sin(t)
+z1=-R*np.cos(t)+z0
+
+x=np.concatenate((x1,[D/2,-D/2]))
+z=np.concatenate((z1,[-dc,-dc]))
+y=0*z-H/2
+
+ops.curve.primitive_bezier_circle_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=n-1)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Curve"
+bez_points = curve.data.splines[0].bezier_points
+
+print(bez_points,len(bez_points))
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],z[i]))
+    if i>0:
+        bez_points[i].handle_left_type='VECTOR'
+    if i<N-1:
+        bez_points[i].handle_right_type='VECTOR'
+
+
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Y'
+screw.angle=0
+screw.screw_offset=H
+screw.render_steps=64
+screw.steps=64
+
+
+
+
+
+
+
+## end
+#264, 25:
+文档\输出\20210708\drawing.py
+## end
+#266, 16:
+文档\S应用\网页画板.ftxt
+## end
+#268, 378:
++[返回目录](,镜架)
+
+那么从thorlabs那里收集1 inch, 2 inches的镜架和透镜架吧. 
+导出模型::https://blender.stackexchange.com/questions/55913/is-it-possible-to-export-a-single-object-from-an-entire-scene
+导入模型::https://docs.blender.org/api/current/bpy.ops.import_scene.html
+
+镜架模型::C:\Users\cheng\Documents\CXT\blender\model\step
++[打开](,镜架模型)
+
+
+测试导入(P函数):...
+安装lens(P函数):...
++[新建阅读窗口](,安装lens)
+函数库(P函数):...
+
+
+
+
+## end
+#270, 111:
+https://blender.stackexchange.com/questions/55913/is-it-possible-to-export-a-single-object-from-an-entire-scene
+## end
+#272, 62:
+https://docs.blender.org/api/current/bpy.ops.import_scene.html
+## end
+#274, 245:
+"""
++[返回目录](,测试导入)
++[新建阅读窗口](,测试导入)
+地址::文档\输出\20210708\import_test.py
++[保存文本](,测试导入)
+
+"""
+
+import bpy
+
+bpy.ops.import_scene.obj(filepath="C:\\Users\\cheng\\Documents\\CXT\\blender\\model\\LMR1.obj")
+bpy.context.selected_objects[0].name='LMR1'
+
+
+
+## end
+#277, 29:
+文档\输出\20210708\import_test.py
+## end
+#279, 1649:
+"""
++[返回目录](,安装lens)
++[新建阅读窗口](,安装1'lens)
+地址::文档\输出\20210708\lens_mount.py
++[保存文本](,安装lens)
+
+安装1'lens(P函数):...
+安装2'lens(P函数):...
+安装1'mirror(P函数):...
+安装2'mirror(P函数):...
+安装cylindrical_mirror(P函数):...
++[有](安装2'mirror,地址)
+
++[保存文本](,安装1'lens)
+
+
+"""
+
+import bpy
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+D=1*2.54e-2
+dc=2e-3
+f=1
+H=0.5*2.54e-2
+H0=1*2.54e-2
+n=50
+N=4*n
+
+R=2*f
+
+theta0=np.arcsin(D/2/R)
+z0=R
+
+t=np.linspace(-theta0,theta0,N-2)
+
+x1=R*np.sin(t)
+z1=-R*np.cos(t)+z0
+
+x=np.concatenate((x1,[D/2,-D/2]))
+z=np.concatenate((z1,[-dc,-dc]))
+y=0*z-H/2
+
+ops.curve.primitive_bezier_circle_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=n-1)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Cylindric"
+bez_points = curve.data.splines[0].bezier_points
+
+print(bez_points,len(bez_points))
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],z[i]))
+    bez_points[i].handle_left_type='VECTOR'
+    bez_points[i].handle_right_type='VECTOR'
+
+
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Y'
+screw.angle=0
+screw.screw_offset=H
+screw.render_steps=64
+screw.steps=64
+
+bpy.ops.import_scene.obj(filepath="C:\\Users\\cheng\\Documents\\CXT\\blender\\model\\KM100C.obj")
+bpy.context.selected_objects[0].name='KM100C'
+
+pi=np.pi
+bpy.data.objects['Cylindric'].rotation_euler=(pi/2,0,0)
+bpy.data.objects['KM100C'].rotation_euler=(pi/2,0,pi)
+bpy.data.objects['KM100C'].location=(-0.0015,0.013,-0.0246+(H0-H)/2)
+bpy.data.objects['KM100C'].scale=(0.1,0.1,0.1)
+
+
+
+
+"""
++[保存文本](,安装lens)
+
+"""
+## end
+#282, 28:
+文档\输出\20210708\lens_mount.py
+## end
+#284, 1421:
+import bpy
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+D=1*2.54e-2
+dc=4e-3
+R1=1
+R2=1
+N1=200
+N2=200
+N=N1+N2
+
+theta1=np.arcsin(D/2/R1)
+theta2=np.arcsin(D/2/R2)
+de=dc-R1*(1-np.cos(theta1))-R2*(1-np.cos(theta2))
+z01=-R1*np.cos(theta1)
+z02=R2*np.cos(theta2)-de
+
+t1=np.linspace(0,theta1,N1)
+t2=np.linspace(-theta2,0,N2)+np.pi
+
+x1=R1*np.sin(t1)
+z1=R1*np.cos(t1)+z01
+x2=R2*np.sin(t2)
+z2=R2*np.cos(t2)+z02
+
+x=np.concatenate((x1,x2))
+z=np.concatenate((z1,z2))
+y=0*z
+
+ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=N-2)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Lens"
+bez_points = curve.data.splines[0].bezier_points
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],z[i]))
+    if i>0:
+        bez_points[i].handle_left_type='VECTOR'
+    if i<N-1:
+        bez_points[i].handle_right_type='VECTOR'
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Z'
+screw.angle=2*np.pi
+screw.render_steps=64
+screw.steps=64
+
+bpy.ops.import_scene.obj(filepath="C:\\Users\\cheng\\Documents\\CXT\\blender\\model\\LMR1.obj")
+bpy.context.selected_objects[0].name='LMR1'
+
+pi=np.pi
+bpy.data.objects['Lens'].rotation_euler=(pi/2,pi/2,0)
+bpy.data.objects['LMR1'].location=(0,-0.0021,0)
+bpy.data.objects['LMR1'].scale=(0.1,0.1,0.1)
+
+## end
+#288, 47:
+C:\Users\cheng\Documents\CXT\blender\model\step
+## end
+#290, 1429:
+
+import bpy
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+D=2*2.54e-2
+dc=4e-3
+R1=1
+R2=1
+N1=200
+N2=200
+N=N1+N2
+
+theta1=np.arcsin(D/2/R1)
+theta2=np.arcsin(D/2/R2)
+de=dc-R1*(1-np.cos(theta1))-R2*(1-np.cos(theta2))
+z01=-R1*np.cos(theta1)
+z02=R2*np.cos(theta2)-de
+
+t1=np.linspace(0,theta1,N1)
+t2=np.linspace(-theta2,0,N2)+np.pi
+
+x1=R1*np.sin(t1)
+z1=R1*np.cos(t1)+z01
+x2=R2*np.sin(t2)
+z2=R2*np.cos(t2)+z02
+
+x=np.concatenate((x1,x2))
+z=np.concatenate((z1,z2))
+y=0*z
+
+ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=N-2)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Lens"
+bez_points = curve.data.splines[0].bezier_points
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],z[i]))
+    if i>0:
+        bez_points[i].handle_left_type='VECTOR'
+    if i<N-1:
+        bez_points[i].handle_right_type='VECTOR'
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Z'
+screw.angle=2*np.pi
+screw.render_steps=64
+screw.steps=64
+
+bpy.ops.import_scene.obj(filepath="C:\\Users\\cheng\\Documents\\CXT\\blender\\model\\LMR2.obj")
+bpy.context.selected_objects[0].name='LMR2'
+
+pi=np.pi
+bpy.data.objects['Lens'].rotation_euler=(pi/2,pi/2,0)
+bpy.data.objects['LMR2'].location=(0.031,0.175,0.032)
+bpy.data.objects['LMR2'].scale=(0.1,0.1,0.1)
+
+
+## end
+#294, 1155:
+
+import bpy
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+D=1*2.54e-2
+dc=4e-3
+N=4
+
+x=[0,D/2,D/2,0]
+y=[0,0,0,0]
+z=[0,0,-dc,-dc]
+
+ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=N-2)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Mirror"
+bez_points = curve.data.splines[0].bezier_points
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],z[i]))
+    if i>0:
+        bez_points[i].handle_left_type='VECTOR'
+    if i<N-1:
+        bez_points[i].handle_right_type='VECTOR'
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Z'
+screw.angle=2*np.pi
+screw.render_steps=64
+screw.steps=64
+
+bpy.ops.import_scene.obj(filepath="C:\\Users\\cheng\\Documents\\CXT\\blender\\model\\KM100.obj")
+bpy.context.selected_objects[0].name='KM100'
+
+pi=np.pi
+bpy.data.objects['Mirror'].rotation_euler=(pi/2,pi/2,0)
+bpy.data.objects['KM100'].rotation_euler=(pi,0,0)
+bpy.data.objects['KM100'].location=(0.0,0.084,-0.0037)
+bpy.data.objects['KM100'].scale=(0.1,0.1,0.1)
+
+
+## end
+#298, 1158:
+
+import bpy
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+D=2*2.54e-2
+dc=4e-3
+N=4
+
+x=[0,D/2,D/2,0]
+y=[0,0,0,0]
+z=[0,0,-dc,-dc]
+
+ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=N-2)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Mirror"
+bez_points = curve.data.splines[0].bezier_points
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],z[i]))
+    if i>0:
+        bez_points[i].handle_left_type='VECTOR'
+    if i<N-1:
+        bez_points[i].handle_right_type='VECTOR'
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Z'
+screw.angle=2*np.pi
+screw.render_steps=64
+screw.steps=64
+
+bpy.ops.import_scene.obj(filepath="C:\\Users\\cheng\\Documents\\CXT\\blender\\model\\KM200.obj")
+bpy.context.selected_objects[0].name='KM200'
+
+pi=np.pi
+bpy.data.objects['Mirror'].rotation_euler=(pi/2,pi/2,0)
+bpy.data.objects['KM200'].rotation_euler=(pi/2,0,pi)
+bpy.data.objects['KM200'].location=(0.038,0.04,-0.038)
+bpy.data.objects['KM200'].scale=(0.1,0.1,0.1)
+
+
+## end
+#303, 3:
+337
+## end
+#306, 5298:
+"""
++[返回目录](,函数库)
+地址::文档\输出\20210712\optics.py
++[保存文本](,函数库)
+
+圆柱和立方体:...
++[新建阅读窗口](,圆柱和立方体)
+
+"""
+
+import bpy
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+pi=np.pi
+
+
+def lens_prototype(name,D,dc,R1,R2):
+
+    # D=1*2.54e-2
+    # dc=4e-3
+    # R1=1
+    # R2=1
+    
+    N1=200
+    N2=200
+    N=N1+N2
+    
+    theta1=np.arcsin(D/2/R1)
+    theta2=np.arcsin(D/2/R2)
+    de=dc-R1*(1-np.cos(theta1))-R2*(1-np.cos(theta2))
+    z01=-R1*np.cos(theta1)
+    z02=R2*np.cos(theta2)-de
+    
+    t1=np.linspace(0,theta1,N1)
+    t2=np.linspace(-theta2,0,N2)+np.pi
+    
+    x1=R1*np.sin(t1)
+    z1=R1*np.cos(t1)+z01
+    x2=R2*np.sin(t2)
+    z2=R2*np.cos(t2)+z02
+    
+    x=np.concatenate((x1,x2))
+    z=np.concatenate((z1,z2))
+    y=0*z
+    
+    ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+    #ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+    ops.curve.subdivide(number_cuts=N-2)
+    ops.object.mode_set(mode='OBJECT')
+    curve=context.active_object
+    curve.name=name
+    bez_points = curve.data.splines[0].bezier_points
+    
+    for i in range(0,N):
+        bez_points[i].co=Vector((x[i],y[i],z[i]))
+        if i>0:
+            bez_points[i].handle_left_type='VECTOR'
+        if i<N-1:
+            bez_points[i].handle_right_type='VECTOR'
+    
+    screw=curve.modifiers.new(name='Screw',type='SCREW')
+    screw.axis='Z'
+    screw.angle=2*np.pi
+    screw.render_steps=64
+    screw.steps=64
+
+    return curve
+
+
+def mirror_prototype(name,D,dc):
+    bpy.ops.mesh.primitive_cylinder_add(radius=D/2,depth=dc)
+    mirror=bpy.context.selected_objects[0]
+    mirror.name=name
+    return mirror
+
+def mirror_rect_prototype(name,W,H,d):
+    bpy.ops.mesh.primitive_cube_add(scale=(H,W,d))
+    mirror=bpy.context.selected_objects[0]
+    mirror.name=name
+    return mirror
+
+
+def cylindrical_mirror_prototype(name,D,dc,f,H):
+
+    # D=1*2.54e-2
+    # dc=2e-3
+    # f=1
+    # H=0.5*2.54e-2
+
+    n=50
+    N=4*n
+    R=2*f
+    theta0=np.arcsin(D/2/R)
+    z0=R
+
+    t=np.linspace(-theta0,theta0,N-2)
+    
+    x1=R*np.sin(t)
+    z1=-R*np.cos(t)+z0
+    
+    x=np.concatenate((x1,[D/2,-D/2]))
+    z=np.concatenate((z1,[-dc,-dc]))
+    y=0*z-H/2
+    
+    ops.curve.primitive_bezier_circle_add(enter_editmode=True)
+    #ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+    ops.curve.subdivide(number_cuts=n-1)
+    ops.object.mode_set(mode='OBJECT')
+    curve=context.active_object
+    curve.name=name
+    bez_points = curve.data.splines[0].bezier_points
+    
+    print(bez_points,len(bez_points))
+    
+    for i in range(0,N):
+        bez_points[i].co=Vector((x[i],y[i],z[i]))
+        bez_points[i].handle_left_type='VECTOR'
+        bez_points[i].handle_right_type='VECTOR'
+    
+    screw=curve.modifiers.new(name='Screw',type='SCREW')
+    screw.axis='Y'
+    screw.angle=0
+    screw.screw_offset=H
+    screw.render_steps=64
+    screw.steps=64
+
+    return curve
+
+def laser_prototype(name,pt0,pt1,d,color,strength):
+
+    # pt0=[0,0,0]
+    # pt1=[1,1,10]
+    
+    x=[pt0[0],pt1[0]]
+    y=[pt0[1],pt1[1]]
+    z=[pt0[2],pt1[2]]
+    N=2
+    
+    ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+    #ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+    ops.object.mode_set(mode='OBJECT')
+    curve=context.active_object
+    curve.name=name
+    bez_points = curve.data.splines[0].bezier_points
+    
+    for i in range(0,N):
+        bez_points[i].co=Vector((x[i],y[i],z[i]))
+        bez_points[i].handle_left_type='VECTOR'
+        bez_points[i].handle_right_type='VECTOR'
+    
+    curve.data.bevel_depth=d
+    
+    mat=bpy.data.materials.new(name="laser_light")
+    mat.use_nodes=True
+    nodes=mat.node_tree.nodes
+    
+    nodes.clear()
+    
+    # create emission node
+    node_emission = nodes.new(type='ShaderNodeEmission')
+    node_emission.inputs[0].default_value = color  # green RGBA
+    node_emission.inputs[1].default_value = strength # strength
+    node_emission.location = 0,0
+    
+    # create output node
+    node_output = nodes.new(type='ShaderNodeOutputMaterial')   
+    node_output.location = 400,0
+    links = mat.node_tree.links
+    link = links.new(node_emission.outputs[0], node_output.inputs[0])
+    
+    curve.data.materials.append(mat)
+
+
+M=mirror_rect_prototype('G2',1,0.1,1)
+angles=np.array((95.5,90,0))
+M.rotation_euler=np.deg2rad(angles)
+M.location=(0.0, 2.0, 0.0)
+
+M=cylindrical_mirror_prototype('CM2',1,1,1,0.1)
+angles=np.array((-96,90,0))
+M.rotation_euler=np.deg2rad(angles)
+M.location=(10.0, 0.0, 0.0)
+
+M=mirror_rect_prototype('BBO',1,0.1,1)
+angles=np.array((-90,90,0))
+M.rotation_euler=np.deg2rad(angles)
+M.location=(0,0,0)
+
+M=cylindrical_mirror_prototype('CM1',1,1,1,0.1)
+angles=np.array((83,90,0))
+M.rotation_euler=np.deg2rad(angles)
+M.location=(-10.0, 0.0, 0.0)
+
+M=mirror_rect_prototype('G1',1,0.1,1)
+angles=np.array((-95.5,90,0))
+M.rotation_euler=np.deg2rad(angles)
+M.location=(0.0, -2.0, 0.0)
+
+laser_prototype('Laser',[0.0, -2.0, 0.0],[-10.0, 0.0, 0.0],0.1,(1,0,0,1),25.0)
+laser_prototype('Laser',[-10.0, 0.0, 0.0],[10.0, 0.0, 0.0],0.1,(1,0,0,1),25.0)
+laser_prototype('Laser',[10.0, 0.0, 0.0],[0.0, 2.0, 0.0],0.1,(1,0,0,1),25.0)
+laser_prototype('Laser',[0.0, 2.0, 0.0],[1000,2,0],0.1,(1,0,0,1),25.0)
+laser_prototype('Laser',[-1000,-2,0],[0.0, -2.0, 0.0],0.1,(1,0,0,1),25.0)
+
+
+
+"""
++[保存文本](,函数库)
+
+"""
+## end
+#309, 24:
+文档\输出\20210712\optics.py
+## end
+#311, 1375:
+
+import bpy
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+D=1*2.54e-2
+dc=2e-3
+f=1
+H=0.5*2.54e-2
+H0=1*2.54e-2
+n=50
+N=4*n
+
+R=2*f
+
+theta0=np.arcsin(D/2/R)
+z0=R
+
+t=np.linspace(-theta0,theta0,N-2)
+
+x1=R*np.sin(t)
+z1=-R*np.cos(t)+z0
+
+x=np.concatenate((x1,[D/2,-D/2]))
+z=np.concatenate((z1,[-dc,-dc]))
+y=0*z-H/2
+
+ops.curve.primitive_bezier_circle_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.curve.subdivide(number_cuts=n-1)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Cylindric"
+bez_points = curve.data.splines[0].bezier_points
+
+print(bez_points,len(bez_points))
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],z[i]))
+    bez_points[i].handle_left_type='VECTOR'
+    bez_points[i].handle_right_type='VECTOR'
+
+
+
+screw=curve.modifiers.new(name='Screw',type='SCREW')
+screw.axis='Y'
+screw.angle=0
+screw.screw_offset=H
+screw.render_steps=64
+screw.steps=64
+
+bpy.ops.import_scene.obj(filepath="C:\\Users\\cheng\\Documents\\CXT\\blender\\model\\KM100C.obj")
+bpy.context.selected_objects[0].name='KM100C'
+
+pi=np.pi
+bpy.data.objects['Cylindric'].rotation_euler=(pi/2,0,0)
+bpy.data.objects['KM100C'].rotation_euler=(pi/2,0,pi)
+bpy.data.objects['KM100C'].location=(-0.0015,0.013,-0.0246+(H0-H)/2)
+bpy.data.objects['KM100C'].scale=(0.1,0.1,0.1)
+
+## end
+#314, 43:
+https://www.youtube.com/watch?v=4HhavlMLV6k
+## end
+#316, 1885:
+"""
++[返回目录](,光路)
+地址::文档\输出\20210712\laser.py
++[保存文本](,光路)
+
+激光特效::https://www.youtube.com/watch?v=4HhavlMLV6k
+参考1::https://blender.stackexchange.com/questions/90033/make-a-tube-from-a-straight-line
+参考2_半径::https://behreajj.medium.com/scripting-curves-in-blender-with-python-c487097efd13
++[打开网页](,激光)
+
+设置材料1::https://blender.stackexchange.com/questions/23436/control-cycles-eevee-material-nodes-and-material-properties-using-python
+设置材料2::https://blenderscripting.blogspot.com/2013/06/automatic-colour-ramped-shader-from.html
+设置材料3::https://blender.stackexchange.com/questions/23433/how-to-assign-a-new-material-to-an-object-in-the-scene-from-python
++[打开网页](,设置材料3)
+
+
+"""
+
+import bpy
+from bpy import context, data, ops
+from mathutils import Euler, Matrix, Quaternion, Vector
+import numpy as np
+
+pt0=[0,0,0]
+pt1=[1,1,10]
+
+x=[pt0[0],pt1[0]]
+y=[pt0[1],pt1[1]]
+z=[pt0[2],pt1[2]]
+N=2
+
+ops.curve.primitive_bezier_curve_add(enter_editmode=True)
+#ops.curve.primitive_nurbs_path_add(enter_editmode=True)
+ops.object.mode_set(mode='OBJECT')
+curve=context.active_object
+curve.name="Laser"
+bez_points = curve.data.splines[0].bezier_points
+
+for i in range(0,N):
+    bez_points[i].co=Vector((x[i],y[i],z[i]))
+    bez_points[i].handle_left_type='VECTOR'
+    bez_points[i].handle_right_type='VECTOR'
+
+curve.data.bevel_depth=0.05
+
+mat=bpy.data.materials.new(name="laser_light")
+mat.use_nodes=True
+nodes=mat.node_tree.nodes
+
+nodes.clear()
+
+# create emission node
+node_emission = nodes.new(type='ShaderNodeEmission')
+node_emission.inputs[0].default_value = (0,1,0,1)  # green RGBA
+node_emission.inputs[1].default_value = 25.0 # strength
+node_emission.location = 0,0
+
+# create output node
+node_output = nodes.new(type='ShaderNodeOutputMaterial')   
+node_output.location = 400,0
+links = mat.node_tree.links
+link = links.new(node_emission.outputs[0], node_output.inputs[0])
+
+curve.data.materials.append(mat)
+
+
+
+## end
+#319, 23:
+文档\输出\20210712\laser.py
+## end
+#321, 82:
+https://blender.stackexchange.com/questions/90033/make-a-tube-from-a-straight-line
+## end
+#323, 80:
+https://behreajj.medium.com/scripting-curves-in-blender-with-python-c487097efd13
+## end
+#325, 122:
+https://blender.stackexchange.com/questions/23436/control-cycles-eevee-material-nodes-and-material-properties-using-python
+## end
+#327, 86:
+https://blenderscripting.blogspot.com/2013/06/automatic-colour-ramped-shader-from.html
+## end
+#329, 116:
+https://blender.stackexchange.com/questions/23433/how-to-assign-a-new-material-to-an-object-in-the-scene-from-python
+## end
+#330, 3:
+341
+## end
+#333, 163:
++[返回目录](,圆柱和立方体)
+
+函数是, bpy.ops.mesh.primitive_cylinder_add
+和 bpy.ops.mesh.primitive_cube_add
+
+参考::https://docs.blender.org/api/current/bpy.ops.mesh.html
+
+测试:...
+
+
+
+## end
+#335, 54:
+https://docs.blender.org/api/current/bpy.ops.mesh.html
+## end
+#337, 448:
+"""
++[返回目录](,测试)
+地址::文档\输出\20210713\cylinder.py
++[保存文本](,测试)
++[修改标题]"测试"(,测试圆柱)
+
+"""
+
+import bpy
+import numpy as np
+pi=np.pi
+
+bpy.ops.mesh.primitive_cylinder_add(radius=1,depth=0.1,location=(0,0,10),rotation=(pi/2,pi/2,0))
+bpy.context.selected_objects[0].name='mirror'
+
+bpy.ops.mesh.primitive_cube_add(location=(0,0,5),rotation=(pi/3,pi/2,0),scale=(1,2,0.1))
+bpy.context.selected_objects[0].name='mirror'
+
+bpy.ops.mesh.primitive_monkey_add()
+
+
+
+
+
+
+
+## end
+#339, 26:
+文档\输出\20210713\cylinder.py
+## end
+#340, 3:
+347
+## end
+#343, 1015:
+"""
+地址::C:\Users\cheng\Documents\Blender\code\test.py
++[保存文本](,测试代码)
+
+"""
+import bpy
+from math import pi, sin, cos
+import colorsys
+from random import TWOPI
+
+
+x0=0
+y0=0
+z0=0
+
+dx=1.2
+dz=dx
+dy=0.16
+
+angle=10
+theta=angle/180*pi
+
+
+bpy.ops.mesh.primitive_cube_add()
+bpy.context.selected_objects[0].name='BBO'
+
+#bpy.ops.import_mesh.stl(filepath="C:\\Users\\cheng\\Documents\\CXT\\blender\\model\\MK05S_Step.step")
+
+bpy.ops.mesh.primitive_cone_add()
+bpy.context.selected_objects[0].name='Y'
+
+bpy.ops.mesh.primitive_cone_add()
+bpy.context.selected_objects[0].name='X'
+
+bpy.ops.mesh.primitive_cylinder_add()
+bpy.context.selected_objects[0].name='laser'
+
+bpy.ops.mesh.primitive_cylinder_add()
+bpy.context.selected_objects[0].name='Y_end'
+
+bpy.ops.mesh.primitive_cylinder_add()
+bpy.context.selected_objects[0].name='X_end'
+
+camera_data = bpy.data.cameras.new(name='Camera')
+camera_object = bpy.data.objects.new('Camera', camera_data)
+bpy.context.scene.collection.objects.link(camera_object)
+
+print(bpy.context.scene.collection)
+## end
+#346, 45:
+C:\Users\cheng\Documents\Blender\code\test.py
+## end
+### 结束

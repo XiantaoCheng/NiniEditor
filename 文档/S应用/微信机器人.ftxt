@@ -1,0 +1,313 @@
+### 节点
+地址, 的, 微信机器人, 目录, 的, 的, 小程序基础, 的, 引用机器人, 的, 机器人示例, 的, 根目录, 的, app.js, 的, app.json, 的, 地址, 的, 地址, 的, 的, 网页文件, 的, 地址, 的, home.wxml, 的, 地址, 的, 小程序, 的, 密码, 地址, 的, home.wxml, 地址, 的, 的, 网页文件, 地址, 的, app.json, 地址, 的, app.js, 根目录, 的, 的, 的, 的, 的, Hello world, 的, 的, home.js, 的, 地址, 的, home.json, 的, 地址, 的, 的, itchat, 的, 发送语句, P函数, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 2#10, #, 10#12, #, 10#14, #, 10#16, #, 14#18, #, 10#20, #, 16#20, 10#23, #, 23#25, #, 23#27, #, 27#29, #, 2#31, #, 2#33, #, #, 36#34, #, #, 40#36, 40#37, #, #, 43#41, #, #, 46#44, #, #, 53#40, 53#41, 53#43, 53#46, 53#47, #, 2#53, 23#56, #, 56#58, #, 23#60, #, 23#62, #, 60#62, 2#65, #, 65#67, #, 67#, 
+### 内容
+#0, 17:
+文档\S应用\微信机器人.ftxt
+## end
+#2, 396:
++[返回目录](,微信机器人)
+地址::文档\S应用\微信机器人.ftxt
+
+小程序基础::https://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html
+引用机器人::https://www.jianshu.com/p/dfb31281379a
+小程序::https://mp.weixin.qq.com/wxamp/home/guide?lang=zh_CN&token=2097707341
++[打开网页](,引用机器人)
+
+密码:...
+Hello world:...
++[复制结构](,Hello world)->+[粘贴](,微信机器人)->+[修改标题]"机器人示例"(,Hello world)
+机器人示例:...
++[新建阅读窗口](,机器人示例)
+
+itchat:...
+
+## end
+#3, 49:
+微信机器人:...
+创建于 20211017
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 81:
+https://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html
+## end
+#8, 38:
+https://www.jianshu.com/p/dfb31281379a
+## end
+#10, 216:
++[返回目录](,机器人示例)
+小程序基础::https://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html
+根目录::output\weixin\Bot1
++[创建文件夹](,根目录)
+
+app.js:...
+app.json:...
++[设置结构](,app.json)
++[保存文本](,app.json)
+网页文件:...
+
+## end
+#12, 18:
+output\weixin\Bot1
+## end
+#14, 701:
+/*
+地址::output\weixin\Bot1\app.js
++[保存文本](,app.js)
+*/
+
+App({});
+
+let plugin = requirePlugin("chatbot");
+plugin.init({
+  appid: "wx87ffb5ff209a95de", //小程序示例账户，仅供学习和参考
+  openid: res.result.data[0].openid, //用户的openid，必填项，可通过wx.login()获取code，然后通过后台接口获取openid
+  userHeader: res.result.data[0].avatarUrl, // 用户头像
+  userName: res.result.data[0].nickName, // 用户昵称
+  anonymous: false, // 是否允许匿名用户评价，默认为false，设为ture时，未传递userName、userHeader两个字段时将弹出登录框
+  operateCardHeight: 54, // 90-36，隐藏导航栏默认高度
+  hideMovableButton: true, // 隐藏右下的评价图标
+  guideCardHeight: 0, // 隐藏气泡，如北京天气怎么样
+  success: () => {
+    console.log('注册聊天机器人成功')
+  }, //非必填
+  fail: (error) => {              
+    console.log('注册聊天机器人失败')
+  }, //非必填
+})
+## end
+#16, 244:
+{
+  "plugins": {
+    "chatbot": {
+      "version": "1.2.22",
+      "provider": "wx8c631f7e9f2465e1"
+    },
+    "WechatSI": {
+      "version": "0.3.4",
+      "provider": "wx069ba97219f66d99"
+    }
+  },
+  "pages": [
+    "pages/home/home"
+  ]
+}
+
+
+
+## end
+#18, 25:
+output\weixin\Bot1\app.js
+## end
+#20, 27:
+output\weixin\Bot1\app.json
+## end
+#23, 145:
++[返回目录](,网页文件)
+地址::output\weixin\Bot1\pages\home
++[创建文件夹](,地址)
+
+home.js:...
+home.wxml:...
+home.json:...
++[设置结构](,home.json)
++[保存文本](,home.json)
+
+
+## end
+#25, 29:
+output\weixin\Bot1\pages\home
+## end
+#27, 323:
+<!--
+地址::output\weixin\Bot1\pages\home\home.wxml
++[保存文本](,home.wxml)
+-->
+<view style="height: 100vh">
+    <view style="height: 100vh">
+        <chat
+            bind:queryCallback="getQueryCallback"
+            bind:openWebview="openWebview"
+            bind:openMiniProgram="openMiniProgram"
+        />
+    </view>
+</view>
+## end
+#29, 39:
+output\weixin\Bot1\pages\home\home.wxml
+## end
+#31, 69:
+https://mp.weixin.qq.com/wxamp/home/guide?lang=zh_CN&token=2097707341
+## end
+#33, 14:
+meszap-5conriK
+## end
+#34, 49:
+output\weixin\HelloWorldDemo\pages\home\home.wxml
+## end
+#36, 389:
+<!--
+地址::output\weixin\HelloWorldDemo\pages\home\home.wxml
++[保存文本](,home.wxml)
+-->
+<text>
+hello
+world
+</text>
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+Formula:
+$$
+x^2+x+1=0
+$$
+    </mathjax></p>
+  </body>
+</html>
+
+
+## end
+#37, 39:
+output\weixin\HelloWorldDemo\pages\home
+## end
+#40, 88:
++[返回目录](,网页文件)
+地址::output\weixin\HelloWorldDemo\pages\home
++[创建文件夹](,地址)
+
+home.wxml:...
+
+## end
+#41, 37:
+output\weixin\HelloWorldDemo\app.json
+## end
+#43, 45:
+{
+  "pages": [
+    "pages/home/home"
+  ]
+}
+
+
+
+## end
+#44, 35:
+output\weixin\HelloWorldDemo\app.js
+## end
+#46, 73:
+/*
+地址::output\weixin\HelloWorldDemo\app.js
++[保存文本](,app.js)
+*/
+
+App({});
+
+## end
+#47, 28:
+output\weixin\HelloWorldDemo
+## end
+#53, 232:
++[返回目录](,Hello world)
+小程序基础::https://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html
+根目录::output\weixin\HelloWorldDemo
++[创建文件夹](,根目录)
+
+app.js:...
+app.json:...
++[设置结构](,app.json)
++[保存文本](,app.json)
+网页文件:...
+
+## end
+#56, 876:
+/*
+地址::output\weixin\Bot1\pages\home\home.js
++[保存文本](,home.js)
+*/
+
+
+// 在相应页面的 js 中配置返回首页回调方法
+  getQueryCallback: function(e) {
+    console.log(e.detail);
+  },
+
+  // 点击机器人回答里的链接跳转 webview
+  openWebview: function(e) {
+    let url = e.detail.weburl
+    wx.navigateTo({
+        url: `/pages/labpages/wxchat/webview?url=${url}`
+    })
+  },
+
+  // 点击机器人回答中的小程序，需要在开发者自己的小程序内做跳转
+  openMiniProgram(e) {
+    let {appid, pagepath} = e.detail
+    if (appid) {
+        wx.navigateToMiniProgram({
+            appId: appid,
+            path: pagepath,
+            extraData: {},
+            envVersion: "",
+            success(res) {
+                // 打开成功
+            }
+        });
+    } else {
+        wx.navigateTo({
+            url: pagepath,
+            fail() {
+                wx.switchTab({
+                    url: pagepath
+                });
+            }
+        });
+    }
+  }, 
+## end
+#58, 37:
+output\weixin\Bot1\pages\home\home.js
+## end
+#60, 67:
+{
+  "usingComponents": {
+    "chat": "plugin://chatbot/chat"
+  }
+}
+
+## end
+#62, 39:
+output\weixin\Bot1\pages\home\hone.json
+## end
+#65, 32:
++[返回目录](,itchat)
+
+
+发送语句(P函数):...
+## end
+#67, 231:
+"""
++[P函数](,发送语句)
+
+"""
+
+import itchat, time
+
+# itchat.auto_login()
+
+#itchat.send('[炸弹]', toUserName='filehelper')
+
+itchat.get_chatrooms(update=True)
+chatrooms=itchat.search_chatrooms(name="你群人均劝子昂去医院")
+
+chatrooms[0].send('[炸弹]')
+
+
+
+## end
+### 结束

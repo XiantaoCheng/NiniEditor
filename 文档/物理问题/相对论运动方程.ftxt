@@ -1,0 +1,4099 @@
+### 节点
+地址, 源文件, algorithm, paper, Boris, m_select, m_drawing, m_t, m_dt, m_pos, m_size, m_unit, m_origin, m_mouse, m_scene, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 新画板, Boris, 初始化, 画图工具, 场景, [端口], 的, 的, 的, 的, 的, 20201108, [标题], 的, 的, 的, 的, 的, 的, Smilei源代码, 目录, 的, 的, Pusher算法, 的, PusherVay, 的, HTML, 的, pow func, 的, paper, 的, 节点数目统计, 的, 相对论运动方程, 的, 基本公式, 的, 粒子运动轨迹, 的, 平面电磁波, 的, 参考, 的, 高斯单位制, 的, 场景, 按键位置, 直线, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, 动词, 的, 的, 的, 去掉选中框, 画选中框, 按键, 动作, 的, 的, 的, 的, 移动, 的, mouseMove, mouseMove, 移动起点, 的, mouseMove, 移动终点, 的, mouseMove, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 圆形, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 类型, 选中区域, 的, 的, 输出, 输入, 的, 的, 动词, 的, 的, 的, 去掉选中框, 画选中框, 按键, 动作, 的, 的, 的, 移动, 的, mouseMove, 缩放, 的, mouseMove, 旋转, 的, mouseMove, HTML, 的, 输入, 的, 的, 的, 的, 的, 的, 的, 中心, 半径, 角度, 面颜色, 线颜色, 线型, 线粗细, 按键位置, 按键位置, 按键位置, 按键位置, 比例, 的, 尺寸, 的, 原点, 的, 坐标系, 直线, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, 动词, 的, 的, 的, 去掉选中框, 画选中框, 按键, 动作, 的, 的, 的, 的, 移动, 的, mouseMove, mouseMove, 移动起点, 的, mouseMove, 移动终点, 的, mouseMove, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 按键位置, 按键位置, 按键位置, 直线, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 图形, 选中框, 类型, 选中区域, 的, 的, 的, 输入, 的, 的, 输出, 点线公式, 的, LaTeX数学记号, 动词, 的, 的, 的, 去掉选中框, 画选中框, 按键, 动作, 的, 的, 的, 的, 移动, 的, mouseMove, mouseMove, 移动起点, 的, mouseMove, 移动终点, 的, mouseMove, HTML, 的, 输入, 的, 的, 的, 的, 的, 起点, 终点, 线颜色, 线型, 线粗细, 按键位置, 按键位置, 矩形, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 类型, 选中区域, 的, 的, 输出, 输入, 的, 的, 动词, 的, 的, 的, 画选中框, 去掉选中框, 按键, 的, 的, P代码, 的, 的, 输出, 输入, 的, 的, 保存, 动作, 的, 的, 的, 的, 的, 的, 的, 的, 的, 移动, 的, mouseMove, 上展宽, 的, mouseMove, 下展宽, 的, mouseMove, 左展宽, 的, mouseMove, 右展宽, 的, mouseMove, 左上展宽, 的, mouseMove, 左下展宽, 的, mouseMove, 右上展宽, 的, mouseMove, 右下展宽, 的, mouseMove, HTML, 的, 的, 输出, 输入, 的, 的, 的, 的, 的, 的, 的, 的, 起点, 尺寸, 面颜色, 线颜色, 线型, 线粗细, 文字, 字体, 按键位置, 按键位置, 按键位置, 矩形, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 类型, 选中区域, 的, 的, 输出, 输入, 的, 的, 动词, 的, 的, 的, 画选中框, 去掉选中框, 按键, 的, 的, P代码, 的, 的, 输出, 输入, 的, 的, 保存, 动作, 的, 的, 的, 的, 的, 的, 的, 的, 的, 移动, 的, mouseMove, 上展宽, 的, mouseMove, 下展宽, 的, mouseMove, 左展宽, 的, mouseMove, 右展宽, 的, mouseMove, 左上展宽, 的, mouseMove, 左下展宽, 的, mouseMove, 右上展宽, 的, mouseMove, 右下展宽, 的, mouseMove, HTML, 的, 的, 输出, 输入, 的, 的, 的, 的, 的, 的, 的, 的, 起点, 尺寸, 面颜色, 线颜色, 线型, 线粗细, 文字, 字体, 按键位置, 按键位置, 的, HTML, 的, 画板, 的, 平面波中电子运动轨迹, M函数, 的, 显示空间关系, M函数, 的, 相对论双折射, 20210321, 的, 20210331, 的, 的, 
+### 关联
+#, #, #, #, #, #, #, #, #, #, #, #, #, #, #29, 25#5, 25#6, 25#7, 25#8, 25#9, 25#10, 25#11, 25#12, 25#13, 25#14, #, #, #, #, #, 36#, 36#25, 36#26, 36#27, 36#28, 36#29, #, #, 44#0, 44#1, 44#2, 44#3, 44#4, 44#36, #, #, 45#44, 44#48, #, 48#50, #, 48#52, #, 48#54, #, 48#56, #, 45#58, #, 45#60, #, 60#62, #, 60#64, #, 60#66, #, 66#68, #, 66#70, #, 66#72, #, #, #, 72#74, 74#139, 74#140, 74#89, 74#97, 74#98, 74#141, 74#142, 74#143, 74#113, 74#114, 74#109, 74#116, 74#131, #, 89#133, 89#94, 89#95, 89#96, #, #, #, #, #, 98#102, 98#105, 98#106, #, 102#139, 102#140, #, #, 106#108, #, #, 109#113, 109#114, 109#115, #, #, #, #, 116#121, 116#124, 116#125, 116#128, #, 121#123, #, #, #, 125#127, #, #, 128#130, #, #, 131#133, #, 133#139, 133#140, 133#141, 133#142, 133#143, #, #, #, #, #, #, 72#144, 144#207, 144#208, 144#161, 144#169, 144#209, 144#170, 144#210, 144#211, 144#212, 144#213, 144#181, 144#182, 144#177, 144#184, 144#197, #, 161#199, 161#166, 161#167, 161#168, #, #, #, #, #, 170#173, 170#174, #, #, 174#207, 174#208, #, 177#181, 177#182, 177#183, #, #, #, #, 184#188, 184#191, 184#194, #, 188#190, #, #, 191#193, #, #, 194#196, #, #, 197#199, #, 199#207, 199#208, 199#209, 199#210, 199#211, 199#212, 199#213, #, #, #, #, #, #, #, #, #, #, #, #, 224#218, #, 224#220, #, 224#222, 72#, #, 72#225, 225#290, 225#291, 225#240, 225#248, 225#249, 225#292, 225#293, 225#294, 225#264, 225#265, 225#260, 225#267, 225#282, #, 240#284, 240#245, 240#246, 240#247, #, #, #, #, #, 249#253, 249#256, 249#257, #, 253#290, 253#291, #, #, 257#259, #, #, 260#264, 260#265, 260#266, #, #, #, #, 267#272, 267#275, 267#276, 267#279, #, 272#274, #, #, #, 276#278, #, #, 279#281, #, #, 282#284, #, 284#290, 284#291, 284#292, 284#293, 284#294, #, #, #, #, #, #, #, #, #, 72#298, 298#363, 298#364, 298#313, 298#321, 298#322, 298#365, 298#366, 298#367, 298#337, 298#338, 298#333, 298#340, 298#355, #, 313#357, 313#318, 313#319, 313#320, #, #, #, #, #, 322#326, 322#329, 322#330, #, 326#363, 326#364, #, #, 330#332, #, #, 333#337, 333#338, 333#339, #, #, #, #, 340#345, 340#348, 340#349, 340#352, #, 345#347, #, #, #, 349#351, #, #, 352#354, #, #, 355#357, #, 357#363, 357#364, 357#365, 357#366, 357#367, #, #, #, #, #, #, #, #, 72#370, 370#469, 370#470, 370#386, 370#394, 370#475, 370#395, 370#402, 370#471, 370#472, 370#473, 370#474, 370#419, 370#476, 370#456, #, 386#460, 386#391, 386#392, 386#393, #, #, #, #, #, 395#398, 395#399, #, #, 399#469, 399#470, #, 402#406, 402#407, 402#408, #, #, #, 408#411, 408#418, #, 411#414, 411#415, #, #, 415#469, 415#470, #, #, 419#429, 419#432, 419#435, 419#438, 419#441, 419#444, 419#447, 419#450, 419#453, #, 429#431, #, #, 432#434, #, #, 435#437, #, #, 438#440, #, #, 441#443, #, #, 444#446, #, #, 447#449, #, #, 450#452, #, #, 453#455, #, #, 456#459, 456#460, #, #, 460#469, 460#470, 460#471, 460#472, 460#473, 460#474, 460#475, 460#476, #, #, #, #, #, #, #, #, #, #, #, #, 72#480, 480#579, 480#580, 480#496, 480#504, 480#585, 480#505, 480#512, 480#581, 480#582, 480#583, 480#584, 480#529, 480#586, 480#566, #, 496#570, 496#501, 496#502, 496#503, #, #, #, #, #, 505#508, 505#509, #, #, 509#579, 509#580, #, 512#516, 512#517, 512#518, #, #, #, 518#521, 518#528, #, 521#524, 521#525, #, #, 525#579, 525#580, #, #, 529#539, 529#542, 529#545, 529#548, 529#551, 529#554, 529#557, 529#560, 529#563, #, 539#541, #, #, 542#544, #, #, 545#547, #, #, 548#550, #, #, 551#553, #, #, 554#556, #, #, 557#559, #, #, 560#562, #, #, 563#565, #, #, 566#569, 566#570, #, #, 570#579, 570#580, 570#581, 570#582, 570#583, 570#584, 570#585, 570#586, #, #, #, #, #, #, #, #, #, #, 66#590, #, 66#592, 72#, 60#594, #, 594#, 594#597, #, 597#, 60#600, #, #, 58#601, #, 58#603, 60#del, 
+### 内容
+#0, 20:
+文档\物理问题\相对论运动方程.ftxt
+## end
+#1, 61:
+C:\Users\cheng\Dropbox\ubuntu\smilei\Smilei-master\src\Pusher
+## end
+#2, 50:
+https://smileipic.github.io/Smilei/algorithms.html
+## end
+#3, 35:
+C:\Users\cheng\Desktop\paper\Smilei
+## end
+#4, 65:
+https://en.wikipedia.org/wiki/Particle-in-cell#The_particle_mover
+## end
+#9, 6:
+30, 30
+## end
+#10, 8:
+600, 400
+## end
+#11, 1:
+1
+## end
+#12, 3:
+0,0
+## end
+#26, 65:
+https://en.wikipedia.org/wiki/Particle-in-cell#The_particle_mover
+## end
+#27, 74:
+https://smileipic.github.io/Smilei/relativistic_fields_initialization.html
+## end
+#28, 15:
+文档\S应用\画图工具.txt
+## end
+#29, 3:
+
+A:
+## end
+#36, 1670:
++[返回目录]
+
+看源代码吧. 先看整体结构. 
+画板::
+场景:...
+画图工具::文档\S应用\画图工具.txt
++[打开文件](+新窗口,画图工具)
++[画板](+新画板,场景)
++[创建矩形](场景,+A)
+的(记忆,新画板)
+
+关于Smilei的架构, 最主要的动力学的部分都在Patch\VectorPatch里面. 
+然后是Dynamic是处理从场分布到电子运动的函数.
+solveMaxwell是处理电磁场的. 
+源代码的注释写得挺好的. 
+
+接下来我需要搞定三个问题:
+1.如何进行初始化;
+2.边界条件是怎么进行工作的;
+3.数据的格式是什么样子的. 
+
+params.uncoupled_grids是什么意思?
+各种sync__的方程是给MPI用的吗?
+那个params.uncoupled_grids的模式下, 好像主要是做了一堆sync的事情...
+没看到处理边界条件. 边界条件应该是在solveMaxwell里面处理的. 
+checkpoint里面有dump
+timers里面move window
+
+Q:namelist的数据是怎么输进去的呀?
+prescribed field确实是每次循环都重新设置一遍
+namelist可能是在SmileiMPI或者是params中处理的. (params是parameters呀...)
+
+最一开始的时候, 处理了一轮各种初始化. 不过还没看清楚gamma是在哪里被初始化的. 
+
+好了, 接下来要一口气看到场和电子的数据是怎么保存的. 
+solver和数据都在EMfields里面存着
+EMfields->MaxwellAmpereSolver_->densities_correction
+好像是用来设置源的. 
+边界条件确实是在EMfields里面. 
+
+然后, 粒子的dynamic是在spec的dynamics里面. 
+dynamic里面先把空间中的场变成粒子上面的场. 然后计算各种辐射和decay. 然后计算电子位移和速度. 最后计算电流和电荷分布. 
+电子运动是在push里面. 
+Boris::https://en.wikipedia.org/wiki/Particle-in-cell#The_particle_mover
+运动找到了! 在Pusher\PusherBoris.cpp里面! 
+particle的性质有: momentum, position, position_old, charge, size
+位置和动量都是3个分量, 所以particle里面记录的是每个粒子的分量. 
+唔, 现在没找到species里面的dynamics里面是怎么输入particles的...
+species这个函数完全不知道是在哪里定义的. 但是这玩意看起来像表示第几个patch里面的第几个粒子... 这是个全局变量吗? 
+看看VectorPatch()->vecSpecies
+
+是([动词库],动词)->+[打开文件](+新窗口,动词)
+
+相对论性电子的初始化, 还需要考虑到初始分布产生的电磁场...
+初始化::https://smileipic.github.io/Smilei/relativistic_fields_initialization.html
++[打开](,初始化)
+
+话说, Smilei的初始化条件里面还有Particle injector, 而且可以从y方向注入电子. 
+smpi就是python的解释器!
+
+粒子的初始化恐怕是在sortAllParticles, 或者createVector里面. 这两个一个个看. 
+不对, sortAllParticles是为了vectorization做准备的. 初始化应该还是在createVector里面做的. 
+恐怕是在createVector中用Patch2D()的create函数来初始化的! 
+在Patch()的finishCreation()里面进行了初始化! 
+
+## end
+#37, 9:
+Smilei源代码
+## end
+#44, 619:
++[返回目录]
+地址::文档\物理问题\相对论运动方程.ftxt
++[导出结构](,Smilei源代码)
+
+参考::
+20201108:....
+
+运动应该在PusherBoris里面. 那么首先是Boris的算法是啥? 
+Boris::https://en.wikipedia.org/wiki/Particle-in-cell#The_particle_mover
++[打开](,Boris)
+
+Boris似乎是经典的算法, 看看Smilei里面是怎么处理相对论效应的. 
+用的不应该是Boris, 应该是下面两个之一.
+paper::C:\Users\cheng\Desktop\paper\Smilei
+algorithm::https://smileipic.github.io/Smilei/algorithms.html
++[打开](,paper)
++[打开](,algorithm)
+
+然后在pusher中, 其实有很多选项的. Boris是已经被报告过有问题的, 那么我想花点时间把那些个选项的算法都是什么意思弄明白. 
+源文件::C:\Users\cheng\Dropbox\ubuntu\smilei\Smilei-master\src\Pusher
++[打开](,源文件)
+
+先看paper. 
+行了, 这个是一周量级的任务. 下周再做了. 
+明天弄喷嘴. 
+现在把paper看掉. 
+
+
+Pusher算法:...
+## end
+#45, 48:
+Smilei源代码:...
+相对论运动方程:...
+创建于 20210304
+
+节点数目统计::
+## end
+#48, 1805:
+<!--
++[返回目录](,Pusher算法)
+PusherVay::C:\Users\cheng\Dropbox\ubuntu\smilei\Smilei-master\src\Pusher\PusherVay.cpp
++[打开](,PusherVay)
+paper::file:///C:/Users/cheng/Desktop/paper/Smilei/Vay08.pdf
++[打开](,paper)
+
++[打开公式页](Pusher算法,HTML)
+
+HTML:
+-->
+Formulas in the c++ program: 
+$$
+invgf=\frac{1}{\sqrt{1+p_x^2+p_y^2+p_z^2}}
+$$$$
+\textbf{T}=\frac{e dt}{2m} \textbf{B}
+$$$$
+\textbf{u}_p=\textbf{p}+\frac{e dt}{m} \textbf{E}
++invgf \textbf{p}\times \textbf{T}
+$$
+
+$$
+\alpha_1=1+\textbf{u}_p^2
+$$
+
+$$
+s_1=\alpha_1-\textbf{T}^2
+$$
+
+$$
+us2=(\textbf{u}_p\cdot \textbf{T})^2
+$$
+
+$$
+\alpha_2=\frac{1}{\sqrt{\left(s_1+\sqrt{s_1^2+4 (\textbf{T}^2 +  us2)}\right)/2}}
+$$
+
+$$
+\textbf{T}=\alpha_2 \textbf{T}
+$$
+
+$$
+s_2=\frac{1}{1+\textbf{T}^2}
+$$
+
+$$
+\alpha_3=\textbf{u}_p\cdot \textbf{T}
+$$
+
+$$
+psm=s_2 (\textbf{u}_p+\alpha_3 \textbf{T} +\textbf{T}\times\textbf{u}_p)
+$$
+
+$$
+invgf=\frac{1}{1+\textbf{psm}^2}
+$$
+
+$$
+\textbf{p}=psm
+$$
+
+$$
+\textbf{r}=\textbf{r}+dt \textbf{p} invgf
+$$
+<br>
+<br>
+<b><u>Analysis</u></b><br>
+The \(\textbf{p}\) in the program is normalized momentum, which is,
+$$
+\textbf{p}=\frac{momentum}{m_0 c}
+$$
+Then it's easy to prove,
+$$
+\gamma=1/invgf=\sqrt{1+\textbf{p}^2}
+$$
+Then the variable \(\textbf{u}_p\) is, in fact, almost the momentum in the next moment, 
+$$
+\textbf{p}_{tmp}=\textbf{u}_p=\textbf{p}_{n}
++\frac{e\textbf{E}}{m}dt
++\frac{\textbf{p_n}}{\gamma}\times \textbf{T}
+$$
+This variable \(\textbf{p}_{tmp}\) is still not the final momentum. There is a correction with respects of magnetic field \(\textbf{T}\). The \(psm\) is the final result of the next momentum.<br>
+But it's true that, if the magnetic field is zero, then this correction does nothing...<br>
+
+
+
+<!--
++[打开公式页](Pusher算法,HTML)
+
+pow func::https://www.programiz.com/cpp-programming/library-function/cmath/pow
++[打开](,pow func)
+-->
+## end
+#50, 75:
+C:\Users\cheng\Dropbox\ubuntu\smilei\Smilei-master\src\Pusher\PusherVay.cpp
+## end
+#52, 2163:
+<!--
++[返回目录]
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+<!--
++[返回目录](,Pusher算法)
+PusherVay::C:\Users\cheng\Dropbox\ubuntu\smilei\Smilei-master\src\Pusher\PusherVay.cpp
++[打开](,PusherVay)
+paper::file:///C:/Users/cheng/Desktop/paper/Smilei/Vay08.pdf
++[打开](,paper)
+
++[打开公式页](Pusher算法,HTML)
+
+HTML:
+-->
+Formulas in the c++ program: 
+$$
+invgf=\frac{1}{\sqrt{1+p_x^2+p_y^2+p_z^2}}
+$$$$
+\textbf{T}=\frac{e dt}{2m} \textbf{B}
+$$$$
+\textbf{u}_p=\textbf{p}+\frac{e dt}{m} \textbf{E}
++invgf \textbf{p}\times \textbf{T}
+$$
+
+$$
+\alpha_1=1+\textbf{u}_p^2
+$$
+
+$$
+s_1=\alpha_1-\textbf{T}^2
+$$
+
+$$
+us2=(\textbf{u}_p\cdot \textbf{T})^2
+$$
+
+$$
+\alpha_2=\frac{1}{\sqrt{\left(s_1+\sqrt{s_1^2+4 (\textbf{T}^2 +  us2)}\right)/2}}
+$$
+
+$$
+\textbf{T}=\alpha_2 \textbf{T}
+$$
+
+$$
+s_2=\frac{1}{1+\textbf{T}^2}
+$$
+
+$$
+\alpha_3=\textbf{u}_p\cdot \textbf{T}
+$$
+
+$$
+psm=s_2 (\textbf{u}_p+\alpha_3 \textbf{T} +\textbf{T}\times\textbf{u}_p)
+$$
+
+$$
+invgf=\frac{1}{1+\textbf{psm}^2}
+$$
+
+$$
+\textbf{p}=psm
+$$
+
+$$
+\textbf{r}=\textbf{r}+dt \textbf{p} invgf
+$$
+<br>
+<br>
+<b><u>Analysis</u></b><br>
+The \(\textbf{p}\) in the program is normalized momentum, which is,
+$$
+\textbf{p}=\frac{momentum}{m_0 c}
+$$
+Then it's easy to prove,
+$$
+\gamma=1/invgf=\sqrt{1+\textbf{p}^2}
+$$
+Then the variable \(\textbf{u}_p\) is, in fact, almost the momentum in the next moment, 
+$$
+\textbf{p}_{tmp}=\textbf{u}_p=\textbf{p}_{n}
++\frac{e\textbf{E}}{m}dt
++\frac{\textbf{p_n}}{\gamma}\times \textbf{T}
+$$
+This variable \(\textbf{p}_{tmp}\) is still not the final momentum. There is a correction with respects of magnetic field \(\textbf{T}\). The \(psm\) is the final result of the next momentum.<br>
+But it's true that, if the magnetic field is zero, then this correction does nothing...<br>
+
+
+
+<!--
++[打开公式页](Pusher算法,HTML)
+
+pow func::https://www.programiz.com/cpp-programming/library-function/cmath/pow
++[打开](,pow func)
+-->
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#54, 68:
+https://www.programiz.com/cpp-programming/library-function/cmath/pow
+## end
+#56, 53:
+file:///C:/Users/cheng/Desktop/paper/Smilei/Vay08.pdf
+## end
+#60, 176:
++[返回目录](,相对论运动方程)
+
+基本公式:...
+粒子运动轨迹(M函数):...
+平面电磁波:...
+平面波中电子运动轨迹(M函数):...
+
+接下来要重新看一下之前的矩阵. 
+
+相对论双折射::文档\物理问题\相对论双折射.txt
++[打开文件](+新窗口,相对论双折射)
+
+先完成基本的差分方程. 
++[matlab](Matlab,)
+
+
+
+## end
+#62, 592:
+<!--
++[H函数](,基本公式)
+
+-->
+
+这边是基本的相对论运动方程. 
+$$
+\vec{p}=\gamma m_0 \vec{v}
+$$
+$$
+\gamma^2 m_0^2 c^4=m_0^2 c^4+p^2 c^2
+$$$$
+\Rightarrow 
+\gamma=\sqrt{1+\frac{p^2}{m_0^2 c^2}}
+$$
+所以, 速度可以用动量表示为, 
+$$
+\vec{v}=\frac{c \vec{p}}{\sqrt{p^2 + m_0^2 c^2}}
+$$
+
+如果考虑在一个原有动量\(\vec{p}_0\)的基础上, 有一个垂直方向或者是水平方向的动量改变, 其会将速度变为,
+$$
+\vec{v}_\parallel=c \frac{\vec{p}_0 + d\vec{p}_\parallel}
+{\sqrt{\vec{p}_0^2 +2d\vec{p}_\parallel\cdot\vec{p}_0 +d\vec{p}_\parallel^2 + m_0^2 c^2}}
+$$
+$$
+\vec{v}_\perp=c \frac{\vec{p}_0 + d\vec{p}_\perp}
+{\sqrt{\vec{p}_0^2 +d\vec{p}_\perp^2 + m_0^2 c^2}}
+$$
+
+
+<!--
++[H函数](,基本公式)
+-->
+
+## end
+#64, 455:
+%{
++[M函数](,粒子运动轨迹)
+%}
+
+
+N=100;
+T=100;
+dp=0.00001*me*c;
+
+physics_constant;
+
+p0=[0;10]*me*c;
+t=linspace(0,100,N);
+
+dp1=zeros(2,N);
+dp1(1,:)=dp*cos(t/T*2*pi);
+p1=p0+dp1;
+gamma=sqrt(sum(p1.*p1)+me^2*c^2);
+v1=c*p1./gamma;
+
+dp2=zeros(2,N);
+dp2(2,:)=dp*cos(t/T*2*pi);
+p2=p0+dp2;
+gamma=sqrt(sum(p2.*p2)+me^2*c^2);
+v2=c*p2./gamma;
+
+
+subplot(1,2,1)
+plot(t,v1(1,:)-mean(v1(1,:)),t,v2(2,:)-mean(v2(2,:)))
+subplot(1,2,2)
+plot(t,v1,'b',t,v2,'r')
+
+
+%{
++[M函数](,粒子运动轨迹)
+%}
+## end
+#66, 1000:
+<!--
++[H函数](,平面电磁波)
+
+参考::文档\物理问题\激光a0.ftxt
++[打开文件](+新窗口,参考)
+高斯单位制::https://en.wikipedia.org/wiki/Gaussian_units
++[打开](,高斯单位制)
+-->
+
+那么首先是Maxwell's equations (in Gaussian units), 
+$$
+\nabla \times \vec{E}=-\frac{1}{c}\frac{\partial \vec{B}}{\partial t}
+$$
+$$
+\vec{E}=-\nabla \phi-\frac{1}{c}\frac{\partial \vec{A}}{\partial t}
+$$
+$$
+\vec{B}=\nabla \times \vec{A}
+$$
+在平面波中有, 
+$$
+i\vec{k} \times \vec{E}=\frac{i\omega}{c} \vec{B}
+$$
+在特定的规范下, 我们可以有, 
+$$
+\vec{E}=\frac{i\omega}{c}\vec{A}
+$$
+$$
+\vec{B}=i\vec{k} \times \vec{A}
+$$
+而, 高斯单位制中的电磁场和国际单位制中的电磁场之间的变换关系为, 
+$$
+E^{SI}=\frac{E^G}{\sqrt{4\pi\epsilon_0}},
+\ 
+B^{SI}=B^G\sqrt{\frac{\mu_0}{4\pi}}
+$$
+最后是电子会受到的力为(SI), 
+$$
+\frac{d\vec{p}}{dt}=-e\left(\vec{E}+\vec{v}\times \vec{B}\right)
+$$
+
+%场景<br>
+
+参考::文档\物理问题\激光a0.ftxt<br>
+其中有公式可以从激光能量直接计算得到\(\vec A\),
+$$
+I_0=\frac{2 E}{\sqrt{\pi}\pi w_0^2\tau}
+$$
+$$
+A_0=\sqrt{\frac{I_0 \lambda^2}{\pi c}}
+$$
+
+
+
+<!--
++[H函数](,平面电磁波)
++[打开公式页](平面电磁波,HTML)
++[打开公式页](,平面电磁波)
+HTML:...
+
+场景(画板)::
++画板(场景,)
++[画板](+平面波场景,场景)
+-->
+## end
+#68, 17:
+文档\物理问题\激光a0.ftxt
+## end
+#70, 44:
+https://en.wikipedia.org/wiki/Gaussian_units
+## end
+#73, 2:
+里面
+## end
+#74, 253:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+动词:...
+动作:...
+的(动词,去掉选中框)->+[做](,直线)->+[code](+[做],去掉选中框)
+
++[创建输入](线颜色,画图)...
+->+[创建输入](线型,画图)->+[创建输入](线粗细,画图)
+
++[粘贴](,直线)
+## end
+#89, 313:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#95, 313:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#96, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#97, 2:
+直线
+## end
+#98, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#102, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#105, 14:
++[返回目录]
++[内容]
+
+## end
+#106, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#108, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#109, 40:
++[返回目录](,动词)
+
+
+画选中框:...
+去掉选中框:...
+按键:...
+## end
+#113, 96:
+"""
++[返回目录](,去掉选中框)
+
+"""
+
++去掉选中框(,_物体)->+[del](,+去掉选中框)...
+->的(_物体,画图)->的(画图,图形)->+[修改内容](图形,画图)
+## end
+#114, 125:
+"""
++[返回目录](,画选中框)
+
+"""
+
++画选中框(,_物体)->+[del](,+画选中框)...
+->的(_物体,画图)->的(画图,图形)->的(画图,选中框)...
+->+[修改内容](图形,画图)->+[增加内容](选中框,画图)
+## end
+#115, 941:
+"""
++[返回目录](,按键)
++[修改标题]"按键"(,设置按键)
+
+"""
+
++按键(,_物体)->在(+按键,_鼠标位置)->+[del](,+按键)...
+->的(_物体,类型)->类型"直线"...
+->的(_物体,起点)->的(_物体,终点)->的(_物体,线粗细)...
+->+[.]"pm"([python],_鼠标位置)->+[.]"pt0"([python],起点)->+[.]"pt1"([python],终点)...
+->+[.]"width"([python],线粗细)->+按键位置->[python]"
+pt=pt0
+pt1=pt1
+pm=pm
+width=width[0]
+R=6
+
+X=[pt[0],pt1[0]]
+Y=[pt[1],pt1[1]]
+
+got=False
+for i in range(len(X)):
+    d=np.sqrt((X[i]-pm[0])**2+(Y[i]-pm[1])**2)
+    if d<=R:
+        got=True
+        break
+
+if got==False:
+    ans='里面'
+elif i==0:
+    ans='起点'
+else:
+    ans='终点'
+
+state=True
+"(Python,+按键位置)...
+->是([动作库],动作#0)->和(动作#0,画图动作)->的(画图动作,mouseMove#0)...
+->的(_物体,动作)...
+->[]{
+	[==]"里面"(,+按键位置)->的(动作,移动)->的(移动,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"起点"(,+按键位置)->的(动作,移动起点)->的(移动起点,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"终点"(,+按键位置)->的(动作,移动终点)->的(移动终点,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]
+## end
+#116, 72:
++[返回目录](,动作)
+
+移动:...
+移动起点:...
+移动终点:...
+
++[粘贴](,移动终点)
++[修改内容](移动,移动终点)
+
+
+
+## end
+#121, 46:
++[返回目录](,移动)
+
+mouseMove:...
++[del](,mouseMove)
+## end
+#123, 376:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"直线"...
+->的(_物体,起点)->的(_物体,终点)->的(_画板,m_mouse)...
+->+[python]"
+dx=pt2[0]-pt1[0]
+dy=pt2[1]-pt1[1]
+pt1=[m[0]-dx/2,m[1]-dy/2]
+pt2=[m[0]+dx/2,m[1]+dy/2]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt1"(+[python],起点)->+[o]"pt2"(+[python],终点)
+
+## end
+#124, 239:
+"""
++[返回目录](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_画板,m_mouse)...
+->+[python]"
+pt=m
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)
+
+## end
+#125, 29:
++[返回目录](,移动起点)
+
+mouseMove:...
+## end
+#127, 259:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"直线"...
+->的(_物体,起点)->的(_画板,m_mouse)...
+->+[python]"
+pt1=m
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt1"(+[python],起点)
+## end
+#128, 29:
++[返回目录](,移动终点)
+
+mouseMove:...
+## end
+#130, 259:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"直线"...
+->的(_物体,终点)->的(_画板,m_mouse)...
+->+[python]"
+pt2=m
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt2"(+[python],终点)
+## end
+#131, 200:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+
+
+ctx.beginPath();
+ctx.moveTo(%起点);
+ctx.lineTo(%终点)
+ctx.stroke();
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#133, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#139, 13:
+-160.0, 144.0
+## end
+#140, 12:
+-159.0, -5.0
+## end
+#141, 5:
+0,0,0
+## end
+#142, 8:
+DashLine
+## end
+#143, 1:
+1
+## end
+#144, 284:
++[返回目录](,圆形)
+
+中心::200,100
+半径::100
+类型::圆形
+角度::0
+
+
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+动词:...
+动作:...
+的(动词,画选中框)->+[做](,圆形)->+[code](+[做],画选中框)
+
++[创建输入](面颜色,画图)->+[创建输入](线颜色,画图)...
+->+[创建输入](线型,画图)->+[创建输入](线粗细,画图)
+
++[粘贴](,圆形)
+## end
+#161, 509:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0:
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#167, 493:
+"""
++[返回目录](,选中框)
+
+"""
+
+X=[pt[0],pt[0]+r*np.cos(theta),pt[0]+r]
+Y=[pt[1],pt[1]-r*np.sin(theta),pt[1]]
+R=6
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+
+qp.setPen(QPen(Qt.black,1,Qt.DashLine))
+qp.drawLine(X[0],Y[0],X[1],Y[1])
+qp.setPen(QPen(Qt.black,1,Qt.SolidLine))
+qp.drawLine(X[0],Y[0],X[2],Y[2])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+
+
+## end
+#168, 509:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0:
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+
+## end
+#169, 2:
+圆形
+## end
+#170, 164:
+"""
++[返回目录](,选中区域)
+输入:...
+
+"""
+
+pt=中心
+r=半径[0]
+pt0=mouse_pos
+
+Dx=pt[0]-pt0[0]
+Dy=pt[1]-pt0[1]
+Dr=np.sqrt(Dx**2+Dy**2)
+
+if Dr<=r:
+    state=True
+else:
+    state=False
+## end
+#173, 14:
++[返回目录]
++[内容]
+
+## end
+#174, 39:
++[返回目录](,输入)
++[内容]
+中心::200,100
+半径::100
+
+## end
+#177, 40:
++[返回目录](,动词)
+
+
+画选中框:...
+去掉选中框:...
+按键:...
+## end
+#181, 96:
+"""
++[返回目录](,去掉选中框)
+
+"""
+
++去掉选中框(,_物体)->+[del](,+去掉选中框)...
+->的(_物体,画图)->的(画图,图形)->+[修改内容](图形,画图)
+## end
+#182, 125:
+"""
++[返回目录](,画选中框)
+
+"""
+
++画选中框(,_物体)->+[del](,+画选中框)...
+->的(_物体,画图)->的(画图,图形)->的(画图,选中框)...
+->+[修改内容](图形,画图)->+[增加内容](选中框,画图)
+## end
+#183, 986:
+"""
++[返回目录](,按键)
++[修改标题]"按键"(,设置按键)
+
+"""
+
++按键(,_物体)->在(+按键,_鼠标位置)->+[del](,+按键)...
+->的(_物体,类型)->类型"圆形"...
+->的(_物体,中心)->的(_物体,半径)->的(_物体,角度)...
+->+[.]"pm"([python],_鼠标位置)->+[.]"pt"([python],中心)->+[.]"r"([python],半径)...
+->+[.]"angle"([python],角度)->+按键位置->[python]"
+pt=pt
+r=r[0]
+pm=pm
+angle=angle[0]
+theta=np.deg2rad(angle)
+R=6
+
+X=[pt[0]+r*np.cos(theta),pt[0]+r]
+Y=[pt[1]-r*np.sin(theta),pt[1]]
+
+got=False
+for i in range(len(X)):
+    d=np.sqrt((X[i]-pm[0])**2+(Y[i]-pm[1])**2)
+    if d<=R:
+        got=True
+        break
+
+if got==False:
+    ans='里面'
+elif i==0:
+    ans='角度点'
+else:
+    ans='半径点'
+
+state=True
+"(Python,+按键位置)...
+->是([动作库],动作#0)->和(动作#0,画图动作)->的(画图动作,mouseMove#0)...
+->的(_物体,动作)...
+->[]{
+	[==]"里面"(,+按键位置)->的(动作,移动)->的(移动,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"角度点"(,+按键位置)->的(动作,旋转)->的(旋转,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"半径点"(,+按键位置)->的(动作,缩放)->的(缩放,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]
+## end
+#184, 61:
++[返回目录](,动作)
+
+移动:...
+缩放:...
+旋转:...
+
++[粘贴](,旋转)
++[修改内容](移动,旋转)
+## end
+#188, 46:
++[返回目录](,移动)
+
+mouseMove:...
++[del](,mouseMove)
+## end
+#190, 258:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"圆形"...
+->的(_物体,中心)->的(_画板,m_mouse)...
+->+[python]"
+pt=m
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],中心)
+
+## end
+#191, 46:
++[返回目录](,缩放)
+
+mouseMove:...
++[del](,mouseMove)
+## end
+#193, 338:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"圆形"...
+->的(_物体,中心)->的(_物体,半径)->的(_画板,m_mouse)...
+->+[python]"
+dx=pt[0]-m[0]
+dy=pt[1]-m[1]
+r=np.sqrt(dx**2+dy**2)
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],中心)->+[o]"r"(+[python],半径)
+
+## end
+#194, 46:
++[返回目录](,旋转)
+
+mouseMove:...
++[del](,mouseMove)
+## end
+#196, 401:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"圆形"...
+->的(_物体,中心)->的(_物体,角度)->的(_画板,m_mouse)...
+->+[python]"
+dx=pt[0]-m[0]
+dy=pt[1]-m[1]
+r=np.sqrt(dx**2+dy**2)
+theta=np.sign(dy)*np.arccos(-dx/r)
+angle=np.rad2deg(theta)
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],中心)->+[o]"angle"(+[python],角度)
+
+## end
+#197, 306:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+}
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+
+
+ctx.beginPath();
+ctx.arc(%中心,%半径,0,2*Math.PI)
+ctx.fill()
+ctx.stroke()
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#199, 66:
++[返回目录](,输入)
+
+角度::0
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#207, 12:
+-161.0, -4.0
+## end
+#208, 18:
+28.284271247461902
+## end
+#209, 18:
+-79.69515353123397
+## end
+#210, 11:
+255,255,255
+## end
+#211, 5:
+0,0,0
+## end
+#212, 8:
+DashLine
+## end
+#213, 1:
+4
+## end
+#214, 2:
+里面
+## end
+#215, 3:
+半径点
+## end
+#216, 2:
+终点
+## end
+#217, 2:
+起点
+## end
+#218, 18:
+1.6105100000000008
+## end
+#220, 8:
+930, 245
+## end
+#222, 12:
+-300.0, 50.0
+## end
+#225, 253:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+动词:...
+动作:...
+的(动词,去掉选中框)->+[做](,直线)->+[code](+[做],去掉选中框)
+
++[创建输入](线颜色,画图)...
+->+[创建输入](线型,画图)->+[创建输入](线粗细,画图)
+
++[粘贴](,直线)
+## end
+#240, 313:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#246, 313:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#247, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#248, 2:
+直线
+## end
+#249, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#253, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#256, 14:
++[返回目录]
++[内容]
+
+## end
+#257, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#259, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#260, 40:
++[返回目录](,动词)
+
+
+画选中框:...
+去掉选中框:...
+按键:...
+## end
+#264, 96:
+"""
++[返回目录](,去掉选中框)
+
+"""
+
++去掉选中框(,_物体)->+[del](,+去掉选中框)...
+->的(_物体,画图)->的(画图,图形)->+[修改内容](图形,画图)
+## end
+#265, 125:
+"""
++[返回目录](,画选中框)
+
+"""
+
++画选中框(,_物体)->+[del](,+画选中框)...
+->的(_物体,画图)->的(画图,图形)->的(画图,选中框)...
+->+[修改内容](图形,画图)->+[增加内容](选中框,画图)
+## end
+#266, 941:
+"""
++[返回目录](,按键)
++[修改标题]"按键"(,设置按键)
+
+"""
+
++按键(,_物体)->在(+按键,_鼠标位置)->+[del](,+按键)...
+->的(_物体,类型)->类型"直线"...
+->的(_物体,起点)->的(_物体,终点)->的(_物体,线粗细)...
+->+[.]"pm"([python],_鼠标位置)->+[.]"pt0"([python],起点)->+[.]"pt1"([python],终点)...
+->+[.]"width"([python],线粗细)->+按键位置->[python]"
+pt=pt0
+pt1=pt1
+pm=pm
+width=width[0]
+R=6
+
+X=[pt[0],pt1[0]]
+Y=[pt[1],pt1[1]]
+
+got=False
+for i in range(len(X)):
+    d=np.sqrt((X[i]-pm[0])**2+(Y[i]-pm[1])**2)
+    if d<=R:
+        got=True
+        break
+
+if got==False:
+    ans='里面'
+elif i==0:
+    ans='起点'
+else:
+    ans='终点'
+
+state=True
+"(Python,+按键位置)...
+->是([动作库],动作#0)->和(动作#0,画图动作)->的(画图动作,mouseMove#0)...
+->的(_物体,动作)...
+->[]{
+	[==]"里面"(,+按键位置)->的(动作,移动)->的(移动,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"起点"(,+按键位置)->的(动作,移动起点)->的(移动起点,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"终点"(,+按键位置)->的(动作,移动终点)->的(移动终点,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]
+## end
+#267, 72:
++[返回目录](,动作)
+
+移动:...
+移动起点:...
+移动终点:...
+
++[粘贴](,移动终点)
++[修改内容](移动,移动终点)
+
+
+
+## end
+#272, 46:
++[返回目录](,移动)
+
+mouseMove:...
++[del](,mouseMove)
+## end
+#274, 376:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"直线"...
+->的(_物体,起点)->的(_物体,终点)->的(_画板,m_mouse)...
+->+[python]"
+dx=pt2[0]-pt1[0]
+dy=pt2[1]-pt1[1]
+pt1=[m[0]-dx/2,m[1]-dy/2]
+pt2=[m[0]+dx/2,m[1]+dy/2]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt1"(+[python],起点)->+[o]"pt2"(+[python],终点)
+
+## end
+#275, 239:
+"""
++[返回目录](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_画板,m_mouse)...
+->+[python]"
+pt=m
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)
+
+## end
+#276, 29:
++[返回目录](,移动起点)
+
+mouseMove:...
+## end
+#278, 259:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"直线"...
+->的(_物体,起点)->的(_画板,m_mouse)...
+->+[python]"
+pt1=m
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt1"(+[python],起点)
+## end
+#279, 29:
++[返回目录](,移动终点)
+
+mouseMove:...
+## end
+#281, 259:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"直线"...
+->的(_物体,终点)->的(_画板,m_mouse)...
+->+[python]"
+pt2=m
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt2"(+[python],终点)
+## end
+#282, 200:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+
+
+ctx.beginPath();
+ctx.moveTo(%起点);
+ctx.lineTo(%终点)
+ctx.stroke();
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#284, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#290, 12:
+-258.0, -7.5
+## end
+#291, 12:
+-522.0, -6.5
+## end
+#292, 5:
+0,0,0
+## end
+#293, 8:
+DashLine
+## end
+#294, 1:
+1
+## end
+#295, 2:
+里面
+## end
+#296, 2:
+终点
+## end
+#297, 2:
+里面
+## end
+#298, 253:
++[返回目录](,直线)
+
+起点::300,-150
+终点::100,-100
+类型::直线
+
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
+
+动词:...
+动作:...
+的(动词,去掉选中框)->+[做](,直线)->+[code](+[做],去掉选中框)
+
++[创建输入](线颜色,画图)...
+->+[创建输入](线型,画图)->+[创建输入](线粗细,画图)
+
++[粘贴](,直线)
+## end
+#313, 313:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#319, 313:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:...
+选中框:...
+
+"""
+pt1=起点
+pt2=终点
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawLine(pt1[0],pt1[1],pt2[0],pt2[1])
+qp.setPen(QPen())
+
+
+
+## end
+#320, 258:
+"""
++[返回目录](,选中框)
+
+"""
+X=[pt1[0],pt2[0]]
+Y=[pt1[1],pt2[1]]
+R=6
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+## end
+#321, 2:
+直线
+## end
+#322, 347:
+"""
++[返回目录](,选中区域)
+输入:...
+
+点线公式:...
++[网页](web,点线公式)
+
+"""
+
+pt1=起点
+pt2=终点
+pt=mouse_pos
+
+R=np.sqrt((pt1[0]-pt2[0])**2+(pt1[1]-pt2[1])**2)
+d=np.abs(((pt[1]-pt1[1])*(pt2[0]-pt1[0])-(pt[0]-pt1[0])*(pt2[1]-pt1[1]))/R)
+l=((pt[1]-pt1[1])*(pt2[1]-pt1[1])+(pt[0]-pt1[0])*(pt2[0]-pt1[0]))/R**2
+
+
+if l>=0 and l<=1 and d<3:
+    state=True
+else:
+    state=False
+
+## end
+#326, 42:
++[返回目录](,输入)
+
+起点::200,100
+终点::218.0, -9.0
+
+## end
+#329, 14:
++[返回目录]
++[内容]
+
+## end
+#330, 886:
+<!--
++[返回目录](,点线公式)
++[网页](web,点线公式)
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+如果有两个点, 
+$$
+\vec{p}_A=(x_1,y_1), \vec{p}_B=(x_2,y_2)
+$$
+那么, \(\overrightarrow{AB}\)平行方向的向量和垂直方向的向量分别是,
+$$
+\vec{r}_\|=(x_2-x_1,y_2-y_1)
+$$$$
+\vec{r}_\perp=(-y_2+y_1,x_2-x_1)
+$$
+于是, 第三个点\(C\)到线段\(AB\)的距离为,
+$$
+d=\frac{\vec{r}_{AC}\cdot \vec{r}_\perp}{\|\vec{r}_\perp\|}\\
+=\frac{(y-y_1)(x_2-x_1)-(x-x_1)(y_2-y_1)}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}
+$$
+而判断\(C\)在\(A\)和\(B\)之间的判据为,
+$$
+l=\frac{\vec{r}_{AC}\cdot \vec{r}_\|}{\|\vec{r}_\|\|^2}\\
+=\frac{(y-y_1)(y_2-y_1)+(x-x_1)(x_2-x_1)}{(x_2-x_1)^2+(y_2-y_1)^2}
+$$
+
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#332, 56:
+https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+## end
+#333, 40:
++[返回目录](,动词)
+
+
+画选中框:...
+去掉选中框:...
+按键:...
+## end
+#337, 96:
+"""
++[返回目录](,去掉选中框)
+
+"""
+
++去掉选中框(,_物体)->+[del](,+去掉选中框)...
+->的(_物体,画图)->的(画图,图形)->+[修改内容](图形,画图)
+## end
+#338, 125:
+"""
++[返回目录](,画选中框)
+
+"""
+
++画选中框(,_物体)->+[del](,+画选中框)...
+->的(_物体,画图)->的(画图,图形)->的(画图,选中框)...
+->+[修改内容](图形,画图)->+[增加内容](选中框,画图)
+## end
+#339, 941:
+"""
++[返回目录](,按键)
++[修改标题]"按键"(,设置按键)
+
+"""
+
++按键(,_物体)->在(+按键,_鼠标位置)->+[del](,+按键)...
+->的(_物体,类型)->类型"直线"...
+->的(_物体,起点)->的(_物体,终点)->的(_物体,线粗细)...
+->+[.]"pm"([python],_鼠标位置)->+[.]"pt0"([python],起点)->+[.]"pt1"([python],终点)...
+->+[.]"width"([python],线粗细)->+按键位置->[python]"
+pt=pt0
+pt1=pt1
+pm=pm
+width=width[0]
+R=6
+
+X=[pt[0],pt1[0]]
+Y=[pt[1],pt1[1]]
+
+got=False
+for i in range(len(X)):
+    d=np.sqrt((X[i]-pm[0])**2+(Y[i]-pm[1])**2)
+    if d<=R:
+        got=True
+        break
+
+if got==False:
+    ans='里面'
+elif i==0:
+    ans='起点'
+else:
+    ans='终点'
+
+state=True
+"(Python,+按键位置)...
+->是([动作库],动作#0)->和(动作#0,画图动作)->的(画图动作,mouseMove#0)...
+->的(_物体,动作)...
+->[]{
+	[==]"里面"(,+按键位置)->的(动作,移动)->的(移动,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"起点"(,+按键位置)->的(动作,移动起点)->的(移动起点,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"终点"(,+按键位置)->的(动作,移动终点)->的(移动终点,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]
+## end
+#340, 72:
++[返回目录](,动作)
+
+移动:...
+移动起点:...
+移动终点:...
+
++[粘贴](,移动终点)
++[修改内容](移动,移动终点)
+
+
+
+## end
+#345, 46:
++[返回目录](,移动)
+
+mouseMove:...
++[del](,mouseMove)
+## end
+#347, 376:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"直线"...
+->的(_物体,起点)->的(_物体,终点)->的(_画板,m_mouse)...
+->+[python]"
+dx=pt2[0]-pt1[0]
+dy=pt2[1]-pt1[1]
+pt1=[m[0]-dx/2,m[1]-dy/2]
+pt2=[m[0]+dx/2,m[1]+dy/2]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt1"(+[python],起点)->+[o]"pt2"(+[python],终点)
+
+## end
+#348, 239:
+"""
++[返回目录](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_画板,m_mouse)...
+->+[python]"
+pt=m
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)
+
+## end
+#349, 29:
++[返回目录](,移动起点)
+
+mouseMove:...
+## end
+#351, 259:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"直线"...
+->的(_物体,起点)->的(_画板,m_mouse)...
+->+[python]"
+pt1=m
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt1"(+[python],起点)
+## end
+#352, 29:
++[返回目录](,移动终点)
+
+mouseMove:...
+## end
+#354, 259:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"直线"...
+->的(_物体,终点)->的(_画板,m_mouse)...
+->+[python]"
+pt2=m
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt2"(+[python],终点)
+## end
+#355, 200:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+
+
+ctx.beginPath();
+ctx.moveTo(%起点);
+ctx.lineTo(%终点)
+ctx.stroke();
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#357, 31:
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+## end
+#363, 12:
+-516.0, 85.0
+## end
+#364, 12:
+-515.0, -6.0
+## end
+#365, 5:
+0,0,0
+## end
+#366, 8:
+DashLine
+## end
+#367, 1:
+1
+## end
+#368, 2:
+终点
+## end
+#369, 2:
+起点
+## end
+#370, 507:
++[返回目录](,矩形)
+
+起点::-200,100
+尺寸::100,100
+类型::矩形
+文字::
+字体::10
+
+面颜色::None
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
++[Canvas画图模板](,HTML)
+
++[生成类函数](画图,+[显示])->+[显示]
+的(画图,输入)->的(输入,_变量)->+[显示](,_变量)
+
+动词:...
+动作:...
++[复制结构](,动词)
+
+的(动词,画选中框)->+[做](,矩形)->+[code](+[做],画选中框)
+
++[创建输入](文字,画图)
++[创建输入](字体,画图)
++[创建输入](面颜色,画图)->+[创建输入](线颜色,画图)...
+->+[创建输入](线型,画图)->+[创建输入](线粗细,画图)
+
+的(动词,按键)->的(按键,核心代码)...
+->+[创建输入](起点,核心代码)->+[创建输入](尺寸,核心代码)
+
++[按键](,矩形)->+[在](+[按键],+[鼠标])->+[鼠标]"0,0"
+## end
+#386, 840:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+pt=起点
+size=尺寸
+size_F=字体[0]
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(pt[0],pt[1],size[0],size[1],Qt.AlignHCenter|Qt.AlignVCenter,文字)
+qp.setFont(QFont())
+
+#if isinstance(文字,str):
+#    qp.setFont(QFont("Decorative",size_F))
+#    dy=size_F*1.4
+#    dx=len(文字)*size_F*1.65
+#    qp.drawText(pt[0]-dx/2+size[0]/2,pt[1]+dy/2+size[1]/2,文字)
+#    qp.setFont(QFont())
+
+
+
+
+
+## end
+#392, 677:
+"""
++[返回目录](,选中框)
+
+"""
+
+
+X=[pt[0],pt[0]+size[0]/2,pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]/2,pt[1]+size[1]]
+R=6
+
+qp.setBrush(QBrush())
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[0]-R,2*R,2*R)
+
+if size[0]>30 or size[0]<-30:
+    qp.drawEllipse(X[1]-R,Y[0]-R,2*R,2*R)
+    qp.drawEllipse(X[1]-R,Y[2]-R,2*R,2*R)
+
+if size[1]>30 or size[1]<-30:
+    qp.drawEllipse(X[0]-R,Y[1]-R,2*R,2*R)
+    qp.drawEllipse(X[2]-R,Y[1]-R,2*R,2*R)
+
+
+qp.drawEllipse(X[0]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+## end
+#393, 840:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+pt=起点
+size=尺寸
+size_F=字体[0]
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(pt[0],pt[1],size[0],size[1],Qt.AlignHCenter|Qt.AlignVCenter,文字)
+qp.setFont(QFont())
+
+#if isinstance(文字,str):
+#    qp.setFont(QFont("Decorative",size_F))
+#    dy=size_F*1.4
+#    dx=len(文字)*size_F*1.65
+#    qp.drawText(pt[0]-dx/2+size[0]/2,pt[1]+dy/2+size[1]/2,文字)
+#    qp.setFont(QFont())
+
+
+
+
+
+## end
+#394, 2:
+矩形
+## end
+#395, 218:
+"""
++[返回目录](,选中区域)
+输入:...
+
+"""
+
+pt=起点
+pt0=mouse_pos
+size=尺寸
+
+X=[pt[0],pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]]
+
+if (pt0[0]-X[0])*(pt0[0]-X[1])<=0 and (pt0[1]-Y[0])*(pt0[1]-Y[1])<=0:
+    state=True
+else:
+    state=False
+
+
+## end
+#398, 14:
++[返回目录]
++[内容]
+
+## end
+#399, 55:
++[返回目录](,输入)
++[内容]
+起点::-384.0, -117.0
+尺寸::168.0, 112.0
+
+## end
+#402, 41:
++[返回目录](,动词)
+
+
+画选中框:...
+去掉选中框:...
+按键:...
+
+## end
+#406, 125:
+"""
++[返回目录](,画选中框)
+
+"""
+
++画选中框(,_物体)->+[del](,+画选中框)...
+->的(_物体,画图)->的(画图,图形)->的(画图,选中框)...
+->+[修改内容](图形,画图)->+[增加内容](选中框,画图)
+## end
+#407, 96:
+"""
++[返回目录](,去掉选中框)
+
+"""
+
++去掉选中框(,_物体)->+[del](,+去掉选中框)...
+->的(_物体,画图)->的(画图,图形)->+[修改内容](图形,画图)
+## end
+#408, 1846:
+"""
++[返回目录](,按键)
++[修改标题]"按键"(,设置按键)
+
+P代码:...
++[创建函数](,P代码)
+保存:...
+
+"""
+
++按键(,_物体)->在(+按键,_鼠标位置)->+[del](,+按键)...
+->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)...
+->+[.]"pm"([python],_鼠标位置)->+[.]"pt"([python],起点)->+[.]"size"([python],尺寸)...
+->+按键位置->[python]"
+pt=pt
+size=size
+pm=pm
+R=6
+
+X=[pt[0],pt[0]+size[0],pt[0]+size[0]/2]
+Y=[pt[1],pt[1]+size[1],pt[1]+size[1]/2]
+
+got=False
+for i in range(len(X)):
+    for j in range(len(Y)):
+        d=np.sqrt((X[i]-pm[0])**2+(Y[j]-pm[1])**2)
+        if d<=R:
+            got=True
+            break
+    if got:
+        break
+
+if i==0 and j==0:
+    ans='左上角'
+elif i==0 and j==1:
+    ans='左下角'
+elif i==1 and j==0:
+    ans='右上角'
+elif i==1 and j==1:
+    ans='右下角'
+
+elif i==0 and j==2:
+    ans='左面'
+elif i==1 and j==2:
+    ans='右面'
+elif i==2 and j==0:
+    ans='上面'
+elif i==2 and j==1:
+    ans='下面'
+
+else:
+    ans='里面'
+
+state=True
+"(Python,+按键位置)...
+->是([动作库],动作#0)->和(动作#0,画图动作)->的(画图动作,mouseMove#0)...
+->的(_物体,动作)...
+->[]{
+	[==]"里面"(,+按键位置)->的(动作,移动)->的(移动,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"上面"(,+按键位置)->的(动作,上展宽)->的(上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"下面"(,+按键位置)->的(动作,下展宽)->的(下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左面"(,+按键位置)->的(动作,左展宽)->的(左展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右面"(,+按键位置)->的(动作,右展宽)->的(右展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左上角"(,+按键位置)->的(动作,左上展宽)->的(左上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右下角"(,+按键位置)->的(动作,右下展宽)->的(右下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左下角"(,+按键位置)->的(动作,左下展宽)->的(左下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右上角"(,+按键位置)->的(动作,右上展宽)->的(右上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]
+## end
+#411, 659:
+"""
++[返回目录](,P代码)
++[P函数](,P代码)
++[修改标题]"P代码"(,核心代码)
+
+"""
+
+pt=起点[0]
+size=尺寸[0]
+pm=mouse_pos
+R=6
+
+X=[pt[0],pt[0]+size[0],pt[0]+size[0]/2]
+Y=[pt[1],pt[1]+size[1],pt[1]+size[1]/2]
+
+got=False
+for i in range(len(X)):
+    for j in range(len(Y)):
+        d=np.sqrt((X[i]-pm[0])**2+(Y[j]-pm[1])**2)
+        if d<=R:
+            got=True
+            break
+    if got:
+        break
+
+if i==0 and j==0:
+    ans='左上角'
+elif i==0 and j==1:
+    ans='左下角'
+elif i==1 and j==0:
+    ans='右上角'
+elif i==1 and j==1:
+    ans='右下角'
+
+elif i==0 and j==2:
+    ans='左面'
+elif i==1 and j==2:
+    ans='右面'
+elif i==2 and j==0:
+    ans='上面'
+elif i==2 and j==1:
+    ans='下面'
+
+else:
+    ans='里面'
+
+## end
+#414, 14:
++[返回目录]
++[内容]
+
+## end
+#415, 50:
++[返回目录]
++[内容]
+起点::-237.5, 105.5
+尺寸::437.0, -197.0
+
+## end
+#418, 1806:
+"""
++[返回目录](,保存)
+
+"""
+
++按键(,_物体)->在(+按键,_鼠标位置)->+[del](,+按键)...
+->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)...
+->+[.]"pm"([python],_鼠标位置)->+[.]"pt"([python],起点)->+[.]"size"([python],尺寸)...
+->+按键位置->[python]"
+pt=pt[0]
+size=size[0]
+pm=pm[0]
+R=6
+
+X=[pt[0],pt[0]+size[0],pt[0]+size[0]/2]
+Y=[pt[1],pt[1]+size[1],pt[1]+size[1]/2]
+
+got=False
+for i in range(len(X)):
+    for j in range(len(Y)):
+        d=np.sqrt((X[i]-pm[0])**2+(Y[j]-pm[1])**2)
+        if d<=R:
+            got=True
+            break
+    if got:
+        break
+
+if i==0 and j==0:
+    ans='左上角'
+elif i==0 and j==1:
+    ans='左下角'
+elif i==1 and j==0:
+    ans='右上角'
+elif i==1 and j==1:
+    ans='右下角'
+
+elif i==0 and j==2:
+    ans='左面'
+elif i==1 and j==2:
+    ans='右面'
+elif i==2 and j==0:
+    ans='上面'
+elif i==2 and j==1:
+    ans='下面'
+
+else:
+    ans='里面'
+
+state=True
+"(Python,+按键位置)...
+->是([动作库],动作#0)->和(动作#0,画图动作)->的(画图动作,mouseMove#0)...
+->的(_物体,动作)...
+->[]{
+	[==]"里面"(,+按键位置)->的(动作,移动)->的(移动,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"上面"(,+按键位置)->的(动作,上展宽)->的(上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"下面"(,+按键位置)->的(动作,下展宽)->的(下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左面"(,+按键位置)->的(动作,左展宽)->的(左展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右面"(,+按键位置)->的(动作,右展宽)->的(右展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左上角"(,+按键位置)->的(动作,左上展宽)->的(左上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右下角"(,+按键位置)->的(动作,右下展宽)->的(右下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左下角"(,+按键位置)->的(动作,左下展宽)->的(左下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右上角"(,+按键位置)->的(动作,右上展宽)->的(右上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]
+## end
+#419, 221:
++[返回目录](,动作)
+
+移动:...
+上展宽:...
+下展宽:...
+左展宽:...
+右展宽:...
+左上展宽:...
+左下展宽:...
+右上展宽:...
+右下展宽:...
+
+
+是([动作库],动作)->和(动作,画图动作)->的(画图动作,mouseMove)...
+->的(下展宽,mouseMove#0)->+[修改内容](mouseMove#0,mouseMove)
+
+
+是([动作库],动作)->+[打开文件](+新窗口,动作)
+## end
+#429, 27:
++[返回目录](,移动)
+
+mouseMove:...
+## end
+#431, 313:
+"""
++[返回目录](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+pt[0]=m[0]-size[0]/2
+pt[1]=m[1]-size[1]/2
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[.]"size"(+[python],尺寸)
+
+## end
+#432, 28:
++[返回目录](,上展宽)
+
+mouseMove:...
+## end
+#434, 339:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+y0=pt[1]+size[1]
+ym=m[1]
+size[1]=y0-ym
+pt[1]=ym
+
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#435, 28:
++[返回目录](,下展宽)
+
+mouseMove:...
+## end
+#437, 321:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+y0=pt[1]
+ym=m[1]
+size[1]=ym-y0
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#438, 28:
++[返回目录](,左展宽)
+
+mouseMove:...
+## end
+#440, 339:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+x0=pt[0]+size[0]
+xm=m[0]
+size[0]=x0-xm
+pt[0]=xm
+
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#441, 28:
++[返回目录](,右展宽)
+
+mouseMove:...
+## end
+#443, 321:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+x0=pt[0]
+xm=m[0]
+size[0]=xm-x0
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#444, 29:
++[返回目录](,左上展宽)
+
+mouseMove:...
+## end
+#446, 366:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+size[0]=pt[0]+size[0]-m[0]
+size[1]=pt[1]+size[1]-m[1]
+pt[0]=m[0]
+pt[1]=m[1]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#447, 29:
++[返回目录](,左下展宽)
+
+mouseMove:...
+## end
+#449, 366:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+size[0]=pt[0]+size[0]-m[0]
+size[1]=m[1]-pt[1]
+pt[0]=m[0]
+pt[1]=m[1]-size[1]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#450, 29:
++[返回目录](,右上展宽)
+
+mouseMove:...
+## end
+#452, 366:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+size[0]=m[0]-pt[0]
+size[1]=pt[1]+size[1]-m[1]
+pt[0]=m[0]-size[0]
+pt[1]=m[1]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#453, 29:
++[返回目录](,右下展宽)
+
+mouseMove:...
+## end
+#455, 328:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+size[0]=m[0]-pt[0]
+size[1]=m[1]-pt[1]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#456, 477:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+}
+
+var size=[%尺寸];
+var pos=[%起点]
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+
+ctx.strokeRect(%起点,%尺寸);
+ctx.fillRect(%起点,%尺寸);
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font=%字体*2+'px serif'
+ctx.fillText('%文字',pos[0]+size[0]/2,pos[1]+size[1]/2);
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#459, 14:
++[返回目录]
++[内容]
+
+## end
+#460, 76:
++[返回目录](,输入)
+
+面颜色::255,255,255
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+文字::测试
+字体::20
+
+## end
+#469, 17:
+-296.375, -70.875
+## end
+#470, 12:
+44.75, 53.75
+## end
+#471, 4:
+None
+## end
+#472, 5:
+0,0,0
+## end
+#473, 8:
+DashLine
+## end
+#474, 1:
+1
+## end
+#475, 1:
+k
+## end
+#476, 2:
+20
+## end
+#477, 2:
+里面
+## end
+#478, 3:
+右下角
+## end
+#479, 2:
+里面
+## end
+#480, 507:
++[返回目录](,矩形)
+
+起点::-200,100
+尺寸::100,100
+类型::矩形
+文字::
+字体::10
+
+面颜色::None
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+的(画图,输入)->+[有](HTML,输入)
++[Canvas画图模板](,HTML)
+
++[生成类函数](画图,+[显示])->+[显示]
+的(画图,输入)->的(输入,_变量)->+[显示](,_变量)
+
+动词:...
+动作:...
++[复制结构](,动词)
+
+的(动词,画选中框)->+[做](,矩形)->+[code](+[做],画选中框)
+
++[创建输入](文字,画图)
++[创建输入](字体,画图)
++[创建输入](面颜色,画图)->+[创建输入](线颜色,画图)...
+->+[创建输入](线型,画图)->+[创建输入](线粗细,画图)
+
+的(动词,按键)->的(按键,核心代码)...
+->+[创建输入](起点,核心代码)->+[创建输入](尺寸,核心代码)
+
++[按键](,矩形)->+[在](+[按键],+[鼠标])->+[鼠标]"0,0"
+## end
+#496, 840:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+pt=起点
+size=尺寸
+size_F=字体[0]
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(pt[0],pt[1],size[0],size[1],Qt.AlignHCenter|Qt.AlignVCenter,文字)
+qp.setFont(QFont())
+
+#if isinstance(文字,str):
+#    qp.setFont(QFont("Decorative",size_F))
+#    dy=size_F*1.4
+#    dx=len(文字)*size_F*1.65
+#    qp.drawText(pt[0]-dx/2+size[0]/2,pt[1]+dy/2+size[1]/2,文字)
+#    qp.setFont(QFont())
+
+
+
+
+
+## end
+#502, 677:
+"""
++[返回目录](,选中框)
+
+"""
+
+
+X=[pt[0],pt[0]+size[0]/2,pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]/2,pt[1]+size[1]]
+R=6
+
+qp.setBrush(QBrush())
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[0]-R,Y[0]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[0]-R,2*R,2*R)
+
+if size[0]>30 or size[0]<-30:
+    qp.drawEllipse(X[1]-R,Y[0]-R,2*R,2*R)
+    qp.drawEllipse(X[1]-R,Y[2]-R,2*R,2*R)
+
+if size[1]>30 or size[1]<-30:
+    qp.drawEllipse(X[0]-R,Y[1]-R,2*R,2*R)
+    qp.drawEllipse(X[2]-R,Y[1]-R,2*R,2*R)
+
+
+qp.drawEllipse(X[0]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+## end
+#503, 840:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+
+图形:...
+选中框:...
+
+"""
+
+
+pt=起点
+size=尺寸
+size_F=字体[0]
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0 or 面颜色=='None':
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+qp.drawRect(pt[0],pt[1],size[0],size[1])
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(pt[0],pt[1],size[0],size[1],Qt.AlignHCenter|Qt.AlignVCenter,文字)
+qp.setFont(QFont())
+
+#if isinstance(文字,str):
+#    qp.setFont(QFont("Decorative",size_F))
+#    dy=size_F*1.4
+#    dx=len(文字)*size_F*1.65
+#    qp.drawText(pt[0]-dx/2+size[0]/2,pt[1]+dy/2+size[1]/2,文字)
+#    qp.setFont(QFont())
+
+
+
+
+
+## end
+#504, 2:
+矩形
+## end
+#505, 218:
+"""
++[返回目录](,选中区域)
+输入:...
+
+"""
+
+pt=起点
+pt0=mouse_pos
+size=尺寸
+
+X=[pt[0],pt[0]+size[0]]
+Y=[pt[1],pt[1]+size[1]]
+
+if (pt0[0]-X[0])*(pt0[0]-X[1])<=0 and (pt0[1]-Y[0])*(pt0[1]-Y[1])<=0:
+    state=True
+else:
+    state=False
+
+
+## end
+#508, 14:
++[返回目录]
++[内容]
+
+## end
+#509, 55:
++[返回目录](,输入)
++[内容]
+起点::-384.0, -117.0
+尺寸::168.0, 112.0
+
+## end
+#512, 41:
++[返回目录](,动词)
+
+
+画选中框:...
+去掉选中框:...
+按键:...
+
+## end
+#516, 125:
+"""
++[返回目录](,画选中框)
+
+"""
+
++画选中框(,_物体)->+[del](,+画选中框)...
+->的(_物体,画图)->的(画图,图形)->的(画图,选中框)...
+->+[修改内容](图形,画图)->+[增加内容](选中框,画图)
+## end
+#517, 96:
+"""
++[返回目录](,去掉选中框)
+
+"""
+
++去掉选中框(,_物体)->+[del](,+去掉选中框)...
+->的(_物体,画图)->的(画图,图形)->+[修改内容](图形,画图)
+## end
+#518, 1846:
+"""
++[返回目录](,按键)
++[修改标题]"按键"(,设置按键)
+
+P代码:...
++[创建函数](,P代码)
+保存:...
+
+"""
+
++按键(,_物体)->在(+按键,_鼠标位置)->+[del](,+按键)...
+->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)...
+->+[.]"pm"([python],_鼠标位置)->+[.]"pt"([python],起点)->+[.]"size"([python],尺寸)...
+->+按键位置->[python]"
+pt=pt
+size=size
+pm=pm
+R=6
+
+X=[pt[0],pt[0]+size[0],pt[0]+size[0]/2]
+Y=[pt[1],pt[1]+size[1],pt[1]+size[1]/2]
+
+got=False
+for i in range(len(X)):
+    for j in range(len(Y)):
+        d=np.sqrt((X[i]-pm[0])**2+(Y[j]-pm[1])**2)
+        if d<=R:
+            got=True
+            break
+    if got:
+        break
+
+if i==0 and j==0:
+    ans='左上角'
+elif i==0 and j==1:
+    ans='左下角'
+elif i==1 and j==0:
+    ans='右上角'
+elif i==1 and j==1:
+    ans='右下角'
+
+elif i==0 and j==2:
+    ans='左面'
+elif i==1 and j==2:
+    ans='右面'
+elif i==2 and j==0:
+    ans='上面'
+elif i==2 and j==1:
+    ans='下面'
+
+else:
+    ans='里面'
+
+state=True
+"(Python,+按键位置)...
+->是([动作库],动作#0)->和(动作#0,画图动作)->的(画图动作,mouseMove#0)...
+->的(_物体,动作)...
+->[]{
+	[==]"里面"(,+按键位置)->的(动作,移动)->的(移动,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"上面"(,+按键位置)->的(动作,上展宽)->的(上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"下面"(,+按键位置)->的(动作,下展宽)->的(下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左面"(,+按键位置)->的(动作,左展宽)->的(左展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右面"(,+按键位置)->的(动作,右展宽)->的(右展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左上角"(,+按键位置)->的(动作,左上展宽)->的(左上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右下角"(,+按键位置)->的(动作,右下展宽)->的(右下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左下角"(,+按键位置)->的(动作,左下展宽)->的(左下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右上角"(,+按键位置)->的(动作,右上展宽)->的(右上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]
+## end
+#521, 659:
+"""
++[返回目录](,P代码)
++[P函数](,P代码)
++[修改标题]"P代码"(,核心代码)
+
+"""
+
+pt=起点[0]
+size=尺寸[0]
+pm=mouse_pos
+R=6
+
+X=[pt[0],pt[0]+size[0],pt[0]+size[0]/2]
+Y=[pt[1],pt[1]+size[1],pt[1]+size[1]/2]
+
+got=False
+for i in range(len(X)):
+    for j in range(len(Y)):
+        d=np.sqrt((X[i]-pm[0])**2+(Y[j]-pm[1])**2)
+        if d<=R:
+            got=True
+            break
+    if got:
+        break
+
+if i==0 and j==0:
+    ans='左上角'
+elif i==0 and j==1:
+    ans='左下角'
+elif i==1 and j==0:
+    ans='右上角'
+elif i==1 and j==1:
+    ans='右下角'
+
+elif i==0 and j==2:
+    ans='左面'
+elif i==1 and j==2:
+    ans='右面'
+elif i==2 and j==0:
+    ans='上面'
+elif i==2 and j==1:
+    ans='下面'
+
+else:
+    ans='里面'
+
+## end
+#524, 14:
++[返回目录]
++[内容]
+
+## end
+#525, 50:
++[返回目录]
++[内容]
+起点::-237.5, 105.5
+尺寸::437.0, -197.0
+
+## end
+#528, 1806:
+"""
++[返回目录](,保存)
+
+"""
+
++按键(,_物体)->在(+按键,_鼠标位置)->+[del](,+按键)...
+->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)...
+->+[.]"pm"([python],_鼠标位置)->+[.]"pt"([python],起点)->+[.]"size"([python],尺寸)...
+->+按键位置->[python]"
+pt=pt[0]
+size=size[0]
+pm=pm[0]
+R=6
+
+X=[pt[0],pt[0]+size[0],pt[0]+size[0]/2]
+Y=[pt[1],pt[1]+size[1],pt[1]+size[1]/2]
+
+got=False
+for i in range(len(X)):
+    for j in range(len(Y)):
+        d=np.sqrt((X[i]-pm[0])**2+(Y[j]-pm[1])**2)
+        if d<=R:
+            got=True
+            break
+    if got:
+        break
+
+if i==0 and j==0:
+    ans='左上角'
+elif i==0 and j==1:
+    ans='左下角'
+elif i==1 and j==0:
+    ans='右上角'
+elif i==1 and j==1:
+    ans='右下角'
+
+elif i==0 and j==2:
+    ans='左面'
+elif i==1 and j==2:
+    ans='右面'
+elif i==2 and j==0:
+    ans='上面'
+elif i==2 and j==1:
+    ans='下面'
+
+else:
+    ans='里面'
+
+state=True
+"(Python,+按键位置)...
+->是([动作库],动作#0)->和(动作#0,画图动作)->的(画图动作,mouseMove#0)...
+->的(_物体,动作)...
+->[]{
+	[==]"里面"(,+按键位置)->的(动作,移动)->的(移动,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"上面"(,+按键位置)->的(动作,上展宽)->的(上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"下面"(,+按键位置)->的(动作,下展宽)->的(下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左面"(,+按键位置)->的(动作,左展宽)->的(左展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右面"(,+按键位置)->的(动作,右展宽)->的(右展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左上角"(,+按键位置)->的(动作,左上展宽)->的(左上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右下角"(,+按键位置)->的(动作,右下展宽)->的(右下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"左下角"(,+按键位置)->的(动作,左下展宽)->的(左下展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]{
+	[==]"右上角"(,+按键位置)->的(动作,右上展宽)->的(右上展宽,mouseMove)...
+	->+[修改内容](mouseMove,mouseMove#0)
+}:->[],->>[]
+## end
+#529, 221:
++[返回目录](,动作)
+
+移动:...
+上展宽:...
+下展宽:...
+左展宽:...
+右展宽:...
+左上展宽:...
+左下展宽:...
+右上展宽:...
+右下展宽:...
+
+
+是([动作库],动作)->和(动作,画图动作)->的(画图动作,mouseMove)...
+->的(下展宽,mouseMove#0)->+[修改内容](mouseMove#0,mouseMove)
+
+
+是([动作库],动作)->+[打开文件](+新窗口,动作)
+## end
+#539, 27:
++[返回目录](,移动)
+
+mouseMove:...
+## end
+#541, 313:
+"""
++[返回目录](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+pt[0]=m[0]-size[0]/2
+pt[1]=m[1]-size[1]/2
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[.]"size"(+[python],尺寸)
+
+## end
+#542, 28:
++[返回目录](,上展宽)
+
+mouseMove:...
+## end
+#544, 339:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+y0=pt[1]+size[1]
+ym=m[1]
+size[1]=y0-ym
+pt[1]=ym
+
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#545, 28:
++[返回目录](,下展宽)
+
+mouseMove:...
+## end
+#547, 321:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+y0=pt[1]
+ym=m[1]
+size[1]=ym-y0
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#548, 28:
++[返回目录](,左展宽)
+
+mouseMove:...
+## end
+#550, 339:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+x0=pt[0]+size[0]
+xm=m[0]
+size[0]=x0-xm
+pt[0]=xm
+
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#551, 28:
++[返回目录](,右展宽)
+
+mouseMove:...
+## end
+#553, 321:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+x0=pt[0]
+xm=m[0]
+size[0]=xm-x0
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#554, 29:
++[返回目录](,左上展宽)
+
+mouseMove:...
+## end
+#556, 366:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+size[0]=pt[0]+size[0]-m[0]
+size[1]=pt[1]+size[1]-m[1]
+pt[0]=m[0]
+pt[1]=m[1]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#557, 29:
++[返回目录](,左下展宽)
+
+mouseMove:...
+## end
+#559, 366:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+size[0]=pt[0]+size[0]-m[0]
+size[1]=m[1]-pt[1]
+pt[0]=m[0]
+pt[1]=m[1]-size[1]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#560, 29:
++[返回目录](,右上展宽)
+
+mouseMove:...
+## end
+#562, 366:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+size[0]=m[0]-pt[0]
+size[1]=pt[1]+size[1]-m[1]
+pt[0]=m[0]-size[0]
+pt[1]=m[1]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#563, 29:
++[返回目录](,右下展宽)
+
+mouseMove:...
+## end
+#565, 328:
+"""
++[返回目录](,mouseMove)
++[复制](,mouseMove)
+
+"""
++mouseMove(_画板,)->+[del](,+mouseMove)...
+->的(_画板,m_select)->的(m_select,_物体)->的(_物体,类型)->类型"矩形"...
+->的(_物体,起点)->的(_物体,尺寸)->的(_画板,m_mouse)...
+->+[python]"
+size[0]=m[0]-pt[0]
+size[1]=m[1]-pt[1]
+
+"(Python,)->+[.]"m"(+[python],m_mouse)->+[o]"pt"(+[python],起点)->+[o]"size"(+[python],尺寸)
+
+## end
+#566, 477:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+}
+
+var size=[%尺寸];
+var pos=[%起点]
+
+ctx.strokeStyle='rgb(%线颜色)';
+ctx.lineWidth=%线粗细;
+
+ctx.strokeRect(%起点,%尺寸);
+ctx.fillRect(%起点,%尺寸);
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font=%字体*2+'px serif'
+ctx.fillText('%文字',pos[0]+size[0]/2,pos[1]+size[1]/2);
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#569, 14:
++[返回目录]
++[内容]
+
+## end
+#570, 76:
++[返回目录](,输入)
+
+面颜色::255,255,255
+线颜色::0,0,0
+线型::DashLine
+线粗细::1
+文字::测试
+字体::20
+
+## end
+#579, 14:
+-506.25, 70.25
+## end
+#580, 10:
+50.5, 53.5
+## end
+#581, 4:
+None
+## end
+#582, 5:
+0,0,0
+## end
+#583, 8:
+DashLine
+## end
+#584, 1:
+0
+## end
+#585, 1:
+E
+## end
+#586, 2:
+20
+## end
+#587, 3:
+右下角
+## end
+#588, 2:
+里面
+## end
+#590, 3951:
+<!--
++[返回目录]
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+<!--
++[H函数](,平面电磁波)
+
+参考::文档\物理问题\激光a0.ftxt
++[打开文件](+新窗口,参考)
+高斯单位制::https://en.wikipedia.org/wiki/Gaussian_units
++[打开](,高斯单位制)
+-->
+
+那么首先是Maxwell's equations (in Gaussian units), 
+$$
+\nabla \times \vec{E}=-\frac{1}{c}\frac{\partial \vec{B}}{\partial t}
+$$
+$$
+\vec{E}=-\nabla \phi-\frac{1}{c}\frac{\partial \vec{A}}{\partial t}
+$$
+$$
+\vec{B}=\nabla \times \vec{A}
+$$
+在平面波中有, 
+$$
+i\vec{k} \times \vec{E}=\frac{i\omega}{c} \vec{B}
+$$
+在特定的规范下, 我们可以有, 
+$$
+\vec{E}=\frac{i\omega}{c}\vec{A}
+$$
+$$
+\vec{B}=i\vec{k} \times \vec{A}
+$$
+而, 高斯单位制中的电磁场和国际单位制中的电磁场之间的变换关系为, 
+$$
+E^{SI}=\frac{E^G}{\sqrt{4\pi\epsilon_0}},
+\ 
+B^{SI}=B^G\sqrt{\frac{\mu_0}{4\pi}}
+$$
+最后是电子会受到的力为(SI), 
+$$
+\frac{d\vec{p}}{dt}=-e\left(\vec{E}+\vec{v}\times \vec{B}\right)
+$$
+
+<!--
++[返回目录](,模板)
+
++[H函数](,模板)
+-->
+
+<canvas id="myCanvas" width="400" height="400"
+style="border:1px solid #d3d3d3;">
+Your browser does not support the canvas element.
+</canvas>
+
+<script>
+var canvas = document.getElementsByTagName("canvas");
+var ctx = canvas[canvas.length-1].getContext("2d");
+canvas=canvas[canvas.length-1]
+
+var size=[930, 245]
+var orig=[-300.0, 50.0]
+
+canvas.width=size[0]
+canvas.height=size[1]
+ctx.translate(size[0]/2,size[1]/2)
+ctx.scale(1/1.6105100000000008,1/1.6105100000000008)
+ctx.translate(-orig[0],-orig[1])
+
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(0,0,0)';
+ctx.lineWidth=1;
+
+
+ctx.beginPath();
+ctx.moveTo(-160.0, 144.0);
+ctx.lineTo(-159.0, -5.0)
+ctx.stroke();
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+if('255,255,255'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(255,255,255)';
+}
+
+ctx.strokeStyle='rgb(0,0,0)';
+ctx.lineWidth=4;
+
+
+ctx.beginPath();
+ctx.arc(-161.0, -4.0,28.284271247461902,0,2*Math.PI)
+ctx.fill()
+ctx.stroke()
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(0,0,0)';
+ctx.lineWidth=1;
+
+
+ctx.beginPath();
+ctx.moveTo(-258.0, -7.5);
+ctx.lineTo(-522.0, -6.5)
+ctx.stroke();
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+ctx.strokeStyle='rgb(0,0,0)';
+ctx.lineWidth=1;
+
+
+ctx.beginPath();
+ctx.moveTo(-516.0, 85.0);
+ctx.lineTo(-515.0, -6.0)
+ctx.stroke();
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+if('None'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(None)';
+}
+
+var size=[44.75, 53.75];
+var pos=[-296.375, -70.875]
+
+ctx.strokeStyle='rgb(0,0,0)';
+ctx.lineWidth=1;
+
+ctx.strokeRect(-296.375, -70.875,44.75, 53.75);
+ctx.fillRect(-296.375, -70.875,44.75, 53.75);
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font=20*2+'px serif'
+ctx.fillText('k',pos[0]+size[0]/2,pos[1]+size[1]/2);
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+if('None'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(None)';
+}
+
+var size=[50.5, 53.5];
+var pos=[-506.25, 70.25]
+
+ctx.strokeStyle='rgb(0,0,0)';
+ctx.lineWidth=0;
+
+ctx.strokeRect(-506.25, 70.25,50.5, 53.5);
+ctx.fillRect(-506.25, 70.25,50.5, 53.5);
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font=20*2+'px serif'
+ctx.fillText('E',pos[0]+size[0]/2,pos[1]+size[1]/2);
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+
+</script> 
+<br>
+
+参考::文档\物理问题\激光a0.ftxt<br>
+其中有公式可以从激光能量直接计算得到\(\vec A\),
+$$
+I_0=\frac{2 E}{\sqrt{\pi}\pi w_0^2\tau}
+$$
+$$
+A_0=\sqrt{\frac{I_0 \lambda^2}{\pi c}}
+$$
+
+
+
+<!--
++[H函数](,平面电磁波)
++[打开公式页](平面电磁波,HTML)
+HTML:...
+
+场景(画板)::
++画板(场景,)
++[画板](+平面波场景,场景)
+-->
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#594, 1304:
+%{
++[M函数](,平面波中电子运动轨迹)
++[M函数](,显示空间关系)
+%}
+
+physics_constant;
+
+p0=[1,0,0]*me*c;
+
+Energy=100e-3;
+lambda_0=800e-9;
+tau=20e-15;
+w0=1e-3;
+N=1000;
+T=1*tau;
+
+
+I_0=2*Energy/sqrt(pi)/pi/w0^2/tau;
+A_0=sqrt(I_0*lambda_0^2/pi/c);
+
+omega_0=2*pi*c/lambda_0;
+k_0=2*pi/lambda_0;
+E_0=omega_0/c*A_0/sqrt(4*pi*epsilon0)
+B_0=omega_0/c*A_0*sqrt(mu0/4/pi);
+
+%E_0=0;
+%B_0=0;
+
+E_i=@(z,t)E_0*cos(k_0*z-omega_0*t);
+B_i=@(z,t)B_0*cos(k_0*z-omega_0*t);
+
+r=[0,0,0];
+p=p0;
+
+R=zeros(N,3);
+P=zeros(N,3);
+
+t=linspace(0,T,N);
+dt=T/N;
+for i=1:N
+gamma=sqrt(sum(p.*p)+me^2*c^2);
+v=c*p./gamma;
+E=[E_i(r(3),t(i)),0,0];
+B=[0,B_i(r(3),t(i)),0];
+F=-e*(E+cross(v,B));
+
+p=p+F*dt;
+r=r+v*dt;
+
+R(i,:)=r;
+P(i,:)=p;
+end
+
+gamma=sqrt(sum(p0.*p0)+me^2*c^2);
+v0=c*p0./gamma;
+
+%{
+subplot(2,2,1)
+plot(t,P(:,1)/me/c);
+xlabel('t')
+ylabel('p_x')
+
+subplot(2,2,2)
+plot(t,P(:,3)/me/c);
+xlabel('t')
+ylabel('p_z')
+%}
+
+subplot(2,2,1)
+plot(t,R(:,1)-v0(1)*t');
+xlabel('t')
+ylabel('x')
+
+subplot(2,2,2)
+plot(t,R(:,3)-v0(3)*t');
+xlabel('t')
+ylabel('z')
+
+subplot(2,2,3)
+plot(t,R(:,2)-v0(2)*t');
+xlabel('t')
+ylabel('y')
+
+
+%{
+subplot(2,2,3)
+plot3(R(:,1),R(:,2),R(:,3))
+grid on
+xlabel('x');
+ylabel('y');
+zlabel('z');
+view([0,90])
+%}
+
+
+%subplot(2,2,2)
+%plot(t,P(:,2)/me/c);
+%xlabel('t')
+%ylabel('p_y')
+
+
+subplot(2,2,4)
+%{
++[M函数](,平面波中电子运动轨迹)
+
+显示空间关系(M函数):...
++[M函数](,显示空间关系)
+%}
+
+## end
+#597, 447:
+%{
++[M函数](,显示空间关系)
+%}
+
+
+subplot(2,2,4)
+
+pk=p0/norm(p0)/2;
+Ek=E/norm(E);
+Bk=B/norm(B);
+
+plot3([0,0],[0,0],[0,1]);
+hold on
+plot3([0,Ek(1)],[0,Ek(2)],[0,Ek(3)]);
+plot3([0,Bk(1)],[0,Bk(2)],[0,Bk(3)]);
+plot3([0,pk(1)],[0,pk(2)],[0,pk(3)],'r');
+hold off
+
+grid on
+
+text(0,0,1,'k')
+text(pk(1),pk(2),pk(3),'p')
+text(Ek(1),Ek(2),Ek(3),'E')
+text(Bk(1),Bk(2),Bk(3),'B')
+axis([-1.2,1.2,-1.2,1.2,-1.2,1.2])
+
+view([45,45])
+
+xlabel('x');
+ylabel('y');
+zlabel('z');
+## end
+#600, 18:
+文档\物理问题\相对论双折射.txt
+## end
+#601, 3:
+603
+## end
+#603, 3:
+608
+## end
+### 结束

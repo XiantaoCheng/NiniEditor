@@ -1,0 +1,1552 @@
+### 节点
+地址, 的, FOPA, 目录, 的, 的, 论文, 的, 笔记, 的, Grating, 的, FOPA原理, 的, 新窗口, 的, 几何画板, 的, FOPA原理, html, 的, setup, 的, G1, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 类型, 选中区域, 的, 的, 输出, 输入, 的, 的, HTML, 的, 输入, 的, 的, 的, 的, 的, 的, 的, 的, 的, 厚度, 中心, 半径, 角度, 面颜色, 线颜色, 线型, 线粗细, 名字, 比例, 的, 尺寸, 的, 原点, 的, 坐标系, 的, G2, 的, M1, 的, M2, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 类型, 选中区域, 的, 的, 输出, 输入, 的, 的, HTML, 的, 输入, 的, 的, 的, 的, 的, 的, 的, 的, 的, 厚度, 中心, 半径, 角度, 面颜色, 线颜色, 线型, 线粗细, 名字, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 类型, 选中区域, 的, 的, 输出, 输入, 的, 的, HTML, 的, 输入, 的, 的, 的, 的, 的, 的, 的, 的, 的, 厚度, 中心, 半径, 角度, 面颜色, 线颜色, 线型, 线粗细, 名字, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 画图, 的, 的, 的, 的, 输出, 选中框, 图形, 类型, 选中区域, 的, 的, 输出, 输入, 的, 的, HTML, 的, 输入, 的, 的, 的, 的, 的, 的, 的, 的, 的, 厚度, 中心, 半径, 角度, 面颜色, 线颜色, 线型, 线粗细, 名字, 的, 光路, 的, 绘制光路图, 终点, 的, 起点, 的, 0, 的, 的, 参考1, 的, 光栅参数, 的, Spread参考, 的, 计算Spread, M函数, 的, Spread diagram, M函数, 的, Spread Diagram, M函数, 的, 高斯光束, 的, Littrow condition, 图片, 的, 光栅原理, 读取, 的, 报告, 的, 报告, 打开网页, 打开网页, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 8#10, #, 8#12, #, 8#14, #, 2#16, #, 2#18, #, 18#, 18#21, #, 21#23, #, 23#65, 23#66, 23#67, 23#37, 23#45, 23#68, 23#46, 23#69, 23#70, 23#71, 23#72, 23#73, 23#53, #, 37#55, 37#42, 37#43, 37#44, #, #, #, #, #, 46#49, 46#50, #, #, 50#66, 50#67, #, 53#55, #, 55#65, 55#66, 55#67, 55#68, 55#69, 55#70, 55#71, 55#72, 55#73, #, #, #, #, #, #, #, #, #, #, 80#74, #, 80#76, #, 80#78, 21#, 21#82, #, 21#84, #, 21#86, #, 82#128, 82#129, 82#130, 82#100, 82#108, 82#131, 82#109, 82#132, 82#133, 82#134, 82#135, 82#136, 82#116, #, 100#118, 100#105, 100#106, 100#107, #, #, #, #, #, 109#112, 109#113, #, #, 113#129, 113#130, #, 116#118, #, 118#128, 118#129, 118#130, 118#131, 118#132, 118#133, 118#134, 118#135, 118#136, #, #, #, #, #, #, #, #, #, 84#178, 84#179, 84#180, 84#150, 84#158, 84#181, 84#159, 84#182, 84#183, 84#184, 84#185, 84#186, 84#166, #, 150#168, 150#155, 150#156, 150#157, #, #, #, #, #, 159#162, 159#163, #, #, 163#179, 163#180, #, 166#168, #, 168#178, 168#179, 168#180, 168#181, 168#182, 168#183, 168#184, 168#185, 168#186, #, #, #, #, #, #, #, #, #, 86#228, 86#229, 86#230, 86#200, 86#208, 86#231, 86#209, 86#232, 86#233, 86#234, 86#235, 86#236, 86#216, #, 200#218, 200#205, 200#206, 200#207, #, #, #, #, #, 209#212, 209#213, #, #, 213#229, 213#230, #, 216#218, #, 218#228, 218#229, 218#230, 218#231, 218#232, 218#233, 218#234, 218#235, 218#236, #, #, #, #, #, #, #, #, #, 21#238, #, 2#240, #, #245, 238#241, #245, 238#243, #, 238#245, 18#248, #, 18#250, #, 18#252, #, 18#254, #, 254#, 18#257, #, 257#, 18#260, #, 260#, 18#263, #, 18#265, #, 265#, 2#268, #, del#18, 2#271, #, 18#273, #, #10, #12, 
+### 内容
+#0, 17:
+文档\物理问题\FOPA.ftxt
+## end
+#2, 370:
++[返回目录](,FOPA)
+地址::文档\物理问题\FOPA.ftxt
+
+几何画板::文档\S应用\几何样本库.ftxt
++[打开文件](+新窗口,几何画板)
+绘制光路图::文档\S应用\绘制光路图.ftxt
++[打开文件](+新窗口,绘制光路图)
+光栅原理::文档\物理问题\光栅原理.ftxt
++[打开文件](+新窗口,光栅原理)
+
+Nini, 导入网页画板的库
+
+报告::C:\Users\cheng\Desktop\Laser\MIR@UCF\report\short_report20210527
+
+论文::file:///C:/Users/cheng/Desktop/paper/FOPA/Gruson17.pdf
++[打开网页](,论文)
+笔记:...
+FOPA原理(html):...
++[H函数](,FOPA原理)
+
+
+
+## end
+#3, 48:
+FOPA:...
+创建于 20210517
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 54:
+file:///C:/Users/cheng/Desktop/paper/FOPA/Gruson17.pdf
+## end
+#8, 496:
++[返回目录](,笔记)
+
+Gruson17笔记::
+Grating::file:///C:/Users/cheng/Desktop/paper/FOPA/Gruson17.pdf#page=5
++[打开网页](,Grating)
+光栅是53 g/mm, Richardson Grating. 
+这里OPA是非共线的. 光栅后面的柱面镜有1.2度垂直方向的角度. 
+
+有非常详细的实验参数. 有计算seed pulse duration的方法. 好像没有提到模拟. 
+The gratings are used under Littrow condition to minimize the effects of higher order chirp. 
+
+Bruno14笔记::
+FOPA原理::file:///C:/Users/cheng/Desktop/paper/FOPA/Bruno14.pdf#page=6
++[打开网页](,FOPA原理)
+这篇文章介绍了FOPA的一些参数的计算细节. 非常清楚明了. 
+几块BBO的位置不同会影响OPA的效率吗? 
+怎么计算像差或者是色差
+
+
+## end
+#10, 61:
+file:///C:/Users/cheng/Desktop/paper/FOPA/Gruson17.pdf#page=5
+## end
+#12, 60:
+file:///C:/Users/cheng/Desktop/paper/FOPA/Bruno14.pdf#page=6
+## end
+#16, 17:
+文档\S应用\几何样本库.ftxt
+## end
+#18, 3937:
+<!--
++[H函数](,FOPA原理)
++[新建阅读窗口](,FOPA原理)
+
+setup:...
++[画板](+装置,setup)
+报告::C:\Users\cheng\Desktop\Laser\MIR@UCF\report\short_report20210527
+-->
+
+The FOPA is just a OPA at the Fourier-plane (FP) of a 4F system. Pumping a fs-pulse is limited by the damage threshold of BBO crystal. FOPA is method pumping a laser pulse to higher energy by reducing the intensity in the crystal. <br>
+The pump intensity is reduced by two reasons:<br>
+1. Spectral spread at the FP; <br>
+2. Pulse stretching by spectrum narrowing. <br>
+<br>
+Let us assume the grating constant is \(d^{-1}\). The input angle on \(G1\) is \(\alpha\). The focal length of cylindrical mirrors are \(f\). Spectral spread and pulse duration can be calculated easily: <br>
+<br>
+
+
+<b><u>Spectral spread</u></b><br>
+The output angle for \(\lambda_1\), \(\lambda_2\) are \(\beta_1\), \(\beta_2\). Then, 
+$$
+sin\beta_i=sin\alpha + \frac{n \lambda_i}{d}
+$$
+The spectral spread is simply, 
+$$
+\Delta = f (\beta_1-\beta_2)
+$$
+The grating parameters are,
+$$
+g=1/d=75\ mm^{-1}, \theta_{blaze}=3.6^\circ
+$$
+<br>
+
+
+<!--
++[H函数](,FOPA原理)
+光栅参数::file:///C:/Users/cheng/Desktop/paper/FOPA/Bruno14.pdf#page=6
+Spread参考::file:///C:/Users/cheng/Desktop/paper/FOPA/FOPA_supplementary.pdf#page=2
++[打开网页](,Spread参考)
+
+参考1::文档\物理问题\光栅原理.ftxt
++[打开文件](+新窗口,参考1)
+
+计算Spread(M函数):...
++[M函数](,计算Spread)
+Spread Diagram(M函数):...
+-->
+
+
+
+<b><u>Pulse duration</u></b><br>
+The spread ratio at the FP can be defined as \(R={d\lambda}/{dL}\). The expression can be calculated by, 
+$$
+cos(\beta) d\beta = \frac{n}{d}d\lambda
+,\ 
+dL = fd\beta
+\\\Rightarrow
+cos(\beta) dL = \frac{nf}{d}d\lambda \equiv \frac{nf}{g}d\lambda
+$$$$
+R=\frac{d\lambda}{dL}=\frac{g\ cos\beta}{nf}
+=\frac{g}{nf}\sqrt{1-sin\beta^2}
+$$
+But for the angular frequency, there is,
+$$
+\omega = c k
+= \frac{2\pi c}{\lambda}
+\Rightarrow
+d\omega
+= -\frac{2\pi c}{\lambda^2} d\lambda
+\\\Rightarrow
+d\lambda
+= -\frac{\lambda^2}{2\pi c} d\omega
+$$
+Then,
+$$
+\frac{d\omega}{dL}
+=-\frac{2\pi c}{\lambda^2} \frac{d\lambda}{dL}
+=-\frac{2\pi c}{\lambda^2} \frac{g}{nf}\sqrt{1-sin\beta^2}
+$$
+
+<!--
++[H函数](,FOPA原理)
+-->
+
+<br><br>
+For a Gaussian beam, if the focal length is \(f\) and the diameter is \(2 w\) on the len, then the diameter of the focal spot \(2 w_0\) can be derived,
+$$
+w=w_0\sqrt{1+\left(\frac{f}{z_R}\right)^2},
+\ 
+z_R=\frac{w_0^2 \pi}{\lambda}
+$$$$
+w^2=w_0^2\left[1+\left(\frac{f}{z_R}\right)^2\right]
+
+=w_0^2\left[1+\left(\frac{\lambda f}{w_0^2 \pi}\right)^2\right]
+
+=w_0^2+\left(\frac{\lambda f}{w_0 \pi}\right)^2
+$$
+By multiplying \(w_0^2\) on both sides, 
+$$
+w_0^4 - w^2 w_0^2 +\left(\frac{\lambda f}{\pi}\right)^2
+= 0
+$$
+The focal spot is, 
+$$
+w_0^2=\frac{w^2 - \sqrt{w^4-4\left(\frac{\lambda f}{\pi}\right)^2}}{2}
+$$
+Equivalently, 
+$$
+\left(\frac{w_0}{w}\right)^2
+=\frac{1}{2}
+-
+\sqrt{\frac{1}{4}-\left(\frac{\lambda f}{w^2\pi}\right)^2}
+=\frac{1}{2}
+-
+\frac{1}{2}\sqrt{1-\left(\frac{2\lambda f}{w^2\pi}\right)^2}
+
+$$
+If \(\left({2\lambda f}/{w^2\pi}\right)^2<<1\), then,
+$$
+\left(\frac{w_0}{w}\right)^2
+\approx
+\frac{1}{4}\left(\frac{2\lambda f}{w^2\pi}\right)^2
+=
+\left(\frac{\lambda f}{w^2\pi}\right)^2
+$$$$
+{w_0}
+\approx
+\frac{\lambda f}{\pi w}
+=
+\frac{2\lambda f}{\pi D}
+$$
+<br>
+<!--
++[H函数](,FOPA原理)
+
+高斯光束::文档\物理问题\高斯光束.ftxt
++[打开文件](+新窗口,高斯光束)
+-->
+
+
+<br>
+Combining the above two formulas, we have, 
+$$
+d\omega = \frac{d\omega}{dL}(2 w_0)
+=
+-\frac{4\lambda f}{\pi D}
+\frac{2\pi c}{\lambda^2} \frac{g}{nf}\sqrt{1-sin\beta^2}
+=
+-\frac{8 c g}{n D \lambda}\sqrt{1-sin\beta^2}
+$$
+
+
+Since it works under the Littrow condition, <br>
+%Littrow condition
+<br>
+There is, 
+$$
+sin\beta=-sin\alpha=\frac{n\lambda}{2g}
+$$$$
+d\omega
+=
+-\frac{8 c g}{n \lambda D}\sqrt{1-\left(\frac{n\lambda}{2g}\right)^2}
+$$
+(Not exactly same as the paper, but good enough. I should have understand the results correctly.)
+
+
+<!--
++[H函数](,FOPA原理)
+
+Littrow condition(图片)::https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Blazed_grating.svg/1280px-Blazed_grating.svg.png
+-->
+## end
+#21, 95:
++[返回目录](,setup)
++[新建阅读窗口](,setup)
+
+G1:...
+G2:...
+M1:...
+M2:...
++[创建镜子](,M2)
+
+光路::
++[创建光路](,光路)
+
+## end
+#23, 148:
++[返回目录](,镜子)
++[设置结构](,镜子)
+
+中心::200,100
+半径::100
+厚度::10
+类型::圆形
+角度::0
+名字::镜子
+
+
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#37, 804:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+d=厚度[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+area=100
+size_F=10
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0:
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+x0=pt[0]
+y0=pt[1]
+M=qp.transform()
+M.translate(x0,y0)
+M.rotate(-angle+90)
+M.translate(-x0,-y0)
+
+M0=qp.transform()
+qp.setTransform(M)
+
+qp.drawRect(x0-r,y0,2*r,d)
+
+qp.setTransform(M0)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(x0-area,y0+(r+10)-area,2*area,2*area,Qt.AlignHCenter|Qt.AlignVCenter,名字)
+
+
+
+## end
+#43, 493:
+"""
++[返回目录](,选中框)
+
+"""
+
+X=[pt[0],pt[0]+r*np.cos(theta),pt[0]+r]
+Y=[pt[1],pt[1]-r*np.sin(theta),pt[1]]
+R=6
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+
+qp.setPen(QPen(Qt.black,1,Qt.DashLine))
+qp.drawLine(X[0],Y[0],X[1],Y[1])
+qp.setPen(QPen(Qt.black,1,Qt.SolidLine))
+qp.drawLine(X[0],Y[0],X[2],Y[2])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+
+
+## end
+#44, 804:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+d=厚度[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+area=100
+size_F=10
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0:
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+x0=pt[0]
+y0=pt[1]
+M=qp.transform()
+M.translate(x0,y0)
+M.rotate(-angle+90)
+M.translate(-x0,-y0)
+
+M0=qp.transform()
+qp.setTransform(M)
+
+qp.drawRect(x0-r,y0,2*r,d)
+
+qp.setTransform(M0)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(x0-area,y0+(r+10)-area,2*area,2*area,Qt.AlignHCenter|Qt.AlignVCenter,名字)
+
+
+
+## end
+#45, 2:
+圆形
+## end
+#46, 164:
+"""
++[返回目录](,选中区域)
+输入:...
+
+"""
+
+pt=中心
+r=半径[0]
+pt0=mouse_pos
+
+Dx=pt[0]-pt0[0]
+Dy=pt[1]-pt0[1]
+Dr=np.sqrt(Dx**2+Dy**2)
+
+if Dr<=r:
+    state=True
+else:
+    state=False
+## end
+#49, 14:
++[返回目录]
++[内容]
+
+## end
+#50, 39:
++[返回目录](,输入)
++[内容]
+中心::200,100
+半径::100
+
+## end
+#53, 728:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+pt=[%中心];
+r=%半径;
+d=%厚度;
+angle=%角度;
+theta=angle/180*Math.PI;
+area=100;
+x0=pt[0];
+y0=pt[1];
+
+
+ctx.save();
+
+ctx.translate(x0,y0);
+ctx.rotate(-theta+90/180*Math.PI);
+ctx.translate(-x0,-y0);
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(255,255,255)';
+} else {
+	ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        ctx.strokeRect(x0-r,y0,2*r,d);
+}
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fillRect(x0-r,y0,2*r,d);
+}
+ctx.restore()
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font='15px serif'
+ctx.fillText('%名字',x0,y0+r+10);
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#55, 80:
++[返回目录](,输入)
+
+角度::0
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+厚度::10
+名字::镜子
+
+## end
+#65, 2:
+10
+## end
+#66, 12:
+-544.0, -7.0
+## end
+#67, 18:
+48.373546489791295
+## end
+#68, 18:
+151.31385242626055
+## end
+#69, 11:
+255,255,255
+## end
+#70, 5:
+0,0,0
+## end
+#71, 8:
+DashLine
+## end
+#72, 1:
+2
+## end
+#73, 2:
+G1
+## end
+#74, 1:
+1
+## end
+#76, 8:
+958, 476
+## end
+#78, 14:
+-350.0, -100.0
+## end
+#82, 148:
++[返回目录](,镜子)
++[设置结构](,镜子)
+
+中心::200,100
+半径::100
+厚度::10
+类型::圆形
+角度::0
+名字::镜子
+
+
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#84, 148:
++[返回目录](,镜子)
++[设置结构](,镜子)
+
+中心::200,100
+半径::100
+厚度::10
+类型::圆形
+角度::0
+名字::M1
+
+
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#86, 148:
++[返回目录](,镜子)
++[设置结构](,镜子)
+
+中心::200,100
+半径::100
+厚度::10
+类型::圆形
+角度::0
+名字::M2
+
+
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+
+画图:...
+选中区域:...
+HTML:...
+
+## end
+#100, 804:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+d=厚度[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+area=100
+size_F=10
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0:
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+x0=pt[0]
+y0=pt[1]
+M=qp.transform()
+M.translate(x0,y0)
+M.rotate(-angle+90)
+M.translate(-x0,-y0)
+
+M0=qp.transform()
+qp.setTransform(M)
+
+qp.drawRect(x0-r,y0,2*r,d)
+
+qp.setTransform(M0)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(x0-area,y0+(r+10)-area,2*area,2*area,Qt.AlignHCenter|Qt.AlignVCenter,名字)
+
+
+
+## end
+#106, 493:
+"""
++[返回目录](,选中框)
+
+"""
+
+X=[pt[0],pt[0]+r*np.cos(theta),pt[0]+r]
+Y=[pt[1],pt[1]-r*np.sin(theta),pt[1]]
+R=6
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+
+qp.setPen(QPen(Qt.black,1,Qt.DashLine))
+qp.drawLine(X[0],Y[0],X[1],Y[1])
+qp.setPen(QPen(Qt.black,1,Qt.SolidLine))
+qp.drawLine(X[0],Y[0],X[2],Y[2])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+
+
+## end
+#107, 804:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+d=厚度[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+area=100
+size_F=10
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0:
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+x0=pt[0]
+y0=pt[1]
+M=qp.transform()
+M.translate(x0,y0)
+M.rotate(-angle+90)
+M.translate(-x0,-y0)
+
+M0=qp.transform()
+qp.setTransform(M)
+
+qp.drawRect(x0-r,y0,2*r,d)
+
+qp.setTransform(M0)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(x0-area,y0+(r+10)-area,2*area,2*area,Qt.AlignHCenter|Qt.AlignVCenter,名字)
+
+
+
+## end
+#108, 2:
+圆形
+## end
+#109, 164:
+"""
++[返回目录](,选中区域)
+输入:...
+
+"""
+
+pt=中心
+r=半径[0]
+pt0=mouse_pos
+
+Dx=pt[0]-pt0[0]
+Dy=pt[1]-pt0[1]
+Dr=np.sqrt(Dx**2+Dy**2)
+
+if Dr<=r:
+    state=True
+else:
+    state=False
+## end
+#112, 14:
++[返回目录]
++[内容]
+
+## end
+#113, 39:
++[返回目录](,输入)
++[内容]
+中心::200,100
+半径::100
+
+## end
+#116, 728:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+pt=[%中心];
+r=%半径;
+d=%厚度;
+angle=%角度;
+theta=angle/180*Math.PI;
+area=100;
+x0=pt[0];
+y0=pt[1];
+
+
+ctx.save();
+
+ctx.translate(x0,y0);
+ctx.rotate(-theta+90/180*Math.PI);
+ctx.translate(-x0,-y0);
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(255,255,255)';
+} else {
+	ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        ctx.strokeRect(x0-r,y0,2*r,d);
+}
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fillRect(x0-r,y0,2*r,d);
+}
+ctx.restore()
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font='15px serif'
+ctx.fillText('%名字',x0,y0+r+10);
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#118, 80:
++[返回目录](,输入)
+
+角度::0
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+厚度::10
+名字::镜子
+
+## end
+#128, 2:
+10
+## end
+#129, 13:
+-205.0, -12.0
+## end
+#130, 18:
+48.373546489791295
+## end
+#131, 17:
+24.77514056883192
+## end
+#132, 11:
+255,255,255
+## end
+#133, 5:
+0,0,0
+## end
+#134, 8:
+DashLine
+## end
+#135, 1:
+2
+## end
+#136, 2:
+G2
+## end
+#150, 804:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+d=厚度[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+area=100
+size_F=10
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0:
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+x0=pt[0]
+y0=pt[1]
+M=qp.transform()
+M.translate(x0,y0)
+M.rotate(-angle+90)
+M.translate(-x0,-y0)
+
+M0=qp.transform()
+qp.setTransform(M)
+
+qp.drawRect(x0-r,y0,2*r,d)
+
+qp.setTransform(M0)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(x0-area,y0+(r+10)-area,2*area,2*area,Qt.AlignHCenter|Qt.AlignVCenter,名字)
+
+
+
+## end
+#156, 493:
+"""
++[返回目录](,选中框)
+
+"""
+
+X=[pt[0],pt[0]+r*np.cos(theta),pt[0]+r]
+Y=[pt[1],pt[1]-r*np.sin(theta),pt[1]]
+R=6
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+
+qp.setPen(QPen(Qt.black,1,Qt.DashLine))
+qp.drawLine(X[0],Y[0],X[1],Y[1])
+qp.setPen(QPen(Qt.black,1,Qt.SolidLine))
+qp.drawLine(X[0],Y[0],X[2],Y[2])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+
+
+## end
+#157, 804:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+d=厚度[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+area=100
+size_F=10
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0:
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+x0=pt[0]
+y0=pt[1]
+M=qp.transform()
+M.translate(x0,y0)
+M.rotate(-angle+90)
+M.translate(-x0,-y0)
+
+M0=qp.transform()
+qp.setTransform(M)
+
+qp.drawRect(x0-r,y0,2*r,d)
+
+qp.setTransform(M0)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(x0-area,y0+(r+10)-area,2*area,2*area,Qt.AlignHCenter|Qt.AlignVCenter,名字)
+
+
+
+## end
+#158, 2:
+圆形
+## end
+#159, 164:
+"""
++[返回目录](,选中区域)
+输入:...
+
+"""
+
+pt=中心
+r=半径[0]
+pt0=mouse_pos
+
+Dx=pt[0]-pt0[0]
+Dy=pt[1]-pt0[1]
+Dr=np.sqrt(Dx**2+Dy**2)
+
+if Dr<=r:
+    state=True
+else:
+    state=False
+## end
+#162, 14:
++[返回目录]
++[内容]
+
+## end
+#163, 39:
++[返回目录](,输入)
++[内容]
+中心::200,100
+半径::100
+
+## end
+#166, 728:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+pt=[%中心];
+r=%半径;
+d=%厚度;
+angle=%角度;
+theta=angle/180*Math.PI;
+area=100;
+x0=pt[0];
+y0=pt[1];
+
+
+ctx.save();
+
+ctx.translate(x0,y0);
+ctx.rotate(-theta+90/180*Math.PI);
+ctx.translate(-x0,-y0);
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(255,255,255)';
+} else {
+	ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        ctx.strokeRect(x0-r,y0,2*r,d);
+}
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fillRect(x0-r,y0,2*r,d);
+}
+ctx.restore()
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font='15px serif'
+ctx.fillText('%名字',x0,y0+r+10);
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#168, 80:
++[返回目录](,输入)
+
+角度::0
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+厚度::10
+名字::镜子
+
+## end
+#178, 2:
+10
+## end
+#179, 14:
+-623.0, -191.0
+## end
+#180, 18:
+48.373546489791295
+## end
+#181, 18:
+-9.865806943084365
+## end
+#182, 11:
+255,255,255
+## end
+#183, 5:
+0,0,0
+## end
+#184, 8:
+DashLine
+## end
+#185, 1:
+2
+## end
+#186, 2:
+M1
+## end
+#200, 804:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+d=厚度[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+area=100
+size_F=10
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0:
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+x0=pt[0]
+y0=pt[1]
+M=qp.transform()
+M.translate(x0,y0)
+M.rotate(-angle+90)
+M.translate(-x0,-y0)
+
+M0=qp.transform()
+qp.setTransform(M)
+
+qp.drawRect(x0-r,y0,2*r,d)
+
+qp.setTransform(M0)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(x0-area,y0+(r+10)-area,2*area,2*area,Qt.AlignHCenter|Qt.AlignVCenter,名字)
+
+
+
+## end
+#206, 493:
+"""
++[返回目录](,选中框)
+
+"""
+
+X=[pt[0],pt[0]+r*np.cos(theta),pt[0]+r]
+Y=[pt[1],pt[1]-r*np.sin(theta),pt[1]]
+R=6
+
+qp.drawEllipse(pt[0]-r,pt[1]-r,2*r,2*r)
+
+qp.setPen(QPen(Qt.black,1,Qt.DashLine))
+qp.drawLine(X[0],Y[0],X[1],Y[1])
+qp.setPen(QPen(Qt.black,1,Qt.SolidLine))
+qp.drawLine(X[0],Y[0],X[2],Y[2])
+
+qp.setPen(QPen(QColor(140,140,140),2.5))
+qp.setBrush(QBrush(Qt.white))
+qp.drawEllipse(X[2]-R,Y[2]-R,2*R,2*R)
+qp.drawEllipse(X[1]-R,Y[1]-R,2*R,2*R)
+qp.setBrush(QBrush())
+qp.setPen(QPen(Qt.black))
+
+
+
+## end
+#207, 804:
+"""
++[返回目录](,画图)
++[返回目录](,图形)
+输入:...
+输出:...
+
+图形:....
+选中框:...
+
+"""
+pt=中心
+r=半径[0]
+d=厚度[0]
+angle=角度[0]
+theta=np.deg2rad(angle)
+area=100
+size_F=10
+
+lineWidth=线粗细[0]
+lineType=线型
+
+if len(面颜色)==0:
+    qp.setBrush(QBrush())
+else:
+    faceColor=面颜色
+    qp.setBrush(QBrush(QColor(faceColor[0],faceColor[1],faceColor[2])))
+
+if len(线颜色)==0:
+    qp.setPen(QPen())
+else:
+    edgeColor=线颜色
+    qp.setPen(QPen(QColor(edgeColor[0],edgeColor[1],edgeColor[2]),lineWidth))
+
+
+x0=pt[0]
+y0=pt[1]
+M=qp.transform()
+M.translate(x0,y0)
+M.rotate(-angle+90)
+M.translate(-x0,-y0)
+
+M0=qp.transform()
+qp.setTransform(M)
+
+qp.drawRect(x0-r,y0,2*r,d)
+
+qp.setTransform(M0)
+qp.setBrush(QBrush())
+qp.setPen(QPen())
+
+qp.setFont(QFont("Decorative",size_F))
+qp.drawText(x0-area,y0+(r+10)-area,2*area,2*area,Qt.AlignHCenter|Qt.AlignVCenter,名字)
+
+
+
+## end
+#208, 2:
+圆形
+## end
+#209, 164:
+"""
++[返回目录](,选中区域)
+输入:...
+
+"""
+
+pt=中心
+r=半径[0]
+pt0=mouse_pos
+
+Dx=pt[0]-pt0[0]
+Dy=pt[1]-pt0[1]
+Dr=np.sqrt(Dx**2+Dy**2)
+
+if Dr<=r:
+    state=True
+else:
+    state=False
+## end
+#212, 14:
++[返回目录]
++[内容]
+
+## end
+#213, 39:
++[返回目录](,输入)
++[内容]
+中心::200,100
+半径::100
+
+## end
+#216, 728:
+/*
++[返回目录](,HTML)
+
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+
+pt=[%中心];
+r=%半径;
+d=%厚度;
+angle=%角度;
+theta=angle/180*Math.PI;
+area=100;
+x0=pt[0];
+y0=pt[1];
+
+
+ctx.save();
+
+ctx.translate(x0,y0);
+ctx.rotate(-theta+90/180*Math.PI);
+ctx.translate(-x0,-y0);
+
+if('%线颜色'==='None') {
+	ctx.strokeStyle='rgba(255,255,255)';
+} else {
+	ctx.strokeStyle='rgb(%线颜色)';
+        ctx.lineWidth=%线粗细;
+        ctx.strokeRect(x0-r,y0,2*r,d);
+}
+
+if('%面颜色'==='None') {
+	ctx.fillStyle='rgba(255,255,255,0)';
+} else {
+	ctx.fillStyle='rgb(%面颜色)';
+        ctx.fillRect(x0-r,y0,2*r,d);
+}
+ctx.restore()
+
+ctx.fillStyle='rgba(0,0,0,1)';
+ctx.textAlign='center'
+ctx.textBaseline='middle'
+ctx.font='15px serif'
+ctx.fillText('%名字',x0,y0+r+10);
+
+
+
+/*
++[JS函数](,HTML)
++[设置结构](,输入)
+*/
+## end
+#218, 80:
++[返回目录](,输入)
+
+角度::0
+面颜色::255,255,0
+线颜色::0,0,0
+线型::DashLine
+线粗细::2
+厚度::10
+名字::镜子
+
+## end
+#228, 2:
+10
+## end
+#229, 14:
+-114.0, -197.0
+## end
+#230, 18:
+48.373546489791295
+## end
+#231, 17:
+-171.869897645844
+## end
+#232, 11:
+255,255,255
+## end
+#233, 5:
+0,0,0
+## end
+#234, 8:
+DashLine
+## end
+#235, 1:
+2
+## end
+#236, 2:
+M2
+## end
+#240, 17:
+文档\S应用\绘制光路图.ftxt
+## end
+#248, 17:
+文档\物理问题\光栅原理.ftxt
+## end
+#250, 60:
+file:///C:/Users/cheng/Desktop/paper/FOPA/Bruno14.pdf#page=6
+## end
+#252, 71:
+file:///C:/Users/cheng/Desktop/paper/FOPA/FOPA_supplementary.pdf#page=2
+## end
+#254, 383:
+%{
++[M函数](,计算Spread)
+%}
+
+physics_constant;
+
+g=75;
+theta0=3.6;
+f=800e-3;
+n=1;
+
+lm1=1.3e-6;
+lm2=2.3e-6;
+
+alpha=theta0;
+d=1e-3/g;
+
+beta1=asin(sind(alpha)+n*lm1/d);
+beta2=asin(sind(alpha)+n*lm2/d);
+DL=f*abs(beta1-beta2);
+
+disp(sprintf('lambda_1: %.2f um',lm1/1e-6));
+disp(sprintf('lambda_2: %.2f um',lm2/1e-6));
+disp(sprintf('Spectral spread: %.2f mm',DL/1e-3));
+
+%{
++[M函数](,计算Spread)
+%}
+## end
+#257, 242:
+%{
++[M函数](,计算Spread)
+%}
+
+physics_constant;
+
+g=75;
+theta0=3.6;
+f=800e-3;
+n=1;
+
+lm1=1.3e-6;
+lm2=2.3e-6;
+
+alpha=theta0;
+d=1e-3/g;
+
+beta1=asin(sind(alpha)+n*lm1/d);
+beta2=asin(sind(alpha)+n*lm2/d);
+DL=f*abs(beta1-beta2)
+
+
+
+%{
++[M函数](,计算Spread)
+%}
+## end
+#260, 683:
+%{
++[返回目录](,Spread Diagram)
++[M函数](,Spread Diagram)
+%}
+
+physics_constant;
+
+theta0=3.6;
+n=-1;
+
+lm1=1.3e-6;
+lm2=2.3e-6;
+
+f=linspace(250,1000,100)*1e-3;
+g=linspace(25,200,100);
+[G,F]=meshgrid(g,f);
+
+alpha=theta0;
+d=1e-3./G;
+
+beta1=asin(sind(alpha)+n*lm1./d);
+beta2=asin(sind(alpha)+n*lm2./d);
+beta0=(beta1+beta2)/2;
+DL=F.*abs(tan(beta1-beta0)-tan(beta2-beta0));
+
+levels=[17.26, 28.27, 39.28, 50.29, 61.30, 72.31, 83.32, 94.32, ...
+    105.33, 116.34, 127.35, 138.36, 149.37, 160.38, 171.39];
+name=num2str(levels');
+
+% surf(G,F/1e-3,DL/1e-3);
+% shading interp;
+contour(G,F/1e-3,DL/1e-3,levels,'ShowText','on');
+colorbar()
+xlabel('focal length [mm]');
+ylabel('groove density [mm^{-1}]');
+
+## end
+#263, 17:
+文档\物理问题\高斯光束.ftxt
+## end
+#265, 106:
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Blazed_grating.svg/1280px-Blazed_grating.svg.png
+## end
+#268, 17:
+文档\物理问题\光栅原理.ftxt
+## end
+#271, 64:
+C:\Users\cheng\Desktop\Laser\MIR@UCF\report\short_report20210527
+## end
+#273, 64:
+C:\Users\cheng\Desktop\Laser\MIR@UCF\report\short_report20210527
+## end
+### 结束

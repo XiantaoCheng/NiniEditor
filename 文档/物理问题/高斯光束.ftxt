@@ -1,0 +1,867 @@
+### 节点
+地址, 抛物镜设计, 问题, *, I_0, 分母, 分子, 分式, *, ^, 的, 括号, w_0, 的, w, 的, 2, 输入, exp, 分母, 分子, 分式, 的, *, 2, 的, ^, w, 的, -, ^, r, 2, 2, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, =, I, 焦点大小, =, 分母, 分子, 分式, w, 的, z, 的, =, 分母, 分子, 分式, w_0, 的, z_R, 的, =, 分母, 分子, 分式, *, w_0, 的, *, ^, w_0, 的, \lambda, 2, *, n, \pi, 分母, 分子, 分式, \lambda, 的, *, w_0, 的, *, n, \pi, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, z取极限, *, w_0, 输入, sqrt, +, 1, 的, 分母, 分子, 分式, ^, 的, 括号, z, 的, z_R, 的, 2, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, =, w, 分母, 分子, 分式, *, ^, w_0, 的, \lambda, 的, 2, n\pi, 的, 的, 的, 的, 的, 的, 的, 的, 的, =, z_R, 输入, arctan, 分母, 分子, 分式, 的, z, 的, z_R, 的, 的, 的, 的, 的, 的, 的, 的, =, \psi, *, z, +, 1, 的, 括号, 分母, 分子, 分式, ^, 的, 括号, z_R, 的, z, 的, 2, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, =, R, =, 输入, E_x, r, 后面, 的, z, 的, 输入, *, E_0, *, 分母, 分子, 分式, w_0, 的, 输入, w, 的, z, 的, *, 输入, exp, 分母, 分子, 分式, 的, ^, r, 的, ^, 输入, w, 的, -, 2, z, 的, 2, 输入, exp, *, i, 的, -, +, *, k, 的, 括号, z, -, *, k, 分母, 分子, 分式, ^, r, 的, *, 2, 的, 2, 输入, R, z, 的, 输入, \psi, z, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 电场分布, 网页, [标题], 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 高斯光束, 目录, 的, 的, w0, 的, f, 的, 输出, 的, 输入, 的, 的, 的, z, 的, 的, 依据公式, 的, 节点数目统计, 20210331, 的, 20210519, 的, 的, 正文, html, 20210714, 的, 超链接, 参考, M函数, 存档, 地址, 的, M函数, GaussianBeam, M函数, 高斯光束光场分布, 的, 的, 的, M函数, 光场分布函数, 的, 的, 的, html, 高斯光束解析解, 的, 20210801, 的, M函数, 测试, 地址, 的, 的, M函数, GaussianBeam_3D, 的, 20210802, 的, 20211010, 的, 的, 计算半径, M函数, 的, GaussianBeam_w, M函数, 的, 地址, 20211113, 的, 的, 网页画板, 的, 透镜参考, 20220211, 的, GaussianBeam_3D, 的, 记忆, 20220804, 的, GaussianBeam_3D, 20220911, 的, 20221118, 的, 的, Pulse能量, html, 
+### 关联
+#, #, #, 4#11, #, 7#, 7#, #, 11#18, 11#16, 11#7, #, #, 6#12, #, 5#14, #, 18#, #, 21#, 21#, #, 17#21, 24#31, #, 20#24, 27#33, #, 19#27, #24, 31#32, #, #, #, 60#4, 60#3, 60#11, 60#7, 60#6, 60#5, 60#12, 60#14, 60#9, 60#16, 60#8, 60#18, 60#17, 60#21, 60#20, 60#19, 60#24, 60#29, 60#23, 60#31, 60#30, 60#32, 60#27, 60#26, 60#33, 60#4, #, #, 65#73, 65#, 65#, #, #, 64#66, #, 63#68, 73#81, 73#, 73#, #, #, 72#74, #, 71#76, 81#96, 81#, 81#, #, 83#89, #, 80#83, 87#92, 87#90, #, 79#87, #, #, 92#93, #, #, 96#, 96#, #, #, 95#97, 100#103, #, 94#100, 103#104, #, #, 140#65, 140#64, 140#63, 140#66, 140#68, 140#62, 140#73, 140#72, 140#71, 140#74, 140#76, 140#70, 140#81, 140#80, 140#79, 140#83, 140#82, 140#89, 140#87, 140#86, 140#90, 140#85, 140#92, 140#91, 140#93, 140#78, 140#96, 140#95, 140#94, 140#97, 140#100, 140#99, 140#103, 140#102, 140#104, #, 142#144, #, 144#, #, 146#153, #, 143#146, 150#, 150#, #, 153#158, 153#150, #, #, 149#154, #, 148#156, #, 174#142, 174#141, 174#144, 174#143, 174#146, 174#145, 174#153, 174#150, 174#149, 174#148, 174#154, 174#156, 174#151, 174#158, 174#142, #, 177#, 177#, #, 180#185, 180#184, #, 176#180, #, 175#182, #, #, 196#177, 196#176, 196#175, 196#180, 196#179, 196#184, 196#178, 196#185, 196#182, 196#177, #, 198#, #, 201#, 201#, #, 197#201, #, 200#203, #, 199#205, 215#198, 215#197, 215#201, 215#200, 215#199, 215#203, 215#205, 215#198, #, 217#221, #, 219#227, #, 221#219, #, 224#, 224#, #, 227#232, 227#224, #, #, 223#228, #, 222#230, #, 247#217, 247#216, 247#221, 247#219, 247#218, 247#227, 247#224, 247#223, 247#222, 247#228, 247#230, 247#225, 247#232, 247#217, #, 250#258, 250#, #, #, 249#256, 249#251, #, 256#254, #, 258#262, #, 262#272, 262#, 262#, #, #, 261#263, 266#, #, 260#266, #, 265#268, 272#290, 272#, #, 275#, 275#, #, 271#275, 278#285, #, 274#278, 282#288, 282#, #, 273#282, #278, #, #, 281#286, #, 290#, #, 292#299, #, 289#292, #292, 297#303, 297#300, #, 299#297, #, #, 303#319, 303#306, #, 306#, 306#, #, 308#313, #, 305#308, 311#315, #, 304#311, #, 315#, #, #, 314#316, 319#, #, #, 318#320, 381#250, 381#249, 381#251, 381#252, 381#256, 381#254, 381#248, 381#258, 381#257, 381#262, 381#261, 381#260, 381#263, 381#266, 381#265, 381#268, 381#259, 381#272, 381#271, 381#275, 381#274, 381#273, 381#278, 381#284, 381#277, 381#285, 381#282, 381#281, 381#286, 381#280, 381#288, 381#270, 381#290, 381#289, 381#292, 381#294, 381#291, 381#299, 381#297, 381#296, 381#300, 381#295, 381#303, 381#302, 381#306, 381#305, 381#304, 381#308, 381#307, 381#313, 381#311, 381#310, 381#315, 381#314, 381#316, 381#301, 381#319, 381#318, 381#320, #, #, #, 396#0, 396#1, 396#2, 396#60, 396#61, 396#140, 396#174, 396#196, 396#215, 396#247, 396#381, 396#382, #, #, 397#396, 396#400, #, 396#402, #, 1#404, #, 1#406, #, 406#400, 406#402, 396#410, #, 406#410, 1#413, #, 397#415, #, #, 415#416, #, 415#418, 396#421, #, 421#, #, 415#423, 426#, #, 428#, #, #, 432#429, 432#, #, 434#, #, 439#428, 439#432, 439#434, 439#, #, 444#425, 444#426, 444#439, 444#, #, 396#444, #, 415#446, 449#, #, #, 454#449, 454#450, 454#, #, 439#454, #, 415#456, #, 415#458, 421#461, #, 461#, 461#464, #, 464#, 464#467, #, #, 415#468, 396#471, #, 421#473, #, #, 415#474, #454, 478#476, 397#, #, 415#479, #, #, 415#482, #, 415#484, 396#487, #, 487#, 
+### 内容
+#0, 17:
+文档\物理问题\高斯光束.ftxt
+## end
+#1, 583:
+%{
++[返回目录]
+依据公式:...
++[网页](web,依据公式)
+
++[M函数](,抛物镜设计)
+%}
+
+%w0=5e-6/1.7;
+
+
+physics_constant;
+lambda=1800e-9;
+zR=w0^2*pi/lambda;
+
+w=w0*sqrt(1+(z/zR).^2);
+x=linspace(-3*w,3*w,100);
+y=linspace(-3*w,3*w,100);
+[Y,X]=meshgrid(y,x);
+Ro=sqrt(X.^2+Y.^2);
+
+I0=w0^2./w.^2.*exp(-2*Ro.^2./w^2);
+surf(X,Y,I0);
+shading interp
+
+theta=linspace(0,2*pi,100);
+c_x=w*cos(theta);
+c_y=w*sin(theta);
+hold on
+plot3(c_x,c_y,0*theta,'r')
+view([0,-90])
+plot(0,0,'r*')
+text(c_x(1),c_y(1),sprintf("diameter=%fin",2*w/2.54e-2),'background',[1,1,1])
+axis equal
+
+title(sprintf('w_0=%.1fum, f=%.1fin',w0/1e-6,z/2.54e-2))
+## end
+#2, 40:
+光波长为1.8um, 我希望聚焦到10um以下. 这个时候高斯近似是否还有效呢?
+## end
+#59, 41:
+I_0*(frac(w_0,w))^2*exp(frac(-2*r^2,w^2))
+## end
+#60, 47:
++[返回目录]
++[标签](+公式,)->+[标签](+光强,)->+[标签](+高斯光束,)
+## end
+#61, 464:
+physics_constant;
+lambda=1800e-9;
+w0=5e-6/1.7;
+zR=w0^2*pi/lambda;
+
+z=linspace(-10*w0,10*w0,100);
+w=w0*sqrt(1+(z/zR).^2);
+A=lambda/w0/pi
+
+k=2*pi/lambda;
+
+ro=linspace(-10*w0,10*w0,100);
+[Ro,Z]=meshgrid(ro,z);
+W=w0*sqrt(1+(Z/zR).^2);
+R=Z.*(1+(zR./Z).^2);
+Psi=atan(Z/zR);
+
+Ex=w0./W.*exp(-Ro.^2./W.^2).*exp(-1i*(k*Z+k*Ro.^2/2./R-Psi));
+I0=w0^2./W.^2.*exp(-2*Ro.^2./W.^2);
+surf(Z,Ro,real(I0));
+shading interp
+hold on
+plot3(z,w,0*z+0.5,'r',z,-w,0*z+0.5,'r');
+view([0,90])
+## end
+#140, 7:
++[返回目录]
+## end
+#173, 27:
+w_0*sqrt(1+(frac(z,z_R))^2)
+## end
+#195, 24:
+frac(w_0^2*n\pi,\lambda)
+## end
+#214, 19:
+arctan(frac(z,z_R))
+## end
+#246, 21:
+z*(1+(frac(z_R,z))^2)
+## end
+#381, 35:
++[返回目录]
+
++[标签](+公式,)->+[标签](+高斯光束,)
+## end
+#382, 71:
+https://en.wikipedia.org/wiki/Helmholtz_equation#Paraxial_approximation
+## end
+#383, 4:
+高斯光束
+## end
+#396, 1526:
++[返回目录]
+地址::文档\物理问题\高斯光束.ftxt
++[设置结构](,高斯光束)
+
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+
+Nini, 导入网页画板的库
+
+正文(html):...
+高斯光束解析解(html):...
+Pulse能量(html):...
++[H函数](,Pulse能量)
++[H函数](,高斯光束解析解)
++[H函数](,正文)
+
++[新建阅读窗口](,Pulse能量)
+
+
+
+
+高斯光束是亥姆霍次方程的一个近似解:
+网页::https://en.wikipedia.org/wiki/Helmholtz_equation#Paraxial_approximation
++[打开网页](,网页)
+
+电场分布:
+高斯光束是TEM光. 其数学形式为:
+电场分布->[段落](,电场分布)->+[公式]"E_x(r,z)=E_0*frac(w_0,w(z))*exp(frac(-r^2,w(z)^2))*exp(-i*(k*z+k*frac(r^2,2*R(z))-\psi(z)))"(,电场分布)
+的(电场分布,E_x)->+[显示公式](,E_x)
+
+
+腰宽:
++[段落](,+w)->+[=]"w_0*sqrt(1+(frac(z,z_R))^2)"(+w,)
+w->[段落](,w)->+[显示公式](,w)
++[段落](,+z_R)->+[=]"frac(w_0^2*n\pi,\lambda)"(+z_R,)
+z_R->[段落](,z_R)->+[显示公式](,z_R)
+
+波前曲率:
++[段落](,+R)->+[=]"z*(1+(frac(z_R,z))^2)"(+R,)
+R->[段落](,R)->+[显示公式](,R)
+
+相位:
++[段落](,+\psi)->+[=]"arctan(frac(z,z_R))"(+\psi,)
+\psi->[段落](,\psi)->+[显示公式](,\psi)
+
++[显示页面](browser,)
+先只看腰宽的性质. 重点是焦距和spot size的关系.
++[matlabStart](,Matlab)
+显然, z->\infinity时,
+z取极限:
++[段落](,+z取极限)->+[公式]"frac(w,z)=frac(w_0,z_R)=frac(w_0*\lambda,w_0^2*n*\pi)=frac(\lambda,w_0*n*\pi)"(,+z取极限)
+z取极限->[段落](,z取极限)->的(z取极限,分式)->=(分式,)->+[显示公式](,分式)
++[段落](,焦点大小)
+
+光强分布:
+I:
++[段落](,+I)->+[=]"I_0*(frac(w_0,w))^2*exp(frac(-2*r^2,w^2))"(+I,)
+I->[段落](,I)->+[显示公式](,I)
+
++[段落](,+问题)...
+->+问题"光波长为1.8um, 我希望聚焦到10um以下. 这个时候高斯近似是否还有效呢?"
+
+接下来需要一个给定spot size和焦距, 输出焦点附近光强分布和透镜光强分布的程序. 还有输出透镜直径.
+[段落](,抛物镜设计)
+z::5*2.54e-2
+w0::5e-6
+f::6
+抛物镜设计:...
++[M函数](,抛物镜设计)
++[创建函数](,抛物镜设计)
++[创建输入](w0,抛物镜设计)->+[创建输入](f,抛物镜设计)
++[创建输入](z,抛物镜设计)
+
+
+好了, 然后要回答的问题就是, 这个w0对应的中心光强是多少?
+这样定义的w0, 对应的a0是多少?
++[返回目录]
+## end
+#397, 88:
+高斯光束:...
+创建于 20210216
+
+[当前文件](文本,)->是([当前文件],_)->+[显示星图](,_)
+
++[修改标题]"目录"(,文本)
+节点数目统计::
+
+## end
+#400, 4:
+5e-6
+## end
+#402, 1:
+6
+## end
+#404, 14:
++[返回目录]
++[内容]
+
+## end
+#406, 49:
++[返回目录]
++[内容]
+w0::5e-6
+f::6*2.54e-2
+z::6*2.54e-2
+
+## end
+#410, 9:
+5*2.54e-2
+## end
+#413, 851:
+<!--
++[返回目录]
+
+LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
++[打开](,LaTeX数学记号)
+-->
+
+<html>
+  <head><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <p><mathjax style="font-size:1.5em">
+The shape of the Gaussian beam:
+$$
+w=w_0\sqrt{1+\left(\frac{z}{z_R}\right)^2},
+\ 
+z_R=\frac{w_0^2 \pi}{\lambda}
+$$
+
+<img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GaussianBeamWaist.svg/1920px-GaussianBeamWaist.svg.png">
+</img>
+<br>
+<br>
+
+The following formula is the intensity distribution at the position \(z\), where the waist of the beam is at \(z=0\) location: 
+$$
+I(r,z)=I_0\frac{w_0^2}{w^2}exp\left(-\frac{2 r^2}{w^2}\right)
+$$
+
+
+<!--
++[网页](web,依据公式)
+-->
+    </mathjax></p>
+  </body>
+</html>
+
+## end
+#416, 3:
+418
+## end
+#418, 3:
+423
+## end
+#421, 4073:
+<!--
++[H函数](,正文)
+-->
+
+<b><u>Basic concept</u></b><br>
+The shape of the Gaussian beam:
+$$
+w=w_0\sqrt{1+\left(\frac{z}{z_R}\right)^2},
+\ 
+z_R=\frac{w_0^2 \pi}{\lambda}
+$$
+
+<img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GaussianBeamWaist.svg/1920px-GaussianBeamWaist.svg.png">
+</img>
+<br>
+<br>
+
+The following formula is the intensity distribution at the position \(z\), where the waist of the beam is at \(z=0\) location: 
+$$
+I(r,z)=I_0\frac{w_0^2}{w^2}exp\left(-\frac{2 r^2}{w^2}\right)
+$$
+<br>
+<br>
+
+
+
+<b><u>Focal spot</u></b><br>
+For a Gaussian beam, if the focal length is \(f\) and the diameter is \(2 w\) on the len, then the diameter of the focal spot \(2 w_0\) can be derived,
+$$
+w=w_0\sqrt{1+\left(\frac{f}{z_R}\right)^2},
+\ 
+z_R=\frac{w_0^2 \pi}{\lambda}
+$$$$
+w^2=w_0^2\left[1+\left(\frac{f}{z_R}\right)^2\right]
+
+=w_0^2\left[1+\left(\frac{\lambda f}{w_0^2 \pi}\right)^2\right]
+
+=w_0^2+\left(\frac{\lambda f}{w_0 \pi}\right)^2
+$$
+By multiplying \(w_0^2\) on both sides, 
+$$
+w_0^4 - w^2 w_0^2 +\left(\frac{\lambda f}{\pi}\right)^2
+= 0
+$$
+The focal spot is, 
+$$
+w_0^2=\frac{w^2 - \sqrt{w^4-4\left(\frac{\lambda f}{\pi}\right)^2}}{2}
+$$
+
+<br><br>
+Then we have the frequency range, 
+$$
+d\omega = 2 w_0 \frac{d\omega}{dL}
+$$
+<br><br><br><br>
+
+
+<b><u>F-number and focal spot</u></b><br>
+The f-number is defined as, 
+$$
+N=\frac{f}{D}=\frac{f}{2 w}
+$$
+Then we can rewrite the focal spot formula in this way, 
+$$
+w_0^2=\frac{w^2 - \sqrt{w^4-4\left(\frac{\lambda f}{\pi}\right)^2}}{2}
+$$$$
+2 \left(\frac{w_0}{w}\right)^2
+=1 - \sqrt{1-\left(\frac{2 \lambda f}{\pi w^2}\right)^2}
+=1 - \sqrt{1-\left(\frac{4 \lambda N}{\pi w}\right)^2}
+$$
+Since \(N \lambda \ll w\), then we have, 
+$$
+1 - \sqrt{1-\left(\frac{4 \lambda N}{\pi w}\right)^2}
+\\\approx
+1 - \left[1-\frac{1}{2}\left(\frac{4 \lambda N}{\pi w}\right)^2\right]
+=
+\frac{1}{2}\left(\frac{4 \lambda N}{\pi w}\right)^2
+$$
+Finally, the focal spot is, 
+$$
+2 \left(\frac{w_0}{w}\right)^2
+\approx
+\frac{1}{2}\left(\frac{4 \lambda N}{\pi w}\right)^2
+\\\Rightarrow
+\left(\frac{w_0}{w}\right)^2
+\approx
+\left(\frac{2 \lambda N}{\pi w}\right)^2
+\\\Rightarrow
+w_0
+\approx
+\frac{2 N}{\pi} \lambda
+$$
+
+<br><br><br>
+
+
+<b><u>Wavefront of a lens</u></b><br>
+The equation of a Gaussian beam is, 
+$$
+\mathbf{E}(r,z)=E_0\hat{\mathbf{x}}
+\frac{w_0}{w(z)}
+exp\left(\frac{-r^2}{w(z)^2}\right)
+exp\left(-i
+\left(
+kz+k\frac{r^2}{2R(z)}-\psi(z)
+\right)\right)
+$$
+in which, functions are defined as, 
+$$
+\begin{cases}
+w(z)=w_0\sqrt{1+\left(
+\frac{z}{z_R}
+\right)^2}
+,\ 
+z_R=\frac{\pi w_0^2 n}{\lambda}
+\\
+R(z)=z\left[
+1+\left(
+\frac{z_R}{z}
+\right)^2
+\right]
+\\
+\psi(z)=arctan\left(
+\frac{z}{z_R}
+\right)
+
+\end{cases}
+$$
+The \(n\) is the refractive index of the medium. <br>
+
+If the beam is multiplied by a wavefront, \(f(r)=exp(-i k r^2/a)\),
+$$
+\mathbf{E}(r,z)f(r)
+=\mathbf{E}_0
+exp\left(\frac{-r^2}{w(z)^2}\right)
+exp\left(-i k r^2
+\left[
+\frac{1}{2R(z)}
++\frac{1}{a}
+\right]
+\right)
+\\
+=\mathbf{E}_0
+exp\left(\frac{-r^2}{w(z)^2}\right)
+exp\left(-i k
+\frac{r^2}{2R'(z)}
+\right)
+$$
+
+Considering the property of electric-magnetic field propagation, it's still a Gaussian beam after the lens. We can get the new \(w_0\) and \(z\), by following calculation. 
+$$
+1/R'=1/R+2/a=\frac{z}{
+z^2+z_R^2
+}
++\frac{2}{a}
+$$$$
+w^2/w_0^2
+=1+\left(
+\frac{z}{z_R}
+\right)^2
+=\frac{z^2+z_R^2}{z_R^2}
+\Rightarrow
+z^2+z_R^2=\frac{w^2 z_R^2}{w_0^2}
+$$$$
+1/R'=\frac{w_0^2 z}{w^2 z_R^2}+\frac{2}{a}
+=
+\frac{\lambda^2 z}{n^2 \pi^2 w^2 w_0^2}+\frac{2}{a}
+$$
+Then we have three equations, 
+$$
+\begin{cases}
+\frac{\lambda^2}{n^2 \pi^2}  \frac{z'}{w^2 w_0'^2}
+=\frac{\lambda^2}{n^2 \pi^2} \frac{z}{w^2 w_0^2}+\frac{2}{a}
+\\
+w_0\approx \frac{z \lambda}{\pi w} 
+\\
+w_0'\approx \frac{z' \lambda}{\pi w}
+\end{cases}
+$$
+OK, the equation becomes,
+$$
+\frac{1}{n^2}\frac{1}{z'}=\frac{1}{n^2}\frac{1}{z}+\frac{2}{a}
+$$
+Or,
+$$
+\frac{2 n^2}{a}=
+\frac{1}{z}-\frac{1}{z'}
+$$
+It means,
+$$
+f=\frac{a}{2 n^2}
+$$
+The \(n\) is the refractive index of the air, but not of lens. 
+
+
+<!--
+透镜参考::https://www.rp-photonics.com/lenses.html
++[H函数](,正文)
+计算半径(M函数):...
+-->
+## end
+#423, 3:
+425
+## end
+#426, 43:
+https://en.wikipedia.org/wiki/Gaussian_beam
+## end
+#428, 1060:
+%{
++[返回目录](,光场分布函数)
+
++[M函数](,光场分布函数)
+GaussianBeam(M函数):...
+存档(M函数):
+%}
+
+physics_constant;
+lm=800e-9;
+w0=0.01e-3;
+E0=1;
+n=1;
+
+zR=pi*w0^2*n/lm;
+k=2*pi/lm;
+z1=-0.0005;
+z2=0.0005;
+r1=5*w0;
+
+sz=[0,1e-3];
+sx=linspace(-r1,r1,500);
+sy=linspace(-r1,r1,500);
+[SX,SY]=meshgrid(sx,sy);
+SR=sqrt(SX.^2+SY.^2);
+
+r=linspace(-r1,r1,500);
+z=linspace(z1,z2,510);
+[R,Z]=meshgrid(r,z);
+
+psi=atan(Z/zR);
+rRc=Z./(Z.^2+zR.^2);
+w=w0*sqrt(1+(Z/zR).^2);
+E=E0*w0./w.*exp(-R.^2./w.^2).*exp(-1i*(k*Z+k*(R.^2/2.*rRc)-psi));
+
+
+subplot(2,1,1)
+I=abs(E).^2;
+surf(R/1e-3,Z/1e-3,I./max(I')'); %#ok<UDIM>
+% surf(R/1e-3,Z/1e-3,real(E));
+shading interp
+xlabel('r [mm]')
+ylabel('z [mm]')
+view([90,90])
+
+n=length(sz);
+for i=1:n
+subplot(2,n,n+i)
+    
+psi=atan(sz(i)/zR);
+rRc=sz(i)./(sz(i).^2+zR.^2);
+w=w0*sqrt(1+(sz(i)/zR).^2);
+E=E0*w0./w.*exp(-SR.^2./w.^2).*exp(-1i*(k*sz(i)+k*(SR.^2/2.*rRc)-psi));
+
+I=abs(E).^2;
+
+surf(SX/1e-3,SY/1e-3,I)
+shading interp
+xlabel('X [mm]')
+ylabel('Y [mm]')
+view([90,90])
+axis equal
+title(sprintf('z=%.2f mm',sz(i)/1e-3))
+end
+%plot(Z,rRc)
+%axis equal
+
+%{
++[M函数](,光场分布函数)
+%}
+## end
+#429, 28:
+Matlab\optics\GaussianBeam.m
+## end
+#432, 441:
+%{
++[返回目录](,GaussianBeam)
+地址::Matlab\optics\GaussianBeam.m
++[保存文本](,GaussianBeam)
+
++[M函数](,GaussianBeam)
+%}
+
+function E=GaussianBeam(Z,R,lm,w0,E0,n)
+    physics_constant;
+    %lm=800e-9;
+    %w0=0.01e-3;
+    %E0=1;
+    %n=1;
+    
+    zR=pi*w0^2*n/lm;
+    k=2*pi/lm;
+    
+    psi=atan(Z/zR);
+    rRc=Z./(Z.^2+zR.^2);
+    w=w0*sqrt(1+(Z/zR).^2);
+    E=E0*w0./w.*exp(-R.^2./w.^2).*exp(-1i*(k*Z+k*(R.^2/2.*rRc)-psi));
+
+end
+
+%{
++[M函数](,光场分布函数)
+%}
+## end
+#439, 961:
+%{
++[返回目录](,光场分布函数)
+GaussianBeam(M函数):...
+GaussianBeam_3D(M函数): 来自干涉原理 的 任意方向高斯光束...
+存档(M函数):...
+
+记住GaussianBeam_3D(节点)
+Nini, 高斯光束的GaussianBeam_3D是什么?
+
++[M函数](,光场分布函数)
+%}
+
+addpath('Matlab\optics');
+
+physics_constant;
+lm=800e-9;
+w0=0.01e-3;
+E0=1;
+n=1;
+
+z1=-0.0005;
+z2=0.0005;
+r1=5*w0;
+
+sz=[-1e-3,0,2e-3,5e-3];
+sx=linspace(-r1,r1,500);
+sy=linspace(-r1,r1,500);
+[SX,SY]=meshgrid(sx,sy);
+SR=sqrt(SX.^2+SY.^2);
+
+r=linspace(-r1,r1,500);
+z=linspace(z1,z2,510);
+[R,Z]=meshgrid(r,z);
+
+E=GaussianBeam(Z,R,lm,w0,E0,n);
+
+subplot(2,1,1)
+I=abs(E).^2;
+surf(R/1e-3,Z/1e-3,I./max(I')'); %#ok<UDIM>
+% surf(R/1e-3,Z/1e-3,real(E));
+shading interp
+xlabel('r [mm]')
+ylabel('z [mm]')
+view([90,90])
+
+n=length(sz);
+for i=1:n
+subplot(2,n,n+i)
+    
+E=GaussianBeam(sz(i),SR,lm,w0,E0,n);
+I=abs(E).^2;
+
+surf(SX/1e-3,SY/1e-3,I)
+shading interp
+xlabel('X [mm]')
+ylabel('Y [mm]')
+view([90,90])
+axis equal
+title(sprintf('z=%.2f mm',sz(i)/1e-3))
+end
+%plot(Z,rRc)
+%axis equal
+
+%{
++[M函数](,光场分布函数)
+%}
+## end
+#444, 812:
+<!--
++[H函数](,高斯光束解析解)
+参考::https://en.wikipedia.org/wiki/Gaussian_beam
++超链接(参考,)
+-->
+
+According to the Wikipedia(%参考), 
+the equation is, 
+$$
+\mathbf{E}(r,z)=E_0\hat{\mathbf{x}}
+\frac{w_0}{w(z)}
+exp\left(\frac{-r^2}{w(z)^2}\right)
+exp\left(-i
+\left(
+kz+k\frac{r^2}{2R(z)}-\psi(z)
+\right)\right)
+$$
+In the equation, \(k\) is the wave number of the beam. The \(w_0\) is the waist of the beam. The \(E_0\) is the peak intensity. <br>
+Other functions in the equation are, 
+$$
+w(z)=w_0\sqrt{1+\left(
+\frac{z}{z_R}
+\right)^2}
+,\ 
+z_R=\frac{\pi w_0^2 n}{\lambda}
+$$
+The \(n\) is the refractive index of the medium. <br>
+The curvature \(R(z)\) is,
+$$
+R(z)=z\left[
+1+\left(
+\frac{z_R}{z}
+\right)^2
+\right]
+$$
+The Gouy phase is, 
+$$
+\psi(z)=arctan\left(
+\frac{z}{z_R}
+\right)
+$$
+
+
+
+<!--
+光场分布函数(M函数):...
+
++[H函数](,高斯光束解析解)
+-->
+## end
+#446, 3:
+456
+## end
+#449, 314:
+%{
++[M函数](,测试)
+%}
+
+
+clf
+addpath('Matlab\optics');
+
+orig=[0.7,0.6,0];
+k_0=[1,0.3,30];
+lm=400e-9;
+w0=20e-2;
+E0=1;
+n=1;
+N=100;
+
+x0=linspace(0,1,N*2);
+y0=linspace(0,1,N);
+[X0,Y0]=meshgrid(x0,y0);
+Z0=zeros(size(X0));
+
+E=GaussianBeam_3D(X0,Y0,Z0,orig,k_0,lm,w0,E0,n);
+
+surf(Y0,X0,abs(E).^2)
+view([90,90])
+shading interp
+
+## end
+#450, 31:
+Matlab\optics\GaussianBeam_3D.m
+## end
+#454, 613:
+%{
++[返回目录](,GaussianBeam_3D)
++[M函数](,GaussianBeam_3D)
+地址::Matlab\optics\GaussianBeam_3D.m
++[保存M函数](,GaussianBeam_3D)
+
+测试(M函数):...
++[M函数](,测试)
+%}
+
+function E=GaussianBeam_3D(X0,Y0,Z0,orig,k_0,lm,w0,E0,n)
+
+% orig=[0.7,0.6,0];
+% k_0=[1,4,0];
+% lm=400e-9;
+% w0=20e-2;
+% E0=1;
+% n=1;
+% N=100;
+
+% x0=linspace(0,1,N);
+% y0=linspace(0,1,N);
+% [X0,Y0]=meshgrid(x0,y0);
+% Z0=zeros(size(X0));
+
+DX0=X0-orig(1);
+DY0=Y0-orig(2);
+DZ0=Z0-orig(3);
+
+k=k_0/norm(k_0);
+Z=k(1)*DX0+k(2)*DY0+k(3)*DZ0;
+DX=DX0-Z*k(1);
+DY=DY0-Z*k(2);
+DZ=DZ0-Z*k(3);
+R=sqrt(DX.^2+DY.^2+DZ.^2);
+
+E=GaussianBeam(Z,R,lm,w0,E0,n);
+
+end
+
+%{
++[M函数](,任意方向高斯光束)
+%}
+## end
+#456, 3:
+458
+## end
+#458, 3:
+468
+## end
+#461, 225:
+%{
++[M函数](,计算半径)
+
+GaussianBeam_w(M函数):...
+%}
+
+addpath('Matlab\optics');
+physics_constant;
+
+w0=1;
+lm=1;
+z0=5;
+z=linspace(-10,10,1000);
+
+w=GaussianBeam_w(z,w0,lm,z0);
+
+figure(2)
+plot(z,w,z,-w);
+axis equal
+
+
+
+%{
++[M函数](,计算半径)
+%}
+## end
+#464, 228:
+%{
++[M函数](,GaussianBeam_w)
+
+地址::Matlab\optics\GaussianBeam_w.m
++[保存文本](,GaussianBeam_w)
+%}
+
+function w=GaussianBeam_w(z,w0,lm,z0)
+
+%w0=1;
+%lm=1;
+%z0=5;
+%z=linspace(-10,10,1000);
+
+zR=w0^2*pi/lm;
+w=w0*sqrt(1+((z-z0)/zR).^2);
+
+end
+
+## end
+#467, 30:
+Matlab\optics\GaussianBeam_w.m
+## end
+#468, 3:
+475
+## end
+#471, 16:
+文档\S应用\网页画板.ftxt
+## end
+#473, 40:
+https://www.rp-photonics.com/lenses.html
+## end
+#474, 3:
+476
+## end
+#479, 3:
+481
+## end
+#482, 3:
+484
+## end
+#484, 3:
+486
+## end
+#487, 82:
+<!--
++[H函数](,Pulse能量)
+-->
+<h2>Pulse laser energy</h2>
+
+
+
+<!--
++[H函数](,Pulse能量)
+-->
+## end
+### 结束

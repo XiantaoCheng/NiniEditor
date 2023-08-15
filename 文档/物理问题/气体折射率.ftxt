@@ -1,0 +1,169 @@
+### 节点
+地址, 的, 气体折射率, 目录, 的, 的, 公式, 的, 参考1, 的, polarizability, 的, polarizability表格, 的, 节点数目统计, 20210801, 的, 20210802, 的, M函数, 计算气体折射率, 表格, 数据, alpha数据, 超链接, 折射率数据, 超链接, 公式, 参考, 的, 的, 的, 的, 的, 的, html, 计算折射率, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 2#10, #, 2#12, #, 3#14, #, #, 14#15, #, 14#17, 20#, #, 22#, #, #, 25#, #, 27#, #, #, 36#20, 36#22, 36#23, 36#25, 36#27, 36#28, 36#, #, 2#36, 
+### 内容
+#0, 18:
+文档\物理问题\气体折射率.ftxt
+## end
+#2, 488:
++[返回目录](,气体折射率)
+地址::文档\物理问题\气体折射率.ftxt
+
+
+公式::https://en.wikipedia.org/wiki/Clausius%E2%80%93Mossotti_relation#Lorentz%E2%80%93Lorenz_equation
+参考1::file:///C:/Users/cheng/Desktop/paper/Refractive_index/Bennett31.pdf
+polarizability::https://en.wikipedia.org/wiki/Electric_susceptibility#Molecular_polarizability
+polarizability表格::file:///C:/Users/cheng/Desktop/paper/Refractive_index/2018Tablepol.pdf
++[打开网页](,公式)
+
+计算折射率(html):...
+的(气体折射率,气体折射率#0)->+[修改标题]"计算折射率"(,气体折射率#0)
++[粘贴](,气体折射率)
+
+
+
+## end
+#3, 49:
+气体折射率:...
+创建于 20210801
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 96:
+https://en.wikipedia.org/wiki/Clausius%E2%80%93Mossotti_relation#Lorentz%E2%80%93Lorenz_equation
+## end
+#8, 67:
+file:///C:/Users/cheng/Desktop/paper/Refractive_index/Bennett31.pdf
+## end
+#10, 78:
+https://en.wikipedia.org/wiki/Electric_susceptibility#Molecular_polarizability
+## end
+#12, 70:
+file:///C:/Users/cheng/Desktop/paper/Refractive_index/2018Tablepol.pdf
+## end
+#15, 2:
+17
+## end
+#17, 2:
+38
+## end
+#20, 359:
+%{
++[返回目录](,计算气体折射率)
++[M函数](,计算气体折射率)
+%}
+
+physics_constant;
+alpha=19.62e-41;
+p0=1e5;
+T0=273;
+N0=p0/kB/T0; 
+
+n=sqrt((3*epsilon0+2*N0*alpha)./(3*epsilon0-N0*alpha));
+
+disp(sprintf('Pressure: %.2e Pa',p0))
+disp(sprintf('Temperature: %.1f K',T0))
+disp(sprintf('Number density: %.2e cm^-3',N0/1e6))
+disp(sprintf('Refractive index: %.7f',n))
+
+%{
++[M函数](,计算气体折射率)
+%}
+## end
+#22, 82:
+Gas He Ar \(H_2\) \(N_2\);
+\(\alpha(10^{-41}F{\cdot}m^2)\) 2.300 18.52 9.143 19.62
+## end
+#23, 84:
+file:///C:/Users/cheng/Desktop/paper/Refractive_index/2016_Couperus_et_al.pdf#page=4
+## end
+#25, 61:
+https://refractiveindex.info/?shelf=main&book=N2&page=Peck-0C
+## end
+#27, 96:
+https://en.wikipedia.org/wiki/Clausius%E2%80%93Mossotti_relation#Lorentz%E2%80%93Lorenz_equation
+## end
+#28, 18:
+文档\物理问题\气体折射率.ftxt
+## end
+#36, 1688:
+<!--
++[返回目录](,计算折射率)
++[H函数](,计算折射率)
+参考::文档\物理问题\气体折射率.ftxt
++[打开文件](+新窗口,参考)
+公式(超链接)::https://en.wikipedia.org/wiki/Clausius%E2%80%93Mossotti_relation#Lorentz%E2%80%93Lorenz_equation
+折射率数据(超链接)::https://refractiveindex.info/?shelf=main&book=N2&page=Peck-0C
++[打开网页](,公式)
+alpha数据::file:///C:/Users/cheng/Desktop/paper/Refractive_index/2016_Couperus_et_al.pdf#page=4
++[打开网页](,alpha数据)
+-->
+
+I'm going to use Clausius-Mossotti relation to calculate the refractive index(%公式), 
+$$
+\frac{\epsilon_r-1}{\epsilon_r+2}
+=\frac{N\alpha}{3\epsilon_0}
+$$
+Here \(\epsilon_r = n^2\) for most of gases (non-magnetic materials). \(N\) is the number density, and \(\alpha\) is the molecular polarizability. <br>
+Here I believe the \(\alpha\) should be a function of wavelength, and there should be a theory to calculate it. But now I will simply use data from refractiveIndex.info(%折射率数据), and from the referred paper. 
+
+<!--
+数据(表格)::Gas He Ar \(H_2\) \(N_2\);
+\(\alpha(10^{-41}F{\cdot}m^2)\) 2.300 18.52 9.143 19.62
+-->
+%数据<br>
+<br>
+We have,
+$$
+\frac{n^2-1}{n^2+2}
+=\frac{N\alpha}{3\epsilon_0}
+$$
+The \(\alpha\) can be calculated by this, 
+$$
+\alpha=
+\frac{n^2-1}{n^2+2}
+\frac{3\epsilon_0}{N}
+=
+3\epsilon_0
+\frac{n^2-1}{n^2+2}
+\frac{k_B T}{p}
+$$
+And the refractive index is, 
+$$
+\frac{n^2-1}{n^2+2}
+=
+1-\frac{3}{n^2+2}
+=
+\frac{N\alpha}{3\epsilon_0}
+$$$$
+\frac{3}{n^2+2}
+=
+1-\frac{N\alpha}{3\epsilon_0}
+$$$$
+n^2+2
+=
+\frac{9\epsilon_0}{3\epsilon_0-N\alpha}
+$$$$
+n^2
+=
+\frac{9\epsilon_0-6\epsilon_0+2N\alpha}{3\epsilon_0-N\alpha}
+=
+\frac{3\epsilon_0+2N\alpha}{3\epsilon_0-N\alpha}
+$$$$
+n
+=\sqrt{
+\frac{3\epsilon_0+2N\alpha}{3\epsilon_0-N\alpha}
+}
+$$
+
+
+<!--
++[H函数](,气体折射率)
+
+计算气体折射率(M函数):...
++[M函数](,计算气体折射率)
+-->
+## end
+### 结束

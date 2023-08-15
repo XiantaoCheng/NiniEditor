@@ -1,0 +1,5752 @@
+### 节点
+地址, 源代码, 源代码, 地址, 地址, 源代码, 的, 的, 电子能谱, 目录, 的, 的, 重要函数, 的, spectrumCalibration_spectrum, 的, energyRuler_spectrum, 的, calibration, 的, 阴影数据, 的, designTool, 的, AutoCalibrationIP, 的, LauchAngle_CXT, 的, LaunchAngles_CXT, 的, 核心算法, 的, 网页画板, 的, 原理, html, 的, XrayAutoMatch, 的, spectrum, M函数, 的, energyPx_spectrum, M函数, 的, thetaPx_spectrum, M函数, 的, spectrumCalibration_spectrum, M函数, 的, energyRuler_spectrum, 的, 地址, 的, 地址, 的, 地址, 的, 地址, 的, 地址, 的, 三维场景, 的, 照片测量, 的, 星图, M函数, 的, 三维建模, 的, PPT场景, 的, 动词, 的, 显示能谱仪场景, 的, 模板, 的, 测试, 的, 的, 的, 的, 的, IP, fiducials, magnet, exit, gas cell, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 空间点, 在, 空间点, 在, 空间点, 在, 空间点, 在, 空间点, 在, 的, 位置, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 长度, 的, 的, 的, 磁场强度, 的, 的, 的, 方向, 朝向, 的, 的, 的, x, 的, 第一排, 的, 的, 的, x, 的, 第二排, 的, 的, 方向, 朝向, 的, 的, 宽度, 的, 的, 的, 高度, 的, 的, 的, 厚度, 的, 旋转, 旋转, 旋转, 旋转, 旋转, 旋转, 旋转, 旋转, 旋转, 旋转, 旋转, 的, 磁场轨迹, 的, 的, 的, 的, 的, 尺寸, 的, 空间点, 磁场, 在, 的, 的, 的, 的, 的, 方向, 朝向, 空间点, 圆形, 在, 的, 的, 的, 的, 的, 的, y, 的, x, 的, 半径, 的, 的, 的, 的, 的, 的, 的, 的, 的, BO, AO, 空间点, B, 在, 空间点, A, 在, 的, 样式, 的, 的, 的, 空间点, 空间点, 直线, 的, 相对关系, M函数, 的, 问题, 的, 能谱转换, M函数, 的, 绘制场景, M函数, 的, 轨迹, M函数, 的, energy_pixel, M函数, 的, 地址, 的, GLOBAL_parameters, 的, IP, 的, IP公式, 的, trajectory, M函数, 的, trajectory_uniform, M函数, 的, 地址, 的, 测试函数, M函数, 的, trajectory_XY, M函数, 的, 地址, 的, 迭代方法, M函数, 的, 反向验证, M函数, 的, 名词, 的, trajectory_fiducial, M函数, 的, 地址, 的, 能谱, M函数, 的, spectrum, M函数, 的, 地址, 的, spectrum_x, M函数, 的, 地址, 的, 测试, M函数, 的, LaunchAngle_CXT, 的, 地址, 的, 校正工具, 的, XrayAutoMatch, M函数, 的, 地址, 的, match_xo, M函数, 的, show_XrayAutoMatch, M函数, 的, 地址, 的, 地址, 的, 算法解释, 的, 全局变量, 的, 测试输入, M函数, 的, AutoCalibrationIP, M函数, 的, 地址, 的, 测试函数, M函数, 的, DesignTool, M函数, 的, 地址, 的, 测试函数, M函数, 的, LaunchAngles, M函数, 的, 地址, 的, LaunchAngle, M函数, 的, 地址, 的, 测试函数, M函数, 的, IP校正, 的, SR, spectrum, 的, 记忆, 的, 能量标记, html, 的, 结构, 的, 测试, 原理, 的, 的, [1]., 表达式, 的, 公式, 的, [2]., 表达式, 的, 公式, 的, [3]., 表达式, 的, 公式, 的, 示意图, 的, 图形, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 内容, 的, 样式, 尺寸, 的, 空间点, 在, 文本框5, 内容, 的, 样式, 尺寸, 的, 空间点, 在, 文本框4, 内容, 的, 样式, 尺寸, 的, 空间点, 在, 文本框3, 内容, 的, 样式, 尺寸, 的, 空间点, 在, 文本框2, 内容, 的, 样式, 尺寸, 的, 空间点, 在, 文本框1, 内容, 的, 样式, 尺寸, 的, 空间点, 在, 文本框0, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 内容, 的, 样式, 尺寸, 的, 空间点, 在, 矩形0, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 样式, y, 的, x, 的, 直线2, 样式, y, 的, x, 的, 直线1, 样式, y, 的, x, 的, 直线0, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 的, 样式, 角度2, 的, 角度1, 的, 类型, 的, 方向, 朝向, 空间点, 在, 圆弧2, 样式, 角度2, 的, 角度1, 的, 类型, 的, 方向, 朝向, 空间点, 在, 圆弧1, 样式, 角度2, 的, 角度1, 的, 类型, 的, 方向, 朝向, 空间点, 在, 圆弧0, 的, y, 的, x, 的, 的, y, 的, x, 的, 的, y, 的, x, 的, 的, 的, 的, 的, 的, 的, 半径, 的, 半径, 的, 半径, 的, 的, [6]., 表达式, 的, 公式, 的, [7]., 表达式, 的, 公式, 的, [4]., 表达式, 的, 公式, 的, 验证公式, M函数, 的, [5]., 表达式, 的, 公式, 的, energy_ruler, M函数, energy_ruler, 的, 的, 地址, 的, 参考, trajectory_fiducial, 的, 的, 逆向轨迹, html, 能量标记, 的, 的, 结构, 的, [2]., 表达式, 的, 公式, 的, [1]., 表达式, 的, 公式, 的, [3]., 表达式, 的, 公式, 的, [4]., 表达式, 的, 公式, 的, [6]., 表达式, 的, 公式, 的, [5]., 表达式, 的, 公式, 答案, 回答, 的, 验证公式, M函数, 的, trajectory_Es, M函数, 的, 地址, trajectory_fs, 的, LaunchAngle, 的, LaunchAngles, 的, 逆向轨迹, 的, spectrum, 的, 测试, 的, 互逆测试, M函数, 的, spectrum2IP, M函数, 的, 地址, spectrum2IP, 的, spectrum2IP, 的, 测试, spectrum_x, 的, spectrum_x, 的, spectrum1, M函数, 的, 标尺互逆, M函数, 的, spectrum拆解, M函数, 的, u_substitution, M函数, 的, 地址, u_substitution, 的, u_substitution, 的, 测试, M函数, 的, 存档_暴露问题, 的, 存档_检测1, trajectory_fiducial, 的, 存档_单位1, 的, 互逆测试, 的, 存档_边缘互逆, 的, 互逆测试2, 答案, 回答, trajectory_uniform, 的, trajectory_uniform, 的, 正数磁场, 的, spectrum2, M函数, 的, 测试, M函数, 的, 折线轨迹对比, M函数, 的, 测试2, M函数, 答案, 回答, 的, 轨迹测试, M函数, 的, 能量对比, 轨迹测试, 的, 轨迹测试, IP校正, 的, IP校正, 的, 函数包整理, 的, main, 的, 地址, main, 的, main, trajectory_fs, 的, [7]., 的, 的, 表达式, 的, 公式, 的, 的, [8]., 的, [9]., 的, [10]., 的, 的, 表达式, 的, 公式, 的, 表达式, 的, 公式, 的, 表达式, 的, 公式, 的, 的, [11]., 表达式, 的, 公式, 的, [12]., 的, [13]., 的, [14]., 的, [15]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [16]., 表达式, 的, 公式, 的, [17]., 表达式, 的, 公式, 地址, 的, M函数, trajectory_fs, 的, trajectory_ft, 的, trajectory_ft, 的, 测试fs, 的, 保存, 保存, 地址, 的, 的, M函数, trajectory_ft, 的, trajectory_Es, 的, trajectory_Es, 的, 的, 的, 的, [18]., 的, 的, 的, 的, 的, 表达式, 的, 公式, 的, M函数, 计算发射角和fiducial, M函数, 计算能量和发射角, 计算能量和fiducial, 的, 回答, 的, 的, M函数, 逆向计算_1, 的, 打开网页, 
+### 关联
+#, #, #, #, #, #, 8#4, 8#5, #, #, 9#8, 8#12, #, 12#14, #, 12#16, #, 12#18, #, 12#20, #, 12#22, #, 12#24, #, 12#26, #, 12#28, #, 12#30, #, 8#32, #, 8#34, #, 34#, 12#37, #, 12#39, #, 39#, 39#42, #, 42#, 39#45, #, 45#, 39#48, #, 48#, 42#51, #, 39#53, #, 42#55, #, 51#57, #, 45#59, #, 48#61, #, 8#63, #, 8#65, #, 8#67, #, #, 8#70, #, 8#72, #, 8#74, #, 74#76, #, 76#78, #, 78#80, #, 63#86, 63#87, 63#88, 63#89, 63#90, #, #, #, #, #, 63#101, 63#102, 63#103, 63#104, 63#105, 63#106, 63#107, 63#108, 63#109, 63#110, #, 86#101, #, 87#103, #, 88#105, #, 89#107, #, 90#109, 63#112, #, 63#118, 63#119, 63#120, 63#121, 63#122, 112#101, 112#103, 112#105, 112#107, 112#109, 63#125, 63#126, #, 88#125, 63#129, 63#130, #, 88#129, 63#133, 63#134, #, 87#133, 63#138, 63#139, 63#140, #, 140#138, 87#, 63#144, 63#145, 63#146, #, 146#144, 87#, 63#149, 63#150, #, 86#149, 63#153, 63#154, #, 86#153, 63#157, 63#158, #, 86#157, 63#161, 63#162, #, 86#161, #86, #86, #87, #86, #87, #86, #87, #86, #87, #86, #87, 34#175, #, 175#181, 175#182, 175#183, 175#184, 175#185, #, 184#181, #, #, 184#183, 175#191, 175#192, 175#193, 175#194, 175#195, #, 194#191, #, #, 194#193, 175#202, 175#203, 175#204, 175#205, 175#206, 175#207, #, 194#202, #, 194#204, #, 194#206, 175#216, 175#217, 175#218, 175#219, 175#220, 175#221, 175#222, 175#223, 218#193, 221#193, #, #, 219#218, #, #, 222#221, 175#225, 194#, 175#229, 175#230, 175#231, #, #, 230#229, 175#233, #, 233#, 34#236, #, 34#238, #, 238#, 238#241, #, 241#, 238#244, #, 244#, 238#247, #, 247#, 247#250, #, 12#252, #, 34#254, #, 34#256, #, 244#258, #, 258#, 244#261, #, 261#, 261#264, #, 261#266, #, 266#, 266#269, #, 269#, 269#272, #, 34#274, #, 274#, 274#277, #, 277#, 8#280, #, 274#282, #, 282#, 282#285, #, 34#287, #, 287#, 287#290, #, 290#, 290#293, #, 290#295, #, 295#, 295#298, #, 287#300, #, 300#, 12#303, #, 12#305, #, 8#307, #, 307#309, #, 309#, 309#312, #, 309#314, #, 314#, 309#317, #, 317#, 314#320, #, 317#322, #, 309#324, #, 307#326, #, 309#328, #, 328#, 307#331, #, 331#, 331#334, #, 331#336, #, 336#, 307#339, #, 339#, 339#342, #, 339#344, #, 344#, 307#347, #, 347#, 347#350, #, 307#352, #, 352#, 352#355, #, 347#357, #, 357#, 8#360, #, 360#362, #, #290, 365#363, 9#, 8#367, #, 367#, 367#370, #, 367#372, #, #34, 365#373, 367#376, #, #, 376#377, 376#, 367#381, #, #, 381#382, 381#, 367#386, #, #, 386#387, 386#, 367#391, #, 391#393, #, 391#442, 391#443, 391#444, 391#445, 391#446, 391#447, 391#448, 391#449, 391#450, 391#451, 391#452, 391#453, 391#454, 391#455, 391#456, 391#457, 391#458, 391#459, 391#460, 391#461, 391#462, 391#463, 391#464, 391#465, 391#466, 391#467, 391#468, 391#469, 391#470, 391#471, 391#472, 391#473, 391#474, 391#475, 391#476, 391#477, 391#478, 391#479, 391#480, 391#481, 391#482, 391#483, 391#484, 391#485, 391#486, 391#487, 391#488, 391#489, #, 449#442, 449#, #, 449#445, #, 449#447, #, #, 457#450, 457#, #, 457#453, #, 457#455, #, #, 465#458, 465#, #, 465#461, #, 465#463, #, #, 473#466, 473#, #, 473#469, #, 473#471, #, #, 481#474, 481#, #, 481#477, #, 481#479, #, #, 489#482, 489#, #, 489#485, #, 489#487, #, 393#489, 393#481, 393#473, 393#465, 393#457, 393#449, 391#504, 391#505, 391#506, 391#507, 391#508, 391#509, 391#510, 391#511, #, 511#504, 511#, #, 511#507, #, 511#509, #, 393#511, 391#531, 391#532, 391#533, 391#534, 391#535, 391#536, 391#537, 391#538, 391#539, 391#540, 391#541, 391#542, 391#543, 391#544, 391#545, 391#546, 391#547, 391#548, 536#, #, 536#532, #, 536#534, #, 542#, #, 542#538, #, 542#540, #, 548#, #, 548#544, #, 548#546, #, 393#548, 393#542, 393#536, 391#588, 391#589, 391#590, 391#591, 391#592, 391#593, 391#594, 391#595, 391#596, 391#597, 391#598, 391#599, 391#600, 391#601, 391#602, 391#603, 391#604, 391#605, 391#606, 391#607, 391#608, 391#609, 391#610, 391#611, 391#612, 391#613, 391#614, 391#615, 391#616, 391#617, 391#618, 391#619, 391#620, 391#621, 391#622, 391#623, 599#, #, 599#601, #, 599#603, #, 599#593, #, 599#595, #, 599#597, #, 611#, #, 611#613, #, 611#615, #, 611#605, #, 611#607, #, 611#609, #, 623#, #, 623#613, #, 623#615, #, 623#617, #, 623#619, #, 623#621, #, 393#623, #, 623#625, #, 623#627, 393#611, #, 611#630, #, 611#632, 393#599, #, 599#635, #, 599#637, 391#645, 391#646, 391#647, 391#648, 391#649, 391#650, #, 623#645, #, 611#647, #, 599#649, 367#652, #, #, 652#653, 652#, 367#657, #, #, 657#658, 657#, 367#662, #, #, 662#663, 662#, 367#667, #, 667#, 367#670, #, #, 670#671, 670#, 667#675, #, 675#, #675, 365#677, 675#680, #, 667#682, #, #282, 365#683, 8#686, #, 686#, #367, 365#688, 686#691, #, 686#693, #, #, 693#694, 693#, 686#698, #, #, 698#699, 698#, 686#703, #, #, 703#704, 703#, 686#708, #, #, 708#709, 708#, 686#713, #, #, 713#714, 713#, 686#718, #, #, 718#719, 718#, #, 686#, 686#725, #, 725#, 725#728, #, 728#, 728#731, #, #728, 365#732, #352, 365#734, #347, 365#736, #686, 365#738, #, 295#742, #, 290#744, #, 744#, 290#747, #, 747#, 747#750, #, #747, 365#751, #, 290#755, #, #295, 365#756, #, 290#760, #, 760#, 744#763, #, 763#, 744#766, #, 766#, 744#769, #, 769#, 769#772, #, #769, 365#773, #, 769#777, #, 777#, 744#780, #, 744#782, #, #, 295#785, #, 282#787, #, 744#789, #, 282#791, #, #, 282#, #261, 365#794, #, 274#798, #, 290#800, #, 800#, 800#803, #, 803#, 800#806, #, 806#, 769#809, #, 809#, #, 744#, 290#814, #, 814#, 814#817, #, #814, 365#818, #, #360, 365#821, #, 12#825, #, 825#827, #, 827#829, #, #827, 365#830, #, #, 686#835, #, 714#del, 704#del, #, 835#838, 835#, 838#del, 686#843, #, 686#845, #, 686#847, #, 694#del, 699#del, #, 843#850, 843#, 850#del, #, 845#854, 845#, 854#del, #, 847#858, 847#, 858#del, 686#863, #, #, 863#864, 863#, 686#868, #, 686#870, #, 686#872, #, 686#874, #, #, 868#875, 868#, #, 870#878, 870#, #, 872#881, 872#, #, 874#884, 874#, 686#888, #, #, 888#889, 888#, 686#893, #, #, 893#894, 893#, #, 900#897, 900#, #, 725#900, #914, 365#902, #, 725#906, #, 728#908, #, #, #, 914#909, 914#910, 914#, #, 725#914, #728, 365#916, #, 864#del, 875#del, 878#del, 686#923, #, 881#del, 884#del, 889#del, 719#del, 894#del, #, 923#929, 923#, 929#del, 934#, #, 936#, #, #, 943#934, 943#, 943#936, 943#937, 943#, #, 725#943, #del, 
+### 内容
+#0, 17:
+文档\物理问题\电子能谱.ftxt
+## end
+#1, 65:
+C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window
+## end
+#2, 65:
+C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window
+## end
+#3, 17:
+文档\物理问题\电子能谱.ftxt
+## end
+#4, 17:
+文档\物理问题\电子能谱.ftxt
+## end
+#5, 65:
+C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window
+## end
+#8, 943:
++[返回目录](,电子能谱)
+地址::文档\物理问题\电子能谱.ftxt
++[导出结构](,电子能谱)
+
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+照片测量::文档\S应用\照片测量.ftxt
++[打开文件](+新窗口,照片测量)
+星图::文档\S应用\星图.txt
++[打开文件](+新窗口,星图)
+三维建模::文档\S应用\三维建模.ftxt
++[打开文件](+新窗口,三维建模)
+PPT场景::文档\S应用\PPT.ftxt
++[打开文件](+新窗口,PPT场景)
+Nini, 导入公式结构的库. Nini, 导入公式分析器的库
+Nini, 导入网页画板的库. Nini, 导入PPT的库
+Nini, 导入平面测绘的库. Nini, 导入图片库的库
+Nini, 打开平面测绘(文件)
+Nini, 打开公式分析器(文件)
+
+
+动词:...
++[设置动词](,动词)
+名词:...
++[设置名词](,名词)
+
+
+源代码::C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window
++[打开](,源代码)
+
+还是需要把这个整理出来的. 
+整个分析的流程是, 
+1.查看IP图象, 用鼠标选取阴影位置, 输出阴影位置用于calibration; 
+2.用Xray的阴影位置做calibration; 
+3.用e的阴影位置输出能谱. 
+
+2和3是按顺序做的, 可以放在一个函数中. 
+呃, 所以我打算花一点时间重新构造一下这个工具. 
+
+而输出能谱, 本质上就是把x坐标对应地变换到E坐标就好了. 
+
+那么我整理一个简化版的能谱分析. 
+我只需要定位出校正fiducial的方法和计算发射角的方法就可以了. 
+重要函数:...
++[新建阅读窗口](,重要函数)
+原理(html):...
+能量标记(html):...
+逆向轨迹(html):用迭代方法找轨迹...
++[H函数](,原理)
++[H函数](,能量标记)
++[H函数](,逆向轨迹)
+
+
+校正工具:...
++[新建阅读窗口](,校正工具)
+IP校正:...
+
+三维场景:...
++[新建阅读窗口](,三维场景)
+
+
+## end
+#9, 96:
+电子能谱:...
+创建于 20210829
+
+节点数目统计::
++[设置结构](,节点数目统计)
+
+DesignTool
+trajectory_uniform
+fiducial_method
+
+## end
+#12, 785:
++[返回目录](,重要函数)
+地址::C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\DataAnalysis
++[打开](,地址)
+
+
+核心算法::file:///C:/Users/cheng/Desktop/Laser/Launch_Angle/output/proceeding/Xiantao_s_Spectrometer.pdf#page=4
++[打开网页](,核心算法)
+
+
+spectrumCalibration_spectrum: 对IP信号强度的校正...
+energyRuler_spectrum: 计算能量和位置的对应关系...
+calibration: 校正fiducial位置, 计算发射角...
+
+阴影数据::address=[src.UserData.IPimageDir,'\',src.UserData.IPtype,'\shadow.csv'];
+
+LaunchAngle_CXT是入口函数, AutoCalibrationIP和designTool是核心函数. 
+LaunchAngle_CXT:...
+LaunchAngles_CXT:...
+designTool:...
+AutoCalibrationIP:...
+XrayAutoMatch:...
+
+AutoCalibrationIP中最重要的是匹配fiducial和shadow的那个部分. 
+
+我感觉, 核心算法的部分没啥, 不需要担心什么. 但是因为照顾到实际情况, 所以细节太多了, 流程有些僵硬, 确实不太好用... 
+
+GLOBAL_parameters:...
+
+
+spectrum(M函数):...
+
+
+20220610整理
+函数包整理:...
+
+
+
+## end
+#14, 383:
+function spectrum=spectrumCalibration_spectrum(src,IP,energy)
+    % IP decay calibration
+    IP=IP*src.UserData.decayIndex;
+    % energy calibration factor: Neil Dissertation, Table D-7 & Eq. D-3
+    if strcmp(src.UserData.IPType,'MS')
+        calibration=0.0301*(energy/1e9).^(-0.1269);                               %assume BAS-1800 MS
+        spectrum=IP./calibration;
+    end
+end
+## end
+#16, 1086:
+function [x_E,pixel_E]=energyRuler_spectrum(src,E)
+    %E--eV
+    global MAGNET_Z_BOUNDS;
+    global MAGNET_FIELD_STRENGTH;
+    global IP_Z_POSITION;
+    global GAS_CELL_Z_POSITION;
+    
+    show_mode=0;
+    
+    zm1=MAGNET_Z_BOUNDS(1);
+    zm2=MAGNET_Z_BOUNDS(2);
+    B=MAGNET_FIELD_STRENGTH;
+    D=abs(MAGNET_Z_BOUNDS(1)-MAGNET_Z_BOUNDS(2));
+    z_IP=IP_Z_POSITION;
+    
+    launch_angle=-src.UserData.launchAngle;
+    Cell=src.UserData.dcell+[GAS_CELL_Z_POSITION,0];
+    dy=src.UserData.dy;
+    
+    % set pixel size and center
+    if strcmp(src.UserData.IPtype,'MS')
+        pixelSize=1e-4;
+        pixelCent=2000;
+    elseif strcmp(src.UserData.IPtype,'SR')
+        pixelSize=0.5e-4;
+        pixelCent=4000;
+    end
+    
+    % x_IPs->E
+    if show_mode==1
+        figure;
+    end
+    angles=launch_angle*ones(size(E));
+    xm1s=line_free(Cell',angles,zm1,nan,show_mode);
+    [betas,~,xm2s]=trajectory_free(B,D,-angles,E,nan,show_mode,zm1,xm1s);
+    betas=-betas;
+    x_E=line_free([zm2*ones(size(E));xm2s],betas,z_IP,nan,show_mode);
+    pixel_E=(x_E+dy(1))/pixelSize+pixelCent;
+end
+## end
+#18, 1179:
+function calibration(src)
+    global FIDUCIAL_SHIFT_dy2;
+    global GAS_CELL_Z_POSITION;
+    global IP_Z_POSITION;
+    
+    shadow_X=src.UserData.shadow_Xcur;
+    shadow_e=src.UserData.shadow_ecur;
+    if isempty(shadow_e) || isempty(shadow_X)
+        src.UserData.rotationIP=1;
+        src.UserData.launchAngle=0;
+        src.UserData.dcell=[0,0];
+        src.UserData.dy=[0,0];
+        src.UserData.sourceSize=nan;
+        return
+    end
+    SD=shadow_X;
+    SD(2,1:length(shadow_e))=shadow_e;
+    dy2=FIDUCIAL_SHIFT_dy2;
+    
+    if mean(shadow_e)<2000
+        src.UserData.rotationIP=0;
+    else
+        src.UserData.rotationIP=1;
+        SD=sort(4001-SD,2);
+        SD(SD==4001)=0;
+    end
+    
+    [Angle,angles,energy,Fn,Cell,dy,sx]=LaunchAngle_CXT(SD,dy2,1);
+    % Angle=-Angle;
+    src.UserData.launchAngle=Angle;
+    src.UserData.dcell=Cell-[GAS_CELL_Z_POSITION,0];
+    src.UserData.dy=dy;
+    src.UserData.sourceSize=sx;
+    
+    % mark the center point
+    z_ip=IP_Z_POSITION;
+    x_cn=Cell(2)-Angle*(Cell(1)-z_ip);
+    pixel_cn=fix((x_cn-dy(1))/1e-4)+2000
+    figure;
+    plot(energy,angles,'o');
+    text(energy,angles,num2str(Fn));
+    update_calibration(src);
+end
+## end
+#20, 72:
+address=[src.UserData.IPimageDir,'\',src.UserData.IPtype,'\shadow.csv'];
+## end
+#22, 1699:
+function [Theta,E]=designTool(shadow,Cell,dy,show_Mode)
+% shadow=2000:2002;
+% Cell=[0.225 0];
+% dy=[0 0];
+% show_Mode=1;
+% Ma1=0;
+% Ma2=-0.05;
+% if LWFA==7
+%     IP=-2.48;
+%     Fiducial2=-1.545;
+%     Fiducial1=-1.037;
+% else
+%     IP=-2.476;
+%     Fiducial2=IP+0.93345;
+%     Fiducial1=IP+1.44145;
+% end
+% fd=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615;
+% 	2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+% Fy=fd*0.0254;
+% Fx=[Fiducial1 0;
+%     0 Fiducial2]*ones(size(Fy));
+
+e=1.602e-19;
+c=2.999e8;
+me=9.109e-31;
+
+global IP_Z_POSITION;
+global FIDUCIALS_X_POSITIONS;               %m
+global FIDUCIALS_Z_POSITIONS;
+global MAGNET_Z_BOUNDS;
+global MAGNET_FIELD_STRENGTH;
+
+
+Ma1=MAGNET_Z_BOUNDS(1);
+Ma2=MAGNET_Z_BOUNDS(2);
+B0=MAGNET_FIELD_STRENGTH;
+IP=IP_Z_POSITION;
+Fy=FIDUCIALS_X_POSITIONS;
+Fx=FIDUCIALS_Z_POSITIONS;
+
+
+
+shY=(shadow-2000)*1e-4;
+
+
+Theta=zeros(length(shY),numel(Fx));
+E=zeros(length(shY),numel(Fx));
+
+Fy(2,:)=Fy(2,:)-dy(2);
+    
+for i=1:length(shY)
+
+    Sx=IP*ones(size(Fx));
+    Sy=shY(i)*ones(size(Fx));
+    Sy=Sy-dy(1);
+
+    zs=reshape(Sx,[1,numel(Fx)]);
+    xs=reshape(Sy,[1,numel(Fy)]);
+    zf=reshape(Fx,[1,numel(Fx)]);
+    xf=reshape(Fy,[1,numel(Fy)]);
+    zm=(Ma1+Ma2)/2;
+    D=abs(Ma1-Ma2);
+    zo=Cell(1);
+    xo=Cell(2);
+
+    k1=(xs-xo)./(zm-zo)+(xs-xf).*(zm-zs)./(zs-zf)/(zm-zo);
+    theta=atan(k1);
+    k2=(xs-xf)./(zs-zf);
+    beta=atan(k2);
+    xm=xs+(zm-zs).*k2;
+
+    R=D./(sin(beta)-sin(theta));
+    E(i,:)=sqrt(B0^2*e^2*R.^2*c^2+me^2*c^4)/e/1e9;
+
+    Z=[zs;zm*ones(size(xm));zo*ones(size(xm))];
+    X=[xs;xm;xo*ones(size(xm))];
+
+    if show_Mode==1
+        plot(Z,X,'b',zf,xf,'*')
+    end
+    Theta(i,:)=theta;
+end
+Theta=Theta';
+E=E';
+end
+## end
+#24, 1068:
+function [cellx,dy,sx,xo]=AutoCalibrationIP(shadow,Cell,dy2,LWFA,show_mode,dy,n)
+% shadow=[1855,1899,2016,2022,2133];
+% Cell=[0.225 0];
+% dy2=-0.000632;
+% show_mode=1;
+% dy=[0 0];
+% if LWFA==7
+%     IP=-2.48;
+%     Fiducial2=-1.545;
+%     Fiducial1=-1.037;
+% else
+%     IP=-2.476;
+%     Fiducial2=IP+0.93345;
+%     Fiducial1=IP+1.44145;
+% end
+
+global IP_Z_POSITION;
+global FIDUCIAL1_Z_POSITION;
+global FIDUCIAL2_Z_POSITION;
+
+IP=IP_Z_POSITION;
+Fiducial1=FIDUCIAL1_Z_POSITION;
+Fiducial2=FIDUCIAL2_Z_POSITION;
+
+if n==0
+    cellx=Cell(2);
+    return;
+end
+
+if n==1
+    [xo,Fn]=XrayAutoMatch(shadow,Cell,dy,LWFA,show_mode);
+else
+    [xo,Fn]=XrayAutoMatch(shadow,Cell,dy,LWFA,0);
+end
+
+
+xo1=xo(Fn(:,2)==1);
+xo2=xo(Fn(:,2)==2);
+zs=IP;
+zf1=Fiducial1;
+zf2=Fiducial2;
+zo=Cell(1);
+
+dxo=mean(xo1)-mean(xo2);
+Cf2=(zo-zs)/(zf2-zs);
+Cs1=(zf1-zo)/(zf1-zs);
+Cs2=(zf2-zo)/(zf2-zs);
+
+dy1=(-dxo+Cf2*dy2)/(Cs1-Cs2)/3;
+dy=dy+[dy1 dy2];
+
+if n<=1
+    cellx=mean(xo);
+    sx=std(xo);
+else
+    Cell(2)=mean(xo);
+    [cellx,dy,sx,xo]=AutoCalibrationIP(shadow,Cell,0,LWFA,show_mode,dy,n-1);
+end
+end
+## end
+#26, 657:
+function [angle,Angles,e,Fn,Cell,dy,sx]=LaunchAngle_CXT(SD,dy2,show_mode)
+% Cell=[0.225,0];
+% dy2=-0.000632;
+% Ma=[0 -0.05];
+
+global GAS_CELL_Z_POSITION;
+Cell=[GAS_CELL_Z_POSITION,0];
+
+%History problem. Can be deleted.
+LWFA=0;
+
+shadowX=SD(1,SD(1,:)~=0);
+shadowE=SD(2,SD(2,:)~=0);
+
+
+% if Cal_type==1
+% [cellx,dy,sx,~,zw]=IPCalibrationWaist(IP,shadowX,Cell,dy2,LWFA,20,show_mode);
+% Cell(1)=zw;
+% else
+[cellx,dy,sx]=AutoCalibrationIP(shadowX,Cell,dy2,LWFA,show_mode,[0,0],20);
+fprintf('The size of the source is %1.8f mm!\n',sx*1e3);
+
+Cell(2)=cellx;
+[Angles,Fn,e]=LaunchAngles_CXT(shadowE,Cell,dy);
+angle=mean(Angles);                                 %rad
+end
+## end
+#28, 306:
+function [a,Fn,e]=LaunchAngles_CXT(shadowE,Cell,dy)
+[theta,energy]=designTool(shadowE,Cell,dy,0);
+the=abs(theta);
+% Assume that energy of electrons can't be larger than 3GeV
+the(energy>3)=inf;
+
+a=-theta(the==min(the));
+e=energy(the==min(the));
+[Fn,~]=find(-theta==a');
+% Fn=[fix((I+1)/2) mod(I+1,2)+1];
+end
+## end
+#30, 101:
+file:///C:/Users/cheng/Desktop/Laser/Launch_Angle/output/proceeding/Xiantao_s_Spectrometer.pdf#page=4
+## end
+#32, 16:
+文档\S应用\网页画板.ftxt
+## end
+#34, 5338:
+<!--
+Nini, 导入网页画板的库
++[H函数](,原理)
+记住原理(节点)
+IP::file:///C:/Users/cheng/Desktop/paper/IP/Nakanii08.pdf
+IP公式::file:///C:/Users/cheng/Desktop/paper/IP/Tanaka05.pdf
++[打开网页](,IP公式)
+-->
+
+<b><u>Trajectory in uniform magnetic fields</u></b><br>
+An electron traveling in magnetic fields will experience a lorentz force, 
+$$
+\mathbf{F}=q \mathbf{v}\times \mathbf{B}
+$$
+In uniform magnetic fields, the trajectory is a circle since the force is constant and always perpendicular to the velocity. The centripetal force is, 
+$$
+\mathbf{F}_c=\omega \mathbf{p}=q \mathbf{v}\times \mathbf{B}
+$$
+And the radius is,
+$$
+\frac{v}{R} p=q v B
+\Rightarrow
+R=\frac{p}{q B}
+$$
+
+
+
+
+If the width of the magnetic field is \(D\), the incoming angle is \(\theta\) and the outcoming angle is \(\beta\), then, 
+$$
+\begin{cases}
+D=R(sin\ \theta-sin\ \beta)
+\\
+\Delta y =R(cos\ \beta-cos\ \theta)
+\end{cases}
+$$
+Or equivalently, 
+$$
+\begin{cases}
+sin\ \beta=sin\ \theta-\frac{D}{R}
+\\
+\Delta y =R(cos\ \beta-cos\ \theta)
+\end{cases}
+$$
+<br>
+<b><u>Complete trajectory in the spectrometer</u></b><br>
+The spectrometer is consisted of a gas cell, a magnet, two sets of fiducials and an image plate. The complete trajectory is a straight line starting from the exit of the gas cell to the magnet. Then it is an arc inside the magnet. After leaving the magnet, it is a straight line ending on the image plate.<br>
+Assume the position of the gas cell is \((x_g,y_g)\). The front and back of the magnet is at \(x_{1m}\) and \(x_{2m}\). The center of the image plate is at \((x_i,y_i)\) and the face orientation of the image plate is \(\alpha\). <br>
+Now if there is an electron with energy \(E\) and launch angle \(\theta\), what is the complete trajectory of the electron and where the electron falling on the image plate? <br>
+First, the electron entering the magnet at, 
+$$
+y_{1m}=y_g+ tan\ \theta (x_{1m}-x_g)
+$$
+Then, the radius is determined by the electron energy, 
+$$
+R=\frac{p}{q B}
+=\frac{\sqrt{E^2/c^2-m_0^2 c^2}}{q B}
+$$
+The electron is leaving the magnet at, 
+$$
+\begin{cases}
+sin\ \beta=sin\ \theta-\frac{D}{R}
+\\
+y_{2m} = y_{1m} + R(cos\ \beta-cos\ \theta)
+\end{cases}
+$$
+
+<!--
+问题::如果一条直线经过一点, (x_i,y_i), 且这条直线和x轴的夹角是(\alpha+90^\circ), 那么这条直线的方程是什么? 
++[描述](问题,)
+-->
+Since the linear equation of the image plate is, 
+$$
+x \Delta y-y \Delta x= D
+$$$$
+D=x_i sin (\alpha+90^\circ)-y_i cos (\alpha+90^\circ)
+$$$$
+\Delta x= cos (\alpha+90^\circ),\ \Delta y= sin (\alpha+90^\circ)
+$$
+
+<!--
+问题::如果一条直线经过一点, (x_{2m},y_{2m}), 且这条直线和x轴的夹角是\beta, 那么这条直线的方程是什么? 
++[描述](问题,)
+-->
+
+The linear equation of the electron trajectory is, 
+$$
+x \Delta y'-y \Delta x'= D'
+$$$$
+D'=x_{2m} sin \beta-y_{2m} cos \beta
+$$$$
+\Delta x'= cos \beta,\ \Delta y'= sin \beta
+$$
+
+<!--
+问题::如果有两条直线, 分别为, x\Delta y-y\Delta x=D, x\Delta y'-y\Delta x'=D', 那么交点位于哪里? 
++[描述](问题,)
+-->
+
+Then the intersection of the two lines is, 
+
+$$
+\begin{cases}
+x_0=\frac{D \Delta x' - D' \Delta x}{\Delta y \Delta x' - \Delta y' \Delta x}
+\\
+y_0=\frac{D \Delta y' - D' \Delta y}{\Delta y \Delta x' - \Delta y' \Delta x}
+\end{cases}
+$$
+<br><br><br><br>
+
+<b><u>Calibration of IP</u></b><br>
+I didn't find any foumula to do the calibration (PSL to electron number). The formula for MS IP I used in old program is, 
+$$
+g(\epsilon)=0.0301*(\epsilon/GeV)^{-0.1269}
+$$
+And there is a time decay formula for SR IP from paper (<i>REVIEW OF SCIENTIFIC INSTRUMENTS 76, 013507 (2005)</i>), 
+$$
+f(t/min)=0.16\ exp(-ln2\ t/0.56)+0.21\ exp(-ln2\ t/11)+0.63\ exp(-ln2\ t/1991)
+$$
+<br><br><br><br>
+
+<b><u>Iterative algorithm</u></b><br>
+Make an electron with fixed source position, \((x_s,y_s)\), and launch angle, \(\theta\), passing through certain location, \((x_f,y_f)\), after leaving a magnet. The algorithm is,
+$$
+\begin{cases}
+sin\ \beta_i=sin\ \theta-\frac{D}{R_{i-1}}
+\\
+\Delta y_i =R_{i-1} (cos\ \beta_i-cos\ \theta)
+\\
+tan\ \alpha_i=\frac{y_s + tan\ \theta (x_{1m}-x_s) + \Delta y_i-y_f}{x_{2m}-x_f}
+\\
+R_i=\frac{D}{sin\ \theta - sin\ \alpha_i}
+\end{cases}
+$$
+
+
+Or,
+$$
+\begin{cases}
+\Delta y_i =R_{i-1} [\sqrt{1-(sin\ \theta-D/R_{i-1})^2}-cos\ \theta]
+\\
+tan\ \alpha_i=\frac{y_s + tan\ \theta (x_{1m}-x_s) + \Delta y_i-y_f}{x_{2m}-x_f}
+\\
+R_i=\frac{D}{sin\ \theta - sin\ \alpha_i}
+\end{cases}
+$$
+
+
+
+The frontside and backside position of magnet are \(x_{1m}\) and \(x_{2m}\). The \(D\) is the width of the magnet, \(D=x_{2m}-x_{1m}\).<br>
+For the initial value, we can assume, \(R_0\rightarrow \infty\). Then,
+$$
+\Delta y_1 = 
+R_0 [\sqrt{1-(sin\ \theta-D/R_0)^2}-cos\ \theta]
+
+\\\approx
+R_0 [\sqrt{cos\ \theta^2 + 2 sin\ \theta D/R_0}-cos\ \theta]
+
+\\\approx
+R_0 [cos\ \theta \sqrt{1 + 2 \frac{sin\ \theta D}{cos\ \theta^2 R_0}}-cos\ \theta]
+
+\approx
+D\ tan\ \theta
+
+$$
+
+The energy of the electron is, 
+$$
+R=\frac{\sqrt{E^2/c^2-m_0^2 c^2}}{q B}
+$$$$
+R^2 q^2 B^2 = E^2/c^2-m_0^2 c^2
+$$$$
+E^2 = 
+R^2 q^2 B^2 c^2 + m_0^2 c^4
+$$$$
+E = \sqrt{
+R^2 q^2 B^2 c^2 + m_0^2 c^4
+}
+$$
+<br><br><br>
+
+<b><u>Spectrum from IP image</u></b><br>
+If the map from position to energy is \(E(x)\) and the image is \(I(x)\), then the number of electrons with energy from \(E\) to \(E+\Delta E\) is, 
+$$
+\Delta n
+= \int^{x(E+\Delta E)}_{x(E)} I(x) dx
+= \int^{E+\Delta E}_{E} I(x(E)) \frac{dx}{dE} dE
+$$
+As a result the spectrum is, 
+$$
+S(E)=I(x(E)) \frac{dx}{dE}
+$$
+
+
+<!--
++[H函数](,原理)
+磁场轨迹:...
+
+能谱转换(M函数):...
++[新建阅读窗口](,能谱转换)
+迭代方法(M函数):...
+能谱(M函数):...
+-->
+## end
+#37, 1783:
+function [cellx,Fn]=XrayAutoMatch(shadow,Cell,dy,LWFA,show_mode)
+% global GAS_CELL_Z_POSITION;
+% shadow=[
+%     2047.805964	2038.307034	1920.865711	1882.869989
+% ];
+% shadow=sort(4001-shadow);
+% dy=[0,0];
+% Cell=[GAS_CELL_Z_POSITION,0];
+% show_mode=1;
+
+
+global IP_Z_POSITION;
+global FIDUCIALS_X_POSITIONS;               %m
+global FIDUCIALS_Z_POSITIONS;
+
+
+IP=IP_Z_POSITION;
+Fy=FIDUCIALS_X_POSITIONS;
+Fx=FIDUCIALS_Z_POSITIONS;
+
+
+shY=(shadow-2000)*1e-4;
+
+Fy(2,:)=Fy(2,:)-dy(2);
+xo=zeros(length(shY),numel(Fx));
+
+for i=1:length(shY)
+    zs=IP;
+    xs=shY(i)-dy(1);
+    zf=reshape(Fx,1,numel(Fx));
+    xf=reshape(Fy,1,numel(Fy));
+    zo=Cell(1);
+    xo(i,:)=xf+(xf-xs).*(zo-zf)./(zf-zs);
+end
+
+% xo=xo';
+% distance=abs(xo-Cell(2));
+% cellx=xo(distance==ones(size(distance,1),1)*min(distance));
+% [I,~]=find(distance==ones(size(distance,1),1)*min(distance));
+
+[I,cellx]=match_xo(xo');
+Fn=[fix(I/2) mod(I,2)+1];
+
+
+if show_mode==1
+    show(cellx,Fn,Cell,shY,dy,IP,Fx,Fy,shadow);
+end
+
+end
+
+function [I,cellx]=match_xo(xo)
+xo_max=max(max(xo));
+xo_min=min(min(xo));
+Dxo=xo_max-xo_min;
+N=1000;
+x=xo_min:Dxo/N:xo_max;
+y=zeros(size(x));
+for i=1:length(x)
+    dx=abs(x(i)-xo);
+    y(i)=std(xo(dx==min(dx)));
+end
+
+x_min=x(y==min(y));
+x_min=x_min(1);
+dx=abs(x_min-xo);
+[I,~]=find(dx==min(dx));
+cellx=xo(dx==min(dx));
+end
+
+function show(cellx,Fn,Cell,shY,dy,IP,Fx,Fy,shadow)
+    cellx1=cellx(Fn(:,2)==1);
+    cellx2=cellx(Fn(:,2)==2);
+    cellz1=Cell(1)*ones(size(cellx1));
+    cellz2=Cell(1)*ones(size(cellx2));
+    shx1=shY(Fn(:,2)==1)'-dy(1);
+    shx2=shY(Fn(:,2)==2)'-dy(1);
+    shz1=IP*ones(size(shx1));
+    shz2=IP*ones(size(shx2));
+    figure;
+    plot(Fx,Fy,'bo',[shz1 cellz1]',[shx1 cellx1]','b',[shz2 cellz2]',[shx2 cellx2]','r');
+    text(IP*ones(size(shY)),shY'-dy(1),num2str(shadow'));
+end
+## end
+#39, 717:
+%{
+地址::C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\Spectrum\spectrum.m
++[保存文本](,spectrum)
+
+energyPx_spectrum(M函数):...
+thetaPx_spectrum(M函数):...
+spectrumCalibration_spectrum(M函数):...
+%}
+
+function [spc,E_px,theta_py,IP_image]=spectrum(launch_angle,Cell,dy,IPtype,px,IP)
+E_px=energyPx_spectrum(launch_angle,Cell,dy,IPtype,px);
+dE_px=energyPx_spectrum(launch_angle,Cell,dy,IPtype,px+0.5)-energyPx_spectrum(launch_angle,Cell,dy,IPtype,px-0.5);
+theta_py=thetaPx_spectrum(Cell,IPtype,1:2000);
+% IP=src.UserData.IP(:,px);
+
+E=meshgrid(E_px,theta_py);
+dE=meshgrid(dE_px,theta_py);
+
+spc=-spectrumCalibration_spectrum(1,IPtype,IP,E)./dE;
+IP_image=spectrumCalibration_spectrum(1,IPtype,IP,E);
+end
+## end
+#42, 566:
+%{
+地址::C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\Spectrum\energyPx_spectrum.m
++[保存文本](,energyPx_spectrum)
+
+energyRuler_spectrum:...
+%}
+function energy=energyPx_spectrum(launch_angle,Cell,dy,IPtype,px)
+energy=nan;
+Emax=4e10;
+[~,pmax]=energyRuler_spectrum(launch_angle,Cell,dy,IPtype,Emax);
+% if src.UserData.rotationIP==1
+%     px=4001-px;
+% end
+if max(px)>pmax
+    return
+end
+
+E=[100:5:300,350:50:3000,3500:500:Emax/1e6]*1e6;
+[~,px_E]=energyRuler_spectrum(launch_angle,Cell,dy,IPtype,E);
+energy=interp1(px_E,E,px,'spline');
+end
+
+
+
+## end
+#45, 493:
+%{
+地址::C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\Spectrum\thetaPx_spectrum.m
++[保存文本](,thetaPx_spectrum)
+
+%}
+
+function theta=thetaPx_spectrum(Cell,IPtype,px)
+global IP_Z_POSITION;
+global GAS_CELL_Z_POSITION;
+
+% Cell=dcell+[GAS_CELL_Z_POSITION,0];
+L=Cell(1)-IP_Z_POSITION;
+
+if strcmp(IPtype,'MS')
+    pixelSize=1e-4;
+    pixelCenY=1000;
+elseif strcmp(IPtype,'SR')
+    pixelSize=0.5e-4;
+    pixelCenY=2000;
+end
+
+x=(px-pixelCenY)*pixelSize;
+theta=atan(x/L);
+end
+## end
+#48, 500:
+%{
+地址::C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\Spectrum\spectrumCalibration_spectrum.m
++[保存文本](,spectrumCalibration_spectrum)
+
+
+%}
+function IP=spectrumCalibration_spectrum(decayIndex,IPtype,IP,energy)
+% IP decay calibration
+IP=IP*decayIndex;
+% energy calibration factor: Neil Dissertation, Table D-7 & Eq. D-3
+if strcmp(IPtype,'MS')
+    calibration=0.0301*(energy/1e9).^(-0.1269);                               %assume BAS-1800 MS
+    IP=IP./calibration;
+end
+end
+## end
+#51, 1242:
+%{
+地址::C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\Spectrum\energyRuler_spectrum.m
++[保存文本](,energyRuler_spectrum)
+%}
+
+function [x_E,pixel_E]=energyRuler_spectrum(launch_angle,Cell,dy,IPtype,E)
+    %E--eV
+    global MAGNET_Z_BOUNDS;
+    global MAGNET_FIELD_STRENGTH;
+    global IP_Z_POSITION;
+    global GAS_CELL_Z_POSITION;
+    
+    show_mode=0;
+    
+    zm1=MAGNET_Z_BOUNDS(1);
+    zm2=MAGNET_Z_BOUNDS(2);
+    B=MAGNET_FIELD_STRENGTH;
+    D=abs(MAGNET_Z_BOUNDS(1)-MAGNET_Z_BOUNDS(2));
+    z_IP=IP_Z_POSITION;
+    
+    % launch_angle=-src.UserData.launchAngle;
+    % Cell=src.UserData.dcell+[GAS_CELL_Z_POSITION,0];
+    % dy=src.UserData.dy;
+    
+    % set pixel size and center
+    if strcmp(IPtype,'MS')
+        pixelSize=1e-4;
+        pixelCent=2000;
+    elseif strcmp(IPtype,'SR')
+        pixelSize=0.5e-4;
+        pixelCent=4000;
+    end
+    
+    % x_IPs->E
+    if show_mode==1
+        figure;
+    end
+    angles=launch_angle*ones(size(E));
+    xm1s=line_free(Cell',angles,zm1,nan,show_mode);
+    [betas,~,xm2s]=trajectory_free(B,D,-angles,E,nan,show_mode,zm1,xm1s);
+    betas=-betas;
+    x_E=line_free([zm2*ones(size(E));xm2s],betas,z_IP,nan,show_mode);
+    pixel_E=(x_E+dy(1))/pixelSize+pixelCent;
+end
+## end
+#53, 97:
+C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\Spectrum\spectrum.m
+## end
+#55, 106:
+C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\Spectrum\energyPx_spectrum.m
+## end
+#57, 109:
+C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\Spectrum\energyRuler_spectrum.m
+## end
+#59, 105:
+C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\Spectrum\thetaPx_spectrum.m
+## end
+#61, 117:
+C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\Spectrum\spectrumCalibration_spectrum.m
+## end
+#63, 1174:
++[返回目录](,三维场景)
++[删除结构](,三维场景)
++[显示星图](,三维场景)
+
+有一个矩形的gas cell, 有一个exit, 一个矩形的磁场, 两排fiducials, 和一个矩形的image plate. 
++gas cell->+exit->+magnet->+fiducials->+IP
+
+IP和fiducial是固定在一起的, 可以一起旋转. 
++固定(fiducials,IP)
+
+gas cell, exit, magnet, fiducial, 和IP都有空间位置. 第一个fiducial有空间朝向. 
+gas cell->exit->magnet->fiducials->IP=>[那](_,)=>+在(_,+空间点)
+位置
++位置
+[]=>空间点=>+的(位置,空间点)
+
+在(gas cell,空间点)->+[修改内容]"0,0,0"(,空间点)
++[相对]"0,0,0"(gas cell,exit)
++[相对]"0,5,0"(gas cell,magnet)
++[相对]"0,20,0"(gas cell,fiducials)
++[相对]"0,20,0"(fiducials,IP)
+
+磁场有长度, 有磁场强度. 
++的(magnet,+长度)->+长度"5 cm"
++的(magnet,+磁场强度)->+磁场强度"1.1 T"
+
+fiducials有方向, 有两排. 
++朝向(fiducials,+方向)->+方向"180"
++第一排(fiducials,)->+的(+第一排,+x)
++第二排(fiducials,)->+的(+第二排,+x)
+
+朝向(fiducials,方向)->+[修改内容]"0"(,方向)
+的(第一排,x)->+[修改内容]"0"(,x)
+的(第一排,y)->+[修改内容]"-1,0,1,2,3,4"(,y)
+的(第二排,x)->+[修改内容]"2"(,x)
+的(第二排,y)->+[修改内容]"-1,0,1,2,3,4"(,y)
+
+IP朝向一个方向, IP有宽度有高度有厚度. 
++朝向(IP,+方向)->+方向"180"
++的(IP,+宽度)->+宽度"40"
++的(IP,+高度)->+高度"20"
++的(IP,+厚度)->+厚度"0.1"
+
+朝向(IP,方向)->+[修改内容]"180"(,方向)
+
+IP应该相对fiducials的位置转到fiducials所朝的方向. 
+IP和fiducials都相对fiducials的位置旋转一个角度. 
++[旋转]"10"(,IP)->+[相对](+[旋转],fiducials)
++[旋转]"10"(,fiducials)->+[相对](+[旋转],fiducials)
+
+
+
++[显示能谱仪场景](,三维场景)
+
+
+
+## end
+#65, 16:
+文档\S应用\照片测量.ftxt
+## end
+#67, 13:
+文档\S应用\星图.txt
+## end
+#70, 16:
+文档\S应用\三维建模.ftxt
+## end
+#72, 15:
+文档\S应用\PPT.ftxt
+## end
+#74, 31:
++[返回目录](,动词)
+
+
+显示能谱仪场景:...
+
+
+
+
+
+## end
+#76, 548:
+"""
++[返回目录](,显示能谱仪场景)
+模板:...
+
+"""
+
++显示能谱仪场景(,_场景)->+[del](,+显示能谱仪场景)...
+->的(显示能谱仪场景,模板)...
+->的(_场景,gas cell)->在(gas cell,空间点#1)...
+->的(_场景,exit)->在(exit,空间点#2)...
+->的(_场景,magnet)->在(magnet,空间点#3)...
+->的(_场景,fiducials)->在(fiducials,空间点#4)->朝向(fiducials,方向#4)...
+->的(_场景,IP)->在(IP,空间点#5)->朝向(IP,方向#5)...
+
+->+[模板文本](模板,+[显示])...
+->+[.]"气阀位置"(+[模板文本],空间点#1)->+[.]"出口位置"(+[模板文本],空间点#2)...
+->+[.]"磁场位置"(+[模板文本],空间点#3)...
+->+[.]"线位置"(+[模板文本],空间点#4)->+[.]"线方向"(+[模板文本],方向#4)...
+->+[.]"IP位置"(+[模板文本],空间点#5)->+[.]"IP方向"(+[模板文本],方向#5)...
+
+->+[M函数](,+[显示])
+
+
+
+
+## end
+#78, 841:
+%{
++[M函数](,测试)
+测试:
+%}
+clf
+
+hold on
+%gas cell
+pos=[%气阀位置];
+siz=[2,6];
+rectangle('Position',[pos(1)-siz(1)/2,pos(2)-siz(2),siz(1),siz(2)])
+
+%exit
+pos=[%出口位置];
+plot(pos(1),pos(2),'r*')
+
+%magnet
+pos=[%磁场位置];
+siz=[5,5];
+rectangle('Position',[pos(1)-siz(1)/2,pos(2)-siz(2)/2,siz(1),siz(2)])
+
+%fiducials
+pos=[%线位置];
+theta=%线方向;
+x1=[-1,0,1,2,3,4];
+y1=ones(size(x1))*0;
+x2=[-1,0,1,2,3,4];
+y2=ones(size(x2))*5;
+
+T=[cosd(theta),sind(theta)
+-sind(theta),cosd(theta)];
+
+p1=T*[x1;y1];
+p2=T*[x2;y2];
+
+plot(p1(1,:)+pos_f(1),y1+p1(2,:)+pos_f(2),'ro',p2(1,:)+pos_f(1),p2(2,:)+pos_f(2),'bo')
+
+%IP
+pos=[%IP位置];
+siz=[40,1];
+theta=%IP方向;
+x_IP=[-siz(1)/2,siz(1)/2,siz(1)/2,-siz(1)/2];
+y_IP=[0,0,siz(2),siz(2)];
+
+T=[cosd(theta),sind(theta)
+-sind(theta),cosd(theta)];
+
+p3=T*[x_IP;y_IP];
+p3=p3+pos(1:2)';
+
+patch(p3(1,:),p3(2,:),[1,1,1])
+axis equal
+
+
+%{
++[M函数](,测试)
+%}
+## end
+#80, 799:
+%{
++[M函数](,测试)
+%}
+clf
+
+hold on
+%gas cell
+pos=[0,0];
+siz=[2,6];
+rectangle('Position',[pos(1)-siz(1)/2,pos(2)-siz(2),siz(1),siz(2)])
+
+%exit
+plot(0,0,'r*')
+
+%magnet
+pos=[0,5];
+siz=[5,5];
+rectangle('Position',[pos(1)-siz(1)/2,pos(2)-siz(2)/2,siz(1),siz(2)])
+
+%fiducials
+pos=[0,20];
+theta=10;
+x1=[-1,0,1,2,3,4];
+y1=ones(size(x1))*0;
+x2=[-1,0,1,2,3,4];
+y2=ones(size(x2))*5;
+
+T=[cosd(theta),sind(theta)
+-sind(theta),cosd(theta)];
+
+p1=T*[x1;y1];
+p2=T*[x2;y2];
+
+plot(p1(1,:)+pos_f(1),y1+p1(2,:)+pos_f(2),'ro',p2(1,:)+pos_f(1),p2(2,:)+pos_f(2),'bo')
+
+%IP
+pos=[0,40];
+siz=[40,1];
+theta=10;
+x_IP=[-siz(1)/2,siz(1)/2,siz(1)/2,-siz(1)/2];
+y_IP=[0,0,siz(2),siz(2)];
+
+T=[cosd(theta),sind(theta)
+-sind(theta),cosd(theta)];
+
+p3=T*[x_IP;y_IP];
+p3=p3+pos';
+
+patch(p3(1,:),p3(2,:),[1,1,1])
+axis equal
+
+
+%{
++[M函数](,测试)
+%}
+## end
+#101, 41:
+6.840402866513373, 38.79385241571816, 0.0
+## end
+#103, 14:
+0.0, 20.0, 0.0
+## end
+#105, 13:
+0.0, 5.0, 0.0
+## end
+#107, 13:
+0.0, 0.0, 0.0
+## end
+#109, 5:
+0,0,0
+## end
+#125, 4:
+5 cm
+## end
+#129, 5:
+1.1 T
+## end
+#133, 4:
+20.0
+## end
+#138, 1:
+0
+## end
+#144, 1:
+2
+## end
+#149, 5:
+200.0
+## end
+#153, 2:
+40
+## end
+#157, 2:
+20
+## end
+#161, 3:
+0.1
+## end
+#163, 1:
+1
+## end
+#164, 1:
+1
+## end
+#165, 1:
+1
+## end
+#166, 2:
+10
+## end
+#167, 2:
+10
+## end
+#168, 2:
+10
+## end
+#169, 2:
+10
+## end
+#170, 2:
+10
+## end
+#171, 2:
+10
+## end
+#172, 2:
+10
+## end
+#173, 2:
+10
+## end
+#175, 1108:
++[返回目录](,磁场轨迹)
++[删除结构](,磁场轨迹)
++[显示PPT场景](,磁场轨迹)
+
+有一块矩形的磁场区域, 然后有一段圆形曲线在磁场中. 交点为A和B. 圆心为O. 连接AO和BO. 
+过O点有一条水平线. 
+
+有磁场区域. 
++在(+磁场,+空间点)->+的(+磁场,+尺寸)
+在(磁场,空间点)->+[修改内容]"0,0"(,空间点)
+的(磁场,尺寸)->+[修改内容]"2,4"(,尺寸)
+
+有圆形轨迹. 圆形有半径. 
++在(+圆形,+空间点)->+朝向(+圆形,+方向)->+方向"0"
++[相对]"1,2"(磁场,圆形)
+朝向(圆形,方向)->+[修改内容]"0"(,方向)
++样式"曲线"(圆形,)
+
++的(圆形,+半径)->+的(圆形,+x)->+的(圆形,+y)
+的(圆形,半径)->+[修改内容]"5"(,半径)
+的(圆形,半径)->的(圆形,x)->的(圆形,y)...
+->+[matlab]"theta=linspace(0,360,100);x=r*cosd(theta);y=r*sind(theta);"(Matlab,)...
+->+[.]"r"(+[matlab],半径)->+[o](+[matlab],x)->+[o](+[matlab],y)
+
+A和B是圆形和磁场的交点. 将它们与圆心相连. 
++在(+A,+空间点)->+在(+B,+空间点#2)...
+->在(圆形,空间点)->+AO(+空间点,空间点)->+BO(+空间点#2,空间点)
+
++[相对]"0,3.1"(磁场,A)
++[相对]"2,3.1"(磁场,B)
+
+有一条直线, 经过圆形轨迹的圆心. 
++直线(+空间点,+空间点#2)
+直线(空间点,)->+[相对]"-3,0"(圆形,空间点)
+直线(,空间点)->+[相对]"3,0"(圆形,空间点)
+
+
+相对关系(M函数):...
+输入A点位置, 磁场尺寸, 圆形半径, 输出B点位置, 和圆心位置. 
+在(A,空间点#A)->的(磁场,尺寸)->在(圆形,空间点#O)->的(圆形,半径)...
+->在(B,空间点#B)...
+->+[matlab](Matlab,)->+[code](+[matlab],相对关系)...
+->+[.]"ptA"(+[matlab],空间点#A)->+[.]"siz"(+[matlab],尺寸)...
+->+[.]"R"(+[matlab],半径)...
+->+[o]"ptB"(+[matlab],空间点#B)->+[o]"ptO"(+[matlab],空间点#O)
+
++[显示PPT场景](,磁场轨迹)
+## end
+#181, 3:
+2,4
+## end
+#183, 3:
+0,0
+## end
+#191, 1:
+0
+## end
+#193, 24:
+2.5, -1.2301270189221927
+## end
+#202, 1955:
+0.0, 0.31711959828282255, 0.6329622678687463, 0.9462562218020509, 1.255739935905396, 1.560167228492436, 1.8583122783016375, 2.148974560445858, 2.4309836805023437, 2.703204087277988, 2.9645396452732027, 3.2139380484326963, 3.4503950574105597, 3.672958543287667, 3.880732321458784, 4.072879760251679, 4.248627149747572, 4.40726681723791, 4.548159976772592, 4.670739301325534, 4.774511207220369, 4.859057841617708, 4.92403876506104, 4.96919232230627, 4.99433669591504, 4.999370638369375, 4.984273879759712, 4.949107209404663, 4.894012231073893, 4.81921079279971, 4.725004093573342, 4.611771470522907, 4.47996887145668, 4.330127018922193, 4.1628492731738564, 3.978809202654161, 3.7787478717712917, 3.563470856894315, 3.3338450025814574, 3.0907949311030265, 2.8352993193138527, 2.5683869578670313, 2.2911326086370525, 2.0046526770330675, 1.7101007166283435, 1.408662784207149, 1.1015526639327025, 0.7900069798667497, 0.47528021652091446, 0.15863966749033784, -0.15863966749033784, -0.47528021652091446, -0.7900069798667497, -1.1015526639327025, -1.408662784207149, -1.7101007166283435, -2.0046526770330675, -2.2911326086370525, -2.5683869578670313, -2.8352993193138527, -3.0907949311030265, -3.3338450025814574, -3.563470856894315, -3.7787478717712917, -3.97880920265416, -4.162849273173857, -4.330127018922193, -4.479968871456679, -4.611771470522907, -4.725004093573342, -4.81921079279971, -4.894012231073893, -4.949107209404663, -4.984273879759711, -4.999370638369375, -4.99433669591504, -4.96919232230627, -4.92403876506104, -4.859057841617709, -4.77451120722037, -4.670739301325533, -4.548159976772591, -4.40726681723791, -4.248627149747572, -4.072879760251679, -3.880732321458785, -3.672958543287665, -3.4503950574105597, -3.2139380484326963, -2.964539645273203, -2.7032040872779897, -2.4309836805023415, -2.1489745604458568, -1.8583122783016373, -1.560167228492436, -1.2557399359053973, -0.9462562218020533, -0.6329622678687445, -0.31711959828282166, 0.0
+## end
+#204, 1933:
+5.0, 4.989933382359422, 4.959774064153977, 4.909643486313533, 4.839743506981781, 4.750355588704727, 4.641839665080363, 4.514632691433106, 4.369246885348924, 4.206267664155906, 4.0263512876552925, 3.83022221559489, 3.618670190525351, 3.392547057785661, 3.1527633354226126, 2.900284547855991, 2.6361273380525123, 2.361355373863413, 2.0770750650094323, 1.7844311079593589, 1.4846018766413738, 1.1787946775471365, 0.8682408883346516, 0.5541909995050547, 0.23790957911871205, -0.07932981917403942, -0.3962497842839424, -0.7115741913664262, -1.024033340325953, -1.3323690684501748, -1.6353398165871083, -1.9317256284656437, -2.2203330630288702, -2.5, -2.7696003193305514, -3.028048435688333, -3.274303669726425, -3.5073744385316057, -3.726322248378774, -3.930265473713937, -4.118382907149164, -4.289917066174885, -4.444177243274617, -4.580542287160348, -4.698463103929543, -4.7974648680724865, -4.877148934427035, -4.937194443381971, -4.977359612865423, -4.997482711915925, -4.997482711915925, -4.977359612865423, -4.937194443381971, -4.877148934427035, -4.7974648680724865, -4.698463103929543, -4.580542287160348, -4.444177243274617, -4.289917066174885, -4.118382907149164, -3.930265473713937, -3.726322248378774, -3.5073744385316057, -3.274303669726425, -3.0280484356883344, -2.769600319330551, -2.5, -2.2203330630288716, -1.9317256284656426, -1.6353398165871083, -1.332369068450176, -1.024033340325953, -0.7115741913664262, -0.39624978428394364, -0.07932981917404189, 0.23790957911871327, 0.554190999505056, 0.8682408883346516, 1.1787946775471352, 1.4846018766413727, 1.784431107959361, 2.077075065009433, 2.3613553738634137, 2.636127338052512, 2.9002845478559895, 3.152763335422611, 3.392547057785662, 3.6186701905253518, 3.83022221559489, 4.0263512876552925, 4.206267664155905, 4.369246885348926, 4.514632691433106, 4.641839665080363, 4.750355588704727, 4.839743506981781, 4.9096434863135325, 4.959774064153977, 4.989933382359422, 5.0
+## end
+#206, 1:
+5
+## end
+#218, 22:
+2.0, 3.744810166610907
+## end
+#221, 8:
+0.0, 3.1
+## end
+#225, 2:
+曲线
+## end
+#229, 24:
+5.5, -1.2301270189221927
+## end
+#230, 25:
+-0.5, -1.2301270189221927
+## end
+#233, 211:
+%{
++[M函数](,相对关系)
+%}
+
+theta=30;
+%R=1.5;
+%ptA=[0,2];
+%ptB=[2,2];
+%siz=[2,4];
+
+D=siz(1);
+beta=asind(sind(theta)-D/R);
+Dy=R*(cosd(beta)-cosd(theta));
+ptB(2)=ptA(2)+Dy;
+dr=R*[sind(theta),-cosd(theta)];
+ptO=ptA+dr;
+
+
+
+## end
+#236, 73:
+如果有两条直线, 分别为, x\Delta y-y\Delta x=D, x\Delta y'-y\Delta x'=D', 那么交点位于哪里? 
+## end
+#238, 1189:
+%{
+绘制场景(M函数):...
+轨迹(M函数):...
+energy_pixel(M函数):...
++[M函数](,轨迹)
++[M函数](,绘制场景)
+
++[M函数](,能谱转换)
++[M函数](,绘制场景)
+%}
+
+% clf
+hold on
+physics_constant;
+
+addpath('Matlab\spectrometer');
+
+% IP
+pos_p=[2.48,0];
+siz_p=[0.01,0.4];
+theta_p=2;
+ip_address='C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\benchmark\LWFA7_IP_11223.tiff';
+% MS
+pixel_size=1e-4;
+pixel_cent=2000;
+
+% electron
+pos_e=[-0.225,0];
+theta_e=1;
+E=linspace(0.2,10,100)*1e9*e;
+
+%{
++[M函数](,能谱转换)
+%}
+
+% gas cell
+pos_g=[-0.225,0];
+siz_g=[0.06,0.02];
+
+% magnet
+pos_m=[0.025,0];
+siz_m=[0.05,0.05];
+B=1.482;
+
+% fiducials
+pos_f=[1.037,0];
+theta_f=theta_p-90;
+
+
+[L,x_0,y_0,x_1m,y_1m,x_2m,y_2m]=energy_pixel(E,pos_e,theta_e,pos_p,siz_p,theta_p,pos_g,siz_g,pos_m,siz_m,B);
+p_x=L/pixel_size+pixel_cent;
+pixel=fix(min(p_x)):4000;
+energy=interp1(p_x,E,pixel);
+
+IP_data=imread(ip_address);
+spectrum=sum(IP_data(:,pixel));
+
+subplot(1,2,1)
+plot(p_x,E/e/1e9)
+xlabel('pixel')
+ylabel('E [GeV]')
+axis([0,4000,0,max(E/e/1e9)])
+
+subplot(2,2,2)
+hold on
+surf(IP_data)
+plot3([min(p_x),min(p_x)],[0,2000],[20,20],'r')
+shading interp
+view(0,90)
+
+subplot(2,2,4)
+plot(energy/e/1e9,spectrum);
+xlabel('Energy [GeV]')
+
+%{
++[M函数](,能谱转换)
++[M函数](,绘制场景)
+%}
+## end
+#241, 1058:
+%{
++[M函数](,绘制场景)
+%}
+
+% clf
+hold on
+
+pos_g=[0,0];
+siz_g=[6,2];
+
+pos_e=[0,0];
+
+pos_m=[5,0];
+siz_m=[5,5];
+
+pos_f=[20,0];
+theta_f=10+90;
+
+pos_p=[40,0];
+siz_p=[40,1];
+theta_p=10+90;
+%}
+
+
+%gas cell
+rectangle('Position',[pos_g(1)-siz_g(1),pos_g(2)-siz_g(2)/2,siz_g(1),siz_g(2)])
+
+%exit
+plot(pos_e(1),pos_e(2),'r*')
+
+%magnet
+rectangle('Position',[pos_m(1)-siz_m(1)/2,pos_m(2)-siz_m(2)/2,siz_m(1),siz_m(2)])
+
+%fiducials
+x1=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615]-6.2525;
+x1=x1*0.0254;
+y1=ones(size(x1))*0;
+x2=[2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+x2=x2*0.0254;
+y2=ones(size(x2))*(1.545-1.037);
+
+T=[cosd(theta_f),-sind(theta_f)
+sind(theta_f),cosd(theta_f)];
+
+p1=T*[x1;y1];
+p2=T*[x2;y2];
+
+plot(p1(1,:)+pos_f(1),y1+p1(2,:)+pos_f(2),'ro',p2(1,:)+pos_f(1),p2(2,:)+pos_f(2),'bo')
+
+%IP
+x_IP=[0,0,siz_p(1),siz_p(1)];
+y_IP=[-siz_p(2)/2,siz_p(2)/2,siz_p(2)/2,-siz_p(2)/2];
+
+T=[cosd(theta_p),-sind(theta_p)
+sind(theta_p),cosd(theta_p)];
+
+p3=T*[x_IP;y_IP];
+p3=p3+pos_p';
+
+patch(p3(1,:),p3(2,:),[1,1,1])
+axis equal
+
+
+%{
++[M函数](,测试)
+%}
+## end
+#244, 646:
+%{
++[M函数](,轨迹)
+trajectory_uniform(M函数):...
+记住trajectory_uniform(节点)
+trajectory_uniform的"tand"替换为"tan"
+trajectory_uniform的"cosd"替换为"cos"
+trajectory_uniform的"sind"替换为"sin"
+(20220320将发射角的单位改为rad. 见能谱仪校正)
+%}
+
+clf
+
+addpath('Matlab\spectrometer');
+physics_constant;
+
+% electron
+ye=linspace(-0.1,0.1,10);
+xe=zeros(size(ye));
+theta_e=linspace(-1,2,10);
+E=10e9*e;
+
+% magnet
+pos_m=[5,0];
+siz_m=[5,5];
+B=1.2;
+
+% IP
+pos_p=[40,0];
+theta_p=10;
+
+[x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m] = trajectory_uniform(xe,ye,theta_e,E,pos_m,siz_m,B,pos_p,theta_p);
+
+% Trajectory
+[X,Y]=trajectory_XY(xe,ye,theta_e,x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m);
+plot(X',Y')
+
+%{
++[M函数](,轨迹)
+%}
+## end
+#247, 1000:
+%{
++[M函数](,energy_pixel)
+地址::Matlab\spectrometer\energy_pixel.m
++[保存文本](,energy_pixel)
+
+%}
+
+
+function [L,x_0,y_0,x_1m,y_1m,x_2m,y_2m]=energy_pixel(E,pos_e,theta_e,pos_p,siz_p,theta_p,pos_g,siz_g,pos_m,siz_m,B)
+%{
+% IP
+pos_p=[40,0];
+siz_p=[1,40];
+theta_p=-20;
+
+% electron
+pos_e=[0,0];
+theta_e=-1;
+E=linspace(5,10,10)*1e9*e;
+
+% gas cell
+pos_g=[0,0];
+siz_g=[6,2];
+
+% magnet
+pos_m=[5,0];
+siz_m=[5,5];
+B=1.2;
+%}
+physics_constant;
+
+x_1m=pos_m(1)-siz_m(1)/2;
+x_2m=pos_m(1)+siz_m(1)/2;
+Dm=siz_m(1);
+y_1m=pos_e(2)+tand(theta_e)*(x_1m-pos_e(1));
+
+R=sqrt(E.^2/c^2-me^2*c^2)/e/B;
+beta=asind(sind(theta_e)-Dm./R);
+y_2m=y_1m+R.*(cosd(beta)-cosd(theta_e));
+
+D1=pos_p(1)*sind(theta_p+90)-pos_p(2)*cosd(theta_p+90);
+Dx1=cosd(theta_p+90);
+Dy1=sind(theta_p+90);
+
+D2=x_2m.*sind(beta)-y_2m.*cosd(beta);
+Dx2=cosd(beta);
+Dy2=sind(beta);
+
+x_0=(D1*Dx2-D2*Dx1)./(Dy1*Dx2-Dy2*Dx1);
+y_0=(D1*Dy2-D2*Dy1)./(Dy1*Dx2-Dy2*Dx1);
+
+L=-sqrt((x_0-pos_p(1)).^2+(y_0-pos_p(2)).^2).*sign(y_0-pos_p(2));
+end
+
+%{
++[M函数](,能谱转换)
++[M函数](,绘制场景)
+%}
+## end
+#250, 34:
+Matlab\spectrometer\energy_pixel.m
+## end
+#252, 1697:
+function LWFA7_GLOBAL_spectrometer_parameters
+global IP_Z_POSITION;
+global FIDUCIAL1_Z_POSITION;
+global FIDUCIAL2_Z_POSITION;
+global FIDUCIALS_X_POSITIONS;               %m
+global FIDUCIALS_Z_POSITIONS;
+global FIDUCIAL_WIDTH;                      %m
+global MAGNET_Z_BOUNDS;
+global GAS_CELL_Z_POSITION;
+global MAGNET_FIELD_STRENGTH;
+global FIDUCIAL_SHIFT_dy2;
+global FIDUCIAL_WIRE_DIAMETER;
+global SCINTILLATOR_Z_POSITION;
+global LOW_ANGLE_PIXEL_WIDTH;
+global LOW_ANGLE_CENTER_PIXEL;
+
+FIDUCIAL_WIRE_DIAMETER=0.005*0.0254;
+% if LWFA==7
+    IP_Z_POSITION=-2.48;
+    FIDUCIAL2_Z_POSITION=-1.545;
+    FIDUCIAL1_Z_POSITION=-1.037;
+    GAS_CELL_Z_POSITION=0.225;
+    SCINTILLATOR_Z_POSITION=-2.865+GAS_CELL_Z_POSITION;
+    LOW_ANGLE_PIXEL_WIDTH=(1e-3)/41;
+    LOW_ANGLE_CENTER_PIXEL=[690,476]; 
+    FIDUCIAL_SHIFT_dy2=-0.000632;
+% elseif LWFA==6
+%     IP_Z_POSITION=-2.476;
+%     FIDUCIAL2_Z_POSITION=IP_Z_POSITION+0.93345;
+%     FIDUCIAL1_Z_POSITION=IP_Z_POSITION+1.44145;
+%     GAS_CELL_Z_POSITION=0.264;
+%     FIDUCIAL_SHIFT_dy2=-0.000632;
+% elseif LWFA==8
+%     IP_Z_POSITION=-2.5474;
+%     FIDUCIAL2_Z_POSITION=IP_Z_POSITION+0.93345;
+%     FIDUCIAL1_Z_POSITION=IP_Z_POSITION+1.44145;
+%     GAS_CELL_Z_POSITION=0.1697;
+%     FIDUCIAL_SHIFT_dy2=0;
+% end
+
+%inch
+FIDUCIALS_X_POSITIONS=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615;
+	2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+%m
+FIDUCIALS_X_POSITIONS=FIDUCIALS_X_POSITIONS*0.0254;
+FIDUCIALS_Z_POSITIONS=[FIDUCIAL1_Z_POSITION 0;
+                       0 FIDUCIAL2_Z_POSITION]*ones(size(FIDUCIALS_X_POSITIONS));
+FIDUCIAL_WIDTH=0.005*0.0254;
+
+MAGNET_Z_BOUNDS=[0 -0.05];
+MAGNET_FIELD_STRENGTH=1.482;
+%MAGNET_WIDTH=0.05;
+
+end
+## end
+#254, 53:
+file:///C:/Users/cheng/Desktop/paper/IP/Nakanii08.pdf
+## end
+#256, 52:
+file:///C:/Users/cheng/Desktop/paper/IP/Tanaka05.pdf
+## end
+#261, 1098:
+%{
++[M函数](,trajectory_uniform)
+
+地址::Matlab\spectrometer\trajectory_uniform.m
++[保存M函数](,trajectory_uniform)
+
+测试函数(M函数):...
+%}
+
+
+
+function [x0,y0,R,beta,x_1m,y_1m,x_2m,y_2m] = trajectory_uniform(xe,ye,theta_e,E,pos_m,siz_m,B,pos_p,theta_p)
+
+physics_constant;
+
+%{
+% electron
+xe=0;
+ye=0;
+theta_e=20;
+E=10e9*e;
+
+% magnet
+pos_m=[5,0];
+siz_m=[5,5];
+B=1.2;
+
+% IP
+pos_p=[40,0];
+theta_p=-20;
+%}
+
+
+x_1m=pos_m(1)-siz_m(1)/2;
+x_2m=pos_m(1)+siz_m(1)/2;
+Dm=siz_m(1);
+
+%ye
+%tan(theta_e)
+%(x_1m-xe)
+
+y_1m=ye+tan(theta_e).*(x_1m-xe);
+
+R=sqrt(E.^2/c^2-me^2*c^2)/e/B;
+beta=asin(sin(theta_e)-Dm./R);
+y_2m=y_1m+R.*(cos(beta)-cos(theta_e));
+
+D1=pos_p(1)*sin(theta_p+pi/2)-pos_p(2)*cos(theta_p+pi/2);
+Dx1=cos(theta_p+pi/2);
+Dy1=sin(theta_p+pi/2);
+
+D2=x_2m.*sin(beta)-y_2m.*cos(beta);
+Dx2=cos(beta);
+Dy2=sin(beta);
+
+x0=(D1*Dx2-D2*Dx1)./(Dy1*Dx2-Dy2*Dx1);
+y0=(D1*Dy2-D2*Dy1)./(Dy1*Dx2-Dy2*Dx1);
+
+
+%{
+% Trajectory
+angle=linspace(theta_e,beta,100);
+x_m=R*(sin(theta_e)-sin(angle))+x_1m;
+y_m=R*(cos(angle)-cos(theta_e))+y_1m;
+x=[xe,x_1m,x_m,x_2m,x_0];
+y=[ye,y_1m,y_m,y_2m,y_0];
+plot(x,y,'.-',x_m,y_m)
+%}
+
+end
+
+%{
++[M函数](,轨迹)
+%}
+## end
+#264, 40:
+Matlab\spectrometer\trajectory_uniform.m
+## end
+#266, 485:
+%{
++[M函数](,测试函数)
+
+trajectory_XY(M函数):...
+%}
+
+
+addpath('Matlab\spectrometer');
+physics_constant;
+
+% electron
+ye=linspace(-0.1,0.1,10);
+xe=zeros(size(ye));
+theta_e=linspace(-1,2,10);
+E=10e9*e;
+
+% magnet
+pos_m=[5,0];
+siz_m=[5,5];
+B=1.2;
+
+% IP
+pos_p=[40,0];
+theta_p=10;
+
+[x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m] = trajectory_uniform(xe,ye,theta_e,E,pos_m,siz_m,B,pos_p,theta_p);
+
+% Trajectory
+[X,Y]=trajectory_XY(xe,ye,theta_e,x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m);
+plot(X',Y')
+
+
+%{
++[M函数](,测试函数)
+%}
+## end
+#269, 992:
+%{
++[M函数](,trajectory_XY)
+地址::Matlab\spectrometer\trajectory_XY.m
++[保存文本](,trajectory_XY)
+%}
+
+
+function [X,Y]=trajectory_XY(xe,ye,theta_e,x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m)
+%{
+% electron
+xe=0;
+ye=0;
+theta_e=0;
+E=10e9*e;
+
+% magnet
+pos_m=[5,0];
+siz_m=[5,5];
+B=1.2;
+
+% IP
+pos_p=[40,0];
+theta_p=10;
+
+[x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m] = trajectory_uniform(xe,ye,theta_e,E,pos_m,siz_m,B,pos_p,theta_p);
+%}
+
+% Trajectory
+X_e=reshape(xe,numel(xe),1);
+Y_e=reshape(ye,numel(ye),1);
+X_1m=x_1m*ones(numel(y_1m),1);
+Y_1m=reshape(y_1m,numel(y_1m),1);
+X_2m=x_2m*ones(numel(y_2m),1);
+Y_2m=reshape(y_2m,numel(y_2m),1);
+X0=reshape(x0,numel(x0),1);
+Y0=reshape(y0,numel(y0),1);
+
+if numel(r)>1
+    R=reshape(r,numel(r),1);
+else
+    R=r*ones(numel(y_1m),1);
+end
+
+angle=[];
+for i=1:length(beta)
+    angle(i,:)=linspace(theta_e(i),beta(i),10);
+end
+
+
+X_m=R.*(sind(theta_e')-sind(angle))+x_1m';
+Y_m=R.*(cosd(angle)-cosd(theta_e'))+y_1m';
+
+
+X=[X_e,X_1m,X_m,X_2m,X0];
+Y=[Y_e,Y_1m,Y_m,Y_2m,Y0];
+
+end
+
+
+%{
++[M函数](,测试函数)
+%}
+## end
+#272, 35:
+Matlab\spectrometer\trajectory_XY.m
+## end
+#274, 939:
+%{
++[M函数](,迭代方法)
+Nini, 打开能谱仪原理的trajectory_uniform(节点)
+
+反向验证(M函数):...
++[新建阅读窗口](,反向验证)
+
+trajectory_fiducial(M函数):...
+trajectory_fiducial的"tand"替换为"tan"
+trajectory_fiducial的"cosd"替换为"cos"
+trajectory_fiducial的"sind"替换为"sin"
+(20220320将发射角的单位改为rad. 见能谱仪校正)
++[新建阅读窗口](,trajectory_fiducial)
+
+正数磁场:...
+%}
+
+
+addpath('Matlab\spectrometer');
+physics_constant;
+
+% electron
+xs=0;
+ys=0;
+theta_e=0;
+E=10e9*e;
+
+% magnet
+pos_m=[5,0];
+siz_m=[5,5];
+B=-1.2;
+
+% fiducial
+y_f=(2:4)-3;
+x_f=25*ones(size(y_f));
+
+%{
++[M函数](,迭代方法)
+%}
+
+% IP
+pos_p=[40,0];
+theta_p=10;
+
+E=trajectory_fiducial(x_f,y_f,xs,ys,theta_e,pos_m,siz_m,B,pos_p,theta_p)
+xs=xs*ones(size(E));
+ys=ys*ones(size(E));
+theta_e=theta_e*ones(size(E));
+
+
+[x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m] = trajectory_uniform(xs,ys,theta_e,E,pos_m,siz_m,B,pos_p,theta_p);
+
+
+% Trajectory
+[X,Y]=trajectory_XY(xs,ys,theta_e,x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m);
+
+plot(X',Y',x_f,y_f,'r*')
+
+
+%{
+clf
+figure
+theta
++[M函数](,迭代方法)
+%}
+## end
+#277, 487:
+%{
++[M函数](,反向验证)
+%}
+
+clf
+addpath('Matlab\spectrometer');
+physics_constant;
+
+% electron
+ye=zeros(1,3);
+xe=zeros(1,3);
+theta_e=ones(1,3);
+E=[1.4830, 1.0573, 0.8253]*1e10*e;
+% E=10e9*e;
+
+% magnet
+pos_m=[5,0];
+siz_m=[5,5];
+B=1.2;
+
+% IP
+pos_p=[40,0];
+theta_p=10;
+
+[x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m] = trajectory_uniform(xe,ye,theta_e,E,pos_m,siz_m,B,pos_p,theta_p);
+
+% Trajectory
+[X,Y]=trajectory_XY(xe,ye,theta_e,x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m);
+plot(X',Y',25,-2,'r*')
+
+%{
++[M函数](,反向验证)
+%}
+## end
+#282, 1211:
+%{
+(注意, trajectory_fiducial的B为负数的话, 就不互逆了)
+(问题解决了)
+
+Nini, 打开能谱仪原理的trajectory_uniform(节点)
+
++[M函数](,trajectory_fiducial)
+记住trajectory_fiducial(节点)
+Nini, 能谱仪原理的trajectory_fiducial是什么?
+这个函数是给定发射角和fiducial位置, 确定轨迹
+
+地址::Matlab\spectrometer\trajectory_fiducial.m
++[保存M函数](,trajectory_fiducial)
+
+互逆测试:...
+互逆测试2:...
+(-B0不互逆...为什么?!)
++[M函数](,互逆测试2)
+%}
+
+function E=trajectory_fiducial(x_f,y_f,xs,ys,theta_e,pos_m,siz_m,B,pos_p,theta_p)
+
+physics_constant;
+
+%{
+addpath('Matlab\spectrometer');
+% electron
+xs=0;
+ys=0;
+theta_e=1;
+
+% magnet
+pos_m=[5,0];
+siz_m=[5,5];
+B=1.2;
+
+% fiducial
+y_f=-2:-1:-4;
+x_f=25*ones(size(y_f));
+
+% IP
+pos_p=[40,0];
+theta_p=10;
+%}
+
+x_1m=pos_m(1)-siz_m(1)/2;
+x_2m=pos_m(1)+siz_m(1)/2;
+D=siz_m(1);
+
+y_1m=ys+tan(theta_e).*(x_1m-xs);
+Dy_i=D*tan(theta_e);
+
+y_2m=y_1m+Dy_i;
+A=(y_2m-y_f)./(x_2m-x_f);
+alpha=atan(A);
+
+
+for i=1:25
+    y_2m=y_1m+Dy_i;
+    A=(y_2m-y_f)./(x_2m-x_f);
+    alpha_i=atan(A);
+    R_i=D./(sin(theta_e)-sin(alpha_i));
+    beta_i=asin(sin(theta_e)-D./R_i);
+    Dy_i=R_i.*(cos(beta_i)-cos(theta_e));
+end
+R=R_i;
+
+E=sqrt(R.^2*B^2*c^2*e^2+me^2*c^4);
+
+if B>0
+    E(alpha>theta_e)=nan;
+else
+    E(alpha<theta_e)=nan;
+end
+
+end
+
+%{
++[M函数](,trajectory_fiducial)
++[保存M函数](,trajectory_fiducial)
+%}
+## end
+#285, 41:
+Matlab\spectrometer\trajectory_fiducial.m
+## end
+#287, 948:
+%{
++[M函数](,能谱)
+
+spectrum(M函数):...
+记住spectrum(节点)
+Nini, 能谱仪原理的spectrum是什么?
++[新建阅读窗口](,spectrum)
+测试(M函数):...
++[M函数](,测试)
+%}
+
+addpath('Matlab\spectrometer');
+physics_constant;
+
+file_name="input\spectrometer\13943_SR.tiff";
+data=imread(file_name);
+dx=50e-6;
+[S,E_x]=spectrum(data,bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B,pos_p0,theta_p0,dx);
+
+figure
+plot(E_x,S)
+
+%{
+E_bd = trajectory_fiducial(x_f,y_f,xe,ye,theta_e,pos_m(1:2),siz_m,B,pos_p(1:2),theta_p)/e;
+
+E0=linspace(E_bd(1),E_bd(2),100)*e;
+xe1=pos_s(1)*1e-2*ones(size(E0));
+ye1=pos_s(2)*1e-2*ones(size(E0));
+theta=theta_e*ones(size(E0));
+
+[x0,y0] = trajectory_uniform(xe1,ye1,theta_e,E0,pos_m(1:2),siz_m,B,pos_p(1:2),theta_p);
+
+x=-sind(theta_p)*(x0-pos_p(1))+cosd(theta_p)*(y0-pos_p(2));
+E=E0/e;
+pixel=(x-min(x))/dx;
+
+p_x=0:max(pixel);
+E_x=interp1(pixel,E,p_x,'spline');
+dE_x=interp1(pixel,E,p_x+0.5,'spline')-interp1(pixel,E,p_x-0.5,'spline');
+
+I=sum(data);
+S=I(p_x+1)./dE_x;
+%}
+
+
+%{
++[M函数](,能谱)
+%}
+## end
+#290, 619:
+%{
++[M函数](,spectrum)
+
+spectrum_x(M函数):...
+spectrum2IP(M函数):...
++[新建阅读窗口](,spectrum2IP)
+
+地址::Matlab\spectrometer\spectrum.m
++[保存M函数](,spectrum)
+
+互逆测试(M函数):...
+轨迹测试(M函数):...
++[新建阅读窗口](,互逆测试)
+
+测试(M函数):...
++[新建阅读窗口](,测试)
+spectrum1(M函数):...
+spectrum2(M函数):...
+(曲线轨迹的能谱, 里面和折线轨迹做了对比)
+
+Nini, 打开能谱仪原理的u_substitution(节点)
+%}
+%% function [S,E_x,p_x,dE_x,I]=spectrum(data,bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B,pos_p0,theta_p0,dx)
+
+function [S,E]=spectrum(data,E_x,t_0,x_o,z_o,B,D,z_m,x_i,z_i)
+
+physics_constant;
+E=-B*e*c*D*(z_i-z_m)./(x_i-x_o-t_0*(z_i-z_o));
+S=u_substitution(x_i,data,x_i,E,E_x);
+
+end
+
+
+%{
++[保存M函数](,spectrum)
+%}
+## end
+#293, 30:
+Matlab\spectrometer\spectrum.m
+## end
+#295, 800:
+%{
++[M函数](,spectrum_x)
+Nini, 打开能谱仪原理的trajectory_fiducial(节点)
+
+地址::Matlab\spectrometer\spectrum_x.m
++[保存M函数](,spectrum_x)
+
+测试:...
+存档_单位1:...
+%}
+
+function [E0,y,x0,y0]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B,pos_p0,theta_p0,N)
+
+physics_constant;
+
+x_f=[bd_0(1),bd_1(1)];
+y_f=[bd_0(2),bd_1(2)];
+xe=pos_s(1);
+ye=pos_s(2);
+pos_m=pos_m0(1:2);
+siz_m=siz_m0;
+pos_p=pos_p0(1:2);
+theta_p=theta_p0(1);
+
+E_bd = trajectory_fiducial(x_f,y_f,xe,ye,theta_e,pos_m(1:2),siz_m,B);
+
+E_bd(isnan(E_bd))=20e9*e;
+E0=linspace(E_bd(1),E_bd(2),N);
+xe1=pos_s(1)*ones(size(E0));
+ye1=pos_s(2)*ones(size(E0));
+theta=theta_e*ones(size(E0));
+
+[x0,y0] = trajectory_uniform(xe1,ye1,theta,E0,pos_m(1:2),siz_m,B,pos_p(1:2),theta_p);
+y=-sind(theta_p)*(x0-pos_p(1))+cosd(theta_p)*(y0-pos_p(2));
+
+
+end
+
+%{
++[保存M函数](,spectrum_x)
+%}
+## end
+#298, 32:
+Matlab\spectrometer\spectrum_x.m
+## end
+#300, 43:
+%{
++[M函数](,测试)
+%}
+
+size(data)
+data(1.0)
+
+
+
+
+## end
+#305, 90:
+C:\Users\cheng\Desktop\Laser\TPW\program\spectrum_analysis_window\Useful_code\DataAnalysis
+## end
+#307, 272:
++[返回目录](,校正工具)
+
+全局变量:...
++[新建阅读窗口](,全局变量)
+
+总体逻辑是, LaunchAngle是总入口. 有Calibration和计算launch angle两部分. 
+
+
+LaunchAngle(M函数):...
+记住LaunchAngle(节点)
+
+XrayAutoMatch(M函数):...
+AutoCalibrationIP(M函数):...
+DesignTool(M函数):...
+记住DesignTool(节点)
+LaunchAngles(M函数):...
+记住LaunchAngles(节点)
+
+
+
+## end
+#309, 1198:
+%{
+地址::Matlab\spectrometer\XrayAutoMatch.m
++[保存文本](,XrayAutoMatch)
+
+算法解释:...
+
+match_xo(M函数):...
++[新建阅读窗口](,match_xo)
+show_XrayAutoMatch(M函数):...
+
+测试输入(M函数):...
+%}
+
+
+function [cellx,Fn]=XrayAutoMatch(shadow,Cell,dy,IP,Fx,Fy,show_mode)
+% global GAS_CELL_Z_POSITION;
+% shadow=[
+%     2047.805964	2038.307034	1920.865711	1882.869989
+% ];
+% shadow=sort(4001-shadow);
+% dy=[0,0];
+% Cell=[GAS_CELL_Z_POSITION,0];
+% show_mode=1;
+
+% IP=-2.48;
+% Fy=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615;
+% 	2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+% Fy=Fy*0.0254
+% Fx=[-1.037 0;
+%    0 -1.545]*ones(size(Fy));
+
+
+shY=(shadow-2000)*1e-4;
+
+Fy(2,:)=Fy(2,:)-dy(2);
+xo=zeros(length(shY),numel(Fx));
+
+for i=1:length(shY)
+    zs=IP;
+    xs=shY(i)-dy(1);
+    zf=reshape(Fx,1,numel(Fx));
+    xf=reshape(Fy,1,numel(Fy));
+    zo=Cell(1);
+    xo(i,:)=xf+(xf-xs).*(zo-zf)./(zf-zs);
+end
+
+% xo=xo';
+% distance=abs(xo-Cell(2));
+% cellx=xo(distance==ones(size(distance,1),1)*min(distance));
+% [I,~]=find(distance==ones(size(distance,1),1)*min(distance));
+
+[I,cellx]=match_xo(xo');
+Fn=[fix(I/2) mod(I,2)+1];
+
+
+if show_mode==1
+    show_XrayAutoMatch(cellx,Fn,Cell,shY,dy,IP,Fx,Fy,shadow);
+end
+
+end
+
+
+
+
+## end
+#312, 35:
+Matlab\spectrometer\XrayAutoMatch.m
+## end
+#314, 385:
+%{
+地址::Matlab\spectrometer\match_xo.m
++[保存文本](,match_xo)
+%}
+
+
+function [I,cellx]=match_xo(xo)
+xo_max=max(max(xo));
+xo_min=min(min(xo));
+Dxo=xo_max-xo_min;
+N=1000;
+x=xo_min:Dxo/N:xo_max;
+y=zeros(size(x));
+for i=1:length(x)
+    dx=abs(x(i)-xo);
+    y(i)=std(xo(dx==min(dx)));
+end
+
+x_min=x(y==min(y));
+x_min=x_min(1);
+dx=abs(x_min-xo);
+[I,~]=find(dx==min(dx));
+cellx=xo(dx==min(dx));
+end
+
+## end
+#317, 578:
+%{
+地址::Matlab\spectrometer\show_XrayAutoMatch.m
++[保存文本](,show_XrayAutoMatch)
+%}
+
+
+
+function show_XrayAutoMatch(cellx,Fn,Cell,shY,dy,IP,Fx,Fy,shadow)
+    cellx1=cellx(Fn(:,2)==1);
+    cellx2=cellx(Fn(:,2)==2);
+    cellz1=Cell(1)*ones(size(cellx1));
+    cellz2=Cell(1)*ones(size(cellx2));
+    shx1=shY(Fn(:,2)==1)'-dy(1);
+    shx2=shY(Fn(:,2)==2)'-dy(1);
+    shz1=IP*ones(size(shx1));
+    shz2=IP*ones(size(shx2));
+    figure;
+    plot(Fx,Fy,'bo',[shz1 cellz1]',[shx1 cellx1]','b',[shz2 cellz2]',[shx2 cellx2]','r');
+    text(IP*ones(size(shY)),shY'-dy(1),num2str(shadow'));
+end
+
+
+## end
+#320, 30:
+Matlab\spectrometer\match_xo.m
+## end
+#322, 40:
+Matlab\spectrometer\show_XrayAutoMatch.m
+## end
+#324, 189:
++[返回目录](,算法解释)
+
+给定一个IP位置, 那么每一个阴影都可以同时对应14根fiducial, 进而对应出14种可能的gas cell位置. 
+然后在match_xo, 扫gas cell的位置xo, 取14种可能位置中, 和xo最近的那个作为阴影和fiducial的对应. 
+找到所有阴影的对应后, 计算xo的平均值和方差. 取方差最小的xo和对应关系. 
+
+
+
+
+
+## end
+#326, 1697:
+function LWFA7_GLOBAL_spectrometer_parameters
+global IP_Z_POSITION;
+global FIDUCIAL1_Z_POSITION;
+global FIDUCIAL2_Z_POSITION;
+global FIDUCIALS_X_POSITIONS;               %m
+global FIDUCIALS_Z_POSITIONS;
+global FIDUCIAL_WIDTH;                      %m
+global MAGNET_Z_BOUNDS;
+global GAS_CELL_Z_POSITION;
+global MAGNET_FIELD_STRENGTH;
+global FIDUCIAL_SHIFT_dy2;
+global FIDUCIAL_WIRE_DIAMETER;
+global SCINTILLATOR_Z_POSITION;
+global LOW_ANGLE_PIXEL_WIDTH;
+global LOW_ANGLE_CENTER_PIXEL;
+
+FIDUCIAL_WIRE_DIAMETER=0.005*0.0254;
+% if LWFA==7
+    IP_Z_POSITION=-2.48;
+    FIDUCIAL2_Z_POSITION=-1.545;
+    FIDUCIAL1_Z_POSITION=-1.037;
+    GAS_CELL_Z_POSITION=0.225;
+    SCINTILLATOR_Z_POSITION=-2.865+GAS_CELL_Z_POSITION;
+    LOW_ANGLE_PIXEL_WIDTH=(1e-3)/41;
+    LOW_ANGLE_CENTER_PIXEL=[690,476]; 
+    FIDUCIAL_SHIFT_dy2=-0.000632;
+% elseif LWFA==6
+%     IP_Z_POSITION=-2.476;
+%     FIDUCIAL2_Z_POSITION=IP_Z_POSITION+0.93345;
+%     FIDUCIAL1_Z_POSITION=IP_Z_POSITION+1.44145;
+%     GAS_CELL_Z_POSITION=0.264;
+%     FIDUCIAL_SHIFT_dy2=-0.000632;
+% elseif LWFA==8
+%     IP_Z_POSITION=-2.5474;
+%     FIDUCIAL2_Z_POSITION=IP_Z_POSITION+0.93345;
+%     FIDUCIAL1_Z_POSITION=IP_Z_POSITION+1.44145;
+%     GAS_CELL_Z_POSITION=0.1697;
+%     FIDUCIAL_SHIFT_dy2=0;
+% end
+
+%inch
+FIDUCIALS_X_POSITIONS=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615;
+	2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+%m
+FIDUCIALS_X_POSITIONS=FIDUCIALS_X_POSITIONS*0.0254;
+FIDUCIALS_Z_POSITIONS=[FIDUCIAL1_Z_POSITION 0;
+                       0 FIDUCIAL2_Z_POSITION]*ones(size(FIDUCIALS_X_POSITIONS));
+FIDUCIAL_WIDTH=0.005*0.0254;
+
+MAGNET_Z_BOUNDS=[0 -0.05];
+MAGNET_FIELD_STRENGTH=1.482;
+%MAGNET_WIDTH=0.05;
+
+end
+## end
+#328, 442:
+%{
++[M函数](,测试输入)
+%}
+
+addpath('Matlab\spectrometer');
+shadow=[
+    2047.805964	2038.307034	1920.865711	1882.869989
+];
+shadow=sort(4001-shadow);
+dy=[0,0];
+Cell=[0.225,0];
+show_mode=1;
+
+
+IP=-2.48;
+Fy=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615;
+	2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+Fy=Fy*0.0254
+Fx=[-1.037 0;
+   0 -1.545]*ones(size(Fy));
+
+
+[cellx,Fn]=XrayAutoMatch(shadow,Cell,dy,IP,Fx,Fy,show_mode)
+
+
+
+
+## end
+#331, 1067:
+%{
+地址::Matlab\spectrometer\AutoCalibrationIP.m
++[保存文本](,AutoCalibrationIP)
+
+测试函数(M函数):...
+%}
+
+
+
+function [cellx,dy,sx,xo]=AutoCalibrationIP(shadow,Cell,dy2,IP,Fx,Fy,show_mode,dy,n)
+% shadow=[1855,1899,2016,2022,2133];
+% Cell=[0.225 0];
+% dy2=-0.000632;
+% show_mode=1;
+% dy=[0 0];
+% if LWFA==7
+%     IP=-2.48;
+%     Fiducial2=-1.545;
+%     Fiducial1=-1.037;
+% else
+%     IP=-2.476;
+%     Fiducial2=IP+0.93345;
+%     Fiducial1=IP+1.44145;
+% end
+
+% IP=-2.48;
+% Fiducial2=-1.545;
+% Fiducial1=-1.037;
+
+
+
+if n==0
+    cellx=Cell(2);
+    return;
+end
+
+if n==1
+    [xo,Fn]=XrayAutoMatch(shadow,Cell,dy,IP,Fx,Fy,show_mode);
+else
+    [xo,Fn]=XrayAutoMatch(shadow,Cell,dy,IP,Fx,Fy,0);
+end
+
+
+xo1=xo(Fn(:,2)==1);
+xo2=xo(Fn(:,2)==2);
+zs=IP;
+zf1=Fx(1,1);
+zf2=Fx(2,1);
+zo=Cell(1);
+
+dxo=mean(xo1)-mean(xo2);
+Cf2=(zo-zs)/(zf2-zs);
+Cs1=(zf1-zo)/(zf1-zs);
+Cs2=(zf2-zo)/(zf2-zs);
+
+dy1=(-dxo+Cf2*dy2)/(Cs1-Cs2)/3;
+dy=dy+[dy1 dy2];
+
+if n<=1
+    cellx=mean(xo);
+    sx=std(xo);
+else
+    Cell(2)=mean(xo);
+    [cellx,dy,sx,xo]=AutoCalibrationIP(shadow,Cell,0,IP,Fx,Fy,show_mode,dy,n-1);
+end
+end
+## end
+#334, 39:
+Matlab\spectrometer\AutoCalibrationIP.m
+## end
+#336, 450:
+%{
++[M函数](,测试函数)
+%}
+
+
+addpath('Matlab\spectrometer')
+
+shadow=[1855,1899,2016,2022,2133];
+Cell=[0.225 0];
+dy2=-0.000632;
+show_mode=1;
+dy=[0 0];
+n=30;
+
+IP=-2.48;
+% F2=-1.545;
+% F1=-1.037;
+Fy=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615;
+	2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+Fy=Fy*0.0254
+Fx=[-1.037 0;
+   0 -1.545]*ones(size(Fy));
+
+
+[cellx,dy,sx,xo]=AutoCalibrationIP(shadow,Cell,dy2,IP,Fx,Fy,show_mode,dy,n)
+
+
+
+
+## end
+#339, 1755:
+%{
+地址::Matlab\spectrometer\DesignTool.m
++[保存文本](,DesignTool)
+
+测试函数(M函数):...
+%}
+
+
+function [Theta,E]=DesignTool(shadow,Cell,dy,Ma,B0,Fx,Fy,IP,show_Mode)
+% shadow=2000:2002;
+% Cell=[0.225 0];
+% dy=[0 0];
+% show_Mode=1;
+% Ma1=0;
+% Ma2=-0.05;
+% if LWFA==7
+%     IP=-2.48;
+%     Fiducial2=-1.545;
+%     Fiducial1=-1.037;
+% else
+%     IP=-2.476;
+%     Fiducial2=IP+0.93345;
+%     Fiducial1=IP+1.44145;
+% end
+% fd=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615;
+% 	2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+% Fy=fd*0.0254;
+% Fx=[Fiducial1 0;
+%     0 Fiducial2]*ones(size(Fy));
+
+% B0=1.482;
+% IP=-2.48;
+% Fy=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615;
+% 	2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+% Fy=Fy*0.0254
+% Fx=[-1.037 0;
+%    0 -1.545]*ones(size(Fy));
+% Ma=[0,-0.05];
+
+
+e=1.602e-19;
+c=2.999e8;
+me=9.109e-31;
+
+
+
+Ma1=Ma(1);
+Ma2=Ma(2);
+
+
+
+shY=(shadow-2000)*1e-4;
+
+
+Theta=zeros(length(shY),numel(Fx));
+E=zeros(length(shY),numel(Fx));
+
+Fy(2,:)=Fy(2,:)-dy(2);
+    
+for i=1:length(shY)
+
+    Sx=IP*ones(size(Fx));
+    Sy=shY(i)*ones(size(Fx));
+    Sy=Sy-dy(1);
+
+    zs=reshape(Sx,[1,numel(Fx)]);
+    xs=reshape(Sy,[1,numel(Fy)]);
+    zf=reshape(Fx,[1,numel(Fx)]);
+    xf=reshape(Fy,[1,numel(Fy)]);
+    zm=(Ma1+Ma2)/2;
+    D=abs(Ma1-Ma2);
+    zo=Cell(1);
+    xo=Cell(2);
+
+    k1=(xs-xo)./(zm-zo)+(xs-xf).*(zm-zs)./(zs-zf)/(zm-zo);
+    theta=atan(k1);
+    k2=(xs-xf)./(zs-zf);
+    beta=atan(k2);
+    xm=xs+(zm-zs).*k2;
+
+    R=D./(sin(beta)-sin(theta));
+    E(i,:)=sqrt(B0^2*e^2*R.^2*c^2+me^2*c^4)/e/1e9;
+
+    Z=[zs;zm*ones(size(xm));zo*ones(size(xm))];
+    X=[xs;xm;xo*ones(size(xm))];
+
+    if show_Mode==1
+        plot(Z,X,'b',zf,xf,'*')
+    end
+    Theta(i,:)=theta;
+end
+Theta=Theta';
+E=E';
+end
+## end
+#342, 32:
+Matlab\spectrometer\DesignTool.m
+## end
+#344, 394:
+%{
++[M函数](,测试函数)
+%}
+
+addpath('Matlab\spectrometer')
+
+shadow=2000:2002;
+Cell=[0.225 0];
+dy=[0 0];
+show_Mode=1;
+
+
+B0=1.482;
+IP=-2.48;
+Fy=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615;
+	2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+Fy=Fy*0.0254
+Fx=[-1.037 0;
+   0 -1.545]*ones(size(Fy));
+Ma=[0,-0.05];
+
+[Theta,E]=DesignTool(shadow,Cell,dy,Ma,B0,Fx,Fy,IP,show_Mode)
+
+
+
+## end
+#347, 505:
+%{
+地址::Matlab\spectrometer\LaunchAngles.m
++[保存文本](,LaunchAngles)
+
+测试函数(M函数):...
+%}
+
+function [a,Fn,e,theta,energy]=LaunchAngles(shadowE,Cell,dy,Ma,B0,Fx,Fy,IP)
+% [theta,energy]=DesignTool(shadowE,Cell,dy,0);
+[theta,energy]=DesignTool(shadowE,Cell,dy,Ma,B0,Fx,Fy,IP,0);
+the=abs(theta);
+% Assume that energy of electrons can't be larger than 30GeV
+% the(energy>100)=inf;
+the(energy>25)=inf;
+
+a=-theta(the==min(the));
+e=energy(the==min(the));
+[Fn,~]=find(-theta==a');
+% Fn=[fix((I+1)/2) mod(I+1,2)+1];
+end
+
+
+
+## end
+#350, 34:
+Matlab\spectrometer\LaunchAngles.m
+## end
+#352, 622:
+%{
+地址::Matlab\spectrometer\LaunchAngle.m
++[保存文本](,LaunchAngle)
+%}
+
+function [angle,Angles,e,Fn,Cell,dy,sx]=LaunchAngle(SD,dy2,show_mode)
+% Cell=[0.225,0];
+% dy2=-0.000632;
+% Ma=[0 -0.05];
+
+Cell=[0.225,0];
+
+
+shadowX=SD(1,SD(1,:)~=0);
+shadowE=SD(2,SD(2,:)~=0);
+
+
+% if Cal_type==1
+% [cellx,dy,sx,~,zw]=IPCalibrationWaist(IP,shadowX,Cell,dy2,20,show_mode);
+% Cell(1)=zw;
+% else
+[cellx,dy,sx]=AutoCalibrationIP(shadowX,Cell,dy2,show_mode,[0,0],20);
+fprintf('The size of the source is %1.8f mm!\n',sx*1e3);
+
+Cell(2)=cellx;
+[Angles,Fn,e]=LaunchAngles(shadowE,Cell,dy);
+angle=mean(Angles);                                 %rad
+end
+## end
+#355, 33:
+Matlab\spectrometer\LaunchAngle.m
+## end
+#357, 448:
+%{
++[M函数](,测试函数)
+%}
+
+addpath('Matlab\spectrometer')
+
+shadow=2000:2002;
+Cell=[0.225 0];
+dy=[0 0];
+show_Mode=1;
+
+
+B0=1.482;
+IP=-2.48;
+Fy=[3.6585 4.3805 4.8965 5.2925 5.6220 5.9205 6.2525 6.5615;
+	2.9605 3.9015 4.5875 5.1130 5.5545 5.9525 6.2525 6.5545]-6.2525;
+Fy=Fy*0.0254
+Fx=[-1.037 0;
+   0 -1.545]*ones(size(Fy));
+Ma=[0,-0.05];
+
+% [Theta,E]=DesignTool(shadow,Cell,dy,Ma,B0,Fx,Fy,IP,show_Mode)
+[a,Fn,e]=LaunchAngles(shadow,Cell,dy,Ma,B0,Fx,Fy,IP)
+
+
+## end
+#360, 137:
+记住IP校正(节点)
+SR::file:///C:/Users/cheng/Desktop/paper/Spectrometer/Nakanii08.pdf
+
+SR对1 GeV的比例是, 4.1e-3 PSL/electron
+
+
+Nini, 关于电子能谱, 你记得什么?
+
+## end
+#362, 63:
+file:///C:/Users/cheng/Desktop/paper/Spectrometer/Nakanii08.pdf
+## end
+#367, 725:
+<!--
++[H函数](,能量标记)
++[设置结构](,能量标记)
+Nini, 打开公式结构(文件)
+Nini, 能谱仪原理的原理是什么?
+记住能量标记(节点)
+
+结构:...
++[显示星图]"1"(,结构)
+"y_m1=tan(\theta)*(x_m1-x_s)+y_s"(表达式)转换为结构(结构)
+将结构记作(4)式
+
+
+"D=x_m2-x_1"(表达式)转换为结构(结构)
+"D=x_m2-x_m1"(表达式)转换为结构(结构)
+将结构记作(5)式
+(这句话会炸...)
++[删除结构](,结构)->+[临时文本]"D=x_m2-x_m1"...
+->+[生成公式结构](+[临时文本],结构)->+[更新公式起点](,结构)
+
+"y_m2=y_m1+\Delta"(表达式)转换为结构(结构)
+将结构记作(6)式
+"y_i=tan(\beta)*(x_i-x_m2)+y_m2"(表达式)转换为结构(结构)
+将结构记作(7)式
+结构(结构)转换为测试(表达式)
+
+测试:...
+示意图:...
++[显示PPT场景](,示意图)
+
+将结构记作(3)式
+-->
+The equations for a spectrometer are,
+%[1].
+%[2].
+%[3].
+
+For a complete trajectory, we have equations,
+%[4].
+%[5].
+%[6].
+%[7].
+
+
+<!--
++[新建阅读窗口](,[1].)
+Nini, 能谱仪原理的原理是什么?
++[H函数](,能量标记)
+
+
+验证公式(M函数):...
++[新建阅读窗口](,验证公式)
+将(5)式写入验证公式(Matlab)
+-->
+## end
+#372, 8:
+\sqrt{2}
+## end
+#376, 34:
+sin(\beta)=sin(\theta)-\frac{D}{R}
+## end
+#377, 34:
+sin(\beta)=sin(\theta)-\frac{D}{R}
+## end
+#381, 45:
+\Delta=R\ \left(cos(\beta)-cos(\theta)\right)
+## end
+#382, 33:
+\Delta=R*(cos(\beta)-cos(\theta))
+## end
+#386, 48:
+R=\frac{\sqrt{E^{2}/c^{2}-m_0^{2}\ c^{2}}}{q\ B}
+## end
+#387, 46:
+R=\frac{\sqrt{E^{2}/c^{2}-m_0^{2}*c^{2}}}{q*B}
+## end
+#391, 464:
++[显示PPT场景](,图形)
+
+图形::
++[设置结构](,图形)
+图形中新建1个矩形(矩形). 图形中新建3条直线(直线). 图形中新建3条圆弧(圆弧)
+图形中新建6个文本框(文本框)
+
+矩形0在(1,-1). 矩形0的尺寸是"1,2"
+标记三角形
+通过标记区域确定圆弧1(圆弧)的形状
+标记点
+将圆弧0移动到标记点
+标记线段
+将标记区域记录为直线2
+
+图形=>的(图形,_re)->_re"文本框"=>的(_re,尺寸)->+[修改内容]"0,0"(,尺寸)
+标记点
+文本框0的内容是"$$(x_s,y_s)$$". 将文本框0移动到标记点
+文本框1的内容是"$$(x_{m1},y_{m1})$$". 将文本框1移动到标记点
+文本框2的内容是"$$(x_{m2},y_{m2})$$". 将文本框2移动到标记点
+文本框3的内容是"$$(x_i,y_i)$$". 将文本框3移动到标记点
+文本框4的内容是"$$\theta$$". 将文本框4移动到标记点
+文本框5的内容是"$$\beta$$". 将文本框5移动到标记点
+
+## end
+#442, 9:
+$$\beta$$
+## end
+#444, 3:
+文本框
+## end
+#445, 3:
+0,0
+## end
+#447, 38:
+0.5991328541531424, 0.1395025030121151
+## end
+#450, 10:
+$$\theta$$
+## end
+#452, 3:
+文本框
+## end
+#453, 3:
+0,0
+## end
+#455, 37:
+2.186675041012127, 0.1395025030121151
+## end
+#458, 13:
+$$(x_i,y_i)$$
+## end
+#460, 3:
+文本框
+## end
+#461, 3:
+0,0
+## end
+#463, 40:
+-1.0025208188112549, -0.8553572674195147
+## end
+#466, 19:
+$$(x_{m2},y_{m2})$$
+## end
+#468, 3:
+文本框
+## end
+#469, 3:
+0,0
+## end
+#471, 38:
+0.9958194749123561, 0.3636739226567094
+## end
+#474, 19:
+$$(x_{m1},y_{m1})$$
+## end
+#476, 3:
+文本框
+## end
+#477, 3:
+0,0
+## end
+#479, 38:
+2.003741792484662, 0.32483849409668064
+## end
+#482, 13:
+$$(x_s,y_s)$$
+## end
+#484, 3:
+文本框
+## end
+#485, 3:
+0,0
+## end
+#487, 38:
+2.2295939922020307, 0.1492537313432838
+## end
+#506, 2:
+矩形
+## end
+#507, 3:
+1,2
+## end
+#509, 4:
+1,-1
+## end
+#531, 2:
+曲线
+## end
+#532, 40:
+0.13731343283582098, 0.14328358208955239
+## end
+#534, 39:
+2.2056894826369384, -1.0505799995695289
+## end
+#537, 2:
+曲线
+## end
+#538, 39:
+0.3631007383561454, -0.8537313432835822
+## end
+#540, 39:
+0.9993591336063165, -1.0028666306400107
+## end
+#543, 2:
+曲线
+## end
+#544, 40:
+0.15450795149189125, 0.35118617617911263
+## end
+#546, 35:
+2.208275446660156, 1.98783745660241
+## end
+#588, 2:
+曲线
+## end
+#589, 2:
+45
+## end
+#591, 1:
+0
+## end
+#593, 2:
+圆弧
+## end
+#595, 1:
+0
+## end
+#597, 39:
+0.5534387814626617, 0.11676885558961626
+## end
+#600, 2:
+曲线
+## end
+#601, 18:
+227.96690446753425
+## end
+#603, 17:
+160.9736837325976
+## end
+#605, 2:
+圆弧
+## end
+#607, 1:
+0
+## end
+#609, 39:
+2.1574415632915054, 0.15944405441426107
+## end
+#612, 2:
+曲线
+## end
+#613, 19:
+-242.16099189336063
+## end
+#615, 19:
+-165.37322351580244
+## end
+#617, 2:
+圆弧
+## end
+#619, 1:
+0
+## end
+#621, 38:
+1.486567164179105, -0.2567164179104475
+## end
+#625, 1984:
+0.6082601208006791, 0.6150300866574953, 0.6216853892480307, 0.6282247877895181, 0.6346470631077857, 0.6409510178645557, 0.6471354767806691, 0.6531992868551997, 0.6591413175804144, 0.6649604611525386, 0.6706556326782909, 0.676225770377145, 0.6816698357792828, 0.6869868139192019, 0.692175713524941, 0.6972355672028879, 0.7021654316181355, 0.7069643876703529, 0.7116315406651379, 0.7161660204808198, 0.7205669817306803, 0.7248336039205638, 0.7289650916018459, 0.7329606745197338, 0.7368196077568678, 0.7405411718722016, 0.7441246730351297, 0.7475694431548437, 0.7508748400048864, 0.7540402473428861, 0.7570650750254461, 0.7599487591181677, 0.7626907620007881, 0.7652905724674111, 0.7677477058218135, 0.7700617039678114, 0.772232135494663, 0.7742585957575007, 0.7761407069527703, 0.7778781181886669, 0.7794705055505535, 0.7809175721613506, 0.7822190482368836, 0.783374691136181, 0.7843842854067107, 0.785247642824548, 0.7859646024294673, 0.7865350305549509, 0.7869588208531084, 0.7872358943145048, 0.7873661992828898, 0.7873497114648286, 0.7871864339342309, 0.7868763971317786, 0.7864196588592491, 0.7858163042687407, 0.7850664458467959, 0.7841702233934305, 0.7831278039960702, 0.7819393819983991, 0.7806051789641276, 0.779125443635685, 0.7775004518878449, 0.7757305066762928, 0.7738159379811443, 0.7717571027454253, 0.769554384808525, 0.767208194834635, 0.764718970236187, 0.7620871750923034, 0.759313300062277, 0.756397862294095, 0.7533414053280234, 0.7501444989952734, 0.7468077393117634, 0.7433317483670016, 0.7397171742081062, 0.7359646907189871, 0.7320749974947087, 0.7280488197110633, 0.72388690798937, 0.7195900382565349, 0.7151590116003889, 0.7105946541203386, 0.7058978167733507, 0.7010693752153047, 0.6961102296377393, 0.6910213046000252, 0.6858035488569946, 0.6804579351820601, 0.6749854601858551, 0.6693871441304305, 0.6636640307390427, 0.6578171870015653, 0.6518477029755665, 0.6457566915830824, 0.6395452884031302, 0.6332146514599951, 0.6267659610073356, 0.620200419308141
+## end
+#627, 2116:
+0.4999825288274343, 0.4916308535834654, 0.4831875210357335, 0.4746541053187552, 0.46603219736172213, 0.4573234045918959, 0.4485293506349267, 0.4396516750121525, 0.4306920328349344, 0.4216520944960859, 0.4125335453584523, 0.40333808544070027, 0.3940674291003744, 0.38472330471428007, 0.37530745435625396, 0.36582163347237967, 0.3562676105537106, 0.3466471668065612, 0.3369620958204276, 0.32721420323359873, 0.3174053063965224, 0.307537234032987, 0.29761182589918245, 0.2876309324407056, 0.27759641444757227, 0.2675101427072986, 0.25737399765612323, 0.24718986902842474, 0.23695965550441128, 0.226685264356138, 0.21636861109192496, 0.20601161909923893, 0.19561621928610617, 0.18518434972112327, 0.17471795527213266, 0.1642189872436311, 0.15368940301297757, 0.14313116566546932, 0.13254624362835352, 0.12193661030384322, 0.11130424370120548, 0.10065112606799168, 0.08997924352047465, 0.0792905856733697, 0.06858714526889709, 0.057870917805267735, 0.04714390116464987, 0.03640809524069445, 0.025665501565684385, 0.014918122937378377, 0.0041679630456189515, -0.006582973901225933, -0.017332683549917884, -0.028079161776030287, -0.03882040505758674, -0.04955441084859018, -0.060279177952365114, -0.07099270689465424, -0.08169300029638775, -0.09237806324606823, -0.10304590367168952, -0.11369453271213119, -0.12432196508795133, -0.1349262194715128, -0.14550531885637238, -0.15605729092586446, -0.16658016842081022, -0.17707198950628422, -0.1875307981373693, -0.1979546444238324, -0.20834158499365268, -0.21868968335533406, -0.2289970102589369, -0.23926164405575584, -0.2494816710565854, -0.25965518588849623, -0.26978029185006663, -0.27985510126499163, -0.2898777358340152, -0.2998463269851087, -0.30975901622184016, -0.3196139554698631, -0.32940930742146257, -0.33914324587809397, -0.34881395609085075, -0.3584196350987977, -0.3679584920651062, -0.3774287486109295, -0.3868286391469545, -0.3961564112025705, -0.40541032575259145, -0.4145886575414709, -0.4236896954049508, -0.4327117425890827, -0.4416531170665623, -0.45051215185031884, -0.45928719530429973, -0.46797661145139485, -0.47657878027843825, -0.48509209803823755
+## end
+#630, 2159:
+-0.021242195198214762, -0.02013842082975363, -0.019030955944226248, -0.017920003492901525, -0.016805767066170894, -0.01568845085623912, -0.014568259619704342, -0.013445398640034958, -0.012320073689949864, -0.011192490993709114, -0.010062857189321595, -0.008931379290677312, -0.007798264649610372, -0.006663720917900237, -0.005527956009217978, -0.004391178061024572, -0.0032535953964279774, -0.0021154164860066136, -0.0009768499096053883, 0.00016189568188808477, 0.00130061160478033, 0.0024390891808148234, 0.003577119775414022, 0.004714494835912966, 0.00585100592977829, 0.006986444782805015, 0.008120603317284316, 0.00925327369013549, 0.010384248330994527, 0.011513319980253097, 0.012640281727040391, 0.013764927047141095, 0.014887049840842501, 0.0160064444707038, 0.01712290579924085, 0.018236229226518897, 0.019346210727647254, 0.020452646890168315, 0.02155533495133441, 0.022654072835265736, 0.023748659189982063, 0.024838893424302153, 0.025924575744603558, 0.027005507191436313, 0.028081489675983715, 0.02915232601636362, 0.0302178199737636, 0.03127777628840297, 0.032332000715315765, 0.0333803000599475, 0.03442248221355973, 0.03545835618843512, 0.03648773215287756, 0.03751042146600026, 0.03852623671229554, 0.03953499173598016, 0.04053650167510974, 0.041530582995456256, 0.0425170535241418, 0.043495732483023346, 0.0444664405218216, 0.04542899975098832, 0.046383233774305914, 0.047328967721213415, 0.04826602827885272, 0.049194243723829564, 0.05011344395368311, 0.05102346051805842, 0.051924126649576435, 0.052815277294395155, 0.053696749142457104, 0.05456838065741708, 0.05543001210624494, 0.05628148558849783, 0.057122645065256786, 0.057953336387721766, 0.0587734073254608, 0.059582707594307276, 0.060381088883900653, 0.06116840488486546, 0.06194451131562359, 0.06270926594883493, 0.06346252863746173, 0.06420416134045141, 0.06493402814803378, 0.06565199530662749, 0.06635793124335128, 0.0670517065901358, 0.06773319420743133, 0.06840226920750689, 0.069058808977337, 0.0697026932010714, 0.07033380388208381, 0.07095202536459573, 0.07155724435487121, 0.0721493499419788, 0.07272823361811676, 0.073293789298498, 0.07384591334079091, 0.0743845045641125
+## end
+#632, 2188:
+-0.08139408389035108, -0.08167418047138467, -0.08193930964462348, -0.08218942282315264, -0.08242447417185124, -0.08264442061579194, -0.08284922184813481, -0.08303884033751383, -0.0832132413349148, -0.08337239288004338, -0.08351626580718205, -0.08364483375053493, -0.08375807314905952, -0.08385596325078441, -0.08393848611661231, -0.08400562662360744, -0.08405737246776698, -0.08409371416627583, -0.08411464505924442, -0.08412016131092921, -0.08411026191043562, -0.08408494867190322, -0.08404422623417333, -0.08398810205993892, -0.08391658643437701, -0.08382969246326377, -0.08372743607057294, -0.08360983599555745, -0.08347691378931545, -0.08332869381084089, -0.08316520322255946, -0.08298647198535102, -0.0827925328530589, -0.08258342136648761, -0.08235917584688965, -0.0821198373889429, -0.08186544985321972, -0.08159605985814913, -0.08131171677147364, -0.08101247270120226, -0.08069838248606132, -0.08036950368544481, -0.08002589656886626, -0.07966762410491385, -0.07929475194971095, -0.07890734843488416, -0.078505484555041, -0.07808923395475963, -0.07765867291509293, -0.07721388033958944, -0.07675493773983359, -0.07628192922050826, -0.07579494146398183, -0.07529406371442302, -0.07477938776144626, -0.0742510079232905, -0.07370902102953472, -0.07315352640335315, -0.0725846258433136, -0.07200242360472205, -0.07140702638051713, -0.07079854328171781, -0.070177085817428, -0.06954276787440163, -0.06889570569617207, -0.06823601786174968, -0.06756382526389125, -0.0668792510869455, -0.0661824207842786, -0.06547346205528401, -0.06475250482198043, -0.06401968120520281, -0.06327512550039001, -0.06251897415297437, -0.06175136573337679, -0.06097244091161294, -0.06018234243151422, -0.059381215084569006, -0.0585692056833884, -0.05774646303480183, -0.056913137912587, -0.05606938302983955, -0.05521535301098705, -0.05435120436345316, -0.05347709544897631, -0.052593186454588665, -0.05169963936326086, -0.05079661792421721, -0.049884287622927515, -0.04896281565078058, -0.04803237087444515, -0.047093123804923816, -0.04614524656630562, -0.04518891286422291, -0.04422429795401866, -0.04325157860862942, -0.04227093308619055, -0.04128254109736883, -0.040286583772429344, -0.0392832436280419
+## end
+#635, 2235:
+0.024354443504825404, 0.02351863808919321, 0.02267955207431139, 0.02183730250373233, 0.02099200686229084, 0.02014378305971599, 0.01929274941418427, 0.01843902463581515, 0.017582727810112532, 0.016723978381353508, 0.015862896135927042, 0.014999601185625289, 0.014134213950888994, 0.013266855144010417, 0.012397645752294975, 0.011526707021185037, 0.010654160437347382, 0.009780127711726993, 0.008904730762569925, 0.008028091698416737, 0.007150332801069921, 0.00627157650853662, 0.005391945397950076, 0.004511562168471325, 0.0036305496241738583, 0.0027490306569140205, 0.0018671282291886139, 0.0009849653569831967, 0.00010266509261255553, -0.0007796494924438915, -0.0016618553247089959, -0.0025438293458756116, -0.0034254485299716215, -0.004306589900521044, -0.005187130547697643, -0.006066947645469842, -0.006945918468733371, -0.00782392041043024, -0.008700830998651212, -0.009576527913719077, -0.010450889005251244, -0.011323792309198135, -0.01219511606485601, -0.013064738731851388, -0.013932539007094355, -0.01479839584169938, -0.015662188457870055, -0.01652379636574644, -0.017383099380212225, -0.018239977637659, -0.019094311612706253, -0.019945982134873586, -0.020794870405204047, -0.021640858012834982, -0.022483826951515407, -0.023323659636066373, -0.02416023891878292, -0.02499344810577508, -0.025823170973245168, -0.02664929178370002, -0.027471695302094937, -0.028290266811907803, -0.029104892131140966, -0.029915457628248144, -0.030721850237985075, -0.03152395747718071, -0.032321667460427486, -0.033114868915688225, -0.03390345119981735, -0.03468730431399432, -0.03546631891906738, -0.036240386350805315, -0.03700939863505471, -0.03777324850280144, -0.03853182940513335, -0.03928503552810279, -0.0400327618074866, -0.04077490394344127, -0.041511358415051866, -0.04224202249477189, -0.0429667942627528, -0.043685572621060736, -0.044398257307778626, -0.04510474891099151, -0.04580494888265358, -0.04649875955233462, -0.0471860841408438, -0.047866826773729554, -0.04854089249465289, -0.04920818727863287, -0.04986861804516201, -0.05052209267119015, -0.05116852000397456, -0.051807809873794713, -0.052439873106530074, -0.053064621536098984, -0.05368196801675681, -0.05429182643525186, -0.054894111722837244, -0.055488739867137114
+## end
+#637, 2190:
+-0.07062504544352234, -0.07090775433447936, -0.07118057234974952, -0.07144346143412855, -0.07169638491739219, -0.0719393075194113, -0.072172195355073, -0.07239501593900736, -0.0726077381901187, -0.07281033243592112, -0.07300277041667746, -0.07318502528934123, -0.07335707163130098, -0.0735188854439264, -0.07367044415591595, -0.07381172662644528, -0.07394271314811615, -0.07406338544970542, -0.07417372669871367, -0.07427372150371314, -0.07436335591649472, -0.07444261743401356, -0.07451149500013304, -0.07456997900716712, -0.07461806129722039, -0.07465573516332603, -0.07468299535038143, -0.07469983805588115, -0.07470626093044737, -0.07470226307815754, -0.07468784505666946, -0.07466300887714337, -0.07462775800396151, -0.07458209735424486, -0.07452603329716717, -0.07445957365306664, -0.074382727692355, -0.07429550613422443, -0.07419792114515229, -0.07408998633720408, -0.07397171676613465, -0.07384312892928815, -0.07370424076329678, -0.0735550716415788, -0.07339564237163622, -0.07322597519215228, -0.07304609376988949, -0.07285602319638831, -0.07265578998446712, -0.07244542206452405, -0.07222494878064088, -0.07199440088648999, -0.07175381054104442, -0.0715032113040921, -0.0712426381315546, -0.07097212737061118, -0.07069171675462872, -0.0704014453978983, -0.07010135379017923, -0.06979148379105107, -0.0694718786240748, -0.06914258287076348, -0.06880364246436359, -0.06845510468344795, -0.06809701814532075, -0.06772943279923603, -0.06735239991943028, -0.06696597209797013, -0.06657020323741646, -0.06616514854330548, -0.06575086451644822, -0.06532740894504918, -0.06489484089664553, -0.06445322070986784, -0.06400260998602345, -0.0635430715805038, -0.06307466959401666, -0.06259746936364492, -0.06211153745373262, -0.061616941646600025, -0.061113750933088705, -0.06060203550293798, -0.06008186673499426, -0.05955331718725446, -0.05901646058674495, -0.0584713718192373, -0.057918126918802694, -0.05735680305720582, -0.05678747853314037, -0.056210232761307106, -0.055625146261336425, -0.05503230064655668, -0.05443177861260997, -0.05382366392591708, -0.05320804141199291, -0.05258499694361414, -0.05195461742884098, -0.05131699079889443, -0.050672205995890784, -0.05002035296043518
+## end
+#645, 18:
+0.7873772308678559
+## end
+#647, 19:
+0.08412031710109376
+## end
+#649, 19:
+0.07470633147417512
+## end
+#652, 16:
+y_m2=y_m1+\Delta
+## end
+#653, 16:
+y_m2=y_m1+\Delta
+## end
+#657, 42:
+y_i=tan(\beta)\ \left(x_i-x_m2\right)+y_m2
+## end
+#658, 30:
+y_i=tan(\beta)*(x_i-x_m2)+y_m2
+## end
+#662, 43:
+y_m1=tan(\theta)\ \left(x_m1-x_s\right)+y_s
+## end
+#663, 31:
+y_m1=tan(\theta)*(x_m1-x_s)+y_s
+## end
+#667, 519:
+%{
++[M函数](,验证公式)
+
+energy_ruler(M函数):...
+记住energy_ruler(节点)
+参考::https://www.mathworks.com/help/matlab/creating_plots/change-tick-marks-and-tick-labels-of-graph-1.html
++[打开](,参考)
+%}
+
+addpath('Matlab\spectrometer')
+physics_constant;
+E=[300,500,1000,1500,2000,3000,5000,10000];
+B=-1.48;
+D=0.05;
+
+x_s=0;
+y_s=0;
+pos_s=[0,0];
+x_m=15e-2;
+theta=0;
+x_i=200e-2;
+
+y_i=energy_ruler(E,pos_s,theta,x_m,D,B,x_i);
+xticks(fliplr(y_i)*1e3);
+xticklabels(num2str(fliplr(E)'/1e3))
+
+%{
+num2str(E')
+fliplr(y_i)
+plot(y_i,E,'o')
++[M函数](,验证公式)
+%}
+## end
+#670, 11:
+D=x_m2-x_m1
+## end
+#671, 11:
+D=x_m2-x_m1
+## end
+#675, 528:
+%{
+地址::Matlab\spectrometer\energy_ruler.m
++[保存文本](,energy_ruler)
+
+E=200:100:2000;
+B=1.48;
+D=0.05;
+
+x_s=0;
+y_s=0;
+x_m=15e-2;
+theta=0;
+x_i=200e-2;
+%}
+
+function y_i=energy_ruler(E,pos_s,theta,x_m,D,B,x_i)
+
+physics_constant;
+q=e;
+m_0=me;
+
+E=E*1e6*e;
+x_s=pos_s(1);
+y_s=pos_s(2);
+x_m1=x_m-D/2;
+x_m2=x_m+D/2;
+
+
+y_m1=tan(theta).*(x_m1-x_s)+y_s;
+R=(sqrt(E.^(2)./c.^(2)-m_0.^(2).*c.^(2)))./(q.*B);
+beta=asin(sin(theta)-(D)./(R));
+Delta=R.*(cos(beta)-cos(theta));
+y_m2=y_m1+Delta;
+y_i=tan(beta).*(x_i-x_m2)+y_m2;
+
+% plot(y_i,E,'o')
+
+end
+
+
+
+## end
+#680, 34:
+Matlab\spectrometer\energy_ruler.m
+## end
+#682, 102:
+https://www.mathworks.com/help/matlab/creating_plots/change-tick-marks-and-tick-labels-of-graph-1.html
+## end
+#686, 1738:
+<!--
++[H函数](,逆向轨迹)
+Nini, 打开公式结构(文件)
+Nini, 能谱仪原理的原理是什么?
+Nini, 能谱仪原理的能量标记是什么?
+记住逆向轨迹(节点)
+
+结构:
++[显示星图]"1"(,结构)
+Nini, 在能谱仪原理中, 将能量标记的(6)式载入到结构中
+将结构记作(6)式
+
+将(2)式载入到结构中. 将结构记作(2)式
+更新(2)式
+
+-->
+
+<h2>Retrace: energy & launch angle</h2>
+Here we want to retrace the trajectory by given the source, fiducial and shadow locations, and magnet information. <br>
+The exit location and the leaving angle should be determined by the fiducial, shadow and magnet locations totally,
+%[1].
+%[2].
+
+The trajectory in the magnetic field and before the field should satisfy the following equations,
+%[4].
+%[5].
+%[6].
+%[3].
+We can set \(R=10\times D\) at the beginning, then iteratively calculate the equations from \((3)\) to \((6)\) in the order. <br>
+
+To improve the accuracy, we can use eqn.[7] instead of eqn.[6]. 
+%[7].
+
+<h2>Retrace: launch angle & fiducial</h2>
+In this case, we give the source and shadow positions and the electron energy to solve the launch angle of an electron trajectory and the fiducial position. We can start from \(\theta=\beta=arctan((y_i-y_f)/(x_i-x_f))\) and go through the following process to get the launch angle.
+%[8].
+%[9].
+%[10].
+%[11].
+
+The update the \(\beta\). 
+
+%[12].
+%[13].
+
+
+<h2>Retrace: energy & fiducial</h2>
+In this case, we give the source and shadow positions and the launch angle to solve the energy of an electron trajectory and the fiducial position. It's very simliar to the first case. <br>
+First the \(y_{m1}\) is fixed,
+%[14].
+
+Then follow the porcess with am initial \(R=10\times D\),
+%[16].
+%[17].
+%[18].
+%[15].
+
+<!--
+[18].:
+式(15)转换为"Matlab"
+将"\beta=\frac{1}{2}*(arctan(\frac{y_m2-y_i}{x_m2-x_i})+arcsin(sin(\theta)-\frac{D}{R}))"记作为式(18)
+将式(4)记作为式(16)
+
+
+验证公式(M函数):...
++[新建阅读窗口](,验证公式)
+
++[H函数](,逆向轨迹)
+-->
+## end
+#693, 50:
+y_{m2}=y_{i}-tan(\beta)\ \left(x_{i}-x_{m2}\right)
+## end
+#694, 30:
+y_m2=y_i-tan(\beta)*(x_i-x_m2)
+## end
+#698, 45:
+\beta=arctan(\frac{y_{i}-y_{f}}{x_{i}-x_{f}})
+## end
+#699, 37:
+\beta=arctan(\frac{y_i-y_f}{x_i-x_f})
+## end
+#703, 34:
+R=\frac{D}{sin(\theta)-sin(\beta)}
+## end
+#704, 34:
+R=\frac{D}{sin(\theta)-sin(\beta)}
+## end
+#708, 45:
+\Delta=R\ \left(cos(\beta)-cos(\theta)\right)
+## end
+#709, 33:
+\Delta=R*(cos(\beta)-cos(\theta))
+## end
+#713, 45:
+tan(\theta)=\frac{y_{m1}-y_{s}}{x_{m1}-x_{s}}
+## end
+#714, 37:
+tan(\theta)=\frac{y_m1-y_s}{x_m1-x_s}
+## end
+#718, 20:
+y_{m1}=y_{m2}-\Delta
+## end
+#719, 16:
+y_m1=y_m2-\Delta
+## end
+#723, 11:
+交换(5)式和(6)式
+## end
+#725, 657:
+%{
++[M函数](,验证公式)
+trajectory_fs(M函数):...
+trajectory_ft(M函数):...
+trajectory_Es(M函数):...
+将条目"trajectory_ft"复制为条目"trajectory_Es"
+将'trajectory_ft'的"arc"替换为"a"
+记住trajectory_fs(节点)
+
++[粘贴](,验证公式)
+测试fs:...
+逆向计算_1:...
+%}
+
+addpath('Matlab\spectrometer');
+physics_constant;
+
+% electron
+x_s=0;
+y_s=0;
+
+% magnet
+x_m=5;
+D=5;
+B=1.2;
+
+% fiducial
+y_f=-2;
+x_f=25;
+
+% IP
+x_i=40;
+y_i=-5;
+
+
+x_m1=x_m-D/2;
+x_m2=x_m+D/2;
+
+
+[E,theta,R,y_m1,y_m2,beta]=trajectory_fs(x_s,y_s,x_m,D,B,x_f,y_f,x_i,y_i);
+% Trajectory
+[X,Y]=trajectory_XY(x_s,y_s,theta/pi*180,x_i,y_i,R,beta/pi*180,x_m1,y_m1,x_m2,y_m2);
+
+figure
+plot(X',Y','.-',x_f,y_f,'r*')
+axis equal
+
+
+%{
+E/e
+beta
+theta
++[M函数](,验证公式)
+%}
+## end
+#728, 589:
+%{
+地址::Matlab\spectrometer\trajectory_Es.m
++[保存M函数](,trajectory_Es)
+
+保存:...
+%}
+
+function [theta,y_f]=trajectory_Es(x_s,y_s,E,x_m,D,B,x_i,y_i,x_f)
+physics_constant;
+
+x_m1=x_m-D/2;
+x_m2=x_m+D/2;
+
+
+R=(sqrt(E.^(2)./c.^(2)-m_e.^(2).*c.^(2)))./(e.*B);
+
+beta=atan((y_i-y_s)./(x_i-x_s));
+theta=beta;
+
+for i=1:100
+
+    y_m2=y_i-tan(beta).*(x_i-x_m2);
+    theta=asin(sin(beta)+(D)./(R));
+    Delta=R.*(cos(beta)-cos(theta));
+    y_m1=y_m2-Delta;
+    y_sx=y_m1-tan(theta).*(x_m1-x_s);
+    Dt=(y_sx-y_s)./(x_i-x_s);
+
+    beta=beta+Dt*0.9;
+
+end
+
+y_f=y_i+tan(beta).*(x_f-x_i);
+
+end
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#731, 35:
+Matlab\spectrometer\trajectory_Es.m
+## end
+#742, 11:
+%{
+
+%}
+
+
+
+
+
+## end
+#744, 1770:
+%{
++[M函数](,互逆测试)
+
+Nini, 打开能谱仪原理的trajectory_fiducial(节点)
+Nini, 打开阴影形状的IP_ATM(节点)
+
+标尺互逆(M函数):...
++[新建阅读窗口](,标尺互逆)
+spectrum拆解(M函数):...
+(不好搞, 因为变量的问题...)
+u_substitution(M函数):...
++[新建阅读窗口](,u_substitution)
+
+存档_暴露问题:...
+存档_检测1:...
+(问题不在于spectrum2IP)
+(所以问题是, spectrum_x的x起点不是从IP的边缘开始的)
+存档_边缘互逆:...
+(问题是, spectrum输入的磁场是-B0. 这个造成了边缘问题)
+
+%}
+
+
+physics_constant;
+addpath('Matlab\spectrometer');
+addpath('Matlab\funcs');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+N1=size(data_im,2);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell;
+theta_e=mean(a);
+%theta_e=0;
+pos_m0=[mean(Ma),0];
+siz_m0=diff(Ma);
+pos_p0=pos_p;
+theta_p0=0;
+bd_0=pos_p-[0,0.2];
+bd_1=pos_p+[0,0.2];
+dx=50e-6;
+
+
+
+
+t_0=theta_e;
+z_o=Cell(1);
+x_o=Cell(2);
+D=diff(Ma);
+z_m=mean(Ma);
+z_i=pos_p(1);
+x_i=linspace(0.2,-0.2,N1)+pos_p(2);
+E=linspace(0.29,20,10000)*1e9*e;
+
+I0=sum(data_im);
+
+S=spectrum(I0,E,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+[I1,E1]=spectrum2IP(E,S,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+
+trapz(E,S)
+trapz(x_i,I1)
+trapz(x_i,I0)
+
+subplot(1,2,1)
+plot(E/e/1e9,S)
+subplot(1,2,2)
+plot(x_i,I0,x_i,I1,'--')
+
+
+%{
+Nini, 打开能谱仪校正的expected_shadows_13975(节点)
+Nini, 打开能谱仪原理的LaunchAngles(节点)
+Nini, 打开能谱仪原理的u_substitution(节点)
++[M函数](,互逆测试)
+%}
+## end
+#747, 584:
+%{
+地址::Matlab\spectrometer\spectrum2IP.m
++[保存M函数](,spectrum2IP)
+
+Nini, 打开阴影形状(文件)
+%}
+
+
+function [I,E]=spectrum2IP(E0,S0,t_0,x_o,z_o,B,D,z_m,x_i,z_i)
+%addpath('Matlab\paper_spectrometer');
+physics_constant;
+
+dx_i=abs(x_i(2)-x_i(1));
+
+N1=length(x_i);
+
+% L=z_i-z_o;
+% L_0=z_i-z_m;
+
+% t=t_0;
+I=zeros(1,N1);
+
+% dEdt=B*e*c*D*(z_i-z_m)*(z_i-z_o)./(x_i-x_o-t_0*(z_i-z_o)).^2;
+dEdx_i=-B*e*c*D*(z_i-z_m)./(x_i-x_o-t_0*(z_i-z_o)).^2;
+E=-B*e*c*D*(z_i-z_m)./(x_i-x_o-t_0*(z_i-z_o));
+S=interp1(E0,S0,E,'spline');
+S(E>max(E0)|E<min(E0))=0;
+I0=dEdx_i.*S;
+I=abs(I0);
+
+end
+
+%{
++[保存M函数](,spectrum2IP)
+%}
+## end
+#750, 33:
+Matlab\spectrometer\spectrum2IP.m
+## end
+#755, 1558:
+%{
++[M函数](,互逆测试)
+
+Nini, 打开阴影形状的IP_ATM(节点)
+%}
+
+
+physics_constant;
+addpath('Matlab\spectrometer');
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+% data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell/1e-2;
+theta_e=mean(a);
+theta_e=max(a);
+% theta_e=0;
+pos_m0=[mean(Ma),0]/1e-2;
+siz_m0=diff(Ma)/1e-2;
+pos_p0=pos_p/1e-2;
+theta_p0=0;
+bd_0=pos_p/1e-2-[0,0.2]/1e-2;
+bd_1=pos_p/1e-2+[0,0.2]/1e-2;
+dx=50e-6;
+B=-B0;
+
+[E0,x,x0,y0]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B,pos_p0,theta_p0,1000);
+E=E0/e;
+p_x0=x(E==min(E));
+if p_x0==min(x)
+    pixel=abs(x-p_x0)/dx;
+    p_x=0:max(pixel)-1;
+else
+    pixel=abs(x-p_x0)/dx;
+    pixel=7999-pixel;
+    p_x=min(pixel):7999;
+end
+
+E_x=interp1(pixel,E,p_x,'spline');
+dE_x=interp1(pixel,E,p_x+0.5,'spline')-interp1(pixel,E,p_x-0.5,'spline');
+
+I=sum(data_im);
+p_x=int32(p_x);
+
+S=abs(I(p_x+1)./dE_x);
+
+hold on
+plot(1:8000,I,p_x,E_x/max(E_x)*max(I))
+
+%{
+plot(x0,y0,'o')
+axis equal
+plot(x,E0/e/1e9,'o')
+set(gca,'yScale','log')
++[M函数](,测试)
+%}
+## end
+#760, 854:
+%{
++[M函数](,spectrum)
+
+spectrum_x(M函数):...
+spectrum2IP(M函数):...
+
+地址::Matlab\spectrometer\spectrum.m
++[保存文本](,spectrum)
+
+互逆测试(M函数):...
++[新建阅读窗口](,互逆测试)
+(互逆测试)
+
+测试(M函数):...
++[新建阅读窗口](,测试)
+spectrum1(M函数)
+%}
+
+
+function [S,E_x,p_x,dE_x]=spectrum(data,bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B,pos_p0,theta_p0,dx)
+
+physics_constant;
+
+% file_name="input\spectrometer\13943_SR.tiff";
+% data=imread(file_name);
+
+[E0,x]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B,pos_p0,theta_p0,1000);
+E=E0/e;
+pixel=(x-min(x))/dx;
+
+
+%if max(pixel)>=size(data,2)
+%    p_x=0:size(data,2)-1;
+%else
+%    p_x=0:max(pixel);
+%end
+p_x=0:max(pixel)-1;
+
+
+%{
++[保存M函数](,spectrum)
+%}
+
+E_x=interp1(pixel,E,p_x,'spline');
+dE_x=interp1(pixel,E,p_x+0.5,'spline')-interp1(pixel,E,p_x-0.5,'spline');
+
+I=sum(data);
+% max(p_x)-fix(max(p_x))
+% I(1+max(p_x))
+p_x=int32(p_x);
+
+S=I(p_x+1)./dE_x;
+
+end
+## end
+#763, 1294:
+%{
++[M函数](,标尺互逆)
+%}
+
+physics_constant;
+addpath('Matlab\spectrometer');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell/1e-2;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0]/1e-2;
+siz_m0=diff(Ma)/1e-2;
+pos_p0=pos_p/1e-2;
+theta_p0=0;
+bd_0=pos_p/1e-2-[0,0.2]/1e-2;
+bd_1=pos_p/1e-2+[0,0.2]/1e-2;
+dx=50e-6;
+
+[E_x,x]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,1000);
+x=x+pos_p(2);
+
+%{
++[M函数](,标尺互逆)
+%}
+
+% spectrum2IP
+N1=8000;
+
+t_0=theta_e;
+z_o=Cell(1);
+x_o=Cell(2);
+D=diff(Ma);
+z_m=mean(Ma);
+z_i=pos_p(1);
+x_i=linspace(-0.2,0.2,N1)+pos_p(2);
+E=B0*e*c*D*(z_i-z_m)./(x_i-x_o-t_0*(z_i-z_o));
+
+plot(x,E_x,x_i,E,'--')
+
+
+%{
++[M函数](,标尺互逆)
+%}
+## end
+#766, 1957:
+%{
++[M函数](,spectrum拆解)
+%}
+
+
+physics_constant;
+addpath('Matlab\spectrometer');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+% data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell/1e-2;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0]/1e-2;
+siz_m0=diff(Ma)/1e-2;
+pos_p0=pos_p/1e-2;
+theta_p0=0;
+bd_0=pos_p/1e-2-[0,0.2]/1e-2;
+bd_1=pos_p/1e-2+[0,0.2]/1e-2;
+dx=50e-6;
+
+B=-B0;
+[E0,x,x0,y0]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B,pos_p0,theta_p0,1000);
+E=E0/e;
+p_x0=x(E==min(E));
+if p_x0==min(x)
+    pixel=abs(x-p_x0)/dx;
+    p_x=0:max(pixel)-1;
+else
+    pixel=abs(x-p_x0)/dx;
+    pixel=7999-pixel;
+    p_x=min(pixel):7999;
+end
+
+E_x=interp1(pixel,E,p_x,'spline');
+dE_x=interp1(pixel,E,p_x+0.5,'spline')-interp1(pixel,E,p_x-0.5,'spline');
+
+I=sum(data_im);
+p_x=int32(p_x);
+
+S=abs(I(p_x+1)./dE_x);
+E=E_x
+
+
+%{
++[M函数](,spectrum拆解)
+%}
+
+% spectrum2IP
+N1=8000;
+
+t_0=theta_e;
+z_o=Cell(1);
+x_o=Cell(2);
+D=diff(Ma);
+z_m=mean(Ma);
+z_i=pos_p(1);
+x_i=linspace(-0.2,0.2,N1)+pos_p(2);
+[I0,E0]=spectrum2IP(E,S,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+I=sum(data_im);
+
+%I0=I0/trapz(x_i,I0);
+%I=I/trapz(x_i,I);
+
+I0=I0/max(I0);
+I=I/max(I);
+
+size(x)
+[E_x,x]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,1000);
+subplot(1,2,1)
+plot(x+pos_p(2),E_x/max(E0),x_i,E0/max(E0),'--',x_i,I0*0.88,x_i-pos_p(2),I)
+subplot(1,2,2)
+plot(x_i,I0*0.88,x_i,I,'--')
+
+%{
++[M函数](,spectrum拆解)
+%}
+## end
+#769, 515:
+%{
+地址::Matlab\funcs\u_substitution.m
++[保存M函数](,u_substitution)
+
+测试(M函数):...
+测试2(M函数):...
++[新建阅读窗口](,测试2)
+%}
+
+function [F1,dYdX]=u_substitution(x0,f0,x01,y01,y1)
+
+y0=interp1(x01,y01,x0,'spline');
+x1=interp1(y01,x01,y1,'spline');
+dydx=[1,diff(y0)./diff(x0)];
+F0=abs(f0./dydx);
+%F0=abs(f0);
+
+F1=interp1(y0,F0,y1,'spline');
+F1(y1>max(y01)|y1<min(y01))=0;
+F1(y1>max(y0)|y1<min(y0))=0;
+F1(x1>max(x0)|x1<min(x0))=0;
+dYdX=interp1(y0,dydx,y1,'spline');
+
+end
+
+%{
+地址::Matlab\funcs\u_substitution.m
++[保存M函数](,u_substitution)
+%}
+## end
+#772, 29:
+Matlab\funcs\u_substitution.m
+## end
+#777, 2015:
+%{
++[M函数](,测试)
+%}
+
+
+physics_constant;
+addpath('Matlab\spectrometer');
+addpath('Matlab\funcs');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell/1e-2;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0]/1e-2;
+siz_m0=diff(Ma)/1e-2;
+pos_p0=pos_p/1e-2;
+theta_p0=0;
+bd_0=pos_p/1e-2-[0,0.2]/1e-2;
+bd_1=pos_p/1e-2+[0,0.2]/1e-2;
+dx=50e-6;
+
+[E_x,x]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,1000);
+[S,E,p_x,~,I1]=spectrum(data_im,bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,dx);
+E=E*e;
+
+%{
++[M函数](,互逆测试)
+%}
+
+% spectrum2IP
+N1=8000;
+
+t_0=theta_e;
+z_o=Cell(1);
+x_o=Cell(2);
+D=diff(Ma);
+z_m=mean(Ma);
+z_i=pos_p(1);
+x_i=linspace(-0.2,0.2,N1)+pos_p(2);
+[I0,E0]=spectrum2IP(E,S,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+I=sum(data_im);
+
+
+%I0=I0/trapz(x_i,I0);
+%I=I/trapz(x_i,I);
+
+I0=I0/max(I0);
+I1=I1/max(I1);
+I=I/max(I);
+
+x0=x_i;
+x1=x+pos_p(2);
+
+%plot(x1,E_x/max(E0),x0,E0/max(E0),'--')
+%plot(x1,E_x/max(E0),x0,E0/max(E0),'--',x0,I0)
+
+% transform
+f0=I;
+x0=x0;
+y01=E0;
+x01=x0;
+y1=linspace(E0(end)/e/1e9,20,100000)*1e9*e;
+
+F1=u_substitution(x0,f0,x01,y01,y1);
+[f2,dydx]=u_substitution(y1,F1,y01,x01,x0);
+
+%plot(x0,f0)
+%plot(y0/e/1e9,F0)
+subplot(1,2,1)
+plot(y1/e/1e9,F1)
+subplot(1,2,2)
+plot(x0,f2,x0,f0,'--')
+axis([-0.2,0.2,0,1])
+
+figure
+subplot(1,2,1)
+plot(x0,dydx,x0,[1,diff(x01)./diff(y01)])
+axis([-0.2,0.2,-1e10,1])
+
+subplot(1,2,2)
+plot(x01,y01)
+
+%{
++[M函数](,测试)
+%}
+## end
+#780, 1742:
+%{
++[M函数](,互逆测试)
+
+Nini, 打开阴影形状的IP_ATM(节点)
+
+标尺互逆(M函数):...
++[新建阅读窗口](,标尺互逆)
+spectrum拆解(M函数):...
+(不好搞, 因为变量的问题...)
+u_substitution(M函数):...
++[新建阅读窗口](,u_substitution)
+%}
+
+
+physics_constant;
+addpath('Matlab\spectrometer');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0];
+siz_m0=diff(Ma);
+pos_p0=pos_p;
+theta_p0=0;
+bd_0=pos_p-[0,0.2];
+bd_1=pos_p+[0,0.2];
+dx=50e-6;
+
+[E_x,x]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,1000);
+[S,E,p_x,~,I1]=spectrum(data_im,bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,dx);
+E=E*e;
+
+%{
++[M函数](,互逆测试)
+%}
+
+% spectrum2IP
+N1=8000;
+
+t_0=theta_e;
+z_o=Cell(1);
+x_o=Cell(2);
+D=diff(Ma);
+z_m=mean(Ma);
+z_i=pos_p(1);
+x_i=linspace(-0.2,0.2,N1)+pos_p(2);
+[I0,E0]=spectrum2IP(E,S,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+I=sum(data_im);
+
+%I0=I0/trapz(x_i,I0);
+%I=I/trapz(x_i,I);
+
+I0=I0/max(I0);
+I1=I1/max(I1);
+I=I/max(I);
+
+x0=x_i;
+x1=x+pos_p(2);
+
+subplot(1,2,1)
+plot(x+pos_p(2),E_x/max(E0),x_i,E0/max(E0),'--',x_i,I0*0.88,x_i-pos_p(2),I)
+subplot(1,2,2)
+plot(x_i,I0*0.88,x_i,I,x_i,I1)
+
+
+
+%{
++[M函数](,存档_暴露问题)
+
+
+%}
+## end
+#782, 2036:
+%{
++[M函数](,互逆测试)
+x0
+Nini, 打开阴影形状的IP_ATM(节点)
+
+标尺互逆(M函数):...
+(问题不在于spectrum_x)
++[新建阅读窗口](,标尺互逆)
+spectrum拆解(M函数):...
+(不好搞, 因为变量的问题...)
+u_substitution(M函数):...
++[新建阅读窗口](,u_substitution)
+
+存档_暴露问题:...
+存档_检测1:...
+(问题不在于spectrum2IP)
+%}
+
+
+physics_constant;
+addpath('Matlab\spectrometer');
+addpath('Matlab\funcs');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0];
+siz_m0=diff(Ma);
+pos_p0=pos_p;
+theta_p0=0;
+bd_0=pos_p-[0,0.2];
+bd_1=pos_p+[0,0.2];
+dx=50e-6;
+
+[E_x,x]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,1000);
+[S,E,p_x,~,I1]=spectrum(data_im,bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,dx);
+E=E*e;
+
+%{
++[M函数](,互逆测试)
+%}
+
+% spectrum2IP
+N1=8000;
+
+t_0=theta_e;
+z_o=Cell(1);
+x_o=Cell(2);
+D=diff(Ma);
+z_m=mean(Ma);
+z_i=pos_p(1);
+x_i=linspace(-0.2,0.2,N1)+pos_p(2);
+[I0,E0]=spectrum2IP(E,S,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+
+%I0=I0/trapz(x_i,I0);
+%I=I/trapz(x_i,I);
+
+x0=x_i;
+x1=x+pos_p(2);
+
+% transform
+f0=I1;
+x0=x0;
+y01=E0;
+x01=x0;
+y1=linspace(E0(end)/e/1e9,20,100000)*1e9*e;
+S1=u_substitution(x0,f0,x01,y01,y1);
+
+[I2,E2]=spectrum2IP(y1,S1,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+
+
+I0=I0/max(I0);
+I1=I1/max(I1);
+I2=I2/max(I2);
+S=S/max(S);
+S1=S1/max(S1);
+
+
+subplot(1,2,1)
+% plot(x+pos_p(2),E_x/max(E0),x_i,E0/max(E0),'--',x_i,I0,x_i,I1)
+plot(E,S,y1,S1,'--')
+subplot(1,2,2)
+plot(x_i,I0,x_i,I1,x_i,I2,'--')
+
+
+
+%{
++[M函数](,存档_检测1)
+%}
+## end
+#785, 816:
+%{
++[M函数](,spectrum_x)
+Nini, 打开能谱仪原理的trajectory_fiducial(节点)
+
+地址::Matlab\spectrometer\spectrum_x.m
++[保存M函数](,spectrum_x)
+
+测试:...
+存档_单位1:
+%}
+
+function [E0,y,x0,y0]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B,pos_p0,theta_p0,N)
+
+physics_constant;
+
+x_f=[bd_0(1),bd_1(1)]*1e-2;
+y_f=[bd_0(2),bd_1(2)]*1e-2;
+xe=pos_s(1)*1e-2;
+ye=pos_s(2)*1e-2;
+pos_m=pos_m0(1:2)*1e-2;
+siz_m=siz_m0*1e-2;
+pos_p=pos_p0(1:2)*1e-2;
+theta_p=theta_p0(1);
+
+E_bd = trajectory_fiducial(x_f,y_f,xe,ye,theta_e,pos_m(1:2),siz_m,B);
+
+
+E0=linspace(E_bd(1),E_bd(2),N);
+xe1=pos_s(1)*1e-2*ones(size(E0));
+ye1=pos_s(2)*1e-2*ones(size(E0));
+theta=theta_e*ones(size(E0));
+
+[x0,y0] = trajectory_uniform(xe1,ye1,theta,E0,pos_m(1:2),siz_m,B,pos_p(1:2),theta_p);
+y=-sind(theta_p)*(x0-pos_p(1))+cosd(theta_p)*(y0-pos_p(2));
+
+end
+
+%{
++[保存M函数](,spectrum_x)
+%}
+## end
+#787, 1229:
+
+physics_constant;
+addpath('Matlab\spectrometer');
+addpath('Matlab\funcs');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0];
+siz_m0=diff(Ma);
+pos_p0=pos_p;
+theta_p0=0;
+bd_0=pos_p-[0,0.2];
+bd_1=pos_p+[0,0.2];
+dx=50e-6;
+
+
+x_f=[bd_0(1),bd_1(1)];
+y_f=[bd_0(2),bd_1(2)];
+xe=pos_s(1);
+ye=pos_s(2);
+pos_m=pos_m0(1:2);
+siz_m=siz_m0;
+pos_p=pos_p0(1:2);
+theta_p=theta_p0(1);
+
+E_bd = trajectory_fiducial(x_f,y_f,xe,ye,theta_e,pos_m(1:2),siz_m,B0);
+E_bd/e
+[x0,y0] = trajectory_uniform(xe,ye,theta_e,E_bd,pos_m(1:2),siz_m,B0,pos_p(1:2),theta_p);
+y_f
+y0
+
+## end
+#789, 1703:
+%{
++[M函数](,互逆测试)
+x0
+Nini, 打开阴影形状的IP_ATM(节点)
+
+标尺互逆(M函数):...
++[新建阅读窗口](,标尺互逆)
+spectrum拆解(M函数):...
+(不好搞, 因为变量的问题...)
+u_substitution(M函数):...
++[新建阅读窗口](,u_substitution)
+
+存档_暴露问题:...
+存档_检测1:...
+(问题不在于spectrum2IP)
+(所以问题是, spectrum_x的x起点不是从IP的边缘开始的)
+%}
+
+
+physics_constant;
+addpath('Matlab\spectrometer');
+addpath('Matlab\funcs');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0];
+siz_m0=diff(Ma);
+pos_p0=pos_p;
+theta_p0=0;
+bd_0=pos_p-[0,0.2];
+bd_1=pos_p+[0,0.2];
+dx=50e-6;
+
+
+x_f=[bd_0(1),bd_1(1)];
+y_f=[bd_0(2),bd_1(2)];
+xe=pos_s(1);
+ye=pos_s(2);
+pos_m=pos_m0(1:2);
+siz_m=siz_m0;
+pos_p=pos_p0(1:2);
+theta_p=theta_p0(1);
+
+E_bd = trajectory_fiducial(x_f,y_f,xe,ye,theta_e,pos_m(1:2),siz_m,B0);
+[x0,y0] = trajectory_uniform(xe,ye,theta_e,E_bd,pos_m(1:2),siz_m,B0,pos_p(1:2),theta_p);
+y_f
+y0
+
+[E_x,x,tmpx,tmpy]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B0,pos_p0,theta_p0,1000);
+[S,E,p_x,~,I1]=spectrum(data_im,bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B0,pos_p0,theta_p0,dx);
+E=E*e;
+
+y_f
+min(tmpy)
+
+%{
++[M函数](,存档_边缘互逆)
+%}
+
+## end
+#791, 1231:
+
+physics_constant;
+addpath('Matlab\spectrometer');
+addpath('Matlab\funcs');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0];
+siz_m0=diff(Ma);
+pos_p0=pos_p;
+theta_p0=0;
+bd_0=pos_p-[0,0.2];
+bd_1=pos_p+[0,0.2];
+dx=50e-6;
+
+
+x_f=[bd_0(1),bd_1(1)];
+y_f=[bd_0(2),bd_1(2)];
+xe=pos_s(1);
+ye=pos_s(2);
+pos_m=pos_m0(1:2);
+siz_m=siz_m0;
+pos_p=pos_p0(1:2);
+theta_p=theta_p0(1);
+
+E_bd = trajectory_fiducial(x_f,y_f,xe,ye,theta_e,pos_m(1:2),siz_m,-B0);
+E_bd/e
+[x0,y0] = trajectory_uniform(xe,ye,theta_e,E_bd,pos_m(1:2),siz_m,-B0,pos_p(1:2),theta_p);
+y_f
+y0
+
+## end
+#793, 36:
+Nini, 打开能谱仪原理的trajectory_uniform(节点)
+## end
+#798, 837:
+%{
++[M函数](,迭代方法)
+
+反向验证(M函数):...
++[新建阅读窗口](,反向验证)
+
+trajectory_fiducial(M函数):...
+trajectory_fiducial的"tand"替换为"tan"
+trajectory_fiducial的"cosd"替换为"cos"
+trajectory_fiducial的"sind"替换为"sin"
+(20220320将发射角的单位改为rad. 见能谱仪校正)
+
+正数磁场:...
+%}
+
+
+addpath('Matlab\spectrometer');
+physics_constant;
+
+% electron
+xs=0;
+ys=0;
+theta_e=1;
+E=10e9*e;
+
+% magnet
+pos_m=[5,0];
+siz_m=[5,5];
+B=1.2;
+
+% fiducial
+y_f=-2:-1:-4;
+x_f=25*ones(size(y_f));
+
+% IP
+pos_p=[40,0];
+theta_p=10;
+
+E=trajectory_fiducial(x_f,y_f,xs,ys,theta_e,pos_m,siz_m,B,pos_p,theta_p);
+xs=xs*ones(size(E));
+ys=ys*ones(size(E));
+theta_e=theta_e*ones(size(E));
+
+[x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m] = trajectory_uniform(xs,ys,theta_e,E,pos_m,siz_m,B,pos_p,theta_p);
+
+% Trajectory
+[X,Y]=trajectory_XY(xs,ys,theta_e,x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m);
+
+plot(X',Y',x_f,y_f,'r*')
+
+
+%{
+theta
++[M函数](,迭代方法)
+%}
+## end
+#800, 630:
+%{
+测试(M函数):...
+折线轨迹对比(M函数):...
++[新建阅读窗口](,测试)
+%}
+
+
+function [S,E_x,p_x,dE_x,I]=spectrum(data,bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B,pos_p0,theta_p0,dx)
+
+physics_constant;
+[E0,x,x0,y0]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,B,pos_p0,theta_p0,1000);
+E=E0/e;
+p_x0=x(E==min(E));
+if p_x0==min(x)
+    pixel=abs(x-p_x0)/dx;
+    p_x=0:max(pixel)-1;
+else
+    pixel=abs(x-p_x0)/dx;
+    pixel=7999-pixel;
+    p_x=min(pixel):7999;
+end
+
+E_x=interp1(pixel,E,p_x,'spline');
+dE_x=interp1(pixel,E,p_x+0.5,'spline')-interp1(pixel,E,p_x-0.5,'spline');
+
+I=sum(data);
+p_x=int32(p_x);
+
+S=abs(I(p_x+1)./dE_x);
+
+end
+
+
+%{
++[保存M函数](,spectrum)
+%}
+## end
+#803, 2258:
+%{
++[M函数](,测试)
+
+Nini, 打开能谱仪原理的trajectory_fiducial(节点)
+Nini, 打开阴影形状的IP_ATM(节点)
+
+标尺互逆(M函数):...
++[新建阅读窗口](,标尺互逆)
+spectrum拆解(M函数):...
+(不好搞, 因为变量的问题...)
+u_substitution(M函数):...
++[新建阅读窗口](,u_substitution)
+
+存档_暴露问题:...
+存档_检测1:...
+(问题不在于spectrum2IP)
+(所以问题是, spectrum_x的x起点不是从IP的边缘开始的)
+存档_边缘互逆:...
+(问题是, spectrum输入的磁场是-B0. 这个造成了边缘问题)
+
+%}
+
+
+physics_constant;
+addpath('Matlab\spectrometer');
+addpath('Matlab\funcs');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0];
+siz_m0=diff(Ma);
+pos_p0=pos_p;
+theta_p0=0;
+bd_0=pos_p-[0,0.2];
+bd_1=pos_p+[0,0.2];
+dx=50e-6;
+
+
+x_f=[bd_0(1),bd_1(1)];
+y_f=[bd_0(2),bd_1(2)];
+xe=pos_s(1);
+ye=pos_s(2);
+pos_m=pos_m0(1:2);
+siz_m=siz_m0;
+pos_p=pos_p0(1:2);
+theta_p=theta_p0(1);
+
+E_bd = trajectory_fiducial(x_f,y_f,xe,ye,theta_e,pos_m(1:2),siz_m,-B0);
+[x0,y0] = trajectory_uniform(xe,ye,theta_e,E_bd,pos_m(1:2),siz_m,-B0,pos_p(1:2),theta_p);
+
+
+[E_x,x,tmpx,tmpy]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,1000);
+[S,E,p_x,~,I1]=spectrum(data_im,bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,dx);
+E=E*e;
+
+y_f
+min(tmpy)
+
+%{
++[M函数](,互逆测试)
+%}
+
+% spectrum2IP
+N1=8000;
+
+t_0=theta_e;
+z_o=Cell(1);
+x_o=Cell(2);
+D=diff(Ma);
+z_m=mean(Ma);
+z_i=pos_p(1);
+x_i=linspace(-0.2,0.2,N1)+pos_p(2);
+[I0,E0]=spectrum2IP(E,S,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+I=sum(data_im);
+
+%I0=I0/trapz(x_i,I0);
+%I=I/trapz(x_i,I);
+
+I0=I0/max(I0);
+I1=I1/max(I1);
+I=I/max(I);
+
+x0=x_i;
+x1=x+pos_p(2);
+
+subplot(1,2,1)
+plot(x+pos_p(2),E_x/max(E0),x_i,E0/max(E0),'--',x_i,I0,x_i-pos_p(2),I,'--')
+subplot(1,2,2)
+plot(x_i,I0,x_i,I,x_i,I1,'--')
+
+
+%{
++[M函数](,测试)
+%}
+## end
+#806, 2036:
+%{
++[M函数](,互逆测试)
+x0
+Nini, 打开阴影形状的IP_ATM(节点)
+
+标尺互逆(M函数):...
+(问题不在于spectrum_x)
++[新建阅读窗口](,标尺互逆)
+spectrum拆解(M函数):...
+(不好搞, 因为变量的问题...)
+u_substitution(M函数):...
++[新建阅读窗口](,u_substitution)
+
+存档_暴露问题:...
+存档_检测1:...
+(问题不在于spectrum2IP)
+%}
+
+
+physics_constant;
+addpath('Matlab\spectrometer');
+addpath('Matlab\funcs');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0];
+siz_m0=diff(Ma);
+pos_p0=pos_p;
+theta_p0=0;
+bd_0=pos_p-[0,0.2];
+bd_1=pos_p+[0,0.2];
+dx=50e-6;
+
+[E_x,x]=spectrum_x(bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,1000);
+[S,E,p_x,~,I1]=spectrum(data_im,bd_0,bd_1,pos_s,theta_e,pos_m0,siz_m0,-B0,pos_p0,theta_p0,dx);
+E=E*e;
+
+%{
++[M函数](,互逆测试)
+%}
+
+% spectrum2IP
+N1=8000;
+
+t_0=theta_e;
+z_o=Cell(1);
+x_o=Cell(2);
+D=diff(Ma);
+z_m=mean(Ma);
+z_i=pos_p(1);
+x_i=linspace(-0.2,0.2,N1)+pos_p(2);
+[I0,E0]=spectrum2IP(E,S,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+
+%I0=I0/trapz(x_i,I0);
+%I=I/trapz(x_i,I);
+
+x0=x_i;
+x1=x+pos_p(2);
+
+% transform
+f0=I1;
+x0=x0;
+y01=E0;
+x01=x0;
+y1=linspace(E0(end)/e/1e9,20,100000)*1e9*e;
+S1=u_substitution(x0,f0,x01,y01,y1);
+
+[I2,E2]=spectrum2IP(y1,S1,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+
+
+I0=I0/max(I0);
+I1=I1/max(I1);
+I2=I2/max(I2);
+S=S/max(S);
+S1=S1/max(S1);
+
+
+subplot(1,2,1)
+% plot(x+pos_p(2),E_x/max(E0),x_i,E0/max(E0),'--',x_i,I0,x_i,I1)
+plot(E,S,y1,S1,'--')
+subplot(1,2,2)
+plot(x_i,I0,x_i,I1,x_i,I2,'--')
+
+
+
+%{
++[M函数](,存档_检测1)
+%}
+## end
+#809, 1592:
+%{
++[M函数](,测试2)
+%}
+
+
+physics_constant;
+addpath('Matlab\spectrometer');
+addpath('Matlab\funcs');
+clf
+
+ratio=0.01;
+dr_e=[0,0];
+dr_m=[35e-3,0];
+dr_f1=[0,0];
+dr_f2=[0,0];
+% dr_p=[0,-0.42e-3];
+dr_p=[0,-0.42e-3];
+pt0=[120.9 ,0]*1e-2;
+Dtheta=-0.00;
+
+[a,Fn,es,theta,energy]=scan_spectrometer_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+am=mean(a);
+[px,px0]=expected_shadows_13975(am,dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+
+a_m=(max(a)+min(a))/2;
+Da=max(a)-min(a);
+e_m=(max(es)+min(es))/2;
+De=max(es)-min(es);
+
+Da=Da*1;
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+N1=size(data_im,2);
+
+% spectrum
+[Cell,Ma,B0,Fx,Fy,shX,shY,pos_p]=spectrometer_para_13975(dr_e,dr_m,dr_f1,dr_f2,dr_p,pt0,Dtheta);
+
+pos_s=Cell;
+%theta_e=mean(a);
+theta_e=0;
+pos_m0=[mean(Ma),0];
+siz_m0=diff(Ma);
+pos_p0=pos_p;
+theta_p0=0;
+bd_0=pos_p-[0,0.2];
+bd_1=pos_p+[0,0.2];
+dx=50e-6;
+
+
+t_0=theta_e;
+z_o=Cell(1);
+x_o=Cell(2);
+D=diff(Ma);
+z_m=mean(Ma);
+z_i=pos_p(1);
+x_i=linspace(-0.2,0.2,N1)+pos_p(2);
+E_x=linspace(0.3,20,100000)*1e9*e;
+
+I0=sum(data_im);
+I0(1:4000)=0;
+E=B0*e*c*D*(z_i-z_m)./(x_i-x_o-t_0*(z_i-z_o));
+S=u_substitution(x_i,I0,x_i,E,E_x);
+
+I1=u_substitution(E_x,S,E,x_i,x_i);
+
+trapz(x_i,I0)
+trapz(E_x,S)
+trapz(x_i,I1)
+
+%S=spectrum(I0,E,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+%[I1,E1]=spectrum2IP(E_x,S,t_0,x_o,z_o,B0,D,z_m,x_i,z_i);
+
+
+subplot(1,2,1)
+plot(E_x/e/1e9,S)
+subplot(1,2,2)
+plot(x_i,I0/max(I0),x_i,I1/max(I0),'--')
+%plot(x_i,I0,x_i,I1,'--')
+%plot(x_i,E)
+axis([-0.2,0.2,-0.2,1])
+
+I1(1)
+I1(end)
+
+%{
+clf
++[M函数](,测试2)
+%}
+## end
+#812, 30:
+Nini, 打开能谱仪原理的LaunchAngles(节点)
+## end
+#814, 2014:
+%{
++[M函数](,轨迹测试)
+
+Nini, 打开能谱仪校正的expected_shadows_13975(节点)
+能量对比:...
+%}
+
+physics_constant;
+
+Cell=[-18.32,-0.645,0]*1e-2;
+pos_m=[-1.6,0,-3]*1e-2;
+B0=1.1;
+D=[6.7,5]*1e-2;
+D=D(1);
+pos_f1=[120.9,0,0]*1e-2;
+pos_f2=[171.7,0,0]*1e-2;
+F1=[-6.588760000000001, -4.754880000000002, -3.444240000000002, -2.4384, -1.6014700000000013, -0.8432800000000019, 0.0, 0.7848599999999981]*1e-2;
+F2=[-8.361680000000002, -5.971540000000001, -4.2291, -2.89433, -1.772920000000001, -0.7620000000000018, 0.0, 0.767079999999999]*1e-2;
+pos_p=[265.1,0.1491,0]*1e-2;
+shadows0=[4207, 4264, 4516, 4597, 4862.15428101106, 4961.79896560229, 5272.45584655822, 5400.23550091639, 5808.19261938067, 5967.62411472665, 6540.87398391396, 6764.7814516425];
+
+shadows0=shadows0;
+%{
++[M函数](,轨迹测试)
+%}
+
+Ma=[-1,1]*D/2+pos_m(1);
+Fy=[F1+pos_f1(2);F2+pos_f2(2)];
+Fx=[ones(size(F1))*pos_f1(1);
+    ones(size(F2))*pos_f2(1)];
+
+shadows=4001-shadows0/2;
+shX=ones(size(shadows))*pos_p(1);
+shY=(shadows-2000)*1e-4+pos_p(2);
+[a,Fn,es]=DesignTool2(Cell,Ma,B0,Fx,Fy,shX,shY);
+
+E_f=trajectory_fiducial(Fx,Fy,Cell(1),Cell(2),mean(a),pos_m,D,B0);
+es1=reshape(E_f/e/1e9,1,numel(E_f));
+es1=sort(es1,'descend')';
+es1(isnan(es1))=[];
+a1=mean(a);
+
+
+% image
+file_name="input\spectrometer\data1.tiff";
+data=imread(file_name);
+
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+N1=size(data_im,2);
+
+
+Dx=50e-6;
+% IP
+z_i=pos_p(1);
+x_i=linspace(0.2-Dx,-0.2,N1)+pos_p(2)+Dx*3;
+E_x=linspace(0.29,20,10000)*1e9*e;
+
+Dt=1;
+for i=1:
+%{
++[M函数](,轨迹测试)
+%}
+I0=sum(data_im);
+% S0=spectrum(I0,E_x,a1,x_o,z_o,B0,D,z_m,x_i,z_i);
+S0=spectrum(I0,E_x,a(i),x_o,z_o,B0,D,z_m,x_i,z_i);
+
+
+I_s=interp1(x_i,I0,shY,'spline');
+S_s=interp1(E_x/e/1e9,S0,es,'spline');
+
+subplot(1,2,1)
+plot(E_x/e/1e9,S0,es,S_s,'r*')
+axis([es(i)-0.5,es(i)+0.5,0,S_s(i)*2])
+
+subplot(2,2,2)
+plot(E_x/e/1e9,S0,es,S_s,'r*')
+
+subplot(2,2,4)
+plot(x_i,I0,shY,I_s,'r*')
+% plot(es1,ones(size(es1))*a1,'o',es,a,'*')
+% plot(es1(2:13),es,'o')
+% plot(es1(2:13)-es,'o')
+% axis equal
+
+pause(Dt)
+end
+
+%{
++[M函数](,轨迹测试)
+
+记住轨迹测试(节点)
+%}
+## end
+#817, 1347:
+%{
++[M函数](,轨迹测试)
+
+Nini, 打开能谱仪校正的expected_shadows_13975(节点)
+能量对比:...
+%}
+
+physics_constant;
+
+Cell=[-18.32,-0.645,0]*1e-2;
+pos_m=[-1.6,0,-3]*1e-2;
+B0=1.1;
+D=[6.7,5]*1e-2;
+D=D(1);
+pos_f1=[120.9,0,0]*1e-2;
+pos_f2=[171.7,0,0]*1e-2;
+F1=[-6.588760000000001, -4.754880000000002, -3.444240000000002, -2.4384, -1.6014700000000013, -0.8432800000000019, 0.0, 0.7848599999999981]*1e-2;
+F2=[-8.361680000000002, -5.971540000000001, -4.2291, -2.89433, -1.772920000000001, -0.7620000000000018, 0.0, 0.767079999999999]*1e-2;
+pos_p=[265.1,0.1491,0]*1e-2;
+shadows0=[4207, 4264, 4516, 4597, 4862.15428101106, 4961.79896560229, 5272.45584655822, 5400.23550091639, 5808.19261938067, 5967.62411472665, 6540.87398391396, 6764.7814516425];
+
+
+Ma=[-1,1]*D/2+pos_m(1);
+Fy=[F1+pos_f1(2);F2+pos_f2(2)];
+Fx=[ones(size(F1))*pos_f1(1);
+    ones(size(F2))*pos_f2(1)];
+
+shadows=4001-shadows0/2;
+shX=ones(size(shadows))*pos_p(1);
+shY=(shadows-2000)*1e-4+pos_p(2);
+[a,Fn,es]=DesignTool2(Cell,Ma,B0,Fx,Fy,shX,shY);
+
+E_f=trajectory_fiducial(Fx,Fy,Cell(1),Cell(2),mean(a),pos_m,D,B0);
+es1=reshape(E_f/e/1e9,1,numel(E_f));
+es1=sort(es1,'descend')';
+es1(isnan(es1))=[];
+a1=mean(a);
+
+subplot(1,2,1)
+plot(Cell(1),Cell(2),'bo',Fx,Fy,'ro',shX,shY,'r*')
+subplot(1,2,2)
+% plot(es1,ones(size(es1))*a1,'o',es,a,'*')
+% plot(es1(2:13),es,'o')
+plot(es1(2:13)-es,'o')
+
+% axis equal
+
+
+%{
++[M函数](,轨迹测试)
+%}
+## end
+#825, 121:
+
+Nini, 打开词典的计算能谱(节点)
+Nini, 打开能谱仪校正的calibrationIP(节点)
+Nini, 打开能谱仪校正的DesignTool2(节点)
+Nini, 打开能谱仪原理的spectrum(节点)
+
+main:...
+
+
+## end
+#827, 2502:
+%{
+记住"Matlab"
++[M函数](,main)
+地址::Matlab\output\spectrometer\main.m
+创建"Matlab\output\spectrometer"
++[保存M函数](,main)
+%}
+
+physics_constant;
+addpath('Matlab\spectrometer');
+addpath('Matlab\funcs');
+
+shadow0=8001-e_shadows
+X_shadows0=8001-X_shadows
+
+Cell0=Cell00+[dCell_0,0];
+IP=IP0+[dIP_0,0];
+
+shadow=4001-shadow0/2;
+Cell=Cell0(1:2)*1e-2;
+Ma=[-1/2,1/2]*size_m(1)+pos_m(1);
+Ma=Ma*1e-2;
+Fx1=pos_f1(1)*1e-2;
+Fx2=pos_f2(1)*1e-2;
+Fy1=pos_f1(2)*1e-2;
+Fy2=pos_f2(2)*1e-2;
+IPx=IP(1)*1e-2;
+IPy=IP(2)*1e-2;
+
+shX=IPx*ones(size(shadow));
+shY=(shadow-2000)*1e-4+IPy;
+
+Fy=[f_1*1e-2+Fy1;f_2*1e-2+Fy2];
+Fx=[Fx1*ones(size(f_1));Fx2*ones(size(f_2))];
+
+% calibration
+ys=(4000-X_shadows0)*50e-6+IPy;
+xs=IPx*ones(size(ys));
+xo=Cell(1);
+yo=Cell(2);
+
+[xo3,yo3,ys3,I,J,f1,f2,xf,yf]=calibrationIP(xo,yo,10e-3,10e-3,Fx,Fy,xs,ys,20);
+dIPy=mean(ys3-ys);
+
+
+% launch angle
+Cell=[xo3,yo3,0];
+shY=shY+dIPy;
+[a,Fn,es,theta,energy]=DesignTool2(Cell,Ma,B0,Fx,Fy,shX,shY);
+
+
+% image
+data=imread(file_name);
+data_im=[zeros(4000,2500),data(:,end:-1:1)];
+data_im=double(data_im);
+
+% spectrum
+pos_m0=[mean(Ma),0];
+siz_m0=diff(Ma);
+dx=50e-6;
+a0=mean(a);
+
+
+z_i=IPx;
+% x_i=linspace(-0.2,0.2,8000)+IPy+dIPy;
+% x_i=interp1(shadow0,shY,1:8000);
+A=polyfit(shadow0,shY,1);
+x_i=A(1)*(1:8000)+A(2);
+x_i=-x_i;
+E=linspace(0.29,20,10000)*1e9*e;
+I0=trapz(data_im);
+% I0=I0(end:-1:1);
+
+S=spectrum(I0,E,-a0,Cell(2),Cell(1),-B0,siz_m0,pos_m0(1),x_i,z_i);
+E_range=E(S<max(S)*1e-3);
+% E_range0=min(E_range);
+E_range0=5e9*e;
+S_c=S/4.1e-3*e*e*1e9;
+
+%{
+记住"Matlab"
++[M函数](,M代码)
+%}
+
+figure
+subplot(2,2,1)
+x=xo-0.05*ones(1,length(I));
+y=ys3(J)+(x-xs(J)).*(yf(I)-ys3(J))./(xf(I)-xs(J));
+plot(xo,yo,'o',xo3,yo3,'o',xf,yf,'o',xs,ys3,'o'...
+    ,[xs(J(f1));x(f1)],[ys3(J(f1));y(f1)],'r'...
+    ,[xs(J(f2));x(f2)],[ys3(J(f2));y(f2)],'b')
+
+xlabel('x [m]')
+ylabel('y [m]')
+title('X-rays calibration')
+
+subplot(2,2,2)
+plot(es,a/1e-3,'o-')
+xlabel('E [GeV]')
+ylabel('\theta [mrad]')
+title('Fiducial launch angles');
+
+subplot(2,1,2)
+plot(E/e/1e9,S_c/1e-12);
+xlabel('E [GeV]')
+ylabel('Density [pC/GeV]')
+axis([0,1*E_range0/e/1e9,0,1.2*max(S_c/1e-12)])
+title(sprintf('No.%d',no_))
+
+
+%{
+subplot(2,2,4)
+xs1=-shY;
+yI1=interp1(x_i,I0,xs1);
+
+plot(x_i,I0,xs1,yI1,'o');
+%}
+
+if ~exist("data_no")
+    data_no=[];
+    data_energy=[];
+    data_spectrum=[];
+end
+
+if sum(data_no==no_)
+    data_energy(data_no==no_)=E(E<5e9*e)/e/1e9;
+    data_spectrum(data_no==no_)=S_c(E<5e9*e);
+else
+    data_no(end+1)=no_;
+    data_energy(end+1,:)=E(E<5e9*e)/e/1e9;
+    data_spectrum(end+1,:)=S_c(E<5e9*e);
+end
+
+
+
+
+## end
+#829, 33:
+Matlab\output\spectrometer\main.m
+## end
+#835, 105:
+\theta=\frac{1}{2}\ \left(arctan(\frac{y_{m1}-y_{s}}{x_{m1}-x_{s}})+arcsin(sin(\beta)+\frac{D}{R})\right)
+## end
+#838, 85:
+\theta=\frac{1}{2}*(arctan(\frac{y_m1-y_s}{x_m1-x_s})+arcsin(sin(\beta)+\frac{D}{R}))
+## end
+#843, 50:
+y_{m2}=y_{i}-tan(\beta)\ \left(x_{i}-x_{m2}\right)
+## end
+#845, 45:
+\Delta=R\ \left(cos(\beta)-cos(\theta)\right)
+## end
+#847, 20:
+y_{m1}=y_{m2}-\Delta
+## end
+#850, 30:
+y_m2=y_i-tan(\beta)*(x_i-x_m2)
+## end
+#854, 33:
+\Delta=R*(cos(\beta)-cos(\theta))
+## end
+#858, 16:
+y_m1=y_m2-\Delta
+## end
+#863, 37:
+\theta=arcsin(sin(\beta)+\frac{D}{R})
+## end
+#864, 37:
+\theta=arcsin(sin(\beta)+\frac{D}{R})
+## end
+#868, 60:
+\Delta y=y_{m1}-tan(\theta)\ \left(x_{m1}-x_{s}\right)-y_{s}
+## end
+#870, 64:
+\beta\ _{n+1}=\beta\ _{n}+0.9\ \Delta y/\left(x_{i}-x_{s}\right)
+## end
+#872, 51:
+y_{m1}=y_{s}-tan(\theta)\ \left(x_{s}-x_{m1}\right)
+## end
+#874, 34:
+R=\frac{D}{sin(\theta)-sin(\beta)}
+## end
+#875, 40:
+\Delta y=y_m1-tan(\theta)*(x_m1-x_s)-y_s
+## end
+#878, 42:
+\beta[n+1]=\beta[n]+0.9*\Delta y/(x_i-x_s)
+## end
+#881, 31:
+y_m1=y_s-tan(\theta)*(x_s-x_m1)
+## end
+#884, 34:
+R=\frac{D}{sin(\theta)-sin(\beta)}
+## end
+#888, 45:
+\Delta=R\ \left(cos(\beta)-cos(\theta)\right)
+## end
+#889, 33:
+\Delta=R*(cos(\beta)-cos(\theta))
+## end
+#893, 20:
+y_{m2}=y_{m1}+\Delta
+## end
+#894, 16:
+y_m2=y_m1+\Delta
+## end
+#897, 35:
+Matlab\spectrometer\trajectory_fs.m
+## end
+#900, 563:
+%{
+地址::Matlab\spectrometer\trajectory_fs.m
++[保存M函数](,trajectory_fs)
+%}
+
+function [E,theta,R,y_m1,y_m2,beta]=trajectory_fs(x_s,y_s,x_m,D,B,x_f,y_f,x_i,y_i)
+physics_constant;
+
+theta=0;
+x_m1=x_m-D/2;
+x_m2=x_m+D/2;
+
+
+beta=atan((y_i-y_f)./(x_i-x_f));
+y_m2=y_i-tan(beta).*(x_i-x_m2);
+
+R=10*D;
+theta=asin(D./R+sin(beta));
+for i=1:100
+    Delta=R.*(cos(beta)-cos(theta));
+    y_m1=y_m2-Delta;
+    theta=(atan((y_m1-y_s)./(x_m1-x_s))+asin(D./R+sin(beta)))/2;
+    R=(D)./(sin(theta)-sin(beta));
+end
+
+E=sqrt(R.^2*B^2*c^2*e^2+me^2*c^4);
+end
+
+
+%{
+R
+beta
+theta
++[M函数](,验证公式)
+%}
+## end
+#906, 571:
+%{
++[M函数](,验证公式)
+trajectory_fs(M函数):...
+trajectory_ft(M函数):...
+将条目"trajectory_fs"复制为条目"trajectory_ft"
+记住trajectory_fs(节点)
+%}
+
+addpath('Matlab\spectrometer');
+physics_constant;
+
+% electron
+x_s=0;
+y_s=0;
+
+% magnet
+x_m=5;
+D=5;
+B=1.2;
+
+% fiducial
+y_f=-2;
+x_f=25;
+
+% IP
+x_i=40;
+y_i=-5;
+
+
+x_m1=x_m-D/2;
+x_m2=x_m+D/2;
+
+
+[E,theta,R,y_m1,y_m2,beta]=trajectory_fs(x_s,y_s,x_m,D,B,x_f,y_f,x_i,y_i);
+% Trajectory
+[X,Y]=trajectory_XY(x_s,y_s,theta/pi*180,x_i,y_i,R,beta/pi*180,x_m1,y_m1,x_m2,y_m2);
+
+figure
+plot(X',Y','.-',x_f,y_f,'r*')
+axis equal
+
+
+%{
+E/e
+beta
+theta
++[M函数](,验证公式)
+%}
+## end
+#908, 719:
+%{
+地址::Matlab\spectrometer\trajectory_ft.m
++[保存M函数](,trajectory_ft)
+
+保存:...
+%}
+
+function [theta,beta]=trajectory_ft(x_s,y_s,E,x_m,D,B,x_i,y_i)
+physics_constant;
+
+x_m1=x_m-D/2;
+x_m2=x_m+D/2;
+
+
+R=(sqrt(E.^(2)./c.^(2)-m_e.^(2).*c.^(2)))./(e.*B)
+
+beta=atan((y_i-y_s)./(x_i-x_s));
+theta=beta;
+
+for i=1:9
+
+    y_m2=y_i-tan(beta).*(x_i-x_m2);
+    Delta=R.*(cos(beta)-cos(theta));
+    y_m1=y_m2-Delta;
+%    theta=atan((y_m1-y_s)./(x_m1-x_s));
+    theta=(1)./(2).*(atan((y_m1-y_s)./(x_m1-x_s))+asin(sin(beta)+(D)./(R)));
+    
+    y_m1=y_s-tan(theta).*(x_s-x_m1);
+    Delta=R.*(cos(beta)-cos(theta));
+    y_m2=y_m1+Delta;
+    beta=(1)./(2).*(atan((y_m2-y_i)./(x_m2-x_i))+asin(sin(theta)-(D)./(R)))
+
+end
+
+end
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#909, 719:
+%{
+地址::Matlab\spectrometer\trajectory_ft.m
++[保存M函数](,trajectory_ft)
+
+保存:...
+%}
+
+function [theta,beta]=trajectory_ft(x_s,y_s,E,x_m,D,B,x_i,y_i)
+physics_constant;
+
+x_m1=x_m-D/2;
+x_m2=x_m+D/2;
+
+
+R=(sqrt(E.^(2)./c.^(2)-m_e.^(2).*c.^(2)))./(e.*B)
+
+beta=atan((y_i-y_s)./(x_i-x_s));
+theta=beta;
+
+for i=1:9
+
+    y_m2=y_i-tan(beta).*(x_i-x_m2);
+    Delta=R.*(cos(beta)-cos(theta));
+    y_m1=y_m2-Delta;
+%    theta=atan((y_m1-y_s)./(x_m1-x_s));
+    theta=(1)./(2).*(atan((y_m1-y_s)./(x_m1-x_s))+asin(sin(beta)+(D)./(R)));
+    
+    y_m1=y_s-tan(theta).*(x_s-x_m1);
+    Delta=R.*(cos(beta)-cos(theta));
+    y_m2=y_m1+Delta;
+    beta=(1)./(2).*(atan((y_m2-y_i)./(x_m2-x_i))+asin(sin(theta)-(D)./(R)))
+
+end
+
+end
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#910, 35:
+Matlab\spectrometer\trajectory_ft.m
+## end
+#914, 545:
+%{
+地址::Matlab\spectrometer\trajectory_ft.m
++[保存M函数](,trajectory_ft)
+
+保存:...
+%}
+
+function [E,y_f]=trajectory_ft(x_s,y_s,theta,x_m,D,B,x_i,y_i,x_f)
+physics_constant;
+
+x_m1=x_m-D/2;
+x_m2=x_m+D/2;
+
+
+R=10*D;
+y_m1=y_s-tan(theta).*(x_s-x_m1);
+beta=asin(sin(theta)-D./R);
+
+for i=1:100
+
+    Delta=R.*(cos(beta)-cos(theta));
+    y_m2=y_m1+Delta;
+    beta=(1)./(2).*(atan((y_m2-y_i)./(x_m2-x_i))+asin(sin(theta)-(D)./(R)));
+    R=(D)./(sin(theta)-sin(beta));
+
+end
+
+E=sqrt(R.^2*B^2*c^2*e^2+me^2*c^4);
+y_f=y_i+tan(beta).*(x_f-x_i);
+
+end
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#923, 105:
+\beta=\frac{1}{2}\ \left(arctan(\frac{y_{m2}-y_{i}}{x_{m2}-x_{i}})+arcsin(sin(\theta)-\frac{D}{R})\right)
+## end
+#929, 85:
+\beta=\frac{1}{2}*(arctan(\frac{y_m2-y_i}{x_m2-x_i})+arcsin(sin(\theta)-\frac{D}{R}))
+## end
+#934, 1208:
+%{
++[M函数](,逆向计算_1)
+Nini, 打开能谱仪原理的trajectory_fiducial(节点)
+Nini, 打开能谱仪原理的trajectory_fs(节点)
+Nini, 打开能谱仪原理的trajectory_uniform(节点)
+
+
++[M函数](,计算发射角和fiducial)
+%}
+
+
+addpath('Matlab\spectrometer');
+physics_constant;
+E=180e6*e;
+xe=0;
+ye=0;
+pos_m=[5e-2,0];
+siz_m=[5e-2,5e-2];
+B=-1.5;
+
+%{
++[M函数](,逆向计算_1)
+%}
+
+pos_p=[2,0.6];
+
+[theta_e,y_f]=trajectory_Es(xe,ye,E,pos_m(1),siz_m(1),B,pos_p(1),pos_p(2),x_f);
+[x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m]=trajectory_uniform(xe,ye,theta_e,E,pos_m,siz_m,B,pos_p,0);
+
+% Trajectory
+[X,Y]=trajectory_XY(xe,ye,theta_e,x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m);
+
+subplot(2,2,1)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis equal
+title(sprintf('E=%.2f GeV',E/e/1e9))
+
+subplot(2,2,2)
+plot(X,Y,'.-')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis equal
+axis([-5e-2,15e-2,-5e-2,5e-2])
+
+%{
++[M函数](,逆向计算_1)
+%}
+
+subplot(2,2,3)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis([x_f-1e-6,x_f+1e-6,y_f-1e-6,y_f+1e-6])
+
+subplot(2,2,4)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis([pos_p(1)-1e-9,pos_p(1)+1e-9,pos_p(2)-1e-9,pos_p(2)+1e-9])
+
+
+
+%{
++[M函数](,逆向计算_1)
+%}
+## end
+#936, 1191:
+%{
++[M函数](,逆向计算_1)
+Nini, 打开能谱仪原理的trajectory_fiducial(节点)
+Nini, 打开能谱仪原理的trajectory_uniform(节点)
+
+计算能量和fiducial(M函数):...
++[M函数](,计算能量和fiducial)
+%}
+
+
+addpath('Matlab\spectrometer');
+physics_constant;
+xe=0;
+ye=0;
+pos_m=[5e-2,0];
+siz_m=[5e-2,5e-2];
+B=-1.5;
+
+%{
++[M函数](,逆向计算_1)
+%}
+
+x_f=1;
+% y_f=0.25;
+y_f=0.29999;
+pos_p=[2,0.6];
+
+[E,theta_e]=trajectory_fs(xe,ye,pos_m(1),siz_m(1),B,x_f,y_f,pos_p(1),pos_p(2));
+[x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m]=trajectory_uniform(xe,ye,theta_e,E,pos_m,siz_m,B,pos_p,0);
+
+% Trajectory
+[X,Y]=trajectory_XY(xe,ye,theta_e,x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m);
+
+subplot(2,2,1)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis equal
+title(sprintf('E=%.2f GeV',E/e/1e9))
+
+subplot(2,2,2)
+plot(X,Y,'.-')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis([0,10e-2,-5e-2,5e-2])
+axis equal
+
+subplot(2,2,3)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis([x_f-1e-6,x_f+1e-6,y_f-1e-6,y_f+1e-6])
+
+subplot(2,2,4)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis([pos_p(1)-1e-9,pos_p(1)+1e-9,pos_p(2)-1e-9,pos_p(2)+1e-9])
+
+
+
+%{
++[M函数](,逆向计算_1)
+%}
+## end
+#937, 1313:
+%{
++[M函数](,逆向计算_1)
+Nini, 打开能谱仪原理的trajectory_fiducial(节点)
+Nini, 打开能谱仪原理的trajectory_fs(节点)
+Nini, 打开能谱仪原理的trajectory_uniform(节点)
+
+计算能量和fiducial(M函数):...
+计算能量和发射角(M函数):...
+计算发射角和fiducial(M函数):...
++[M函数](,计算能量和fiducial)
++[M函数](,计算发射角和fiducial)
++[M函数](,计算能量和发射角)
+%}
+
+
+addpath('Matlab\spectrometer');
+physics_constant;
+theta_e=0;
+xe=0;
+ye=0;
+pos_m=[5e-2,0];
+siz_m=[5e-2,5e-2];
+B=-1.5;
+
+%{
++[M函数](,逆向计算_1)
+%}
+
+pos_p=[2,0.3];
+
+[E,y_f]=trajectory_ft(xe,ye,theta_e,pos_m(1),siz_m(1),B,pos_p(1),pos_p(2),x_f);
+[x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m]=trajectory_uniform(xe,ye,theta_e,E,pos_m,siz_m,B,pos_p,0);
+
+% Trajectory
+[X,Y]=trajectory_XY(xe,ye,theta_e,x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m);
+
+subplot(2,2,1)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis equal
+title(sprintf('E=%.2f GeV',E/e/1e9))
+
+subplot(2,2,2)
+plot(X,Y,'.-')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis equal
+axis([-5e-2,15e-2,-5e-2,5e-2])
+
+%{
++[M函数](,逆向计算_1)
+%}
+
+subplot(2,2,3)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis([x_f-1e-6,x_f+1e-6,y_f-1e-6,y_f+1e-6])
+
+subplot(2,2,4)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis([pos_p(1)-1e-9,pos_p(1)+1e-9,pos_p(2)-1e-9,pos_p(2)+1e-9])
+
+
+
+%{
++[M函数](,逆向计算_1)
+%}
+## end
+#939, 31:
+Nini, 打开能谱仪原理的trajectory_fs(节点)
+## end
+#943, 1313:
+%{
++[M函数](,逆向计算_1)
+Nini, 打开能谱仪原理的trajectory_fiducial(节点)
+Nini, 打开能谱仪原理的trajectory_fs(节点)
+Nini, 打开能谱仪原理的trajectory_uniform(节点)
+
+计算能量和fiducial(M函数):...
+计算能量和发射角(M函数):...
+计算发射角和fiducial(M函数):...
++[M函数](,计算能量和fiducial)
++[M函数](,计算发射角和fiducial)
++[M函数](,计算能量和发射角)
+%}
+
+
+addpath('Matlab\spectrometer');
+physics_constant;
+theta_e=0;
+xe=0;
+ye=0;
+pos_m=[5e-2,0];
+siz_m=[5e-2,5e-2];
+B=-1.5;
+
+%{
++[M函数](,逆向计算_1)
+%}
+
+pos_p=[2,0.3];
+
+[E,y_f]=trajectory_ft(xe,ye,theta_e,pos_m(1),siz_m(1),B,pos_p(1),pos_p(2),x_f);
+[x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m]=trajectory_uniform(xe,ye,theta_e,E,pos_m,siz_m,B,pos_p,0);
+
+% Trajectory
+[X,Y]=trajectory_XY(xe,ye,theta_e,x0,y0,r,beta,x_1m,y_1m,x_2m,y_2m);
+
+subplot(2,2,1)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis equal
+title(sprintf('E=%.2f GeV',E/e/1e9))
+
+subplot(2,2,2)
+plot(X,Y,'.-')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis equal
+axis([-5e-2,15e-2,-5e-2,5e-2])
+
+%{
++[M函数](,逆向计算_1)
+%}
+
+subplot(2,2,3)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis([x_f-1e-6,x_f+1e-6,y_f-1e-6,y_f+1e-6])
+
+subplot(2,2,4)
+plot(X,Y,x_f,y_f,'r*',pos_p(1),pos_p(2),'r*')
+rectangle('Position',[pos_m-siz_m/2,siz_m])
+axis([pos_p(1)-1e-9,pos_p(1)+1e-9,pos_p(2)-1e-9,pos_p(2)+1e-9])
+
+
+
+%{
++[M函数](,逆向计算_1)
+%}
+## end
+### 结束

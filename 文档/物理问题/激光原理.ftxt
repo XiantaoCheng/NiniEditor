@@ -1,0 +1,2180 @@
+### 节点
+地址, 的, 激光原理, 目录, 的, 的, Lasers, 的, ND_YAG, 的, kHz, 的, 笔记, 的, Amplifier, 的, 四能级系统, 的, 增益, 的, 饱和算式, 的, 饱和光强, 的, 增益系数, 的, 电子数反转, 的, 网页画板, 的, 公式, html, 的, 参考2, 的, 参考1, 的, 欧姆损耗系数, 的, 激光a0, 的, 估算种子光展宽, M函数, 的, 验证计算, M函数, 的, 参考参数, 的, PulseAmplifier, 的, 模拟, M函数, 的, 原版, M函数, 的, 方波, 的, 笔记, 的, 参考2, 的, 参考1, 的, 输入参数, M函数, 的, Pulse模拟, html, 的, 参考, 的, 公式编辑, 的, 问题, M函数, 的, 微分方程, 公式, 的, 微分方程2, 公式, 的, 通解_n, 公式, 的, 通解_Delta, 公式, 的, 放大解_n, 公式, 的, 放大解_Delta, 公式, 的, 验证公式, M函数, 的, PumpAmplify_TiS, M函数, 的, 地址, 的, 显示输入, M函数, 的, Stage_2nd_Amplifier, M函数, 的, 地址, 的, 曲线, M函数, 的, 饱和吸收_二维分布, M函数, 的, PumpAmplify_TiS_intensity, M函数, 的, 地址, 的, PumpAmplify_TiS_profile, M函数, 的, 存档, 的, 地址, 的, Stage_1st_Amplifier, M函数, 的, 地址, 的, 测试, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 2#10, #, 2#12, #, 12#14, #, 12#16, #, 12#18, #, 12#20, #, 12#22, #, 12#24, #, 12#26, #, 2#28, #, 2#30, #, 30#, 30#33, #, 30#35, #, 30#37, #, 2#39, #, 30#41, #, 41#, 30#44, #, 44#, 30#47, #, 2#49, #, 49#51, #, 51#, 51#54, #, 54#, 51#57, #, 51#59, #, 49#61, #, 49#63, #, 51#65, #, 65#, 49#68, #, 68#, 68#71, #, 2#73, #, 51#75, #, 75#, 68#78, #, 78#, 68#81, #, 81#, 68#84, #, 84#, 68#87, #, 87#, 68#90, #, 90#, 68#93, #, 93#, 68#96, #, 96#, 96#99, #, 99#, 99#102, #, 96#104, #, 104#, 96#107, #, 107#, 107#110, #, 96#112, #, 112#, 96#115, #, 115#, 96#118, #, 118#, 118#121, #, 96#123, #, 123#, 96#126, #, 123#128, #, 96#130, #, 130#, 130#133, #, 130#135, #, 
+### 内容
+#0, 17:
+文档\物理问题\激光原理.ftxt
+## end
+#2, 448:
++[返回目录](,激光原理)
+地址::文档\物理问题\激光原理.ftxt
+
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+激光a0::文档\物理问题\激光a0.ftxt
++[打开文件](+新窗口,激光a0)
+公式编辑::文档\S应用\公式分析器.ftxt
++[打开文件](+新窗口,公式编辑)
+
+
+Lasers::file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf
+ND_YAG::file:///C:/Users/cheng/Desktop/paper/Laser/Murray80.pdf
+kHz::file:///C:/Users/cheng/Desktop/paper/Laser/Cheng02.pdf
++[打开网页](,Lasers)
+
+笔记:...
++[新建阅读窗口](,笔记)
+公式(html):...
++[H函数](,公式)
+PulseAmplifier:...
+
+
+
+## end
+#3, 48:
+激光原理:...
+创建于 20211004
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 61:
+file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf
+## end
+#8, 55:
+file:///C:/Users/cheng/Desktop/paper/Laser/Murray80.pdf
+## end
+#10, 54:
+file:///C:/Users/cheng/Desktop/paper/Laser/Cheng02.pdf
+## end
+#12, 995:
++[返回目录](,笔记)
+
+Amplifier::file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=292
++[打开网页](,Amplifier)
+四能级系统::file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=271
++[打开网页](,四能级系统)
+
+
+Lasers第七章, 基本上是从方程开始, 一路走到计算Gain, 计算Saturation. 这一章是cw的激光. 
+应该是够用的. 但是估计暂时用不上. 这周的晚上能给吃掉吗? 
+
+
+饱和光强::file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=319
+(73)
+饱和算式::file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=280
+(25)
+增益::file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=306
+(40)
+增益系数::file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=313
+(54)
+电子数反转::http://www-personal.umich.edu/~alberliu/writing/lasers/TiSapphireLasers.pdf
+(6)
+
+基本逻辑是这样的. 饱和光强可以用(73)来计算, 且和泵光没有关系, 只和cross-section有关. 这个算式来自于能级分布数的计算, 是(25)式. 
+而未饱和之前, signal是指数式增长的, 用(40)式计算. 其中的增益系数来自(54)和电子数反转有关. 
+而Ti:sapphire的电子数反转是用一个四能级系统计算. 参考[电子数反转]的(6). 然后所有所需要的参数都可以在[电子数反转]中找到. 
+
++[打开网页](,饱和光强)
++[打开网页](,增益)
++[打开网页](,增益系数)
++[打开网页](,电子数反转)
+
+
+
+
+
+## end
+#14, 70:
+file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=292
+## end
+#16, 70:
+file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=271
+## end
+#18, 70:
+file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=306
+## end
+#20, 70:
+file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=280
+## end
+#22, 70:
+file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=319
+## end
+#24, 70:
+file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=313
+## end
+#26, 75:
+http://www-personal.umich.edu/~alberliu/writing/lasers/TiSapphireLasers.pdf
+## end
+#28, 16:
+文档\S应用\网页画板.ftxt
+## end
+#30, 3253:
+<!--
++[H函数](,公式)
+-->
+
+<b><u>Amplifier principles</u></b><br>
+In principle, the laser amplifier contains crystal, pump and signal. Pump can be laser, flashlamp or some other things. It stimulates electrons to higher energy level and causes the population inversion in the crystal. When the signal passing by, electrons drops from the higher level and emits photons to join the signal at the same time. <br>
+<br>
+The logical is, <br>
+1.The pump laser intensity (\(I_p\)) will determine the population inversion(\(\Delta N\)); <br>
+2.The population inversion will determine the gain of signal; <br>
+3.For small signal, the intensity (\(I_s\)) will increase exponentially along the travelling distance (\(L\)) in the crystal; <br>
+4.Once the intensity goes above the saturation intensity (\(I_{sat}\)), the increase rate begins to dropping; <br>
+5.The saturation intensity is only determined by the stimulated emission cross-section (\(\sigma\)) and the lifetime of excited electrons (\(\tau_{eff}\)).<br>
+<br>
+Derivation of formulas won't be showed here now. I will use formulas from two reference to calculates a Ti:sapphire amplifier.<br>
+[1] Anthony E. Siegman. Lasers. University Science Books, 1986
+<br>
+[2] Albert Liu. Ti:Sapphire Lasers. http://www-personal.umich.edu/~alberliu/writing/lasers/TiSapphireLasers.pdf<br>
+<br><br><br><br>
+
+<b><u>Formulas</u></b><br>
+Gain, 
+$$
+G(\omega)=exp[2 \alpha_m (\omega) L - 2 \alpha_0 L]
+$$
+in which, \(\alpha_0\) is the ohmic loss coefficient of the host medium. We assume it's zero for now. <br>
+<br>
+Gain coefficient, 
+$$
+2 \alpha_m = \frac{\Delta N_0 \sigma_s}{1+I/I_{sat}}
+$$
+here, \(\Delta N_0\) is the initial population inversion (without signal). <br>
+And the saturation intensity,
+$$
+I_{sat}=\frac{\hbar \omega}{\sigma_s \tau_{eff}}
+$$
+Population inversion for 4-level system, 
+$$
+\frac{N_3-N_2}{N}
+=
+\frac{\sigma_p I_p}
+{\sigma_p I_p \left(\frac{7}{2}\frac{\tau_{43}}{\tau_{32}}+1\right)+\frac{\hbar \omega_p}{\tau_3}}
+$$
+<br><br>
+<b><u>2nd stage amplifier</u></b><br>
+It's a Ti:sapphire crystal amplifier. There are parameters for the Ti:sapphire crystal, 
+$$
+\sigma_s(\lambda=800 nm) \approx 3\times 10^{-23}\ m^2
+,\ 
+\sigma_p(\lambda=532 nm) \approx 3\times 10^{-19}\ m^2
+$$
+(This cross section parameter from [2] may be incorrect)
+$$
+\sigma_s(\lambda=790 nm) \approx 41\times 10^{-20}\ cm^2
+$$$$
+\tau_{43}\approx 0.1\ ps,\ \tau_{3}\approx \tau_{32}\approx 3.2\ \mu s
+,\ 
+\tau_{eff}\approx \tau_3\approx 3.2\ \mu s
+$$$$
+N\approx 10^{25}m^{-3}
+$$
+For a gaussian beam, the intensity is calculated by, 
+$$
+I(r,t)=I_0\ exp(-\frac{2 r^2}{w_0^2}) exp(-\frac{t^2}{\tau^2})
+,\ 
+I_0=\frac{2 E}{\sqrt{\pi}\pi w_0^2\tau}
+$$
+For pump laser, we have,
+$$
+\lambda_p=532\ nm,\ \tau_p \approx 10\ ns,\ w_p\approx 7.5\ mm
+$$
+For signal, it's, 
+$$
+\lambda_s=800\ nm,\ \tau_s \approx 16.48\ ps,\ w_s\approx 7.5\ mm
+$$
+
+
+
+<!--
++[H函数](,公式)
+参考1::file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=319
+参考2::file:///C:/Users/cheng/Desktop/paper/Amplifier/TiSapphireLasers.pdf
+
+参考参数::https://www.rp-photonics.com/titanium_sapphire_lasers.html
++[打开网页](,参考参数)
+
+欧姆损耗系数::file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=298
++[打开网页](,欧姆损耗系数)
+
+估算种子光展宽(M函数):...
++[M函数](,估算种子光展宽)
+验证计算(M函数):...
+
+-->
+## end
+#33, 67:
+file:///C:/Users/cheng/Desktop/paper/Amplifier/TiSapphireLasers.pdf
+## end
+#35, 70:
+file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=319
+## end
+#37, 70:
+file:///C:/Users/cheng/Desktop/paper/Books/Lasers_Siegman.pdf#page=298
+## end
+#39, 17:
+文档\物理问题\激光a0.ftxt
+## end
+#41, 282:
+%{
++[M函数](,估算种子光展宽)
+%}
+
+
+addpath('Matlab\optics');
+D=0.18;
+theta=51.82;
+
+D_0=0.;
+theta_0=51.82;
+G=1480;
+
+lm_0=800e-9;
+FWHM=20e-15;
+
+[FWHM1,FWHM2]=grating_compressor_dtau(D,theta,D_0,theta_0,G,lm_0,FWHM);
+
+disp(sprintf('Signal duration: %.2f ps',FWHM1/1e-12))
+
+%{
++[M函数](,估算种子光展宽)
+%}
+## end
+#44, 665:
+%{
++[M函数](,验证计算)
+%}
+
+physics_constant;
+
+% Ti:sapphire
+% sigma_s=3e-23;
+sigma_s=41e-24;
+sigma_p=3e-19;
+tau_e=3.2e-6;
+tau43=0.1e-12;
+tau32=3.2e-6;
+tau3=3.2e-6;
+L=25e-3*3;
+
+N0=1e25;
+
+% signal
+lm_s=800e-9;
+w_s=7.5e-3;
+tau_s=16.48e-12;
+
+% pump
+lm_p=532e-9;
+tau_p=10e-9;
+w_p=7.5e-3;
+E_p=1.29;
+
+omega_s=2*pi*c/lm_s;
+omega_p=2*pi*c/lm_p;
+
+I_p=2*E_p/sqrt(pi)/pi/w_p^2/tau_p;
+
+% Population inversion
+DN=N0*sigma_p*I_p/(sigma_p*I_p*(7/2*tau43/tau32+1)+hbar*omega_p/tau3)*0.05;
+
+% Gain
+alpha=DN*sigma_s/2
+G=exp(2*alpha*L);
+
+% Saturation intensity
+% I_sat=hbar*omega_s/sigma_s/tau_e;
+I_sat=hbar*omega_s/sigma_s/tau_s;
+E_sat=sqrt(pi)*pi*w_s^2*tau_s*I_sat/2;
+
+
+%{
++[M函数](,验证计算)
+%}
+## end
+#47, 58:
+https://www.rp-photonics.com/titanium_sapphire_lasers.html
+## end
+#49, 765:
++[返回目录](,PulseAmplifier)
+
+参考1::file:///C:/Users/cheng/Desktop/paper/Amplifier/Frantz63.pdf
+参考2::file:///C:/Users/cheng/Desktop/paper/Amplifier/Jeong19.pdf
++[打开网页](,参考1)
+
+
+Pulse模拟(html):...
++[H函数](,Pulse模拟)
+
+下面的代码来自胡凯. (不推荐)
+模拟(M函数):...
+胡凯的代码可能有问题. 输入的pulse形状几乎不会改变. 之前的改变仅仅是来自于sigma关于lambda的修正. 可以对比模拟里面的问题的执行结果. 
+(不未必是有问题)
+
+用的是Frantz-Nodvik equation. 感觉上是把晶体分成了一小段一小段, 然后每一小段都计算粒子数反转, 输入能量和输出能量. 
+这段的输出会作为下一段的输入. 
+
+这段代码不是很有用, 而且写的方法不太好. 我不打算用. 
+这里用的是参考1中的(27)和(28). 是个一般解. 
+模型是, 一开始有一个粒子数反转, 但是随着signal经过晶体, 光子数增多, 激发态电子变少, 所以分布会有所变化. 在这个过程中, 不存在泵光或者自发跃迁. 
+一般解的意思指, 初始粒子数分布和入射光子数都是任意的. 
+
+胡凯的代码里面考虑了profile的影响, 试图考虑了波长对散射截面的影响. 然后初始粒子数分布是用pump算出来的. 但是计算输出的时候, 用了300次迭代, 一个时间点一个时间点地计算的. 这个做法没有效率. 也不需要, 因为通解公式里面是可以直接算Dt时间之后的分布. 
+
+因为就只是两个公式而已, 所以我没必要用他的那一大段代码. 
+
+
+
+
+
+
+## end
+#51, 1628:
+%{
++[M函数](,模拟)
+
+原版(M函数):...
+输入参数(M函数):...
+
+笔记:...
+方波::https://www.mathworks.com/help/symbolic/rectangularpulse.html
++[打开网页](,方波)
+%}
+
+
+
+% clc;
+% clear all;
+% close all;
+
+%Gain
+
+physics_constant;
+
+pass=3;
+dt=3.3333e-12;
+dx=0.0083;
+n_0=n0(end,:)*200;
+% Delta0=ones(1,301);
+% Energy0=1;
+Lambda=800e-9;
+
+bb=1;
+sigma=3e-19;
+gamma=1;
+
+N=size(n_0,2);
+M=numel(Energy0);
+nout=zeros(M,N);
+
+
+for k=1
+    n0_pass=n_0;
+    for i=1:pass
+        if (i==1)
+            delta_in=Delta0;
+        end
+        n=zeros(1,N);
+        for j=1:N
+            g=bb*sigma_lambda(j)*cumtrapz(delta_in)*dx;
+            n(j)=n0_pass(j)/(1-(1-exp(-g(N)))*exp(-gamma*c*sigma_lambda(j)*n0_pass(j)*dt));
+            delta_out=delta_in.*exp(-g)./(exp(gamma*c*sigma_lambda(j)*n0_pass(j)*dt)+exp(-g)-1); 
+            
+%             g=bb*sigma*cumtrapz(delta_in)*dx;
+%             n(j)=n0_pass(j)/(1-(1-exp(-g(N)))*exp(-gamma*c*sigma*n0_pass(j)*dt));
+%             delta_out=delta_in.*exp(-g)./(exp(gamma*c*sigma*n0_pass(j)*dt)+exp(-g)-1); 
+
+            delta_in=delta_out;
+        end
+        % Signal propagates from the back
+        delta_in=fliplr(delta_out); 
+        n0_pass=n;%update n0
+        subplot(2,1,1)
+        hold on
+        if i==2
+            plot(x,fliplr(delta_out))
+        else
+            plot(x,delta_out)
+        end
+        subplot(2,1,2)
+        plot(t,n)
+        hold on
+    end
+    nout(k,:)=n0_pass;  
+end
+
+Eout=sum(h*c./Lambda*c.*nout,2)*dt; %spectrum correction
+Energy_in=Energy0;
+Energy_out=Eout*1000;
+% Energy_out=(1+(Energy_in-min(Energy_in))*(cc-1)/(max(Energy_in)-min(Energy_in))).*Energy_out;
+
+% plot(n0_pass)
+
+
+%{
++[M函数](,模拟)
+%}
+## end
+#54, 22792:
+%{
++[M函数](,模拟)
+
+原版(M函数):...
+%}
+
+clc;
+clear all;
+close all;
+
+%%%%%%%%%%%%% Amplification Simulation - Kai Hu - 2020-4-30 %%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%% Input Parameters %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Crystal Properties Input Parameters
+Crystal_Length=2.5;%cm
+GAMMA=1;
+% GAMMA:3-level system, use GAMMA=2; 4-level system use GAMMA=1;
+% GAMMA=1+g2/g1,g2,g1 are the degeneracy of energy level
+Cross_section_absorption_Seed=3*10^(-19);%cm^-2
+Cross_section_absorption_Pump=3*10^(-20);%cm^-2
+%These cross section values are the ones in absorption central wavelength
+Absorption_Coefficient_alpha=1.01;% cm^-1 this is pump absorption coefficient
+Ground_State_Population=Absorption_Coefficient_alpha/Cross_section_absorption_Pump;%cm^-3
+FWHM_Cross_Section_Lower_Wavelength=700;%nm
+FWHM_Cross_Section_Upper_Wavelength=900;%nm
+%Lower wavelength is the FWHM lower point of crystal's emission cross
+%section curve, Upper wavelength is the FWHM upper point, for example,
+%Ti:sapphire, Lower wavelength is 700nm, Upper wavelength is 900nm, central
+%wavelength is 790nm
+
+%% Seed Pulse Input Parameters
+Seed_Pulse_Duration=300;%ps
+Seed_Pulse_Duration_tail=0.3*Seed_Pulse_Duration;%ps
+% Seed_Pulse_Duration_tail is the pulse tail duration at both sides of the
+% square seed pulse, this simulates the super gaussian approximation in 
+% real case, choose 0-0.5 as a ratio of seed pulse duration, Be aware that
+% the total seed pulse duration should be t=Seed_Pulse_Duration+2*Seed_Pulse_Duration_tail
+Beam_Diameter=2.2;%cm
+Seed_Center_Wavelength=790;%nm
+Input_Seed_Energy=35:5:550;%mJ 
+% Input_Seed_Energy: should be a vector variable to plot 
+Seed_Spectrum_Lower_Wavelength=720;%nm
+Seed_Spectrum_Upper_Wavelength=860;%nm
+% Measure the spectrum of the seed and get the lower and upper point
+Amplification_Pass=3;
+%Amplification_Pass: the number of passes of the amplification
+
+%% Pump Pulse Input Parameters
+Pump_Pulse_Duration=13;%ns
+Pump_Center_Wavelength=532;%nm
+Crystal_Front_Input_Pump_Energy=0.45;%J
+Crystal_Back_Input_Pump_Energy=1.5;%J
+% These are the Pump Energy exactly before and after the crystal, if with
+% homogenizer, need to multiply the laser ouput energy by homogenizer's 
+% transmission percentage to get this value
+
+%% Beam Profile Correction switch on/off flag
+Flag_BeamSizeCorrection=1; 
+% Flag_BeamSizeCorrection: 1-beam profile correction on, 0-beam profile
+% correction off, if switch on, the simulation will
+% be more accurate but will cost a lot of time(typically several minutes)
+% so,at rough simulation, we recommend to switch off to save time when we
+% debug the code
+
+%% Damage Threshold Input parameters
+% These are the Crystal Coating Damage threshold parameters
+DamageThreshold_Coating=14.16; %J/cm^2
+DamageTestPulseWidth_Coating=10; %ns
+
+% These are the Crystal material damage threshold parameters
+DamageThreshold_Material=17; %J/cm^2
+DamageTestPulseWidth_Material=50*10^-3; %ns
+
+%% Adjustment Parameters
+Loss_From_Optics=0.79;%percentage
+%This is the loss from optics when the seed is traveling from the input
+%point to the output point. This value can be measured by sheding small
+%signal through crystal without pump and measure the loss at the ouput.
+%This value should be less than 1
+
+a_Parameter=1;%percentage
+% a_parameter: This parameter can be used as compensation for reflection, 
+% scattering, thermal loss of the pump pulse inside the crystal, value
+% should be less than 1
+
+b_Parameter=1;
+% b_Parameter:should be less than 1; can be used to compensate for: 
+% incidence angle error, beam tilting error, thermal effect decreasing gain 
+% coefficient
+
+c_Parameter=1.15;
+% c_paramter:used to balance the gaussian beam profile and flat beam profile
+% of the seed. In strong input energy, this variable will take effect. This
+% value should be larger than 1.
+
+%% Code Initialized Parameters
+Time_Sampling_Number=300; 
+Space_Sampling_Number=200;
+% Total sampling number is N=Time_Sampling_Number*Space_Sampling_Number, so
+% in order not to overwhelm the computation, control the total sampling 
+% number less than 100,000, typically,Time_Sampling_Number=300,
+% Space_Sampling_Number=200
+Seed_Pulse_Time_scale=1*10^-9;%s 
+% Seed_Pulse_Time_scale:should be a little bit larger than seed pulse duration
+Pump_Pulse_Time_scale=40*10^-9;%s 
+% Pump_Pulse_Time_scale:should be a little bit larger than pump pulse duration
+Delta_t=10^-9;%s
+% Delta_t: Observation plot, scale unit
+
+%% Measured Data
+Measured_Input_Energy=0.97*[35,54,70,95,120,150,180,220,260,300,340,390,420,450,480,520,550];%mJ
+Measured_Output_Energy=[58,90,135,180,220,270,330,390,460,530,600,650,720,750,790,830,890];%mJ
+
+%% Figure Plot Control
+%Flag_xxx: these variables are all control variables, set 1 to
+%switch on the figure, set 0 to switch off. Other Flag_xxx variables besides 
+%figure's control are the same, 1 to turn on, 0 to turn off. For Check_xxx
+%variables, these are the observed values you need to put in to check the
+%status of the calculation
+
+%Figure 1, Seed photon density n0 vs t
+Flag_Figure1=1;Check_InputEnergy1=50;%mJ
+%Figure 2, Pump photon density np vs t
+Flag_Figure2=1;
+%Figure 3, Inital Population Inversion Density Delta0 vs x
+Flag_Figure3=1;
+%Figure 4, Population inversion Density in each pass Delta vs x
+Flag_Figure4=1;Check_InputEnergy4=500;%mJ
+%Figure 5, Damage Analysis Ouput Energy Fluence vs Input Energy
+Flag_Figure5=1;Flag_Show_Crystal_Material_Damage_Threshold=0;
+%Figure 6, Output Energy vs Input Energy
+Flag_Figure6=1;
+%Figure 7, Spectrum Correction with wavelength stretch, figure shows upper 
+%wavelength start point and lower wavelength end point, the relationship
+%will show in Figure 1 and Figure 8
+Flag_Figure7=1;
+%Figure 8, Cross Section vs wavelength/time delay,
+%Flag_SeeTimeCorrespondCrossSection=1,Cross Section vs time delay,
+%Flag_SeeTimeCorrespondCrossSection=0,Cross Section vs wavelength
+Flag_Figure8=1;Flag_SeeTimeCorrespondCrossSection=0;
+%Figure 9, check for the Beam Profile in Polar coordinate, need to specify
+%the observed Energy,and observed Time of the pulse. Note that, this figure
+%is only meaningful and shown when Flag_BeamSizeCorrection set to 1
+Flag_Figure9=1;Flag_ShowRadius=1;
+Check_InputEnergy9=80;%mJ
+Check_Time=0.5;%ns
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% Code Detail %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+N=Time_Sampling_Number;
+Ny=Space_Sampling_Number;
+t=linspace(0,Seed_Pulse_Time_scale,N);%s
+tp=linspace(0,Pump_Pulse_Time_scale,N);%s
+delta_t=Delta_t;% observation in ns scale
+t0=max(t)/2;
+t0p=max(tp)/2;
+c=3*10^10;%cm/s
+h=6.626*10^(-34);
+x=linspace(0,Crystal_Length,N);%cm 2nd stage 2cm, 3rd stage 2.5cm                     
+dx=max(x)/N;
+dt=max(t)/N;
+dtp=max(tp)/N;
+
+%% Laser Gain Specification
+T=Seed_Pulse_Duration;%ps Pulse duration
+bb=b_Parameter;%2nd stage 0.97 % laser incidence angle & laser gain coefficient aberration correction 
+T=T*10^(-12); 
+dT=Seed_Pulse_Duration_tail;
+dT=dT*10^(-12);% squre pulse tail length
+D=Beam_Diameter;%cm %2.2 1.9 1.6 1.4cm 2nd stage 1.2cm 3rd stage 2.2cm                  
+A=pi*(D/2)^2;%cm^2 %2nd 1.2 %3rd 2                                        
+lambda=Seed_Center_Wavelength;%nm
+Delta0=linspace(Ground_State_Population,Ground_State_Population,N);%cm^-3
+gamma=GAMMA;%gamma=1+g2/g1, for 4-level,gamma=1
+sigma=Cross_section_absorption_Seed;%cm^-2
+v=c/(lambda*10^(-7));
+Energy0=Input_Seed_Energy;%mJ %2nd stage 0.5:35, 3rd stage 35:5:550                 
+Energy_sat=h*v/(gamma*sigma)*1000*A;%J
+Lossofoptics=Loss_From_Optics;%0.84;% 2nd stage 84%, 3rd stage 79% or 78%                    
+N0=Energy0*10^(-3)/((h*v)*T*A*c);%cm^-3
+
+%% Laser Pump Specification
+aa=a_Parameter; 
+Tp=Pump_Pulse_Duration;%ns
+Tp=Tp*10^(-9);
+lambdap=Pump_Center_Wavelength;%nm
+Delta_in=-Ground_State_Population;%cm^-3 %2nd -4.4*10^19,%3rd -3.37*10^19                
+Delta0p=Delta_in*linspace(1,1,N);%cm^-3
+sigmap=Cross_section_absorption_Pump;%cm^-2
+vp=c/(lambdap*10^(-7));
+Energy0p1=aa*Crystal_Back_Input_Pump_Energy;
+Energy0p2=aa*Crystal_Front_Input_Pump_Energy;
+Energy_satp=h*vp/(gamma*sigmap)*A;%J
+
+%% Absorption Cross section
+lambdamin=FWHM_Cross_Section_Lower_Wavelength;%nm,FWHM lower wavelength of Ti;Sapphire emission band
+lambdamax=FWHM_Cross_Section_Upper_Wavelength;%nm,FWHM upper wavelength of Ti:Sapphire emission band
+lambdamin=lambdamin*10^(-7);
+lambdamax=lambdamax*10^(-7);
+lambda=lambda*10^(-7);%cm
+dgamma=(c/lambdamin-c/lambdamax)/2;%HWHM of Ti:sapphire
+Lambda=linspace(FWHM_Cross_Section_Lower_Wavelength*0.6,FWHM_Cross_Section_Upper_Wavelength*1.5,N);%nm
+Lambda=Lambda*10^(-7);
+dlambda=(max(Lambda)-min(Lambda))/N;
+
+%% Cross section initialized
+del_t=T+dT*2;
+Lambdamin=Seed_Spectrum_Lower_Wavelength;%nm %seed spectrum minimum
+Lambdamax=Seed_Spectrum_Upper_Wavelength;%seed spectrum maximum
+del_lambda=Lambdamax-Lambdamin;%spectrum=720-860nm
+del_lambda=del_lambda*10^(-7);%cm
+Lambdamin=Lambdamin*10^(-7);%Blue correspond to end point
+Lambdamax=Lambdamax*10^(-7);%Red correspond to start point
+dtdlambda=-del_t/del_lambda;%negative for stretcher pulse, red is faster than blue
+start_point=find(t>=(t0-T/2-dT),1);
+end_point=find(t>=(t0+T/2+dT),1);
+sigma_lambda=linspace(sigma,sigma,N);
+
+for j=1:N
+    Lambda(j)=Lambdamax-(t(start_point)-t(j))/dtdlambda;
+    sigma_lambda(j)=sigma*dgamma^2./((c./Lambda(j)-c/lambda).^2+dgamma^2);%cross section correction
+end
+
+% sigma vs Lambda/t
+if Flag_Figure8==1
+    figure(8);
+    if Flag_SeeTimeCorrespondCrossSection==1
+        plot(t/10^-9,sigma_lambda);hold on;
+        title('cross section \sigma vs \tau');
+        xlabel('\tau(ns)');
+        if Flag_Figure7==1
+            p1=plot([t(start_point)/10^-9,t(start_point)/10^-9],[0,max(sigma_lambda)],'--r');hold on;
+            p2=plot([t(end_point)/10^-9,t(end_point)/10^-9],[0,max(sigma_lambda)],'--b');hold on;
+            legend([p1 p2],'\lambda_{max} start point','\lambda_{min} end point');
+            legend('boxoff');
+            p1=0;
+            p2=0;
+        end
+    else
+        plot(Lambda*10^7,sigma_lambda);hold on;
+        title('cross section \sigma vs wavelength');
+        xlabel('\lambda(nm)');
+        if Flag_Figure7==1
+            p1=plot([Lambda(start_point),Lambda(start_point)]*10^7,[0,max(sigma_lambda)],'--r');hold on;
+            p2=plot([Lambda(end_point),Lambda(end_point)]*10^7,[0,max(sigma_lambda)],'--b');hold on;
+            legend([p1 p2],'\lambda_{max} start point','\lambda_{min} end point');
+            legend('boxoff');
+            p1=0;
+            p2=0;
+        end
+    end
+    axis tight;
+    ylim([0 sigma]);
+    ylabel('\sigma(cm^2)'); 
+end
+    
+%% Guassian Beam profile initialized
+cc=c_Parameter;%3rd 1.15 %apply to Large beam size, balance flat beam profile and gaussian beam profile, small beam size set to 1, this number should >=1
+y=linspace(0,D,Ny);
+dy=(max(y)-min(y))/Ny;
+sig_r=D/6;%set 3sigma point as the radius of the beam, 3sigma=D/2
+% G_y=y<=D/2;
+% G_y=G_y/A;
+% Integral_gaussian_check=2*pi*sum(G_y.*abs(y)*dy);
+G_y=1/(2*pi*sig_r^2).*exp(-y.^2/(2*sig_r^2));%Beam profile correction, gaussian approx
+Integral_gaussian_check=2*pi*sum(G_y.*abs(y)*dy);
+G_y=G_y/Integral_gaussian_check;
+Integral_gaussian_check=2*pi*sum(G_y.*abs(y)*dy);
+
+
+%% square input seed pulse
+
+N0=(rectangularPulse((t-t0)/T)+exp(-(t-t0+T/2).^2/dT^2).*(t<=t0-T/2)+exp(-(t-t0-T/2).^2/dT^2).*(t>=t0+T/2));
+for i=1:numel(Energy0)
+    if Flag_BeamSizeCorrection==1
+        n0(i,:)=N0*Energy0(i)*10^(-3)/sum(h*c./Lambda*c.*N0*dt);
+        Integral_n0(i)=sum(h*c./Lambda*c.*n0(i,:)*dt)*10^3;
+    else
+        n0(i,:)=N0*Energy0(i)*10^(-3)/sum(h*c./Lambda*c.*N0*A*dt);
+        Integral_n0(i)=sum(h*c./Lambda*c.*n0(i,:)*A*dt)*10^3;
+    end
+end
+
+%Figure1, n0 vs t
+if Flag_Figure1==1
+    figure(1);
+    plot(t/10^-9,n0(find(Energy0>Check_InputEnergy1,1),:),'b','DisplayName','Input n_0');hold on;
+    if Flag_BeamSizeCorrection==1
+        title(['Photon Surface density n vs \tau, input energy E=',num2str(Check_InputEnergy1),'mJ']);
+        ylabel('Photon Surface Density n(cm^{-1})');
+    else 
+        title(['Photon density n vs \tau, input energy E=',num2str(Check_InputEnergy1),'mJ']);
+        ylabel('Photon density n(cm^{-3})');
+    end
+    xlabel('time delay \tau(ns)');
+end
+
+%% Figure9, check the beam profile in polar coordinate
+if Flag_Figure9==1&Flag_BeamSizeCorrection==1
+    figure(9);
+    n0_profile=n0(find(Energy0>Check_InputEnergy9,1),find(t>Check_Time*10^-9,1)).*G_y;
+    n0_max=n0(find(Energy0>Check_InputEnergy9,1),find(t>t0,1)).*G_y;
+    plot(y,n0_profile,'DisplayName','Input n_0');hold on;
+    axis tight;
+    ylim([0,max(n0_max)]);
+    title(['Beam Profile in Polar coordinate,E=',num2str(Check_InputEnergy9),'mJ,t=',num2str(Check_Time),'ns']);
+    ylabel('n(cm^{-3})');
+    xlabel('y(cm)');
+end
+
+%% Guassian input pump pulse
+n0p=exp(-(tp-t0p).^2/(Tp/2)^2);
+n0p1=n0p*Energy0p1/(h*vp*c*A*sum(n0p)*dtp);
+n0p2=n0p*Energy0p2/(h*vp*c*A*sum(n0p)*dtp);
+Wp1=cumtrapz(n0p1)*dtp;
+Wp2=cumtrapz(n0p2)*dtp;
+Einp1=h*vp*c*Wp1(N);
+Einp2=h*vp*c*Wp2(N);
+
+%check for energy
+Einp1_energy_check=Einp1*A;
+Einp2_energy_check=Einp2*A;
+
+%% Figure 2, pump photon density vs t
+if Flag_Figure2==1
+    figure(2);
+    plot(tp/10^-9,n0p2,'b');hold on;
+    plot(tp/10^-9,n0p1,'--b');hold on;
+    title('Pump photon Density vs \tau');
+    
+    ylabel('n(cm^{-3})');
+    xlabel('\tau(ns)');
+end
+
+%% Absorption Saturation Calculation
+Esatp=h*vp/(gamma*sigmap);%J/cm^2
+E0p=Einp1;%J/cm^2
+a=sigmap*cumtrapz(Delta0p)*dx;%sign the same as g,with negative inversion, this is negative value
+
+%% Gain Saturation calculation
+Esat=h*v/(gamma*sigma);%J/cm^2
+
+%% Frantz-Nodvik
+
+%Absorption
+
+%% Back pump
+for i=1:N
+    np(i,:)=n0p1./(1-(1-exp(-a(i))).*exp(-1*sigmap*c*Wp1));
+    Deltap(i,:)=Delta0p(i).*exp(-a(i))./(exp(1*sigmap*c*Wp1)+exp(-a(i))-1);
+    Eoutp(i)=h*vp*c*sum(np(i,:))*dt;
+end
+
+if Flag_Figure2==1
+    figure(2);
+    plot(tp/10^-9,np(N,:),'--r');hold on;
+end 
+
+Delta0p=Deltap(:,N);
+Delta0p=Delta0p';
+Delta0p=fliplr(Delta0p);
+a=sigmap*cumtrapz(Delta0p)*dx;
+E0p=Einp2;
+
+%% Front pump
+for i=1:N
+    np(i,:)=n0p2./(1-(1-exp(-a(i))).*exp(-1*sigmap*c*Wp2));
+    Deltap(i,:)=Delta0p(i).*exp(-a(i))./(exp(1*sigmap*c*Wp2)+exp(-a(i))-1);
+    Eoutp(i)=h*vp*c*sum(np(i,:))*dt;
+end
+
+Eoutp_comp=Esatp*log(1+exp(a).*(exp(E0p/Esatp)-1));
+
+if Flag_Figure2==1
+    figure(2);
+    plot(tp/10^-9,np(N,:),'r');hold on;
+    legend('Crystal Front Pump Photon Density n_{front}','Crystal Back Pump Photon Density n_{back}','n_{back} after absorption','n_{front} after absorption');
+    legend('boxoff');
+end
+
+Delta0=Deltap(:,N);
+Delta0=Delta0';
+if(gamma==1)%4-level system
+    Delta0=Delta0-Delta_in;
+end
+if(gamma==2)%3-level system
+    Delta0=(Delta0-Delta_in)+Delta0;
+end
+
+%Gain
+
+pass=Amplification_Pass;
+
+%% Figure 3, Delta vs x
+if Flag_Figure3==1
+    figure(3);
+    plot(x,Delta0,'DisplayName','Initial \Delta_0');hold on;
+    title('Initial Population Inversion \Delta_0 along crystal length');
+    ylabel('\Delta_0(cm^{-3})');
+    xlabel('x(cm)');
+    ylim([0,max(Delta0)]);
+end
+
+for k=1:numel(Energy0) 
+    n0_tem(:)=n0(k,:);
+    Epeak(k)=0;
+    max_n(k)=0;
+    if Flag_BeamSizeCorrection==1
+        for m=1:Ny
+            n0_pass(m,:)=n0_tem*G_y(m);
+            for i=1:pass
+                if (i==1)
+                    delta_in=Delta0;
+                end
+                for j=1:N
+                    g=bb*sigma_lambda(j)*cumtrapz(delta_in)*dx;
+                    n(j)=n0_pass(m,j)/(1-(1-exp(-g(N)))*exp(-gamma*c*sigma_lambda(j)*n0_pass(m,j)*dt));
+                    delta_out=delta_in.*exp(-g)./(exp(gamma*c*sigma_lambda(j)*n0_pass(m,j)*dt)+exp(-g)-1); 
+                    delta_in=delta_out;
+                    if n(j)>max_n(k)
+                        max_n(k)=n(j);
+                        max_lambda(k)=Lambda(j);
+                    end
+                end
+                delta_in=fliplr(delta_out); 
+                if(((-1)^i<0)&(m==1))
+                    Delta(k,:)=delta_out;
+                end
+                if(((-1)^i>0)&(m==1))
+                    Delta(k,:)=fliplr(delta_out);
+                end
+                n0_pass(m,:)=n;%update n0
+                %% Figure 4,Population inversion change with each pass, Delta vs x 
+                if Flag_Figure4==1
+                    if k==find(Energy0>Check_InputEnergy4,1)&(m==1)
+                        figure(3);
+                        plot(x,Delta(k,:),'DisplayName',[num2str(i),' pass']);hold on;
+                        title(['Population Inversion Density \Delta vs x, input Energy E=',num2str(Check_InputEnergy4),'mJ']);
+                        ylabel('\Delta(cm^{-3})');
+                        legend('boxoff');
+                    end
+                end
+            end
+            Fluence=sum(h*c./Lambda*c.*n0_pass(m,:))*dt;
+            if Fluence>Epeak(k)
+                Epeak(k)=Fluence;
+            end
+        end
+        %% Figure 9, Beam Profile
+        if Flag_Figure9==1
+            if k==find(Energy0>Check_InputEnergy9,1)
+                figure(9);
+                n0_tem1(:)=n0_pass(:,find(t>Check_Time*10^-9,1));
+                plot(y,n0_tem1,'r','DisplayName','Output n');hold on;
+                legend('boxoff');
+                axis tight;
+                if Flag_ShowRadius==1
+                    plot([3*sig_r,3*sig_r],[0,max(n0_tem1)],'--r','DisplayName','Assumed Beam Radius');hold on;
+                end
+            end
+        end
+        for j=1:N
+            n0_tem2(:)=n0_pass(:,j);
+            nout(k,j)=sum(n0_tem2.*abs(y)*dy*2*pi);
+        end
+        %% Figure1, n vs t
+        if Flag_Figure1==1
+            if k==find(Energy0>Check_InputEnergy1,1)
+                figure(1);
+                plot(t/10^-9,nout(k,:),'r','DisplayName','ouput n');hold on;
+                legend('boxoff');
+                axis tight;
+                %% Figure7, analysis for the wavelength start point and end point
+                if Flag_Figure7==1
+                    figure(1);
+                    plot([t(start_point),t(start_point)]/10^-9,[0,max(nout(k,:))],'--r','DisplayName','\lambda_{max} start point');hold on;
+                    plot([t(end_point),t(end_point)]/10^-9,[0,max(nout(k,:))],'--b','DisplayName','\lambda_{min} end point');hold on;
+                    legend('boxoff');
+                end
+            end
+        end
+        Eout(k)=sum(h*c./Lambda*c.*nout(k,:))*dt; %spectrum correction
+        Ipeak(k)=h*c/max_lambda(k)*c*max_n(k);
+    else 
+        n0_pass=n0_tem;
+        max_n(k)=0;
+        for i=1:pass
+            if (i==1)
+                delta_in=Delta0;
+            end
+            for j=1:N
+                g=bb*sigma_lambda(j)*cumtrapz(delta_in)*dx;
+                n(j)=n0_pass(j)/(1-(1-exp(-g(N)))*exp(-gamma*c*sigma_lambda(j)*n0_pass(j)*dt));
+                delta_out=delta_in.*exp(-g)./(exp(gamma*c*sigma_lambda(j)*n0_pass(j)*dt)+exp(-g)-1); 
+                delta_in=delta_out;
+                if n(j)>max_n(k)
+                    max_n(k)=n(j);
+                    max_lambda(k)=Lambda(j);
+                end
+            end
+            delta_in=fliplr(delta_out); 
+            if(((-1)^i<0))
+                Delta(k,:)=delta_out;
+            end
+            if(((-1)^i>0))
+                Delta(k,:)=fliplr(delta_out);
+            end
+            n0_pass=n;%update n0
+            %% Figure 4,Population inversion change with each pass, Delta vs x 
+            if Flag_Figure4==1
+                if k==find(Energy0>Check_InputEnergy4,1)
+                    figure(3);
+                    plot(x,Delta(k,:),'DisplayName',[num2str(i),' pass']);hold on;
+                    title(['Population Inversion Density \Delta vs x, input Energy E=',num2str(Check_InputEnergy4),'mJ']);
+                    ylabel('\Delta(cm^{-3})');
+                    legend('boxoff');
+                end
+            end
+        end
+        %% Figure 1, n vs t
+        if Flag_Figure1==1
+            if k==find(Energy0>Check_InputEnergy1,1)
+                figure(1);
+                plot(t/10^-9,n0_pass,'r','DisplayName','ouput n');hold on;
+                legend('boxoff');
+                axis tight;
+                %% Figure7, analysis for the wavelength start point and end point
+                if Flag_Figure7==1
+                    figure(1);
+                    plot([t(start_point),t(start_point)]/10^-9,[0,max(n0_pass)],'--r','DisplayName','\lambda_{max} start point');hold on;
+                    plot([t(end_point),t(end_point)]/10^-9,[0,max(n0_pass)],'--b','DisplayName','\lambda_{min} end point');hold on;
+                    legend('boxoff');
+                end
+            end
+        end
+        nout(k,:)=n0_pass*A;
+        Eout(k)=sum(h*c./Lambda*c.*nout(k,:))*dt; %spectrum correction
+        Epeak(k)=Eout(k)/A;
+        Ipeak(k)=h*c/max_lambda(k)*c*max_n(k);
+    end
+end
+Energy_in=Energy0;
+Energy_out=Eout*1000;
+Energy_out=(1+(Energy_in-min(Energy_in))*(cc-1)/(max(Energy_in)-min(Energy_in))).*Energy_out;
+Energy_out=Lossofoptics*Energy_out;%mJ
+
+%% Damage threshold analysis
+Fluence_p1=Energy0p1/A;
+Fluence_p2=Energy0p2/A;
+Level_p1=Fluence_p1/sqrt(Tp)*sqrt(T);
+Level_p2=Fluence_p2/sqrt(Tp)*sqrt(T);
+DamageTestPulseWidth_Coating=DamageTestPulseWidth_Coating*10^(-9);%s
+DamageTestPulseWidth_Material=DamageTestPulseWidth_Material*10^(-9);%s
+DamageThreshold_Coating=DamageThreshold_Coating*sqrt(T)/sqrt(DamageTestPulseWidth_Coating);
+DamageThreshold_Material=DamageThreshold_Material*sqrt(T)/sqrt(DamageTestPulseWidth_Material);
+
+if Flag_Figure5==1
+    figure(5);
+    plot(Energy_in,Epeak,[min(Energy_in),max(Energy_in)],[DamageThreshold_Coating,DamageThreshold_Coating]);hold on;
+    plot([min(Energy_in),max(Energy_in)],[Level_p2,Level_p2],'-*g',[min(Energy_in),max(Energy_in)],[Level_p1,Level_p1],'-.g');hold on;
+    if Flag_Show_Crystal_Material_Damage_Threshold==1
+        plot([min(Energy_in),max(Energy_in)],[DamageThreshold_Material,DamageThreshold_Material],'k');hold on;
+    end
+    title('Damage Analysis Energy Fluence vs Input Energy');
+    xlabel('Input Energy(mJ)');
+    ylabel('Energy Fluence(J/cm^2)');
+    axis tight;
+    if Flag_Show_Crystal_Material_Damage_Threshold==1
+        legend('Seed Fluence','Coating Damage Threshold','Crystal Front Pump Level','Crystal Back Pump Level','Crystal Damage Threshold');
+        ylim([0,DamageThreshold_Material*1.4]);
+    else
+        legend('Seed Fluence','Coating Damage Threshold','Crystal Front Pump Level','Crystal Back Pump Level');
+        ylim([0,DamageThreshold_Coating*1.4]);
+    end
+    legend('boxoff');
+end
+
+%% Energy out vs Ein
+if Flag_Figure6==1
+    figure(6);
+    plot(Energy_in,Energy_out,'b');hold on;
+    energy_out=Measured_Output_Energy;
+    energy_in=Measured_Input_Energy;
+    plot(energy_in,energy_out,'r');hold on; 
+    title('Energy output vs Input');
+    xlabel('Input Energy(mJ)');
+    ylabel('Output Energy(mJ)');
+    axis tight;
+    legend('Simulation','Measurement');
+    legend('boxoff');
+end
+
+
+## end
+#57, 61:
+https://www.mathworks.com/help/symbolic/rectangularpulse.html
+## end
+#59, 30:
+
+
+G_y是一个高斯函数. 是对横向profile的修正. 
+## end
+#61, 58:
+file:///C:/Users/cheng/Desktop/paper/Amplifier/Jeong19.pdf
+## end
+#63, 59:
+file:///C:/Users/cheng/Desktop/paper/Amplifier/Frantz63.pdf
+## end
+#65, 12225:
+
+%%%%%%%%%%%%% Amplification Simulation - Kai Hu - 2020-4-30 %%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%% Input Parameters %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Crystal Properties Input Parameters
+Crystal_Length=2.5;%cm
+GAMMA=1;
+% GAMMA:3-level system, use GAMMA=2; 4-level system use GAMMA=1;
+% GAMMA=1+g2/g1,g2,g1 are the degeneracy of energy level
+Cross_section_absorption_Seed=3*10^(-19);%cm^-2
+Cross_section_absorption_Pump=3*10^(-20);%cm^-2
+%These cross section values are the ones in absorption central wavelength
+Absorption_Coefficient_alpha=1.01;% cm^-1 this is pump absorption coefficient
+Ground_State_Population=Absorption_Coefficient_alpha/Cross_section_absorption_Pump;%cm^-3
+FWHM_Cross_Section_Lower_Wavelength=700;%nm
+FWHM_Cross_Section_Upper_Wavelength=900;%nm
+%Lower wavelength is the FWHM lower point of crystal's emission cross
+%section curve, Upper wavelength is the FWHM upper point, for example,
+%Ti:sapphire, Lower wavelength is 700nm, Upper wavelength is 900nm, central
+%wavelength is 790nm
+
+%% Seed Pulse Input Parameters
+Seed_Pulse_Duration=300;%ps
+Seed_Pulse_Duration_tail=0.3*Seed_Pulse_Duration;%ps
+% Seed_Pulse_Duration_tail is the pulse tail duration at both sides of the
+% square seed pulse, this simulates the super gaussian approximation in 
+% real case, choose 0-0.5 as a ratio of seed pulse duration, Be aware that
+% the total seed pulse duration should be t=Seed_Pulse_Duration+2*Seed_Pulse_Duration_tail
+Beam_Diameter=2.2;%cm
+Seed_Center_Wavelength=790;%nm
+Input_Seed_Energy=35:100:550;%mJ 
+% Input_Seed_Energy: should be a vector variable to plot 
+Seed_Spectrum_Lower_Wavelength=720;%nm
+Seed_Spectrum_Upper_Wavelength=860;%nm
+% Measure the spectrum of the seed and get the lower and upper point
+Amplification_Pass=3;
+%Amplification_Pass: the number of passes of the amplification
+
+%% Pump Pulse Input Parameters
+Pump_Pulse_Duration=13;%ns
+Pump_Center_Wavelength=532;%nm
+Crystal_Front_Input_Pump_Energy=0.45;%J
+Crystal_Back_Input_Pump_Energy=1.5;%J
+% These are the Pump Energy exactly before and after the crystal, if with
+% homogenizer, need to multiply the laser ouput energy by homogenizer's 
+% transmission percentage to get this value
+
+%% Beam Profile Correction switch on/off flag
+Flag_BeamSizeCorrection=1; 
+% Flag_BeamSizeCorrection: 1-beam profile correction on, 0-beam profile
+% correction off, if switch on, the simulation will
+% be more accurate but will cost a lot of time(typically several minutes)
+% so,at rough simulation, we recommend to switch off to save time when we
+% debug the code
+
+%% Damage Threshold Input parameters
+% These are the Crystal Coating Damage threshold parameters
+DamageThreshold_Coating=14.16; %J/cm^2
+DamageTestPulseWidth_Coating=10; %ns
+
+% These are the Crystal material damage threshold parameters
+DamageThreshold_Material=17; %J/cm^2
+DamageTestPulseWidth_Material=50*10^-3; %ns
+
+%% Adjustment Parameters
+Loss_From_Optics=0.79;%percentage
+%This is the loss from optics when the seed is traveling from the input
+%point to the output point. This value can be measured by sheding small
+%signal through crystal without pump and measure the loss at the ouput.
+%This value should be less than 1
+
+a_Parameter=1;%percentage
+% a_parameter: This parameter can be used as compensation for reflection, 
+% scattering, thermal loss of the pump pulse inside the crystal, value
+% should be less than 1
+
+b_Parameter=1;
+% b_Parameter:should be less than 1; can be used to compensate for: 
+% incidence angle error, beam tilting error, thermal effect decreasing gain 
+% coefficient
+
+c_Parameter=1.15;
+% c_paramter:used to balance the gaussian beam profile and flat beam profile
+% of the seed. In strong input energy, this variable will take effect. This
+% value should be larger than 1.
+
+%% Code Initialized Parameters
+Time_Sampling_Number=300; 
+Space_Sampling_Number=200;
+% Total sampling number is N=Time_Sampling_Number*Space_Sampling_Number, so
+% in order not to overwhelm the computation, control the total sampling 
+% number less than 100,000, typically,Time_Sampling_Number=300,
+% Space_Sampling_Number=200
+Seed_Pulse_Time_scale=1*10^-9;%s 
+% Seed_Pulse_Time_scale:should be a little bit larger than seed pulse duration
+Pump_Pulse_Time_scale=40*10^-9;%s 
+% Pump_Pulse_Time_scale:should be a little bit larger than pump pulse duration
+Delta_t=10^-9;%s
+% Delta_t: Observation plot, scale unit
+
+%% Measured Data
+Measured_Input_Energy=0.97*[35,54,70,95,120,150,180,220,260,300,340,390,420,450,480,520,550];%mJ
+Measured_Output_Energy=[58,90,135,180,220,270,330,390,460,530,600,650,720,750,790,830,890];%mJ
+
+%% Figure Plot Control
+%Flag_xxx: these variables are all control variables, set 1 to
+%switch on the figure, set 0 to switch off. Other Flag_xxx variables besides 
+%figure's control are the same, 1 to turn on, 0 to turn off. For Check_xxx
+%variables, these are the observed values you need to put in to check the
+%status of the calculation
+
+%Figure 1, Seed photon density n0 vs t
+Flag_Figure1=1;Check_InputEnergy1=50;%mJ
+%Figure 2, Pump photon density np vs t
+Flag_Figure2=1;
+%Figure 3, Inital Population Inversion Density Delta0 vs x
+Flag_Figure3=1;
+%Figure 4, Population inversion Density in each pass Delta vs x
+Flag_Figure4=1;Check_InputEnergy4=500;%mJ
+%Figure 5, Damage Analysis Ouput Energy Fluence vs Input Energy
+Flag_Figure5=1;Flag_Show_Crystal_Material_Damage_Threshold=0;
+%Figure 6, Output Energy vs Input Energy
+Flag_Figure6=1;
+%Figure 7, Spectrum Correction with wavelength stretch, figure shows upper 
+%wavelength start point and lower wavelength end point, the relationship
+%will show in Figure 1 and Figure 8
+Flag_Figure7=1;
+%Figure 8, Cross Section vs wavelength/time delay,
+%Flag_SeeTimeCorrespondCrossSection=1,Cross Section vs time delay,
+%Flag_SeeTimeCorrespondCrossSection=0,Cross Section vs wavelength
+Flag_Figure8=1;Flag_SeeTimeCorrespondCrossSection=0;
+%Figure 9, check for the Beam Profile in Polar coordinate, need to specify
+%the observed Energy,and observed Time of the pulse. Note that, this figure
+%is only meaningful and shown when Flag_BeamSizeCorrection set to 1
+Flag_Figure9=1;Flag_ShowRadius=1;
+Check_InputEnergy9=80;%mJ
+Check_Time=0.5;%ns
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% Code Detail %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+N=Time_Sampling_Number;
+Ny=Space_Sampling_Number;
+t=linspace(0,Seed_Pulse_Time_scale,N);%s
+tp=linspace(0,Pump_Pulse_Time_scale,N);%s
+delta_t=Delta_t;% observation in ns scale
+t0=max(t)/2;
+t0p=max(tp)/2;
+c=3*10^10;%cm/s
+h=6.626*10^(-34);
+x=linspace(0,Crystal_Length,N);%cm 2nd stage 2cm, 3rd stage 2.5cm                     
+dx=max(x)/N;
+dt=max(t)/N;
+dtp=max(tp)/N;
+
+%% Laser Gain Specification
+T=Seed_Pulse_Duration;%ps Pulse duration
+bb=b_Parameter;%2nd stage 0.97 % laser incidence angle & laser gain coefficient aberration correction 
+T=T*10^(-12); 
+dT=Seed_Pulse_Duration_tail;
+dT=dT*10^(-12);% squre pulse tail length
+D=Beam_Diameter;%cm %2.2 1.9 1.6 1.4cm 2nd stage 1.2cm 3rd stage 2.2cm                  
+A=pi*(D/2)^2;%cm^2 %2nd 1.2 %3rd 2                                        
+lambda=Seed_Center_Wavelength;%nm
+Delta0=linspace(Ground_State_Population,Ground_State_Population,N);%cm^-3
+gamma=GAMMA;%gamma=1+g2/g1, for 4-level,gamma=1
+sigma=Cross_section_absorption_Seed;%cm^-2
+v=c/(lambda*10^(-7));
+Energy0=Input_Seed_Energy;%mJ %2nd stage 0.5:35, 3rd stage 35:5:550                 
+Energy_sat=h*v/(gamma*sigma)*1000*A;%J
+Lossofoptics=Loss_From_Optics;%0.84;% 2nd stage 84%, 3rd stage 79% or 78%                    
+N0=Energy0*10^(-3)/((h*v)*T*A*c);%cm^-3
+
+%% Laser Pump Specification
+aa=a_Parameter; 
+Tp=Pump_Pulse_Duration;%ns
+Tp=Tp*10^(-9);
+lambdap=Pump_Center_Wavelength;%nm
+Delta_in=-Ground_State_Population;%cm^-3 %2nd -4.4*10^19,%3rd -3.37*10^19                
+Delta0p=Delta_in*linspace(1,1,N);%cm^-3
+sigmap=Cross_section_absorption_Pump;%cm^-2
+vp=c/(lambdap*10^(-7));
+Energy0p1=aa*Crystal_Back_Input_Pump_Energy;
+Energy0p2=aa*Crystal_Front_Input_Pump_Energy;
+Energy_satp=h*vp/(gamma*sigmap)*A;%J
+
+%% Absorption Cross section
+lambdamin=FWHM_Cross_Section_Lower_Wavelength;%nm,FWHM lower wavelength of Ti;Sapphire emission band
+lambdamax=FWHM_Cross_Section_Upper_Wavelength;%nm,FWHM upper wavelength of Ti:Sapphire emission band
+lambdamin=lambdamin*10^(-7);
+lambdamax=lambdamax*10^(-7);
+lambda=lambda*10^(-7);%cm
+dgamma=(c/lambdamin-c/lambdamax)/2;%HWHM of Ti:sapphire
+Lambda=linspace(FWHM_Cross_Section_Lower_Wavelength*0.6,FWHM_Cross_Section_Upper_Wavelength*1.5,N);%nm
+Lambda=Lambda*10^(-7);
+dlambda=(max(Lambda)-min(Lambda))/N;
+
+%% Cross section initialized
+del_t=T+dT*2;
+Lambdamin=Seed_Spectrum_Lower_Wavelength;%nm %seed spectrum minimum
+Lambdamax=Seed_Spectrum_Upper_Wavelength;%seed spectrum maximum
+del_lambda=Lambdamax-Lambdamin;%spectrum=720-860nm
+del_lambda=del_lambda*10^(-7);%cm
+Lambdamin=Lambdamin*10^(-7);%Blue correspond to end point
+Lambdamax=Lambdamax*10^(-7);%Red correspond to start point
+dtdlambda=-del_t/del_lambda;%negative for stretcher pulse, red is faster than blue
+start_point=find(t>=(t0-T/2-dT),1);
+end_point=find(t>=(t0+T/2+dT),1);
+sigma_lambda=linspace(sigma,sigma,N);
+
+for j=1:N
+    Lambda(j)=Lambdamax-(t(start_point)-t(j))/dtdlambda;
+    sigma_lambda(j)=sigma*dgamma^2./((c./Lambda(j)-c/lambda).^2+dgamma^2);%cross section correction
+end
+
+
+%% Guassian Beam profile initialized
+cc=c_Parameter;%3rd 1.15 %apply to Large beam size, balance flat beam profile and gaussian beam profile, small beam size set to 1, this number should >=1
+y=linspace(0,D,Ny);
+dy=(max(y)-min(y))/Ny;
+sig_r=D/6;%set 3sigma point as the radius of the beam, 3sigma=D/2
+% G_y=y<=D/2;
+% G_y=G_y/A;
+% Integral_gaussian_check=2*pi*sum(G_y.*abs(y)*dy);
+G_y=1/(2*pi*sig_r^2).*exp(-y.^2/(2*sig_r^2));%Beam profile correction, gaussian approx
+Integral_gaussian_check=2*pi*sum(G_y.*abs(y)*dy);
+G_y=G_y/Integral_gaussian_check;
+Integral_gaussian_check=2*pi*sum(G_y.*abs(y)*dy);
+
+
+%% square input seed pulse
+
+N0=(rectangularPulse((t-t0)/T)+exp(-(t-t0+T/2).^2/dT^2).*(t<=t0-T/2)+exp(-(t-t0-T/2).^2/dT^2).*(t>=t0+T/2));
+for i=1:numel(Energy0)
+    if Flag_BeamSizeCorrection==1
+        n0(i,:)=N0*Energy0(i)*10^(-3)/sum(h*c./Lambda*c.*N0*dt);
+        Integral_n0(i)=sum(h*c./Lambda*c.*n0(i,:)*dt)*10^3;
+    else
+        n0(i,:)=N0*Energy0(i)*10^(-3)/sum(h*c./Lambda*c.*N0*A*dt);
+        Integral_n0(i)=sum(h*c./Lambda*c.*n0(i,:)*A*dt)*10^3;
+    end
+end
+
+
+%% Figure9, check the beam profile in polar coordinate
+if Flag_Figure9==1 && Flag_BeamSizeCorrection==1
+    figure(9);
+    n0_profile=n0(find(Energy0>Check_InputEnergy9,1),find(t>Check_Time*10^-9,1)).*G_y;
+    n0_max=n0(find(Energy0>Check_InputEnergy9,1),find(t>t0,1)).*G_y;
+    plot(y,n0_profile,'DisplayName','Input n_0');hold on;
+    axis tight;
+    ylim([0,max(n0_max)]);
+    title(['Beam Profile in Polar coordinate,E=',num2str(Check_InputEnergy9),'mJ,t=',num2str(Check_Time),'ns']);
+    ylabel('n(cm^{-3})');
+    xlabel('y(cm)');
+end
+
+%% Guassian input pump pulse
+n0p=exp(-(tp-t0p).^2/(Tp/2)^2);
+n0p1=n0p*Energy0p1/(h*vp*c*A*sum(n0p)*dtp);
+n0p2=n0p*Energy0p2/(h*vp*c*A*sum(n0p)*dtp);
+Wp1=cumtrapz(n0p1)*dtp;
+Wp2=cumtrapz(n0p2)*dtp;
+Einp1=h*vp*c*Wp1(N);
+Einp2=h*vp*c*Wp2(N);
+
+%check for energy
+Einp1_energy_check=Einp1*A;
+Einp2_energy_check=Einp2*A;
+
+%% Absorption Saturation Calculation
+Esatp=h*vp/(gamma*sigmap);%J/cm^2
+E0p=Einp1;%J/cm^2
+a=sigmap*cumtrapz(Delta0p)*dx;%sign the same as g,with negative inversion, this is negative value
+
+%% Gain Saturation calculation
+Esat=h*v/(gamma*sigma);%J/cm^2
+
+%% Frantz-Nodvik
+
+%Absorption
+
+%% Back pump
+for i=1:N
+    np(i,:)=n0p1./(1-(1-exp(-a(i))).*exp(-1*sigmap*c*Wp1));
+    Deltap(i,:)=Delta0p(i).*exp(-a(i))./(exp(1*sigmap*c*Wp1)+exp(-a(i))-1);
+    Eoutp(i)=h*vp*c*sum(np(i,:))*dt;
+end
+
+Delta0p=Deltap(:,N);
+Delta0p=Delta0p';
+Delta0p=fliplr(Delta0p);
+a=sigmap*cumtrapz(Delta0p)*dx;
+E0p=Einp2;
+
+%% Front pump
+for i=1:N
+    np(i,:)=n0p2./(1-(1-exp(-a(i))).*exp(-1*sigmap*c*Wp2));
+    Deltap(i,:)=Delta0p(i).*exp(-a(i))./(exp(1*sigmap*c*Wp2)+exp(-a(i))-1);
+    Eoutp(i)=h*vp*c*sum(np(i,:))*dt;
+end
+
+Eoutp_comp=Esatp*log(1+exp(a).*(exp(E0p/Esatp)-1));
+
+Delta0=Deltap(:,N);
+Delta0=Delta0';
+if(gamma==1)%4-level system
+    Delta0=Delta0-Delta_in;
+end
+if(gamma==2)%3-level system
+    Delta0=(Delta0-Delta_in)+Delta0;
+end
+
+## end
+#68, 1022:
+<!--
++[H函数](,Pulse模拟)
+
+参考::file:///C:/Users/cheng/Desktop/paper/Amplifier/Frantz63.pdf#page=3
++[打开网页](,参考)
+
+微分方程(公式):...
+微分方程2(公式):...
+
+通解_n(公式):...
+通解_Delta(公式):...
+
+放大解_n(公式):...
+放大解_Delta(公式):...
++[新建阅读窗口](,放大解_n)
+
+
+-->
+
+<b><u>Frantz-Nodvik equations</u></b><br>
+To solve the laser pulse amplifier problem, we will use the Frantz-Nodvik equations. Basically, it's the solution for the following equations, 
+%微分方程
+<br>
+Or equally we will have, 
+%微分方程2
+<br>
+The solution of the differential equation is, 
+%通解_n
+%通解_Delta
+<br>
+Here we can make some assumptions, <br>
+1.when \(t<0\), the \(n_0=0\); <br>
+2.the boundary of the crystal is \(x\in [0, x_0]\). <br>
+We are interested in two cases, <br>
+1.the output pulse at the other end of the crystal; <br>
+2.the inverse population distribution after the pulse leaving the crystal. <br>
+Then the equations should be written in this way, 
+%放大解_n
+%放大解_Delta
+
+
+
+<!--
++[H函数](,Pulse模拟)
+
+验证公式(M函数):...
+验证公式的"N_p"替换为"N_s"
+
++[matlab]"physics_constant;L=2.5e-2;L/c/1e-12"(Matlab,)
+-->
+## end
+#71, 66:
+file:///C:/Users/cheng/Desktop/paper/Amplifier/Frantz63.pdf#page=3
+## end
+#73, 17:
+文档\S应用\公式分析器.ftxt
+## end
+#75, 1339:
+%{
++[M函数](,问题)
+%}
+
+
+
+% clc;
+% clear all;
+% close all;
+
+%Gain
+
+physics_constant;
+
+pass=3;
+dt=3.3333e-12;
+dx=0.0083;
+n_0=n0(end,:);
+% Delta0=ones(1,301);
+% Energy0=1;
+Lambda=800e-9;
+
+bb=1;
+sigma=3e-19;
+gamma=1;
+
+N=size(n_0,2);
+M=numel(Energy0);
+nout=zeros(M,N);
+
+
+for k=1
+    n0_pass=n_0;
+    for i=1:pass
+        if (i==1)
+            delta_in=Delta0;
+        end
+        n=zeros(1,N);
+        for j=1:N
+            g=bb*sigma_lambda(j)*cumtrapz(delta_in)*dx;
+            n(j)=n0_pass(j)/(1-(1-exp(-g(N)))*exp(-gamma*c*sigma_lambda(j)*n0_pass(j)*dt));
+            delta_out=delta_in.*exp(-g)./(exp(gamma*c*sigma_lambda(j)*n0_pass(j)*dt)+exp(-g)-1); 
+            
+%             g=bb*sigma*cumtrapz(delta_in)*dx;
+%             n(j)=n0_pass(j)/(1-(1-exp(-g(N)))*exp(-gamma*c*sigma*n0_pass(j)*dt));
+%             delta_out=delta_in.*exp(-g)./(exp(gamma*c*sigma*n0_pass(j)*dt)+exp(-g)-1); 
+
+            delta_in=delta_out;
+        end
+        % Signal propagates from the back
+        delta_in=fliplr(delta_out); 
+        n0_pass=n;%update n0
+        plot(x,n)
+        hold on
+    end
+    nout(k,:)=n0_pass;  
+end
+
+Eout=sum(h*c./Lambda*c.*nout,2)*dt; %spectrum correction
+Energy_in=Energy0;
+Energy_out=Eout*1000;
+% Energy_out=(1+(Energy_in-min(Energy_in))*(cc-1)/(max(Energy_in)-min(Energy_in))).*Energy_out;
+
+% plot(n0_pass)
+
+
+%{
++[M函数](,问题)
+%}
+## end
+#78, 198:
+\begin{cases}
+\partial n/\partial t + c(\partial n/\partial x)= \sigma c n (N_2-N_1)
+\\
+\partial N_1/\partial t = \sigma c n (N_2-N_1)
+\\
+\partial N_2/\partial t = - \sigma c n (N_2-N_1)
+\end{cases}
+## end
+#81, 146:
+\begin{cases}
+\partial \Delta/\partial t = - 2 \sigma c n \Delta
+\\
+\partial n/\partial t + c \partial n/\partial x= \sigma c n \Delta
+\end{cases}
+## end
+#84, 136:
+n(x,t)=
+\frac{n_0\ (t-x/c)}
+{1-(1-exp(-\sigma\ \int_0^x\Delta_0(x_1)\ dx_1))\ exp(-2\ \sigma\ c\ \int_{-\infty}^{t-x/c} n_0(t_1)\ dt_1)}
+## end
+#87, 182:
+\Delta(x,t)=
+\frac{\Delta_0(x)\ exp(-\sigma\ \int_0^x\Delta_0(x_1)\ dx_1)}
+{exp(2\ \sigma\ c\ \int_{-\infty}^{t-x/c} n_0(t_1)\ dt_1) + exp(-\sigma\ \int_0^x\Delta_0(x_1)\ dx_1) - 1}
+
+## end
+#90, 136:
+n(x_0,t)=
+\frac{n_0\ (t-t_0)}
+{1-(1-exp(-\sigma\ \int_0^{x_0}\Delta_0(x_1)\ dx_1))\ exp(-2\ \sigma\ c\ \int_{0}^{t-t_0} n_0(t_1)\ dt_1)}
+## end
+#93, 182:
+\Delta(x,+\infty)=
+\frac{\Delta_0(x)\ exp(-\sigma\ \int_0^x\Delta_0(x_1)\ dx_1)}
+{exp(2\ \sigma\ c\ \int_0^{+\infty} n_0(t_1)\ dt_1) + exp(-\sigma\ \int_0^x\Delta_0(x_1)\ dx_1) - 1}
+
+## end
+#96, 949:
+%{
++[M函数](,验证公式)
+
+PumpAmplify_TiS(M函数):...
+PumpAmplify_TiS_intensity(M函数):...
+PumpAmplify_TiS_profile(M函数):...
+
+显示输入(M函数):...
+Stage_2nd_Amplifier(M函数):...
+Stage_1st_Amplifier(M函数):...
+Stage_1st_Amplifier的"Stage_2nd_Amplifier"替换为"Stage_1st_Amplifier"
++[新建阅读窗口](,Stage_2nd_Amplifier)
+曲线(M函数):...
+饱和吸收_二维分布(M函数):...
+D
+存档:...
+%}
+
+clf
+addpath('Matlab\optics');
+physics_constant
+
+E_s=6e-3;
+E_p=1.29;
+L=2.5e-2;
+Dtau=200e-15;
+
+lm_p=532e-9;
+lm_s=800e-9;
+
+D_p=1e-3;
+D=D_p;
+D_s=0.5e-3;
+x_s=1e-3;
+x_l=linspace(-4*D,4*D,100);
+y_l=linspace(-4*D,4*D,100);
+[X,Y]=meshgrid(x_l,y_l);
+
+profile_p=exp(-(X.^2+Y.^2+X.*Y)/D_p^2);
+profile_s=exp(-((X-x_s).^2+Y.^2)/D_s^2);
+S_p=trapz(y_l,trapz(x_l,profile_p,2));
+S_s=trapz(y_l,trapz(x_l,profile_s,2));
+
+J_s=E_s/S_s*profile_s;
+J_p=E_p/S_p*profile_p;
+
+
+max(max(J_s))
+max(max(J_p))
+
+[Js_out,Jp_out]=PumpAmplify_TiS_profile(J_s,lm_s,Dtau,J_p,lm_p,L);
+
+
+surf(X,Y,Js_out)
+axis equal
+shading interp
+view(0,90)
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#99, 1083:
+%{
++[M函数](,PumpAmplify_TiS)
+地址::Matlab\optics.\PumpAmplify_TiS.m
++[保存文本](,PumpAmplify_TiS)
+
+Dt=1200e-15;
+Dx=2.5e-2;
+Dtau=200e-15;
+N_p=1.7e19;
+N_e=3.05e22;
+
+t=linspace(0,Dt,300);
+x=linspace(0,Dx,200);
+
+n_0=exp(-(t-Dt/2).^2/Dtau^2);
+n_0=N_p*n_0/abs(trapz(t,n_0))/c;
+Delta_0=exp(-x/Dx);
+Delta_0=N_e*Delta_0/abs(trapz(x,Delta_0));
+
+%}
+
+
+function [n,Delta,ratio_n]=PumpAmplify_TiS(t,n_0,x,Delta_0)
+physics_constant;
+sigma=3e-23;
+
+x0=max(x);
+t0=x0/c;
+dx=x(2)-x(1);
+dt=t(2)-t(1);
+
+% n output
+int_n=cumsum(n_0)*dt;
+int_D=trapz(x,Delta_0);
+A=exp(-2*sigma*c*int_n);
+B=1-exp(-sigma*int_D);
+ratio_n=1./(1-B*A);
+n=n_0.*ratio_n;
+
+% Delta output
+exp_D=exp(-sigma*cumsum(Delta_0)*dx);
+exp_n=exp(2*sigma*c*trapz(t,n_0));
+ratio_D=exp_D./(exp_n+exp_D-1);
+Delta=Delta_0.*ratio_D;
+
+end
+
+%{
++[M函数](,PumpAmplify_TiS)
++[matlab]"plot(t,n)"(Matlab,)
++[matlab]"plot(t,ratio_n)"(Matlab,)
++[matlab]"plot(x,Delta_0)"(Matlab,)
++[matlab]"plot(t,A)"(Matlab,)
++[matlab]"plot(x,Delta,x,Delta_0);set(gca,'YScale','log')"(Matlab,)
++[matlab]"plot(int_n)"(Matlab,)
++[matlab]"trapz(t,n_0)"(Matlab,)
++[matlab]"B"(Matlab,)
+%}
+## end
+#102, 32:
+Matlab\optics.\PumpAmplify_TiS.m
+## end
+#104, 833:
+%{
++[M函数](,显示输入)
+
+PumpAmplify_TiS(M函数):...
+显示输入(M函数):...
+%}
+
+addpath('Matlab\optics');
+physics_constant;
+
+Dt=1200e-15;
+Dx=2.5e-2;
+Dtau=200e-15;
+N_p=7.0e20*3;
+N_e=3.05e22*0.9;
+
+t=linspace(0,Dt,300);
+x=linspace(0,Dx,200);
+
+n_0=exp(-(t-Dt/2).^2/Dtau^2);
+n_0=N_p*n_0/abs(trapz(t,n_0))/c;
+Delta_0=exp(-x/Dx);
+Delta_0=N_e*Delta_0/abs(trapz(x,Delta_0));
+
+n=n_0;
+Delta=Delta_0;
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+
+
+subplot(1,2,1)
+plot(x/1e-3,Delta_0);
+xlabel('x [mm]');
+ylabel('Inversion population');
+title('Initial inversion population distribution')
+axis([min(x)/1e-3,max(x)/1e-3,0,1.1*max(Delta_0)])
+
+
+subplot(1,2,2)
+plot(t/1e-12,n_0);
+xlabel('t [ps]');
+ylabel('Photon number');
+title('Input pulse shape')
+
+
+%{
++[M函数](,验证公式)
+
+%}
+## end
+#107, 872:
+%{
++[M函数](,Stage_2nd_Amplifier)
+地址::Matlab\optics\Stage_2nd_Amplifier.m
++[保存文本](,Stage_2nd_Amplifier)
+%}
+
+
+function E_out=Stage_2nd_Amplifier(E_s,Dtau,E_p,D,Dx)
+
+% E_s=6e-3;
+% E_p=1.29;
+% Dx=2.5e-2;
+% Dtau=200e-15;
+% D=1.2e-2;
+
+physics_constant
+
+E_p=E_p*0.9;
+
+Dt=Dtau*6;
+lm_p=532e-9;
+lm_s=800e-9;
+
+omega_p=2*pi*c/lm_p;
+omega_s=2*pi*c/lm_s;
+S=D^2*pi/4;
+
+% N_s=7.0e20*3;
+% N_e=3.05e22*0.9;
+
+N_s=E_s/hbar/omega_s/S;
+N_e=E_p/hbar/omega_p/S;
+
+t=linspace(0,Dt,500);
+x=linspace(0,Dx,500);
+
+n_0=exp(-(t-Dt/2).^2/Dtau^2);
+n_0=N_s*n_0/abs(trapz(t,n_0))/c;
+Delta_0=exp(-x/Dx);
+Delta_0=N_e*Delta_0/abs(trapz(x,Delta_0));
+
+n=n_0;
+Delta=Delta_0;
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+
+N_out=abs(trapz(t,n))*c;
+E_out=N_out*hbar*omega_s*S;
+
+
+end
+
+
+%{
++[M函数](,Stage_2nd_Amplifier)
+%}
+## end
+#110, 35:
+Matlab\optics\Stage_2nd_Amplifier.m
+## end
+#112, 640:
+%{
++[M函数](,验证公式)
+
+PumpAmplify_TiS(M函数):...
+显示输入(M函数):...
+Stage_2nd_Amplifier(M函数):...
++[新建阅读窗口](,Stage_2nd_Amplifier)
+曲线(M函数):
+%}
+
+addpath('Matlab\optics');
+
+Dx=2.5e-2;
+Dtau=200e-15;
+D=1.2e-2;
+% E_p=1.29;
+% E_s=6e-3;
+
+E_p=linspace(0.5,2.5,30);
+E_s=linspace(3e-3,50e-3,30);
+
+E_out=zeros(size(E_p,1),size(E_s,2));
+
+for j=1:length(E_p)
+    for i=1:length(E_s)
+        E_out(j,i)=Stage_2nd_Amplifier(E_s(i),Dtau,E_p(j),D,Dx);
+    end
+end
+
+subplot(1,2,1)
+plot(E_s/1e-3,E_out/1e-3)
+xlabel('Input energy [mJ]')
+ylabel('Output energy [mJ]')
+
+subplot(1,2,2)
+plot(E_s/1e-3,E_out./E_s)
+xlabel('Input energy [mJ]')
+ylabel('Gain')
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#115, 920:
+%{
++[M函数](,饱和吸收_二维分布)
+
+PumpAmplify_TiS(M函数):...
+显示输入(M函数):...
+Stage_2nd_Amplifier(M函数):...
++[新建阅读窗口](,Stage_2nd_Amplifier)
+曲线(M函数):...
+%}
+
+addpath('Matlab\optics');
+
+Dx=2.5e-2;
+Dtau=200e-15;
+D=1.2e-2;
+% E_p=1.29;
+% E_s=6e-3;
+
+E_p=linspace(0.5,3.5,31);
+E_s=linspace(3e-3,50e-3,30);
+
+E_out=zeros(size(E_p,1),size(E_s,1));
+[E_2,E_1]=meshgrid(E_s,E_p);
+
+for j=1:length(E_p)
+    for i=1:length(E_s)
+        E_out(j,i)=Stage_2nd_Amplifier(E_s(i),Dtau,E_p(j),D,Dx);
+    end
+end
+
+Gain=E_out./E_2;
+
+
+figure(2)
+subplot(1,2,1)
+% surf(E_p,E_s/1e-3,E_out)
+[C,h]=contourf(E_1,E_2/1e-3,E_out/1e-3)
+clabel(C,h)
+ylabel('Signal energy [mJ]')
+xlabel('Pump energy [J]')
+title('Output Energy')
+h=colorbar;
+xlabel(h,'[mJ]')
+
+subplot(1,2,2)
+[C,h]=contourf(E_1,E_2/1e-3,Gain./max(Gain')')
+clabel(C,h)
+ylabel('Signal energy [mJ]')
+xlabel('Pump energy [J]')
+title('Saturation Ratio')
+h=colorbar;
+xlabel(h,'Gain/Gain_{max}')
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#118, 805:
+%{
++[M函数](,PumpAmplify_TiS_intensity)
+地址::Matlab\optics\PumpAmplify_TiS_intensity.m
++[保存文本](,PumpAmplify_TiS_intensity)
+Dx
+是([动词库],动词)->+[打开文件](+新窗口,动词)
++[显示](,地址)
+%}
+
+function [Js_out,Jp_out]=PumpAmplify_TiS_intensity(J_s,lm_s,Dtau,J_p,lm_p,L)
+physics_constant
+
+% J_s=6e-3/1e-4;
+% J_p=1.29/1e-4;
+% L=2.5e-2;
+% Dtau=200e-15;
+
+% lm_s=800e-9;
+% lm_p=532e-9;
+
+Dt=Dtau*6;
+
+omega_s=2*pi*c/lm_s;
+omega_p=2*pi*c/lm_p;
+
+N_s=J_s/hbar/omega_s;
+N_e=J_p/hbar/omega_p;
+
+t=linspace(0,Dt,500);
+Lx=linspace(0,L,500);
+n_0=exp(-(t-Dt/2).^2/Dtau^2);
+Delta_0=exp(-Lx/L);
+
+n=N_s*n_0/abs(trapz(t,n_0))/c;
+Delta=N_e*Delta_0/abs(trapz(Lx,Delta_0));
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,Lx,Delta);
+
+Js_out=abs(trapz(t,n))*c*hbar*omega_s;
+Jp_out=abs(trapz(Lx,Delta))*hbar*omega_p;
+
+
+end
+
+
+
+%{
++[M函数](,PumpAmplify_TiS_intensity)
+%}
+## end
+#121, 41:
+Matlab\optics\PumpAmplify_TiS_intensity.m
+## end
+#123, 875:
+%{
++[M函数](,PumpAmplify_TiS_profile)
+地址::Matlab\optics\PumpAmplify_TiS_profile.m
++[保存文本](,PumpAmplify_TiS_profile)
+Dx
+是([动词库],动词)->+[打开文件](+新窗口,动词)
++[显示](,地址)
+%}
+
+function [Js_out,Jp_out]=PumpAmplify_TiS_profile(J_s,lm_s,Dtau,J_p,lm_p,L)
+physics_constant
+
+Dt=Dtau*6;
+
+omega_s=2*pi*c/lm_s;
+omega_p=2*pi*c/lm_p;
+
+t=linspace(0,Dt,500);
+Lx=linspace(0,L,500);
+n_0=exp(-(t-Dt/2).^2/Dtau^2);
+n_0=n_0/abs(trapz(t,n_0))/c;
+Delta_0=exp(-Lx/L);
+Delta_0=Delta_0/abs(trapz(Lx,Delta_0));
+
+Js_out=zeros(size(J_s));
+Jp_out=zeros(size(J_p));
+
+for i=1:size(J_s,1)
+    for j=1:size(J_s,2)
+        n=J_s(i,j)/hbar/omega_s*n_0;
+        Delta=J_p(i,j)/hbar/omega_p*Delta_0;
+        [n,Delta]=PumpAmplify_TiS(t,n,Lx,Delta);
+        
+        Js_out(i,j)=abs(trapz(t,n))*c*hbar*omega_s;
+        Jp_out(i,j)=abs(trapz(Lx,Delta))*hbar*omega_p;
+    end
+end
+
+
+end
+
+
+
+%{
++[M函数](,PumpAmplify_TiS_profile)
+%}
+## end
+#126, 923:
+%{
++[M函数](,验证公式)
+
+PumpAmplify_TiS(M函数):...
+PumpAmplify_TiS_intensity(M函数):...
+PumpAmplify_TiS_profile(M函数):...
+
+显示输入(M函数):...
+Stage_2nd_Amplifier(M函数):...
++[新建阅读窗口](,Stage_2nd_Amplifier)
+曲线(M函数):...
+饱和吸收_二维分布(M函数):...
+%}
+
+clf
+addpath('Matlab\optics');
+physics_constant
+
+E_s=6e-3;
+E_p=1.29;
+L=2.5e-2;
+Dtau=200e-15;
+
+lm_p=532e-9;
+lm_s=800e-9;
+
+D_p=1e-3;
+D_s=0.5e-3;
+x_s=1e-3;
+x=linspace(-4*D,4*D,100);
+y=linspace(-4*D,4*D,100);
+[X,Y]=meshgrid(x,y);
+
+profile_p=exp(-(X.^2+Y.^2)/D_p^2);
+profile_s=exp(-((X-x0).^2+Y.^2)/D_s^2);
+S_p=trapz(y,trapz(x,profile_p,2));
+S_s=trapz(y,trapz(x,profile_s,2));
+
+
+J_s=E_s/S_s*profile_s;
+J_p=E_p/S_p*profile_p;
+
+Js_out=zeros(size(J_s));
+Jp_out=zeros(size(J_s));
+for i=1:size(J_s,1)
+for j=1:size(J_s,2)
+[js,jp]=PumpAmplify_TiS_intensity(J_s(i,j),lm_s,Dtau,J_p(i,j),lm_p,L);
+Js_out(i,j)=js;
+Jp_out(i,j)=jp;
+end
+end
+
+
+surf(X,Y,Jp_out)
+axis equal
+shading interp
+view(90,90)
+
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#128, 39:
+Matlab\optics\PumpAmplify_TiS_profile.m
+## end
+#130, 1620:
+%{
++[M函数](,Stage_1st_Amplifier)
+地址::Matlab\optics\Stage_1st_Amplifier.m
++[保存文本](,Stage_1st_Amplifier)
+测试:...
+%}
+
+
+function [E_out,E_outs]=Stage_1st_Amplifier(E_s,Dtau,E_p,D,Dx)
+
+% E_s=6e-3;
+% E_p=1.29;
+% Dx=2.5e-2;
+% Dtau=200e-15;
+% D=1.2e-2;
+
+physics_constant
+
+E_p=E_p*0.9;
+
+Dt=Dtau*6;
+lm_p=532e-9;
+lm_s=800e-9;
+
+omega_p=2*pi*c/lm_p;
+omega_s=2*pi*c/lm_s;
+S=D^2*pi/4;
+
+% N_s=7.0e20*3;
+% N_e=3.05e22*0.9;
+
+N_s=E_s/hbar/omega_s/S;
+N_e=E_p/hbar/omega_p/S;
+
+t=linspace(0,Dt,500);
+x=linspace(0,Dx,500);
+
+n_0=exp(-(t-Dt/2).^2/Dtau^2);
+n_0=N_s*n_0/abs(trapz(t,n_0))/c;
+Delta_0=exp(-x/Dx);
+Delta_0=N_e*Delta_0/abs(trapz(x,Delta_0));
+
+n=n_0;
+Delta=Delta_0;
+E_outs=[];
+
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+N_out=abs(trapz(t,n))*c;
+E_out=N_out*hbar*omega_s*S;
+E_outs(end+1)=E_out;
+
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+N_out=abs(trapz(t,n))*c;
+E_out=N_out*hbar*omega_s*S;
+E_outs(end+1)=E_out;
+
+
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+N_out=abs(trapz(t,n))*c;
+E_out=N_out*hbar*omega_s*S;
+E_outs(end+1)=E_out;
+
+
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+N_out=abs(trapz(t,n))*c;
+E_out=N_out*hbar*omega_s*S;
+E_outs(end+1)=E_out;
+
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+N_out=abs(trapz(t,n))*c;
+E_out=N_out*hbar*omega_s*S;
+E_outs(end+1)=E_out;
+
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+N_out=abs(trapz(t,n))*c;
+E_out=N_out*hbar*omega_s*S;
+E_outs(end+1)=E_out;
+
+[n,Delta,ratio_n]=PumpAmplify_TiS(t,n,x,Delta);
+N_out=abs(trapz(t,n))*c;
+E_out=N_out*hbar*omega_s*S;
+E_outs(end+1)=E_out;
+
+
+
+N_out=abs(trapz(t,n))*c;
+E_out=N_out*hbar*omega_s*S;
+
+
+end
+
+
+%{
++[M函数](,Stage_1st_Amplifier)
+%}
+## end
+#133, 35:
+Matlab\optics\Stage_1st_Amplifier.m
+## end
+#135, 699:
+%{
++[M函数](,测试)
+%}
+
+addpath('Matlab\optics');
+
+Dx=0.8e-2;
+Dtau=200e-15;
+D=2.2e-3;
+% E_p=1.29;
+% E_s=6e-3;
+
+E_p=linspace(0.1,2.3,100);
+E_s=linspace(20e-6,100e-5,20);
+
+E_out=zeros(length(E_p),length(E_s));
+
+
+for j=1:length(E_p)
+    for i=1:length(E_s)
+        E_out(j,i)=Stage_1st_Amplifier(E_s(i),Dtau,E_p(j),D,Dx);
+    end
+end
+
+
+subplot(1,2,1)
+plot(E_p/1e-3,E_out/1e-3)
+xlabel('Pump energy [mJ]')
+ylabel('Output energy [mJ]')
+
+subplot(1,2,2)
+plot(E_p/1e-3,E_out./E_s)
+xlabel('Pump energy [mJ]')
+ylabel('Gain')
+
+%{
+subplot(1,2,1)
+plot(E_s/1e-3,E_out/1e-3)
+xlabel('Input energy [mJ]')
+ylabel('Output energy [mJ]')
+
+subplot(1,2,2)
+plot(E_s/1e-3,E_out./E_s)
+xlabel('Input energy [mJ]')
+ylabel('Gain')
+%}
+
+## end
+### 结束

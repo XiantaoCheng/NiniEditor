@@ -1,0 +1,200 @@
+### 节点
+地址, 的, 计算卷积, 目录, 的, 的, 傅里叶公式, html, 的, 的, 的, 的, 表达式, 的, [1]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [2]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [3]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [4]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [5]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [6]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [7]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [8]., 公式, 的, 的, 的, 的, 表达式, 的, [9]., 公式, 的, 的, 的, 的, 表达式, 的, [10]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [11]., 公式, 的, 范围, 答案, 回答, 的, 的, 的, 的, 表达式, 的, [12]., 公式, 起点, 的, 起点, 的, 起点, 的, 的, 的, 的, 的, 表达式, 的, [13]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [14]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [15]., 公式, 起点, 的, 的, 的, 的, 的, 表达式, 的, [16]., 公式, 的, 验证公式, M函数, 起点, 的, 起点, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 6#, 6#12, 6#13, 6#14, 6#15, #, 14#12, #, 14#, #del, 12#16, 6#22, 6#23, 6#24, 6#25, #, 24#22, #, 24#, #del, 22#26, 6#32, 6#33, 6#34, 6#35, #, 34#32, #, 34#, #del, 32#36, 6#42, 6#43, 6#44, 6#45, #, 44#42, #, 44#, #del, 42#46, 6#52, 6#53, 6#54, 6#55, #, 54#52, #, 54#, #del, 52#56, 6#62, 6#63, 6#64, 6#65, #, 64#62, #, 64#, #del, 62#66, 6#72, 6#73, 6#74, 6#75, #, 74#72, #, 74#, #del, 72#76, 6#82, 6#83, 6#84, 6#85, #, 84#82, #, 84#, 6#90, 6#91, 6#92, 6#93, #, 92#90, #, 92#, 6#98, 6#99, 6#100, 6#101, #, 100#98, #, 100#, #del, 98#102, 6#108, 6#109, 6#110, 6#111, #, 110#108, #, 110#, 6#del, del#6, #, 6#, 6#120, 6#121, 6#122, 6#123, #, 122#120, #, 122#, #del, 90#124, #del, 108#126, #del, 120#128, 6#134, 6#135, 6#136, 6#137, #, 136#134, #, 136#, #del, 134#138, 6#144, 6#145, 6#146, 6#147, #, 146#144, #, 146#, #del, 144#148, 6#154, 6#155, 6#156, 6#157, #, 156#154, #, 156#, #del, 154#158, 6#164, 6#165, 6#166, 6#167, #, 166#164, #, 166#, 6#169, #, 169#, #del, 82#171, #del, 164#173, 
+### 内容
+#0, 17:
+文档\数学问题\计算卷积.ftxt
+## end
+#2, 90:
++[返回目录](,计算卷积)
+地址::文档\数学问题\计算卷积.ftxt
+
+
+
+Nini, 导入公式结构的库. Nini, 导入公式分析器的库
+
+傅里叶公式(html):...
+
+
+## end
+#3, 48:
+计算卷积:...
+创建于 20220305
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 600:
+<!--
++[H函数](,傅里叶公式)
+
+将"\Delta_2=\sqrt{\Delta_0^2+\Delta_1^2}"记作(16)式
+
+更新(12)式
+Nini, 打开公式分析器(文件)
+的([11].,表达式)->+[显示星图](,表达式)
+-->
+
+The convolution is defined as,
+%[1].
+The Fourier transform of functions are,
+%[2].
+%[3].
+Put eq.(2) and eq.(3) into eq.(1) is,
+%[4].
+%[5].
+%[6].
+As a result,
+%[7].
+For a Gaussian function is,
+%[8].
+Then the Fourier transform of \(g(t)\) is,
+%[9].
+%[10].
+%[11].
+%[12].
+As a result, the convolution of two Gaussian functions is,
+%[13].
+%[14].
+%[15].
+As a result, we have,
+%[16].
+
+<!--
+验证公式(M函数):...
++[新建阅读窗口](,验证公式)
+将(16)式写入验证公式(Matlab)
+
++[新建阅读窗口](,[9].)
++[H函数](,傅里叶公式)
+-->
+## end
+#12, 55:
+g_1(t)=\int_{-\infty}^{\infty}{\tau}{f(\tau)*g(t-\tau)}
+## end
+#14, 59:
+g_1(t)=\int_{-\infty}^{\infty}{d\tau\ }{f(\tau)\ g(t-\tau)}
+## end
+#22, 70:
+f(\tau)=\int_{-\infty}^{\infty}{\omega}{exp(-i*\omega*\tau)*F(\omega)}
+## end
+#24, 76:
+f(\tau)=\int_{-\infty}^{\infty}{d\omega\ }{exp(-i\ \omega\ \tau)\ F(\omega)}
+## end
+#32, 76:
+g(t-\tau)=\int_{-\infty}^{\infty}{\omega}{exp(-i*\omega*(t-\tau))*G(\omega)}
+## end
+#34, 93:
+g(t-\tau)=\int_{-\infty}^{\infty}{d\omega\ }{exp(-i\ \omega\ \left(t-\tau\right))\ G(\omega)}
+## end
+#42, 127:
+g_1(t)=\int_{-\infty}^{\infty}{\tau,\omega_1,\omega_2}{exp(-i*\omega_1*\tau)*exp(-i*\omega_2*(t-\tau))*F(\omega_1)*G(\omega_2)}
+## end
+#44, 154:
+g_1(t)=\iiint_{-\infty}^{\infty}{d\omega_2\ d\omega_1\ d\tau\ }{exp(-i\ \omega_1\ \tau)\ G(\omega_2)\ F(\omega_1)\ exp(-i\ \omega_2\ \left(t-\tau\right))}
+## end
+#52, 119:
+g_1(t)=\int_{-\infty}^{\infty}{\omega_1,\omega_2}{\delta(\omega_1-\omega_2)*exp(-i*\omega_2*t)*F(\omega_1)*G(\omega_2)}
+## end
+#54, 130:
+g_1(t)=\iint_{-\infty}^{\infty}{d\omega_2\ d\omega_1\ }{\delta(\omega_1-\omega_2)\ G(\omega_2)\ F(\omega_1)\ exp(-i\ \omega_2\ t)}
+## end
+#62, 84:
+g_1(t)=\int_{-\infty}^{\infty}{\omega_1}{exp(-i*\omega_2*t)*F(\omega_1)*G(\omega_1)}
+## end
+#64, 91:
+g_1(t)=\int_{-\infty}^{\infty}{d\omega_1\ }{exp(-i\ \omega_2\ t)\ F(\omega_1)\ G(\omega_1)}
+## end
+#72, 31:
+G_1(\omega)=F(\omega)*G(\omega)
+## end
+#74, 32:
+G_1(\omega)=F(\omega)\ G(\omega)
+## end
+#82, 59:
+g(t)=\frac{1}{\Delta*\sqrt{\pi}}*exp(-\frac{t^2}{\Delta^2})
+## end
+#84, 65:
+g(t)=\frac{1}{\Delta\ \sqrt{\pi}}\ exp(-\frac{t^{2}}{\Delta^{2}})
+## end
+#90, 103:
+G(\omega)=\frac{1}{\Delta*\sqrt{\pi}}*\int_{-\infty}^{\infty}{t}{exp(-i*\omega*t-\frac{t^2}{\Delta^2})}
+## end
+#92, 114:
+G(\omega)=\frac{1}{\Delta\ \sqrt{\pi}}\ \int_{-\infty}^{\infty}{dt\ }{exp(-i\ \omega\ t-\frac{t^{2}}{\Delta^{2}})}
+## end
+#98, 197:
+-i*\omega*t-\frac{t^2}{\Delta^2}=-i*\omega*t-\frac{t^2}{\Delta^2}+\frac{\Delta^2*\omega^2}{4}-\frac{\Delta^2*\omega^2}{4}=-(\frac{t}{\Delta}+\frac{i*\Delta*\omega}{2})^2-\frac{\Delta^2*\omega^2}{4}
+## end
+#100, 239:
+-i\ \omega\ t-\frac{t^{2}}{\Delta^{2}}=-i\ \omega\ t-\frac{t^{2}}{\Delta^{2}}+\frac{\Delta^{2}\ \omega^{2}}{4}-\frac{\Delta^{2}\ \omega^{2}}{4}=-\left(\frac{t}{\Delta}+\frac{i\ \Delta\ \omega}{2}\right)^{2}-\frac{\Delta^{2}\ \omega^{2}}{4}
+## end
+#108, 152:
+G(\omega)=\frac{1}{\Delta*\sqrt{\pi}}*exp(-\frac{\Delta^2*\omega^2}{4})*\int_{-\infty}^{\infty}{t}{exp(-(\frac{t}{\Delta}+\frac{i*\Delta*\omega}{2})^2)}
+## end
+#110, 178:
+G(\omega)=\frac{1}{\Delta\ \sqrt{\pi}}\ exp(-\frac{\Delta^{2}\ \omega^{2}}{4})\ \int_{-\infty}^{\infty}{dt\ }{exp(-\left(\frac{t}{\Delta}+\frac{i\ \Delta\ \omega}{2}\right)^{2})}
+## end
+#115, 7:
+更新(11)式
+## end
+#120, 43:
+G(\omega)=exp(-\frac{\Delta^2*\omega^2}{4})
+## end
+#122, 48:
+G(\omega)=exp(-\frac{\Delta^{2}\ \omega^{2}}{4})
+## end
+#134, 45:
+F(\omega)=exp(-\frac{\Delta_0^2*\omega^2}{4})
+## end
+#136, 50:
+F(\omega)=exp(-\frac{\Delta_0^{2}\ \omega^{2}}{4})
+## end
+#144, 45:
+G(\omega)=exp(-\frac{\Delta_1^2*\omega^2}{4})
+## end
+#146, 50:
+G(\omega)=exp(-\frac{\Delta_1^{2}\ \omega^{2}}{4})
+## end
+#154, 60:
+G_1(\omega)=exp(-\frac{(\Delta_1^2+\Delta_0^2)*\omega^2}{4})
+## end
+#156, 78:
+G_1(\omega)=exp(-\frac{\left(\Delta_1^{2}+\Delta_0^{2}\right)\ \omega^{2}}{4})
+## end
+#164, 37:
+\Delta_2=\sqrt{\Delta_0^2+\Delta_1^2}
+## end
+#166, 41:
+\Delta_2=\sqrt{\Delta_0^{2}+\Delta_1^{2}}
+## end
+#169, 358:
+%{
++[M函数](,验证公式)
+%}
+
+D0=2;
+D1=10;
+D2=sqrt(D0.^(2)+D1.^(2));
+N=1000;
+
+t=linspace(-3*D1,3*D1,N);
+gauss=@(Delta,t)(1)./(Delta.*sqrt(pi)).*exp(-(t.^(2))./(Delta.^(2)));
+
+f=@(t)gauss(D0,t);
+g=@(t)gauss(D1,t);
+g_1=@(t)gauss(D2,t);
+
+y_2=zeros(size(t));
+for i=1:N
+    y_2(i)=trapz(t,f(t).*g(t(i)-t));
+end
+
+plot(t,f(t),t,g(t),t,g_1(t),t,y_2,'--')
+
+%{
++[M函数](,验证公式)
+%}
+## end
+### 结束

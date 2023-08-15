@@ -1,0 +1,2034 @@
+### 节点
+地址, 的, 函数拟合, 目录, 的, 的, 网页画板, 的, 高斯函数拟合, html, 的, 1., 公式, 的, [1]., 公式, 的, [2], 公式, 的, [2]., 公式, 的, [3]., 公式, 的, 测试拟合, M函数, 的, 获取数据, M函数, 的, Gaussian_fitting, M函数, 的, 地址, Gaussian_fitting, 的, 记忆, Gaussian_fitting, 的, 梯度下降法, 的, 验证方法, M函数, 的, 获取数据, M函数, 的, fit_GradientD, M函数, 的, 地址, fit_GradientD, 的, fit_GradientD, 的, 测试梯度方法, M函数, 的, 例1, 的, Matlab拟合函数, 检测拟合结果, 扫描截面, 回归分析, i_1400, i_1200, i_1000, i_800, i_500, i_100, 的, 的, 的, 的, 的, 的, 的, 的, 的, M函数, 分析截面, 的, 的, 测试1, 的, 参考, 的, 参考2, 的, 参考3, 的, 保存, 的, 测试_高斯, 的, 测试_非对称, 打开网页, 的, 三角函数拟合, 的, 测试算法, 的, 获取数据, 的, 保存, 的, 误差函数, 的, cos_fitting, M函数, 的, 测试, 的, 地址, cos_fitting, 的, cos_fitting, 的, 测试2, 的, 周期性拟合, 的, 第一个周期, 的, 第一周期2, 的, 全程对比, 的, 微调周期, 的, periodic_self_fitting, M函数, 的, 地址, periodic_self_fitting, 的, 的, 的, periodic_self_fitting, 中, 的, 测试2, 的, 第一周期, 的, 测试, 
+### 关联
+#, 2#0, #, #, 3#2, 2#6, #, 2#8, #, 8#, 8#11, #, 11#, 8#14, #, 14#, 8#17, #, 17#, 8#20, #, 20#, 8#23, #, 23#, 8#26, #, 26#, 26#29, #, 29#, 26#32, #, 32#, 32#35, #, #32, 38#36, 3#, #, 2#41, #, 41#43, #, 43#, 43#46, #, 46#, 43#49, #, 49#, 49#52, #, #49, 38#53, #, 43#57, #, 57#, 43#60, #, 2#62, #, #, #, #, #, #, #, #, #, #, 82#63, 82#64, 82#65, 82#66, 82#67, 82#68, 82#69, 82#70, 82#71, 82#, #, 62#82, 57#85, #, 49#87, #, 49#89, #, 49#91, #, 49#93, #, 57#95, #, 57#97, #, #89, 2#100, #, 100#102, #, 102#104, #, 102#106, #, 102#108, #, 102#110, #, 110#, 110#113, #, 110#115, #, #110, 38#116, #, 110#120, #, 102#122, #, 122#124, #, 122#126, #, 122#128, #, 122#130, #, 122#132, #, 132#, 132#135, #, #132, 38#136, del#141, del#140, #, del#140, 132#143, #, 143#145, #, 132#147, #, 
+### 内容
+#0, 17:
+文档\数学问题\函数拟合.ftxt
+## end
+#2, 174:
++[返回目录](,函数拟合)
+地址::文档\数学问题\函数拟合.ftxt
+
+
+网页画板::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画板)
+
+Nini, 导入网页画板的库
+Nini, 关于函数拟合, 你记得什么?
+
+高斯函数拟合(html):...
+三角函数拟合:...
+梯度下降法:...
+Matlab拟合函数:...
+
+
+
+## end
+#3, 48:
+函数拟合:...
+创建于 20220111
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#6, 16:
+文档\S应用\网页画板.ftxt
+## end
+#8, 415:
+<!--
++[H函数](,高斯函数拟合)
+[1].(公式):...
++[新建阅读窗口](,[1].)
+print(str)
+记住"Python"
+-->
+
+For Gaussian functions, I want to use the total area as a given parameter. And the waist and the center will be the fitting parameters.<br>
+The form of a Gaussian function is,
+%[1].
+
+The integral of a Gaussian function over all is, 
+%[2].
+As a result, the height is determined by,
+%[3].
+
+<!--
+[3].(公式):
+测试拟合(M函数):...
++[新建阅读窗口](,测试拟合)
+-->
+## end
+#11, 31:
+f(x)=A\ e^{-(x-x_0)^2/\Delta x}
+## end
+#14, 33:
+f(x)=A\ e^{-(x-x_0)^2/\Delta x^2}
+## end
+#17, 51:
+S=\int^\infy_\infty\ dx\ A\ e^{-(x-x_0)^2/\Delta x}
+## end
+#20, 147:
+S=\int^{-\infty}_\infty\ dx\ A\ e^{-(x-x_0)^2/\Delta x^2}
+\\
+
+S=\Delta x\ A
+\int^{-\infty}_\infty\ dt\ e^{-(t-t_0)^2}\\
+
+S=\sqrt{\pi} \Delta x\ A 
+
+## end
+#23, 30:
+A=\frac{S}{\sqrt{\pi}\Delta x}
+## end
+#26, 340:
+%{
+获取数据(M函数):...
++[M函数](,获取数据)
+hold on
+x0-x2
+i0-i2
++[M函数](,测试拟合)
+
+Gaussian_fitting(M函数):...
+记住Gaussian_fitting(节点)
+%}
+
+addpath('Matlab\fitting');
+N=100;
+f0=Gaussian_fitting(x0,i0,N);
+f1=Gaussian_fitting(x1,i1,N);
+f2=Gaussian_fitting(x2,i2,N);
+
+
+plot(x0,f0(x0),x0,i0,...
+    x1,f1(x1),x1,i1,...
+    x2,f2(x2),x2,i2)
+
+
+%{
+clf
++[M函数](,测试拟合)
+%}
+## end
+#29, 1029:
+
+
+clf
+addpath('Matlab\random')
+
+data0=readmatrix('C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\input\G4files\G.txt');
+data1=readmatrix('C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\output\spectrometer\GEANT4\IP.txt');
+
+Px0=data0(:,4);
+Py0=data0(:,5);
+Pz0=data0(:,6);
+E0=mean(sqrt(Px0.^2+Py0.^2+Pz0.^2));
+tx0=Px0./Pz0;
+ty0=Py0./Pz0;
+
+% X ray
+Px1=data1(data1(:,8)==22,4);
+Py1=data1(data1(:,8)==22,5);
+Pz1=data1(data1(:,8)==22,6);
+tx1=Py1./Px1;
+ty1=Pz1./Px1;
+
+% e^-
+Px2=data1(data1(:,8)==11,4);
+Py2=data1(data1(:,8)==11,5);
+Pz2=data1(data1(:,8)==11,6);
+tx2=Py2./Px2;
+ty2=Pz2./Px2;
+
+[I0,X0,Y0]=show_dist_2D(tx0,ty0,100,100);
+[I1,X1,Y1]=show_dist_2D(tx1,ty1,100,100);
+[I2,X2,Y2]=show_dist_2D(tx2,ty2,100,100);
+
+
+x0=X0(1,:);
+i0=sum(I0);
+i0=i0/trapz(x0,i0);
+
+i1=sum(I1);
+x1=X1(1,:);
+i1=i1/trapz(x1,i1);
+
+i2=sum(I2);
+x2=X2(1,:);
+i2=i2/trapz(x2,i2);
+
+
+plot(x0,i0,x1,i1,x2,i2)
+% xlabel('p_x [MeV/c]')
+ylabel('a.b.u.')
+legend('e^- source','X-ray','e^- scattered')
+
+title(sprintf('Electron (~%.f MeV) scattered by an Al foil',E0))
+
+## end
+#32, 654:
+%{
++[M函数](,Gaussian_fitting)
+地址::Matlab\fitting\Gaussian_fitting.m
++[保存M函数](,Gaussian_fitting)
+%}
+
+
+function [f,D1,A1,B1]=Gaussian_fitting(x1,i1,N)
+% N=100;
+
+dX=abs(x1-x1(1));
+dx=min(dX(dX~=0));
+Dx=max(x1)-min(x1);
+
+S1=trapz(x1,i1);
+B1=sum(x1.*i1)/sum(i1);
+D1=linspace(dx,Dx,N);
+A1=S1/sqrt(pi)./D1;
+
+dY=zeros(1,N);
+for j=1:3
+    for i=1:N
+        y1=A1(i)*exp(-(x1-B1).^2/D1(i)^2);
+        dY(i)=sum((y1-i1).^2/numel(y1));
+    end
+
+    D0=D1(dY==min(dY));
+    D0=D0(1);
+    D1=linspace(D0-3*dx,D0+3*dx,N);
+    A1=S1/sqrt(pi)./D1;
+    dx=dx/N;
+end
+
+D1=D1(dY==min(dY));
+D1=D1(1);
+A1=S1/sqrt(pi)/D1;
+
+f=@(x)A1*exp(-(x-B1).^2/D1^2);
+
+end
+
+%{
++[M函数](,测试拟合)
+%}
+## end
+#35, 33:
+Matlab\fitting\Gaussian_fitting.m
+## end
+#41, 36:
+<!--
+
+-->
+
+
+
+
+<!--
+验证方法(M函数):...
+-->
+## end
+#43, 327:
+%{
+获取数据(M函数):...
++[M函数](,获取数据)
++[M函数](,验证方法)
+
+fit_GradientD(M函数):...
+测试梯度方法(M函数):...
++[新建阅读窗口](,fit_GradientD)
+A=[300,0,2e-3];
+%}
+
+addpath('Matlab\fitting');
+
+f=@(A,x)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+A0=[300,0,2e-3];
+
+result=fitnlm(x0,i0,f,A0);
+A1=result.Coefficients{:,1}';
+
+plot(x0,i0,x0,f(A1,x0))
+
+
+%{
+
+例1:...
++[M函数](,验证方法)
+%}
+## end
+#46, 1029:
+
+
+clf
+addpath('Matlab\random')
+
+data0=readmatrix('C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\input\G4files\G.txt');
+data1=readmatrix('C:\Users\cheng\Dropbox\Struct\Structure1.2.1\Nini\output\spectrometer\GEANT4\IP.txt');
+
+Px0=data0(:,4);
+Py0=data0(:,5);
+Pz0=data0(:,6);
+E0=mean(sqrt(Px0.^2+Py0.^2+Pz0.^2));
+tx0=Px0./Pz0;
+ty0=Py0./Pz0;
+
+% X ray
+Px1=data1(data1(:,8)==22,4);
+Py1=data1(data1(:,8)==22,5);
+Pz1=data1(data1(:,8)==22,6);
+tx1=Py1./Px1;
+ty1=Pz1./Px1;
+
+% e^-
+Px2=data1(data1(:,8)==11,4);
+Py2=data1(data1(:,8)==11,5);
+Pz2=data1(data1(:,8)==11,6);
+tx2=Py2./Px2;
+ty2=Pz2./Px2;
+
+[I0,X0,Y0]=show_dist_2D(tx0,ty0,100,100);
+[I1,X1,Y1]=show_dist_2D(tx1,ty1,100,100);
+[I2,X2,Y2]=show_dist_2D(tx2,ty2,100,100);
+
+
+x0=X0(1,:);
+i0=sum(I0);
+i0=i0/trapz(x0,i0);
+
+i1=sum(I1);
+x1=X1(1,:);
+i1=i1/trapz(x1,i1);
+
+i2=sum(I2);
+x2=X2(1,:);
+i2=i2/trapz(x2,i2);
+
+
+plot(x0,i0,x1,i1,x2,i2)
+% xlabel('p_x [MeV/c]')
+ylabel('a.b.u.')
+legend('e^- source','X-ray','e^- scattered')
+
+title(sprintf('Electron (~%.f MeV) scattered by an Al foil',E0))
+
+## end
+#49, 850:
+%{
+地址::Matlab/fitting/fit_GradientD.m
++[保存M函数](,fit_GradientD)
+
+参考::https://zhuanlan.zhihu.com/p/37524275
+参考2::https://en.wikipedia.org/wiki/Gradient_descent
+参考3::https://en.wikipedia.org/wiki/Newton%27s_method
++[打开网页](,参考2)
+
+保存:...
+%}
+
+
+function [A,dfdA,steps]=fit_GradientD(A0,ds,loss,N)
+
+% f=@(x,A)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+% Df=@(A)std(f(x0,A)-i0);
+% A0=[300,0,2e-3];
+% ds=1e-5;
+
+dA=1e-1;
+A=A0;
+dfdA=zeros(size(A));
+steps=zeros(N,length(A));
+
+for n=1:N
+    for i=1:length(A)
+        dA_x=zeros(size(A));
+        dA_x(i)=dA*1e-3;
+        dfdA(i)=(loss(A+dA_x/2)-loss(A-dA_x/2))/dA;
+    end
+
+    if n>1
+        ds=abs(sum((A-A1).*(dfdA-dfdA1))./norm(dfdA-dfdA1)^2);
+    end
+    if isnan(ds)
+        break
+    end
+
+    A1=A;
+    dfdA1=dfdA;
+
+    A=A-dfdA*ds*1e-1;
+    steps(n,:)=A;
+    dA=norm(A-A1);
+
+end
+
+
+end
+
+
+%{
++[保存M函数](,fit_GradientD)
+%}
+## end
+#52, 30:
+Matlab/fitting/fit_GradientD.m
+## end
+#57, 1991:
+%{
+测试1:...
+测试_高斯:...
+测试_非对称:...
+%}
+
+addpath('Matlab/fitting');
+
+file_name_data_out='output/paper/spectrometer/simulations/shadow_scatter/test.mat';
+
+datas=load(file_name_data_out,'-mat');
+list_d=datas.list_d;
+list_Ds=datas.list_Ds;
+list_Ns=datas.list_Ns;
+list_Es=datas.list_Es;
+
+xs0=list_d'*ones(1,15);
+ys0=list_Es;
+zs0=list_Ds;
+
+xi_1a=1:16;
+xi_1b=17:32;
+xi_2a=33:47;
+xi_2b=48:62;
+xi_3a=63:77;
+xi_3b=78:92;
+
+xs=zeros(46,30);
+ys=zeros(46,30);
+zs=zeros(46,30);
+
+xs(1:16,1:2:end)=xs0(xi_1a,:);
+xs(1:16,2:2:end)=xs0(xi_1b,:);
+xs(17:31,1:2:end)=xs0(xi_2b,:);
+xs(17:31,2:2:end)=xs0(xi_2a,:);
+xs(32:46,1:2:end)=xs0(xi_3a,:);
+xs(32:46,2:2:end)=xs0(xi_3b,:);
+
+ys(1:16,1:2:end)=ys0(xi_1a,:);
+ys(1:16,2:2:end)=ys0(xi_1b,:);
+ys(17:31,1:2:end)=ys0(xi_2b,:);
+ys(17:31,2:2:end)=ys0(xi_2a,:);
+ys(32:46,1:2:end)=ys0(xi_3a,:);
+ys(32:46,2:2:end)=ys0(xi_3b,:);
+
+zs(1:16,1:2:end)=zs0(xi_1a,:);
+zs(1:16,2:2:end)=zs0(xi_1b,:);
+zs(17:31,1:2:end)=zs0(xi_2b,:);
+zs(17:31,2:2:end)=zs0(xi_2a,:);
+zs(32:46,1:2:end)=zs0(xi_3a,:);
+zs(32:46,2:2:end)=zs0(xi_3b,:);
+
+
+Es=ys(1,:);
+ds=xs(:,1)';
+A1=zeros(size(ds));
+A2=zeros(size(ds));
+
+% i=1;
+for i=1:size(zs,1)
+A=polyfit(1./Es,zs(i,:),4);
+
+A1(i)=A(end);
+A2(i)=A(end-1);
+%A3(i)=A(3);
+%A4(i)=A(4);
+
+end
+
+
+f=@(A,x)200*A(1)*x.^A(2);
+Df=@(A)sqrt(sum((f(A,ds)-A2).^2));
+
+A0=[2,1];
+[fA1,df,steps]=fit_GradientD(A0,1e-3,Df,10000);
+% steps
+
+N1=1000;
+N2=100;
+
+%{
+fA1
+clf
+A0=[206.9945,0.5582];
+A0=[205.9945,0.5582];
+plot(ds,f(A0,ds),ds,A2,'o');
+Df(A0)
+fA1
+clf
+plot(ds,f(fA1,ds),ds,A2,'o');
+Df(fA1)
++[M函数](,测试梯度方法)
+%}
+
+% as1=linspace(205.5,205.6,N1);
+% as2=linspace(0.5,0.6,N2);
+as1=linspace(0,1.5,N1);
+as2=linspace(0.2,1,N2);
+
+U=zeros(N1,N2);
+for i=1:size(U,1)
+    for j=1:size(U,2)
+        U(i,j)=Df([as1(i),as2(j)]);
+    end
+end
+
+% surf(as1,as2,U)
+% shading interp
+clf 
+hold on
+contourf(as2,as1,U,30)
+plot(steps(:,2),steps(:,1),'r*-')
+% axis equal
+% axis([min(as2),max(as2),min(as1),max(as1)])
+hold off
+
+%{
+fA1
+Df(A0+[0,1])-Df(A0)
+Df(A0+[1,0])-Df(A0)
+plot(ds,A2,'o')
++[M函数](,测试梯度方法)
+%}
+## end
+#60, 304:
+%{
++[M函数](,例1)
+size(X)
+size(y)
+%}
+
+load carbig
+X = [Horsepower,Weight];
+y = MPG;
+modelfun = @(b,x)b(1) + b(2)*x(:,1).^b(3) + ...
+    b(4)*x(:,2).^b(5);
+beta0 = [-50 500 -1 500 -1];
+mdl = fitnlm(X,y,modelfun,beta0)
+
+
+
+%{
+size(modelfun(beta0,X))
+mdl = fitnlm(X(1:2,:),y(1:2),modelfun,beta0)
+
++[M函数](,例1)
+%}
+## end
+#62, 31:
++[粘贴](,Matlab拟合函数)
+
+分析截面:...
+
+
+
+## end
+#63, 475:
+%{
++[M函数](,检测拟合结果)
+%}
+
+physics_constant;
+addpath("Matlab\fitting");
+
+file_name="D:\\CXT\\Laser\\Launch Angle\\data\\LWFA 6.0\\10808e.tiff";
+data0=imread(file_name);
+data0=double(data0);
+
+data=data0/max(max(data0));
+
+y_p=600:1400;
+
+i=800;
+In=data(y_p,i)';
+in_1=In_1(:,i);
+in_2=In_2(:,i);
+in_3=In_3(:,i);
+
+plot(y_p,In,y_p,in_1,y_p,in_2,'--',y_p,in_3)
+% plot(y_p,In,y_p,in_1/max(in_1),y_p,in_2/max(in_2),y_p,in_3/max(in_3))
+% plot(y_p,In_3(:,i))
+
+
+
+%{
+clf
+As1
++[M函数](,检测拟合结果)
+%}
+## end
+#64, 679:
+%{
++[M函数](,分析截面)
+
+i_100:...
+i_500:...
+i_800:...
+i_1000:...
+i_1200:...
+i_1400:...
+
+回归分析:...
+%}
+
+physics_constant;
+addpath("Matlab\fitting");
+
+file_name="D:\\CXT\\Laser\\Launch Angle\\data\\LWFA 6.0\\10808e.tiff";
+data0=imread(file_name);
+data0=double(data0);
+
+data=data0/max(max(data0));
+
+y_p=600:1400;
+
+for i=1:10:2000
+In=data(y_p,i)';
+
+f0=@(A,x)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+f=@(A,x)f0(A(1:3),x)+f0(A(4:6),x)+f0(A(7:9),x)+A(10);
+
+A0=[0.01,1000,50,0.2,1000,50,0.2,1000,50,0];
+
+result=fitnlm(y_p,In,f,A0);
+A1=result.Coefficients{:,1}';
+
+plot(y_p,In,y_p,f(A1,y_p),y_p,f0(A1(1:3),y_p),...
+    y_p,f0(A1(4:6),y_p),...
+    y_p,f0(A1(7:9),y_p))
+pause(0.1)
+end
+
+%{
+clf
++[M函数](,分析截面)
+%}
+## end
+#65, 646:
+%{
++[M函数](,分析截面)
+
+i_100:...
+i_500:...
+i_800:...
+i_1000:...
+i_1200:...
+i_1400:...
+%}
+
+physics_constant;
+addpath("Matlab\fitting");
+
+file_name="D:\\CXT\\Laser\\Launch Angle\\data\\LWFA 6.0\\10808e.tiff";
+data0=imread(file_name);
+data0=double(data0);
+
+data=data0/max(max(data0));
+
+y_p=600:1400;
+
+i=1100
+In=data(y_p,i)';
+
+f0=@(A,x)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+f=@(A,x)f0(A(1:3),x)+f0(A(4:6),x)+f0(A(7:9),x)+A(10);
+
+A0=[0.01,1000,50,0.2,1000,50,0.2,1000,50,0];
+
+result=fitnlm(y_p,In,f,A0);
+A1=result.Coefficients{:,1}';
+
+plot(y_p,In,y_p,f(A1,y_p),y_p,f0(A1(1:3),y_p),...
+    y_p,f0(A1(4:6),y_p),...
+    y_p,f0(A1(7:9),y_p))
+
+
+%{
+clf
++[M函数](,分析截面)
+%}
+## end
+#66, 485:
+%{
++[M函数](,分析截面)
+
+i_100:...
+i_500:...
+i_800:...
+i_1000:...
+i_1200:...
+%}
+
+physics_constant;
+addpath("Matlab\fitting");
+
+file_name="D:\\CXT\\Laser\\Launch Angle\\data\\LWFA 6.0\\10808e.tiff";
+data0=imread(file_name);
+data0=double(data0);
+
+data=data0/max(max(data0));
+
+i0=1000;
+y_p=1:2000;
+
+i=1400
+In=data(:,i)';
+
+f1=@(x,A)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+A1=[0.0,1000,50];
+A2=[0.38,995,150];
+A3=[0.019,1000,700];
+
+plot(y_p,In,y_p,f1(y_p,A1)+f1(y_p,A2)+f1(y_p,A3))
+
+%{
+clf
++[M函数](,分析截面)
+%}
+## end
+#67, 476:
+%{
++[M函数](,分析截面)
+
+i_100:...
+i_500:...
+i_800:...
+i_1000:...
+%}
+
+physics_constant;
+addpath("Matlab\fitting");
+
+file_name="D:\\CXT\\Laser\\Launch Angle\\data\\LWFA 6.0\\10808e.tiff";
+data0=imread(file_name);
+data0=double(data0);
+
+data=data0/max(max(data0));
+
+i0=1000;
+y_p=1:2000;
+
+i=1200
+In=data(:,i)';
+
+f1=@(x,A)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+A1=[0.068,1000,50];
+A2=[0.12,985,200];
+A3=[0.019,1000,700];
+
+plot(y_p,In,y_p,f1(y_p,A1)+f1(y_p,A2)+f1(y_p,A3))
+
+%{
+clf
++[M函数](,分析截面)
+%}
+## end
+#68, 467:
+%{
++[M函数](,分析截面)
+
+i_100:...
+i_500:...
+i_800:...
+%}
+
+physics_constant;
+addpath("Matlab\fitting");
+
+file_name="D:\\CXT\\Laser\\Launch Angle\\data\\LWFA 6.0\\10808e.tiff";
+data0=imread(file_name);
+data0=double(data0);
+
+data=data0/max(max(data0));
+
+i0=1000;
+y_p=1:2000;
+
+i=1000
+In=data(:,i)';
+
+f1=@(x,A)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+A1=[0.068,1000,50];
+A2=[0.058,1000,200];
+A3=[0.019,1000,700];
+
+plot(y_p,In,y_p,f1(y_p,A1)+f1(y_p,A2)+f1(y_p,A3))
+
+%{
+clf
++[M函数](,分析截面)
+%}
+## end
+#69, 456:
+%{
++[M函数](,分析截面)
+
+i_100:...
+i_500:...
+%}
+
+physics_constant;
+addpath("Matlab\fitting");
+
+file_name="D:\\CXT\\Laser\\Launch Angle\\data\\LWFA 6.0\\10808e.tiff";
+data0=imread(file_name);
+data0=double(data0);
+
+data=data0/max(max(data0));
+
+i0=1000;
+y_p=1:2000;
+
+i=800
+In=data(:,i)';
+
+f1=@(x,A)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+A1=[0.113,1000,50];
+A2=[0.032,1000,200];
+A3=[0.019,1000,700];
+
+plot(y_p,In,y_p,f1(y_p,A1)+f1(y_p,A2)+f1(y_p,A3))
+
+%{
+clf
++[M函数](,分析截面)
+%}
+## end
+#70, 456:
+%{
++[M函数](,分析截面)
+
+i_100:...
+i_500:...
+%}
+
+physics_constant;
+addpath("Matlab\fitting");
+
+file_name="D:\\CXT\\Laser\\Launch Angle\\data\\LWFA 6.0\\10808e.tiff";
+data0=imread(file_name);
+data0=double(data0);
+
+data=data0/max(max(data0));
+
+i0=1000;
+y_p=1:2000;
+
+i=500
+In=data(:,i)';
+
+f1=@(x,A)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+A1=[0.097,1000,50];
+A2=[0.023,1000,200];
+A3=[0.018,1000,700];
+
+plot(y_p,In,y_p,f1(y_p,A1)+f1(y_p,A2)+f1(y_p,A3))
+
+%{
+clf
++[M函数](,分析截面)
+%}
+## end
+#71, 435:
+%{
++[M函数](,分析截面)
+%}
+
+physics_constant;
+addpath("Matlab\fitting");
+
+file_name="D:\\CXT\\Laser\\Launch Angle\\data\\LWFA 6.0\\10808e.tiff";
+data0=imread(file_name);
+data0=double(data0);
+
+data=data0/max(max(data0));
+
+i0=1000;
+y_p=1:2000;
+
+i=100
+In=data(:,i)';
+
+f1=@(x,A)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+A1=[0.034,1000,50];
+A2=[0.007,1000,200];
+A3=[0.009,1000,700];
+
+plot(y_p,In,y_p,f1(y_p,A1)+f1(y_p,A2)+f1(y_p,A3))
+
+%{
+clf
++[M函数](,分析截面)
+%}
+## end
+#82, 1617:
+%{
++[M函数](,分析截面)
+
+i_100:...
+i_500:...
+i_800:...
+i_1000:...
+i_1200:...
+i_1400:...
+
+回归分析:...
+扫描截面:...
+%}
+
+physics_constant;
+addpath("Matlab\fitting");
+
+file_name="D:\\CXT\\Laser\\Launch Angle\\data\\LWFA 6.0\\10808e.tiff";
+data0=imread(file_name);
+data0=double(data0);
+
+data=data0/max(max(data0));
+
+y_p=600:1400;
+N=2000;
+
+In_1=zeros(size(y_p,2),N);
+In_2=zeros(size(y_p,2),N);
+In_3=zeros(size(y_p,2),N);
+AS=zeros(10,N);
+
+for i=1:N
+In=data(y_p,i)';
+
+f0=@(A,x)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+f=@(A,x)f0(A(1:3),x)+f0(A(4:6),x)+f0(A(7:9),x)+A(10);
+
+A0=[0.01,1000,50,0.2,1000,50,0.2,1000,50,0];
+
+result=fitnlm(y_p,In,f,A0);
+A1=result.Coefficients{:,1}';
+A1(3)=abs(A1(3));
+A1(6)=abs(A1(6));
+A1(9)=abs(A1(9));
+
+As=reshape(A1(1:9),3,3)';
+As1=[As(:,3),As(:,1:2)];
+As1=sortrows(As1);
+As1=[As1(:,2:3),As1(:,1)];
+
+In_1(:,i)=f0(As1(1,:),y_p)';
+In_2(:,i)=f0(As1(2,:),y_p)';
+In_3(:,i)=f0(As1(3,:),y_p)';
+
+AS(:,i)=[As1(1,:)';As1(2,:)';As1(3,:)';A1(10)];
+
+end
+
+In_0=In_1+In_2+AS(10,:);
+image(In_0/max(max(In_0))*255)
+image(In_1/max(max(In_1))*255)
+image(In_2/max(max(In_2))*255)
+image(In_3/max(max(In_3))*255)
+
+
+%{
+clf
+As1
+检测拟合结果:...
+As1
+
+image(data/max(max(data))*255)
+axis equal
+figure
+image(In_2/max(max(In_2))*255)
+axis equal
+
+figure
+plot(1:2000,AS(3,:),1:2000,AS(6,:),1:2000,AS(9,:))
+plot(1:2000,AS(3,:),'.',1:2000,AS(6,:),'.',1:2000,AS(9,:),'.')
+axis([1,2000,-200,500])
+plot(1:2000,AS(1,:),'.',1:2000,AS(4,:),'.',1:2000,AS(7,:),'.')
+axis([1,2000,0,1])
+plot(1:2000,AS(2,:),'.',1:2000,AS(5,:),'.',1:2000,AS(8,:),'.')
+axis([1,2000,900,1100])
+plot(AS(6,:))
+axis([1,2000,-200,500])
+plot(AS(9,:))
+axis([1,2000,-200,500])
+
++[M函数](,分析截面)
+%}
+## end
+#85, 560:
+%{
+测试1:...
+%}
+
+addpath('Matlab\fitting');
+
+f=@(x,A)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+Df=@(A)std(f(x0,A)-i0);
+
+A=[300,0,2e-3];
+ds=1e-5;
+A=fit_GradientD(A,ds,Df,1000);
+
+i1=i0-f(x0,A);
+f1=@(x,A)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+Df1=@(A)std(f1(x0,A)-i1);
+
+A1=[30,0,2e-3];
+ds=1e-5;
+[A1,df]=fit_GradientD(A1,ds,Df1,1000);
+
+
+f2=@(x,A)A(1)*exp(-(x-A1(2)).^2/A1(3)^2);
+Df2=@(A)std(f2(x0,A)-i1);
+
+A2=[30,0,2e-3];
+ds=1e-5;
+[A2,df]=fit_GradientD(A1,ds,Df2,10000);
+
+subplot(1,2,1)
+plot(x0,i1,x0,f(x0,A2))
+subplot(1,2,2)
+plot(x0,f2(x0,A2)+f(x0,A),x0,i0)
+
+
+%{
+A2
+A
++[M函数](,验证方法)
+%}
+## end
+#87, 37:
+https://zhuanlan.zhihu.com/p/37524275
+## end
+#89, 46:
+https://en.wikipedia.org/wiki/Gradient_descent
+## end
+#91, 47:
+https://en.wikipedia.org/wiki/Newton%27s_method
+## end
+#93, 611:
+%{
+地址::Matlab/fitting/fit_GradientD.m
++[保存M函数](,fit_GradientD)
+
+参考::https://zhuanlan.zhihu.com/p/37524275
+参考2::https://en.wikipedia.org/wiki/Gradient_descent
+参考3::https://en.wikipedia.org/wiki/Newton%27s_method
+%}
+
+
+function [A,dfdA,steps]=fit_GradientD(A0,ds,loss,N)
+
+% f=@(x,A)A(1)*exp(-(x-A(2)).^2/A(3)^2);
+% Df=@(A)std(f(x0,A)-i0);
+% A0=[300,0,2e-3];
+% ds=1e-5;
+
+dA=1e-8;
+A=A0;
+dfdA=zeros(size(A));
+steps=zeros(N,length(A));
+
+for n=1:N
+    for i=1:length(A)
+        A_x=A;
+        A_x(i)=A_x(i)+dA;
+        dfdA(i)=(loss(A_x)-loss(A))/dA;
+    end
+
+    steps(n,:)=A;
+    A=A-dfdA/norm(dfdA)*ds;
+end
+
+
+end
+
+
+
+
+## end
+#95, 207:
+%{
++[M函数](,测试_高斯)
+测试1:...
+%}
+
+addpath('Matlab/fitting');
+
+f=@(x)-exp(-x(1)^2-x(2)^2);
+
+X0=[1,4];
+ds=1e-1;
+[A,df,steps]=fit_GradientD(X0,ds,f,50);
+
+plot(steps(:,1),steps(:,2),'o-')
+A
+%{
+A
+df
++[M函数](,测试_高斯)
+%}
+## end
+#97, 212:
+%{
++[M函数](,测试_非对称)
+测试1:...
+%}
+
+addpath('Matlab/fitting');
+
+f=@(x)-exp(-x(1)^2-4*x(2)^2);
+
+X0=[1,1];
+ds=1e-1;
+[A,df,steps]=fit_GradientD(X0,ds,f,500);
+
+plot(steps(:,1),steps(:,2),'o-')
+A
+%{
+A
+df
++[M函数](,测试_非对称)
+%}
+## end
+#100, 33:
+<!--
+
+-->
+
+
+
+
+
+<!--
+
+测试算法:...
+-->
+## end
+#102, 375:
+%{
++[M函数](,测试算法)
++[打开文件夹]"Matlab/fitting"
+
+获取数据:...
+误差函数:...
+
+cos_fitting(M函数):...
+(在plasma的1D均匀流体中, 拟合效果不太好)
+周期性拟合:...
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+f0=Ez_out;
+x0=x_out;
+
+[f,lm_1,A_1,phi_1]=cos_fitting(x0,f0,10);
+plot(x0,f(x0),x0,f0)
+
+
+%{
+clf
+[k,F]=fft_x(x0,f0);
+plot(2*pi./k,F)
+axis([0,1000e-9,-2,15])
++[M函数](,测试算法)
+%}
+## end
+#104, 555:
+%{
++[M函数](,获取数据)
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+lm_0=800e-9;
+
+% filename_0="/media/xiantao/Elements/LWFA/FDH/Smilei/test0/RFB_1D_3/Fields0.h5";
+filename_0="/media/xiantao/Elements/LWFA/FDH/Smilei/test0/sim_folder_smilei/Fields0.h5";
+
+%{
++[M函数](,获取数据)
+%}
+ti=20000;
+field='Ey';
+[x,Ey]=read_data_1D_Smilei_h5(filename_0,ti,field);
+field='Ez';
+[x,Ez]=read_data_1D_Smilei_h5(filename_0,ti,field);
+
+
+x_out=x(x>5e-6 & x<160e-6);
+Ey_out=Ey(x>5e-6 & x<160e-6);
+Ez_out=-Ez(x>5e-6 & x<160e-6);
+
+plot(x_out,Ey_out,x_out,Ez_out)
+
+%{
++[M函数](,获取数据)
+%}
+## end
+#106, 299:
+%{
++[M函数](,获取数据)
+Nini, 打开ShadowSpectrometer(文件)
+
+获取数据:...
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+f0=Ez_out;
+x0=x_out-min(x_out);
+
+A=max(f0);
+phi_0=acos(f0(1)/A);
+lm_0=800e-9;
+
+f_t=@(x,lm)A*cos(x*2*pi/lm+phi_0);
+
+plot(x0,f0,x0,f_t(x0,lm_0))
+
+%{
++[M函数](,测试算法)
+%}
+## end
+#108, 417:
+%{
++[M函数](,获取数据)
+Nini, 打开ShadowSpectrometer(文件)
+
+获取数据:...
+
+保存:...
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+f0=Ez_out;
+x0=x_out-min(x_out);
+
+A=max(f0);
+phi_0=acos(f0(1)/A);
+lm_0=800e-9;
+f_t=@(x,lm)A*cos(x*2*pi/lm+phi_0);
+
+lms=linspace(790,930,100)*1e-9;
+Q_f=zeros(size(lms));
+
+for i=1:length(lms)
+    Q_f(i)=trapz(x0,(f0-f_t(x0,lms(i))).^2);
+end
+
+plot(lms,Q_f)
+
+%{
++[M函数](,测试算法)
+%}
+## end
+#110, 1111:
+%{
+地址::Matlab\fitting\cos_fitting.m
++[保存M函数](,cos_fitting)
+
+测试:...
+测试2:...
++[新建阅读窗口](,测试2)
+%}
+
+
+function [f,lm_1,A_1,phi_1]=cos_fitting(x0,f0,N)
+
+A_0=max(f0);
+phi_0=acos(f0(1)/A_0);
+f_t=@(x,A,lm,phi)A*cos((x-x0(1))*2*pi/lm+phi);
+
+[k,F]=fft_x(x0,f0);
+F=abs(F);
+k_0=k(F==max(F)&k>0);
+lm_0=2*pi/k_0(1);
+Dlm=lm_0/30;
+
+lm_1=lm_0;
+phi_1=phi_0;
+Dphi=0.1;
+A_1=A_0;
+DA=A_0/30;
+for j=1:N
+    lms=lm_1+linspace(-1,1,100)*Dlm;
+    Q_f=zeros(size(lms));
+    for i=1:length(lms)
+        Q_f(i)=trapz(x0,(f0-f_t(x0,A_1,lms(i),phi_1)).^2);
+    end
+    lm_1=lms(Q_f==min(Q_f));
+    lm_1=lm_1(1);
+
+    phis=phi_1+linspace(-1,1,10)*Dphi;
+    Q_f=zeros(size(phis));
+    for i=1:length(phis)
+        Q_f(i)=trapz(x0,(f0-f_t(x0,A_1,lm_1,phis(i))).^2);
+    end
+    phi_1=phis(Q_f==min(Q_f));
+    phi_1=phi_1(1);
+
+    As=A_1+linspace(-1,1,10)*DA;
+    Q_f=zeros(size(As));
+    for i=1:length(As)
+        Q_f(i)=trapz(x0,(f0-f_t(x0,As(i),lm_1,phi_1)).^2);
+    end
+    A_1=As(Q_f==min(Q_f));
+    A_1=A_1(1);
+
+
+    Dlm=Dlm/5;
+    Dphi=Dphi/1.3;
+    DA=DA/3;
+end
+
+f=@(x)A_1*cos((x-x0(1))*2*pi/lm_1+phi_1);
+
+end
+
+%{
++[保存M函数](,cos_fitting)
+%}
+## end
+#113, 477:
+%{
++[M函数](,测试)
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+f0=Ez_out;
+x0=x_out-min(x_out);
+
+A=max(f0);
+phi_0=acos(f0(1)/A);
+lm_0=800e-9;
+f_t=@(x,lm)A*cos(x*2*pi/lm+phi_0);
+
+lms=linspace(790,930,1000)*1e-9;
+Q_f=zeros(size(lms));
+for i=1:length(lms)
+    Q_f(i)=trapz(x0,(f0-f_t(x0,lms(i))).^2);
+end
+
+lm_f=lms(Q_f==min(Q_f));
+
+subplot(2,1,1)
+plot(lms,Q_f)
+
+subplot(2,1,2)
+% plot(x0,f0,x0,f_t(x0,lm_f))
+plot(x0,f_t(x0,lm_f)-f0)
+
+
+%{
++[M函数](,测试)
+%}
+## end
+#115, 28:
+Matlab\fitting\cos_fitting.m
+## end
+#120, 713:
+%{
++[M函数](,模拟结果)
+Nini, 打开plasma的read_data_1D_Smilei_h5(节点)
+Nini, 打开FDH的read_data_Smilei_h5(节点)
+Nini, 打开函数拟合的cos_fitting(节点)
+
+Ex_2D:...
+Ex_1D:...
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+lm_0=873e-9;
+
+filename="/media/xiantao/Elements/LWFA/FDH/Smilei/20230612_uniform_2D/RFB_2D_090/Fields0.h5";
+
+%{
++[M函数](,模拟结果)
+%}
+ti=6000;
+[x,y,I]=read_data_Smilei_h5(filename,ti,'Ey');
+Ey=I(61,:);
+[x,y,I]=read_data_Smilei_h5(filename,ti,'Ez');
+Ez=I(61,:);
+
+x_out=x(x>5e-6 & x<75e-6);
+Ey_out=Ey(x>5e-6 & x<75e-6);
+Ez_out=-Ez(x>5e-6 & x<75e-6);
+
+[f_y,lm_y,A,phi]=cos_fitting(x_out,Ey_out,10);
+
+lm_y=881.9e-9;
+f_test=@(x)A*cos((x-x_out(1))*2*pi/lm_y+phi);
+plot(x_out,Ey_out,x_out,f_test(x_out))
+
+
+
+%{
+lm_y
++[M函数](,测试2)
+%}
+## end
+#122, 880:
+%{
++[M函数](,周期性拟合)
+
+第一个周期:...
+第一周期2:...
+全程对比:...
+微调周期:...
+
+periodic_self_fitting(M函数):...
+将periodic_self_fitting的"Ey"替换为"f"
++[新建阅读窗口](,periodic_self_fitting)
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+lm_0=1800e-9;
+n_e=2e25;
+beta=0.5;
+
+gamma=1./sqrt(1-beta.^2);
+omega=2*pi*c/lm_0;
+omega_p=sqrt(e^2*n_e/epsilon_0/m_e./gamma);
+
+%{
++[M函数](,周期性拟合)
+%}
+filename_0="/home/xiantao/Documents/sim_output/sim_folder_smilei/Fields0.h5";
+ti=20000;
+field='Ey';
+[x0,Ey0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+field='Ez';
+[x0,Ez0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+
+x1=20e-6;
+x2=170e-6;
+x=x0(x0<x2 & x0>x1);
+Ey=Ey0(x0<x2 & x0>x1);
+Ez=Ez0(x0<x2 & x0>x1);
+
+f=Ey;
+%{
+clf
+hold on
++[M函数](,周期性拟合)
+%}
+
+
+lm_y=periodic_self_fitting(x,Ey,40,220,1)
+lm_z=periodic_self_fitting(x,Ez,40,220,1)
+
+
+%{
+sprintf("%.6e",lm_y)
+sprintf("%.6e",lm_z)
++[M函数](,周期性拟合)
+%}
+## end
+#124, 832:
+%{
++[M函数](,周期性拟合)
+
+第一个周期:...
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+lm_0=1800e-9;
+n_e=2e25;
+beta=0.5;
+
+gamma=1./sqrt(1-beta.^2);
+omega=2*pi*c/lm_0;
+omega_p=sqrt(e^2*n_e/epsilon_0/m_e./gamma);
+
+%{
++[M函数](,周期性拟合)
+%}
+filename_0="/home/xiantao/Documents/sim_output/sim_folder_smilei/Fields0.h5";
+ti=20000;
+field='Ey';
+[x0,Ey0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+field='Ez';
+[x0,Ez0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+
+x1=20e-6;
+x2=170e-6;
+x=x0(x0<x2 & x0>x1);
+Ey=Ey0(x0<x2 & x0>x1);
+Ez=Ez0(x0<x2 & x0>x1);
+
+%{
++[M函数](,周期性拟合)
+%}
+
+
+for N=1:201
+
+dlm=x(2)-x(1);
+lm_t=dlm*N;
+xs=linspace(0,lm_t,N);
+
+xs_0=xs+x(1);
+Ey_0=interp1(x,Ey,xs_0,'spline');
+xs_1=xs+x(1)+lm_t;
+Ey_1=interp1(x,Ey,xs_1,'spline');
+
+% Df=(Ey_1-Ey_0).^2;
+
+plot(xs,Ey_0,xs,Ey_1)
+pause(0.1)
+
+end
+%{
++[M函数](,周期性拟合)
+%}
+## end
+#126, 894:
+%{
++[M函数](,周期性拟合)
+
+第一个周期:...
+第一周期2:...
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+lm_0=1800e-9;
+n_e=2e25;
+beta=0.5;
+
+gamma=1./sqrt(1-beta.^2);
+omega=2*pi*c/lm_0;
+omega_p=sqrt(e^2*n_e/epsilon_0/m_e./gamma);
+
+%{
++[M函数](,周期性拟合)
+%}
+filename_0="/home/xiantao/Documents/sim_output/sim_folder_smilei/Fields0.h5";
+ti=20000;
+field='Ey';
+[x0,Ey0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+field='Ez';
+[x0,Ez0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+
+x1=20e-6;
+x2=170e-6;
+x=x0(x0<x2 & x0>x1);
+Ey=Ey0(x0<x2 & x0>x1);
+Ez=Ez0(x0<x2 & x0>x1);
+
+%{
++[M函数](,周期性拟合)
+%}
+
+
+N=220;
+n=40:N;
+Df=zeros(size(n));
+
+for i=1:length(n)
+dlm=x(2)-x(1);
+lm_t=dlm*n(i);
+xs=linspace(0,lm_t,n(i));
+
+xs_0=xs+x(1);
+Ey_0=interp1(x,Ey,xs_0,'spline');
+xs_1=xs+x(1)+lm_t;
+Ey_1=interp1(x,Ey,xs_1,'spline');
+
+Df(i)=sum((Ey_1-Ey_0).^2);
+end
+
+plot(n,Df)
+n_min=n(Df==min(Df))
+
+
+%{
++[M函数](,周期性拟合)
+%}
+## end
+#128, 971:
+%{
++[M函数](,周期性拟合)
+
+第一个周期:...
+第一周期2:...
+全程对比:...
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+lm_0=1800e-9;
+n_e=2e25;
+beta=0.5;
+
+gamma=1./sqrt(1-beta.^2);
+omega=2*pi*c/lm_0;
+omega_p=sqrt(e^2*n_e/epsilon_0/m_e./gamma);
+
+%{
++[M函数](,周期性拟合)
+%}
+filename_0="/home/xiantao/Documents/sim_output/sim_folder_smilei/Fields0.h5";
+ti=20000;
+field='Ey';
+[x0,Ey0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+field='Ez';
+[x0,Ez0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+
+x1=20e-6;
+x2=170e-6;
+x=x0(x0<x2 & x0>x1);
+Ey=Ey0(x0<x2 & x0>x1);
+Ez=Ez0(x0<x2 & x0>x1);
+
+%{
++[M函数](,周期性拟合)
+%}
+
+
+N=184;
+dlm=x(2)-x(1);
+lm_t0=dlm*N;
+
+DL=max(x)-min(x);
+Ni=1:DL/lm_t;
+Ni(end)=[];
+Df=zeros(size(Ni));
+
+%{
++[M函数](,周期性拟合)
+%}
+lm_t=lm_t0+dlm*1.2;
+xs=linspace(0,lm_t,N);
+xs_0=xs+x(1);
+Ey_0=interp1(x,Ey,xs_0,'spline');
+
+for i=1:length(Ni)
+xs_i=xs+x(1)+lm_t*Ni(i);
+Ey_i=interp1(x,Ey,xs_i,'spline');
+
+Df(i)=sum((Ey_i-Ey_0).^2);
+end
+
+hold on
+plot(Ni,Df)
+
+%{
++[M函数](,周期性拟合)
+%}
+## end
+#130, 1173:
+%{
++[M函数](,周期性拟合)
+
+第一个周期:...
+第一周期2:...
+全程对比:...
+微调周期:...
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+lm_0=1800e-9;
+n_e=2e25;
+beta=0.5;
+
+gamma=1./sqrt(1-beta.^2);
+omega=2*pi*c/lm_0;
+omega_p=sqrt(e^2*n_e/epsilon_0/m_e./gamma);
+
+%{
++[M函数](,周期性拟合)
+%}
+filename_0="/home/xiantao/Documents/sim_output/sim_folder_smilei/Fields0.h5";
+ti=20000;
+field='Ey';
+[x0,Ey0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+field='Ez';
+[x0,Ez0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+
+x1=20e-6;
+x2=170e-6;
+x=x0(x0<x2 & x0>x1);
+Ey=Ey0(x0<x2 & x0>x1);
+Ez=Ez0(x0<x2 & x0>x1);
+
+f=Ey;
+%{
+clf
+hold on
++[M函数](,周期性拟合)
+%}
+
+
+N=184;
+dlm=x(2)-x(1);
+lm_t0=dlm*N;
+
+DL=max(x)-min(x);
+dlms=linspace(0.4,1.,30)*dlm;
+lm_t=lm_t0+dlms;
+Df_lm=zeros(size(lm_t));
+
+%{
+clf
++[M函数](,周期性拟合)
+%}
+
+for j=1:length(lm_t)
+    Ni=1:DL/lm_t(j);
+    Ni(end)=[];
+    Df=zeros(size(Ni));
+    
+    xs=linspace(0,lm_t(j),200);
+    xs_0=xs+x(1);
+    f_0=interp1(x,f,xs_0,'spline');
+    
+    for i=1:length(Ni)
+        xs_i=xs+x(1)+lm_t(j)*Ni(i);
+        f_i=interp1(x,f,xs_i,'spline');
+        Df(i)=sum((f_i-f_0).^2);
+    end
+    Df_lm(j)=sum(Df);
+end
+
+plot(lm_t,Df_lm)
+
+
+%{
+clf
++[M函数](,周期性拟合)
+%}
+## end
+#132, 1283:
+%{
+地址::Matlab/fitting/periodic_self_fitting.m
++[保存M函数](,periodic_self_fitting)
++[打开文件夹]"Matlab/fitting"
+
+测试:...
+测试2:...
+nargin
+%}
+
+function [lm,Df,Df_lm,lm_t]=periodic_self_fitting(x,f,N1,N2,show_mode)
+
+if nargin<5
+    show_mode=1;
+end
+
+n=N1:N2;
+Df=zeros(size(n));
+
+for i=1:length(n)
+    dlm=x(2)-x(1);
+    lm_t=dlm*n(i);
+    xs=linspace(0,lm_t,n(i));
+    
+    xs_0=xs+x(1);
+    f_0=interp1(x,f,xs_0,'spline');
+    xs_1=xs+x(1)+lm_t;
+    f_1=interp1(x,f,xs_1,'spline');
+    
+    Df(i)=sum((f_1-f_0).^2);
+end
+
+if show_mode==1
+    figure
+    plot(n,Df)
+end
+N=n(Df==min(Df));
+
+%fine adjustment
+[lm,Df_lm,lm_t]=periodic_self_fitting_2(x,f,N,dlm*N,1.5*dlm,8);
+
+end
+
+
+
+function [lm,Df_lm,lm_t]=periodic_self_fitting_2(x,f,N,lm_t0,Dlm,n)
+
+DL=max(x)-min(x);
+dlms=linspace(-1,1,10)*Dlm;
+lm_t=lm_t0+dlms;
+Df_lm=zeros(size(lm_t));
+
+for j=1:length(lm_t)
+    Ni=1:DL/lm_t(j);
+    Ni(end)=[];
+    Df=zeros(size(Ni));
+    
+    xs=linspace(0,lm_t(j),200);
+    xs_0=xs+x(1);
+    f_0=interp1(x,f,xs_0,'spline');
+    
+    for i=1:length(Ni)
+        xs_i=xs+x(1)+lm_t(j)*Ni(i);
+        f_i=interp1(x,f,xs_i,'spline');
+        Df(i)=sum((f_i-f_0).^2);
+    end
+    Df_lm(j)=sum(Df);
+end
+lm=lm_t(Df_lm==min(Df_lm));
+
+if n>0
+    n=n-1;
+    [lm,Df_lm,lm_t]=periodic_self_fitting_2(x,f,N,lm,Dlm/2,n);
+end
+
+end
+## end
+#135, 38:
+Matlab/fitting/periodic_self_fitting.m
+## end
+#143, 1144:
+%{
++[M函数](,周期性拟合)
+
+第一周期:...
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+lm_0=1800e-9;
+n_e=2e25;
+beta=0.5;
+
+gamma=1./sqrt(1-beta.^2);
+omega=2*pi*c/lm_0;
+omega_p=sqrt(e^2*n_e/epsilon_0/m_e./gamma);
+
+%{
++[M函数](,周期性拟合)
+%}
+filename_0="/home/xiantao/Documents/sim_output/sim_folder_smilei/Fields0.h5";
+ti=20000;
+field='Ey';
+[x0,Ey0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+field='Ez';
+[x0,Ez0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+
+x1=20e-6;
+x2=170e-6;
+x=x0(x0<x2 & x0>x1);
+Ey=Ey0(x0<x2 & x0>x1);
+Ez=Ez0(x0<x2 & x0>x1);
+
+f=Ey;
+%{
+clf
+hold on
++[M函数](,周期性拟合)
+%}
+
+
+N=184;
+dlm=x(2)-x(1);
+lm_t0=dlm*N;
+
+DL=max(x)-min(x);
+dlms=linspace(0.4,1.,30)*dlm;
+lm_t=lm_t0+dlms;
+Df_lm=zeros(size(lm_t));
+
+%{
+clf
++[M函数](,周期性拟合)
+%}
+
+for j=1:length(lm_t)
+    Ni=1:DL/lm_t(j);
+    Ni(end)=[];
+    Df=zeros(size(Ni));
+    
+    xs=linspace(0,lm_t(j),200);
+    xs_0=xs+x(1);
+    f_0=interp1(x,f,xs_0,'spline');
+    
+    for i=1:length(Ni)
+        xs_i=xs+x(1)+lm_t(j)*Ni(i);
+        f_i=interp1(x,f,xs_i,'spline');
+        Df(i)=sum((f_i-f_0).^2);
+    end
+    Df_lm(j)=sum(Df);
+end
+
+plot(lm_t,Df_lm)
+
+
+%{
+clf
++[M函数](,周期性拟合)
+%}
+## end
+#145, 894:
+%{
++[M函数](,周期性拟合)
+
+第一个周期:...
+第一周期2:...
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+lm_0=1800e-9;
+n_e=2e25;
+beta=0.5;
+
+gamma=1./sqrt(1-beta.^2);
+omega=2*pi*c/lm_0;
+omega_p=sqrt(e^2*n_e/epsilon_0/m_e./gamma);
+
+%{
++[M函数](,周期性拟合)
+%}
+filename_0="/home/xiantao/Documents/sim_output/sim_folder_smilei/Fields0.h5";
+ti=20000;
+field='Ey';
+[x0,Ey0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+field='Ez';
+[x0,Ez0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+
+x1=20e-6;
+x2=170e-6;
+x=x0(x0<x2 & x0>x1);
+Ey=Ey0(x0<x2 & x0>x1);
+Ez=Ez0(x0<x2 & x0>x1);
+
+%{
++[M函数](,周期性拟合)
+%}
+
+
+N=220;
+n=40:N;
+Df=zeros(size(n));
+
+for i=1:length(n)
+dlm=x(2)-x(1);
+lm_t=dlm*n(i);
+xs=linspace(0,lm_t,n(i));
+
+xs_0=xs+x(1);
+Ey_0=interp1(x,Ey,xs_0,'spline');
+xs_1=xs+x(1)+lm_t;
+Ey_1=interp1(x,Ey,xs_1,'spline');
+
+Df(i)=sum((Ey_1-Ey_0).^2);
+end
+
+plot(n,Df)
+n_min=n(Df==min(Df))
+
+
+%{
++[M函数](,周期性拟合)
+%}
+## end
+#147, 956:
+%{
++[M函数](,周期性拟合)
+
+第一个周期:...
+第一周期2:...
+全程对比:...
+微调周期:...
+
+periodic_self_fitting(M函数):...
+将periodic_self_fitting的"Ey"替换为"f"
++[新建阅读窗口](,periodic_self_fitting)
+%}
+
+physics_constant;
+addpath('Matlab/readData');
+addpath('Matlab/fitting');
+
+lm_0=1800e-9;
+n_e=2e25;
+beta=0.5;
+
+gamma=1./sqrt(1-beta.^2);
+omega=2*pi*c/lm_0;
+omega_p=sqrt(e^2*n_e/epsilon_0/m_e./gamma);
+
+%{
++[M函数](,周期性拟合)
+%}
+filename_0="/home/xiantao/Documents/sim_output/sim_folder_smilei/Fields0.h5";
+ti=20000;
+field='Ey';
+[x0,Ey0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+field='Ez';
+[x0,Ez0]=read_data_1D_Smilei_h5(filename_0,ti,field);
+
+x1=20e-6;
+x2=170e-6;
+x=x0(x0<x2 & x0>x1);
+Ey=Ey0(x0<x2 & x0>x1);
+Ez=Ez0(x0<x2 & x0>x1);
+
+f=Ey;
+%{
+clf
+hold on
++[M函数](,周期性拟合)
+%}
+
+
+N=184;
+dlm=x(2)-x(1);
+lm_t0=dlm*N;
+
+DL=max(x)-min(x);
+dlms=linspace(0.4,1.,30)*dlm;
+lm_t=lm_t0+dlms;
+Df_lm=zeros(size(lm_t));
+
+[lm,Df,Df_lm,lm_t]=periodic_self_fitting(x,f,40,220);
+plot(lm_t,Df_lm)
+
+
+%{
+clf
++[M函数](,周期性拟合)
+%}
+## end
+### 结束

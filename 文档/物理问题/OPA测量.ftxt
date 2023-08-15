@@ -1,0 +1,1107 @@
+### 节点
+地址, pump光光谱, MIR光谱, 文件夹, 可见光光谱, [标题], 的, 的, 的, 的, 的, 分析OPA, 目录, 的, 的, 节点数目统计, 20210406, 的, 的, OPA原理, 20210407, 的, 的, 分析晶轴角度, 的, 理论计算, M函数, 的, OPA画图, 的, 调整theta'角, 的, 晶轴方向, 的, 公式, H函数, 的, 对比结果, 的, 晶轴与光线夹角, 的, 公式, H函数, 的, 二维参数空间优化, 的, 网页画图, 20210408, 的, 的, 和频光光谱, 的, 完整光谱, 的, peak位置, 的, 读取峰位置, M函数, 的, 对应方式1, 的, 读取峰位置1, M函数, 的, 计算Gain, M函数, 的, 参考, 的, BBO_index, 的, pump输入光谱, M函数, 的, iFAST, 20210409, 的, 20210419, 的, 的, 
+### 关联
+#, #, #, #, #, #, 11#0, 11#1, 11#2, 11#3, 11#4, #, #, 12#11, 12#15, #, #, 15#16, 11#19, #, #, 15#20, 11#23, #, 23#25, #, 25#, 11#28, #, 23#30, #, 23#32, #, 32#34, #, 34#, 23#37, #, 23#39, #, 39#41, #, 41#, 23#44, #, 11#46, #, #, 15#47, 11#50, #, 50#52, #, 50#54, #, 52#56, #, 56#, 54#59, #, 52#61, #, 61#, 50#64, #, 64#, 11#67, 64#44, 64#69, #, 50#71, #, 71#, 50#74, #, #, 15#75, #, 15#77, 11#del, 
+### 内容
+#0, 18:
+文档\物理问题\OPA测量.ftxt
+## end
+#1, 66:
+C:\Users\cheng\Dropbox\iFAST_log\resources\20210330_spectrum\3.png
+## end
+#2, 636:
+%{
++[返回目录](,MIR光谱)
++[M函数](,MIR光谱)
+%}
+clf
+
+index_angle=[-4.591, -4.002, -3.466, -2.984, -2.502, -2.02, -1.484, -1.002, -0.466, 0.016, 0.551, 1.034, 1.516, 1.998, 2.534, 3.016, 3.551;
+  16,    15,    14,    13,    12,    11,    10,     9,     8,     0,     1,     2,     3,     4,     5,     6,     7];
+
+for i=1:17
+n=index_angle(2,i);
+file_name=sprintf('C:\\Users\\cheng\\Dropbox\\iFAST_log\\resources\\20210405\\TOPAS_1.8\\20210405_scan\\%d.raw',n);
+
+data=readmatrix(file_name,'FileType','text');
+plot(data(:,1),data(:,2))
+axis([1000,2600,-50,2500]);
+title(sprintf('crystal 2=%.2f',index_angle(1,i)))
+pause(0.5)
+end
+
+%{
++[M函数](,MIR光谱)
+%}
+## end
+#3, 51:
+C:\Users\cheng\Dropbox\iFAST_log\resources\20210405
+## end
+#4, 536:
+%{
++[返回目录](,可见光光谱)
++[M函数](,可见光光谱)
+
+从第11个开始有效
+%}
+
+expr='Model Number:(.*)Firmware Version:(.*)Serial Number:(.*)Exposure Time:(.*)Data Taken on:([0-9 /:.]*)(.*)';
+
+figure(2)
+clf
+for i=11:27
+file_name=sprintf('C:\\Users\\cheng\\Dropbox\\iFAST_log\\resources\\20210405\\TOPAS_800\\%d.xls',i);
+
+data=fileread(file_name);
+tokens=regexp(data,expr,'tokens');
+spectrum=str2num(tokens{1}{6});
+
+Lamb=spectrum(:,1);
+In=spectrum(:,2);
+
+plot(Lamb,In)
+axis([450,1000,-50,3000])
+title(file_name)
+pause(0.5);
+end
+
+
+
+%{
++[返回目录](,可见光光谱)
++[M函数](,可见光光谱)
+%}
+## end
+#5, 5:
+分析OPA
+## end
+#11, 527:
++[返回目录](,分析OPA)
+地址::文档\物理问题\OPA测量.ftxt
++[导出结构](,分析OPA)
+
+文件夹::C:\Users\cheng\Dropbox\iFAST_log\resources\20210405
++[打开](,文件夹)
+
+pump光光谱::C:\Users\cheng\Dropbox\iFAST_log\resources\20210330_spectrum\3.png
++[打开](,pump光光谱)
+
+可见光光谱:...
+MIR光谱:...
++[M函数](,可见光光谱)
++[M函数](,MIR光谱)
+
+分析晶轴角度:...
+和频光光谱:...
+的(分析晶轴角度,二维参数空间优化)->的(和频光光谱,计算Gain)->参考(计算Gain,二维参数空间优化)
+
+
+OPA原理::文档\物理问题\OPA原理.ftxt
++[打开文件](+新窗口,OPA原理)
+网页画图::文档\S应用\网页画板.ftxt
++[打开文件](+新窗口,网页画图)
+OPA画图::文档\S应用\OPA画图.txt
++[打开文件](+新窗口,OPA画图)
+
+接下来读取1.8的光谱
+是([动词库],动词)->+[打开文件](+新窗口,动词)
+
+
+
+## end
+#12, 34:
+分析OPA:...
+创建于 20210407
+
+节点数目统计::
+
+
+## end
+#16, 2:
+25
+## end
+#19, 18:
+文档\物理问题\OPA原理.ftxt
+## end
+#20, 2:
+50
+## end
+#23, 717:
+%{
++[返回目录](,分析晶轴角度)
++[M函数](,分析晶轴角度)
+
+使用了OPA原理的phase match的第一部分的计算
+理论计算(M函数):...
++[M函数](,理论计算)
+
+调整theta'角:...
+晶轴方向:...
+晶轴与光线夹角:...
+二维参数空间优化:...
+
+对比结果:...
+
+%}
+
+i=5;
+index_angle=[-4.591, -4.002, -3.466, -2.984, -2.502, -2.02, -1.484, -1.002, -0.466, 0.016, 0.551, 1.034, 1.516, 1.998, 2.534, 3.016, 3.551;
+  16,    15,    14,    13,    12,    11,    10,     9,     8,     0,     1,     2,     3,     4,     5,     6,     7];
+
+angle=index_angle(1,i);
+n=index_angle(2,i);
+
+file_name=sprintf('C:\\Users\\cheng\\Dropbox\\iFAST_log\\resources\\20210405\\TOPAS_1.8\\20210405_scan\\%d.raw',n);
+
+data=readmatrix(file_name,'FileType','text');
+
+figure(1)
+clf
+plot(data(:,1),data(:,2))
+title(sprintf('Crystal angle=%.2f',angle))
+
+
+
+## end
+#25, 979:
+%{
++[M函数](,理论计算)
+%}
+
+physics_constant;
+addpath('Matlab\TOPAS');
+
+Energy0=28e-3;
+w0=20e-3;
+tau=26e-15;
+dz=8e-3;
+X2=-1e-13;
+
+lambda_0=0.8e-6;
+angle=20; 
+
+% E0
+I0=2*Energy0/sqrt(pi)/pi/w0^2/tau;
+E0=sqrt(I0/epsilon_0/c);
+
+% phase match
+k=[sind(angle),0,cosd(angle)];
+lambda_1=linspace(1.2,2.4,100)*1e-6;
+
+dk=zeros(size(lambda_1));
+G=zeros(size(lambda_1));
+
+
+
+
+for i=1:length(lambda_1)
+%DFG
+lambda_2=1/(1/lambda_0-1/lambda_1(i));
+
+%eoo
+[~,n0]=BBO_index(lambda_0,k);
+[n1,~]=BBO_index(lambda_1(i),k);
+[n2,~]=BBO_index(lambda_2,k);
+
+dk(i)=2*pi*(n0/lambda_0-n1/lambda_1(i)-n2/lambda_2);
+
+% Gain
+k_0=2*pi*n0/lambda_0;
+k_1=2*pi*n1/lambda_1(i);
+k_2=2*pi*n2/lambda_2;
+
+omega_0=2*pi*c/lambda_0;
+omega_1=2*pi*c/lambda_1(i);
+omega_2=2*pi*c/lambda_2;
+
+g02=omega_1^2*omega_2^2/k_1/k_2/c^4*X2^2*abs(E0)^2;
+g=sqrt(g02-dk(i)^2);
+A=exp(1i*dk(i)/2*dz)*(cosh(g*dz/2)-1i*dk(i)/g*sinh(1/2*g*dz));
+G(i)=abs(A)^2;
+
+end
+
+
+figure(2)
+clf
+plot(lambda_1,G)
+xlabel('\lambda [um]')
+ylabel('G')
+
+%{
++[M函数](,理论计算)
+%}
+## end
+#28, 16:
+文档\S应用\OPA画图.txt
+## end
+#30, 1507:
+%{
++[返回目录](,调整theta'角)
++[M函数](,调整theta'角)
+%}
+
+i=17;
+index_angle=[-4.591, -4.002, -3.466, -2.984, -2.502, -2.02, -1.484, -1.002, -0.466, 0.016, 0.551, 1.034, 1.516, 1.998, 2.534, 3.016, 3.551;
+  16,    15,    14,    13,    12,    11,    10,     9,     8,     0,     1,     2,     3,     4,     5,     6,     7];
+
+lambda_0=796e-9;
+angle=19.93;
+
+n=index_angle(2,i);
+file_name=sprintf('C:\\Users\\cheng\\Dropbox\\iFAST_log\\resources\\20210405\\TOPAS_1.8\\20210405_scan\\%d.raw',n);
+
+data=readmatrix(file_name,'FileType','text');
+
+
+physics_constant;
+addpath('Matlab\TOPAS');
+
+Energy0=20e-3;
+w0=2e-3;
+tau=30e-15;
+dz=8e-3;
+X2=-1e-13;
+
+
+% E0
+I0=2*Energy0/sqrt(pi)/pi/w0^2/tau;
+E0=sqrt(I0/epsilon_0/c);
+
+% phase match
+k=[sind(angle),0,cosd(angle)];
+lambda_1=linspace(1,2.6,100)*1e-6;
+
+dk=zeros(size(lambda_1));
+G=zeros(size(lambda_1));
+
+
+
+
+for i=1:length(lambda_1)
+%DFG
+lambda_2=1/(1/lambda_0-1/lambda_1(i));
+
+%eoo
+[~,n0]=BBO_index(lambda_0,k);
+[n1,~]=BBO_index(lambda_1(i),k);
+[n2,~]=BBO_index(lambda_2,k);
+
+dk(i)=2*pi*(n0/lambda_0-n1/lambda_1(i)-n2/lambda_2);
+
+% Gain
+k_0=2*pi*n0/lambda_0;
+k_1=2*pi*n1/lambda_1(i);
+k_2=2*pi*n2/lambda_2;
+
+omega_0=2*pi*c/lambda_0;
+omega_1=2*pi*c/lambda_1(i);
+omega_2=2*pi*c/lambda_2;
+
+g02=omega_1^2*omega_2^2/k_1/k_2/c^4*X2^2*abs(E0)^2;
+g=sqrt(g02-dk(i)^2);
+A=exp(1i*dk(i)/2*dz)*(cosh(g*dz/2)-1i*dk(i)/g*sinh(1/2*g*dz));
+G(i)=abs(A)^2;
+
+end
+
+y=(G-1)/max(G-1)*max(data(:,2));
+clf
+plot(data(:,1),data(:,2),lambda_1*1e9,y)
+xlabel('\lambda [nm]')
+ylabel('G')
+
+%{
++[M函数](,调整theta'角)
+%}
+
+## end
+#32, 1055:
+%{
++[返回目录](,晶轴方向)
++[M函数](,晶轴方向)
+
+公式(H函数):...
++[H函数](,公式)
+
+%}
+
+angle=20.1;
+angle2=0;
+phi=5;
+
+L=1;
+D=2;
+H=2;
+
+p_c0=[cosd(angle),sind(angle)*sind(angle2),sind(angle)*cosd(angle2)]';
+P_x0=[-L/2,-L/2,-L/2,-L/2,L/2,L/2,L/2,L/2];
+P_y0=[-D/2,D/2,D/2,-D/2,-D/2,D/2,D/2,-D/2];
+P_z0=[-H/2,-H/2,H/2,H/2,-H/2,-H/2,H/2,H/2];
+
+p_c=[cosd(phi), -sind(phi), 0;
+sind(phi),cosd(phi),0;
+0,0,1]*p_c0;
+P_x=P_x0*cosd(phi)-P_y0*sind(phi);
+P_y=P_x0*sind(phi)+P_y0*cosd(phi);
+P_z=P_z0;
+
+clf
+patch(P_x(1:4),P_y(1:4),P_z(1:4),[0.9,0.95,1],'FaceAlpha',0.8);
+patch(P_x(5:8),P_y(5:8),P_z(1:4),[0.9,0.95,1],'FaceAlpha',0.8);
+patch(P_x([1,2,6,5]),P_y([1,2,6,5]),P_z([1,2,6,5]),[0.9,0.95,1]);
+patch(P_x([3,4,8,7]),P_y([3,4,8,7]),P_z([3,4,8,7]),[0.9,0.95,1],'FaceAlpha',0.8);
+patch(P_x([1,4,8,5]),P_y([1,4,8,5]),P_z([1,4,8,5]),[0.9,0.95,1]);
+patch(P_x([2,3,7,6]),P_y([2,3,7,6]),P_z([2,3,7,6]),[0.9,0.95,1]);
+
+
+hold on
+quiver3(-2,0,0,4,0,0)
+quiver3(0,0,0,p_c0(1),p_c0(2),p_c0(3))
+quiver3(0,0,0,p_c(1),p_c(2),p_c(3))
+
+axis equal
+grid on
+xlabel('X')
+ylabel('Y')
+zlabel('Z')
+
+%{
++[M函数](,晶轴方向)
+%}
+## end
+#34, 163:
+<!--
++[返回目录](,公式)
++[H函数](,公式)
+-->
+
+The crystal axis can be calculated by this,
+$$
+\vec{p}_{c}=\left(
+cos\theta',
+sin\theta'sin\phi',
+sin\theta'cos\phi'
+\right)
+$$
+
+## end
+#37, 1805:
+%{
++[返回目录](,对比结果)
++[M函数](,对比结果)
+
+theta0在 二维参数空间优化 中通过计算获得.
+%}
+
+for j=16
+index_angle=[-4.591, -4.002, -3.466, -2.984, -2.502, -2.02, -1.484, -1.002, -0.466, 0.016, 0.551, 1.034, 1.516, 1.998, 2.534, 3.016, 3.551;
+  16,    15,    14,    13,    12,    11,    10,     9,     8,     0,     1,     2,     3,     4,     5,     6,     7];
+
+lambda_0=795e-9;
+
+phi=index_angle(1,j);
+p_c1=sind(theta0).*cosd(phi-phi0);
+angle=acosd(p_c1);
+
+n=index_angle(2,j);
+file_name=sprintf('C:\\Users\\cheng\\Dropbox\\iFAST_log\\resources\\20210405\\TOPAS_1.8\\20210405_scan\\%d.raw',n);
+
+data=readmatrix(file_name,'FileType','text');
+
+
+physics_constant;
+addpath('C:\Users\cheng\Dropbox\Struct\Structure1.2\Nini\Matlab\TOPAS');
+
+Energy0=20e-3;
+w0=2e-3;
+tau=30e-15;
+dz=8e-3;
+X2=-1e-13;
+
+
+% E0
+I0=2*Energy0/sqrt(pi)/pi/w0^2/tau;
+E0=sqrt(I0/epsilon_0/c);
+
+% phase match
+k=[sind(angle),0,cosd(angle)];
+lambda_1=linspace(1,2.6,100)*1e-6;
+
+dk=zeros(size(lambda_1));
+G=zeros(size(lambda_1));
+
+
+
+
+for i=1:length(lambda_1)
+%DFG
+lambda_2=1/(1/lambda_0-1/lambda_1(i));
+
+%eoo
+[~,n0]=BBO_index(lambda_0,k);
+[n1,~]=BBO_index(lambda_1(i),k);
+[n2,~]=BBO_index(lambda_2,k);
+
+dk(i)=2*pi*(n0/lambda_0-n1/lambda_1(i)-n2/lambda_2);
+
+% Gain
+k_0=2*pi*n0/lambda_0;
+k_1=2*pi*n1/lambda_1(i);
+k_2=2*pi*n2/lambda_2;
+
+omega_0=2*pi*c/lambda_0;
+omega_1=2*pi*c/lambda_1(i);
+omega_2=2*pi*c/lambda_2;
+
+g02=omega_1^2*omega_2^2/k_1/k_2/c^4*X2^2*abs(E0)^2;
+g=sqrt(g02-dk(i)^2);
+A=exp(1i*dk(i)/2*dz)*(cosh(g*dz/2)-1i*dk(i)/g*sinh(1/2*g*dz));
+G(i)=abs(A)^2;
+
+end
+
+y=G/max(G)*max(data(:,2));
+hold off
+plot(data(:,1),data(:,2),lambda_1*1e9,y)
+xlabel('\lambda [nm]')
+ylabel('Intensity [a.b.u.]')
+title(sprintf('crystal 2=%.4f, \\lambda_{pump}=%.1f nm',index_angle(1,j),lambda_0*1e9))
+axis([1000,2600,-10,700])
+
+legend('Data','Theory')
+
+pause(0.5)
+end
+
+%{
++[M函数](,对比结果)
+%}
+
+## end
+#39, 698:
+%{
++[返回目录](,晶轴与光线夹角)
++[M函数](,晶轴与光线夹角)
+
+公式(H函数):...
++[H函数](,公式)
+%}
+
+angle_x=[-4.591, -4.002, -3.466, -2.984, -2.502, -2.02, -1.484, -1.002, -0.466, 0.016, 0.551, 1.034, 1.516, 1.998, 2.534, 3.016, 3.551];
+angle_y=[19.98, 20.20, 20.17, 20.11, 20.04, 20.00, 19.97, 19.95, 19.92, 19.91, 19.89, 19.87, 19.85, 19.80, 19.76, 19.85, 19.93];
+n=11;
+Phi0=-0.1;
+
+alpha1=angle_y(n); 
+phi1=angle_x(n);
+
+clf
+plot(angle_x,angle_y,'o')
+plot(angle_x(2:12),angle_y(2:12),'*')
+for i=1:length(Phi0)
+    phi0=Phi0(i);
+    theta0=asind(cosd(alpha1)/cosd(phi1-phi0));
+
+    phi=linspace(-5,5,100);
+
+    p_c1=sind(theta0).*cosd(phi-phi0);
+    alpha=acosd(p_c1);
+
+    hold on
+    plot(phi,alpha)
+end
+
+
+%{
++[M函数](,晶轴与光线夹角)
+%}
+
+## end
+#41, 418:
+<!--
++[返回目录](,公式)
++[H函数](,公式)
+-->
+
+The crystal axis orientation is,
+$$
+\vec{p}_c=\left(
+sin\theta_0 cos(\phi-\phi_0),
+sin\theta_0 sin(\phi-\phi_0),
+cos\theta_0
+\right)
+$$
+The angle between crystal axis and the beam direction is,
+$$
+cos\alpha=sin\theta_0 cos(\phi-\phi_0)
+$$
+If you know \(cos \alpha_1=sin\theta_0 cos(\phi_1-\phi_0)\), then \(\theta_0\) is,
+$$
+sin(\theta_0)=\frac{cos \alpha_1}{cos(\phi_1-\phi_0)}
+$$
+
+
+## end
+#44, 1249:
+%{
++[返回目录](,二维参数空间优化)
++[M函数](,二维参数空间优化)
+%}
+
+i_min=2;
+i_max=12;
+
+angle_x=[-4.591, -4.002, -3.466, -2.984, -2.502, -2.02, -1.484, -1.002, -0.466, 0.016, 0.551, 1.034, 1.516, 1.998, 2.534, 3.016, 3.551];
+angle_y=[19.98, 20.20, 20.17, 20.11, 20.04, 20.00, 19.97, 19.95, 19.92, 19.91, 19.89, 19.87, 19.85, 19.80, 19.76, 19.85, 19.93];
+
+theta=linspace(69.9,70.3,100);
+phi=linspace(-1.3,1.5,1000);
+[Phi,Theta]=meshgrid(phi,theta);
+Var=zeros(size(Phi));
+
+alpha0=angle_y(i_min:i_max);
+for i=1:size(Phi,1)
+    for j=1:size(Phi,2)
+        phi0=Phi(i,j);
+        theta0=Theta(i,j);
+
+        phi=angle_x(i_min:i_max);
+
+        p_c1=sind(theta0).*cosd(phi-phi0);
+        alpha=acosd(p_c1);
+
+        var=sqrt(mean((alpha-alpha0).^2));
+        Var(i,j)=var;
+    end
+end
+var_min=min(min(Var));
+[i,j]=find(Var==var_min);
+phi0=Phi(i,j);
+theta0=Theta(i,j);
+
+phi=linspace(-5,5,100);
+
+p_c1=sind(theta0).*cosd(phi-phi0);
+alpha=acosd(p_c1);
+
+
+subplot(1,2,1)
+% surf(Phi,Theta,Var);
+% shading interp
+contour(Phi,Theta,Var);
+hold on
+plot3(phi0,theta0,var_min,'r*')
+hold off
+xlabel('\phi_0');
+ylabel('\theta_0');
+
+subplot(1,2,2);
+plot(phi,alpha,angle_x,angle_y,'o',angle_x(i_min:i_max),angle_y(i_min:i_max),'r*')
+xlabel('Crystal 2')
+ylabel('\alpha')
+
+
+
+%{
++[M函数](,二维参数空间优化)
+%}
+
+## end
+#46, 16:
+文档\S应用\网页画板.ftxt
+## end
+#47, 2:
+87
+## end
+#50, 1287:
+%{
++[返回目录](,和频光光谱)
++[M函数](,和频光光谱)
+
+完整光谱(M函数):...
+peak位置(数据):...
+计算Gain(M函数):...
+pump输入光谱(M函数):...
++[M函数](,完整光谱)
+
+iFAST::文档\iFAST.txt
++[打开文件](+新窗口,iFAST)
+
+%}
+
+physics_constant;
+addpath('Matlab\TOPAS');
+
+Energy0=20e-3;
+w0=2e-3;
+tau=300e-15;
+dz=8e-3;
+X2=-1e-13;
+
+lambda_0=0.8e-6;
+angle=26.1; 
+
+% E0
+I0=2*Energy0/sqrt(pi)/pi/w0^2/tau;
+E0=sqrt(I0/epsilon_0/c);
+
+% phase match
+k=[sind(angle),0,cosd(angle)];
+lambda_1=linspace(1.2,2.4,100)*1e-6;
+
+dk=zeros(size(lambda_1));
+G=zeros(size(lambda_1));
+
+
+
+%SFG
+lambda_2=1./(1/lambda_0+1./lambda_1);
+
+for i=1:length(lambda_1)
+
+%oee
+[n0,~]=BBO_index(lambda_0,k);
+[~,n1]=BBO_index(lambda_1(i),k);
+[~,n2]=BBO_index(lambda_2(i),k);
+
+dk(i)=2*pi*(n2/lambda_2(i)-n1/lambda_1(i)-n0/lambda_0);
+
+% Gain
+k_0=2*pi*n0/lambda_0;
+k_1=2*pi*n1/lambda_1(i);
+k_2=2*pi*n2/lambda_2(i);
+
+omega_0=2*pi*c/lambda_0;
+omega_1=2*pi*c/lambda_1(i);
+omega_2=2*pi*c/lambda_2(i);
+
+g02=omega_1^2*omega_2^2/k_1/k_2/c^4*X2^2*abs(E0)^2;
+g=sqrt(g02-dk(i)^2);
+A=exp(1i*dk(i)/2*dz)*(cosh(g*dz/2)-1i*dk(i)/g*sinh(1/2*g*dz));
+G(i)=abs(A)^2;
+
+end
+
+figure(1)
+clf
+subplot(1,2,1)
+plot(lambda_2,dk.^2,lambda_2,g02+zeros(size(dk)))
+xlabel('\lambda [um]')
+ylabel('dk')
+subplot(1,2,2)
+plot([lambda_2,lambda_1]/1e-9,[G,G])
+xlabel('\lambda [um]')
+ylabel('G')
+axis([450,600,-1,14])
+
+%{
++[M函数](,和频光光谱)
+%}
+## end
+#52, 2659:
+%{
++[返回目录](,完整光谱)
++[M函数](,完整光谱)
+
+读取峰位置(M函数):...
+读取峰位置1(M函数):...
++[M函数](,读取峰位置1)
+
++[M函数](,完整光谱)
+%}
+
+index1=[-4.591, -4.002, -3.466, -2.984, -2.502, -2.02, -1.484, -1.002, -0.466, 0.016, 0.551, 1.034, 1.516, 1.998, 2.534, 3.016, 3.551;
+  16,    15,    14,    13,    12,    11,    10,     9,     8,     0,     1,     2,     3,     4,     5,     6,     7];
+index2=[3.551,3.016,2.48,1.998,1.462,0.98,0.498,-0.038,-0.52,-1.002,-1.538,-2.02,-2.502,-3.038,-3.52,-4.002,-4.538;
+11,12,13,14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27];
+
+expr='Model Number:(.*)Firmware Version:(.*)Serial Number:(.*)Exposure Time:(.*)Data Taken on:([0-9 /:.]*)(.*)';
+
+%figure(2)
+clf
+for i=1:17
+n1=index1(2,18-i);
+angle1=index1(1,18-i);
+file_name1=sprintf('C:\\Users\\cheng\\Dropbox\\iFAST_log\\resources\\20210405\\TOPAS_1.8\\20210405_scan\\%d.raw',n1);
+data1=readmatrix(file_name1,'FileType','text');
+
+
+n2=index2(2,i);
+angle2=index2(1,i);
+file_name2=sprintf('C:\\Users\\cheng\\Dropbox\\iFAST_log\\resources\\20210405\\TOPAS_800\\%d.xls',n2);
+data=fileread(file_name2);
+tokens=regexp(data,expr,'tokens');
+data2=str2num(tokens{1}{6}); %#ok<ST2NM>
+
+data2(:,2)=data2(:,2)-data2(100,2);
+data2(data2(:,2)<-10,2)=nan;
+
+spectrum_500=data2(data2(:,1)<610,:);
+spectrum_1800=data1;
+
+max_500=max(spectrum_500(:,2));
+max_1800=max(spectrum_1800(:,2));
+
+peak_500=Peak_500(i,:);
+peak_1800=Peak_1800(i,:);
+pump_700=1./(1./peak_500-1./peak_1800);
+
+val_500=interp1(spectrum_500(:,1),spectrum_500(:,2),peak_500);
+val_1800=interp1(spectrum_1800(:,1),spectrum_1800(:,2),peak_1800);
+val_700=interp1(data2(:,1),data2(:,2),pump_700);
+
+subplot(2,2,3);
+plot(spectrum_500(:,1),spectrum_500(:,2)/max_500,peak_500,1,'r*')
+xlabel('\lambda [nm]')
+ylabel('Normalized intensity')
+axis([400,610,0,1.2])
+title(sprintf('crystal 2=%.3f',angle2));
+
+
+subplot(2,2,4);
+plot(spectrum_1800(:,1),spectrum_1800(:,2)/max_1800,peak_1800,1,'r*')
+xlabel('\lambda [nm]')
+ylabel('Normalized intensity')
+axis([1000,2600,0,1.2])
+title(sprintf('crystal 2=%.3f',angle1));
+
+subplot(2,1,1);
+plot(data2(:,1),data2(:,2),data1(:,1),data1(:,2),...
+    data0(:,1),data0(:,2),...
+    [peak_1800(1),peak_1800(1)],[0,val_1800(1)],'r--*',...
+    [peak_1800(2),peak_1800(2)],[0,val_1800(2)],'b--*',...
+    [peak_500(1),peak_500(1)],[0,val_500(1)],'r--*',...
+    [peak_500(2),peak_500(2)],[0,val_500(2)],'b--*',...
+    [pump_700(1),pump_700(1)],[0,val_700(1)],'r--*',...
+    [pump_700(2),pump_700(2)],[0,val_700(2)],'b--*')
+xlabel('\lambda [nm]')
+ylabel('Intensity [a.b.u.]')
+axis([300,2600,-10,2800])
+legend(sprintf('crystal 2=%.2f',angle2),sprintf('crystal 2=%.2f',angle1),'pump input');
+title(num2str(i));
+pause(0.5)
+end
+
+
+%{
++[M函数](,完整光谱)
+%}
+## end
+#54, 523:
++[返回目录](,peak位置)
+
+对应方式1(数据):这个对应关系说的故事是, 可见光波段的是由1.8um的光以及700附近的那个peak泵浦出来的...
+
+
+
+peak_1800::
+1490, 1957
+1533, 1951
+1551, 1963
+1588, nan
+1643, 1901
+1313, 1692
+1490, 1753
+1440, 1845
+1427, 1864
+1376, 1932
+1351, 1976
+1338, 2032
+1281, 2140
+1249, 2184
+1229, 1938, 2235
+1185, 1995
+1313, 1969
+
+
+
+peak_500::
+496.5, 496.5
+498.7, 545
+502.6, 543.7
+505.2, 540.9
+506.1, 522.8
+511.1, 524.9
+497.2, 513.6
+494.6, 518
+440.9, 522.8
+442.6, 524.7
+443.9, 530.1
+447.7, 532.7
+448.5, 536.2
+461.1, 541.8
+446.1, 567.3, 547
+446.8, 553.7
+443.9, 544.8
+
+
+## end
+#56, 470:
+%{
++[返回目录](,读取峰位置)
++[M函数](,读取峰位置)
+%}
+
+Peak_1800=[1490, 1957
+1533, 1951
+1551, 1963
+1588, nan
+1643, 1901
+1313, 1692
+1490, 1753
+1440, 1845
+1427, 1864
+1376, 1932
+1351, 1976
+1338, 2032
+1281, 2140
+1249, 2184
+1229, 1938
+1185, 1995
+1313, 1969];
+
+
+
+Peak_500=[417.3, 496.5
+498.7, 545
+502.6, 543.7
+505.2, 540.9
+506.1, 522.8
+511.1, 524.9
+497.2, 513.6
+494.6, 518
+440.9, 522.8
+442.6, 524.7
+443.9, 530.1
+447.7, 532.7
+448.5, 536.2
+461.1, 541.8
+446.1, 567.3
+446.8, 553.7
+443.9, 544.8];
+
+
+## end
+#59, 533:
++[返回目录](,对应方式1)
+
+这个对应关系说的故事是, 可见光波段的是由1.8um的光以及700附近的那个peak泵浦出来的. 
+但是, 15组和16组的结果不太好解释. 
+
+
+peak_1800::
+1490, 1957
+1951, 1951
+1963, 1963
+1926, 1926
+1901, 1901
+1692, 1692
+1490, 1753
+1440, 1845
+1427, 1864
+1376, 1932
+1351, 1976
+1338, 2032
+1281, 2140
+1249, 2184
+1229, 1938, 2235
+1185, 1995
+1313, 1969
+
+
+
+peak_500::
+496.5, 496.5
+498.7, 545
+502.6, 543.7
+505.2, 540.9
+506.1, 522.8
+511.1, 524.9
+497.2, 513.6
+494.6, 518
+440.9, 522.8
+442.6, 524.7
+443.9, 530.1
+447.7, 532.7
+448.5, 536.2
+461.1, 541.8
+446.1, 567.3, 547
+446.8, 553.7
+443.9, 544.8
+
+
+## end
+#61, 473:
+%{
++[返回目录](,读取峰位置1)
++[M函数](,读取峰位置1)
+%}
+
+Peak_1800=[1490, 1957
+1951, 1951
+1963, 1963
+1926, 1926
+1901, 1901
+1692, 1692
+1490, 1753
+1440, 1845
+1427, 1864
+1376, 1932
+1351, 1976
+1338, 2032
+1281, 2140
+1249, 2184
+1229, 1938
+1185, 1995
+1313, 1969];
+
+
+
+Peak_500=[496.5, 496.5
+498.7, 545
+502.6, 543.7
+505.2, 540.9
+506.1, 522.8
+511.1, 524.9
+497.2, 513.6
+494.6, 518
+440.9, 522.8
+442.6, 524.7
+443.9, 530.1
+447.7, 532.7
+448.5, 536.2
+461.1, 541.8
+446.1, 567.3
+446.8, 553.7
+443.9, 544.8];
+
+
+## end
+#64, 1347:
+%{
++[返回目录](,计算Gain)
++[M函数](,计算Gain)
+
+参考(计算Gain,二维参数空间优化)->+[M函数](,二维参数空间优化)
+获得phi0和theta0. 
+如果phi是当前晶体转动的角度, 那么晶轴和光线夹角为,
+p_c1=sind(theta0).*cosd(phi-phi0);
+alpha=acosd(p_c1);
+
+第二组phi=3.016.
+
+BBO_index::文档\物理问题\TOPAS双光斑问题.ftxt
++[打开文件](+新窗口,BBO_index)
+
+对比的波长是(完整光谱, 第二组, 读取峰位置1), 
+1951
+498.7, 545
+%}
+
+theta0=70.1061;
+phi0=-0.0808;
+addpath('C:\Users\cheng\Dropbox\Struct\Structure1.2\Nini\Matlab\TOPAS');
+
+phi=3.016;
+p_c1=sind(theta0).*cosd(phi-phi0);
+alpha=acosd(p_c1);
+
+%lambda_0=669.9e-9;
+lambda_0=661.8e-9;
+lambda_1=1951e-9;
+lambda_2=498.7e-9;
+% lambda_2=545e-9;
+
+theta=linspace(0,2*pi,200)';
+k=[cos(theta),sin(theta)];
+
+Ellipse0=ones(size(k));
+Ellipse1=ones(size(k));
+Ellipse2=ones(size(k));
+
+for i=1:length(theta)
+%eoe
+[~,n0]=BBO_index(lambda_0,[0,k(i,1),k(i,2)]);
+[n1,~]=BBO_index(lambda_1,[0,k(i,1),k(i,2)]);
+[~,n2]=BBO_index(lambda_2,[0,k(i,1),k(i,2)]);
+%[n2,~]=BBO_index(lambda_2,[0,k(i,1),k(i,2)]);
+
+Ellipse0(i,:)=2*pi*n0/lambda_0*k(i,:);
+Ellipse1(i,:)=2*pi*n1/lambda_1*k(i,:);
+Ellipse2(i,:)=2*pi*n2/lambda_2*k(i,:);
+
+end
+L=2*pi*n0/lambda_0*1.5;
+k0=[L*cos(alpha),L*sin(alpha)];
+
+clf
+plot(Ellipse0(:,1)+Ellipse1(:,1),Ellipse0(:,2)+Ellipse1(:,2),...
+    Ellipse2(:,1),Ellipse2(:,2),...
+    [0,k0(1)],[0,k0(2)])
+title(sprintf('crystal 2=%.3f, \\alpha=%.2f, \\lambda_{pump}=%.1fnm',phi,alpha,lambda_0/1e-9));
+axis equal
+
+
+%{
++[M函数](,计算Gain)
+%}
+## end
+#69, 23:
+文档\物理问题\TOPAS双光斑问题.ftxt
+## end
+#71, 1111:
+%{
++[返回目录](,pump输入光谱)
++[M函数](,pump输入光谱)
+%}
+
+i=2;
+j=3;
+
+index2=[3.551,3.016,2.48,1.998,1.462,0.98,0.498,-0.038,-0.52,-1.002,-1.538,-2.02,-2.502,-3.038,-3.52,-4.002,-4.538;
+11,12,13,14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27];
+
+file_name=sprintf('C:\\Users\\cheng\\Dropbox\\iFAST_log\\resources\\20210330_spectrum\\%d.xls',j);
+data=fileread(file_name);
+expr='Model Number:(.*)Firmware Version:(.*)Serial Number:(.*)Exposure Time:(.*)Data Taken on:([0-9 /:.]*)(.*)';
+tokens=regexp(data,expr,'tokens');
+data0=str2num(tokens{1}{6});
+
+data0(:,2)=data0(:,2)-data0(300,2);
+data0(data0(:,2)<-10,2)=nan;
+
+n2=index2(2,i);
+angle2=index2(1,i);
+file_name2=sprintf('C:\\Users\\cheng\\Dropbox\\iFAST_log\\resources\\20210405\\TOPAS_800\\%d.xls',n2);
+data=fileread(file_name2);
+tokens=regexp(data,expr,'tokens');
+data2=str2num(tokens{1}{6}); %#ok<ST2NM>
+
+data2(:,2)=data2(:,2)-data2(100,2);
+data2(data2(:,2)<-10,2)=nan;
+
+
+
+clf
+plot(data2(:,1),data2(:,2),data0(:,1),data0(:,2));
+xlabel('\lambda [nm]');
+ylabel('Intensity [a.b.u.]');
+axis([600,900,-10,2800])
+
+legend('Pump ouput','Pump input')
+
+%{
++[M函数](,pump输入光谱)
+%}
+## end
+#74, 12:
+文档\iFAST.txt
+## end
+#75, 2:
+83
+## end
+#77, 2:
+79
+## end
+### 结束

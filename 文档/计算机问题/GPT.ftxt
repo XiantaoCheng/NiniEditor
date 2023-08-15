@@ -1,0 +1,44 @@
+### 节点
+地址, 的, GPT, 目录, 的, 的, 节点数目统计, 的, 笔记, 的, 参考, 的, transformer, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 8#12, #, 
+### 内容
+#0, 17:
+文档\计算机问题\GPT.ftxt
+## end
+#2, 48:
++[返回目录](,GPT)
+地址::文档\计算机问题\GPT.ftxt
+
+
+
+笔记:...
+
+
+
+## end
+#3, 47:
+GPT:...
+创建于 20230126
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 193:
+参考::https://arxiv.org/pdf/2005.14165.pdf
+transformer::https://blog.knoldus.com/what-are-transformers-in-nlp-and-its-advantages
++[打开网页](,transformer)
+
+GPT是一个transformer. 架构的话去看transformer的论文
+
+
+
+
+## end
+#10, 36:
+https://arxiv.org/pdf/2005.14165.pdf
+## end
+#12, 72:
+https://blog.knoldus.com/what-are-transformers-in-nlp-and-its-advantages
+## end
+### 结束

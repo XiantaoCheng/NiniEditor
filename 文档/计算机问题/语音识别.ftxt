@@ -1,0 +1,329 @@
+### 节点
+地址, 的, 语音识别, 目录, 的, 的, 节点数目统计, 的, 测试麦克风, 的, 文档, 的, 例子1, 的, 例子2, 的, 参考, 的, 测试google_sr, 的, 例子, 的, 生成语音, 的, 参考, 的, gTTS例子, 的, offline测试, 的, transformer测试, 的, 测试, 的, error参考, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, 2#8, #, 8#10, #, 8#12, #, 8#14, #, 2#16, #, 2#18, #, 18#20, #, 2#22, #, 22#24, #, 22#26, #, 22#28, #, 22#30, #, 30#32, #, 30#34, #, 
+### 内容
+#0, 18:
+文档/计算机问题/语音识别.ftxt
+## end
+#2, 163:
++[返回目录](,语音识别)
+地址::文档/计算机问题/语音识别.ftxt
+
+参考::https://pypi.org/project/SpeechRecognition/
++[打开文件夹]"文档/S应用"
++[打开文件夹]"文档/计算机问题"
+
+
+生成语音:...
+
+测试麦克风:...
+测试google_sr:...
+
+
+
+## end
+#3, 48:
+语音识别:...
+创建于 20230330
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#8, 77:
+
+文档::http://people.csail.mit.edu/hubert/pyaudio/#downloads
+
+例子1:...
+例子2:...
+
+
+## end
+#10, 53:
+http://people.csail.mit.edu/hubert/pyaudio/#downloads
+## end
+#12, 796:
+"""
++[P函数](,例子1)
+
+"""
+import wave
+import sys
+
+import pyaudio
+
+CHUNK = 1024
+
+if len(sys.argv) < 2:
+    print(f'Plays a wave file. Usage: {sys.argv[0]} filename.wav')
+    sys.exit(-1)
+
+with wave.open(sys.argv[1], 'rb') as wf:
+    # Instantiate PyAudio and initialize PortAudio system resources (1)
+    p = pyaudio.PyAudio()
+
+    # Open stream (2)
+    stream = p.open(format=p.get_format_from_width(wf.getsampwidth()),
+                    channels=wf.getnchannels(),
+                    rate=wf.getframerate(),
+                    output=True)
+
+    # Play samples from the wave file (3)
+    while len(data := wf.readframes(CHUNK)):  # Requires Python 3.8+ for :=
+        stream.write(data)
+
+    # Close stream (4)
+    stream.close()
+
+    # Release PortAudio system resources (5)
+    p.terminate()
+
+
+
+## end
+#14, 614:
+"""
++[P函数](,例子2)
+
+"""
+import wave
+import sys
+
+import pyaudio
+
+CHUNK = 1024
+FORMAT = pyaudio.paInt16
+CHANNELS = 1 if sys.platform == 'darwin' else 2
+RATE = 44100
+RECORD_SECONDS = 5
+
+with wave.open('output.wav', 'wb') as wf:
+    p = pyaudio.PyAudio()
+    wf.setnchannels(CHANNELS)
+    wf.setsampwidth(p.get_sample_size(FORMAT))
+    wf.setframerate(RATE)
+
+    stream = p.open(format=FORMAT, channels=CHANNELS, rate=RATE, input=True)
+
+    print('Recording...')
+    for _ in range(0, RATE // CHUNK * RECORD_SECONDS):
+        wf.writeframes(stream.read(CHUNK))
+    print('Done')
+
+    stream.close()
+    p.terminate()
+
+
+
+
+## end
+#16, 43:
+https://pypi.org/project/SpeechRecognition/
+## end
+#18, 12:
+
+
+例子:...
+
+
+
+
+## end
+#20, 214:
+"""
+
+
+"""
+import speech_recognition as sr
+
+r=sr.Recognizer()
+
+test=sr.AudioFile('output.wav')
+with test as test_src:
+    audio = r.record(test_src)
+
+text=r.recognize_google(audio, language="zh")
+print(text)
+
+
+
+
+
+
+
+
+## end
+#22, 133:
+参考::https://www.thepythoncode.com/article/convert-text-to-speech-in-python
++[打开网页](,参考)
+
+gTTS例子:...
+offline测试:...
+transformer测试:...
+
+
+## end
+#24, 70:
+https://www.thepythoncode.com/article/convert-text-to-speech-in-python
+## end
+#26, 333:
+"""
++[P函数](,gTTS例子)
+
+"""
+
+from gtts import gTTS
+import os
+  
+mytext = 'Welcome to geeksforgeeks!'
+mytext = """测试"""
+  
+# Language in which you want to convert
+language = 'en'
+language = 'zh-cn'
+myobj = gTTS(text=mytext, lang=language, slow=False)
+
+myobj.save("test.mp3")
+  
+# Playing the converted file
+os.system("mpg321 test.mp3")
+
+
+## end
+#28, 429:
+"""
++[P函数](,offline测试)
+记住"Python"
+
+"""
+
+import pyttsx3
+engine = pyttsx3.init()
+text = "Python is a great programming language"
+# text=text0_save
+text = "测试"
+
+voices=engine.getProperty("voices")
+
+# for voice in voices:
+#     print(voice)
+
+engine.setProperty("voice",voices[-2].id)
+# engine.say(text)
+# engine.runAndWait()
+
+# print(text)
+engine.save_to_file(text, "./test_off.mp3")
+engine.runAndWait()
+
+
+"""
++[P函数](,offline测试)
+
+"""
+## end
+#30, 2502:
+"""
++[P函数](,transformer测试)
+
+error参考::https://github.com/huggingface/transformers/issues/4336
+测试:...
+
+"""
+from transformers import SpeechT5Processor, SpeechT5ForTextToSpeech, SpeechT5HifiGan
+from datasets import load_dataset
+import torch
+import random
+import string
+import soundfile as sf
+
+device = "cpu"
+device = "cuda" if torch.cuda.is_available() else "cpu"
+
+# load the processor
+processor = SpeechT5Processor.from_pretrained("microsoft/speecht5_tts")
+# load the model
+model = SpeechT5ForTextToSpeech.from_pretrained("microsoft/speecht5_tts").to(device)
+# load the vocoder, that is the voice encoder
+vocoder = SpeechT5HifiGan.from_pretrained("microsoft/speecht5_hifigan").to(device)
+# we load this dataset to get the speaker embeddings
+embeddings_dataset = load_dataset("Matthijs/cmu-arctic-xvectors", split="validation")
+
+# speaker ids from the embeddings dataset
+speakers = {
+    'awb': 0,     # Scottish male
+    'bdl': 1138,  # US male
+    'clb': 2271,  # US female
+    'jmk': 3403,  # Canadian male
+    'ksp': 4535,  # Indian male
+    'rms': 5667,  # US male
+    'slt': 6799   # US female
+}
+
+def save_text_to_speech(text, speaker=None):
+    # preprocess text
+    inputs = processor(text=text, return_tensors="pt").to(device)
+    if speaker is not None:
+        # load xvector containing speaker's voice characteristics from a dataset
+        speaker_embeddings = torch.tensor(embeddings_dataset[speaker]["xvector"]).unsqueeze(0).to(device)
+    else:
+        # random vector, meaning a random voice
+        speaker_embeddings = torch.randn((1, 512)).to(device)
+    # generate speech with the models
+    speech = model.generate_speech(inputs["input_ids"], speaker_embeddings, vocoder=vocoder)
+    if speaker is not None:
+        # if we have a speaker, we use the speaker's ID in the filename
+        output_filename = f"{speaker}-{'-'.join(text.split()[:6])}.mp3"
+    else:
+        # if we don't have a speaker, we use a random string in the filename
+        random_str = ''.join(random.sample(string.ascii_letters+string.digits, k=5))
+        output_filename = f"{random_str}-{'-'.join(text.split()[:6])}.mp3"
+    # save the generated speech to a file with 16KHz sampling rate
+    sf.write(output_filename, speech.cpu().numpy(), samplerate=16000)
+    # return the filename for reference
+    return output_filename
+
+# generate speech with a US female voice
+# save_text_to_speech("Python is my favorite programming language", speaker=speakers["slt"])
+
+
+
+
+"""
+记住"Python"
++[P函数](,transformer测试)
+
+"""
+## end
+#32, 894:
+"""
++[P函数](,测试)
+
+"""
+
+from transformers import SpeechT5Processor, SpeechT5ForTextToSpeech, SpeechT5HifiGan
+from datasets import load_dataset
+import torch
+import soundfile as sf
+from datasets import load_dataset
+
+processor = SpeechT5Processor.from_pretrained("microsoft/speecht5_tts")
+model = SpeechT5ForTextToSpeech.from_pretrained("microsoft/speecht5_tts")
+vocoder = SpeechT5HifiGan.from_pretrained("microsoft/speecht5_hifigan")
+
+inputs = processor(text="Hello, my dog is cute", return_tensors="pt")
+
+# load xvector containing speaker's voice characteristics from a dataset
+embeddings_dataset = load_dataset("Matthijs/cmu-arctic-xvectors", split="validation")
+speaker_embeddings = torch.tensor(embeddings_dataset[7306]["xvector"]).unsqueeze(0)
+
+speech = model.generate_speech(inputs["input_ids"], speaker_embeddings, vocoder=vocoder)
+
+sf.write("speech.wav", speech.numpy(), samplerate=16000)
+
+
+## end
+#34, 55:
+https://github.com/huggingface/transformers/issues/4336
+## end
+### 结束

@@ -1,0 +1,500 @@
+### 节点
+地址, 的, LWFA, 目录, 的, 的, 节点数目统计, 20220908, 的, 的, 参考1, 的, 参考2, 的, 参数空间, 的, 参考1, 的, 参考2, 打开网页, 的, [1]., 的, [2]., 的, [3]., 手, 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [4]., 表达式, 的, 公式, 的, k_p, 的, [5]., 表达式, 的, 公式, 20220911, 的, 的, [6]., 手, 表达式, 的, 公式, 的, 2, 的, 2, 的, 2, 的, [7]., 表达式, 的, 公式, 的, [8]., 括号, 的, 的, 括号, 表达式, 的, 公式, 的, [9]., 的, [10]., 的, [11]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [12]., 的, [13]., 表达式, 的, 公式, 表达式, 的, 公式, 的, 4, 的, 2, 的, [14]., 表达式, 的, 公式, 的, [15]., 的, [16]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [17]., 的, [18]., 表达式, 的, 公式, 的, 推导流程, 表达式, 的, 公式, 的, [19]., 的, [20]., 的, [21]., 表达式, 的, 公式, 表达式, 的, 公式, 表达式, 的, 公式, 的, [22]., 的, [23]., 的, [24]., 表达式, 的, 公式, 表达式, 的, 公式, 的, [25]., 手, 表达式, 的, 公式, 表达式, 的, 公式, 的, 2, 的, 验证公式, M函数, 的, 6, 的, 保存公式, 的, 参数曲线, 的, 
+### 关联
+#, 2#0, #, #, 3#2, 3#6, #, #, 6#7, 2#10, #, 2#12, #, 2#14, #, 14#16, #, 14#18, #, #16, 14#21, #, 14#23, #, 14#25, #, #14, #, 21#27, 21#, #, 23#30, 23#, #, 25#33, 25#, 14#37, #, #, 37#38, 37#, 14#42, #, 14#44, #, #, 44#45, 44#, #, 6#48, 14#51, #, #14, #, 51#53, 51#, 53#57, #, 53#59, #, 53#61, #, 14#63, #, #, 63#64, 63#, 14#68, #, #, 64#69, 64#72, #, #, 68#73, 68#, 14#77, #, 14#79, #, 14#81, #, #, 77#82, 77#, #, 79#85, 79#, #, 81#88, 81#, 14#92, #, 14#94, #, #, 92#95, 92#, #, 94#98, 94#, 98#102, #, 98#104, #, 14#106, #, #, 106#107, 106#, 14#111, #, 14#113, #, #, 111#114, 111#, #, 113#117, 113#, 14#121, #, 14#123, #, #, 121#124, 121#, 14#128, #, #, 123#129, 123#, 14#133, #, 14#135, #, 14#137, #, #, 133#138, 133#, #, 135#141, 135#, #, 137#144, 137#, 14#148, #, 14#150, #, 14#152, #, #, 148#153, 148#, #, 150#156, 150#, 14#160, #, #14, #, 152#162, 152#, #, 160#165, 160#, 165#169, #, 14#171, #, 171#, 88#174, #, 171#176, #, 171#178, #, 45#del, 
+### 内容
+#0, 17:
+文档\物理问题\LWFA.ftxt
+## end
+#2, 269:
++[返回目录](,LWFA)
+地址::文档\物理问题\LWFA.ftxt
+
+
+Nini, 打开激光a0(文件)
+Nini, 打开高斯光束(文件)
+Nini, 激光a0是什么?
+
+参考1::file:///C:/Users/cheng/Desktop/paper/LWFA/WeiLu07,PRST.pdf
+参考2::file:///C:/Users/cheng/Desktop/paper/LWFA/DHFroula09,PRL.pdf
+(参考1有匹配条件, 参考2有自注入条件)
+
+参数空间:...
++[新建阅读窗口](,参数空间)
+
+
+## end
+#3, 48:
+LWFA:...
+创建于 20220908
+
+节点数目统计::
++[设置结构](,节点数目统计)
+## end
+#7, 2:
+54
+## end
+#10, 58:
+file:///C:/Users/cheng/Desktop/paper/LWFA/WeiLu07,PRST.pdf
+## end
+#12, 60:
+file:///C:/Users/cheng/Desktop/paper/LWFA/DHFroula09,PRL.pdf
+## end
+#14, 1188:
+<!--
++[H函数](,参数空间)
+
+参考1::file:///C:/Users/cheng/Desktop/paper/LWFA/WeiLu07,PRST.pdf#page=3
+参考2::file:///C:/Users/cheng/Desktop/paper/LWFA/DHFroula09,PRL.pdf#page=1
+(参考1有匹配条件, 参考2有自注入条件)
+k_p::https://en.wikipedia.org/wiki/Plasma_oscillation
++[打开网页](,参考1)
+-->
+
+The matching condition is,
+%[1].
+The critical power and self-injection condition are,
+%[2].
+%[3].
+The definition of \(a_0\) is,
+%[4].
+The definition of \(\omega_p\) is,
+%[5].
+By using eq.[1] and eq.[4], we can get the relation between \(P\), \(w_0\) and \(k_p\),
+%[6].
+%[7].
+%[8].
+%[9].
+%[10].
+%[11].
+The relation between \(n_e\) and \(k_p\) is,
+%[12].
+%[13].
+Then the matching condition is,
+%[14].
+
+The relativistic condition is,
+%[15].
+Put the eq.[6] into eq.[15], then,
+%[16].
+Put the eq.[11] into eq.[16], then,
+%[17].
+
+Another condition is the minimum waist. The waist of a Gaussian beam is determined by the f-number, which is,
+%[18].
+%[19].
+Then the condition is,
+%[20].
+%[21].
+
+The self injection condition is,
+%[22].
+%[23].
+
+And, we can also write \(a_0\) as a function of \(P\) and \(k_p\),
+%[24].
+%[25].
+
+
+<!--
+[11].:
+式(5)转换为"表达式"
+
+的([11].,表达式)->+[显示星图](,表达式)
+
+验证公式(M函数):...
++[新建阅读窗口](,验证公式)
+推导流程:...
++[H函数](,参数空间)
+-->
+## end
+#16, 65:
+file:///C:/Users/cheng/Desktop/paper/LWFA/WeiLu07,PRST.pdf#page=3
+## end
+#18, 67:
+file:///C:/Users/cheng/Desktop/paper/LWFA/DHFroula09,PRL.pdf#page=1
+## end
+#21, 28:
+k_{p}\ w_{0}=2\ \sqrt{a_{0}}
+## end
+#23, 44:
+P_{cr}=17\ \omega_{0}^{2}/\omega_{p}^{2}\ GW
+## end
+#25, 13:
+P/P_{cr}\ge 4
+## end
+#27, 20:
+k_p*w_0=2*\sqrt{a_0}
+## end
+#30, 32:
+P_cr=17*\omega_0^2/\omega_p^2*GW
+## end
+#33, 9:
+P/P_cr>=4
+## end
+#37, 119:
+a_{0}=\frac{e}{2\ \pi\ m_{e}\ c^{2}}\ \sqrt{\frac{\left(\frac{P}{\pi\ w_{0}^{2}}\right)\ \lambda^{2}}{\epsilon_{0}\ c}}
+## end
+#38, 93:
+a_0=\frac{e}{2*\pi*m_e*c^{2}}*\sqrt{\frac{(\frac{P}{\pi*w_0^{2}})*\lambda^{2}}{\epsilon_0*c}}
+## end
+#42, 48:
+https://en.wikipedia.org/wiki/Plasma_oscillation
+## end
+#44, 58:
+\omega_{p}=\sqrt{\frac{n_{e}\ e^{2}}{m_{e}\ \epsilon_{0}}}
+## end
+#45, 46:
+\omega_p=\sqrt{\frac{n_e*e^2}{m_e*\epsilon_0}}
+## end
+#48, 3:
+263
+## end
+#51, 32:
+a_{0}=k_{p}^{2}/2^{2}\ w_{0}^{2}
+## end
+#53, 25:
+a_0=k_p^{2}/2^{2}*w_0^{2}
+## end
+#57, 1:
+2
+## end
+#59, 1:
+2
+## end
+#61, 1:
+2
+## end
+#63, 109:
+\left(\frac{P}{\pi\ w_{0}^{2}}\right)=k_{p}^{4}\ \left(\epsilon_{0}\ c\right)/\lambda^{2}\ A/2^{4}\ w_{0}^{4}
+## end
+#64, 74:
+(\frac{P}{\pi*w_0^{2}})=k_p^{4}*(\epsilon_0*c)/\lambda^{2}*A/2^{4}*w_0^{4}
+## end
+#68, 49:
+\left(\frac{2\ \pi\ m_{e}\ c^{2}}{e}\right)^{2}=A
+## end
+#73, 29:
+(\frac{2*\pi*m_e*c^2}{e})^2=A
+## end
+#77, 54:
+k_{p}^{4}\ \left(\pi\ w_{0}^{2}\right)\ w_{0}^{4}\ B=P
+## end
+#79, 51:
+\left(\epsilon_{0}\ c\right)/\lambda^{2}\ A/2^{4}=B
+## end
+#81, 27:
+w_{0}^{6}=P/\pi/B/k_{p}^{4}
+## end
+#82, 33:
+k_p^{4}*(\pi*w_0^{2})*w_0^{4}*B=P
+## end
+#85, 32:
+(\epsilon_0*c)/\lambda^2*A/2^4=B
+## end
+#88, 23:
+w_0^{6}=P/\pi/B/k_p^{4}
+## end
+#92, 55:
+k_{p}=\sqrt{\frac{n_{e}\ e^{2}}{m_{e}\ \epsilon_{0}}}/c
+## end
+#94, 73:
+k_{p}^{4}=\left(\frac{n_{e}\ e^{2}}{m_{e}\ \epsilon_{0}}\right)^{2}/c^{4}
+## end
+#95, 45:
+k_p=\sqrt{\frac{n_e*e^{2}}{m_e*\epsilon_0}}/c
+## end
+#98, 52:
+k_p^{4}=(\frac{n_e*e^{2}}{m_e*\epsilon_0})^{2}/c^{4}
+## end
+#102, 1:
+2
+## end
+#104, 1:
+2
+## end
+#106, 82:
+w_{0}^{6}=P/\pi/B/\left(\frac{n_{e}\ e^{2}}{m_{e}\ \epsilon_{0}}\right)^{2}\ c^{4}
+## end
+#107, 60:
+w_0^{6}=P/\pi/B/(\frac{n_e*e^{2}}{m_e*\epsilon_0})^{2}*c^{4}
+## end
+#111, 10:
+a_{0}\ge 1
+## end
+#113, 36:
+w_{0}^{6}\ge 1\times 2^{6}/k_{p}^{6}
+## end
+#114, 6:
+a_0>=1
+## end
+#117, 26:
+w_0^{6}\ge 1*2^{6}/k_p^{6}
+## end
+#121, 35:
+P\ge k_{p}^{-2}\ B\ \pi\times 2^{6}
+## end
+#123, 13:
+N=\frac{f}{D}
+## end
+#124, 25:
+P\ge k_p^{-2}*B*\pi*2^{6}
+## end
+#128, 1012:
+
+将式(1)记作为式(6)
+根据变量"a_0", 整理一下式(6)
+更新式(6)
+将式(6)记作为式(7)
+将式(4)代入到式(7)
+根据变量"P", 整理一下式(7)
+更新式(7)
+将"(\frac{2*\pi*m_e*c^2}{e})^2=A"记作为式(8)
+将式(8)代入到式(7)
+将式(7)记作为式(9)
+将"(\epsilon_0*c)/\lambda^2*A/2^4=B"记作为式(10)
+将式(10)代入到式(9)
+将"k_p^{4}*(\pi*w_0^{2})*w_0^{4}*B=P"记作为式(9)
+将式(9)记作为式(11)
+根据变量"w_0", 整理一下式(11)
+更新式(11)
+
+将"k_p=\omega_p/c"记作为式(12)
+将式(5)代入到式(12)
+将式(12)记作为式(13)
+将"k_p=\sqrt{\sqrt{k_p^4}}"代入到式(13)
+根据变量"k_p", 整理一下式(13)
+更新式(13)
+
+将式(11)记作为式(14)
+将式(13)代入到式(14)
+
+将"a_0>=1"记作为式(15)
+将式(15)记作为式(16)
+将式(6)代入到式(16)
+
+将"w_0^2=(w_0^6)^{1/3}"代入到式(16)
+根据变量"w_0", 整理一下式(16)
+更新式(16)
+
+将式(16)记作为式(17)
+将式(11)代入到式(17)
+根据变量"P", 整理一下式(17)
+更新式(17)
+
+
+将"N=\frac{f}{D}"记作为式(18)
+将"w_0=\frac{2*N*\lambda}{\pi}"记作为式(19)
+
+将"w_0^6>=w_m^6"记作为式(20)
+将式(20)记作为式(21)
+将式(11)代入到式(21)
+根据变量"P", 整理式(21)
+更新式(21)
+
+将"P_cr=P_0*\omega^2/\omega_p^2"记作为式(22)
+将"P>=4*P_cr"记作为式(23)
+将式(22)代入到式(23)
+
+将"\omega_p^2=c^2*k_p^2"代入到式(23)
+
+将式(6)记作为式(24)
+将"a_0=(a_0^3)^{1/3}"代入到式(24)
+根据变量"a_0", 整理一下式(24)
+更新式(24)
+
+将式(24)记作为式(25)
+将式(11)代入到式(25)
+根据变量"a_0", 整理一下式(25)
+更新式(25)
+
+
+
+## end
+#129, 13:
+N=\frac{f}{D}
+## end
+#133, 31:
+w_{0}=\frac{2\ N\ \lambda}{\pi}
+## end
+#135, 22:
+w_{0}^{6}\ge w_{m}^{6}
+## end
+#137, 33:
+P\ge w_{m}^{6}\ k_{p}^{4}\ B\ \pi
+## end
+#138, 27:
+w_0=\frac{2*N*\lambda}{\pi}
+## end
+#141, 12:
+w_0^6>=w_m^6
+## end
+#144, 26:
+P\ge w_m^{6}*k_p^{4}*B*\pi
+## end
+#148, 39:
+P_{cr}=P_{0}\ \omega^{2}/\omega_{p}^{2}
+## end
+#150, 65:
+P\le 4\ P_{0}\ \left(2\ \pi\ c/\lambda\right)^{2}/c^{2}/k_{p}^{2}
+## end
+#152, 36:
+a_{0}^{3}=k_{p}^{6}/2^{6}\ w_{0}^{6}
+## end
+#153, 28:
+P_cr=P_0*\omega^2/\omega_p^2
+## end
+#156, 46:
+P\le 4*P_0*(2*\pi*c/\lambda)^{2}/c^{2}/k_p^{2}
+## end
+#160, 34:
+a_{0}^{3}=k_{p}^{2}/2^{6}\ P/\pi/B
+## end
+#162, 29:
+a_0^{3}=k_p^{6}/2^{6}*w_0^{6}
+## end
+#165, 29:
+a_0^{3}=k_p^{2}/2^{6}*P/\pi/B
+## end
+#169, 1:
+2
+## end
+#171, 1438:
+%{
++[M函数](,验证公式)
+
+保存公式:...
+参数曲线:...
+%}
+
+physics_constant;
+
+lambda=1800e-9;
+N=3;
+P_0=17e9;
+n_e=linspace(1e17,4e19,100)*1e6;
+% n_e=linspace(1e17,1.5e19,5000)*1e6;
+
+A=((2.*pi.*m_e.*c.^(2))./(e)).^(2);
+B=(epsilon_0.*c)./lambda.^(2).*A./2.^(4);
+w_m=(2.*N.*lambda)./(pi)
+
+k_p=sqrt((n_e.*e.^(2))./(m_e.*epsilon_0))./c;
+P1=k_p.^(-2).*B.*pi.*2.^(6);
+P2=w_m.^(6).*k_p.^(4).*B.*pi;
+P3=4.*P_0.*(2.*pi.*c./lambda).^(2)./c.^(2)./k_p.^(2);
+
+
+% 2D distribution
+p=linspace(0,10,101)*1e12;
+[P,N_e]=meshgrid(p,n_e);
+k_p=sqrt((N_e.*e.^(2))./(m_e.*epsilon_0))./c;
+w_0=(P./pi./B./k_p.^(4)).^(1/6)/1e-6;
+a_0=(k_p.^(2)./2.^(6).*P./pi./B).^(1/3);
+
+
+clf
+subplot(1,2,1)
+hold on
+plot(P1/1e12,n_e/1e6,P2/1e12,n_e/1e6,P3/1e12,n_e/1e6,'LineWidth',2);
+contour(P/1e12,N_e/1e6,real(a_0),'showText','on');
+% contour(P/1e12,N_e/1e6,real(w_0),[3,3.5,4,5,7],'showText','on');
+xlabel('P [TW]')
+ylabel('n_e [cm^{-3}]')
+% set(gca,'YScale','log')
+axis([0,10,min(n_e)/1e6,max(n_e)/1e6])
+legend('a_0=1','w_0=w_{min}','P/P_{cr}=4')
+title('a_0 of the driving laser')
+
+subplot(1,2,2)
+hold on
+plot(P1/1e12,n_e/1e6,P2/1e12,n_e/1e6,P3/1e12,n_e/1e6,'LineWidth',2);
+% contour(P/1e12,N_e/1e6,real(a_0),'showText','on');
+contour(P/1e12,N_e/1e6,real(w_0),[3,3.5,4,5,7],'showText','on');
+xlabel('P [TW]')
+ylabel('n_e [cm^{-3}]')
+% set(gca,'YScale','log')
+axis([0,10,min(n_e)/1e6,max(n_e)/1e6])
+legend('a_0=1','w_0=w_{min}','P/P_{cr}=4')
+title('Waist of the driving laser')
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#174, 1:
+6
+## end
+#176, 450:
+%{
++[M函数](,验证公式)
+%}
+
+physics_constant;
+
+lambda=800e-9;
+n_e=1e25;
+N=3;
+P_0=17e9;
+P=1e12;
+
+A=((2.*pi.*m_e.*c.^(2))./(e)).^(2);
+B=(epsilon_0.*c)./lambda.^(2).*A./2.^(4);
+w_m=(2.*N.*lambda)./(pi);
+
+k_p=sqrt((n_e.*e.^(2))./(m_e.*epsilon_0))./c;
+P1=k_p.^(-2).*B.*pi.*2.^(6);
+P2=w_m.^(6).*k_p.^(4).*B.*pi;
+P3=4.*P_0.*(2.*pi.*c./lambda).^(2)./c.^(2)./k_p.^(2);
+
+
+w_0=(P./pi./B./k_p.^(4)).^(1/6);
+a_0=(k_p.^(2)./2.^(6).*P./pi./B)^(1/3);
+
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+#178, 692:
+%{
++[M函数](,验证公式)
+
+保存公式:...
+参数曲线:...
+%}
+
+physics_constant;
+
+lambda=1800e-9;
+N=3;
+P_0=17e9;
+n_e=linspace(1e17,4e19,5000)*1e6;
+% n_e=linspace(1e17,1.5e19,5000)*1e6;
+
+A=((2.*pi.*m_e.*c.^(2))./(e)).^(2);
+B=(epsilon_0.*c)./lambda.^(2).*A./2.^(4);
+w_m=(2.*N.*lambda)./(pi)
+
+k_p=sqrt((n_e.*e.^(2))./(m_e.*epsilon_0))./c;
+P1=k_p.^(-2).*B.*pi.*2.^(6);
+P2=w_m.^(6).*k_p.^(4).*B.*pi;
+P3=4.*P_0.*(2.*pi.*c./lambda).^(2)./c.^(2)./k_p.^(2);
+
+plot(P1/1e12,n_e/1e6,P2/1e12,n_e/1e6,P3/1e12,n_e/1e6)
+% plot(P1/1e12,n_e/1e6,P3/1e12,n_e/1e6)
+xlabel('P [TW]')
+ylabel('n_e [cm^{-3}]')
+% set(gca,'YScale','log')
+axis([0,10,min(n_e)/1e6,max(n_e)/1e6])
+
+legend('a_0=1','w_0=w_{min}','P/P_{cr}=4')
+
+
+%{
++[M函数](,验证公式)
+%}
+## end
+### 结束
